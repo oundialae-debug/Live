@@ -3,7 +3,7 @@
   "descripcion": "A hyper, number-obsessed football nerd who can't sit still. Talks in bursts, repeats the big number, whispers secrets, shouts the punchline.",
   "idioma": "en-US",
   "voz": "en-US-DavisNeural",
-  "palabras_por_segundo": 3.0,
+  "palabras_por_segundo": 1.6,
   "estilos": {
     "normal": "excited",
     "enfasis": "shouting",
@@ -46,7 +46,7 @@
     ]
   },
   "probabilidades": {
-    "interjeccion": 0.45,
+    "interjeccion": 0.35,
     "repetir_enfasis": 0.5,
     "suspense": 0.25,
     "secreto": 0.12
