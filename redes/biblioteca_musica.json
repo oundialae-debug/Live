@@ -1,0 +1,13 @@
+{"flow_id":"Ftqxo4JAh1rF75G1yPf8","nota":"Pide URL fresca con creative_get_flow_run_status(flow_id, session_ids=[session]); generation_id identifica la pista. leading_silence: medido; null = sin medir (usar silenceremove).",
+"pistas":[
+{"id":"boom","estilo":"boom bap hip hop 92bpm","session":"j1aQ4WxUsbwHOruXrzij","generation":"R3KQyxwy2sD9a2XTAX3J","dur":15,"arranca_sonando":true,"usos":["ukr_hun 2026-10-05"]},
+{"id":"rage","estilo":"rage trap 150bpm","session":"HYqck6gAenIwbmOgJs35","generation":"W1vBUHLK8TyzvfQeHQKH","dur":15,"arranca_sonando":true,"usos":["test ita_tur 2026-10-05","daily 2026-10-05"]},
+{"id":"techno","estilo":"dark techno 135bpm","session":"pe90OhI3AxI40V99EGgX","generation":"EN8BL8CQlSv0fWH2vqaf","dur":15,"arranca_sonando":true,"usos":["pol_bih 2026-10-05"]},
+{"id":"mtrap","estilo":"melodic trap 130bpm (suena flojo, -25.7 dB: normalizar)","session":"Y2nCqdVnkiC4sOROgSof","generation":"xMbO4v587ybmASoiv92T","dur":15,"arranca_sonando":true,"usos":[]},
+{"id":"drill","estilo":"UK drill 140bpm (0.6 s de silencio inicial: recortar)","session":"DUktWNlVdlFwmQ6pCQPd","generation":"l3pHhT8vD7J7l6BaWhR3","dur":15,"arranca_sonando":false,"usos":[]},
+{"id":"electro","estilo":"big room electro 128bpm (hueco de 0.5 s en 6 s: evitar)","session":"K9OC5wAej8ePly4VqKmu","generation":"4mRwsNI5bzwkJ0v3IqSp","dur":15,"arranca_sonando":null,"usos":[]},
+{"id":"trapdark","estilo":"dark trap 140bpm (la primera prueba: el usuario dijo que arranca en silencio)","session":"TKafgDBVXSSapcDwOvDA","generation":"S3hUMVuyi2rlY45eYqHo","dur":10,"arranca_sonando":false,"usos":["test ita_tur"]},
+{"id":"phonk","estilo":"phonk cowbell","session":"fBtyM4DQLLcgXdyv0UFk","generation":"N2SPb4HmFDuaTAUvjUN5","dur":10,"arranca_sonando":null,"usos":[]},
+{"id":"anthem","estilo":"himno electro triunfal (post-partido)","session":"9YxDOGKa9Zh1K2hDeGuj","generation":"77uQkuqH3GxtsTZ6GNT0","dur":10,"arranca_sonando":null,"usos":[]},
+{"id":"techhouse","estilo":"tech house 124bpm","session":"aKZ71tX6kDup2IqeFBSN","generation":"xIDpCaqPcsbJXDsajodt","dur":10,"arranca_sonando":null,"usos":[]}
+]}
