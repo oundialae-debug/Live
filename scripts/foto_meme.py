@@ -24,24 +24,34 @@ def wrap(d, t, f, w):
         else: L.append(c); c = x
     return L + [c]
 
-def foot(d, cred):
-    s = ImageFont.truetype(F, 24); d.text((30, H - 48), cred, font=s, fill=(255, 255, 255, 210))
-    a = "@2yellowdata"; d.text((W - 30 - d.textlength(a, font=s), H - 48), a, font=s, fill=AM)
+LOGO = "logo2y.png"  # media/logo2y.png del repo Live (descárgalo junto al script)
+
+def foot(im, d, cred):
+    # Logo ARRIBA-IZQ (en TikTok la franja de abajo la tapan el usuario y la descripción).
+    g = Image.new("RGBA", (W, H), (0, 0, 0, 0)); gd = ImageDraw.Draw(g)
+    for y in range(0, 220): gd.line([(0, y), (W, y)], fill=(0, 0, 0, int(120 * (1 - y / 220))))
+    im.alpha_composite(g)
+    try:
+        lg = Image.open(LOGO).convert("RGBA"); w = 300; lg = lg.resize((w, int(lg.height * w / lg.width)))
+        im.alpha_composite(lg, (36, 36))
+    except Exception: pass
+    s = ImageFont.truetype(F, 20); d = ImageDraw.Draw(im)
+    d.text((W - 30 - d.textlength(cred, font=s), 44), cred, font=s, fill=(255, 255, 255, 200))  # crédito arriba-dcha
 
 def carta(p):
     im = base(p["foto"], p.get("y0", 0)); d = ImageDraw.Draw(im)
     if p.get("kind", "meme") == "meme":
-        f = ImageFont.truetype(F, 68); L = wrap(d, p["text"], f, W - 140); y = H - 120 - len(L) * 86
+        f = ImageFont.truetype(F, 68); L = wrap(d, p["text"], f, W - 140); y = H - 260 - len(L) * 86  # por encima de la zona que tapa TikTok
         for l in L:
             d.text(((W - d.textlength(l, font=f)) / 2, y), l, font=f, fill="white", stroke_width=6, stroke_fill="black"); y += 86
     else:  # fact: "DID YOU KNOW" + número grande + frase + sub (SIN fuente ni web)
-        d.text((70, 560), p.get("kicker", "DID YOU KNOW"), font=ImageFont.truetype(F, 34), fill=AM)
-        d.text((70, 590), p["big"], font=ImageFont.truetype(F, 230), fill=AM)
-        f = ImageFont.truetype(F, 52); y = 860
+        d.text((70, 490), p.get("kicker", "DID YOU KNOW"), font=ImageFont.truetype(F, 34), fill=AM)
+        d.text((70, 520), p["big"], font=ImageFont.truetype(F, 230), fill=AM)
+        f = ImageFont.truetype(F, 52); y = 790
         for l in wrap(d, p["text"], f, W - 140):
             d.text((70, y), l, font=f, fill="white", stroke_width=4, stroke_fill="black"); y += 64
         if p.get("sub"):
             d.text((70, y + 14), p["sub"], font=ImageFont.truetype(F, 34), fill=(200, 205, 215, 255))
-    foot(d, p["cred"]); im.convert("RGB").save(p["out"], quality=88)
+    foot(im, d, p["cred"]); im.convert("RGB").save(p["out"], quality=88)
 
 for p in json.load(open(sys.argv[1])): carta(p)
