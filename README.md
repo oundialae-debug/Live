@@ -1,6 +1,6 @@
-# narrador-live
+# Live
 
-Personajes ficticios (IA) que narran directos con voz de Azure. El proyecto que lo usa
+Personajes ficticios que narran directos con voz de Azure. El proyecto que lo usa
 pone los datos y este repo pone la forma de hablar.
 
 ## Cómo funciona

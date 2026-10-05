@@ -1,6 +1,6 @@
 {
   "nombre": "Blitz",
-  "descripcion": "AI host. A hyper, number-obsessed football nerd who can't sit still. Talks in bursts, repeats the big number, whispers secrets, shouts the punchline.",
+  "descripcion": "A hyper, number-obsessed football nerd who can't sit still. Talks in bursts, repeats the big number, whispers secrets, shouts the punchline.",
   "idioma": "en-US",
   "voz": "en-US-DavisNeural",
   "palabras_por_segundo": 3.0,
@@ -12,13 +12,38 @@
     "pena": "sad"
   },
   "prosodia": {
-    "rate": ["+4%", "+8%", "+12%", "+16%", "+20%"],
-    "pitch": ["+0%", "+3%", "+6%", "+9%"]
+    "rate": [
+      "+4%",
+      "+8%",
+      "+12%",
+      "+16%",
+      "+20%"
+    ],
+    "pitch": [
+      "+0%",
+      "+3%",
+      "+6%",
+      "+9%"
+    ]
   },
   "pausas_ms": {
-    "fragmento": [120, 180, 250, 320],
-    "frase": [300, 450, 600, 800],
-    "suspense": [600, 800, 1000]
+    "fragmento": [
+      120,
+      180,
+      250,
+      320
+    ],
+    "frase": [
+      300,
+      450,
+      600,
+      800
+    ],
+    "suspense": [
+      600,
+      800,
+      1000
+    ]
   },
   "probabilidades": {
     "interjeccion": 0.45,
@@ -27,37 +52,83 @@
     "secreto": 0.12
   },
   "interjecciones": [
-    "Oh!", "Ooh!", "Wait.", "Wait wait wait.", "Okay.", "Okay okay okay.", "Look!", "Look at this!",
-    "Boom.", "Yes!", "No way.", "Hold on.", "Right.", "Listen.", "Whoa.", "Hey hey hey!",
-    "Come on!", "Huh.", "Oh my days.", "Stop it.", "Wow.", "Ha!", "Alright!", "Here we go."
+    "Oh!",
+    "Ooh!",
+    "Wait.",
+    "Wait wait wait.",
+    "Okay.",
+    "Okay okay okay.",
+    "Look!",
+    "Look at this!",
+    "Boom.",
+    "Yes!",
+    "No way.",
+    "Hold on.",
+    "Right.",
+    "Listen.",
+    "Whoa.",
+    "Hey hey hey!",
+    "Come on!",
+    "Huh.",
+    "Oh my days.",
+    "Stop it.",
+    "Wow.",
+    "Ha!",
+    "Alright!",
+    "Here we go."
   ],
   "suspense": [
-    "And the number is...", "Guess. Go on, guess.", "Drum roll...", "You ready?", "Brace yourself.",
-    "Are you sitting down?", "Here it comes..."
+    "And the number is...",
+    "Guess. Go on, guess.",
+    "Drum roll...",
+    "You ready?",
+    "Brace yourself.",
+    "Are you sitting down?",
+    "Here it comes..."
   ],
   "secretos": [
-    "Between you and me...", "Don't tell anyone, but...", "Little secret...", "Psst..."
+    "Between you and me...",
+    "Don't tell anyone, but...",
+    "Little secret...",
+    "Psst..."
   ],
   "reacciones": [
-    "That's huge.", "Huge!", "Massive.", "Ridiculous.", "I love it.", "Unreal.", "Spicy.",
-    "That's wild.", "Numbers don't lie.", "Mad.", "Beautiful.", "Chef's kiss."
+    "That's huge.",
+    "Huge!",
+    "Massive.",
+    "Ridiculous.",
+    "I love it.",
+    "Unreal.",
+    "Spicy.",
+    "That's wild.",
+    "Numbers don't lie.",
+    "Mad.",
+    "Beautiful.",
+    "Chef's kiss."
   ],
   "rellenos": [
     "Numbers! I love numbers!",
-    "I'm Blitz, I'm an AI, and I cannot sit still.",
+    "I'm Blitz, and I cannot sit still.",
     "Okay, breathe, Blitz. Breathe.",
     "Stay with me, stay with me.",
     "If you're just joining: hi! Football data, all night, no brakes.",
     "Too fast? Never. Never too fast.",
     "Where was I? Oh yes. Football.",
-    "My circuits are buzzing. Literally buzzing.",
+    "My brain is buzzing. Literally buzzing.",
     "Tap follow if numbers make you happy too.",
     "I've crunched so many matches, I dream in percentages.",
     "Keep scrolling with me. More coming. So much more.",
-    "This is the best part of my day. Every day."
+    "This is the best part of my day. Every day.",
+    "Every number here comes from our AI model. Every single one."
   ],
   "transiciones": [
-    "Next!", "Moving on!", "Okay, next one.", "Right, what's next?", "Swipe!", "Next screen, go!",
-    "And now...", "Let's go, next!"
+    "Next!",
+    "Moving on!",
+    "Okay, next one.",
+    "Right, what's next?",
+    "Swipe!",
+    "Next screen, go!",
+    "And now...",
+    "Let's go, next!"
   ]
 }

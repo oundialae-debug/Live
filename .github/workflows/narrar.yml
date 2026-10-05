@@ -1,6 +1,6 @@
 name: Narrar escenas (guion + voz de Azure)
 
-# Reutilizable: otro repo lo llama con `uses: oundialae-debug/narrador-live/.github/workflows/narrar.yml@main`
+# Reutilizable: otro repo lo llama con `uses: oundialae-debug/Live/.github/workflows/narrar.yml@main`
 # o se lanza a mano con la URL pública de un escenas.json. Deja guion.json y los
 # mp3 en un artefacto llamado "narracion".
 on:
@@ -33,7 +33,7 @@ jobs:
     steps:
       - uses: actions/checkout@v4
         with:
-          repository: oundialae-debug/narrador-live
+          repository: oundialae-debug/Live
           path: narrador-live
       - uses: actions/setup-python@v5
         with:
