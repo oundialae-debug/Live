@@ -7,3 +7,8 @@
 - Formatos que repiten: (1) "POV/my rating" meme del rating (1.1M, 997K); (2) clip de jugador + 3-6 palabras en minúscula con bucle abierto ("when you realize" 6.6M, "define" 870K, "did you know" 433K, "life is about" 977K, "expectations" 450K); (3) estadística sorprendente con narrativa, no solo dato (France 14-0 Gibraltar 403K, "last time Arsenal beat Liverpool at Anfield" 1.2M, "Ajax in 2019" 806K); (4) mini-reacción de un jugador con una línea ("He's the goat" 450K); (5) comparaciones Haaland/Van Dijk (1.1M).
 - Insight: texto muy corto en el primer frame, 1 idea, sin logo; repiten el mismo formato decenas de veces.
 - Ideas a probar con el bandido (variable nueva `gancho`): stat_sorpresa (frase corta tipo "last time X beat Y at Z") vs pregunta vs slideshow actual; primera carta con 4-6 palabras. Cuidado: fotos de jugadores = derechos; usar camisetas/colores propios.
+
+## Fuentes públicas (05/10/2026)
+- Fanpage Karma (marcas, no solo fútbol): carrusel vs vídeo. Instagram: alcance +13%, engagement x1,5 (+51% interacciones) a favor del carrusel. TikTok: alcance +3% (igual), engagement +81% y likes +82% del carrusel, pero shares ~1/3 menos. => añadir variable `formato` (carrusel/vídeo) al bandido.
+- Forbes (FotMob): su explosión en TikTok fue orgánica, ligada al Mundial 2022 y a usuarios compartiendo la app; no hay estrategia de contenido documentada. => los picos llegan con grandes torneos/eventos.
+- OneFootball: contenido vertical deslizable tipo stories funciona sin instrucciones.
