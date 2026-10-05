@@ -27,16 +27,16 @@ def wrap(d, t, f, w):
 LOGO = "logo2y.png"  # media/logo2y.png del repo Live (descárgalo junto al script)
 
 def foot(im, d, cred):
-    # Logo ARRIBA-IZQ (en TikTok la franja de abajo la tapan el usuario y la descripción).
+    # ZONA SEGURA y 150-1200 (IG recorta a cuadrado; TikTok tapa la franja de abajo). Logo ARRIBA-IZQ (en TikTok la franja de abajo la tapan el usuario y la descripción).
     g = Image.new("RGBA", (W, H), (0, 0, 0, 0)); gd = ImageDraw.Draw(g)
-    for y in range(0, 220): gd.line([(0, y), (W, y)], fill=(0, 0, 0, int(120 * (1 - y / 220))))
+    for y in range(0, 360): gd.line([(0, y), (W, y)], fill=(0, 0, 0, int(120 * (1 - y / 360))))
     im.alpha_composite(g)
     try:
         lg = Image.open(LOGO).convert("RGBA"); w = 300; lg = lg.resize((w, int(lg.height * w / lg.width)))
-        im.alpha_composite(lg, (36, 36))
+        im.alpha_composite(lg, (40, 160))  # y>=150: Instagram recorta ~135 px arriba y abajo (cuadrado)
     except Exception: pass
     s = ImageFont.truetype(F, 20); d = ImageDraw.Draw(im)
-    d.text((W - 30 - d.textlength(cred, font=s), 44), cred, font=s, fill=(255, 255, 255, 200))  # crédito arriba-dcha
+    d.text((W - 30 - d.textlength(cred, font=s), 170), cred, font=s, fill=(255, 255, 255, 200))  # crédito arriba-dcha
 
 def carta(p):
     im = base(p["foto"], p.get("y0", 0)); d = ImageDraw.Draw(im)

@@ -11,3 +11,4 @@ Yo hago los memes. Tras cada revisión, anota aquí qué funcionó/falló y qué
 - 05/10: usuario decide probar memes/curiosos SIN música unos días (Buffer no permite música en fotos). Tras ~1 semana, comparar con vídeos con música (imagen 7 s + pista) y proponer al usuario.
 - 05/10 plan B (usuario): si tras 2-3 días los memes/curiosos sin música no arrancan, pasar a: la tarea genera las imágenes y las deja en BORRADOR en Buffer (saveToDraft) + avisa al usuario con las URLs; él las publica a mano en la app eligiendo música (mantiene formato imagen/carrusel). Proponérselo con los datos, no cambiarlo solo.
 - 05/10: APLICADO: memes/curiosos en modo recordatorio de Buffer (schedulingType notification); el usuario los publica a mano con música de la app. Probado OK con Kane TikTok.
+- 05/10: IG muestra las imágenes recortadas (casi cuadrado): todo lo importante entre y=150 y y=1200 (de 1350). Logo a y=160.
