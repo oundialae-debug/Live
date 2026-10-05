@@ -1,9 +1,9 @@
-fecha,tipo,partido,red,buffer_id,programado_madrid,musica,plantillas,views,likes,comentarios,shares,guardados,seguidores_nuevos,notas
-2026-10-05,test_imagen,Italy-Turkey,instagram,6ac3ca2d887446fa05fa6806,2026-10-05T18:08,ninguna,pre1_prediction,,,,,,,imagen suelta sin música
-2026-10-05,test_imagen,Italy-Turkey,tiktok,6ac3ca3872f57e3e1947f0aa,2026-10-05T18:08,ninguna,pre1_prediction,,,,,,,imagen suelta sin música
-2026-10-05,diario,pronosticos ayer+hoy,instagram,6ac3d4e55162d360af9d5bdb,2026-10-05T19:10,rage,post5+picks_hoy,,,,,,,
-2026-10-05,diario,pronosticos ayer+hoy,tiktok,6ac3d4e700f193294b784a25,2026-10-05T19:10,rage,post5+picks_hoy,,,,,,,
-2026-10-05,previo,Ukraine-Hungary,instagram,6ac3d49c00f193294b78405c,2026-10-05T19:25,boom,pre2-3-4-5-1-6,,,,,,,
-2026-10-05,previo,Ukraine-Hungary,tiktok,6ac3d49f5162d360af9d5408,2026-10-05T19:25,boom,pre2-3-4-5-1-6,,,,,,,
-2026-10-05,previo,Bosnia-Poland,instagram,6ac3d4a28c74e278c8f2c096,2026-10-05T19:50,techno,pre2-3-4-5-1-6,,,,,,,
-2026-10-05,previo,Bosnia-Poland,tiktok,6ac3d4a491c77f0a466a7d71,2026-10-05T19:50,techno,pre2-3-4-5-1-6,,,,,,,
+fecha,tipo,partido,red,buffer_id,programado_madrid,musica,plantillas,views,likes,comentarios,shares,guardados,seguidores_nuevos,notas,variante
+2026-10-05,test_imagen,Italy-Turkey,instagram,6ac3ca2d887446fa05fa6806,2026-10-05T18:08,ninguna,pre1_prediction,,,,,,,imagen suelta sin música,
+2026-10-05,test_imagen,Italy-Turkey,tiktok,6ac3ca3872f57e3e1947f0aa,2026-10-05T18:08,ninguna,pre1_prediction,,,,,,,imagen suelta sin música,
+2026-10-05,diario,pronosticos ayer+hoy,instagram,6ac3d4e55162d360af9d5bdb,2026-10-05T19:10,rage,post5+picks_hoy,,,,,,,,
+2026-10-05,diario,pronosticos ayer+hoy,tiktok,6ac3d4e700f193294b784a25,2026-10-05T19:10,rage,post5+picks_hoy,,,,,,,,
+2026-10-05,previo,Ukraine-Hungary,instagram,6ac3d49c00f193294b78405c,2026-10-05T19:25,boom,pre2-3-4-5-1-6,,,,,,,,
+2026-10-05,previo,Ukraine-Hungary,tiktok,6ac3d49f5162d360af9d5408,2026-10-05T19:25,boom,pre2-3-4-5-1-6,,,,,,,,
+2026-10-05,previo,Bosnia-Poland,instagram,6ac3d4a28c74e278c8f2c096,2026-10-05T19:50,techno,pre2-3-4-5-1-6,,,,,,,,
+2026-10-05,previo,Bosnia-Poland,tiktok,6ac3d4a491c77f0a466a7d71,2026-10-05T19:50,techno,pre2-3-4-5-1-6,,,,,,,,

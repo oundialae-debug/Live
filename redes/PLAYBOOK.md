@@ -31,3 +31,9 @@ Usuario: quiere respuestas MUY breves. Permiso permanente: se puede usar la API 
 - Hoy 05/10: Buffer ya publicó test; los posts tardan ~5 min en pasar de "sending" a "sent".
 - Los previos nunca a <20 min del saque ni tras el final.
 - Último 30 días antes de empezar: 11 posts, 2.303 views, 0,53 % engagement, 0 shares → pedir interacción (pregunta final) y gancho con dato en el primer segundo.
+
+## MODELO DE APRENDIZAJE (obligatorio desde 2026-10-05)
+- ANTES de montar cada vídeo: `python3 scripts/aprender.py elegir pre|post|daily` → JSON con la variante (primera carta, segundos por carta `seg`, música `arranque` s0/s1 → `audio_delay` 0/1 en el pedido, `hook` de la descripción: dato/pregunta/reto, antelación `ante` en h, pista `musica`). Úsala tal cual (explora al principio, luego explota lo que mejor rinde). Si no puedes ejecutarlo, elige al azar entre opciones poco probadas.
+- Primera carta: pred=pre1, upset=pre2, key=pre5, goals=pre3; el resto va detrás en el orden habitual y pre6 (lista) siempre última. Post y daily: ignora `primera`.
+- Guarda la cadena `variante` en la columna `variante` de `publicaciones.csv` (una fila por red).
+- Con métricas (>24 h): rellena columnas y ejecuta `python3 scripts/aprender.py aprender` (actualiza `redes/modelo_estado.json`, imprime medias por opción). Los domingos copia ese informe a `aprendizajes.md`. Cada ~2 semanas añade variables nuevas en `BRAZOS` si ves algo que probar (sticker, texto de portada, duración…).

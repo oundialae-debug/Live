@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """Monta un vídeo 1080x1920 con imágenes + música a partir de pedidos/<id>.json.
 Pedido: {"id":"ukr_hun_2026-10-06","images":["media/a.jpg",...],"seconds":2.3,
-         "audio":"musica/boom.mp3","out":"videos/ukr_hun_2026-10-06.mp4","fade":0.5}
+         "audio":"musica/boom.mp3","out":"videos/ukr_hun_2026-10-06.mp4","fade":0.5,"audio_delay":0}
 La duración sale de nº imágenes x seconds. Quita el silencio inicial de la pista y normaliza si suena flojo."""
 import json, re, subprocess, sys
 from pathlib import Path
@@ -18,6 +18,9 @@ def main(p):
     m = re.search(r"mean_volume: (-?[\d.]+) dB", vol)
     flojo = bool(m) and float(m.group(1)) < -20
     af = "silenceremove=start_periods=1:start_threshold=-40dB:start_silence=0.05," + ("loudnorm=I=-14:TP=-1.5," if flojo else "")
+    dl = int(float(o.get("audio_delay", 0)) * 1000)  # 0 = suena desde el segundo 0; 1 = desde el 1
+    if dl:
+        af += f"adelay={dl}|{dl},"
     af += f"atrim=0:{dur},afade=t=out:st={max(dur - fade, 0)}:d={fade}"
     cmd = ["ffmpeg", "-v", "error", "-y"]
     for i in imgs:
