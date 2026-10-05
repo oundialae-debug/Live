@@ -1,0 +1,56 @@
+name: Narrar escenas (guion + voz de Azure)
+
+# Reutilizable: otro repo lo llama con `uses: oundialae-debug/Live/.github/workflows/narrar.yml@main`
+# o se lanza a mano con la URL pública de un escenas.json. Deja guion.json y los
+# mp3 en un artefacto llamado "narracion".
+on:
+  workflow_dispatch:
+    inputs:
+      escenas_url:
+        description: "URL pública del escenas.json"
+        type: string
+        required: true
+      personaje:
+        description: "Personaje (personajes/<nombre>.json)"
+        type: string
+        default: blitz
+      semilla:
+        description: "Semilla (otra semilla = otro guion con los mismos datos)"
+        type: string
+        default: "7"
+  workflow_call:
+    inputs:
+      escenas_url: { type: string, required: true }
+      personaje: { type: string, default: blitz }
+      semilla: { type: string, default: "7" }
+    secrets:
+      AZURE_SPEECH_KEY: { required: true }
+      AZURE_SPEECH_REGION: { required: true }
+
+jobs:
+  narrar:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          repository: oundialae-debug/Live
+          path: narrador-live
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - run: pip install requests
+      - name: Guion y voz
+        working-directory: narrador-live
+        env:
+          AZURE_SPEECH_KEY: ${{ secrets.AZURE_SPEECH_KEY }}
+          AZURE_SPEECH_REGION: ${{ secrets.AZURE_SPEECH_REGION }}
+        run: |
+          mkdir -p ../narracion/audio
+          curl -fsSL "${{ inputs.escenas_url }}" -o ../narracion/escenas.json
+          python3 narrador/guion.py ../narracion/escenas.json --personaje "personajes/${{ inputs.personaje }}.json" \
+            --semilla "${{ inputs.semilla }}" --salida ../narracion/guion.json
+          python3 narrador/voz.py ../narracion/guion.json --carpeta ../narracion/audio
+      - uses: actions/upload-artifact@v4
+        with:
+          name: narracion
+          path: narracion/

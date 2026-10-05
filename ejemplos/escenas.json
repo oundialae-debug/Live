@@ -1,0 +1,177 @@
+{
+ "titulo": "Nations League live data",
+ "generado": "2026-10-05T14:38+00:00",
+ "datos_hasta": "2026-10-05T13:54",
+ "escenas": [
+  {
+   "tipo": "intro",
+   "objetivo_s": 35,
+   "abre": true,
+   "frases": [
+    "Hey hey hey! Welcome in! I'm *Blitz*, your AI football data host.",
+    "Nations League week. *18 matches* coming up, and I've got numbers on every single one.",
+    "86 games already played. *213 goals*. Let's go!"
+   ],
+   "datos": {
+    "jugados": 86,
+    "goles": 213,
+    "proximos": 18
+   },
+   "id": "s00"
+  },
+  {
+   "tipo": "agenda",
+   "objetivo_s": 45,
+   "frases": [
+    "Monday: *8 matches*.",
+    "Cyprus against Latvia, 17:00.",
+    "Bosnia and Herzegovina against Poland, 19:45.",
+    "France against Belgium, 19:45.",
+    "Italy against Turkey, 19:45.",
+    "Montenegro against Armenia, 19:45.",
+    "Northern Ireland against Georgia, 19:45.",
+    "Romania against Sweden, 19:45.",
+    "Ukraine against Hungary, 19:45."
+   ],
+   "datos": {
+    "dia": "Monday",
+    "partidos": [
+     {
+      "local": "Cyprus",
+      "visitante": "Latvia",
+      "cod_l": "CYP",
+      "cod_v": "LVA",
+      "hora_uk": "17:00",
+      "p1": 61,
+      "px": 25,
+      "p2": 15
+     },
+     {
+      "local": "Bosnia and Herzegovina",
+      "visitante": "Poland",
+      "cod_l": "BIH",
+      "cod_v": "POL",
+      "hora_uk": "19:45",
+      "p1": 33,
+      "px": 28,
+      "p2": 40
+     },
+     {
+      "local": "France",
+      "visitante": "Belgium",
+      "cod_l": "FRA",
+      "cod_v": "BEL",
+      "hora_uk": "19:45",
+      "p1": 64,
+      "px": 20,
+      "p2": 15
+     },
+     {
+      "local": "Italy",
+      "visitante": "Turkey",
+      "cod_l": "ITA",
+      "cod_v": "TUR",
+      "hora_uk": "19:45",
+      "p1": 69,
+      "px": 19,
+      "p2": 13
+     },
+     {
+      "local": "Montenegro",
+      "visitante": "Armenia",
+      "cod_l": "MNE",
+      "cod_v": "ARM",
+      "hora_uk": "19:45",
+      "p1": 63,
+      "px": 21,
+      "p2": 15
+     },
+     {
+      "local": "Northern Ireland",
+      "visitante": "Georgia",
+      "cod_l": "NIR",
+      "cod_v": "GEO",
+      "hora_uk": "19:45",
+      "p1": 39,
+      "px": 32,
+      "p2": 29
+     },
+     {
+      "local": "Romania",
+      "visitante": "Sweden",
+      "cod_l": "ROU",
+      "cod_v": "SWE",
+      "hora_uk": "19:45",
+      "p1": 22,
+      "px": 24,
+      "p2": 55
+     },
+     {
+      "local": "Ukraine",
+      "visitante": "Hungary",
+      "cod_l": "UKR",
+      "cod_v": "HUN",
+      "hora_uk": "19:45",
+      "p1": 36,
+      "px": 31,
+      "p2": 33
+     }
+    ]
+   },
+   "id": "s01",
+   "abre": false
+  },
+  {
+   "id": "s02",
+   "tipo": "partido",
+   "objetivo_s": 72,
+   "abre": false,
+   "frases": [
+    "Cyprus against Latvia! Monday, 17:00 UK time.",
+    "Cyprus win this *61 percent* of the time.",
+    "The draw: 25 percent. Latvia: 15 percent.",
+    "Expected goals: 1.3 for Cyprus, 0.8 for Latvia.",
+    "Single most likely score: *one-nil*.",
+    "Three goals or more? 45 percent.",
+    "Both teams scoring: 44 percent.",
+    "About 10 corners and 4 yellow cards expected.",
+    "Cyprus so far: 1 win from 3, 3 scored, 2 conceded.",
+    "Latvia so far: 0 wins from 3, 1 scored, 4 conceded.",
+    "Watch L. Loizou: player rating *7.0*.",
+    "Watch A. Cigaņiks: player rating *6.9*.",
+    "FIFA ranking: Cyprus number 124, Latvia number 137."
+   ],
+   "datos": {
+    "local": "Cyprus",
+    "visitante": "Latvia",
+    "cod_l": "CYP",
+    "cod_v": "LVA",
+    "rk_l": 124,
+    "rk_v": 137,
+    "dia": "Monday",
+    "hora_uk": "17:00",
+    "liga": "League C",
+    "p1": 61,
+    "px": 25,
+    "p2": 15,
+    "xg_l": 1.25,
+    "xg_v": 0.84,
+    "marcador": "1-0",
+    "mas25": 45,
+    "btts": 44,
+    "corners": 10.3,
+    "tarjetas": 3.8,
+    "forma_l": "LDW",
+    "forma_v": "LDL",
+    "estrella_l": [
+     "L. Loizou",
+     6.97
+    ],
+    "estrella_v": [
+     "A. Cigaņiks",
+     6.88
+    ]
+   }
+  }
+ ]
+}
