@@ -13,3 +13,7 @@ fecha,tipo,partido,red,buffer_id,programado_madrid,musica,plantillas,views,likes
 2026-10-05,meme,Mbappe club managers intl break,tiktok,6ac3fd366b8e5c84387a8d4e,2026-10-05T22:15,,1 imagen,,,,,,,,hook=dato;cartas=1;hora=21
 2026-10-05,curioso,Kane 3 años 10+ goles,instagram,6ac3fd31074b17ad81946d60,2026-10-05T22:45,,1 imagen,,,,,,,,hook=dato;cartas=1;hora=21
 2026-10-05,curioso,Kane 3 años 10+ goles,tiktok,6ac3fd39856ee39e9937f278,2026-10-05T22:45,,1 imagen,,,,,,,,hook=dato;cartas=1;hora=21
+2026-10-05,post,France-Belgium,instagram,6ac4181b5b14a019116b9aa7,2026-10-05T23:35,anthem,post2-1-4-5-6,,,,,,,retraso: GitHub colgado 15 min,seg=2.8;arranque=s1;hook=dato;musica=anthem
+2026-10-05,post,France-Belgium,tiktok,6ac418258a7578ba6c17d6c7,2026-10-05T23:35,anthem,post2-1-4-5-6,,,,,,,,seg=2.8;arranque=s1;hook=dato;musica=anthem
+2026-10-05,post,Italy-Turkey,instagram,6ac418305b14a019116b9d1e,2026-10-05T23:35,hh05,post2-1-4-5-6,,,,,,,,seg=1.8;arranque=s0;hook=pregunta;musica=hh05
+2026-10-05,post,Italy-Turkey,tiktok,6ac4183b5b14a019116b9e12,2026-10-05T23:35,hh05,post2-1-4-5-6,,,,,,,,seg=1.8;arranque=s0;hook=pregunta;musica=hh05
