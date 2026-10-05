@@ -10,7 +10,11 @@ Usuario: quiere respuestas MUY breves. Permiso permanente: se puede usar la API 
 3. PREVIO (por partido): generar con `python3 redes/plantillas/datos_selecciones.py pre <equipo> <fecha>` desde la raíz del repo (rama ccr-54cb5efb-9ua0d7; datos del disco; si faltan, API Highlightly o fuentes externas). Salen 6 PNG (pre1..pre6) en `redes/plantillas/salida/<fecha>_<local>_<visitante>/`.
    Publicar en la MEJOR hora del país de la liga, como mínimo 4 h antes del saque y nunca a menos de 20 min del saque. Usar `customScheduled` en Buffer (dueAt con offset; Buffer tarda ~5 min extra).
 4. VÍDEO DEL DÍA: 2 tarjetas: ayer (`weekend_record`/post5) + hoy (`perfil_picks_hoy`; filtro cuota media ≥1.4, lo que más acierta el modelo). Publicar por la mañana (~09:30 Madrid).
-5. POST-PARTIDO: al crear cada previo, crea una tarea puntual (`send_later`/create_trigger run_once) para saque+2h25 min (fin+30 min). Al ejecutarse: comprobar que acabó, actualizar datos, `datos_selecciones.py post <equipo> <fecha>` (5 PNG post1..post5), vídeo, `shareNow` en ambas redes.
+5. POST-PARTIDO: al crear cada previo, crea una tarea puntual (`send_later`/create_trigger run_once) para saque+2h00 (pitido final aprox.), NO +2h25: así hay 25 min de margen y se publica ~fin+30. Al ejecutarse: comprobar que acabó; lanzar ya `nations_league_ciclo.yml` (workflow_dispatch, tope 400; permiso del usuario para esta tarea) para traer resultado y estadísticas; `datos_selecciones.py post <equipo> <fecha>` (post1,2,4,5,6); vídeo; `shareNow` en ambas redes.
+   ANTI-RETRASO (05/10 GitHub se quedó 15 min sin asignar runner y canceló; los post salieron 25 min tarde): tras lanzar cualquier workflow, si a los 3 min sigue `queued`, NO esperes: 
+   a) Datos: cancela el run y sácalos tú: marcador con WebSearch; xG, tiros y estadísticas desde páginas públicas (FotMob/Sofascore/ESPN) con WebFetch o con `curl` en el sandbox de Higgs (tiene internet); añádelos a `data/selecciones/partidos.csv` y `estadisticas_partido.csv` con el mismo formato (match_id del calendario) y genera las plantillas. Si falta un dato, quita esa tarjeta antes que retrasar.
+   b) Vídeo: plan B de Higgs (ffmpeg en el sandbox, abajo) sin esperar al workflow `montar-video`.
+   Lanza (a) y (b) en paralelo con lo que sí funcione; publica en cuanto esté y apunta el incidente en `aprendizajes.md`.
 6. REGISTRO: cada post publicado/programado → una fila en `publicaciones.csv` y commit+push a este repo (main).
 
 ## Montaje del vídeo — GitHub Actions (principal, nunca falla)
