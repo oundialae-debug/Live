@@ -4,3 +4,4 @@ Personajes de IA que narran directos. El proyecto pone `escenas.json` (frases co
 
 ## Notas compartidas
 - 2026-10-05: creado para el directo de TikTok de futbol-pipeline (Blitz, en-US-DavisNeural). Repo Live. Hasta tener secretos aquí, la voz se generó con una copia en Text-to-audiobook (rama ccr-2cc251b2-00l5rc, `narrar-live.yml`).
+- 2026-10-05: DavisNeural con estilos y frases troceadas sonaba muy robótica (queja del usuario). Ahora Andrew DragonHD por Batch Synthesis, frases enteras, máx. un relleno por cada 3 frases.

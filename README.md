@@ -12,8 +12,11 @@ pone los datos y este repo pone la forma de hablar.
    "secretos" y rellena hasta la duración pedida (`objetivo_s`). Cada fragmento lleva su
    estilo de Azure (`excited`, `shouting`, `whispering`, `cheerful`), velocidad, tono,
    pausa y la palabra que la web hace saltar en pantalla (`pop`).
-3. `narrador/voz.py` sintetiza un mp3 por escena con la API de Azure Speech en tiempo
-   real y apunta la duración real en el guion.
+3. `narrador/voz.py` sintetiza un mp3 por escena con Batch Synthesis de Azure (admite las
+   voces HD) y apunta la duración real en el guion.
+
+Con voces HD (`"hd": true` en el personaje) no hay estilos ni cambios de tono: el modelo
+saca la emoción del texto, así que las frases van enteras y el suspense con "...".
 
 ```
 python3 narrador/guion.py escenas.json --personaje personajes/blitz.json --salida guion.json
@@ -25,7 +28,7 @@ Otra `--semilla` da otro guion con los mismos datos.
 ## Personajes
 
 - `personajes/blitz.json`: **Blitz**, una tarjeta amarilla parlante obsesionada con los
-  números. Voz `en-US-DavisNeural`. Para crear otro, copia el JSON y cambia la voz, los
+  números. Voz HD `en-US-Andrew:DragonHDOmniLatestNeural` (la de los vídeos de 2yellow). Para crear otro, copia el JSON y cambia la voz, los
   estilos y las listas de muletillas.
 
 ## Desde otro repo

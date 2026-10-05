@@ -2,8 +2,8 @@
   "nombre": "Blitz",
   "descripcion": "A hyper, number-obsessed football nerd who can't sit still. Talks in bursts, repeats the big number, whispers secrets, shouts the punchline.",
   "idioma": "en-US",
-  "voz": "en-US-DavisNeural",
-  "palabras_por_segundo": 1.6,
+  "voz": "en-US-Andrew:DragonHDOmniLatestNeural",
+  "palabras_por_segundo": 2.6,
   "estilos": {
     "normal": "excited",
     "enfasis": "shouting",
@@ -130,5 +130,7 @@
     "Next screen, go!",
     "And now...",
     "Let's go, next!"
-  ]
+  ],
+  "hd": true,
+  "parametros_hd": "temperature=1.0;top_p=0.9;top_k=40;cfg_scale=1.8"
 }

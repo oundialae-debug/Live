@@ -49,6 +49,7 @@ class Narrador:
             "pitch": self.rnd.choice(p["prosodia"]["pitch"]),
             "pausa_ms": self.rnd.choice(p["pausas_ms"][pausa]),
             "pop": pop,
+            "suspense": pausa == "suspense",
         }
 
     def trocear(self, frase):
@@ -60,14 +61,22 @@ class Narrador:
             out.append(self.frag(i, pop=i.rstrip(".!").upper() if len(i) < 12 else None))
         if self.rnd.random() < prob["secreto"]:
             out.append(self.frag(self.elegir("secretos"), "secreto", "suspense"))
-        trozos = [t for t in re.split(r"(?<=[,;:—])\s+", frase) if t.strip()]
+        if self.p.get("hd"):
+            trozos = [frase]
+        else:
+            trozos = [t for t in re.split(r"(?<=[,;:—])\s+", frase) if t.strip()]
         for t in trozos:
             m = ENFASIS.search(t)
             if not m:
                 out.append(self.frag(t))
                 continue
             antes, clave, despues = t[:m.start()], m.group(1), t[m.end():]
-            if self.rnd.random() < prob["suspense"]:
+            hay_suspense = self.rnd.random() < prob["suspense"]
+            if hay_suspense and self.p.get("hd"):
+                # Voz HD: el suspense va antes de la frase entera, sin partirla
+                out.append(self.frag(self.elegir("suspense"), "secreto", "suspense"))
+                out.append(self.frag(antes + clave + despues, pop=clave))
+            elif hay_suspense:
                 if antes.strip():
                     out.append(self.frag(antes, pausa="fragmento"))
                 out.append(self.frag(self.elegir("suspense"), "secreto", "suspense"))
@@ -104,7 +113,9 @@ class Narrador:
         objetivo = esc.get("objetivo_s", 0) * 0.92
         guarda = 0
         relleno = set()
-        while self.duracion(plano()) < objetivo and guarda < 40:
+        # Como mucho un relleno por cada tres frases: más suena a disco rayado.
+        tope = max(1, len(esc["frases"]) // 3)
+        while self.duracion(plano()) < objetivo and guarda < tope:
             guarda += 1
             # Nunca dos rellenos seguidos: solo huecos sin relleno a ningún lado.
             huecos = [i for i in range(1, len(grupos) + 1)
@@ -121,7 +132,24 @@ class Narrador:
                 "ssml": ssml(frags, self.p)}
 
 
+def ssml_hd(frags, p):
+    """Voces DragonHD: texto corrido, la emoción la saca el modelo del propio texto.
+    La pausa larga (suspense) se marca con puntos suspensivos."""
+    partes = []
+    for f in frags:
+        t = f["texto"].replace("*", "").strip()
+        if f.get("suspense") and not t.endswith(("...", "?", "!")):
+            t = t.rstrip(".,;:") + "..."
+        partes.append(t)
+    texto = saxutils.escape(" ".join(partes))
+    params = f' parameters="{p["parametros_hd"]}"' if p.get("parametros_hd") else ""
+    return ('<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" '
+            f'xml:lang="{p["idioma"]}"><voice name="{p["voz"]}"{params}>{texto}</voice></speak>')
+
+
 def ssml(frags, p):
+    if p.get("hd"):
+        return ssml_hd(frags, p)
     partes = []
     for f in frags:
         texto = saxutils.escape(f["texto"].replace("*", ""))
