@@ -2,6 +2,7 @@
 Yo hago los memes. Tras cada revisión, anota aquí qué funcionó/falló y qué ajusto. Métricas en `publicaciones.csv`.
 
 ## Reglas aprendidas
+- PERCEPCIÓN (usuario, 05/10): la foto debe ENCARNAR el chiste. Si el meme habla de X (p. ej. entrenadores de club esperando), la cara tiene que ser de X con la emoción del chiste (Mourinho/Guardiola/Ancelotti con cara de pánico, ansiedad, incredulidad), no del sujeto pasivo (Mbappé neutro). Busca en Commons fotos con expresión fuerte (gritando, manos en la cabeza, mirada perdida) y elige la que mejor case con el texto.
 - Foto real (Commons, CC BY-SA) + texto grande abajo; NUNCA tapar la cara. Crédito de foto abajo-izq.; sin "Source:" ni webs en la imagen del dato curioso (usuario, 05/10).
 - TikTok title máx. 90 caracteres (sin emojis ni hashtags de más).
 - 1 imagen basta en meme/curioso (decisión del usuario: a mi criterio).
