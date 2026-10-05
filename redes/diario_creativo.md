@@ -8,3 +8,4 @@ Yo hago los memes. Tras cada revisión, anota aquí qué funcionó/falló y qué
 
 ## Registro
 - 05/10: lote 1 = meme Kane (hoy 21:40), meme Mbappé (06/10 12:00), curioso Kane 3 años 10+ goles (06/10 17:00). Hipótesis: el meme de selección propia (England) rinde más que el genérico. Revisar a las 24-48 h.
+- 05/10: usuario decide probar memes/curiosos SIN música unos días (Buffer no permite música en fotos). Tras ~1 semana, comparar con vídeos con música (imagen 7 s + pista) y proponer al usuario.
