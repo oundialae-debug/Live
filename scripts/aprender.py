@@ -14,8 +14,11 @@ BRAZOS = {  # variable -> opciones (musica sale de la biblioteca)
     "arranque": ["s0", "s1"],                      # música desde el seg 0 o desde el 1
     "hook": ["dato", "pregunta", "reto"],          # estilo de la primera frase de la descripción
     "ante": ["4", "5", "6"],                       # horas de antelación del previo (solo pre)
+    "cartas": ["2", "3"],                          # nº de cartas del carrusel meme (solo meme)
+    "hora": ["12", "17", "21"],                    # hora Madrid de los posts extra (meme/curioso)
 }
 SOLO_PRE = {"primera", "ante"}
+SOLO_MEME, SOLO_EXTRA = {"cartas"}, {"cartas", "hora"}  # meme/curioso: solo hook, cartas (meme) y hora; sin música ni seg
 def musica(): return [t["id"] for t in json.loads(BIB.read_text())["pistas"]]
 def f(x):
     try: return float(x)
@@ -41,6 +44,9 @@ def elegir(tipo):
     est = posterior(leer()); out = {}
     for k, ops in {**BRAZOS, "musica": musica()}.items():
         if tipo != "pre" and k in SOLO_PRE: continue
+        if tipo in ("meme", "curioso"):
+            if k not in ("hook", "hora") and not (k == "cartas" and tipo == "meme"): continue
+        elif k in SOLO_EXTRA: continue
         e = est.get(k, {})
         # primero se prueba cada opción al menos 2 veces; luego Thompson
         pocas = [o for o in ops if e.get(o, [0, 0, 0])[2] < 2]
