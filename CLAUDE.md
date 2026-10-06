@@ -5,3 +5,11 @@ Personajes de IA que narran directos. El proyecto pone `escenas.json` (frases co
 ## Notas compartidas
 - 2026-10-05: creado para el directo de TikTok de futbol-pipeline (Blitz, en-US-DavisNeural). Repo Live. Hasta tener secretos aquí, la voz se generó con una copia en Text-to-audiobook (rama ccr-2cc251b2-00l5rc, `narrar-live.yml`).
 - 2026-10-05: DavisNeural con estilos y frases troceadas sonaba muy robótica (queja del usuario). Ahora Andrew DragonHD por Batch Synthesis, frases enteras, máx. un relleno por cada 3 frases.
+
+## Redes 2yellow (@2yellowdata, TikTok + Instagram) — LEER PRIMERO si el chat va de redes
+Todo el sistema de publicación automática vive en este repo. Antes de tocar nada lee, en este orden:
+1. `redes/PLAYBOOK.md` — manual completo (previos, post-partido, vídeo del día, memes/curiosos en modo recordatorio, anti-retraso, Buffer, canales).
+2. `redes/diario_creativo.md` — lo aprendido de memes y percepción (reglas del usuario).
+3. `redes/aprendizajes.md` y `redes/publicaciones.csv` — métricas, incidentes y registro de cada post.
+4. `scripts/aprender.py` (bandido que elige variantes), `scripts/montar_video.py` + workflow `montar-video`, `scripts/foto_meme.py` (memes con foto de Commons, sandbox de Higgs).
+Tareas programadas: "2yellow diario" (07:46 Madrid, trig_016KxjMVXAwtFVbDiYKTeJKG) crea los previos, el vídeo del día, los 3 extras y las tareas puntuales de post-partido. Datos y plantillas: repo oundialae-debug/futbol-pipeline (`redes/plantillas/`, respeta su CLAUDE.md). Usuario: respuestas muy breves en español; contenido en inglés; sin vocabulario de apuestas.
