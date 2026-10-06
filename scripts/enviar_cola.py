@@ -22,7 +22,10 @@ def gql(q, v):
 def entrada(x, due):
     video = "video" in x
     if x["red"] == "instagram":
-        meta = {"instagram": {"type": "reel" if video else "post", "shouldShareToFeed": True}}
+        tipo = "reel" if video else ("carousel" if len(x.get("imagenes", [])) > 1 else "post")
+        meta = {"instagram": {"type": tipo, "shouldShareToFeed": True}}
+        if x.get("primer_comentario"):  # pregunta polémica como 1er comentario (usuario 06/10); solo IG
+            meta["instagram"]["firstComment"] = x["primer_comentario"]
     else:
         meta = {"tiktok": {"title": x.get("titulo", x["text"].split("\n")[0])[:90]}}
     assets = [{"video": {"url": x["video"]}}] if video else [{"image": {"url": u}} for u in x["imagenes"]]

@@ -17,6 +17,12 @@ Usuario: quiere respuestas MUY breves. Permiso permanente: se puede usar la API 
    Lanza (a) y (b) en paralelo con lo que sí funcione; publica en cuanto esté y apunta el incidente en `aprendizajes.md`.
 6. REGISTRO: cada post publicado/programado → una fila en `publicaciones.csv` y commit+push a este repo (main).
 
+## Mejoras en prueba (usuario 06/10)
+- FORMATO DEL PREVIO (variable `formato` del bandido): `video` = como siempre (automático). `carrusel` = las 6 tarjetas como fotos: IG automático (carrusel sin música) y TikTok en recordatorio (el usuario pone la música; puede publicar 1-4 h tarde) → programa el carrusel ≥7 h antes del saque. Post-partido SIEMPRE vídeo automático (la rapidez manda).
+- PRIMER COMENTARIO en todos los posts automáticos de IG: pregunta polémica corta (`metadata.instagram.firstComment` en Buffer; `primer_comentario` en la cola). Ej.: "Spain by 2+ or Croatia nick a point?". TikTok no lo permite.
+- CARA A CARA / RANKING (cuando vuelvan las ligas, 9/10+): 1 al día a las 19:00 Madrid como extra automático (imagen sin música, IG + TikTok) vía cola. `python3 redes/plantillas/datos_rankings.py ranking <suerte|xg|muro|tiros|posesion> [liga]` o `duelo "<A>" "<B>"` (mejor: el duelo del partido grande del día). Rota métricas. Variante `formato=ranking|duelo`.
+- Vídeos en recordatorio para audio en tendencia: NO (decisión de Claude: retrasaría el post-partido; la música de la app ya se prueba en memes y carruseles).
+
 ## Montaje del vídeo — GitHub Actions (principal, nunca falla)
 1. PNG → JPG (`ffmpeg -q:v 2`) a `media/` de este repo (oundialae-debug/live, público, rama main) con nombre único por día/partido.
 2. Escribe `pedidos/<id>.json` (`{"id","images":["media/..jpg",...],"seconds","audio":"musica/<pista>.mp3","out":"videos/<id>.mp4"}`) y haz commit+push: se dispara el workflow `montar-video` (ffmpeg en GitHub, ~1 min) que genera `videos/<id>.mp4` (quita silencio inicial, normaliza si suena flojo, fade-out) y lo sube a main. Espera con `gh api repos/oundialae-debug/live/contents/videos/<id>.mp4` hasta que exista (haz `git pull`). Borra solos los vídeos de >14 días.

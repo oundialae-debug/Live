@@ -16,8 +16,9 @@ BRAZOS = {  # variable -> opciones (musica sale de la biblioteca)
     "ante": ["4", "5", "6"],                       # horas de antelación del previo (solo pre)
     "cartas": ["2", "3"],                          # nº de cartas del carrusel meme (solo meme)
     "hora": ["12", "17", "21"],                    # hora Madrid de los posts extra (meme/curioso)
+    "formato": ["video", "carrusel"],              # previo: vídeo automático o carrusel (TikTok en recordatorio, el usuario pone música) (06/10)
 }
-SOLO_PRE = {"primera", "ante"}
+SOLO_PRE = {"primera", "ante", "formato"}
 SOLO_MEME, SOLO_EXTRA = {"cartas"}, {"cartas", "hora"}  # meme/curioso: solo hook, cartas (meme) y hora; sin música ni seg
 def musica(): return [t["id"] for t in json.loads(BIB.read_text())["pistas"]]
 def f(x):
