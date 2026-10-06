@@ -9,6 +9,7 @@ Resumen de todo lo hablado con el usuario en el chat que creó el sistema. Léel
 - No quiere tareas manuales pesadas (recopilar capturas cada semana = "demasiado trabajo").
 - Ligas: las 5 grandes europeas; NUNCA Segunda División. Mientras no hay ligas (parón), Nations League. Las ligas vuelven el 9/10.
 - Nada de vocabulario de apuestas en imágenes ni textos (bookies, odds, tips, picks de apuesta). Se quitó "Bookies" de la plantilla upset alert (TikTok dejaba en 0 vistas los posts con esa palabra). Pies con "Data, not betting advice. 18+" en los posts de datos.
+- Nunca el mismo color para los dos equipos (06/10, Croacia-España ambos rojos: no se sabía qué Elo era de quién). Arreglado en `generar.py` (`separar()`).
 - Los % de las imágenes son SOLO de nuestro modelo (`mod_*`), nunca mezcla con mercado.
 
 ## Rutina diaria (decidida)
