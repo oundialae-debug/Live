@@ -26,8 +26,10 @@ Sello: la tarjeta amarilla con el 2yellow Index POR ROL (no G+A como todos). Ima
 - Antes de publicar cualquier XI: comparar con un once externo (WhoScored/Sofascore vía WebSearch); si falta alguien obvio, revisar datos. Si el script avisa de jugadores sin nombre, lanzar `redes_api.yml` modo nombres.
 - Nada del Mundial 2026 (ya pasó).
 
-## Imágenes en Instagram: 4:5
-- IG recorta las 9:16 (se perdía el logo arriba y la pregunta abajo). Para cada post de IMAGEN en Instagram genera una versión aparte con `LIENZO=4x5` (1080x1350); TikTok sigue en 9:16. En la cola, un JSON por red con su propia URL de imagen.
+## Imágenes en Instagram
+- Con MÚSICA (modo recordatorio: memes, curiosos, XI, Index, carrusel de TikTok…): Instagram la convierte en reel 9:16 y el feed solo enseña el centro → generar con `LIENZO=reel` (06/10: al XI de septiembre se le cortaron logo y pregunta con 4:5).
+- SIN música (automático, carrusel de IG): `LIENZO=4x5`.
+- TikTok: 9:16 normal. En la cola, un JSON por red con su propia URL de imagen.
 
 ## Momentum de la temporada (NADA del Mundial 2026: ya pasó, usuario 06/10)
 (usuario 06/10: "aprende a usar trends en fútbol")

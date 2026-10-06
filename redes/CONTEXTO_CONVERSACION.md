@@ -72,6 +72,7 @@ Resumen de todo lo hablado con el usuario en el chat que creó el sistema. Léel
 - 06/10: ACTIVADOS los formatos propios: XI el MARTES (el lunes aún no acaba la jornada en algunas ligas), top 5 por rol mié/jue/vie; con Champions también (XI de la Champions el jueves); XI DEL MES ligas + Champions (primer martes del mes). El usuario autorizó descargar de la API lo necesario (la cuota aún es amplia; en ~1 semana pasa a 100/día): `redes_api.yml` (nombres de jugadores y Champions).
 
 - 06/10: usuario: "¿por qué Raphinha y Lamine salen en azul y los demás en blanco? la app ya corrigió la paleta, cógela y úsala de ahora en adelante" → paleta de la app (app_apostador, rama ccr-302c299f-kdpgwl: equipaciones reales 1ª/2ª/3ª de Wikipedia + regla sin choques) copiada a futbol-pipeline/redes/plantillas (equipaciones.py, colores/) y ampliada a 228 equipos (5 grandes + Champions), curados a mano con motivo. Equipo sin ficha = gris de la app, nunca blanco. XI: nunca banda contraria; empates en la misma posición = dato del rol (xG+xA/90 en ataque…).
+- 06/10: Instagram con música convierte la foto en reel y corta arriba/abajo en el feed → imágenes de IG con música en `LIENZO=reel` (contenido en la franja central).
 - Inglés británico ("defence"), confirmado.
 
 ## Respaldo
