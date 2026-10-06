@@ -19,7 +19,7 @@ Usuario: quiere respuestas MUY breves. Permiso permanente: se puede usar la API 
 
 ## Formatos propios (usuario 06/10: "que sea especial nuestra, nos da estatus") — PROPUESTA, pendiente de su visto bueno
 - 2yellow XI: el once de la jornada por 2yellow Index, cada uno en SU posición (jugador_perfil.csv; nunca un lateral de central). Antes de publicar, compáralo con un once de la jornada externo (WhoScored/Sofascore vía WebSearch): si falta alguien obvio o sobra alguien raro, revisa datos antes de publicar. Lunes 19:00, tras la jornada de ligas. `python3 redes/plantillas/datos_formatos.py xi <vie> <lun> clubes "Matchweek N"`.
-- 2yellow Index: top 5 de la semana (nota x10 + 3 por G+A por partido). Martes 19:00. `datos_formatos.py indice <desde> <hasta> clubes "<título>"`.
+- 2yellow Index POR ROL (no G+A como todos): 3 top 5 de la semana — atacantes, medios y defensas — con métricas de su rol en percentiles (ver BITACORA de futbol-pipeline). `datos_formatos.py indice <desde> <hasta> clubes "" ATT|MID|DEF`. Martes, miércoles y jueves 19:00 (uno por día) o carrusel de 3 los martes. El XI usa el mismo índice.
 - Los dos como imagen en modo recordatorio (el usuario pone música). Siempre el mismo nombre y diseño: el formato fijo es la marca.
 
 ## Imágenes en Instagram: 4:5
