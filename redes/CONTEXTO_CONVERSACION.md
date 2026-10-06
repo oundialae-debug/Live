@@ -28,7 +28,9 @@ Resumen de todo lo hablado con el usuario en el chat que creó el sistema. Léel
 - Segunda opinión: subagente Claude Sonnet como crítico de cada meme antes de programar.
 - Publicación: Buffer en MODO RECORDATORIO (`schedulingType: "notification"`): al usuario le llega el aviso, abre TikTok/IG y publica él con música de la app (probado OK el 05/10). Motivo: Buffer/APIs no permiten música en fotos; Higgs TikTok solo con selección manual; se decidió mantener formato imagen/carrusel.
 - Inspiración (solo aprender, NO crear plantillas nuevas ni copiar): Flashscore (emoji-arte, primera imagen gancho sin texto, pies de 4 palabras con juego de palabras) y Sofascore (publican ~17 min tras el final, jugador recortado + número gigante, 4 datos). FotMob creció en TikTok con memes/emoción, no con pantallazos de datos.
-- Fuentes: Reddit, X y TikTok no se pueden leer desde aquí (bloqueados); el usuario no quiere scrapers que se salten bloqueos. LLMs gratuitos (Groq/Cerebras/Mistral) solo funcionan en su entorno predeterminado, no en este.
+- Fuentes: Reddit, X y TikTok no se pueden leer desde aquí (bloqueados); el usuario no quiere scrapers que se salten bloqueos.
+- LLMs gratuitos (Groq/Cerebras/Mistral, `futbol-pipeline/scripts/llm_gratis.py` → `preguntar()`): permiso del usuario 06/10 para usarlos SIEMPRE que haga falta (ideas, críticas, textos, análisis). Probado OK en esta sesión.
+- 06/10: el usuario pidió analizar cuentas del sector y proponer mejoras a probar → resumen en `aprendizajes.md` ("Análisis del sector").
 
 ## Aprendizaje
 - Bandido Thompson en `scripts/aprender.py` (variables: primera carta, seg/carta, arranque música s0/s1, hook, antelación, cartas, hora, música). Migrar a regresión bayesiana/ridge con ≥100 observaciones. Recompensa: interacciones/vistas y vistas vs mediana.
