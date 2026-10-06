@@ -1,6 +1,6 @@
 # 2yellow (@2yellowdata) — playbook diario de redes
 
-Cuenta: TikTok + Instagram, contenido EN INGLÉS. Texto/hashtags: 5 hashtags, termina con "Data, not betting advice. 18+". Nada de vocabulario de apuestas en títulos (bookies, tips, odds).
+Cuenta: TikTok + Instagram, contenido EN INGLÉS. Texto/hashtags: 5 hashtags. NUNCA "Data, not betting advice. 18+" ni en imágenes ni en descripciones (usuario 06/10: confunde al algoritmo). Nada de vocabulario de apuestas en títulos (bookies, tips, odds).
 Alcance: 5 grandes ligas europeas (NO Segunda). Nations League solo mientras no haya ligas.
 Usuario: quiere respuestas MUY breves. Permiso permanente: se puede usar la API de Highlightly (si se agotan cuotas, webs externas). Sin partidos ese día = no se publica nada.
 
