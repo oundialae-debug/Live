@@ -63,6 +63,10 @@ Resumen de todo lo hablado con el usuario en el chat que creó el sistema. Léel
 
 - 06/10: confirmado por el usuario: memes, curiosos y carruseles de TikTok siguen en modo recordatorio con SU música (no pasarlos a automático sin música). Todo lo demás, 100% automático sin este chat.
 
+## Formatos propios y correcciones (06/10)
+- IG corta las imágenes 9:16 → para IG se generan en 4:5 (`LIENZO=4x5`). Yamal salía resaltado en azul en el ranking (solo Barcelona tenía colores de club): ahora barras uniformes, solo el 1º en amarillo.
+- Usuario: hacer equipo de la jornada e índice semanal como formatos PROPIOS ("nos da estatus"); YouTube Shorts más adelante. Propuesta: "2yellow XI" (lunes) y "2yellow Index" (martes), con la tarjeta amarilla como sello. Pendiente de su visto bueno tras ver 2 ejemplos de cada.
+
 ## Respaldo
 - Workflow `redes_backup.yml` en futbol-pipeline (apagado): solo se activa si el usuario deja de tener Claude Pro (variable BACKUP_REDES=on + secreto BUFFER_API_KEY). Ver `futbol-pipeline/redes/backup/LEEME.md`. "De momento seguimos contigo".
 

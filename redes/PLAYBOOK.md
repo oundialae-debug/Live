@@ -17,6 +17,14 @@ Usuario: quiere respuestas MUY breves. Permiso permanente: se puede usar la API 
    Lanza (a) y (b) en paralelo con lo que sí funcione; publica en cuanto esté y apunta el incidente en `aprendizajes.md`.
 6. REGISTRO: cada post publicado/programado → una fila en `publicaciones.csv` y commit+push a este repo (main).
 
+## Formatos propios (usuario 06/10: "que sea especial nuestra, nos da estatus") — PROPUESTA, pendiente de su visto bueno
+- 2yellow XI: el once de la jornada por nota media (tarjetas amarillas con la nota). Lunes 19:00, tras la jornada de ligas. `python3 redes/plantillas/datos_formatos.py xi <vie> <lun> clubes "Matchweek N"`.
+- 2yellow Index: top 5 de la semana (nota x10 + 3 por G+A por partido). Martes 19:00. `datos_formatos.py indice <desde> <hasta> clubes "<título>"`.
+- Los dos como imagen en modo recordatorio (el usuario pone música). Siempre el mismo nombre y diseño: el formato fijo es la marca.
+
+## Imágenes en Instagram: 4:5
+- IG recorta las 9:16 (se perdía el logo arriba y la pregunta abajo). Para cada post de IMAGEN en Instagram genera una versión aparte con `LIENZO=4x5` (1080x1350); TikTok sigue en 9:16. En la cola, un JSON por red con su propia URL de imagen.
+
 ## Momentum de la temporada (usuario 06/10: "aprende a usar trends en fútbol")
 - Cada mañana, ANTES de elegir temas, lee `redes/momentos.md` (calendario: Champions, Clásico, Balón de Oro, parones, mercado) y `redes/tendencias.md` (Google Trends de fútbol en UK/ES/IT/DE/FR/US, workflow `tendencias`). Si `tendencias.md` es de hace >24 h, lánzalo (workflow_dispatch) o usa WebSearch "football trending today".
 - Momento grande en ≤7 días → al menos 1 extra + el jugador vs jugador del día van sobre él. Tendencia de fútbol en 2+ países → manda sobre lo planificado. Hashtags del momento (#BallonDor, #ElClasico, #UCL…) en vez de genéricos.
