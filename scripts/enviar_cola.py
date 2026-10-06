@@ -56,4 +56,7 @@ def main(prueba=False):
                                     "", "", "", "", "", "", x.get("notas", "") + " [cola]", x.get("variante", "")])
 
 if __name__ == "__main__":
+    if "--comprobar" in sys.argv:  # solo lee la cuenta: confirma que la clave funciona
+        r = gql("{account{organizations{name channelCount limits{scheduledPosts}}}}", {})
+        print(json.dumps(r)[:400]); sys.exit(0 if (r.get("data") or {}).get("account") else 1)
     main("--prueba" in sys.argv)

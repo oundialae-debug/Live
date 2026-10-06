@@ -11,6 +11,10 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+      - name: Comprobar clave
+        if: github.event_name == 'workflow_dispatch'
+        env: {BUFFER_API_KEY: "${{ secrets.BUFFER_API_KEY }}"}
+        run: python3 scripts/enviar_cola.py --comprobar
       - name: Enviar
         if: ${{ hashFiles('redes/cola/*.json') != '' }}
         env: {BUFFER_API_KEY: "${{ secrets.BUFFER_API_KEY }}"}
