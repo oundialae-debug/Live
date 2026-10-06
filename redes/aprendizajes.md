@@ -13,3 +13,4 @@
 - Forbes (FotMob): su explosión en TikTok fue orgánica, ligada al Mundial 2022 y a usuarios compartiendo la app; no hay estrategia de contenido documentada. => los picos llegan con grandes torneos/eventos.
 - OneFootball: contenido vertical deslizable tipo stories funciona sin instrucciones.
 - 2026-10-06: sin métricas aún (todos <24 h). Hoy: diario 09:30, previos CRO-ESP 14:45 (primera=key) y ENG-CZE 16:45 (primera=pred). INCIDENTE: la 1ª tanda de montaje falló por carrera de pushes (dos pushes seguidos): hacer UN solo push de pedidos o esperar al workflow. INCIDENTE 2: el sistema denegó crear las tareas puntuales de post-partido (create_trigger) → no hay post-partido automático hoy; el usuario debe aprobarlo.
+- 06/10: el vídeo del día salió de 3.6 s (bandido eligió 1.8 s por carta). Corregido: en daily el tiempo por carta es 3.5/4.5/5.5 s.

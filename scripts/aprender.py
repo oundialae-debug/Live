@@ -47,6 +47,7 @@ def elegir(tipo):
         if tipo in ("meme", "curioso"):
             if k not in ("hook", "hora") and not (k == "cartas" and tipo == "meme"): continue
         elif k in SOLO_EXTRA: continue
+        if tipo == "daily" and k == "seg": ops = ["3.5", "4.5", "5.5"]  # 2 cartas con mucho texto: 1.8 s no da para leer (06/10 salió un vídeo de 3.6 s)
         e = est.get(k, {})
         # primero se prueba cada opción al menos 2 veces; luego Thompson
         pocas = [o for o in ops if e.get(o, [0, 0, 0])[2] < 2]
