@@ -30,3 +30,4 @@ fecha,tipo,partido,red,buffer_id,programado_madrid,musica,plantillas,views,likes
 2026-10-06,curioso,Olise 11 minutos,instagram,6ac48ee5032d0529987e227d,2026-10-06T18:00,,1 imagen,,,,,,,dato verificado (Malay Mail: entra 77', gol 88'),hook=reto;hora=12
 2026-10-06,curioso,Olise 11 minutos,tiktok,6ac48f5eacc08dcd5ea4fabf,2026-10-06T18:00,,1 imagen,,,,,,,,hook=reto;hora=12
 2026-10-06,ranking,Balón de Oro índice 2yellow,tiktok,6ac4faa4a5491202d07ebe2f,2026-10-06T15:42,app (usuario),balon_oro_indice,,,,,,,recordatorio; datos propios 2025/26 + Mundial,formato=ranking;hook=pregunta;momento=balon_oro
+2026-10-06,ranking,Balón de Oro índice 2yellow,instagram,6ac4fac5e1a4308ddae8f5ae,2026-10-06T15:42,app (usuario),balon_oro_indice,,,,,,,recordatorio; datos propios 2025/26 + Mundial,formato=ranking;hook=pregunta;momento=balon_oro
