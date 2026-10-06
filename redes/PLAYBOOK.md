@@ -17,10 +17,14 @@ Usuario: quiere respuestas MUY breves. Permiso permanente: se puede usar la API 
    Lanza (a) y (b) en paralelo con lo que sí funcione; publica en cuanto esté y apunta el incidente en `aprendizajes.md`.
 6. REGISTRO: cada post publicado/programado → una fila en `publicaciones.csv` y commit+push a este repo (main).
 
-## Formatos propios (usuario 06/10: "que sea especial nuestra, nos da estatus") — PROPUESTA, pendiente de su visto bueno
-- 2yellow XI: el once de la jornada por 2yellow Index, cada uno en SU posición (jugador_perfil.csv; nunca un lateral de central). Antes de publicar, compáralo con un once de la jornada externo (WhoScored/Sofascore vía WebSearch): si falta alguien obvio o sobra alguien raro, revisa datos antes de publicar. Lunes 19:00, tras la jornada de ligas. `python3 redes/plantillas/datos_formatos.py xi <vie> <lun> clubes "Matchweek N"`.
-- 2yellow Index POR ROL (no G+A como todos): 3 top 5 de la semana — atacantes, medios y defensas — con métricas de su rol en percentiles (ver BITACORA de futbol-pipeline). `datos_formatos.py indice <desde> <hasta> clubes "" ATT|MID|DEF`. Martes, miércoles y jueves 19:00 (uno por día) o carrusel de 3 los martes. El XI usa el mismo índice.
-- Los dos como imagen en modo recordatorio (el usuario pone música). Siempre el mismo nombre y diseño: el formato fijo es la marca.
+## Formatos propios — ACTIVOS desde el 9/10 (usuario 06/10: "que sea especial nuestra, nos da estatus")
+Sello: la tarjeta amarilla con el 2yellow Index POR ROL (no G+A como todos). Imagen en modo recordatorio (el usuario pone música), IG en 4:5.
+- MARTES 19:00 — 2yellow XI de la jornada de ligas (vie-lun; el lunes aún no ha acabado en algunas ligas): `datos_formatos.py xi <vie> <lun> clubes "Matchweek N"`.
+- MIÉRCOLES / JUEVES / VIERNES 19:00 — 2yellow Index top 5: atacantes (ATT), medios (MID), defensas (DEF), uno por día: `datos_formatos.py indice <vie> <lun> clubes "" ATT|MID|DEF`.
+- SEMANAS DE CHAMPIONS — jueves 12:00: 2yellow XI de la Champions (`datos_formatos.py xi <mar> <mié> ucl "Champions League: Matchday N"`). Antes, lanzar `redes_api.yml` modo ucl en futbol-pipeline (jueves por la mañana).
+- XI DEL MES (ligas + Champions) — primer martes de cada mes, 12:00: `datos_formatos.py xi <día 1> <último día> clubes+ucl "<Mes> XI"`.
+- Antes de publicar cualquier XI: comparar con un once externo (WhoScored/Sofascore vía WebSearch); si falta alguien obvio, revisar datos. Si el script avisa de jugadores sin nombre, lanzar `redes_api.yml` modo nombres.
+- Nada del Mundial 2026 (ya pasó).
 
 ## Imágenes en Instagram: 4:5
 - IG recorta las 9:16 (se perdía el logo arriba y la pregunta abajo). Para cada post de IMAGEN en Instagram genera una versión aparte con `LIENZO=4x5` (1080x1350); TikTok sigue en 9:16. En la cola, un JSON por red con su propia URL de imagen.

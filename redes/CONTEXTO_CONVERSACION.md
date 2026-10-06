@@ -69,6 +69,8 @@ Resumen de todo lo hablado con el usuario en el chat que creó el sistema. Léel
 
 - 06/10: usuario: "olvida el Mundial, ya ha pasado mucho tiempo" → nada de contenido ni ejemplos del Mundial 2026 (solo cuenta como dato dentro del índice del Balón de Oro, porque entra en el periodo del premio). Formatos y ejemplos, con la actualidad (ligas desde el 9/10, Nations League).
 
+- 06/10: ACTIVADOS los formatos propios: XI el MARTES (el lunes aún no acaba la jornada en algunas ligas), top 5 por rol mié/jue/vie; con Champions también (XI de la Champions el jueves); XI DEL MES ligas + Champions (primer martes del mes). El usuario autorizó descargar de la API lo necesario (la cuota aún es amplia; en ~1 semana pasa a 100/día): `redes_api.yml` (nombres de jugadores y Champions).
+
 ## Respaldo
 - Workflow `redes_backup.yml` en futbol-pipeline (apagado): solo se activa si el usuario deja de tener Claude Pro (variable BACKUP_REDES=on + secreto BUFFER_API_KEY). Ver `futbol-pipeline/redes/backup/LEEME.md`. "De momento seguimos contigo".
 
