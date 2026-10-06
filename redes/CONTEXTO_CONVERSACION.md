@@ -58,6 +58,9 @@ Resumen de todo lo hablado con el usuario en el chat que creó el sistema. Léel
 - Siempre NUESTROS datos salvo que no estén al día (understat solo de respaldo). Hecho en jugador vs jugador.
 - Jugador vs jugador con caras/fotos en degradado hacia el centro ("tú decides"): hecho con fotos libres de Commons (workflow bajar-fotos).
 
+## Momentum y tendencias (decidido 06/10)
+- Usuario: tener en cuenta los momentos de la temporada (Champions, Balón de Oro…) y aprender a usar trends de fútbol. Hecho: `redes/momentos.md` (calendario con qué publicar), workflow `tendencias` (Google Trends RSS, filtrado a fútbol → `redes/tendencias.md`), ranking de nominados al Balón de Oro con nuestros datos 2025/26 (`datos_rankings.py nominados`). Clave: Clásico dom 25/10 + gala del Balón de Oro lun 26/10 (Londres).
+
 ## Respaldo
 - Workflow `redes_backup.yml` en futbol-pipeline (apagado): solo se activa si el usuario deja de tener Claude Pro (variable BACKUP_REDES=on + secreto BUFFER_API_KEY). Ver `futbol-pipeline/redes/backup/LEEME.md`. "De momento seguimos contigo".
 

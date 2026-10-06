@@ -17,6 +17,11 @@ Usuario: quiere respuestas MUY breves. Permiso permanente: se puede usar la API 
    Lanza (a) y (b) en paralelo con lo que sí funcione; publica en cuanto esté y apunta el incidente en `aprendizajes.md`.
 6. REGISTRO: cada post publicado/programado → una fila en `publicaciones.csv` y commit+push a este repo (main).
 
+## Momentum de la temporada (usuario 06/10: "aprende a usar trends en fútbol")
+- Cada mañana, ANTES de elegir temas, lee `redes/momentos.md` (calendario: Champions, Clásico, Balón de Oro, parones, mercado) y `redes/tendencias.md` (Google Trends de fútbol en UK/ES/IT/DE/FR/US, workflow `tendencias`). Si `tendencias.md` es de hace >24 h, lánzalo (workflow_dispatch) o usa WebSearch "football trending today".
+- Momento grande en ≤7 días → al menos 1 extra + el jugador vs jugador del día van sobre él. Tendencia de fútbol en 2+ países → manda sobre lo planificado. Hashtags del momento (#BallonDor, #ElClasico, #UCL…) en vez de genéricos.
+- Cada lunes: revisa y amplía `momentos.md` con fechas oficiales (WebSearch). Apunta en `aprendizajes.md` si los posts del momento rinden más.
+
 ## Rigor (usuario 06/10: "tienes que ser más riguroso")
 - Antes de publicar, mira CADA imagen como la vería un seguidor: nada que no tenga sentido en ese formato (p. ej. "Swipe" en un vídeo), nada contradictorio en la misma tarjeta (marcador 0-2 junto a "over 2.5: 63%"), equipos distinguibles, nada fuera de la zona segura.
 - Plantillas: el "Swipe" solo sale con `CARRUSEL=1` en el entorno (generar los PNG del carrusel con `CARRUSEL=1 python3 ...`; para vídeo, sin la variable).

@@ -11,7 +11,7 @@ FUTBOL = re.compile(r"\b(football|soccer|f[uú]tbol|calcio|fu(ss|ß)ball|fc|cf|a
                     r"arsenal|chelsea|tottenham|newcastle|man(chester)? (city|united|utd)|juventus|inter|milan|napoli|roma|lazio|bayern|"
                     r"dortmund|leverkusen|psg|marseille|lyon|monaco|ballon d.or|champions league|premier league|la ?liga|serie a|"
                     r"bundesliga|ligue 1|uefa|fifa|nations league|mbapp[eé]|yamal|haaland|kane|vin[ií]cius|bellingham|salah|messi|"
-                    r"ronaldo|olise|demb[eé]l[eé]|cl[aá]sico|derby|derbi)\b", re.I)
+                    r"ronaldo|olise|demb[eé]l[eé]|cl[aá]sico|derby|derbi|national team|selecci[oó]n|world cup|mundial|strikers?|goalkeeper|midfielder)\b", re.I)
 NO_FUTBOL = re.compile(r"\b(cricket|ipl|t20|odi|nfl|nba|mlb|nhl|rugby|tennis|f1|formula 1)\b", re.I)
 NS = {"ht": "https://trends.google.com/trending/rss"}
 
