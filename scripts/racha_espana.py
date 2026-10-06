@@ -12,8 +12,8 @@ logo = f'<img class="logo" src="data:image/png;base64,{b(R/"2yellow-logo-transpa
 def s1():
     hook = ("40 unbeaten.<br><span style='color:%s'>Ended in Croatia.</span>" % RO) if modo == "perdio" else ("41.<br><span style='color:%s'>And counting.</span>" % AM)
     sub = {"perdio": "Spain's world-record run is over.", "empate": "Spain survive Croatia. The record lives.",
-           "gana": "Merino, twice off the bench. The record lives."}[modo]
-    return f"""<style>{CSS}</style><div style="position:absolute;inset:0;background:url(data:image/jpeg;base64,{b(F/('mikel_merino.jpg' if modo == 'gana' else 'unai_simon.jpg'))}) center 20%/cover"></div>
+           "gana": "From the bench to the record books: Merino x2."}[modo]
+    return f"""<style>{CSS}</style><div style="position:absolute;inset:0;background:url(data:image/jpeg;base64,{b(F/('candidatas/merino_3.jpg' if modo == 'gana' else 'unai_simon.jpg'))}) center 20%/cover"></div>
 <div style="position:absolute;inset:0;background:linear-gradient(180deg,rgba(10,12,17,.55) 0%,rgba(10,12,17,0) 28%,rgba(10,12,17,0) 45%,rgba(10,12,17,.92) 72%,{NO} 100%)"></div>
 {logo}<div class="cred">Photo: Bryan Berlin, CC BY-SA 4.0</div>
 <div style="position:absolute;left:80px;right:80px;top:1130px">
