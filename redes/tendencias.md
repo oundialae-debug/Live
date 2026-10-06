@@ -1,20 +1,14 @@
-# Tendencias de fútbol (2026-10-06 13:34 UTC, Google Trends)
+# Tendencias de fútbol (2026-10-06 14:05 UTC, Google Trends)
 
 Generado por el workflow `tendencias`. Úsalo para elegir temas de memes, curiosos y jugador vs jugador.
 
 | País | Búsqueda | Tráfico | Titular |
 |---|---|---|---|
-| UK | india vs uruguay | 200+ | India vs Uruguay: Friendlies stats & head-to-head |
-| UK | ind vs wi | 5000+ | No guarantees for Sooryavanshi as India look to build on Asian Games success |
-| UK | scotland national team sebastien pocognoli | 200+ | Pocognoli backs Scotland strikers for 'must-win' game against Slovenia |
+| UK | india vs uruguay | 500+ | India vs Uruguay: Friendlies stats & head-to-head |
+| Spain | semana mundial del espacio 2026 | 20000+ | Pokémon y la Agencia Espacial Europea celebran la Semana Mundial del Espacio 2026 |
 | Spain | incendio | 2000+ | Incendio con tres muertos en el restaurante de Manuel Becerra: imputados los dueños y los arquitecto |
-| Spain | ind vs wi | 200+ | No guarantees for Sooryavanshi as India look to build on Asian Games success |
-| Italy | ind vs wi | 500+ | No guarantees for Sooryavanshi as India look to build on Asian Games success |
-| Germany | ind vs wi | 500+ | No guarantees for Sooryavanshi as India look to build on Asian Games success |
-| Germany | regen | 500+ | Temperatursturz um 15 Grad: Achtung, Kühlschrank-Nächte mit Bodenfrost |
-| France | ind vs wi | 200+ | No guarantees for Sooryavanshi as India look to build on Asian Games success |
-| France | coureur | 500+ | États-Unis : Un coureur de 36 ans meurt pendant son premier semi-marathon |
-| USA | india vs uruguay | 1000+ | India vs Uruguay football 2026: Know where to watch IND vs URU friendly live streaming and telecast |
-| USA | mexico-united states border | 5000+ | U.S. says Coast Guard came under fire near the border. Mexico wants evidence. |
-| USA | india national cricket team vs west indies cricket team players | 500+ | No guarantees for Sooryavanshi as India look to build on Asian Games success |
-| USA | mikey madison | 2000+ | Star Wars: Mikey Madison Reveals If She’d Return to Franchise After Exiting Starfighter |
+| Spain | gianni infantino | 200+ | Noruega denuncia a Infantino |
+| Italy | semana mundial del espacio 2026 | 200+ | Espacio: la revolución de los cohetes democratiza el acceso a la órbita |
+| Germany | kim min-jae | 200+ | Bayern's Kim Min-jae left out of South Korea squad for Uzbekistan clash |
+| Germany | nicolò tresoldi | 2000+ | “I was extremely nervous” – Nicolo Tresoldi reveals details of Jürgen Klopp call amid Germany-Italy  |
+| France | semana mundial del espacio 2026 | 200+ | Espacio: la revolución de los cohetes democratiza el acceso a la órbita |
