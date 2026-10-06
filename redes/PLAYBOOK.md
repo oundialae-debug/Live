@@ -37,6 +37,16 @@ Sello: la tarjeta amarilla con el 2yellow Index POR ROL (no G+A como todos). Ima
 - Momento grande en ≤7 días → al menos 1 extra + el jugador vs jugador del día van sobre él. Tendencia de fútbol en 2+ países → manda sobre lo planificado. Hashtags del momento (#BallonDor, #ElClasico, #UCL…) en vez de genéricos.
 - Cada lunes: revisa y amplía `momentos.md` con fechas oficiales (WebSearch). Apunta en `aprendizajes.md` si los posts del momento rinden más.
 
+## Búsquedas de TikTok (usuario 06/10: "hazlo, siempre que no estropee el contenido")
+- TikTok funciona como buscador: la PRIMERA frase de la descripción y el `title` de TikTok llevan las palabras que la gente busca, de forma natural ("Lamine Yamal stats", "Ballon d'Or 2026 prediction", "Real Madrid vs Barcelona", "team of the week"). Nombres completos de jugadores y equipos, no apodos. 3 hashtags concretos + 2 generales.
+- En la imagen, solo si cabe sin romper el diseño: el título usa esas palabras (p. ej. "Ballon d'Or 2026" en vez de "The big one"). Nunca añadir texto extra a la imagen solo por SEO.
+
+## Comentarios listos para cuentas grandes (usuario 06/10)
+- Desde aquí no se pueden ver TikTok ni Instagram, así que NO se buscan sus posts: se ADELANTA el comentario para lo que van a publicar seguro (resultado de un partido grande, gala, récord, fichaje en tendencia).
+- La tarea diaria (para los partidos/momentos del día) y cada tarea de post-partido (con el marcador ya confirmado) crean en Buffer una IDEA (`create_idea`, sin publicar) con título "💬 Comment: <partido o tema>" y 2-3 comentarios en inglés de 1-2 líneas, cada uno con UN dato nuestro que no esté en la tele ("Olise has created 4.2 chances per 90 this month, more than any winger in Europe"). Sin "follow us", sin enlaces, sin vocabulario de apuestas, tono de aficionado que sabe.
+- Cuentas objetivo según el tema: FotMob, Flashscore, Sofascore, B/R Football, 433, Goal, OneFootball, la cuenta oficial de la liga y de los dos clubes.
+- El usuario abre Buffer > Ideas, copia y pega en el primer post que vea de esas cuentas sobre ese tema.
+
 ## Paleta de colores (usuario 06/10: "acuérdate de la paleta para todo lo que se cree a partir de ahora")
 - TODA imagen nueva usa la paleta de la app 2yellow: `futbol-pipeline/redes/plantillas/equipaciones.py` + `colores/equipaciones.json` (228 equipos; `generar.py` ya la usa). Nada de colores a ojo ni blancos por defecto. Equipo nuevo sin color: añadirlo a `colores/equipos_extra.txt` y lanzar `colores_redes.yml`; revisar el resultado y corregir a mano en `curar.py` con su motivo.
 

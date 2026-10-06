@@ -75,6 +75,10 @@ Resumen de todo lo hablado con el usuario en el chat que creó el sistema. Léel
 - 06/10: Instagram con música convierte la foto en reel y corta arriba/abajo en el feed → imágenes de IG con música en `LIENZO=reel` (contenido en la franja central). Usuario: no rehacer lo ya publicado ni lo programado; aplicar desde el 07/10.
 - Inglés británico ("defence"), confirmado.
 
+## Promoción gratis (decidido 06/10)
+- Usuario: sí a optimizar para búsquedas de TikTok "siempre que no estropee el contenido" (palabras de búsqueda en la 1ª frase y el título; en la imagen solo si cabe).
+- Usuario: sí a pasarle cada día comentarios listos para posts de cuentas grandes (duda de que llegue a tiempo). Solución: se adelantan para lo que van a publicar seguro y se dejan como IDEAS en Buffer ("💬 Comment: …"), creadas por la tarea diaria y por cada post-partido.
+
 ## Respaldo
 - Workflow `redes_backup.yml` en futbol-pipeline (apagado): solo se activa si el usuario deja de tener Claude Pro (variable BACKUP_REDES=on + secreto BUFFER_API_KEY). Ver `futbol-pipeline/redes/backup/LEEME.md`. "De momento seguimos contigo".
 
