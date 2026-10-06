@@ -1,0 +1,24 @@
+name: enviar-cola
+# Cada 10 min manda a Buffer lo de redes/cola/ que toca en <=25 min. Necesita el secreto BUFFER_API_KEY.
+on:
+  schedule: [{cron: "*/10 * * * *"}]
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency: {group: enviar-cola}
+jobs:
+  enviar:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Enviar
+        if: ${{ hashFiles('redes/cola/*.json') != '' }}
+        env: {BUFFER_API_KEY: "${{ secrets.BUFFER_API_KEY }}"}
+        run: python3 scripts/enviar_cola.py
+      - name: Guardar
+        run: |
+          git config user.name "2yellow-bot"; git config user.email "bot@users.noreply.github.com"
+          git add -A redes/cola redes/publicaciones.csv
+          git diff --cached --quiet && exit 0
+          git commit -m "cola: enviados a Buffer [skip ci]"
+          for i in 1 2 3; do git pull --rebase -q && git push && break; sleep 5; done

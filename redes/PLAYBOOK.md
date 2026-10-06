@@ -28,6 +28,7 @@ Usuario: quiere respuestas MUY breves. Permiso permanente: se puede usar la API 
 `mcp__Higgs__media_upload` (video) → `sandbox_exec` (curl de JPG de raw.githubusercontent, pista con URL fresca de ElevenLabs, ffmpeg, PUT al upload_url con `-H "Content-Type: video/mp4" -H "If-None-Match: *"`) → `media_confirm` → URL CloudFront. Flujo ya probado.
 
 ## Publicación (Buffer)
+- COLA (usuario, 06/10): Buffer gratis tiene límite de programados → NO programar con horas de antelación. Memes, curiosos y previos se dejan como JSON en `redes/cola/` (formato en `redes/cola/LEEME.md`) con commit+push; el workflow `enviar-cola` (cada 10 min) los manda a Buffer ~25 min antes, a su hora exacta, y los apunta en `publicaciones.csv`. Post-partido y vídeo del día de las 09:30 siguen directos (shareNow/customScheduled cercano). ESTADO: necesita el secreto `BUFFER_API_KEY` en el repo live; hasta que exista (o si `enviar-cola` falla), programar directo como antes.
 - Instagram: `metadata.instagram {type:"reel", shouldShareToFeed:true}`. TikTok: `metadata.tiktok {title}`. Canales: IG 6ac3c8166a5c39ccb620dd8a, TikTok 6ac3c8456a5c39ccb620dec4. Posts publicados NO se pueden borrar desde Buffer. Borradores (`saveToDraft`) sí.
 - El shell local no sale a internet salvo GitHub (gh/git). ElevenLabs: URLs frescas con `creative_get_flow_run_status(flow, session)`; música nueva con `creative_generate_in_flow` (node music, eleven_music_v2_5, 15 s, sin voz, ~0,09 $, máx. ~6 seguidas).
 
