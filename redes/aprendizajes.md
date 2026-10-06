@@ -22,3 +22,8 @@
 - Equipe de France (3M en 6 meses): audios en tendencia + jugadores haciendo lo que les hace reconocibles.
 - Mejoras propuestas al usuario (pendiente de su elección): (1) previo como CARRUSEL vs vídeo (variable `formato`); (2) formato nuevo cara a cara/ranking; (3) pregunta polarizante como primer comentario (`metadata.instagram.firstComment` de Buffer); (4) vídeos en modo recordatorio para poner audio en tendencia (a costa de trabajo del usuario); (5) primera carta con 4-6 palabras de gancho, sin datos.
 Fuentes: buffer.com/resources/creator-growth-playbook, fanpagekarma.com/insights/carousel-vs-video-performance-tiktok-instagram, ttcalculator.net/learn/tiktok-photo-carousel-engagement, sambadigital.com (caso FFF), sociavault.com/blog/engagement-benchmarks-2026.
+
+### Incidentes post-partido Croatia 1-2 Spain (06/10, publicado 22:53 Madrid = saque+2h08)
+- `gh workflow run nations_league_ciclo.yml` lo bloqueó el clasificador de permisos de la sesión automática ("Modify Shared Resources"). Plan ANTI-RETRASO: marcador de la API pública de ESPN (scoreboard uefa.nations) y xG/tiros de FotMob (`__NEXT_DATA__` de la página del partido, curl en Higgs). Solo en disco local de futbol-pipeline (no empujado): el ciclo programado lo traerá de la API.
+- `montar-video` montó el vídeo pero falló en el paso "Guardar" (probable carrera de push con otra tarea). Plan B Higgs: mismo `montar_video.py` en el sandbox → CloudFront. Sugerencia: en "Guardar", `git pull --rebase` con reintentos.
+- Tarjeta post4 automática ("10 shots from Croatia for 1 goal") era floja: Spain también tiró 10. Cambiada a "28% de posesión y más xG". post5: "Not both teams score" se solapaba con nombres largos; renderizado con "Not both score" (cambio solo local).
