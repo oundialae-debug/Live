@@ -48,7 +48,8 @@ Resumen de todo lo hablado con el usuario en el chat que creó el sistema. Léel
 
 ## Mejoras decididas (06/10, tras análisis del sector)
 - Usuario aprueba: (1) previo en carrusel (avisa: él pone la música, a veces sin conexión → 1-4 h tarde); (2) cara a cara/ranking con datos de futbol-pipeline actualizados a diario; (3) pregunta como primer comentario; (4) vídeos con audio en tendencia "si no importa el retraso, tú decides".
-- Claude decide: carrusel solo en previos, ≥7 h antes del saque, IG automático y TikTok recordatorio, medido por el bandido (`formato`); post-partido siempre vídeo automático; (4) NO. Plantillas `head_to_head` y `ranking` hechas (1 al día, 19:00, desde el 9/10). Actualizar datos de clubes a diario necesita API Highlightly: pendiente de su sí explícito.
+- Claude decide: carrusel solo en previos, ≥7 h antes del saque, IG automático y TikTok recordatorio, medido por el bandido (`formato`); post-partido siempre vídeo automático; (4) NO. Plantillas `head_to_head` y `ranking` hechas (1 al día, 19:00, desde el 9/10). Actualizar datos a diario: el usuario dijo "sí, actívalo" (06/10), recordando que Highlightly está limitado a ~100 llamadas/día y que haya respaldos → workflow `jugadores_redes.yml` en futbol-pipeline: understat (sin cuota) + Highlightly con tope 20/día. Los datos de clubes se paran al 20/09 por el parón, no por fallo (ligas vuelven el viernes 9/10).
+- Usuario: mejor JUGADOR VS JUGADOR que equipo vs equipo (lo que más interesa y genera conversación). Hecho: `datos_rankings.py jugadores`.
 - Pregunta del usuario: ¿el bandido es buen modelo? Respuesta: sirve para ajustar detalles con pocos datos, pero no decide lo importante (tema/formato) y tiene mucho ruido; plan: dejarle pocas variables, comparar contra la mediana de cada tipo y pasar a regresión con ≥100 posts.
 
 ## Respaldo
