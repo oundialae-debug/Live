@@ -35,6 +35,9 @@ Sello: la tarjeta amarilla con el 2yellow Index POR ROL (no G+A como todos). Ima
 - Momento grande en ≤7 días → al menos 1 extra + el jugador vs jugador del día van sobre él. Tendencia de fútbol en 2+ países → manda sobre lo planificado. Hashtags del momento (#BallonDor, #ElClasico, #UCL…) en vez de genéricos.
 - Cada lunes: revisa y amplía `momentos.md` con fechas oficiales (WebSearch). Apunta en `aprendizajes.md` si los posts del momento rinden más.
 
+## Paleta de colores (usuario 06/10: "acuérdate de la paleta para todo lo que se cree a partir de ahora")
+- TODA imagen nueva usa la paleta de la app 2yellow: `futbol-pipeline/redes/plantillas/equipaciones.py` + `colores/equipaciones.json` (228 equipos; `generar.py` ya la usa). Nada de colores a ojo ni blancos por defecto. Equipo nuevo sin color: añadirlo a `colores/equipos_extra.txt` y lanzar `colores_redes.yml`; revisar el resultado y corregir a mano en `curar.py` con su motivo.
+
 ## Rigor (usuario 06/10: "tienes que ser más riguroso")
 - Antes de publicar, mira CADA imagen como la vería un seguidor: nada que no tenga sentido en ese formato (p. ej. "Swipe" en un vídeo), nada contradictorio en la misma tarjeta (marcador 0-2 junto a "over 2.5: 63%"), equipos distinguibles, nada fuera de la zona segura.
 - Plantillas: el "Swipe" solo sale con `CARRUSEL=1` en el entorno (generar los PNG del carrusel con `CARRUSEL=1 python3 ...`; para vídeo, sin la variable).
