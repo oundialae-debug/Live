@@ -1,0 +1,21 @@
+name: bajar-fotos
+# Fotos libres de jugadores (Wikipedia/Commons) para jugador vs jugador. Se dispara al subir fotos/pedidos/*.json.
+on:
+  push:
+    paths: ["fotos/pedidos/*.json"]
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency: {group: bajar-fotos}
+jobs:
+  bajar:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - run: python3 scripts/bajar_fotos.py
+      - name: Guardar
+        run: |
+          git config user.name "2yellow-bot"; git config user.email "bot@users.noreply.github.com"
+          git add -A fotos; git diff --cached --quiet && exit 0
+          git commit -m "fotos: descargadas [skip ci]"
+          for i in 1 2 3; do git pull --rebase -q && git push && break; sleep 5; done
