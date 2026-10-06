@@ -33,5 +33,7 @@ fecha,tipo,partido,red,buffer_id,programado_madrid,musica,plantillas,views,likes
 2026-10-06,ranking,Balón de Oro índice 2yellow,instagram,6ac4fac5e1a4308ddae8f5ae,2026-10-06T15:42,app (usuario),balon_oro_indice,,,,,,,recordatorio; datos propios 2025/26 + Mundial,formato=ranking;hook=pregunta;momento=balon_oro
 2026-10-06,xi,2yellow XI septiembre (ligas + Champions),instagram,6ac510cb9a4f7a88bc25a7b1,2026-10-06T17:16,app (usuario),xi_mes,,,,,,,recordatorio; índice por rol; paleta de la app,formato=xi_mes;hook=pregunta
 2026-10-06,xi,2yellow XI septiembre (ligas + Champions),tiktok,6ac510d1e021988152427e8c,2026-10-06T17:16,app (usuario),xi_mes,,,,,,,recordatorio; índice por rol; paleta de la app,formato=xi_mes;hook=pregunta
-2026-10-06,directo,Merino super-sub (Croatia-Spain 1-1),tiktok,6ac5551d38b9e9d5545e9824,2026-10-06T22:08,usuario,foto+cronologia,,,,,,,,formato=foto;recordatorio=si
-2026-10-06,directo,Merino super-sub (Croatia-Spain 1-1),instagram,6ac55520544ff8353df98647,2026-10-06T22:08,usuario,foto+cronologia,,,,,,,,formato=foto;recordatorio=si
+2026-10-06,directo,Merino super-sub (Croatia-Spain 1-1),tiktok,6ac5551d38b9e9d5545e9824,2026-10-06T22:08,usuario,foto+cronologia,,,,,,,,formato=foto;recordatorio=si;DESCARTADO: datos incompletos, usar v2
+2026-10-06,directo,Merino super-sub (Croatia-Spain 1-1),instagram,6ac55520544ff8353df98647,2026-10-06T22:08,usuario,foto+cronologia,,,,,,,,formato=foto;recordatorio=si;DESCARTADO: datos incompletos, usar v2
+2026-10-06,directo,Merino super-sub v2 (Croatia-Spain 1-1),tiktok,6ac555749b4b7d7d77d69ded,2026-10-06T22:09,usuario,foto+cronologia,,,,,,,,formato=foto;recordatorio=si
+2026-10-06,directo,Merino super-sub v2 (Croatia-Spain 1-1),instagram,6ac5557738b9e9d5545ea260,2026-10-06T22:09,usuario,foto+cronologia,,,,,,,,formato=foto;recordatorio=si
