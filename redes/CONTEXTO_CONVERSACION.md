@@ -42,7 +42,7 @@ Resumen de todo lo hablado con el usuario en el chat que creó el sistema. Léel
 - Buffer plan gratuito: límite de posts programados a la vez; los publicados no se pueden borrar por API.
 
 ## Cola de publicación (decidido 06/10)
-- El usuario: "no entiendo por qué hay que programar tanto". Decidido: memes/curiosos (y previos) se guardan en GitHub (`redes/cola/`) y el workflow `enviar-cola` los manda a Buffer pocos minutos antes de su hora (recordatorio para memes). Así Buffer solo tiene lo inminente y no se choca con el límite de programados. Falta que el usuario ponga el secreto `BUFFER_API_KEY` en el repo live.
+- El usuario: "no entiendo por qué hay que programar tanto". Decidido: memes/curiosos (y previos) se guardan en GitHub (`redes/cola/`) y el workflow `enviar-cola` los manda a Buffer pocos minutos antes de su hora (recordatorio para memes). Así Buffer solo tiene lo inminente y no se choca con el límite de programados. Clave `BUFFER_API_KEY` puesta y comprobada el 06/10: cola ACTIVA. La clave tiene todos los permisos (incl. insights y engagements); el usuario pide usarla con cabeza para analizar y conseguir más interacción y seguidores.
 
 ## Respaldo
 - Workflow `redes_backup.yml` en futbol-pipeline (apagado): solo se activa si el usuario deja de tener Claude Pro (variable BACKUP_REDES=on + secreto BUFFER_API_KEY). Ver `futbol-pipeline/redes/backup/LEEME.md`. "De momento seguimos contigo".
