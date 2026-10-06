@@ -74,6 +74,7 @@ Resumen de todo lo hablado con el usuario en el chat que creó el sistema. Léel
 - 06/10: usuario: "¿por qué Raphinha y Lamine salen en azul y los demás en blanco? la app ya corrigió la paleta, cógela y úsala de ahora en adelante" → paleta de la app (app_apostador, rama ccr-302c299f-kdpgwl: equipaciones reales 1ª/2ª/3ª de Wikipedia + regla sin choques) copiada a futbol-pipeline/redes/plantillas (equipaciones.py, colores/) y ampliada a 228 equipos (5 grandes + Champions), curados a mano con motivo. Equipo sin ficha = gris de la app, nunca blanco. XI: nunca banda contraria; empates en la misma posición = dato del rol (xG+xA/90 en ataque…).
 - 06/10: Instagram con música convierte la foto en reel y corta arriba/abajo en el feed → imágenes de IG con música en `LIENZO=reel` (contenido en la franja central). Usuario: no rehacer lo ya publicado ni lo programado; aplicar desde el 07/10.
 - Inglés británico ("defence"), confirmado.
+- 06/10: capturas de otras cuentas (p. ej. Score 90 manager vs manager) = solo para aprender qué funciona (apuntar en diario_creativo.md), NO para crear formatos nuevos salvo que lo pida. No hay conector que lea cuentas ajenas; fuentes: sus capturas, Google Trends (workflow), Higgs.
 
 ## Promoción gratis (decidido 06/10)
 - Usuario: sí a optimizar para búsquedas de TikTok "siempre que no estropee el contenido" (palabras de búsqueda en la 1ª frase y el título; en la imagen solo si cabe).
