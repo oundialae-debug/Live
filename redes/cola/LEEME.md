@@ -8,4 +8,4 @@ Un JSON por post y red. El workflow `enviar-cola` (cada 10 min) lo manda a Buffe
 - Imágenes (meme/curioso) → modo recordatorio (`notification`). Con `"video": "https://raw.githubusercontent.com/.../videos/x.mp4"` → automático (previos). Se puede forzar con `"recordatorio": true|false`.
 - URL de imagen: CloudFront de Higgs o `https://raw.githubusercontent.com/oundialae-debug/live/main/media/<x>.jpg`.
 - CARRUSEL (previo con `formato=carrusel`): `"imagenes": [6 URLs en orden]`. En IG va automático (`"recordatorio": false`, sale como carrusel sin música); en TikTok, recordatorio (el usuario pone la música, puede salir 1-4 h tarde) → la hora del carrusel debe ser ≥7 h antes del saque.
-- `"primer_comentario": "..."` (solo IG): pregunta polémica corta como primer comentario. Ponerla en TODOS los posts de IG automáticos.
+- Primer comentario: NO disponible (Buffer lo reserva al plan de pago). La pregunta va al final de la descripción.

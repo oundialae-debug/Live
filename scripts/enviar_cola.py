@@ -24,8 +24,7 @@ def entrada(x, due):
     if x["red"] == "instagram":
         tipo = "reel" if video else ("carousel" if len(x.get("imagenes", [])) > 1 else "post")
         meta = {"instagram": {"type": tipo, "shouldShareToFeed": True}}
-        if x.get("primer_comentario"):  # pregunta polémica como 1er comentario (usuario 06/10); solo IG
-            meta["instagram"]["firstComment"] = x["primer_comentario"]
+        # primer comentario: NO, Buffer lo reserva al plan de pago ("First comment requires a paid plan", 06/10)
     else:
         meta = {"tiktok": {"title": x.get("titulo", x["text"].split("\n")[0])[:90]}}
     assets = [{"video": {"url": x["video"]}}] if video else [{"image": {"url": u}} for u in x["imagenes"]]
