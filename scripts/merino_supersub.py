@@ -5,7 +5,7 @@ R = Path("/home/user/futbol-pipeline/redes/plantillas/recursos"); F = Path("/hom
 b = lambda p: base64.b64encode(Path(p).read_bytes()).decode()
 AM, NO = "#FFD21F", "#0A0C11"
 cred = sys.argv[1]; out = sys.argv[2]; pos = sys.argv[3] if len(sys.argv) > 3 else "center 15%"
-filas = [("EURO '24 QF", "v Germany", "119' winner"), ("WC '26 LAST 16", "v Portugal", "91' winner"),
+filas = [("EURO '24 QF", "v Germany", "119' winner"), ("WC '26 R16", "v Portugal", "91' winner"),
          ("WC '26 QF", "v Belgium", "115 secs after coming on"), ("TONIGHT", "v Croatia", "on at half-time · 1-1")]
 fl = "".join(f'<div style="display:flex;align-items:baseline;gap:18px;padding:14px 0;border-bottom:2px solid rgba(255,255,255,.14)">'
              f'<span style="width:270px;font-size:30px;font-weight:900;letter-spacing:2px;color:{AM if i == 3 else "#C9CEDA"}">{a}</span>'
