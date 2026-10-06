@@ -52,6 +52,12 @@ Resumen de todo lo hablado con el usuario en el chat que creó el sistema. Léel
 - Usuario: mejor JUGADOR VS JUGADOR que equipo vs equipo (lo que más interesa y genera conversación). Hecho: `datos_rankings.py jugadores`.
 - Pregunta del usuario: ¿el bandido es buen modelo? Respuesta: sirve para ajustar detalles con pocos datos, pero no decide lo importante (tema/formato) y tiene mucho ruido; plan: dejarle pocas variables, comparar contra la mediana de cada tipo y pasar a regresión con ≥100 posts.
 
+## Correcciones del usuario (06/10, post Croacia-España) — "tienes que ser más riguroso"
+- "Swipe" en la 1ª imagen de un VÍDEO no tiene sentido: solo en carruseles (y no en la última). Hecho.
+- our_calls ponía "Score: 0-2" junto a "Over 2.5 goals: 63%": quitado el Score. Hecho.
+- Siempre NUESTROS datos salvo que no estén al día (understat solo de respaldo). Hecho en jugador vs jugador.
+- Jugador vs jugador con caras/fotos en degradado hacia el centro ("tú decides"): hecho con fotos libres de Commons (workflow bajar-fotos).
+
 ## Respaldo
 - Workflow `redes_backup.yml` en futbol-pipeline (apagado): solo se activa si el usuario deja de tener Claude Pro (variable BACKUP_REDES=on + secreto BUFFER_API_KEY). Ver `futbol-pipeline/redes/backup/LEEME.md`. "De momento seguimos contigo".
 
