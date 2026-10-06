@@ -43,8 +43,40 @@ def foto(nombre):
             "credito": f"Photo: {autor[:40]}, {lic}"}
 
 
+def commons(buscar, n=6):
+    """Varias fotos candidatas de Commons (para no repetir la misma foto de un jugador)."""
+    q = urllib.parse.urlencode({"action": "query", "format": "json", "list": "search", "srnamespace": 6,
+                                "srlimit": n * 2, "srsearch": buscar})
+    out = []
+    for r in get(f"https://commons.wikimedia.org/w/api.php?{q}")["query"]["search"]:
+        t = r["title"]
+        if not re.search(r"\.(jpe?g|png)$", t, re.I):
+            continue
+        q2 = urllib.parse.urlencode({"action": "query", "format": "json", "prop": "imageinfo", "iiprop": "url|extmetadata",
+                                     "iiurlwidth": 900, "titles": t})
+        info = next(iter(get(f"https://commons.wikimedia.org/w/api.php?{q2}")["query"]["pages"].values()))["imageinfo"][0]
+        meta = info.get("extmetadata", {})
+        lic = re.sub("<[^>]+>", "", meta.get("LicenseShortName", {}).get("value", ""))
+        autor = re.sub("<[^>]+>", "", meta.get("Artist", {}).get("value", "")).strip()
+        if re.search(r"CC|Public domain|PD", lic, re.I):
+            out.append({"archivo": t[5:], "url": info["thumburl"], "autor": autor[:60], "licencia": lic,
+                        "credito": f"Photo: {autor[:40]}, {lic}"})
+        if len(out) >= n:
+            break
+    return out
+
+
 def main():
     hechos = 0
+    for ped in sorted((ROOT / "fotos/pedidos").glob("*.json")):
+        for c in json.loads(ped.read_text()).get("commons", []):  # {"buscar": "...", "slug": "..."} -> fotos/candidatas/
+            try:
+                for i, f in enumerate(commons(c["buscar"], c.get("n", 6)), 1):
+                    d = ROOT / "fotos/candidatas"; d.mkdir(parents=True, exist_ok=True)
+                    (d / f"{c['slug']}_{i}.jpg").write_bytes(urllib.request.urlopen(urllib.request.Request(f["url"], headers=UA), timeout=60).read())
+                    (d / f"{c['slug']}_{i}.json").write_text(json.dumps(f, ensure_ascii=False, indent=1)); hechos += 1
+            except Exception as ex:
+                print(f"[!] {c}: {ex}")
     for ped in sorted((ROOT / "fotos/pedidos").glob("*.json")):
         for n in json.loads(ped.read_text()).get("jugadores", []):
             try:
