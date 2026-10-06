@@ -59,7 +59,7 @@ Resumen de todo lo hablado con el usuario en el chat que creó el sistema. Léel
 - Jugador vs jugador con caras/fotos en degradado hacia el centro ("tú decides"): hecho con fotos libres de Commons (workflow bajar-fotos).
 
 ## Momentum y tendencias (decidido 06/10)
-- Usuario: tener en cuenta los momentos de la temporada (Champions, Balón de Oro…) y aprender a usar trends de fútbol. Hecho: `redes/momentos.md` (calendario con qué publicar), workflow `tendencias` (Google Trends RSS, filtrado a fútbol → `redes/tendencias.md`), ranking de nominados al Balón de Oro con nuestros datos 2025/26 (`datos_rankings.py nominados`). Clave: Clásico dom 25/10 + gala del Balón de Oro lun 26/10 (Londres).
+- Usuario: tener en cuenta los momentos de la temporada (Champions, Balón de Oro…) y aprender a usar trends de fútbol. Hecho: `redes/momentos.md` (calendario con qué publicar), workflow `tendencias` (Google Trends RSS, filtrado a fútbol → `redes/tendencias.md`), ranking de nominados al Balón de Oro con nuestros datos 2025/26. Usuario: "¿crees que el Balón de Oro se elige por goles y asistencias? en otros lados ponen a Lamine 2" → tenía razón: hecho `balon_oro_indice` con los 3 criterios oficiales (individual 55%, títulos 40%, juego limpio 5%; liga + Champions + Mundial): Dembélé 88, Yamal 86, Kane 82, Olise 79, Mbappé 74. Una sola cifra nunca se presenta como ranking del premio. Clave: Clásico dom 25/10 + gala del Balón de Oro lun 26/10 (Londres).
 
 ## Respaldo
 - Workflow `redes_backup.yml` en futbol-pipeline (apagado): solo se activa si el usuario deja de tener Claude Pro (variable BACKUP_REDES=on + secreto BUFFER_API_KEY). Ver `futbol-pipeline/redes/backup/LEEME.md`. "De momento seguimos contigo".
