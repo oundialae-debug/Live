@@ -75,6 +75,7 @@ Resumen de todo lo hablado con el usuario en el chat que creó el sistema. Léel
 - 06/10: Instagram con música convierte la foto en reel y corta arriba/abajo en el feed → imágenes de IG con música en `LIENZO=reel` (contenido en la franja central). Usuario: no rehacer lo ya publicado ni lo programado; aplicar desde el 07/10.
 - Inglés británico ("defence"), confirmado.
 - 06/10: TikTok conectado en Higgs (connector daa37f3c-678b-4dbc-b00a-2635b405d562). Música en tendencia = gratis (0 créditos antes y después), pero es la biblioteca comercial (mucho lo-fi/BGM, no los sonidos virales); solo como ideas para cuando el usuario publica a mano. Publicar desde Higgs exige formulario en el chat → no sirve para lo automático; Buffer sigue.
+- 06/10: predictor de viralidad de Higgs NO disponible en plan gratis ("Requires basic plan"). Para subir vídeos a Higgs usar media_import_url con la URL del vídeo en Buffer (S3); raw de GitHub falla por content-type y la subida directa está bloqueada por el proxy.
 - 06/10: capturas de otras cuentas (p. ej. Score 90 manager vs manager) = solo para aprender qué funciona (apuntar en diario_creativo.md), NO para crear formatos nuevos salvo que lo pida. No hay conector que lea cuentas ajenas; fuentes: sus capturas, Google Trends (workflow), Higgs.
 
 ## Promoción gratis (decidido 06/10)
