@@ -7,11 +7,12 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
 PAISES = {"GB": "UK", "ES": "Spain", "IT": "Italy", "DE": "Germany", "FR": "France", "US": "USA"}
-FUTBOL = re.compile(r"\b(vs|v|fc|cf|ac|sc|united|city|real|atletico|atlético|madrid|barcelona|barça|liverpool|arsenal|chelsea|"
-                    r"tottenham|newcastle|juventus|inter|milan|napoli|roma|lazio|bayern|dortmund|leverkusen|psg|marseille|lyon|"
-                    r"monaco|ballon|champions|premier|liga|serie a|bundesliga|ligue|uefa|fifa|mbapp|yamal|haaland|kane|vinicius|"
-                    r"bellingham|salah|messi|ronaldo|olise|dembele|dembélé|nations league|world cup|transfer|fichaje|derby|derbi|"
-                    r"clasico|clásico|goal|gol|penalty|var|coach|manager|entrenador)\b", re.I)
+FUTBOL = re.compile(r"\b(football|soccer|f[uú]tbol|calcio|fu(ss|ß)ball|fc|cf|atletico|atlético|madrid|barcelona|barça|liverpool|"
+                    r"arsenal|chelsea|tottenham|newcastle|man(chester)? (city|united|utd)|juventus|inter|milan|napoli|roma|lazio|bayern|"
+                    r"dortmund|leverkusen|psg|marseille|lyon|monaco|ballon d.or|champions league|premier league|la ?liga|serie a|"
+                    r"bundesliga|ligue 1|uefa|fifa|nations league|mbapp[eé]|yamal|haaland|kane|vin[ií]cius|bellingham|salah|messi|"
+                    r"ronaldo|olise|demb[eé]l[eé]|cl[aá]sico|derby|derbi)\b", re.I)
+NO_FUTBOL = re.compile(r"\b(cricket|ipl|t20|odi|nfl|nba|mlb|nhl|rugby|tennis|f1|formula 1)\b", re.I)
 NS = {"ht": "https://trends.google.com/trending/rss"}
 
 
@@ -28,7 +29,7 @@ def main():
             trafico = it.findtext("ht:approx_traffic", default="", namespaces=NS)
             noticias = [n.findtext("ht:news_item_title", default="", namespaces=NS) for n in it.findall("ht:news_item", NS)]
             texto = " ".join([t] + noticias)
-            if FUTBOL.search(texto):
+            if FUTBOL.search(texto) and not NO_FUTBOL.search(texto):
                 filas.append((pais, t, trafico, (noticias or [""])[0]))
     out = [f"# Tendencias de fútbol ({datetime.now(timezone.utc):%Y-%m-%d %H:%M} UTC, Google Trends)", "",
            "Generado por el workflow `tendencias`. Úsalo para elegir temas de memes, curiosos y jugador vs jugador.", "",
