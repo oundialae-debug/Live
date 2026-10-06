@@ -25,7 +25,8 @@ Usuario: quiere respuestas MUY breves. Permiso permanente: se puede usar la API 
 ## Imágenes en Instagram: 4:5
 - IG recorta las 9:16 (se perdía el logo arriba y la pregunta abajo). Para cada post de IMAGEN en Instagram genera una versión aparte con `LIENZO=4x5` (1080x1350); TikTok sigue en 9:16. En la cola, un JSON por red con su propia URL de imagen.
 
-## Momentum de la temporada (usuario 06/10: "aprende a usar trends en fútbol")
+## Momentum de la temporada (NADA del Mundial 2026: ya pasó, usuario 06/10)
+(usuario 06/10: "aprende a usar trends en fútbol")
 - Cada mañana, ANTES de elegir temas, lee `redes/momentos.md` (calendario: Champions, Clásico, Balón de Oro, parones, mercado) y `redes/tendencias.md` (Google Trends de fútbol en UK/ES/IT/DE/FR/US, workflow `tendencias`). Si `tendencias.md` es de hace >24 h, lánzalo (workflow_dispatch) o usa WebSearch "football trending today".
 - Momento grande en ≤7 días → al menos 1 extra + el jugador vs jugador del día van sobre él. Tendencia de fútbol en 2+ países → manda sobre lo planificado. Hashtags del momento (#BallonDor, #ElClasico, #UCL…) en vez de genéricos.
 - Cada lunes: revisa y amplía `momentos.md` con fechas oficiales (WebSearch). Apunta en `aprendizajes.md` si los posts del momento rinden más.
