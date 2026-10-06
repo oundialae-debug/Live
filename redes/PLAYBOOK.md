@@ -18,7 +18,7 @@ Usuario: quiere respuestas MUY breves. Permiso permanente: se puede usar la API 
 6. REGISTRO: cada post publicado/programado → una fila en `publicaciones.csv` y commit+push a este repo (main).
 
 ## Formatos propios (usuario 06/10: "que sea especial nuestra, nos da estatus") — PROPUESTA, pendiente de su visto bueno
-- 2yellow XI: el once de la jornada por nota media (tarjetas amarillas con la nota). Lunes 19:00, tras la jornada de ligas. `python3 redes/plantillas/datos_formatos.py xi <vie> <lun> clubes "Matchweek N"`.
+- 2yellow XI: el once de la jornada por 2yellow Index, cada uno en SU posición (jugador_perfil.csv; nunca un lateral de central). Antes de publicar, compáralo con un once de la jornada externo (WhoScored/Sofascore vía WebSearch): si falta alguien obvio o sobra alguien raro, revisa datos antes de publicar. Lunes 19:00, tras la jornada de ligas. `python3 redes/plantillas/datos_formatos.py xi <vie> <lun> clubes "Matchweek N"`.
 - 2yellow Index: top 5 de la semana (nota x10 + 3 por G+A por partido). Martes 19:00. `datos_formatos.py indice <desde> <hasta> clubes "<título>"`.
 - Los dos como imagen en modo recordatorio (el usuario pone música). Siempre el mismo nombre y diseño: el formato fijo es la marca.
 

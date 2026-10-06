@@ -65,7 +65,7 @@ Resumen de todo lo hablado con el usuario en el chat que creó el sistema. Léel
 
 ## Formatos propios y correcciones (06/10)
 - IG corta las imágenes 9:16 → para IG se generan en 4:5 (`LIENZO=4x5`). Yamal salía resaltado en azul en el ranking (solo Barcelona tenía colores de club): ahora barras uniformes, solo el 1º en amarillo.
-- Usuario: hacer equipo de la jornada e índice semanal como formatos PROPIOS ("nos da estatus"); YouTube Shorts más adelante. Propuesta: "2yellow XI" (lunes) y "2yellow Index" (martes), con la tarjeta amarilla como sello. Pendiente de su visto bueno tras ver 2 ejemplos de cada.
+- Usuario: hacer equipo de la jornada e índice semanal como formatos PROPIOS ("nos da estatus"); YouTube Shorts más adelante. Propuesta: "2yellow XI" (lunes) y "2yellow Index" (martes), con la tarjeta amarilla como sello. Pendiente de su visto bueno tras ver 2 ejemplos de cada. 1ª versión rechazada: "no tienes buenos datos… Harry de extremo, Porro de central" → corregido: posiciones reales de jugador_perfil.csv, reparto global por 2yellow Index, selecciones solo partidos entre top 40 FIFA, comprobar contra un once externo antes de publicar.
 
 ## Respaldo
 - Workflow `redes_backup.yml` en futbol-pipeline (apagado): solo se activa si el usuario deja de tener Claude Pro (variable BACKUP_REDES=on + secreto BUFFER_API_KEY). Ver `futbol-pipeline/redes/backup/LEEME.md`. "De momento seguimos contigo".
