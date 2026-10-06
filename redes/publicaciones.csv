@@ -17,3 +17,9 @@ fecha,tipo,partido,red,buffer_id,programado_madrid,musica,plantillas,views,likes
 2026-10-05,post,France-Belgium,tiktok,6ac418258a7578ba6c17d6c7,2026-10-05T23:35,anthem,post2-1-4-5-6,,,,,,,,seg=2.8;arranque=s1;hook=dato;musica=anthem
 2026-10-05,post,Italy-Turkey,instagram,6ac418305b14a019116b9d1e,2026-10-05T23:35,hh05,post2-1-4-5-6,,,,,,,,seg=1.8;arranque=s0;hook=pregunta;musica=hh05
 2026-10-05,post,Italy-Turkey,tiktok,6ac4183b5b14a019116b9e12,2026-10-05T23:35,hh05,post2-1-4-5-6,,,,,,,,seg=1.8;arranque=s0;hook=pregunta;musica=hh05
+2026-10-06,diario,pronosticos ayer+hoy,instagram,6ac48d2159057dd2e0d59977,2026-10-06T09:30,anthem,post5+picks_hoy,,,,,,,,seg=1.8;arranque=s1;hook=pregunta;musica=anthem
+2026-10-06,diario,pronosticos ayer+hoy,tiktok,6ac48d24ae999c0b7f001bdc,2026-10-06T09:30,anthem,post5+picks_hoy,,,,,,,,seg=1.8;arranque=s1;hook=pregunta;musica=anthem
+2026-10-06,previo,Croatia-Spain,instagram,6ac48d27032d0529987db4db,2026-10-06T14:45,hh09,pre5-2-3-4-1-6,,,,,,,,primera=key;seg=2.3;arranque=s1;hook=dato;ante=6;musica=hh09
+2026-10-06,previo,Croatia-Spain,tiktok,6ac48d2ab0e0485fb46de7ef,2026-10-06T14:45,hh09,pre5-2-3-4-1-6,,,,,,,,primera=key;seg=2.3;arranque=s1;hook=dato;ante=6;musica=hh09
+2026-10-06,previo,England-Czech Republic,instagram,6ac48d2db0e0485fb46de85a,2026-10-06T16:45,hh06,pre1-2-3-4-5-6,,,,,,,,primera=pred;seg=1.8;arranque=s0;hook=reto;ante=4;musica=hh06
+2026-10-06,previo,England-Czech Republic,tiktok,6ac48d30b0e0485fb46de8a0,2026-10-06T16:45,hh06,pre1-2-3-4-5-6,,,,,,,,primera=pred;seg=1.8;arranque=s0;hook=reto;ante=4;musica=hh06
