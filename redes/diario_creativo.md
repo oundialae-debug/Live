@@ -24,3 +24,8 @@ Yo hago los memes. Tras cada revisión, anota aquí qué funcionó/falló y qué
 ## Referencia Score 90 (TikTok, captura del usuario, 06/10; solo aprender, NO crear formato)
 - Imagen "manager vs manager" (Mancini vs van Bommel): dos caras grandes enfrentadas, bandera de cada uno en un bocadillo, récord entre ellos en una línea enorme ("4 GAMES 2W 1D 1L"), jugadores de fondo. 8.646 likes.
 - Lección: el choque de personajes reconocibles + un récord legible en 1 segundo + iconos (banderas) en vez de texto. Aplicable a nuestro jugador vs jugador: caras grandes, una sola cifra protagonista, banderas/escudos como lenguaje visual.
+
+## Prueba "directo" (06/10, Croatia 1-2 Spain, con el usuario)
+- Publicados (recordatorio): Merino super-sub v2 (6 goles desde el banquillo, verificados tras corrección del usuario) y carrusel "41. And counting." (récord de imbatibilidad + Merino x2), debatido con Groq/Cerebras/Mistral.
+- Rechazados por el usuario: memes Gvardiol-Lamine y Unai "creates/solves the problem" con fotos genéricas: para momentos del partido quiere la IMAGEN REAL de la jugada (capturas sí, vídeo no); sin captura, no se publica.
+- Lecciones: verificar recuentos completos (Merino: faltaban Netherlands 2025 y Czechia); no repetir la misma foto de un jugador; dobles sentidos en inglés (Split) que no se entienden → evitar.
