@@ -79,6 +79,7 @@ Resumen de todo lo hablado con el usuario en el chat que creó el sistema. Léel
 - 06/10 (noche): usuario pide modo "directo": cada 10 min revisar partidos en juego + tendencias; si sale algo interesante, debatir la idea con el mejor LLM gratis (gpt-oss-120b, Groq/Cerebras), crear imagen y mandarla a Buffer como recordatorio (él publica). Sin forzar: si no hay nada, no se publica. Solo mientras esta sesión esté abierta.
 - 06/10 (noche): en el modo directo NO quiere sorpresa/resultado (eso es del post-partido) ni plantillas sencillas: quiere MOMENTOS curiosos que den likes (lesión de una estrella, error que acaba en gol, roja, récord que cae, algo raro), con imagen atractiva (foto/meme, no tarjeta de datos simple).
 - 06/10 (noche): usuario: "no me vuelvas a preguntar si lo montas o no, tú decides; yo solo veo el producto final y recomiendo". => AUTONOMÍA TOTAL en contenido: decidir y publicar (recordatorio en Buffer) sin pedir permiso.
+- 06/10 (noche): posts de TikTok con 1 vista → cuenta SIN problemas (comprobado por el usuario). Usuario: "seguimos como hasta ahora, es demasiado pronto para cambiar" → no reducir frecuencia ni formatos aún.
 - 06/10: capturas de otras cuentas (p. ej. Score 90 manager vs manager) = solo para aprender qué funciona (apuntar en diario_creativo.md), NO para crear formatos nuevos salvo que lo pida. No hay conector que lea cuentas ajenas; fuentes: sus capturas, Google Trends (workflow), Higgs.
 
 ## Promoción gratis (decidido 06/10)
