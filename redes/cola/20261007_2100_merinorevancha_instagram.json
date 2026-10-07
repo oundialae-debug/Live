@@ -1,0 +1,13 @@
+{
+ "red": "instagram",
+ "hora": "2026-10-07T21:00:00+02:00",
+ "tipo": "meme",
+ "partido": "Merino ends Croatia's revenge",
+ "text": "Croatia waited 7 days for revenge. Merino needed 45 minutes off the bench: two goals, Croatia 1-2 Spain. Who's the best super-sub in the world right now? 👇\n\n#Merino #Spain #Croatia #NationsLeague #2yellow",
+ "titulo": "Croatia waited 7 days for revenge. Merino waited 45 minutes.",
+ "imagenes": [
+  "https://raw.githubusercontent.com/oundialae-debug/live/ccr-b13b338d-x87ynq/media/meme_merino_revancha.jpg"
+ ],
+ "variante": "hook=meme;hora=21;marco=ok;IAs=groq3,cerebras8,mistral8",
+ "notas": "Sustituye al meme Spain-Croatia 4-1/2-1 (IAs 2-3/10). Elegido por las 3 IAs (07/10)."
+}
