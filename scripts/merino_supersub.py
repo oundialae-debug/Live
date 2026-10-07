@@ -17,7 +17,7 @@ h = f"""<style>@font-face{{font-family:A;src:url(data:font/woff2;base64,{b(R/'Ar
 <div style="position:absolute;inset:0;background:url(data:image/jpeg;base64,{b(F/'mikel_merino.jpg')}) {pos}/cover"></div>
 <div style="position:absolute;inset:0;background:linear-gradient(180deg,rgba(10,12,17,.5) 0%,rgba(10,12,17,0) 25%,rgba(10,12,17,0) 38%,rgba(10,12,17,.93) 58%,{NO} 100%)"></div>
 <img style="position:absolute;left:80px;top:330px;width:230px" src="data:image/png;base64,{b(R/'2yellow-logo-transparent-for-dark.png')}">
-<div style="position:absolute;right:40px;top:340px;font-size:20px;opacity:.75">{cred}</div>
+<div style="position:absolute;right:200px;top:340px;font-size:20px;opacity:.75">{cred}</div>
 <div style="position:absolute;left:80px;right:200px;top:900px">
 <div style="font-size:120px;font-weight:900;font-stretch:78%;line-height:.95">Bring on Merino.<br><span style="color:{AM}">Again.</span></div>
 <div style="margin-top:26px">{fl}</div></div>"""

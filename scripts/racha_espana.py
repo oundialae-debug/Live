@@ -7,7 +7,7 @@ modo = sys.argv[1]  # perdio | empate
 MARCADOR = sys.argv[2] if len(sys.argv) > 2 else "Croatia 1-0 Spain"
 CSS = f"""@font-face{{font-family:A;src:url(data:font/woff2;base64,{b(R/'Archivo-latin.woff2')}) format('woff2');font-stretch:62% 125%;font-weight:100 900}}
 *{{margin:0;padding:0;box-sizing:border-box}} body{{width:1080px;height:1920px;background:{NO};color:#F1F3F8;font-family:A,sans-serif;overflow:hidden;position:relative}}
-.logo{{position:absolute;left:80px;top:330px;width:230px}} .cred{{position:absolute;right:40px;top:340px;font-size:20px;opacity:.75}}"""
+.logo{{position:absolute;left:80px;top:330px;width:230px}} .cred{{position:absolute;right:200px;top:340px;font-size:20px;opacity:.75}}"""
 logo = f'<img class="logo" src="data:image/png;base64,{b(R/"2yellow-logo-transparent-for-dark.png")}">'
 def s1():
     hook = ("40 unbeaten.<br><span style='color:%s'>Ended in Croatia.</span>" % RO) if modo == "perdio" else ("41.<br><span style='color:%s'>And counting.</span>" % AM)
