@@ -32,3 +32,10 @@ Fuentes: buffer.com/resources/creator-growth-playbook, fanpagekarma.com/insights
 - nations_league_ciclo (dispatch, tope_llamadas 400) terminó en failure pero ya había guardado marcador y estadísticas en main; el input se llama `tope_llamadas`, no `tope`.
 - WebSearch no confirmaba el pitido final; el marcador se tomó de nuestros datos (partidos.csv terminado=True). Los textos publicados dijeron "Kane scored twice" y "new coach" sin fuente final: verificar antes de afirmar goleadores/entrenador.
 - Un comando combinado (varios git + script) fue denegado por el clasificador; ejecutado por partes sin problema.
+
+## 2026-10-07 (miércoles, sin partidos: parón acabó el 6/10, ligas vuelven el 9/10)
+- Métricas Buffer 30/09-07/10: 35 posts, 3.840 views, alcance 911, 23 reacciones, 11 comentarios, 2 shares, engagement 0,84 % (línea base 05/10: 0,53 %; sube, aún muy poco volumen). Métricas por post casi vacías (<24 h o publicados a mano en recordatorio); `aprender.py aprender` = 0 observaciones (columnas del CSV sin rellenar: Buffer no las devuelve aún). Solo 2 reacciones TikTok en el ranking Balón de Oro (06/10) = lo mejor por post.
+- Hoy: solo extras (sin previos/post/vídeo). Curioso Kane rehecho (el de la cola tenía "tonight", la credit tocaba x=880 y fondo liso) → 12:00; memes 17:00 y 21:00. Todo con marco 80-880/318-1540 comprobado por código (assert) y a la vista, y fondo = la misma foto difuminada y oscurecida.
+- Verificación: Kane 125 caps/91 goles/2G+1A (101greatgoals + Brit Brief); Spain 4-1 Croatia 29/9 (nuestros datos + Flashscore) y Croatia 1-2 Spain 6/10 (nuestros datos).
+- INCIDENTE: Groq/Cerebras/Mistral bloqueados por el proxy hoy (connect_rejected) → sin opinión de otras IAs; solo subagente Sonnet. WebFetch a Wikipedia pidió permiso y expiró. El shell local no sale a internet: fotos y render en el sandbox de Higgs (script nuevo con marco: `scripts/extra_marco.py`).
+- Decisión: dejar el ancla del hook en el título superior (≤34 car.) y los datos en bloque inferior; el rectángulo de foto nítida va dentro de la zona segura.
