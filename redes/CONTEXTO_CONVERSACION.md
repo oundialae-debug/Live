@@ -4,6 +4,7 @@ Resumen de todo lo hablado con el usuario en el chat que creó el sistema. Léel
 
 ## ⚠️ REGLAS IMPORTANTES (se aplican al 100% de las publicaciones, sin excepción)
 1. MARCO / ZONA SEGURA (usuario 07/10, repetido 5-6 veces): todo texto, número, tabla, línea, logo y crédito dentro de x 80-880 e y 318-1540 (imagen 1080x1920). Derecha = iconos de TikTok; abajo = descripción; IG con música solo enseña y 285-1635. Antes de enviar CUALQUIER imagen: dibujar el rectángulo (80,318)-(880,1540) encima, mirarla y corregir si algo toca o sale. Solo la foto de fondo puede salirse.
+2. SE ENTIENDE EN 1 SEGUNDO (usuario 07/10: "si algo no se entiende, hace scroll al segundo"): cada imagen lleva DETRÁS una imagen que diga el tema sin leer (trofeo del Balón de Oro, foto del jugador, estadio, escudo/camiseta…), DIFUMINADA y oscurecida para que el texto se lea perfecto. Nada de fondos lisos en memes, curiosos, rankings, índices ni carruseles. Gancho/título arriba que diga de qué va.
 
 ## Quién es y cómo trabajar con él
 - Cuenta: 2yellow (@2yellowdata) en TikTok e Instagram. Lema: "Football data, before and after the match". Contenido SIEMPRE en inglés; con el usuario, español y MUY breve (ahorra créditos).
