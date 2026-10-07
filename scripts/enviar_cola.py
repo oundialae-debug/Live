@@ -34,6 +34,7 @@ def entrada(x, due):
 
 def main(prueba=False):
     ahora = datetime.now(timezone.utc)
+    HECHOS.mkdir(parents=True, exist_ok=True)  # 07/10: git no guarda carpetas vacías y sin enviados/ fallaba todo
     for p in sorted(COLA.glob("*.json")):
         x = json.loads(p.read_text())
         hora = datetime.fromisoformat(x["hora"])
