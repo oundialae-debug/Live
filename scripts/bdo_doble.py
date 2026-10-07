@@ -22,7 +22,9 @@ def lista(titulo, como, filas, col):
             f'<div style="font-size:21px;color:#C9CED9;margin:12px 0 6px;line-height:1.3;height:112px">{como}</div>{f}</div>')
 h = f"""<style>@font-face{{font-family:A;src:url(data:font/woff2;base64,{b(R/'Archivo-latin.woff2')}) format('woff2');font-stretch:62% 125%;font-weight:100 900}}
 *{{margin:0;padding:0;box-sizing:border-box}} body{{width:1080px;height:1920px;background:{NO};color:#F1F3F8;font-family:A,sans-serif;overflow:hidden;position:relative}}</style>
-<div style="position:absolute;inset:0;background:radial-gradient(900px 700px at 15% 8%,#3A2F0A,transparent 70%),{NO}"></div>
+<div style="position:absolute;inset:-40px;background:url(data:image/jpeg;base64,{b('/home/user/Live/fotos/candidatas/balon_oro_2.jpg')}) center 22%/130% auto no-repeat,#0A0C11;filter:blur(4px)"></div>
+<div style="position:absolute;inset:0;background:linear-gradient(180deg,rgba(10,12,17,.15) 0%,rgba(10,12,17,.45) 25%,rgba(10,12,17,.8) 45%,rgba(10,12,17,.9) 100%)"></div>
+<div style="position:absolute;right:200px;top:1505px;font-size:18px;opacity:.7">Photo: Tkotw12, CC BY-SA 4.0</div>
 <div style="position:absolute;left:80px;right:200px;top:330px">
 <div style="display:flex;justify-content:space-between;align-items:center"><img style="width:200px" src="data:image/png;base64,{b(R/'2yellow-logo-transparent-for-dark.png')}">
 <div style="font-size:24px;letter-spacing:2px;color:#C9CED9">BALLON D'OR 2026</div></div>
