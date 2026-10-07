@@ -15,11 +15,11 @@ hitos = "".join(f'<div style="flex:1;text-align:center"><div style="width:22px;h
 mime = "webp" if FOTO.endswith("webp") else "png" if FOTO.endswith("png") else "jpeg"
 h = f"""<style>@font-face{{font-family:A;src:url(data:font/woff2;base64,{b(R/'Archivo-latin.woff2')}) format('woff2');font-stretch:62% 125%;font-weight:100 900}}
 *{{margin:0;padding:0;box-sizing:border-box}} body{{width:1080px;height:1920px;background:{NO};color:#F1F3F8;font-family:A,sans-serif;overflow:hidden;position:relative}}</style>
-<div style="position:absolute;left:0;right:0;top:0;height:1150px;background:url(data:image/{mime};base64,{b(FOTO)}) {POS}/cover"></div>
-<div style="position:absolute;inset:0;background:linear-gradient(180deg,rgba(10,12,17,.55) 0%,rgba(10,12,17,.05) 22%,rgba(10,12,17,.2) 40%,rgba(10,12,17,.93) 54%,{NO} 62%)"></div>
+<div style="position:absolute;left:0;right:0;top:0;height:1250px;background:url(data:image/{mime};base64,{b(FOTO)}) {POS}/cover"></div>
+<div style="position:absolute;inset:0;background:linear-gradient(180deg,rgba(10,12,17,.55) 0%,rgba(10,12,17,.05) 22%,rgba(10,12,17,.2) 44%,rgba(10,12,17,.93) 58%,{NO} 66%)"></div>
 <img style="position:absolute;left:80px;top:330px;width:200px" src="data:image/png;base64,{b(R/'2yellow-logo-transparent-for-dark.png')}">
 <div style="position:absolute;left:80px;right:200px;top:340px;text-align:right;font-size:26px;font-weight:900;letter-spacing:2px;color:#fff;text-shadow:0 2px 10px #000">ARSENAL · UNTIL 2030</div>
-<div style="position:absolute;left:80px;right:200px;top:860px">
+<div style="position:absolute;left:80px;right:200px;top:950px">
 <div style="font-size:70px;font-weight:900;font-stretch:76%;line-height:1">3 times second.<br>Then <span style="color:{AM}">champions</span>.</div>
 <div style="font-size:26px;color:#C9CFDA;margin-top:14px;line-height:1.3">Arsenal reward Mikel Arteta with a new deal until 2030: about £20m a year, the best-paid boss in the Premier League.</div>
 <div style="position:relative;margin-top:34px"><div style="position:absolute;left:8%;right:8%;top:10px;height:3px;background:linear-gradient(90deg,#3A4152,{RJ})"></div>
