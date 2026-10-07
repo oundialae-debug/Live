@@ -4,6 +4,9 @@ Cuenta: TikTok + Instagram, contenido EN INGLÉS. Texto/hashtags: 5 hashtags. NU
 Alcance: 5 grandes ligas europeas (NO Segunda). Nations League solo mientras no haya ligas.
 Usuario: quiere respuestas MUY breves. Permiso permanente: se puede usar la API de Highlightly (si se agotan cuotas, webs externas). Sin partidos ese día = no se publica nada.
 
+## ⚠️ REGLAS IMPORTANTES (se aplican al 100% de las publicaciones, sin excepción)
+1. MARCO / ZONA SEGURA (usuario 07/10, repetido 5-6 veces): todo texto, número, tabla, línea, logo y crédito dentro de x 80-880 e y 318-1540 (imagen 1080x1920). Derecha = iconos de TikTok; abajo = descripción; IG con música solo enseña y 285-1635. Antes de enviar CUALQUIER imagen: dibujar el rectángulo (80,318)-(880,1540) encima, mirarla y corregir si algo toca o sale. Solo la foto de fondo puede salirse.
+
 ## Cada día (tarea "2yellow diario", ~07:46 Madrid)
 1. MÉTRICAS: lee `publicaciones.csv`; para posts de >24 h sin métricas, `get_post includeMetrics:true` (Buffer) y rellena columnas. NO juzgues por un solo día: compara tendencias de varios días. **Los DOMINGOS** haz además la REVISIÓN SEMANAL: analiza toda la semana anterior (lun-dom) con `get_aggregated_post_metrics` y el CSV (por tipo de post, plantilla, pista, hora, liga, red) y escribe las conclusiones y los cambios decididos en `aprendizajes.md` bajo "Semana <fecha>". Actualiza `aprendizajes.md` (qué plantilla, música, hora, liga rinde más: views, likes, comentarios, shares, seguidores). Ajusta las reglas de abajo según los datos (tú decides). Cuenta de seguidores: `get_account`/`get_channel`.
 2. PARTIDOS: del repo futbol-pipeline (datos en `data/` ; selecciones en `data/selecciones/`, ligas cuando empiecen; `registro_pronosticos.csv`). Elige los 2 mejores del día. Si no hay partidos → fin (no publicar nada).
