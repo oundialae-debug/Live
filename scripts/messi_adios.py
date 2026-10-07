@@ -10,14 +10,13 @@ DATOS = [("208", "CAPS"), ("126", "GOALS"), ("21", "YEARS"), ("1", "WORLD CUP"),
 celdas = "".join(f'<div style="background:rgba(255,255,255,.06);border-radius:14px;padding:12px 16px">'
                  f'<div style="font-size:56px;font-weight:900;font-stretch:72%;line-height:1;color:{AM}">{n}</div>'
                  f'<div style="font-size:19px;font-weight:700;letter-spacing:1.5px;color:#C9CFDA;margin-top:4px">{t}</div></div>' for n, t in DATOS)
-foto = lambda f, pos: f'<div style="flex:1;background:url(data:image/jpeg;base64,{b(f)}) {pos}/cover"></div>'
+foto = lambda f, pos: f'<div style="flex:1;background:url(data:image/{'webp' if str(f).endswith('webp') else 'jpeg'};base64,{b(f)}) {pos}/cover"></div>'
 h = f"""<style>@font-face{{font-family:A;src:url(data:font/woff2;base64,{b(R/'Archivo-latin.woff2')}) format('woff2');font-stretch:62% 125%;font-weight:100 900}}
 *{{margin:0;padding:0;box-sizing:border-box}} body{{width:1080px;height:1920px;background:{NO};color:#F1F3F8;font-family:A,sans-serif;overflow:hidden;position:relative}}</style>
-<div style="position:absolute;left:0;right:0;top:0;height:1100px;display:flex;gap:6px">{foto(F/'messi_arg_1.jpg','center 12%')}{foto(F/'messi_wc_4.jpg','center 8%')}</div>
+<div style="position:absolute;left:0;right:0;top:0;height:1100px;display:flex;gap:6px">{foto(F/'messi_arg_1.jpg','center 12%')}{foto(F/'messi_adios_web_1.webp','46% center')}</div>
 <div style="position:absolute;inset:0;background:linear-gradient(180deg,rgba(10,12,17,.55) 0%,rgba(10,12,17,.1) 22%,rgba(10,12,17,.15) 40%,rgba(10,12,17,.92) 54%,{NO} 62%)"></div>
 <img style="position:absolute;left:80px;top:330px;width:200px" src="data:image/png;base64,{b(R/'2yellow-logo-transparent-for-dark.png')}">
 <div style="position:absolute;left:80px;right:200px;top:340px;text-align:right;font-size:26px;font-weight:900;letter-spacing:2px;color:#fff;text-shadow:0 2px 10px #000,0 0 4px #000">THE LAST TANGO</div>
-<div style="position:absolute;left:80px;right:200px;top:852px;text-align:right;font-size:15px;text-shadow:0 1px 4px #000;opacity:.7">{cred}</div>
 <div style="position:absolute;left:80px;right:200px;top:880px">
 <div style="display:flex;justify-content:space-between;font-size:26px;font-weight:900;letter-spacing:1.5px">
 <span>2005 · FIRST GAME</span><span>2026 · LAST GAME</span></div>
