@@ -6,7 +6,7 @@ from datetime import datetime, timezone
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
-PAISES = {"GB": "UK", "ES": "Spain", "IT": "Italy", "DE": "Germany", "FR": "France", "US": "USA"}
+PAISES = {"GB": "UK", "ES": "Spain", "IT": "Italy", "DE": "Germany", "FR": "France", "US": "USA", "AR": "Argentina", "BR": "Brazil", "PT": "Portugal", "MX": "Mexico"}
 FUTBOL = re.compile(r"\b(football|soccer|f[uú]tbol|calcio|fu(ss|ß)ball|fc|cf|atletico|atlético|madrid|barcelona|barça|liverpool|"
                     r"arsenal|chelsea|tottenham|newcastle|man(chester)? (city|united|utd)|juventus|inter|milan|napoli|roma|lazio|bayern|"
                     r"dortmund|leverkusen|psg|marseille|lyon|monaco|ballon d.or|champions league|premier league|la ?liga|serie a|"
