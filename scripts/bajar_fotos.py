@@ -3,7 +3,8 @@
 Busca la foto principal del artículo de la Wikipedia en inglés (en biografías de gente viva solo se admiten
 fotos libres), comprueba la licencia en Commons (CC / dominio público) y guarda fotos/<slug>.jpg + <slug>.json
 con autor y licencia para el crédito obligatorio. Si no hay foto libre, apunta el fallo y sigue.
-También {"web": [{"buscar": "...", "slug": "...", "n": 8, "dias": 7, "debe": ["arteta"]}]}: fotos recientes y grandes de toda la web
+También {"web": [{"buscar": "...", "slug": "...", "n": 8, "dias": 7, "debe": ["arteta"], "noticia": "Arteta"}]}
+("noticia": primero la foto principal de las noticias de hoy con esa palabra en el titular): fotos recientes y grandes de toda la web
 (Bing/DuckDuckGo) a fotos/candidatas/, sin mirar licencia (decisión del usuario 07/10)."""
 import json, re, sys, unicodedata, urllib.parse, urllib.request
 from pathlib import Path
@@ -111,6 +112,37 @@ def web(buscar, n=8, dias=7, debe=None):
     return buenos[: n * 3]
 
 
+def noticia(buscar, n=6):
+    """Foto principal (og:image) de las noticias de hoy cuyo titular contiene `buscar` en los RSS de scripts/titulares.py
+    (BBC, Guardian, Sky, Marca...). Es la foto más actual y de calidad: la que eligió el propio medio."""
+    sys.path.insert(0, str(ROOT / "scripts"))
+    from titulares import FEEDS
+    import xml.etree.ElementTree as ET
+    clave, out = slug(buscar), []
+    for medio, url in FEEDS.items():
+        if medio.startswith("Google News") or medio.startswith("r/"):
+            continue
+        try:
+            raiz = ET.fromstring(urllib.request.urlopen(urllib.request.Request(url, headers=UA_WEB), timeout=20).read())
+        except Exception:
+            continue
+        for it in list(raiz.iter("item"))[:40]:
+            t, enlace = it.findtext("title") or "", (it.findtext("link") or "").strip()
+            if clave not in slug(t) or not enlace.startswith("http"):
+                continue
+            try:
+                html = urllib.request.urlopen(urllib.request.Request(enlace, headers=UA_WEB), timeout=20).read().decode("utf-8", "ignore")
+                m = re.search(r'<meta[^>]+(?:property|name)=["\']og:image["\'][^>]+content=["\']([^"\']+)', html) or \
+                    re.search(r'<meta[^>]+content=["\']([^"\']+)["\'][^>]+(?:property|name)=["\']og:image', html)
+                if m:
+                    out.append({"url": m.group(1).replace("&amp;", "&"), "titulo": t, "pagina": enlace, "fuente": medio})
+            except Exception:
+                pass
+            if len(out) >= n * 2:
+                return out
+    return out
+
+
 def get_web(url):
     h = dict(UA_WEB, Referer="https://duckduckgo.com/")
     return json.load(urllib.request.urlopen(urllib.request.Request(url, headers=h), timeout=30))
@@ -130,7 +162,9 @@ def main():
     for ped in sorted((ROOT / "fotos/pedidos").glob("*.json")):
         for c in json.loads(ped.read_text()).get("web", []):  # {"buscar": "...", "slug": "...", "n": 8, "dias": 7} -> fotos/candidatas/
             d = ROOT / "fotos/candidatas"; d.mkdir(parents=True, exist_ok=True); i = 0
-            for f in web(c["buscar"], c.get("n", 8), c.get("dias", 7), c.get("debe")):
+            cands = noticia(c["noticia"], c.get("n", 8)) if c.get("noticia") else []
+            print(f"noticias con {c.get('noticia')}: {len(cands)}")
+            for f in cands + web(c["buscar"], c.get("n", 8), c.get("dias", 7), c.get("debe")):
                 try:
                     r = urllib.request.urlopen(urllib.request.Request(f["url"], headers=UA_WEB), timeout=30)
                     datos = r.read()
