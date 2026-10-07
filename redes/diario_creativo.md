@@ -34,3 +34,8 @@ Yo hago los memes. Tras cada revisión, anota aquí qué funcionó/falló y qué
 - v1 (06/10, publicado) mal: Bayern mal escrito (Kane/Olise sin Champions), medias sin ajustar por minutos (Dembélé), métrica de extremo para un 9 (Kane), Mundial poco peso, faltaban Messi/Mané/Quiñones, solo liga+Mundial (sin copas ni premios), "ganará" con popularidad en vez de prensa.
 - v3 (bdo_2026_v3.csv): MERECE = rendimiento por posición ajustado por minutos 50% + títulos con copas y Mundial 30% + premios (Balón/Bota del Mundial, Bota de Oro europea, mejor jugador de liga) 15% + juego limpio 5% → Kane 87, Yamal 84, Olise 83, Mbappé 80, Rodri 68. GANARÁ = posición media en power rankings de Goal, Yahoo y Sports Mole → Kane, Yamal, Mbappé, Rodri, Messi.
 - Regla: antes de publicar un ranking, contrastar con la prensa y el sentido futbolístico; si no cuadra, investigar.
+
+## 07/10 tarde: noticias del día y fotos
+- El usuario se enfadó porque no publicamos la despedida de Messi: la noticia emocional del día va primero. Hoy salieron Messi (roja en el debut / gol en el adiós), Walta = Yamal, Arteta hasta 2030 ("3 times second. Then champions.") y la retirada de Pedro ("He won everything."). David Silva vuelve con 40 años: las IAs le dieron un 6 y no se publicó.
+- Fotos: lo mejor es la foto principal de las noticias de hoy (modo "noticia" de bajar_fotos.py, og:image de BBC, Guardian, Sky…): actual, de calidad y del propio momento. Bing a pelo devuelve basura y DuckDuckGo da 403 desde GitHub.
+- Las fotos de los medios llevan logos o texto (BBC, Guardian, "ARTETA SIGNS" de Sky): encuadrar para que no se vean.
