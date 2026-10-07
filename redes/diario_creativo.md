@@ -29,3 +29,8 @@ Yo hago los memes. Tras cada revisión, anota aquí qué funcionó/falló y qué
 - Publicados (recordatorio): Merino super-sub v2 (6 goles desde el banquillo, verificados tras corrección del usuario) y carrusel "41. And counting." (récord de imbatibilidad + Merino x2), debatido con Groq/Cerebras/Mistral.
 - Rechazados por el usuario: memes Gvardiol-Lamine y Unai "creates/solves the problem" con fotos genéricas: para momentos del partido quiere la IMAGEN REAL de la jugada (capturas sí, vídeo no); sin captura, no se publica.
 - Lecciones: verificar recuentos completos (Merino: faltaban Netherlands 2025 y Czechia); no repetir la misma foto de un jugador; dobles sentidos en inglés (Split) que no se entienden → evitar.
+
+## Balón de Oro 2026 (07/10): lecciones del índice
+- v1 (06/10, publicado) mal: Bayern mal escrito (Kane/Olise sin Champions), medias sin ajustar por minutos (Dembélé), métrica de extremo para un 9 (Kane), Mundial poco peso, faltaban Messi/Mané/Quiñones, solo liga+Mundial (sin copas ni premios), "ganará" con popularidad en vez de prensa.
+- v3 (bdo_2026_v3.csv): MERECE = rendimiento por posición ajustado por minutos 50% + títulos con copas y Mundial 30% + premios (Balón/Bota del Mundial, Bota de Oro europea, mejor jugador de liga) 15% + juego limpio 5% → Kane 87, Yamal 84, Olise 83, Mbappé 80, Rodri 68. GANARÁ = posición media en power rankings de Goal, Yahoo y Sports Mole → Kane, Yamal, Mbappé, Rodri, Messi.
+- Regla: antes de publicar un ranking, contrastar con la prensa y el sentido futbolístico; si no cuadra, investigar.
