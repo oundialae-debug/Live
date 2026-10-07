@@ -10,8 +10,10 @@ AM, NO, GR = "#FFD21F", "#0A0C11", "#5C6476"
 # (Goal, Yahoo, Sports Mole), que es lo que votan los periodistas.
 MERECE = [("Harry Kane", "Bayern · England", 87), ("Lamine Yamal", "Barcelona · Spain", 84), ("Michael Olise", "Bayern · France", 83),
           ("Kylian Mbappé", "Real Madrid · France", 80), ("Rodri", "Man City · Spain", 68)]
-GANA = [("Harry Kane", "Bayern · England", None), ("Lamine Yamal", "Barcelona · Spain", None), ("Kylian Mbappé", "Real Madrid · France", None),
-        ("Rodri", "Man City · Spain", None), ("Lionel Messi", "Inter Miami · Argentina", None)]
+# Puntos como en la votación real (1º 15, 2º 12, 3º 10, 4º 8, 5º 7, 6º 5, 7º 4…) en cada ranking de prensa, en % del máximo (45):
+# Kane 15+15+15 · Yamal 12+12+8 · Mbappé 0+10+12 · Rodri 0+8+10 · Messi 10+4+0 (Goal, Sports Mole, Yahoo).
+GANA = [("Harry Kane", "Bayern · England", 100), ("Lamine Yamal", "Barcelona · Spain", 71), ("Kylian Mbappé", "Real Madrid · France", 49),
+        ("Rodri", "Man City · Spain", 40), ("Lionel Messi", "Inter Miami · Argentina", 31)]
 def lista(titulo, como, filas, col):
     f = "".join(f'<div style="display:flex;align-items:center;gap:12px;padding:0;height:100px;border-bottom:2px solid #1E2330">'
                 f'<div style="font-size:40px;font-weight:900;font-stretch:75%;width:24px;color:{col if i == 0 else GR}">{i + 1}</div>'
@@ -35,7 +37,7 @@ h = f"""<style>@font-face{{font-family:A;src:url(data:font/woff2;base64,{b(R/'Ar
 <div style="font-size:66px;font-weight:900;font-stretch:80%;line-height:1;margin:24px 0 30px">Who <span style="color:{AM}">deserves</span> it vs<br>who will <span style="color:#7FD4FF">win</span> it</div>
 <div style="display:flex;gap:36px">
 {lista("DESERVES IT", "Our data: performance by position, adjusted for minutes (50%) · titles incl. cups &amp; World Cup (30%) · awards (15%) · fair play (5%)", MERECE, AM)}
-{lista("WILL WIN IT", "What the press predicts: average spot in the Goal, Yahoo &amp; Sports Mole power rankings", GANA, "#7FD4FF")}
+{lista("WILL WIN IT", "What the press predicts: Goal, Yahoo &amp; Sports Mole rankings scored like the real vote (15 pts for 1st, 12 for 2nd…), % of max", GANA, "#7FD4FF")}
 </div>
 <div style="font-size:50px;font-weight:900;font-stretch:80%;margin-top:34px">Which list is right?</div></div>"""
 from playwright.sync_api import sync_playwright
