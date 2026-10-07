@@ -16,7 +16,7 @@ def s1():
     return f"""<style>{CSS}</style><div style="position:absolute;inset:0;background:url(data:image/jpeg;base64,{b(F/('candidatas/merino_3.jpg' if modo == 'gana' else 'unai_simon.jpg'))}) center 20%/cover"></div>
 <div style="position:absolute;inset:0;background:linear-gradient(180deg,rgba(10,12,17,.55) 0%,rgba(10,12,17,0) 28%,rgba(10,12,17,0) 45%,rgba(10,12,17,.92) 72%,{NO} 100%)"></div>
 {logo}<div class="cred">Photo: Bryan Berlin, CC BY-SA 4.0</div>
-<div style="position:absolute;left:80px;right:80px;top:1130px">
+<div style="position:absolute;left:80px;right:200px;top:1130px">
 <div style="font-size:132px;font-weight:900;font-stretch:78%;line-height:.95;letter-spacing:-2px">{hook}</div>
 <div style="font-size:46px;font-weight:700;margin-top:30px;opacity:.92">{sub}</div></div>"""
 def s2():
@@ -25,7 +25,7 @@ def s2():
     w, d, l = {"perdio": (31, 9, 0), "empate": (31, 10, 0), "gana": (32, 9, 0)}[modo]
     return f"""<style>{CSS} .row{{display:flex;justify-content:space-between;font-size:44px;padding:22px 0;border-bottom:2px solid #1E2330}} .row span{{opacity:.7}}
 .box{{flex:1;border-radius:22px;padding:26px 0;text-align:center;font-weight:900;font-size:110px;font-stretch:80%;color:{NO}}} .box small{{display:block;font-size:34px;font-weight:800}}</style>
-{logo}<div style="position:absolute;left:80px;right:80px;top:470px">
+{logo}<div style="position:absolute;left:80px;right:200px;top:470px">
 <div style="display:inline-block;background:{AM};color:{NO};font-weight:900;font-size:36px;letter-spacing:4px;padding:10px 22px;border-radius:10px">THE RUN</div>
 <div style="font-size:300px;font-weight:900;font-stretch:75%;line-height:.9;margin-top:24px;color:{AM}">{40 if modo == 'perdio' else 41}</div>
 <div style="font-size:52px;font-weight:800;margin:-6px 0 34px">games unbeaten. A men's international record.</div>

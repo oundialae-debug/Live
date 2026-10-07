@@ -10,7 +10,7 @@ h = f"""<style>@font-face{{font-family:A;src:url(data:font/woff2;base64,{b(R/'Ar
 <div style="position:absolute;inset:0;background:linear-gradient(180deg,rgba(10,12,17,.5) 0%,rgba(10,12,17,0) 25%,rgba(10,12,17,0) 48%,rgba(10,12,17,.9) 68%,#0A0C11 100%)"></div>
 <img style="position:absolute;left:80px;top:330px;width:230px" src="data:image/png;base64,{b(R/'2yellow-logo-transparent-for-dark.png')}">
 <div style="position:absolute;right:40px;top:340px;font-size:20px;opacity:.75">{cred}</div>
-<div style="position:absolute;left:80px;right:80px;top:1110px">
+<div style="position:absolute;left:80px;right:200px;top:1110px">
 <div style="font-size:50px;font-weight:700;opacity:.9">{peq}</div>
 <div style="font-size:112px;font-weight:900;font-stretch:78%;line-height:.98;margin-top:14px">{grande}</div></div>"""
 from playwright.sync_api import sync_playwright

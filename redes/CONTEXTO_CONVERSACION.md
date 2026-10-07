@@ -82,6 +82,7 @@ Resumen de todo lo hablado con el usuario en el chat que creó el sistema. Léel
 - 06/10 (noche): posts de TikTok con 1 vista → cuenta SIN problemas (comprobado por el usuario). Usuario: "seguimos como hasta ahora, es demasiado pronto para cambiar" → no reducir frecuencia ni formatos aún.
 - 06/10 (noche): usuario: las CAPTURAS (imágenes fijas) del directo SÍ se pueden usar; el VÍDEO de la retransmisión NO. Memes de momentos del partido = carrusel de 2 con las imágenes reales de la jugada (para que haga gracia y se comparta). Claude no tiene acceso a la retransmisión: el usuario pasa las capturas o se buscan en webs/redes.
 - 06/10 (noche): REGLA: antes de publicar MEMES o DATOS CURIOSOS (no previos, post-partido, XI ni top 5) consultar la opinión de las otras IAs (Groq gpt-oss-120b, Cerebras qwen, Mistral) y quedarse con lo mejor. No repetir la misma foto de un jugador: buscar otra (bajar_fotos.py admite {"commons":[{"buscar","slug"}]} → fotos/candidatas/).
+- 07/10: usuario (muy enfadado, 5ª-6ª vez): RESPETAR LOS MARCOS de TikTok e Instagram. Zona segura única para todo: x 80-880, y 318-1540 (1080x1920). Comprobación obligatoria con la caja dibujada antes de enviar. Aplicado en generar.py (futbol-pipeline) y en los scripts de Live.
 - 06/10: capturas de otras cuentas (p. ej. Score 90 manager vs manager) = solo para aprender qué funciona (apuntar en diario_creativo.md), NO para crear formatos nuevos salvo que lo pida. No hay conector que lea cuentas ajenas; fuentes: sus capturas, Google Trends (workflow), Higgs.
 
 ## Promoción gratis (decidido 06/10)
