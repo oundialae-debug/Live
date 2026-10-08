@@ -1,5 +1,5 @@
 {
- "red": "instagram",
+ "red": "tiktok",
  "hora": "2026-10-08T14:30:00+02:00",
  "tipo": "noticia",
  "partido": "Rice nuevo contrato Arsenal",
@@ -9,5 +9,8 @@
   "https://raw.githubusercontent.com/oundialae-debug/live/main/media/20261008_rice.jpg"
  ],
  "variante": "hook=pregunta;formato=noticia;hora=14;momento=noticia_dia",
- "notas": "BBC via CaughtOffside/Arseblog; Sonnet 7/6/7/7"
+ "notas": "BBC via CaughtOffside/Arseblog; Sonnet 7/6/7/7",
+ "estado": "enviado",
+ "buffer_id": "6ac78de7e63932e2c5a06b79",
+ "dueAt": "2026-10-08T12:37:46+00:00"
 }
