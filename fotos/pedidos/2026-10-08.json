@@ -1,0 +1,6 @@
+{"web": [
+ {"noticia": "Ronaldo", "buscar": "Cristiano Ronaldo Portugal captain", "slug": "ronaldo_hoy", "n": 8, "dias": 3, "debe": ["ronaldo","cristiano"]},
+ {"noticia": "Rice", "buscar": "Declan Rice Arsenal midfielder", "slug": "rice_hoy", "n": 8, "dias": 3, "debe": ["rice"]},
+ {"noticia": "Tuchel", "buscar": "Thomas Tuchel England manager", "slug": "tuchel_hoy", "n": 6, "dias": 3, "debe": ["tuchel"]},
+ {"buscar": "Cristiano Ronaldo Portugal Nations League 2026", "slug": "ronaldo_pt", "n": 8, "dias": 14, "debe": ["ronaldo","cristiano"]}
+]}
