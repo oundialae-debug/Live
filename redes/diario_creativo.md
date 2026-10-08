@@ -25,3 +25,22 @@ Yo hago los memes. Tras cada revisión, anota aquí qué funcionó/falló y qué
 - Diseño: fondo = foto difuminada + oscurecida (se entiende el tema sin leer), foto nítida redondeada con la cara dentro de x80-880, gancho arriba (≤34 car.), texto abajo hasta y1540. Crédito sobre la esquina de la foto. Script: `scripts/extra_marco.py` (sandbox Higgs).
 - Meme Kane "crosses it / Czech defender scores it / Kane gets the assist" (subagente 7,8: gracia 8, interacción 9; foto de entrenamiento encaja 6). Meme Croacia-España v1 (6,3: constatación sin giro, "8 días" era 7, "looking at the scoreboard" forzado) → reescrito "twice in a week. Same result." Lección: contar los días antes de escribir "en N días"; no insinuar que un jugador jugó si no está comprobado.
 - Hipótesis: el meme con giro de reglas ("should own-goal assists count?") rinde más comentarios que el de constatación. Revisar a las 24-48 h.
+## Referencia Score 90 (TikTok, captura del usuario, 06/10; solo aprender, NO crear formato)
+- Imagen "manager vs manager" (Mancini vs van Bommel): dos caras grandes enfrentadas, bandera de cada uno en un bocadillo, récord entre ellos en una línea enorme ("4 GAMES 2W 1D 1L"), jugadores de fondo. 8.646 likes.
+- Lección: el choque de personajes reconocibles + un récord legible en 1 segundo + iconos (banderas) en vez de texto. Aplicable a nuestro jugador vs jugador: caras grandes, una sola cifra protagonista, banderas/escudos como lenguaje visual.
+
+## Prueba "directo" (06/10, Croatia 1-2 Spain, con el usuario)
+- Publicados (recordatorio): Merino super-sub v2 (6 goles desde el banquillo, verificados tras corrección del usuario) y carrusel "41. And counting." (récord de imbatibilidad + Merino x2), debatido con Groq/Cerebras/Mistral.
+- Rechazados por el usuario: memes Gvardiol-Lamine y Unai "creates/solves the problem" con fotos genéricas: para momentos del partido quiere la IMAGEN REAL de la jugada (capturas sí, vídeo no); sin captura, no se publica.
+- Lecciones: verificar recuentos completos (Merino: faltaban Netherlands 2025 y Czechia); no repetir la misma foto de un jugador; dobles sentidos en inglés (Split) que no se entienden → evitar.
+
+## Balón de Oro 2026 (07/10): lecciones del índice
+- v1 (06/10, publicado) mal: Bayern mal escrito (Kane/Olise sin Champions), medias sin ajustar por minutos (Dembélé), métrica de extremo para un 9 (Kane), Mundial poco peso, faltaban Messi/Mané/Quiñones, solo liga+Mundial (sin copas ni premios), "ganará" con popularidad en vez de prensa.
+- v3 (bdo_2026_v3.csv): MERECE = rendimiento por posición ajustado por minutos 50% + títulos con copas y Mundial 30% + premios (Balón/Bota del Mundial, Bota de Oro europea, mejor jugador de liga) 15% + juego limpio 5% → Kane 87, Yamal 84, Olise 83, Mbappé 80, Rodri 68. GANARÁ = posición media en power rankings de Goal, Yahoo y Sports Mole → Kane, Yamal, Mbappé, Rodri, Messi.
+- Regla: antes de publicar un ranking, contrastar con la prensa y el sentido futbolístico; si no cuadra, investigar.
+
+## 07/10 tarde: noticias del día y fotos
+- El usuario se enfadó porque no publicamos la despedida de Messi: la noticia emocional del día va primero. Hoy salieron Messi (roja en el debut / gol en el adiós), Walta = Yamal, Arteta hasta 2030 ("3 times second. Then champions.") y la retirada de Pedro ("He won everything."). David Silva vuelve con 40 años: las IAs le dieron un 6 y no se publicó.
+- Fotos: lo mejor es la foto principal de las noticias de hoy (modo "noticia" de bajar_fotos.py, og:image de BBC, Guardian, Sky…): actual, de calidad y del propio momento. Bing a pelo devuelve basura y DuckDuckGo da 403 desde GitHub.
+- Las fotos de los medios llevan logos o texto (BBC, Guardian, "ARTETA SIGNS" de Sky): encuadrar para que no se vean.
+- Usuario 07/10 (23:21, captura de Walta = Yamal): no se veían las caras, porque la barra superior de TikTok (hasta y≈318) las tapaba. Con comprobar_caras.py también salen tapadas la de Arteta y la de Messi joven; la de Pedro sí se veía. Regla: la cara del protagonista va entre y 380 y 900, por debajo del logo y por encima del texto.
