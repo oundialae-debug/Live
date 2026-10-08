@@ -1,5 +1,5 @@
 {
- "red": "tiktok",
+ "red": "instagram",
  "hora": "2026-10-08T17:30:00+02:00",
  "tipo": "noticia",
  "partido": "England 12-0 desde Spain",
@@ -9,5 +9,8 @@
   "https://raw.githubusercontent.com/oundialae-debug/live/main/media/20261008_tuchel.jpg"
  ],
  "variante": "hook=pregunta;formato=noticia;hora=17;momento=nations_league",
- "notas": "ESPN/englandfootball.com/UEFA/Al Jazeera + nuestros datos; Sonnet 7/7/7/8"
+ "notas": "ESPN/englandfootball.com/UEFA/Al Jazeera + nuestros datos; Sonnet 7/7/7/8",
+ "estado": "enviado",
+ "buffer_id": "6ac7b156b99c473c41b9d0ca",
+ "dueAt": "2026-10-08T17:30:00+02:00"
 }
