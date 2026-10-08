@@ -1,0 +1,13 @@
+{
+ "red": "instagram",
+ "hora": "2026-10-08T14:30:00+02:00",
+ "tipo": "noticia",
+ "partido": "Rice nuevo contrato Arsenal",
+ "text": "Declan Rice is close to a new long-term Arsenal deal, BBC Sport reports: from £240K to around £350K a week, Saka's level. The first league title in 22 years came with him in midfield. Is he worth it? 👇\n#DeclanRice #Arsenal #PremierLeague #Football #Saka",
+ "titulo": "Declan Rice close to a new Arsenal deal: £350K a week",
+ "imagenes": [
+  "https://raw.githubusercontent.com/oundialae-debug/live/main/media/20261008_rice.jpg"
+ ],
+ "variante": "hook=pregunta;formato=noticia;hora=14;momento=noticia_dia",
+ "notas": "BBC via CaughtOffside/Arseblog; Sonnet 7/6/7/7"
+}

@@ -1,0 +1,13 @@
+{
+ "red": "instagram",
+ "hora": "2026-10-08T12:00:00+02:00",
+ "tipo": "noticia",
+ "partido": "Ronaldo Portugal walkout",
+ "text": "Cristiano Ronaldo left Portugal's camp on Sept 30 and apologised on Oct 6. He still holds the record: 146 international goals. Should Portugal still build around him? 👇\n#CristianoRonaldo #Portugal #NationsLeague #Football #CR7",
+ "titulo": "Cristiano Ronaldo: 146 goals, 6 World Cups, 1 walkout",
+ "imagenes": [
+  "https://raw.githubusercontent.com/oundialae-debug/live/main/media/20261008_ronaldo.jpg"
+ ],
+ "variante": "hook=pregunta;formato=noticia;hora=12;momento=noticia_dia",
+ "notas": "titulares: 16 medios; 146 goles (beIN, Foot-Africa), 30/09 y 6/10 (FootballTransfers, Irish Times); Sonnet 8/8/9/7"
+}

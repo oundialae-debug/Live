@@ -1,0 +1,13 @@
+{
+ "red": "instagram",
+ "hora": "2026-10-08T17:30:00+02:00",
+ "tipo": "noticia",
+ "partido": "England 12-0 desde Spain",
+ "text": "England lost 2-3 to Spain on Sept 26. Since then: 2-0 and 3-0 vs Czechia, 7-0 vs Croatia. 12 goals scored, none conceded. Is England back? 👇\n#England #ThreeLions #NationsLeague #Tuchel #Football",
+ "titulo": "England: lost 2-3 to Spain, then 12-0 in 3 games",
+ "imagenes": [
+  "https://raw.githubusercontent.com/oundialae-debug/live/main/media/20261008_tuchel.jpg"
+ ],
+ "variante": "hook=pregunta;formato=noticia;hora=17;momento=nations_league",
+ "notas": "ESPN/englandfootball.com/UEFA/Al Jazeera + nuestros datos; Sonnet 7/7/7/8"
+}
