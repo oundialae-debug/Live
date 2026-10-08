@@ -44,3 +44,9 @@ Yo hago los memes. Tras cada revisión, anota aquí qué funcionó/falló y qué
 - Fotos: lo mejor es la foto principal de las noticias de hoy (modo "noticia" de bajar_fotos.py, og:image de BBC, Guardian, Sky…): actual, de calidad y del propio momento. Bing a pelo devuelve basura y DuckDuckGo da 403 desde GitHub.
 - Las fotos de los medios llevan logos o texto (BBC, Guardian, "ARTETA SIGNS" de Sky): encuadrar para que no se vean.
 - Usuario 07/10 (23:21, captura de Walta = Yamal): no se veían las caras, porque la barra superior de TikTok (hasta y≈318) las tapaba. Con comprobar_caras.py también salen tapadas la de Arteta y la de Messi joven; la de Pedro sí se veía. Regla: la cara del protagonista va entre y 380 y 900, por debajo del logo y por encima del texto.
+
+## 08/10: noticias del día con foto de noticia + marco (scripts/noticia_marco.py)
+- Plantilla nueva: fondo = misma foto difuminada y oscurecida, foto nítida 800x600 (y 402-1002) con la cara en y 450-760, titular 2 líneas + subtítulo + 3 cifras + pregunta, todo dentro de x80-880/y318-1540; comprobado con caja roja y comprobar_caras.py (las 3 OK).
+- Foto: recortar para quitar el logo del medio (Guardian en Ronaldo: recorte x150-763, y0-460). Con un degradado no basta: se ve el fantasma del logo.
+- Sonnet crítico (a/b/c/d): Ronaldo 8/8/9/7, Rice 7/6/7/7, Inglaterra 7/7/7/8. Cambios aplicados: "Nations League" en el subtítulo, "apologised", pregunta menos agresiva ("Should Portugal still build around him?"), titular Rice con la cifra (£350K), "Is England back?" en vez de "favourites" (suena a apuestas), foto de Tuchel serena en vez de manos en la cara (contradecía "12-0").
+- Hipótesis: noticia emocional/polémica (Ronaldo) > noticia de contrato (Rice). Revisar a 24-48 h.

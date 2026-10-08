@@ -114,3 +114,4 @@ Resumen de todo lo hablado con el usuario en el chat que creó el sistema. Léel
 - Tras 2-3 días, valorar memes sin música vs con música del usuario; comparar extras vs previos/post en la revisión del domingo.
 - Comprobar que las métricas de posts publicados a mano (recordatorio) llegan a Buffer; si no, usar métricas agregadas del canal.
 - Clubes en plantillas cuando vuelvan las ligas (9/10+).
+- 08/10 (tarea diaria autónoma): sin partidos de ligas; 3 noticias en cola (Ronaldo 12:00, Rice 14:30, Inglaterra 17:30 Madrid). IAs gratuitas bloqueadas por el proxy → sin memes hoy (regla d). Plantilla `scripts/noticia_marco.py` (render local con Chromium, caja de zona segura + comprobar_caras.py).
