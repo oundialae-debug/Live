@@ -1,309 +1,299 @@
-# Titulares de fútbol (2026-10-08 05:33 UTC, últimas 36 h)
+# Titulares de fútbol (2026-10-08 14:06 UTC, últimas 36 h)
 
-Generado por `scripts/titulares.py` (workflow `tendencias`). Leídos 26 de 34 medios; fuentes en `redes/fuentes.md`.
+Generado por `scripts/titulares.py` (workflow `tendencias`). Leídos 25 de 34 medios; fuentes en `redes/fuentes.md`.
 
 ## Temas que salen en más medios (la noticia del día está arriba)
 
 | Tema | Nº medios | Medios | Ejemplo |
 |---|---|---|---|
-| Messi | 19 | AS, BBC, Daily Mail, Foot Mercato, FourFourTwo, Google News AR, Google News EN,  | Watch: Every Messi World Cup goal for Argentina |
-| Cristiano | 16 | AS, Daily Mail, Foot Mercato, FourFourTwo, Google News AR, Google News EN, Googl | Cristiano Ronaldo: the extraordinary eight points he says Jorge Jesus agreed to make |
-| Arsenal | 13 | BBC, Daily Mail, Foot Mercato, FourFourTwo, Google News EN, Guardian, Mirror, Mu | Rice close to agreeing new Arsenal deal |
-| Argentina | 13 | AS, BBC, Daily Mail, Football Italia, FourFourTwo, Google News AR, Google News E | Watch: Every Messi World Cup goal for Argentina |
-| Ronaldo | 13 | Daily Mail, Foot Mercato, Google News EN, Google News ES, Guardian, Infobae, L'E | Cristiano Ronaldo: the extraordinary eight points he says Jorge Jesus agreed to make |
-| Lionel | 12 | Daily Mail, Foot Mercato, FourFourTwo, Google News AR, Google News EN, Guardian, | Lionel Messi’s Argentina career turned football into a sacred mystery |
-| Silva | 11 | AS, BBC, Daily Mail, Google News EN, Google News ES, Kicker, L'Equipe, Mirror, R | Former Man City player Silva comes out of retirement |
-| FIFA | 11 | Daily Mail, Foot Mercato, Football Italia, Google News AR, Google News ES, Kicke | Ex-Tottenham player announces shock bid to stand against Gianni Infantino in FIFA election |
-| Arteta | 10 | BBC, Daily Mail, Foot Mercato, Google News EN, Guardian, Planet Football, Sky Sp | Arteta signs new contract with champions Arsenal |
-| Vega | 9 | BBC, Daily Mail, Football Italia, Google News EN, Kicker, L'Equipe, Mirror, Sky  | Ex-Spurs player Vega set to run for Fifa president |
-| Jesus | 9 | AS, BBC, Daily Mail, Foot Mercato, Guardian, Mundo Deportivo, Record, r/soccer ( | Euro Leagues: Ronaldo's fallout with Jorge Jesus & is Zidane making his mark? |
-| Manchester | 9 | Daily Mail, Football Italia, FourFourTwo, Google News AR, Google News EN, Guardi | Manchester City’s glory cannot be taken away from the players, says Kyle Walker |
-| Guardiola | 8 | BBC, Daily Mail, Google News AR, Google News EN, Mirror, Mundo Deportivo, Yahoo, | Guardiola set to attend Man City's first home game since guilty verdict |
-| Liverpool | 8 | BBC, Daily Mail, Football Italia, FourFourTwo, Mirror, Planet Football, Yahoo, r | Man Utd and Liverpool eye Truffert - Thursday's gossip |
-| Jorge | 8 | AS, BBC, Daily Mail, Foot Mercato, Guardian, ge.globo, r/soccer (top día), talkS | Euro Leagues: Ronaldo's fallout with Jorge Jesus & is Zidane making his mark? |
-| Mikel | 8 | Daily Mail, Foot Mercato, FourFourTwo, Google News EN, Google News ES, Guardian, | ‘This is only the beginning,’ vows Mikel Arteta after signing £80m-plus Arsenal deal |
-| Pedro | 8 | AS, Google News EN, Google News ES, L'Equipe, Record, Yahoo, ge.globo, r/soccer  | Pedro omits Roma from retirement announcement |
-| Man | 7 | BBC, Daily Mail, Google News EN, Mirror, Yahoo, r/soccer (top día), talkSPORT | Guardiola set to attend Man City's first home game since guilty verdict |
-| England | 7 | BBC, Daily Mail, FourFourTwo, Google News EN, Guardian, Mirror, talkSPORT | Do England already have their Kane replacement - or is he yet to emerge? |
-| McTominay | 7 | BBC, Daily Mail, Football Italia, Google News EN, Kicker, L'Equipe, Mundo Deport | McTominay resumes Napoli training after surgery |
-| Infantino | 7 | Daily Mail, Google News AR, Kicker, L'Equipe, Mirror, Sky Sports, talkSPORT | Ex-Spurs, Celtic and Switzerland defender Vega to stand against Infantino |
-| David | 7 | Daily Mail, Google News EN, Google News ES, L'Equipe, Mirror, r/soccer (top día) | David Silva comes out of retirement aged 40 as new club make surprise announcement |
-| Rice | 6 | BBC, Foot Mercato, Mirror, Planet Football, Yahoo, r/soccer (top día) | Rice close to agreeing new Arsenal deal |
-| Eckert | 6 | BBC, Daily Mail, Kicker, L'Equipe, Mirror, talkSPORT | Eckert free to stay as Southampton boss as Spygate ban suspended |
-| Chelsea | 6 | Football Italia, Google News EN, Guardian, Mirror, Mundo Deportivo, Yahoo | Arsenal and Chelsea set to miss a month of next WSL season due to Club World Cup |
+| Arsenal | 15 | BBC, Daily Mail, Foot Mercato, Football Italia, FourFourTwo, Google News AR, Gua | Rice close to agreeing new Arsenal deal |
+| Messi | 15 | AS, BBC, Daily Mail, Foot Mercato, Google News AR, Google News ES, Infobae, L'Eq | Watch: Every Messi World Cup goal for Argentina |
+| Cristiano | 13 | Daily Mail, Foot Mercato, FourFourTwo, Google News AR, Google News EN, Google Ne | Simon Jordan responds to personal dig from Cristiano Ronaldo with swipe at &#8216;sycophantic&#8217; Piers Mor |
+| Argentina | 12 | AS, BBC, Daily Mail, Football Italia, Google News ES, Guardian, Infobae, Mirror, | Watch: Every Messi World Cup goal for Argentina |
+| Ronaldo | 12 | Daily Mail, Foot Mercato, Google News EN, Google News ES, Infobae, L'Equipe, Mir | 'A little bit selfish' - Merse says Ronaldo may regret his actions with Portugal national team |
+| Liverpool | 10 | BBC, Football Italia, FourFourTwo, Google News EN, Kicker, Mirror, Sky Sports, Y | Working with Iraola, car clauses and hope - the Liverpool academy approach |
+| Madrid | 10 | AS, Daily Mail, Foot Mercato, Football Italia, FourFourTwo, Google News ES, Mirr | Real Madrid embroiled in ANOTHER dressing room fight with 'two stars coming to blows' - while Kylian Mbappe de |
+| Man | 9 | BBC, Daily Mail, Google News EN, Mirror, Planet Football, Sky Sports, Yahoo, r/s | Clubs fear political interference in Man City appeal |
+| Manchester | 9 | Daily Mail, Foot Mercato, Football Italia, FourFourTwo, Google News EN, Guardian | ‘Those memories are ours and no verdict changes that’: Manchester City fans’ views |
+| Lionel | 9 | Daily Mail, Foot Mercato, Guardian, Infobae, L'Equipe, Mirror, Yahoo, r/soccer ( | Lionel Messi’s Argentina career turned football into a sacred mystery |
+| England | 8 | BBC, Daily Mail, FourFourTwo, Google News EN, Guardian, Sky Sports, Yahoo, talkS | Toone comes into England squad as Bronze withdraws |
+| Portugal | 8 | Daily Mail, Foot Mercato, Google News EN, Infobae, L'Equipe, Sky Sports, r/socce | 'A little bit selfish' - Merse says Ronaldo may regret his actions with Portugal national team |
+| Spygate | 7 | BBC, Daily Mail, Google News EN, Guardian, Yahoo, r/soccer (top día), talkSPORT | Time to draw line through Spygate - Parkinson |
+| Silva | 7 | BBC, Foot Mercato, Google News ES, L'Equipe, Mirror, Planet Football, talkSPORT | Former Man City player Silva comes out of retirement |
+| Arteta | 7 | BBC, Foot Mercato, Guardian, Mirror, Sky Sports, ge.globo, talkSPORT | Arteta signs new contract with champions Arsenal |
+| David | 7 | Foot Mercato, Google News ES, L'Equipe, Mirror, Mundo Deportivo, Planet Football | £26m star labelled best Premier League goalkeeper above David Raya |
+| FIFA | 7 | AS, Daily Mail, Google News AR, Google News ES, Kicker, L'Equipe, talkSPORT | Ex-Tottenham player announces shock bid to stand against Gianni Infantino in FIFA election |
+| Infantino | 7 | Daily Mail, Google News AR, Google News ES, Kicker, L'Equipe, Yahoo, talkSPORT | Ex-Tottenham player announces shock bid to stand against Gianni Infantino in FIFA election |
+| Former | 6 | BBC, Daily Mail, Football Italia, Google News EN, Yahoo, talkSPORT | Former Man City player Silva comes out of retirement |
+| Eckert | 6 | BBC, Daily Mail, Google News EN, Guardian, r/soccer (top día), talkSPORT | Eckert free to stay as Southampton boss as Spygate ban suspended |
+| Mikel | 6 | Daily Mail, Foot Mercato, FourFourTwo, Guardian, Mirror, talkSPORT | Mikel Arteta’s new contract reflects where the power now lies at Arsenal | Ed Aarons |
+| Mourinho | 6 | AS, Foot Mercato, Mirror, Mundo Deportivo, Yahoo, r/soccer (top día) | Real Madrid stars in 'dressing room brawl' as Jose Mourinho fails to ease tensions |
+| Guardiola | 5 | BBC, Daily Mail, Mirror, Sky Sports, talkSPORT | 'Are you accusing me of receiving money?' - what Guardiola has said about charges |
+| Rice | 5 | BBC, Daily Mail, Kicker, L'Equipe, r/soccer (top día) | Rice close to agreeing new Arsenal deal |
+| Tonda | 5 | Daily Mail, Google News EN, Guardian, r/soccer (top día), talkSPORT | Southampton manager Tonda Eckert given six-week suspended ban for Spygate scandal |
 
 ## Titulares por medio
 
-**BBC** (34)
+**BBC** (31)
+- Clubs fear political interference in Man City appeal
 - Inside the £1-an-hour official football shirt factories
-- Guardiola set to attend Man City's first home game since guilty verdict
-- Rice close to agreeing new Arsenal deal
-- Eckert free to stay as Southampton boss as Spygate ban suspended
-- Ex-Spurs player Vega set to run for Fifa president
-- Do England already have their Kane replacement - or is he yet to emerge?
-- Is it too early to look at Premier League table?
-- Man Utd and Liverpool eye Truffert - Thursday's gossip
-- Senior figures worried about Man City being in next season's Champions League
-- Tuchel's England 2.0: What has changed?
-- Two icons, a glorious farewell and a potentially bitter ending
-- Former Man City player Silva comes out of retirement
+- How Brighton attract and develop the best young players ahead of their rivals
+- Toone comes into England squad as Bronze withdraws
+- Working with Iraola, car clauses and hope - the Liverpool academy approach
+- 'Are you accusing me of receiving money?' - what Guardiola has said about charges
+- Afcon final to play out in court - when will Morocco or Senegal be crowned champions?
+- How can home nations reach Women's World Cup?
+- Who am I? Guess Premier League star No 80
+- 'Nothing impossible' as NI begin long road to Brazil
+- How early-season data signals Scottish Premiership style shift
+- Rangers boss McInnes 'not a fan' of extended break
 
-**Guardian** (20)
-- Eckert’s Spygate ban may be lenient, but no sane manager will try the same trick again
+**Guardian** (23)
+- Khaldoon al-Mubarak: the tightrope walker who made rare misstep over City charges
+- Football Q&A: ask Ed Aarons your questions as the Premier League returns
+- Women’s Super League faces wait until 2029 for full-time referees despite funding boost
+- Mikel Arteta’s new contract reflects where the power now lies at Arsenal | Ed Aarons
+- Are Brighton genuine contenders to qualify for the Champions League?
+- Laos footballer arrested in connection with alleged match-fixing for betting syndicate
+- Havertz, Isak, Dorgu … spate of injuries with national teams leaves sour taste for top clubs
+- How the Kop’s chants propelled Andy Burnham to fight for Hillsborough justice
+- ‘Like a movie script’: Michael McArdle backs Northern Ireland to make history
 - All aboard the Tuchel train? England camp has clear winners and losers
-- Lionel Messi’s Argentina career turned football into a sacred mystery
-- Robertson rant and the wrong system? Pocognoli’s Scotland start raises questions
-- ‘I wanted to depart in the best way possible’: Kieran McKenna on Ipswich exit and future plans
-- ‘This is only the beginning,’ vows Mikel Arteta after signing £80m-plus Arsenal deal
-- Portuguese authorities took 83 days to tell Rui Pinto his witness protection was ending
-- Arsenal and Chelsea set to miss a month of next WSL season due to Club World Cup
-- Bochum ban fans from jumping in unison over sickness fears
-- Why are so many British footballers playing in Serie A?
-- Which footballers have ended scoring droughts with a goal off their backside? | The Knowledge
-- Manchester City’s glory cannot be taken away from the players, says Kyle Walker
+- ‘Those memories are ours and no verdict changes that’: Manchester City fans’ views
+- ‘¡Qué Horror!’: Mexico’s World Cup honeymoon is over but is Rafa Márquez really to blame?
 
 **Sky Sports** (20)
-- Brilliant Star and Alla Stella face off in Beckford Stakes
-- 'Sandpapergate' Q&A: The 2018 ball-tampering scandal explained
-- Papers: Arteta becomes Premier League's highest-paid boss on £20m-a-year
-- Ex-Spurs, Celtic and Switzerland defender Vega to stand against Infantino
-- Why Sprint in Singapore adds new twist to F1's toughest race
-- What's next for Littler? Can he still qualify for Players Championship Finals?
-- Rahm to quit LIV Golf over 'unacceptable' terms
-- Scot Prem latest: Hibs sign ex-Rangers winger as backroom team revealed
-- Why Bears genius has become one of NFL's most important figures
-- 'Very humbling' - Sinfield receives knighthood at Windsor Castle
-- Golf leaderboards: Open de Espana, Baycurrent Classic and more
-- Garcia targets Ryder Cup return
+- Alcaraz: Tennis schedule 'pushing players too much'
+- Rabada misses out on South Africa side for first Test vs Australia
+- Guardiola set to attend Man City's first home game since guilty verdict
+- Fury vs Joshua key questions: What we know and what we don't
+- James: England must keep looking forward in quest for World Cup place
+- 'Void of leaders' - The problems for bottom-side Spurs after winless start
+- FIA introducing measures to avoid ‘software bug’ chaos repeat
+- Pettersen bounces back on LET return as England's Humphreys moves second
+- Liverpool latest: Man City game must-not-lose for Iraola, says Merson
+- Scot Prem returns! O'Neill under pressure, Rangers eye top spot & Hibs' new era
+- PL returns! Man City in spotlight, big Old Trafford showdown and Gyokeres' chance
+- Arsenal latest: Arteta deserves new deal, he's done an unbelievable job, says Merse
 
-**talkSPORT** (31)
-- Kieran McKenna lands new job five months after sudden Ipswich departure
-- Mikel Arteta urged to make major change to starting XI for Arsenal vs Leeds
-- Former Premier League player retires due to health issue he kept a secret for years
-- Jarell Quansah could make Premier League return as three clubs circle
-- Ex-Tottenham player announces shock bid to stand against Gianni Infantino in FIFA election
-- Man City scandal could topple Andy Burnham as prime minister, says football club owner
-- Pep Guardiola tipped to make return to Etihad Stadium this month
-- Man City warned incoming star could be snatched by Premier League rivals amid guilty verdict
-- Tonda Eckert punishment revealed as Southampton handed Spygate verdict
-- Jordan Pickford gone and Cole Palmer replaces star in England XI to start Euro 2028
-- Enzo Maresca given perfect advice for first Man City media appearance since verdict
-- David Silva comes out of retirement aged 40 as new club make surprise announcement
+**talkSPORT** (40)
+- &#8216;Very disappointed&#8217; &#8211; Full extent of Alex Scott injury revealed by Bournemouth manager
+- Frank Lampard gives first response to Manchester City verdict after brief Etihad spell
+- New fears raised by Premier League clubs over Manchester City appeal
+- Mikel Arteta handed ultimatum to justify enormous new Arsenal salary
+- Russell Martin praised for viral interaction with Leicester fan by rival League One boss
+- £26m star labelled best Premier League goalkeeper above David Raya
+- Southampton vs Portsmouth LIVE commentary: Eckert on touchline for derby after &#8216;Spygate&#8217; punishment handed out
+- Sir Alex Ferguson reveals fears he won&#8217;t see new Man United stadium open
+- Arsenal sensation Max Dowman lands three Guinness World Record certificates in one day
+- Simon Jordan responds to personal dig from Cristiano Ronaldo with swipe at &#8216;sycophantic&#8217; Piers Morgan
+- Predict 6: Win £50k this weekend in talkSPORT&#8217;s new free to play Premier League predictor game
+- Each Premier League club&#8217;s single greatest contribution to modern football
 
 **Daily Mail** (40)
-- Arsenal wonderkid Max Dowman presented with THREE world records after memorable breakthrough Premier League season
+- Guilty of cheating? We're not bothered! Man City's Erling Haaland and grinning manager Enzo Maresca give the thumbs up as they return to tra
+- Southampton's classless response to spying manager Tonda Eckert escaping an FA ban over Spygate scandal
+- 'I can't watch the videos... managers won't touch him': The sad reality of Dele Alli's new life as a streamer - as old England teammates dis
+- Real Madrid embroiled in ANOTHER dressing room fight with 'two stars coming to blows' - while Kylian Mbappe defies Jose Mourinho's orders in
+- Cristiano Ronaldo tells football pundit Simon Jordan 'stop with the Botox - you look like an apple' in scathing text message over criticism 
+- The untold story of Dejan Kulusevski's 513 days of hell - how a 'knock' became a catastrophic knee injury, why Tottenham kept quiet and his 
 - The 'nightmare' Premier League player of the month 'so rich he won't run': The decline of 22-year-old Jhon Duran... less than two years afte
+- 'Bridget's death changed everything': Sir Alex Ferguson speaks for the first time on his decision to quit Man United because of his grief-st
+- The truth about 'Britain's Most Insufferable YouTuber': Behind the 'rage bait', Saudi propaganda and cringe-inducing content, this is why Th
+- Arsenal wonderkid Max Dowman presented with THREE world records after memorable breakthrough Premier League season
 - Gianluigi Donnarumma's defiant agent insists Man City will get 'sporting justice' in appeal over guilty verdict - claiming that 'everyone is
 - Lionel Messi officially waves farewell to Argentina with emotional statement and admits his final send-off brought 'joys and sorrows' - prom
-- Pep Guardiola will RETURN to Man City for next week's Champions League clash against PSG - with legendary former boss to pay visit to the Et
-- Birmingham City's American Revolution 2.0: How Blues fine-tuned grand plans to reach Premier League promised land - from new stadium delay t
-- How ex-Liverpool star Luis Garcia has masterminded a world-record 113-GAME unbeaten run in Malaysia
-- This fortnight proved the Jude Bellingham transformation is complete - and that Cole Palmer and Phil Foden must now be worried for their Eng
-- 'They said you'd never play again': The untold story of Dejan Kulusevski's 513 days of hell - how a 'knock' became a catastrophic knee injur
-- Southampton's spying manager Tonda Eckert is handed FA let-off with a six-week suspended ban over Spygate scandal which saw them thrown out 
-- Revealed: How Portugal boss Jorge Jesus defied Cristiano Ronaldo's eight-point apology script - as he slaps down sulking star's 1,996-word s
-- THE AUDIT - LIVERPOOL: Andoni Iraola's masterstrokes to win over fans, a thriving academy bursting with world-class talent and mega-rich inv
 
 **Mirror** (25)
-- Man City charges: Agent speaks out, punishment agreement, UEFA consider action
-- Sir Alex Ferguson broke down in tears after delivering bombshell to Man Utd players
-- Every Golden Boy winner and how they fared as eight Prem stars named on 2026 shortlist
-- Liverpool news: Record-breaking bid made for wonderkid as race for 'unsellable' star heats up
-- Sir Alex Ferguson sheds light on secret Pep Guardiola dinner as he admits Man Utd regret
-- Man Utd news: JJ Gabriel gets reality check as wanted star puts contract talks on hold
-- Sir Alex Ferguson fears he won't see Man Utd's new stadium - 'Death crosses my mind'
-- Arsenal news: £21m January transfer target identified as major announcement made
-- Gary Lineker makes Man City punishment prediction as club chiefs told to 'own it'
-- Premier League urged to 'resolve' Man City case amicably by Sheikh Mansour dealmaker
-- Declan Rice will match Arsenal's top earner after contract negotiation breakthrough
-- Thomas Tuchel fires clear warning to Cole Palmer after Chelsea star misses England camp
+- Real Madrid stars in 'dressing room brawl' as Jose Mourinho fails to ease tensions
+- Man City icon David Silva comes out of retirement aged 40 after accepting surprise offer
+- Man City charges LIVE: Champions League concern raised as Pep Guardiola return confirmed
+- Anthony Gordon lands indirect dig at former Newcastle team-mates as he makes comparison
+- Mikel Arteta still bears scar of Champions League heartbreak - 'I have poison in my veins'
+- Man City discover stance on playing in EFL as chiefs 'make punishment feelings clear'
+- Man City charges: Club facing second sanction as Pep Guardiola's return confirmed
+- Liverpool get worrying injury update on Alexander Isak and Cody Gakpo from Andoni Iraola
+- Cristiano Ronaldo eviscerates Simon Jordan as brutal text message leaked
+- Cristiano Ronaldo pays surprise tribute to Lionel Messi after final Argentina game
+- Ex-Man City star Manuel Akanji worried about losing titles despite Kyle Walker's confident blast
+- Why Pep Guardiola is returning to Man City for the first time since guilty verdict
 
-**Telegraph** (1)
-- Kane’s record-equalling cap was no different to his first
+**Telegraph** (0)
 
 **90min** (0)
 
 **Planet Football** (10)
-- The ‘Should’ve Retired Sooner’ XI as Cristiano Ronaldo desperately clings on
-- Can you name every Brazilian to play for Arsenal in the Premier League?
-- The 10 highest-paid managers in world football: Arteta, Simeone, Mourinho…
-- Can you name every manager that Cristiano Ronaldo has played under?
-- Can you name every international team that Lionel Messi hasn’t won against?
-- Can you name every non-UK & Irish Liverpool player to make 300+ appearances
-- A tribute to the fantastic but flawed Middlesbrough side of 1996-97
-- The 25 footballers with 1000+ goals: Messi, Ronaldo, Pele, Romario & more
-- Can you name the top 20 Premier League assist makers of the 2010s?
-- International Winners & Losers: Ronaldo, Portugal, Olise, Gyokeres, Croatia, Rice…
+- ‘If only he’d joined earlier’: Ali Benarbia’s glorious spell at Man City
+- Can you name England’s XI from Gareth Southgate’s first match in charge?
+- 8 forgotten ballers you had no idea are now playing in Argentina: Di Maria, Valencia…
+- Can you name Liverpool’s 25 highest goalscorers under Jurgen Klopp?
+- Can you name Man Utd’s top 30 Premier League appearance makers?
+- David Silva comes out of retirement ahead of Man City’s non-league odyssey
+- How many of these 10 infamous Premier League baldies can you name?
+- 2027 Ballon d’Or Power Rankings: Michael Olise giving Yamal, Raphinha serious competition…
+- Can you name the top 20 Premier League assist makers of the 2020s?
+- Can you name every Arsenal manager of the post-war era?
 
-**FourFourTwo** (14)
+**FourFourTwo** (22)
+- LaLiga block ex-Real Madrid signing in fear of Manchester City-style payments: report
+- Liverpool to snatch £60m Bournemouth man: report
+- Bayern Munich plan shock move for Nick Pope: report
+- MLS chief: 'I want Harry Kane to join the league and achieve NFL crossover dream'
+- Topps celebrates 20 years of Match Attax with record-breaking London half-term event
+- Every Premier League injury after the international break: An essential return to FPL guide
+- Seven things we've learned about Andoni Iraola'sLiverpool so far
+- Why Belgium’s golden generation deserved more
+- The Manchester United misery economy is holding the club back - and there's an awkward paradox
 - Quickfire Quiz 219: Can you answer 10 questions in 90 seconds?
 - Quiz! Can you name every nation to have beaten England at the World Cup?
 - Manchester City star admits, 'I hope I don't lose my titles' in wake of Premier League verdict
-- Saudi Arabia scrap 'stadium in the sky', with World Cup promises in doubt
-- Manchester City to overrule Premier League verdict on one 'core argument': report
-- Arsenal star Mikel Merino named as shock target for Real Madrid: report
-- Can't we play you ANY week? Football League teams your club has gone the LONGEST without playing
-- Kylian Mbappe in shock Liverpool talks, with move back ON: report
-- Arsenal working on concrete January move for Scandinavian superstar: report
-- "Trabzonspor tried to sign this Ukrainian lad...I don't think they'd understood what the tournament was" England international and 'The Gaff
-- Cristiano Ronaldo's goodbye tour has been eight years long. Why didn't he just retire in 2018?
-- Quickfire Quiz 218: Can you answer 10 questions in 90 seconds?
 
 **Yahoo** (40)
-- Enzo Maresca could unleash his first-choice attack right when Manchester City need it
-- Biggins revitalised under Mullins at Newport
-- Relegation battle tightens! Brasileirão table after Wednesday&#39;s games
-- Cruzeiro beat São Paulo and move into the Brasileirão top four
-- Fernando Diniz’s latest sacking stirs social media; see reactions
-- Corinthians announce Fernando Diniz&#39;s departure after another defeat
-- Alessandro Bastoni emerging as a leader, the historical rise of Pio Esposito: Key takeaways from the Azzurri&#8217;s international window
-- Corinthians lose to Inter and sit just above the relegation zone
-- Memphis Depay misses an absolute sitter for Corinthians; watch 🎥
-- 📋 Cruzeiro and São Paulo name line-ups for Mineirão clash
-- Guardiola set to attend Man City v PSG next week
-- 📋 Botafogo and Vasco line-ups confirmed for derby as Brasileirão resumes
+- Phil Thompson believes Liverpool made a big transfer mistake in the summer
+- Report: Juventus planning to ‘accelerate’ Nico Gonzalez contract extension
+- Granit Xhaka reveals investigation outcome after admitting to using fake Covid certificate
+- Scoring more last piece of Crewe puzzle - Dicker
+- Man City eyeing move for Premier League defender in 2027
+- Time to draw line through Spygate - Parkinson
+- Football Italia Show: Long international breaks: Yes or No? Argentina’ next No.10 in Serie A?
+- Mikey Moore ready for first Rhein derby: &#8220;Everybody told me this is the big one.&#8221;
+- Aleksander Ceferin to seek fourth term as Uefa president after calling for Gianni Infantino to quit Fifa
+- Ella Toone handed late England call-up for World Cup play-off after Sarina Wiegman snub
+- Spanish legend issues stark warning to Real Madrid over title race: &#8216;If Barça continues like this, it&#8217;s impossible&#8217;
+- How to watch Liverpool vs Manchester City live: Stream link, TV channel, team news, prediction
 
 **Google News EN** (40)
-- Scores & Fixtures - Football
-- Scotland football news: Live updates, schedule and analysis of the national team
-- Fabio Borini announces retirement from football
 - Premier League football shirts made by workers on £1 an hour
-- Arsenal manager Mikel Arteta becomes Premier League's highest-paid boss on £20m-a-year new contract - Paper Talk
-- Premier League: How settled is the table already?
-- The Premier League is BACK! - The story so far
-- Wycombe lodge football centre plans for golf course
-- Pep Guardiola: Former Man City manager to attend PSG Champions League tie
-- Do England already have their Kane replacement - or is he yet to emerge?
-- Football gossip: Morton, Truffert, Odegaard, Alvarez
-- Barry-Murphy and Bellamy 'so similar' - Lawlor
+- Former Liverpool forward Fabio Borini has announced his
+- Feast of Football: Will Wales win in Albania?
+- Phil Parkinson: Wrexham boss wants football to move on from Southampton's Spygate scandal
+- Exeter City investigate Cox's mystery illness
+- Women's World Cup 2027: How can England, Wales, Scotland and Northern Ireland qualify?
+- Ryan Dicker: Crewe Alexandra assistant says scoring more goals 'last piece of puzzle'
+- Marco Rose press conference: Chelsea vs Bournemouth
+- Manchester City charges: Premier League clubs fear political interference in appeal after Andy Burnham comments
+- 'Nothing impossible' as NI begin long road to Brazil
+- Kingfishr and Wycombe Wanderers form an unlikely bond thanks to Fifa 11
+- Micah Obiero: From Africa to Aldershot to score in the National League
 
 **AS** (27)
+- “Mi mujer se quedó embarazada y rompí un contrato para ir al Betis”
+- Messi, desde dentro: 21 años de amor, dolor y gloria con Argentina
+- ‘Operación Brahim’ con Endrick
 - Asencio: “La visita de Mourinho tras la operación me dio un chute de energía”
+- Los secretos de la RFEF: chivatazos, agentes, scouting, big data...
+- Castro llama a filas a un central de 14 años
+- El Madrid tiene ‘nuevo fichaje’: vean la filigrana que tiene loco al madridismo
 - ‘Clausulazos’ en Primera RFEF
 - Mercado de fichajes, en directo: rumores, altas y bajas de LaLiga, Premier, Serie A...
-- Barrios, un techo infinito
-- El futuro del fútbol pasa por Berlín
-- Juan Luis Arsuaga: “Entendí el Madrid como una tribu cuando murió mi padre”
-- La reflexión autocrítica de Asencio tras sus episodios extradeportivos
-- Las celebraciones se nos están yendo de las manos
-- Amenaza de noviembre negro
-- Courtois está hasta arriba
-- LaLiga también ha tenido elecciones: el Real Madrid, reelegido
-- Messi se despide de Argentina... y Cristiano responde
+- Stassin, al límite para Valencia
+- Internacionales a escena en Heliópolis
+- “No sé qué pasará, si en Málaga me atropellará un coche...”
 
 **Mundo Deportivo** (40)
-- La duda con Terzic en el Athletic: ¿rotará en la portería en Copa?
-- "No hay amistosos entre España y Estados Unidos"
-- Los motivos por los que Arsenal, Chelsea y City rechazaron a Olise
-- El fútbol territorial, al día
-- Cuenta atrás para el once de Flick: dos sesiones clave
-- Unai Simón superstar
-- El mejor viste de rojiblanco
-- Al Barça de Flick y a Pedri le van los parones
-- Mbappé busca el perdón del Bernabéu
-- Mbappé y la camiseta
-- Tres goles en cinco días de Gerard Piqué
-- La baja de Aramburu y la duda de Fort obligan a Matarazzo a inventar
+- El Sabadell emprende su larga travesía hacia Ceuta
+- "Roberto está en estado de gracia: lo que toca se convierte en gol"
+- La providencial intervención que empujó a Jonathan David al Atlético de Madrid
+- Ni Mbappé ni Vinicius ni Bellingham: el sorpresivo mejor jugador de septiembre en el Real Madrid
+- Giro inesperado en la UEFA
+- Flick prepara el duelo ante el Getafe con casi toda la plantilla disponible
+- Vuelve Budimir y Ramis blinda a Osasuna
+- La doble cara de Kang-in Lee
+- "Me gusta porque desafía a los entrenadores"
+- Descuento del 90% para el fútbol sala a los asistentes del Barça-Getafe
+- "El Bernabéu es el escenario perfecto"
+- Manolo González se marca un Mourinho
 
 **Google News ES** (40)
-- Sonia Bermúdez, seleccionadora española de fútbol: “Nuestro equipo tiene una mentalidad muy fuerte. Quieren ganar hasta en el ping-pong”
-- El futuro del fútbol pasa por Berlín
-- EL FÚTBOL FEMENINO CELEBRA LA SEMANA EUROPEA DEL DEPORTE CON 'HER FUTBOL FUTURE'
-- El fútbol en Les Pereres se protege de la lluvia y el sol
-- Pedro Rodríguez anuncia su retiro en el futbol profesional
-- El fútbol territorial, al día
-- Javier Aguado, Mikel Crespo y Jordi Ferriols, mesa redonda de fútbol Valenta en el VIII Acto de Apertura del Curso de Entrenadores
-- «Ya que estuve en las malas, ahora quiero ver al equipo lo más arriba posible»: Fati Villar, goleadora del San Pablo-Eivissa, explica por qu
-- Nueva jornada de trabajo completada ✅ #CádizRealSporting #LaLigaHypermotion
-- La RFEF exporta su visión del fútbol femenino español en Washington | www.rfef.es
-- La Copa del Mundo de fútbol llegará a Zaragoza en las Fiestas del Pilar
-- El ciclo menstrual en el fútbol femenino: menos impacto del que se cree en el rendimiento y más en las lesiones
+- El IV Mundialito de Fútbol «Ciudad de Torrevieja» se aplaza al mes de diciembre
+- El mensaje de Messi tras su despedida de la selección argentina... y la respuesta de Cristiano Ronaldo
+- «Walking Fútbol»: una nueva propuesta deportiva para mayores y pensionistas
+- Reserva tu entrada para La Rosaleda
+- Hugo Rama y Pablo Insua apuestan por el fútbol de Asia: destino exótico para los ex del Deportivo
+- El camino de la Selección Española de Fútbol sala en el Mundial 2028 empieza en Manzanares
+- Fútbol Freestyle: el espectáculo llega a Sevilla
+- Homenaje al fisioterapeuta Benito Milano y a la selección española de fútbol, la mejor del mundo
+- El Juvenil DH recibe al RC Deportivo en las Instalaciones Nando Yosu el domingo a las 12:15
+- Gastronomía y fútbol se dan la mano en 'El Villaverde juega en tercera y se come de primera'
+- El Mundialito convierte a El Puerto en capital internacional del fútbol playa
+- Fallece Pedro Riesgo, presidente del Berrón Club de fútbol durante 26 años: "Lo dio todo, peleó mucho, fue el buque insignia de la entidad"
 
 **Gazzetta** (0)
 
 **Football Italia** (20)
-- Borini, ex-Italy, Liverpool, Chelsea, Milan, Roma and Sunderland striker, retires at 35
-- Zielinski: ‘Inter dream of winning Champions League, list of Scudetto contenders’
-- Bartesaghi: ‘Lot of faith in Milan and Amorim, Hutchinson so agile’
-- Cinquegrano would have to ‘think carefully’ on choice between Italy and Argentina
-- Agent admits Palmisani ‘approached by Juventus and Premier League clubs’
-- Baldini: ‘The problem for Italian football is not talent’ as 11-12 players ready
-- Sassuolo talent Bakola targeted by Juventus for January 2027
-- Ludi: ‘Como want to be on Roma level, Nico Paz heir to Messi’s Argentina 10’
-- Ex-Cagliari and Tottenham defender Vega running for FIFA President
-- Serie A referees assigned for Week 6 big games
-- Gnonto: ‘I wasn’t used to being around Italians anymore’ as Leeds exit looms
-- Nations League highlights: Italy 3-1 Turkiye
+- Football Italia Show: Long international breaks: Yes or No? Argentina’ next No.10 in Serie A?
+- Report: Juventus planning to ‘accelerate’ Nico Gonzalez contract extension
+- Inter lose Jones for around 3 weeks with thigh injury
+- Gasperini: ‘Roma’s plan was to win the Scudetto in 3 years, we wouldn’t mind getting there sooner’
+- Zanetti reveals how he went from Inter captain to vice-president
+- Juventus, Milan and Como combine for fewer Italian minutes than Inter in Serie A
+- Former Manchester United keeper De Gea’s Fiorentina future uncertain despite return to form
+- Amorim reveals the Manchester United lesson he has brought to Milan
+- Juventus team news: Alajbegovic back in training, Conceição and González latest
+- McTominay contract stand-off carries echoes of Napoli’s Kvaratskhelia saga
+- Juventus not convinced by Woltemade as club target ex-Arsenal and Atalanta strikers
+- Messi’s No 10 successor: Serie A starlets Paz and Mastantuono among the contenders
 
 **Kicker** (20)
-- "Totalausfall auf allen Ebenen": Wie Werder mit dem Testspiel-Debakel umgeht
-- Nach Herz-OP: Neapels McTominay wieder im Training
-- Weltenbummler Brdaric zieht weiter - Silva kehrt aus dem Ruhestand zurück
-- "Engagierter Anwalt für Menschlichkeit": Söder ehrt Kompany mit Sonderpreis
-- Messi blickt "voller Dankbarkeit" zurück - Auch CR7 zollt seinen Respekt
-- Eine Frage der Effizienz: Wie das Meppener Sturmtief zum Hoch werden kann
-- Mehr als nur ein Edeljoker? Krattenmacher stellt Wagner vor die Wahl
-- Das Bundesliga-Quiz zum 5. Spieltag
-- Baum lachend: "Ich mag es immer noch, dem HSV zuzuschauen"
-- Trotz Abstieg: Düsseldorf vermeldet drittes positives Jahresergebnis in Folge
-- Bratwurst mit Maradona, Pokal-Coup mit Hannover 96: Trauer um Hans-Dieter Schmidt
-- Ehemaliger Schweizer Nationalspieler Vega will Infantino beerben
+- Elversberg-Coach Wagner: "Favorit? Das dauert noch eine Weile"
+- "Mannschaft gleich draußen lassen": Hütter gefällt Neururer-Ansatz
+- Wagner beantwortet die Torwartfrage - und will bloß keinen Personen-Kult
+- Rassismus und Gewalt: Pherai über "das schlimmste Spiel meiner Karriere"
+- Bei der Nationalmannschaft verletzt: Kofane fehlt Bayer in den kommenden Wochen
+- Hoeneß bringt Reporter zum Lachen: "Mich überrascht die Überraschung"
+- "Von Jobsharing will ich nicht sprechen": Hoeneß erklärt Entscheidung pro Seimen
+- Klose: "Können das zu Recht als Topspiel werten"
+- Platz der Knoten? Moore hofft auf Treffer im Rheinderby
+- Hoeneß legt sich fest: Seimen rückt ins Stuttgarter Tor
+- Bremens 0:7-Klatsche weckt bei Kovac Erinnerungen
+- Marokko vs. Senegal: CAS-Verfahren zum Afrika-Cup-Finale startet
 
 **L'Equipe** (40)
-- Lionel Messi et Cristiano Ronaldo, deux idoles au crépuscule opposé en sélection
-- « Je me dis pourquoi pas moi ? » : après une saison compliquée à Brighton, Olivier Boscagli rêve des Bleus
-- Aux commémorations du 7-Octobre à Tel-Aviv, le football sert aussi à rendre hommage aux victimes
-- Pas appelé en bleu, Brice Samba reste combatif avec Rennes
-- Sans club depuis son départ de Rodez en janvier, Flavien Tait annonce sa retraite à 33 ans
-- Quel avenir pour Cristiano en sélection ?
-- Pourquoi la grogne ne cesse de grimper autour de Mbappé
-- À qui va revenir le titre de la CAN 2025 ? Le Maroc et le Sénégal ont rendez-vous ce jeudi devant le Tribunal arbitral du sport
-- Cristiano Ronaldo rend hommage à Lionel Messi : « Tout mon respect pour ce que tu as réussi avec l'Argentine »
-- « Le maillot argentin me manque déjà » : les mots émouvants de Lionel Messi après avoir pris sa retraite internationale
-- À Bordeaux, récit d'un fiasco
-- « Je me présente pour réunifier la famille mondiale du football » : Ramon Vega candidat face à Gianni Infantino
+- Adil Bourabaa, révélation du début de saison du Mans FC, forfait pour affronter le PSG
+- Fonseca : «On a déjà anticipé les prochains enchaînements de matches»
+- Metz privé de Nampalys Mendy plusieurs mois en raison d'une rupture du tendon quadricipital du genou gauche
+- Le Mans, l'équipe qui veut «être tout le temps à fond»
+- « J'ai pris des risques » : Aurélien Tchouaméni n'était pas tout à fait remis de sa blessure lors de la demi-finale de Coupe du monde contre
+- Davide Ancelotti (Lille), avant de recevoir Le Havre : « Il y a de la frustration »
+- Reeb : «Notre objectif est de rendre une décision fondée dès que possible»
+- Aux commémorations du 7-Octobre, le foot pour rendre hommage aux victimes
+- Capable de parler 6 langues, invité au mariage de Kate et William, bringues à Créteil... Qui est Ramon Vega, qui rêve de défier Gianni Infan
+- Samba doit encaisser
+- Le très précoce Max Dowman, buteur à 16 ans avec Arsenal, a reçu trois certificats du Guinness World Records
+- Le profil de Tessa Wullaert en vidéo, nommée au Ballon d’Or 2026
 
 **Foot Mercato** (40)
-- Arsenal : le nouveau salaire incroyable de Mikel Arteta est connu
-- FC Barcelone : Lamine Yamal se confie sur sa mère
-- Équipe de France : Robert Pirès totalement sous le charme de Michael Olise
-- AS Monaco : Filipe Luis ne pense pas au titre
-- «C’est moi le patron. Je suis le meilleur coach du Portugal», Jorge Jesus raconté par un de ses anciens joueurs
-- José Mourinho n’a pas du tout apprécié la trêve internationale de Kylian Mbappé
-- Jérôme Rothen trouve la communication de Cristiano Ronaldo pathétique
-- PSG : l’hommage de Beraldo à Luis Enrique
-- À quoi s’attendre au TAS pour le Maroc et le Sénégal ?
-- Arsenal proche de prolonger Declan Rice
-- Le Bénin déçu de l’après match contre l’Argentine
-- Argentine : le nouvel hommage de Messi à son père après ses adieux
-
-**Record** (20)
-- <![CDATA[ Rogério Matias impressionado com preparação do Mundial: «É um absurdo a quantidade de construção» ]]>
-- <![CDATA[ Um arranque pior do Chaves só há 20 anos ]]>
-- <![CDATA[ Rogério Matias sem dúvidas: «Seleção está mais perto de chegar a um título  importante» ]]>
-- <![CDATA[ Sem respirar: como voltam os internacionais dos três grandes ]]>
-- <![CDATA[ Buatu em dúvida para o Moreirense ]]>
-- <![CDATA[ Rogério Matias e o maior desafio da carreira: «O Raja é como o Benfica, o Sporting e o FC Porto»  ]]>
-- <![CDATA[ A democracia de Marco Silva: quase todos contam no Benfica ]]>
-- <![CDATA[ Rogério Matias orgulhoso dos "quatro anos extraordinários" em Guimarães: «Fizemos 120 milhões em vendas» ]]>
-- <![CDATA[ Janderson acelera adaptação nos sub-23 do Moreirense ]]>
-- <![CDATA[ Melhor do que Hornicek e Matheus: Bernardo Fontes supera os antecessores ]]>
-- <![CDATA[ Pedro Proença confiante na reconciliação entre Cristiano Ronaldo e Jesus ]]>
-- <![CDATA[ Alas do ataque do Casa Pia em alta rotação ]]>
+- Ballon d’Or : David Silva vote pour Fabián Ruiz
+- CAN 2025, TAS : le Maroc a choisi de garder le silence après l’audience
+- CAN 2025 : la première réaction du Sénégal après l’audience du TAS
+- Quand Luis Enrique et Lionel Messi se prenaient la tête
+- La Juventus en a déjà marre Nick Woltemade
+- Real Madrid : la valeur de Vinicius Jr s’écroule sur le marché des transferts
+- Un grand d’Europe pense à Medhi Benatia pour le poste de directeur sportif !
+- Cristiano Ronaldo à un journaliste : « dis à ce blond d’arrêter de se faire injecter du Botox. On dirait une pomme »
+- CAN 2025 : le verdict du TAS pour Maroc-Sénégal n’est pas pour tout de suite !
+- L’OL confirme la terrible nouvelle pour Mohamed Ouédraogo
+- Arsenal : Max Dowman reçoit trois certificats du Guinness World Records
+- Getafe : Dani Carvajal exige une clause pas très classe pour signer…
 
 **Ole** (10)
-- El contundente elogio de De Paul para Messi: "Dios de esta tierra..."
-- De un gol olímpico en las Inferiores de River a reemplazar al refuerzo más caro del club
-- La curiosa protesta que marcó el regreso del Brasileirao tras una fuerte medida de Lula
-- Lo miró Boca: con Lescano, Colidio y Sosa figuras, Vasco ganó un clásico clave
-- Video: el Museo River ya tiene la camiseta de Messi firmada por el 10
-- Messi, Nico Paz y el pase simbólico de cara al futuro
-- El uno por uno de los 20 convocados de la Liga Profesional en la fecha FIFA XL
-- El presidente de Burkina Faso, duro tras el amistoso con la Selección: "Nuestro fútbol está enfermo"
-- Tras el adiós de Messi y el pedido de Scaloni: ¿contra quién juega Argentina en noviembre?
-- Ya hay horario para el Clásico de Avellaneda: ¿cuándo juegan Racing vs Independiente por el Torneo Clausura?
+- Insólito: Bottas contó su viaje de Malasia a Singapur en bicicleta y esquivando serpientes
+- El básquet argentino se expande: cómo es la cobertura de Basket.tv en la temporada 2026/27
+- Escándalo en el Balón de Oro: un ex director reveló un presunto intento de soborno
+- La mirada de un emblemático 3 de River sobre Acuña y Ortega y la exigencia para Ponzio
+- Francisco Prado con Olé, antes de su pelea contra Ismael Bonfim: "Enfrentar a un brasileño le agrega un picante extra"
+- Waiken ILW dijo presente en el Olé Summit 2026 con su visión de la tecnología y el entretenimiento enfocada en el deporte
+- Con cuatro triunfos, dos rachas que llegaron a su fin, y dos caídas: cómo les fue a los argentinos en Shanghai
+- La confesión de Colapinto por la despedida de Messi: "Lloré un rato"
+- El reclamo del DT de Vasco sobre el estadio para jugar ante Boca: “Es una  desventaja..."
+- Boca, hoy EN VIVO: los convocados para enfrentar a Instituto, el posible 11 y la venta de entradas para la semifinal ante Vasco
 
 **Infobae** (40)
+- Habló el entrenador que intentó llevar a Lionel Messi a la selección de España y reveló cómo fue el fallido plan para convencerlo
+- Las tapas de los diarios del mundo tras el retiro de Lionel Messi de la selección argentina: “Despedida de cuento de hadas”
+- La postura de los jugadores de Portugal tras el explosivo descargo de Cristiano Ronaldo contra el entrenador
+- Los documentos secretos sobre la millonaria indemnización que recibió Christian Horner tras su escandalosa salida de Red Bull
+- La emotiva entrevista de una nena de 11 años al Dibu Martínez: “Para mí es un ídolo”
 - La Catedral del tenis argentino cumple 100 años
 - El periodista español más fanático de Messi dio detalles de su sensible charla antes de la despedida: el sutil dardo a Cristiano Ronaldo
 - Los detalles exclusivos de la despedida de Carlos Tevez en la Bombonera
@@ -311,52 +301,47 @@ Generado por `scripts/titulares.py` (workflow `tendencias`). Leídos 26 de 34 me
 - Otro golpe inesperado para George Russell: por qué largará último en el GP de Singapur de Fórmula 1
 - El impensado discurso de uno de los periodistas más críticos de Messi tras su despedida de la selección argentina
 - Seis argentinos salen a la cancha en el Masters 1000 de Shanghái: hora, rivales y cómo ver los partidos en vivo
-- La dedicatoria para los hinchas de River Plate que dejó Messi en la camiseta de Argentina de su despedida
-- Con un guiño al Balón de Oro, el emocionante video de la AFA para Messi tras su despedida de la Selección: “Te amamos”
-- Un viaje de 10.000 kilómetros, el “último baile” y el recuerdo de Qatar: los mensajes de los hinchas para Messi en su adiós a la Selección
-- El video que hace furor en la Fórmula 1: el peculiar saludo de Colapinto que sorprendió a Max Verstappen
-- El tierno mensaje de Enzo Fernández para Messi tras llorar desconsoladamente en su despedida de la Selección: “El ídolo de mi vida”
 
 **Google News AR** (40)
-- Agenda de la 13 a la 15
-- El exfutbolista del fútbol argentino que Boca analiza como alternativa a Sebastián Villa
-- Todo lo que necesitas saber de nuestro fútbol
-- Vuelve el fútbol europeo tras la fecha FIFA: partidazos de la Premier, La Liga y agenda completa de los argentinos
-- Escándalo en el fútbol: El caso Mancuso y las licencias exprés
-- Se programaron partidos pendientes del torneo de División de Fútbol Playa
-- Macri defendió las SAD en el fútbol y usó a Talleres y a Fassi como ejemplo: “Hay un señor que es como el dueño”
-- ¡Entre GOATS se entienden! Cristiano reacciona a despedida de Messi
-- Fútbol local: así se juega la novena fecha del Torneo Clausura - Diario El Norte
-- Fútbol de la Federación. Nueva reprogramación para el Sub 17 de Blanco y Negro
-- Macri volvió a defender las SAD con un guiño a Fassi
-- La Liga de Fútbol Valorado realizó una actividad por el Día internacional de la No Violencia
+- Juveniles: agenda de la 29
+- El campeón del mundo que perdió el amor por el fútbol argentino: la fuerte crítica de Tagliafico al formato actual del torneo
+- "Potreros": el emotivo corto sobre el fútbol en Purmamarca y a los pies del Cerro de los Siete Colores
+- A un año de la partida de la sonrisa del fútbol: el fútbol argentino y sudamericano recuerdan el legado de Miguel Ángel Russo
+- Fútbol Femenino: el Clausura puso primera
+- Cuando juegan Boca vs River por el Clausura 2026: fecha y hora del Superclásico
+- A un año de su muerte, el fútbol argentino recuerda a Miguel Ángel Russo
+- Nace la Asociación Riocuartense de Fútbol de Salón
+- El norte y el fútbol tendrán una visita de lujo: llega el "Burrito" Ortega
+- Fútbol: el crespense Heinze seguirá en Arsenal hasta 2030
+- Fútbol local: este domingo será el turno de la fecha 26
+- Alemania refuerza su posición en cumbre del fútbol europeo en Berlín: "Infantino debe irse" de la FIFA
 
 **ge.globo** (40)
-- Arteta, do Arsenal, se torna o técnico mais bem pago da Premier League; confira ranking
-- Vasco x Boca: PM considera São Januário inadequado e Maracanã ideal para confronto
-- Dorival reconhece momento difícil e revela papo no vestiário do São Paulo: "Mais confiança"
-- Artur Jorge celebra Cruzeiro no G-4, mas liga sinal de alerta para reta final do Brasileirão
-- Quem ganhou a Copa Africana de Nações de 2025? Julgamento de recurso começa nesta quinta-feira
-- Torcida do São Paulo protesta no Mineirão: "Time sem vergonha"
-- Cruzeiro quebra longa sequência da defesa e tem chance de fechar rodada no G-4 pela 1ª vez
-- Pedrinho critica negativas ao Vasco para jogar no Maracanã: "Vão me acuando e tirando alternativas"
-- Atuações do Cruzeiro: Felipe Morais aproveita chance, e Kaio Jorge tem melhor noite pós-Copa
-- Atuações do São Paulo: Sabino e Pablo Maia são os piores em derrota; dê suas notas
-- Ramón Díaz é o preferido para assumir o Corinthians
-- Tite cita oportunidades criadas e lamenta derrota do Botafogo: "Efetividade também conta"
+- Lesionados no clássico, Arthur Chaves e Vitinho, do Botafogo, recebem alta hospitalar
+- Avaí vence com gols de atletas que nunca haviam marcado na carreira
+- Independente é goleado pelo Paysandu e se despede da Copa do Brasil Sub-20
+- "Com certeza é uma casa portuguesa..."
+- William Gomes, ex-São Paulo, renova contrato com o Porto até 2031
+- Técnico do Benim reclama em despedida de Messi: "Não nos deram nem uma foto"
+- Fluminense testa novo gramado do Maracanã após críticas e polêmicas com o Vasco
+- Jogadores do Vasco pedem que jogo contra o Boca não seja no Nilton Santos: "Vamos nos sentir visitantes"
+- Hora de mudar? Botafogo mantém problemas com centroavantes e liga alerta no Brasileirão
+- Alex Sandro volta a ser titular do Flamengo em ano de oscilação e renovação de contrato
+- Promessa do Arsenal recebe três recordes do Guinness antes dos 17 anos
+- Arthur emplaca sequência como titular em novo clube e mira convocação: "Pode abrir portas para mim"
 
 **r/soccer (top día)** (25)
 - Cristiano Ronaldo’s comment on Messi’s latest Instagram Post
 - Anthony Gordon: "I'm now playing alongside the best players in the world. My entire career, I've made runs without the ball without anyone n
-- Jorge Jesus when he was asked about Ronaldo’s statement: “I was in Leiria watching the Portugal U21 national team match. And now I will read
-- Rooney "Tevez in training was an absolute disgrace, but we would accept it because he would put all his energy on the pitch. Tevez couldn’t 
-- Argentina fans reaction to an advertisement for an insurance company being displayed by drones after Messi’s final international game
-- David Ornstein: "I don't see how Manchester City would continue in the Premier League...You consider the damage that this has caused to othe
-- Ronaldo tantrum in stark contrast to Messi’s graceful exit
 - [Telegraph] Man Utd, Liverpool, Arsenal and Spurs were handed Man City guilty verdict early
-- Pedro Rodríguez announces his retirement from football
+- José Mourinho on Manchester City's case "I’d rather have a bit of a laugh about it. I think that we will reach a conclusion but, being in my
+- River Plate named Lionel Messi a "honorary socio" before his farewell match in the Monumental. His signed Argentina jersey will be in the cl
 - Argentina players on the bus were chanting to ask Messi to change his mind ahead of farewell game
+- Cristiano Ronaldo tells football pundit Simon Jordan 'stop with the Botox - you look like an apple' in scathing text message over criticism 
 - There have been agents [Of Man City players] discussing ‘just cause’ provisions in contracts – options held by club and player – and whether
-- Mikel Arteta signs new Arsenal contract
+- Workers are being paid a basic wage of less than £1 an hour to make official football shirts for some of the world's biggest clubs, BBC Spor
+- Benin’s head coach Gernot Rohr: “The Argentinians didn’t give our players anything, not even a photo with Messi. We wanted to exchange shirt
+- [Sami Mokbel, BBC] Declan Rice close to agreeing new Arsenal deal
+- Chants of “Green Bay Sucks” at the end of Chicago vs Vancouver game at Soldier Field, Chicago
 
-Fallaron: ESPN (ParseError), Goal (HTTPError), Independent (ParseError), Football365 (HTTPError), Marca (HTTPError), Sport (HTTPError), Calciomercato (HTTPError), TN (HTTPError)
+Fallaron: ESPN (ParseError), Goal (HTTPError), Independent (ParseError), Football365 (HTTPError), Marca (HTTPError), Sport (HTTPError), Calciomercato (HTTPError), Record (TimeoutError), TN (HTTPError)

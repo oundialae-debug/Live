@@ -1,17 +1,15 @@
-# Tendencias de fútbol (2026-10-08 05:33 UTC, Google Trends)
+# Tendencias de fútbol (2026-10-08 14:05 UTC, Google Trends)
 
 Generado por el workflow `tendencias`. Úsalo para elegir temas de memes, curiosos y jugador vs jugador.
 
 | País | Búsqueda | Tráfico | Titular |
 |---|---|---|---|
-| Spain | fc cartagena real murcia | 5000+ | FC Cartagena 1 - 0 Real Murcia: resumen, goles y resultado |
-| Spain | al-nassr football club | 200+ | How to get Al Nassr FC vs Neftchi Fargona tickets: AFC Champions League Elite prices, fixture inform |
-| Italy | daniele moretti commercialista | 2000+ | Evasione fiscale, arrestato un commercialista a Roma: sequestrati 14 mln di euro |
-| Italy | pegaso | 1000+ | Università Pegaso, 4.200 iscrizioni irregolari e sospetti sugli esami: così è nata l’inchiesta |
-| USA | semana mundial del espacio 2026 | 2000+ | Semana Mundial del Espacio 2026: dónde mirar las estrellas y celebrarla en Arizona |
-| Argentina | gernot rohr | 500+ | El entrenador de Benín habló de un “punto negro” en la despedida de Messi: “No nos dieron nada” |
-| Brazil | world space week 2026 | 2000+ | Semana Mundial do Espaço 2026 destaca 'Revolução dos Foguetes' e nova corrida espacial |
-| Brazil | semana mundial del espacio 2026 | 500+ | Marte, Titán, exoplanetas, materia oscura y rayos cósmicos: así celebrará el Universum la Semana Mun |
-| Portugal | cristiano ronaldo | 500+ | «Cristiano Ronaldo já se encontra suspenso da participação na Seleção» |
-| Portugal | rui silva | 200+ | Rui Silva na lista do Bayern para a sucessão de Manuel Neuer |
-| Portugal | paulo futre | 500+ | Futre para Villas-Boas: «Esteja onde estiver, o presidente Pinto da Costa estará muito orgulhoso do  |
+| Spain | pep guardiola | 500+ | Guardiola asistirá al Manchester City-PSG para apoyar al club tras ser declarado culpable |
+| Spain | álvaro arbeloa | 500+ | Arbeloa recibe un apoyo crucial en un momento clave del curso |
+| Italy | dipendente | 1000+ | Il portone del Comune di Napoli resta chiuso: i custodi apriranno solo il portoncino ma senza fare v |
+| Germany | milos kerkez | 200+ | Liverpool FC News: Andoni Iraola lining up 11-goal sensation to replace Milos Kerkez |
+| Germany | berngau | 1000+ | Großeinsatz in der Oberpfalz: Polizei warnt – Häuser nicht verlassen |
+| Argentina | presidente de burkina faso | 200+ | El presidente de Burkina Faso, duro tras el amistoso con la Selección: "Nuestro fútbol está enfermo" |
+| Argentina | alejandro domínguez | 500+ | El desafío del presidente de la Conmebol para Messi: ¿aceptará? |
+| Brazil | exército dos estados unidos | 200+ | Quem é e qual o crime do primeiro militar que vai ser executado nos EUA desde a Segunda Guerra Mundi |
+| Mexico | deportivo toluca fútbol club | 100+ | Se pone Brunetta a Toluca como parámetro |
