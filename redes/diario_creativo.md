@@ -50,3 +50,7 @@ Yo hago los memes. Tras cada revisión, anota aquí qué funcionó/falló y qué
 - Foto: recortar para quitar el logo del medio (Guardian en Ronaldo: recorte x150-763, y0-460). Con un degradado no basta: se ve el fantasma del logo.
 - Sonnet crítico (a/b/c/d): Ronaldo 8/8/9/7, Rice 7/6/7/7, Inglaterra 7/7/7/8. Cambios aplicados: "Nations League" en el subtítulo, "apologised", pregunta menos agresiva ("Should Portugal still build around him?"), titular Rice con la cifra (£350K), "Is England back?" en vez de "favourites" (suena a apuestas), foto de Tuchel serena en vez de manos en la cara (contradecía "12-0").
 - Hipótesis: noticia emocional/polémica (Ronaldo) > noticia de contrato (Rice). Revisar a 24-48 h.
+
+## 09/10: noticias y duelo
+- Foto compuesta (SGA + estadio del Atlético, degradado) para noticias cruzadas; recorte de caras a 1:1 con YuNet para el duelo (banda de 400 px en vez de 330: caras de 120 px, detectables). Parche local de generar.py: `banda_alto` y `sin_marcador` (no empujado a futbol-pipeline).
+- Hipótesis: emoción (Ronaldo→Messi) > curiosidad cross-sport (SGA) > dato de liga (Barça). Revisar a 24-48 h. Sin memes por IAs bloqueadas.

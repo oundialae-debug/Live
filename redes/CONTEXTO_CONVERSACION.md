@@ -115,3 +115,4 @@ Resumen de todo lo hablado con el usuario en el chat que creó el sistema. Léel
 - Comprobar que las métricas de posts publicados a mano (recordatorio) llegan a Buffer; si no, usar métricas agregadas del canal.
 - Clubes en plantillas cuando vuelvan las ligas (9/10+).
 - 08/10 (tarea diaria autónoma): sin partidos de ligas; 3 noticias en cola (Ronaldo 12:00, Rice 14:30, Inglaterra 17:30 Madrid). IAs gratuitas bloqueadas por el proxy → sin memes hoy (regla d). Plantilla `scripts/noticia_marco.py` (render local con Chromium, caja de zona segura + comprobar_caras.py).
+- 09/10 (tarea diaria autónoma): ligas vuelven; sin generador de previos de clubes → solo 4 extras en cola (Messi-Ronaldo 12:00, SGA-Atlético 14:30, Barça 17:00, Haaland vs Mbappé 19:00). IAs bloqueadas → sin memes.
