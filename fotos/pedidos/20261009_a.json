@@ -1,0 +1,8 @@
+{"web": [
+ {"noticia": "Messi", "buscar": "Lionel Messi Argentina farewell Benin", "slug": "messi9", "n": 8, "dias": 4, "debe": ["messi"]},
+ {"buscar": "Cristiano Ronaldo Al Nassr Portugal 2026", "slug": "cr7_9", "n": 8, "dias": 7, "debe": ["ronaldo","cristiano"]},
+ {"noticia": "Gilgeous", "buscar": "Shai Gilgeous-Alexander Thunder MVP", "slug": "sga9", "n": 8, "dias": 14, "debe": ["gilgeous","shai"]},
+ {"buscar": "Atletico Madrid Metropolitano Simeone", "slug": "atm9", "n": 6, "dias": 14, "debe": ["atletico","simeone","metropolitano"]},
+ {"noticia": "Haaland", "buscar": "Erling Haaland Manchester City goal", "slug": "haaland9", "n": 8, "dias": 7, "debe": ["haaland"]},
+ {"noticia": "Mbapp", "buscar": "Kylian Mbappe Real Madrid goal", "slug": "mbappe9", "n": 8, "dias": 7, "debe": ["mbappe"]}
+]}
