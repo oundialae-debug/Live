@@ -1,5 +1,5 @@
 {
- "red": "tiktok",
+ "red": "instagram",
  "hora": "2026-10-09T17:00:00+02:00",
  "tipo": "curioso",
  "partido": "Barça 7/7 y 31 goles",
@@ -9,5 +9,8 @@
   "https://raw.githubusercontent.com/oundialae-debug/live/main/media/20261009_barca_31.jpg"
  ],
  "variante": "hook=pregunta;formato=curioso;hora=17;momento=laliga_vuelve",
- "notas": "fcbarcelona.com 21/09 + allfootballapp; 31-7 nuestros datos; Sonnet 8/7/6->corregido/8; IAs bloqueadas"
+ "notas": "fcbarcelona.com 21/09 + allfootballapp; 31-7 nuestros datos; Sonnet 8/7/6->corregido/8; IAs bloqueadas",
+ "estado": "enviado",
+ "buffer_id": "6ac900dda5e49fef9bb74566",
+ "dueAt": "2026-10-09T15:00:33+00:00"
 }
