@@ -1,0 +1,13 @@
+{
+ "red": "tiktok",
+ "hora": "2026-10-09T17:00:00+02:00",
+ "tipo": "curioso",
+ "partido": "Barça 7/7 y 31 goles",
+ "text": "Barcelona have won all 7 La Liga games, scoring 31 and conceding 7: a Barça record after 7 league games. Only Sevilla (40 in 1940/41) have scored more at this stage. Best Barça attack ever? 👇\n#Barcelona #LaLiga #Flick #FCBarcelona #Football",
+ "titulo": "Barcelona: 7 wins from 7, 31 goals in La Liga",
+ "imagenes": [
+  "https://raw.githubusercontent.com/oundialae-debug/live/main/media/20261009_barca_31.jpg"
+ ],
+ "variante": "hook=pregunta;formato=curioso;hora=17;momento=laliga_vuelve",
+ "notas": "fcbarcelona.com 21/09 + allfootballapp; 31-7 nuestros datos; Sonnet 8/7/6->corregido/8; IAs bloqueadas"
+}

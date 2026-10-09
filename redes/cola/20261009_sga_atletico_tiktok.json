@@ -1,0 +1,13 @@
+{
+ "red": "tiktok",
+ "hora": "2026-10-09T14:30:00+02:00",
+ "tipo": "noticia",
+ "partido": "NBA MVP SGA accionista Atlético",
+ "text": "NBA MVP Shai Gilgeous-Alexander has joined Atlético de Madrid's group of shareholders, the club confirmed. Atlético are 2nd in La Liga after 7 games (16 pts). Smart move or just hype? 👇\n#Atletico #ShaiGilgeousAlexander #LaLiga #NBA #Football",
+ "titulo": "NBA MVP Shai Gilgeous-Alexander becomes an Atlético de Madrid shareholder",
+ "imagenes": [
+  "https://raw.githubusercontent.com/oundialae-debug/live/main/media/20261009_sga_atletico.jpg"
+ ],
+ "variante": "hook=pregunta;formato=noticia;hora=14;momento=noticia_dia",
+ "notas": "beIN, ESPN, Goal, OneFootball 8/10; tabla LaLiga: nuestros datos; Sonnet 8/7/7/7; IAs bloqueadas"
+}

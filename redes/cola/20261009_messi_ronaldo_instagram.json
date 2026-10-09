@@ -1,0 +1,13 @@
+{
+ "red": "instagram",
+ "hora": "2026-10-09T12:00:00+02:00",
+ "tipo": "noticia",
+ "partido": "Ronaldo to Messi (Argentina farewell)",
+ "text": "Cristiano Ronaldo to Lionel Messi after his Argentina farewell: “a story that will last forever… all my respect.” Messi has 8 Ballon d’Ors, Ronaldo 5: 13 between them. GOAT: Messi or Ronaldo? 👇\n#Messi #CristianoRonaldo #Argentina #Football #GOAT",
+ "titulo": "Ronaldo to Messi after Argentina farewell: “All my respect”",
+ "imagenes": [
+  "https://raw.githubusercontent.com/oundialae-debug/live/main/media/20261009_messi_ronaldo.jpg"
+ ],
+ "variante": "hook=pregunta;formato=noticia;hora=12;momento=noticia_dia",
+ "notas": "titulares: Messi 13 medios; cita Yahoo + Al Jazeera 8/10; BDO 8+5; Sonnet 8/8/5->corregido/8; IAs gratis bloqueadas"
+}

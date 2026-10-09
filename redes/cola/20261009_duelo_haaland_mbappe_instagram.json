@@ -1,0 +1,13 @@
+{
+ "red": "instagram",
+ "hora": "2026-10-09T19:00:00+02:00",
+ "tipo": "ranking",
+ "partido": "Haaland vs Mbappé por 90",
+ "text": "Erling Haaland vs Kylian Mbappé, league stats per 90 this season. Both average 1.00 goals per 90 (Haaland 5 in 450', Mbappé 7 in 630'). Mbappé leads on xG, shots and xA. Who are you picking? 👇\n#Haaland #Mbappe #PremierLeague #LaLiga #Football",
+ "titulo": "Haaland vs Mbappé: 1.00 goals per 90 each. Who are you picking?",
+ "imagenes": [
+  "https://raw.githubusercontent.com/oundialae-debug/live/main/media/20261009_duelo_haaland_mbappe.jpg"
+ ],
+ "variante": "hook=pregunta;formato=jugadores;hora=19;momento=laliga_vuelve",
+ "notas": "nuestro box-score (historico_xg_jugador), por 90; fotos: Sky y Foot Mercato; Sonnet 6/8/4->corregido sin 0-3"
+}
