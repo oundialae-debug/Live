@@ -1,5 +1,5 @@
 {
- "red": "tiktok",
+ "red": "instagram",
  "hora": "2026-10-09T14:30:00+02:00",
  "tipo": "noticia",
  "partido": "NBA MVP SGA accionista Atlético",
@@ -9,5 +9,8 @@
   "https://raw.githubusercontent.com/oundialae-debug/live/main/media/20261009_sga_atletico.jpg"
  ],
  "variante": "hook=pregunta;formato=noticia;hora=14;momento=noticia_dia",
- "notas": "beIN, ESPN, Goal, OneFootball 8/10; tabla LaLiga: nuestros datos; Sonnet 8/7/7/7; IAs bloqueadas"
+ "notas": "beIN, ESPN, Goal, OneFootball 8/10; tabla LaLiga: nuestros datos; Sonnet 8/7/7/7; IAs bloqueadas",
+ "estado": "enviado",
+ "buffer_id": "6ac8dea83c055a152a6530e8",
+ "dueAt": "2026-10-09T12:34:36+00:00"
 }
