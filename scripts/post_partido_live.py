@@ -70,7 +70,8 @@ def clonar(completo=False):
         r = run(["git", "clone", "-q", "--depth", "1", "--filter=blob:none", "--sparse", FP_URL, str(FP_DIR)])
         if r.returncode:
             sys.exit("No se pudo clonar futbol-pipeline: " + r.stderr[-300:])
-        run(["git", "-C", str(FP_DIR), "sparse-checkout", "set", MARCAS])
+        # sin cone: con cone bajaría también los CSV sueltos de data/ (~160 MB) en cada pasada
+        run(["git", "-C", str(FP_DIR), "sparse-checkout", "set", "--no-cone", f"/{MARCAS}/"])
     if completo and (FP_DIR / ".git").exists():
         r = run(["git", "-C", str(FP_DIR), "sparse-checkout", "disable"])
         if r.returncode:
