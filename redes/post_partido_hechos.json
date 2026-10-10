@@ -1,0 +1,18 @@
+{
+ "en_curso": {},
+ "partidos": {
+  "1336420545": {
+   "estado": "publicado_manual",
+   "fecha": "2026-10-10",
+   "nota": "publicado a mano el 10/10 (vídeo de futbol-pipeline, post_v2.mp4); no repetir",
+   "partido": "Real Madrid-Villarreal",
+   "resultado": "1-0"
+  },
+  "1340476411": {
+   "estado": "abandonado",
+   "fecha": "2026-10-10",
+   "nota": "futbol-pipeline no lo vio terminar antes de saque+4h; sin post",
+   "partido": "RB Leipzig-Eintracht Frankfurt"
+  }
+ }
+}

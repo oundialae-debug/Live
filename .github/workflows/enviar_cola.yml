@@ -1,5 +1,8 @@
 name: enviar-cola
 # Cada 10 min manda a Buffer lo de redes/cola/ que toca en <=25 min. Necesita el secreto BUFFER_API_KEY.
+# Antes, el post-partido automático (scripts/post_partido_live.py): si futbol-pipeline dejó una marca "datos_listos"
+# nueva, dibuja, monta el vídeo, lo sube a media/post_partido/ y deja 2 JSON en la cola (TikTok + IG) a ahora+3 min,
+# que el paso "Enviar" de esta misma pasada manda a Buffer. Sin marcas nuevas: un clon disperso de segundos, nada más.
 on:
   schedule: [{cron: "*/10 * * * *"}]
   workflow_dispatch:
@@ -15,6 +18,22 @@ jobs:
         if: github.event_name == 'workflow_dispatch'
         env: {BUFFER_API_KEY: "${{ secrets.BUFFER_API_KEY }}"}
         run: python3 scripts/enviar_cola.py --comprobar
+      - name: Post-partido, ¿datos nuevos en futbol-pipeline? (sin instalar nada)
+        id: pp
+        continue-on-error: true          # un fallo aquí no puede impedir el "Enviar" del resto de la cola
+        run: python3 scripts/post_partido_live.py hay
+      - uses: actions/setup-python@v5
+        if: steps.pp.outputs.hay == 'si'
+        with: {python-version: '3.12'}   # generar.py de futbol-pipeline usa f-strings de 3.12
+      - name: Post-partido (dibujar, vídeo, cola)
+        if: steps.pp.outputs.hay == 'si'
+        continue-on-error: true
+        run: |
+          pip install -q pandas==2.2.3 numpy==2.1.3 scipy==1.14.1 playwright
+          python -m playwright install --with-deps chromium
+          command -v ffmpeg || (sudo apt-get update -qq && sudo apt-get install -y -qq ffmpeg)
+          git config user.name "2yellow-bot"; git config user.email "bot@users.noreply.github.com"
+          python scripts/post_partido_live.py
       - name: Enviar
         if: ${{ hashFiles('redes/cola/*.json') != '' }}
         env: {BUFFER_API_KEY: "${{ secrets.BUFFER_API_KEY }}"}
@@ -22,7 +41,7 @@ jobs:
       - name: Guardar
         run: |
           git config user.name "2yellow-bot"; git config user.email "bot@users.noreply.github.com"
-          git add -A redes/cola redes/publicaciones.csv
+          git add -A redes/cola redes/publicaciones.csv redes/post_partido_hechos.json redes/biblioteca_musica.json
           git diff --cached --quiet && exit 0
           git commit -m "cola: enviados a Buffer [skip ci]"
           for i in 1 2 3; do git pull --rebase -q && git push && break; sleep 5; done

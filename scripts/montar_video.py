@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """Monta un vídeo 1080x1920 con imágenes + música a partir de pedidos/<id>.json.
 Pedido: {"id":"ukr_hun_2026-10-06","images":["media/a.jpg",...],"seconds":2.3,
-         "audio":"musica/boom.mp3","out":"videos/ukr_hun_2026-10-06.mp4","fade":0.5,"audio_delay":0}
+         "audio":"musica/boom.mp3","out":"videos/ukr_hun_2026-10-06.mp4","fade":0.5,"audio_delay":0,"loop_audio":false}
 La duración sale de nº imágenes x seconds. Quita el silencio inicial de la pista y normaliza si suena flojo."""
 import json, re, subprocess, sys
 from pathlib import Path
@@ -25,6 +25,8 @@ def main(p):
     cmd = ["ffmpeg", "-v", "error", "-y"]
     for i in imgs:
         cmd += ["-loop", "1", "-t", str(sec), "-i", i]
+    if o.get("loop_audio"):  # la pista se repite si el vídeo dura más (post-partido: 6 x 2.8 s = 16.8 s con pistas de 15 s)
+        cmd += ["-stream_loop", "-1"]
     cmd += ["-i", o["audio"]]
     n = len(imgs)
     ins = "".join(f"[{k}:v]" for k in range(n))
