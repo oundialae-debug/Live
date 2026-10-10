@@ -1,4 +1,4 @@
-# Titulares de fútbol (2026-10-09 14:06 UTC, últimas 36 h)
+# Titulares de fútbol (2026-10-10 05:31 UTC, últimas 36 h)
 
 Generado por `scripts/titulares.py` (workflow `tendencias`). Leídos 26 de 34 medios; fuentes en `redes/fuentes.md`.
 
@@ -6,123 +6,125 @@ Generado por `scripts/titulares.py` (workflow `tendencias`). Leídos 26 de 34 me
 
 | Tema | Nº medios | Medios | Ejemplo |
 |---|---|---|---|
-| Madrid | 14 | AS, Daily Mail, Foot Mercato, Football Italia, FourFourTwo, Google News AR, Goog | Real Madrid embroiled in ANOTHER dressing room fight with 'two stars coming to blows' - while Kylian Mbappe de |
-| Maresca | 13 | BBC, Daily Mail, Foot Mercato, FourFourTwo, Google News EN, Guardian, L'Equipe,  | Man City titles 'absolutely not' tainted - Maresca |
-| Everton | 13 | BBC, Daily Mail, Foot Mercato, Football Italia, FourFourTwo, Google News EN, Gua | Everton owners consider selling club two years after takeover |
-| Mourinho | 12 | AS, BBC, Daily Mail, Foot Mercato, FourFourTwo, Google News ES, Kicker, L'Equipe | Mourinho calls criticism of Mbappe 'ridiculous' |
-| Man | 11 | BBC, Daily Mail, Football Italia, Google News EN, Mirror, Planet Football, Recor | Man City titles 'absolutely not' tainted - Maresca |
-| Liverpool | 11 | BBC, Foot Mercato, FourFourTwo, Mirror, Mundo Deportivo, Planet Football, Sky Sp | Working with Iraola, car clauses and hope - the Liverpool academy approach |
-| Arsenal | 11 | Daily Mail, Foot Mercato, Google News EN, Guardian, L'Equipe, Mundo Deportivo, P | Mikel Arteta’s new contract reflects where the power now lies at Arsenal | Ed Aarons |
-| Manchester | 10 | Foot Mercato, FourFourTwo, Google News EN, Guardian, L'Equipe, Record, Yahoo, ge | Maresca says Manchester City titles not tainted; Liverpool’s Isak and Gakpo injured – live |
-| Friedkin | 9 | Daily Mail, Football Italia, FourFourTwo, Google News EN, Guardian, L'Equipe, Mi | Everton owner The Friedkin Group exploring sale of club after two years |
-| Enzo | 9 | Daily Mail, Foot Mercato, FourFourTwo, Google News EN, L'Equipe, Mirror, Yahoo,  | Chelsea monitoring international star as possible late replacement for Enzo Fernandez |
-| Bayern | 8 | AS, Foot Mercato, FourFourTwo, Infobae, Kicker, Record, Sky Sports, ge.globo | Transfer Centre LIVE! Bayern chief 'positive' about Kane contract talks |
-| Mbappé | 8 | AS, Foot Mercato, Google News ES, Kicker, L'Equipe, Mundo Deportivo, ge.globo, r | Mourinho sale en defensa de Mbappé: “Es ridículo” |
-| Pedro | 7 | AS, BBC, Google News AR, Mundo Deportivo, Yahoo, ge.globo, talkSPORT | What to do with Joao Pedro? FPL gameweek six dilemmas |
-| Group | 7 | Daily Mail, FourFourTwo, Google News EN, Guardian, Mirror, Planet Football, r/so | Everton owner The Friedkin Group exploring sale of club after two years |
-| Messi | 7 | Foot Mercato, Football Italia, Google News AR, Infobae, Mundo Deportivo, ge.glob | Cristiano Ronaldo sends public message to Lionel Messi amid international saga |
-| FIFA | 7 | Google News AR, Infobae, L'Equipe, Mirror, Ole, Record, r/soccer (top día) | Gianni Infantino handed FIFA presidency boost as Aleksander Ceferin performs U-turn |
-| Barcelona | 7 | AS, Google News ES, Infobae, Mundo Deportivo, Yahoo, ge.globo, r/soccer (top día | Barcelona could demand more than €50 million as Chelsea consider January move for 27-year-old defender &#8211; |
-| Flick | 7 | Foot Mercato, Google News AR, Google News ES, Mundo Deportivo, Ole, Yahoo, ge.gl | Barcelona suffer Raphinha injury blow as Hansi Flick rules forward out of next two games |
-| Eckert | 6 | BBC, Daily Mail, Google News EN, Mirror, Yahoo, talkSPORT | Eckert energy and stopping star duo - south coast derby talking points |
-| Chelsea | 6 | Daily Mail, FourFourTwo, Record, Yahoo, ge.globo, talkSPORT | Chelsea handed quadruple injury boost amid concerns over Cole Palmer and Joao Pedro |
-| Haaland | 6 | Daily Mail, Foot Mercato, Mirror, Mundo Deportivo, r/soccer (top día), talkSPORT | Enzo Maresca speaks for first time on Man City charges verdict as Erling Haaland calls for unity |
-| Spygate | 5 | BBC, Daily Mail, Guardian, Mirror, talkSPORT | 'It's changed my life' - Eckert on Spygate scandal |
-| Infantino | 5 | BBC, Google News AR, Google News ES, L'Equipe, Mirror | Infantino given re-election boost as Montagliani seeks final Concacaf term |
-| Carrick | 5 | BBC, Daily Mail, Mirror, Sky Sports, Yahoo | Carrick stays cool, but should he be worried about Man Utd's form? |
-| Iraola | 5 | BBC, Daily Mail, Mirror, Sky Sports, Yahoo | Working with Iraola, car clauses and hope - the Liverpool academy approach |
+| Portugal | 12 | Daily Mail, Foot Mercato, Google News AR, Google News EN, Infobae, L'Equipe, Mir | Ronaldo scores on Al Nassr return after Portugal walkout |
+| Ronaldo | 12 | Daily Mail, Foot Mercato, Google News AR, Google News ES, Infobae, L'Equipe, Mir | Ronaldo scores on Al Nassr return after Portugal walkout |
+| Cristiano | 12 | AS, Daily Mail, Foot Mercato, Google News AR, Google News ES, Infobae, L'Equipe, | Cristiano Ronaldo sends message to Portugal just 23 minutes into Al Nassr return |
+| Man | 9 | BBC, Daily Mail, Google News EN, Mirror, Planet Football, Sky Sports, Yahoo, r/s | Arteta's conscience clear over Man City charges |
+| Everton | 9 | BBC, Daily Mail, FourFourTwo, Guardian, Planet Football, Sky Sports, Yahoo, r/so | Everton up for sale again - so what next as owners TFG look for a way out? |
+| Manchester | 9 | FourFourTwo, Google News EN, Guardian, Infobae, L'Equipe, Yahoo, ge.globo, r/soc | Managers react to Manchester City’s guilty verdict: ‘Uncertainty is not good for anyone’ |
+| Liverpool | 9 | Daily Mail, Foot Mercato, Football Italia, FourFourTwo, Mirror, Planet Football, | Liverpool fans urged to deploy unusual tactic and throw Man City off at Anfield |
+| Maresca | 8 | BBC, Daily Mail, FourFourTwo, Google News EN, Mirror, Yahoo, r/soccer (top día), | Man City titles 'absolutely not' tainted - Maresca |
+| Tottenham | 8 | FourFourTwo, Google News EN, Guardian, L'Equipe, Yahoo, ge.globo, r/soccer (top  | Manchester United’s early wobble makes Tottenham visit a must-win for Carrick |
+| Messi | 8 | AS, Foot Mercato, Google News AR, Infobae, L'Equipe, Mirror, Ole, talkSPORT | Benin boss slams Argentina stars for refusing to exchange shirts in Lionel Messi&#8217;s farewell game |
+| Madrid | 8 | AS, Foot Mercato, Google News ES, Infobae, Mundo Deportivo, Planet Football, Yah | Can you name the 16 Frenchmen to play for Real Madrid since 1990? |
+| Carrick | 7 | BBC, Daily Mail, Google News EN, Guardian, Mirror, r/soccer (top día), talkSPORT | I've got my own questions on Man City case - Carrick |
+| Arsenal | 7 | BBC, Google News EN, Mirror, Planet Football, Yahoo, ge.globo, talkSPORT | Arsenal eye deal for teenager Mora - Saturday's gossip |
+| Chelsea | 7 | Daily Mail, Foot Mercato, Football Italia, FourFourTwo, Guardian, Yahoo, talkSPO | Chelsea manager Alonso insists Cole Palmer is committed to playing for England |
+| Arteta | 7 | Daily Mail, Google News EN, Infobae, Mirror, Sky Sports, Yahoo, r/soccer (top dí | Arteta says conscience clear over time at Man City |
+| Enzo | 7 | Daily Mail, FourFourTwo, Google News EN, Mirror, Yahoo, r/soccer (top día), talk | Chelsea monitoring international star as possible late replacement for Enzo Fernandez |
+| Lionesses | 6 | BBC, Daily Mail, FourFourTwo, Guardian, Telegraph, Yahoo | Greek takeaways: What did we learn from Lionesses' win? |
+| European | 6 | BBC, Football Italia, Google News EN, Guardian, Yahoo, talkSPORT | Time to rise? Ranking European football's sleeping giants |
+| Mourinho | 6 | AS, BBC, Foot Mercato, FourFourTwo, L'Equipe, r/soccer (top día) | Mourinho calls criticism of Mbappe 'ridiculous' |
+| West | 6 | Google News EN, Guardian, Mirror, Sky Sports, Yahoo, talkSPORT | West Ham’s penalty pain costs them top spot in Championship after QPR draw |
+| England | 6 | Daily Mail, FourFourTwo, Google News EN, Guardian, Sky Sports, talkSPORT | Chelsea manager Alonso insists Cole Palmer is committed to playing for England |
+| Nassr | 6 | Google News ES, Infobae, Mundo Deportivo, Sky Sports, r/soccer (top día), talkSP | Ronaldo scores on Al Nassr return after Portugal walkout |
+| Lens | 6 | Foot Mercato, Kicker, L'Equipe, Mundo Deportivo, Record, Yahoo | PLAYER RATINGS | Lens 2-1 Lyon: Les Sang et Or defeat unbeaten Gones in resounding win for Yannick Cahuzac&#82 |
+| Infantino | 5 | BBC, Foot Mercato, Google News EN, L'Equipe, r/soccer (top día) | Will anyone stop re-election of Infantino as Fifa president? |
+| Utd | 5 | BBC, Google News EN, Mirror, Planet Football, Sky Sports | Is £70m Baleba ready for his Man Utd exam? |
 
 ## Titulares por medio
 
-**BBC** (32)
+**BBC** (31)
+- Greek takeaways: What did we learn from Lionesses' win?
+- Time to rise? Ranking European football's sleeping giants
+- Arteta's conscience clear over Man City charges
+- Man City whistleblower to remain in witness protection
+- I've got my own questions on Man City case - Carrick
+- Will anyone stop re-election of Infantino as Fifa president?
 - Man City titles 'absolutely not' tainted - Maresca
-- Everton owners consider selling club two years after takeover
+- Everton up for sale again - so what next as owners TFG look for a way out?
+- Arsenal eye deal for teenager Mora - Saturday's gossip
+- What reception awaits Man City at Anfield?
 - Is £70m Baleba ready for his Man Utd exam?
-- How Arteta's response to Brighton loss may shape Arsenal's next chapter
 - Sutton's predictions v Starsailor frontman James Walsh
-- What could Rangers' 2012 case tell us about Man City's uncertain future?
-- What to do with Joao Pedro? FPL gameweek six dilemmas
-- Maresca will be demanding a siege mentality from Man City - Pulis
-- From doomscrolling to defiance - how do Man City fans feel?
-- Eckert energy and stopping star duo - south coast derby talking points
-- What impact has break had & how will Reedijk fare? Premiership questions
-- Mourinho calls criticism of Mbappe 'ridiculous'
 
-**Guardian** (22)
-- Maresca says Manchester City titles not tainted; Liverpool’s Isak and Gakpo injured – live
-- Everton owner The Friedkin Group exploring sale of club after two years
+**Guardian** (19)
+- The Premier League is back: welcome to the new era of post-verdict unreality | Barney Ronay
+- Lionesses take control of World Cup playoff tie but unfancied Greece still in fight
+- Managers react to Manchester City’s guilty verdict: ‘Uncertainty is not good for anyone’
+- West Ham’s penalty pain costs them top spot in Championship after QPR draw
+- Chelsea manager Alonso insists Cole Palmer is committed to playing for England
+- Manchester United’s early wobble makes Tottenham visit a must-win for Carrick
+- The Premier League so far: draws, underperforming xG and other data pointers
+- Premier League team news: predicted lineups for the weekend action
 - Premier League: 10 things to look out for this weekend
+- Russo’s return to form is vital but Lionesses still lack bite against low blocks | Suzanne Wrack
 - Oliver Glasner: ‘There was no plan for me to be Nottingham Forest manager’
-- Will Carlos Baleba fix Manchester United? Three big questions ahead of potential debut
-- Wiegman praises Toone’s attitude after late Lionesses recall for Greece playoff
-- Sergio Camello: ‘Rayo is the last team standing – it’s football from another time’
-- Zavier Gozo: ‘You have to be uncomfortable to get to the highest levels’
-- Victor Montagliani eyes re-election at Concacaf that would rule out Fifa presidency run
-- Havertz, Isak, Dorgu … spate of injuries with national teams leaves sour taste for top clubs
-- ‘Like a movie script’: Michael McArdle backs Northern Ireland to make history
-- Manchester United offer JJ Gabriel new deal but risk losing prodigy for £350,000
+- Singapore GP, tasty Tests and the Premier League’s return – follow with us
 
 **Sky Sports** (20)
-- Verstappen claims Singapore Sprint pole but under investigation
-- Carrick demands Man City verdict clarity: 'Speed is essential'
-- Edwards signs with Argentina as defence coach until after 2027 World Cup
-- Dual Arc hero Daryz retired to stud
-- Singapore GP: Verstappen heads to stewards with Sprint pole at risk LIVE!
-- Djokovic suffers shock second-round exit in Shanghai and Fery beaten
-- Wolff: People who think Mercedes favour Antonelli should watch Teletubbies
-- Liverpool latest: Iraola has attacking calls to make with key duo out of City game
-- Arsenal latest: Arteta gives Tzolis, Havertz, Konsa, Rice injury updates
-- Transcript: What Maresca said on Man City charges verdict
-- Scot Prem: Rangers must be obsessed with winning or noise can return, warns McInnes
-- Transfer Centre LIVE! Bayern chief 'positive' about Kane contract talks
+- 'You will see me back' - Smith vows 2027 return after Swiss Darts Trophy win
+- Papers: Man Utd forced into transfer market in January?
+- Arteta says conscience clear over time at Man City
+- Wainwright opens Leicester account with Gloucester win in front of Prince Harry
+- INCREDIBLE! QPR's Charles saves stoppage-time Bowen pen AND rebound!
+- Bowen's late penalty saved as West Ham held by QPR
+- White: Fury-AJ will be most lucrative gate in British boxing history
+- Ronaldo scores on Al Nassr return after Portugal walkout
+- Forrest holds halfway lead at Open de Espana
+- England take control of World Cup play-off with win in Greece
+- West Ham 1-1 QPR highlights
+- Hope hundred fires West Indies to record win over India in second T20
 
-**talkSPORT** (40)
-- Chelsea handed quadruple injury boost amid concerns over Cole Palmer and Joao Pedro
-- David Moyes reveals surprise over bombshell news about Everton ownership
-- Juventus already seeking Nick Woltemade alternatives one month into loan spell
-- Unfulfilled Cristiano Ronaldo would be happier if he took up different sport
-- Liverpool fans urged to deploy unusual tactic and throw Man City off at Anfield
-- Chelsea monitoring international star as possible late replacement for Enzo Fernandez
-- Two managers ready to pounce with Man United vs Tottenham set for huge ramifications
-- Enzo Maresca grilled over commitment to Man City if they get relegated in tense press conference
-- Vincent Kompany makes first statement on Manchester City saga since guilty verdict
-- Scott McTominay linked with blockbuster signing next summer in reunion with ex-manager
-- Ally&#8217;s Acca Boost: Get 7/1 Hearts, Hibs, Falkirk & Rangers to win
-- What are Man City&#8217;s next five games? Upcoming schedule for Maresca and co amid chaos at Etihad
+**talkSPORT** (36)
+- Tottenham happy to be called name again after previous request to the media
+- Bruno Fernandes unwittingly giving goalkeepers penalty advantage unlike Harry Kane, says ex-Premier League star
+- Man City winning Premier League title this season would be biggest shambles in history
+- &#8216;Disgraceful&#8217; &#8211; West Ham on receiving end of referee clanger to reignite VAR in Championship debate
+- Cole Palmer is no England ‘bottle job’ &#8211; where was Piers Morgan’s criticism of Ben White for World Cup walkout?
+- Cristiano Ronaldo sends message to Portugal just 23 minutes into Al Nassr return
+- Benin boss slams Argentina stars for refusing to exchange shirts in Lionel Messi&#8217;s farewell game
+- Chelsea plan upgrades to training ground that ex-owner once eyed for royal property
+- Former Premier League striker sacked after losing all four Nations League games
+- Manchester United boss Michael Carrick reveals personal problems with Man City case
+- Two Arsenal stars facing late fitness test before Premier League return as legend offers solution
+- Michael Carrick reveals triple injury blow before mammoth Tottenham clash
 
-**Daily Mail** (37)
-- Man City guilty reaction LIVE: Michael Carrick says 'there is no getting back football's beauty' and Andoni Iraola demands answers... as Rio
-- Defiant Enzo Maresca insists he would have taken Man City job had club already had guilty verdict - and vows to speak 'when we win the appea
+**Daily Mail** (35)
+- Man City 'held secret settlement talks with Premier League before guilty verdict - and club could have got let-off with a FINE before they c
+- Andre Villas-Boas claims key reason he 'failed miserably' at Chelsea was because he couldn't handle dressing room of 'egos' and 'prima donna
+- The glaring problems Roberto De Zerbi must fix ahead of Tottenham's crunch test at Man United, how his patience is starting to wear thin aft
+- Jamie Carragher tears into Rio Ferdinand and Piers Morgan over their 'embarrassing' defence of Cristiano Ronaldo after his Portugal walk-out
+- Georgia Stanway reminds Sarina Wiegman she can always rely on her, Maya Le Tissier takes her chance - and a bright moment for one of the Lio
+- Riyad Mahrez risks infuriating wife Taylor Ward on Dele Alli's live stream with indiscreet comment about 'the birds in Dubai'
+- Jamie Carragher and Mark Goldbridge trade 'policeman fraud', 'sell-out' and 'punditry career' jibes in awkward start to Gary Neville's big-m
+- 'I've got my own questions about it': Man United boss Michael Carrick admits being awarded another Premier League winners' medal after Man C
+- Chelsea handed boost with Moises Caicedo and Cole Palmer among FIVE stars 'ready to go' for Bournemouth after injuries
 - Everton owners The Friedkin Group open to full sale of club - less than two years after completing takeover
-- Chelsea's breakthrough star, London City's Halloween fan... and the Man United supporter named after Eric Cantona! The young stars to watch 
 - Oliver Glasner's battle plan for fractious Crystal Palace return: The three players key to taking down old club, what he's improved from las
-- Stats boffins reveal the Premier League side with the TOUGHEST fixtures before the next international break as Man United face tricky tests 
-- Arsenal were the biggest losers from the three-week international break as team with the most average minutes is revealed - but how did it a
-- Jose Mourinho aims playful dig at Man City over bombshell guilty verdict - and insists he 'would rather have a laugh' about club's cheating 
-- Cristiano Ronaldo's Portugal walk-out left mother in 'tears' as she reveals what she told star, 41, after he quit the team's camp 'through t
-- Paul Scholes tells Arsenal legend Martin Keown to 'do one' in row over demand for a Premier League medal in the Man City cheating scandal
-- 'I can't watch the videos... managers won't touch him': The sad reality of Dele Alli's new life as a streamer - as old England teammates dis
-- Real Madrid embroiled in ANOTHER dressing room fight with 'two stars coming to blows' - while Kylian Mbappe defies Jose Mourinho's orders in
+- Inside the £800m Everton sale: The moment the Friedkins knew they couldn't meet fans' demands, why absentee owners are confident of deal bef
 
 **Mirror** (25)
-- Man City charges LIVE: Triple punishment agreement as defiant Enzo Maresca takes grilling
-- Alexander Isak and Cody Gakpo OUT of Liverpool vs Man City as Andoni Iraola gives update
-- Michael Carrick takes Man City charges 'personally' as Man Utd boss makes appeal demand
-- Erling Haaland injury update given by Enzo Maresca before Man City's trip to Liverpool
-- Jamie Carragher fires warning to Liverpool and Man Utd after Man City's guilty verdict
-- Arne Slot takes first job since Liverpool sacking after hitting back at speculation
-- Sir Harry Redknapp to make film debut in movie about day he pulled 'mouthy' West Ham fan from stands to play
-- Keely Hodgkinson defends 'sexy' outfit she'll be banned from wearing for Team GB
-- Man City intervene in rare Erling Haaland interview as questions on 114 charges 'refused'
-- Enzo Maresca insists Man City will WIN appeal but reveals plan for relegation
-- Man Utd fans revive brutal Man City banner after Premier League guilty verdict
-- Five Premier League things NOT including Man City charges to follow this weekend
+- Michael Oliver decision made after Man City charges as Premier League officials confirmed
+- Eight players set to miss Liverpool vs Man City clash as Erling Haaland update given
+- Liverpool news: Andoni Iraola warned ahead of Man City clash as Arne Slot lands new job
+- Man Utd news: JJ Gabriel contract offer made as club's silence broken on City charges
+- 'I had the best time of my life at Leeds – but I didn't need convincing to join Arsenal'
+- Arsenal news: Mikel Arteta set for transfer windfall as Mikel Arteta discovers £85million price tag
+- Man City charges news: Triple punishment agreement as Premier League chiefs speak out
+- Man City 'held settlement talks with Premier League' BEFORE guilty verdict on charges
+- Mikel Arteta gives telling one-word answer over his conscience amid Man City verdict
+- Mikel Arteta makes Arsenal vow after signing new contract - 'We need to stay on top'
+- Man City whistleblower Rui Pinto goes BACK into witness protection after 'fearing for his life'
+- Jamie Carragher takes ANOTHER swipe at Rio Ferdinand over Cristiano Ronaldo behaviour
 
-**Telegraph** (0)
+**Telegraph** (1)
+- Lionesses take step closer to World Cup but do not look like they can win it
 
 **90min** (0)
 
 **Planet Football** (10)
+- 30 years on, this ridiculous goalkeeper free-kick still defies belief
 - Can you name Leeds United’s XI that famously beat Arsenal in 2003?
 - Players with most goals in a calendar year in football history & where Kane currently ranks
 - Where are they now? Tottenham’s XI from the last Man Utd ‘El Sackio’ in 2021
@@ -132,9 +134,11 @@ Generado por `scripts/titulares.py` (workflow `tendencias`). Leídos 26 de 34 me
 - Can you name the 25 clubs with the highest average attendance in world football?
 - The surprisingly decent Premier League table since the Friedkin Group took over at Everton
 - Picking the best XI from Pep Guardiola’s Man City & Jurgen Klopp’s Liverpool
-- The story of Mark Viduka, the ‘lazy’ enigma Australia grew to love
 
-**FourFourTwo** (21)
+**FourFourTwo** (13)
+- Is Alexander Isak fit for Liverpool vs Manchester City? Premier League injury update
+- Tottenham Hotspur are mistreating their 'perfect signing' despite Roberto De Zerbi's confidence comments
+- Is Erling Haaland fit for Liverpool vs Manchester City? Premier League injury update
 - Manchester City boss Enzo Maresca refuses to address future, in wake of bombshell scandal verdict
 - Why Everton will struggle to find a buyer after The Friedkin Group put club up for sale
 - What's next for Chelsea Women? Owner Alexis Ohanian hints at next major step
@@ -144,218 +148,215 @@ Generado por `scripts/titulares.py` (workflow `tendencias`). Leídos 26 de 34 me
 - Friday Football Quiz, episode 136: Can you get 20 correct answers?
 - Quickfire Quiz 220: Can you answer 10 questions in 90 seconds?
 - Manchester United vs Tottenham Hotspur is the battle of the sack race favourites but it's too early for either to go
-- Five of the best FPL captaincy options for Gameweek 6 as Fantasy Premier League managers face difficult choice
-- LaLiga block ex-Real Madrid signing in fear of Manchester City-style payments: report
-- Liverpool to snatch £60m Bournemouth man: report
 
 **Yahoo** (40)
-- Ramsey&#39;s Oxford cannot wait to get going again
-- Chivu: ‘Players prefer to play than train, Inter never underestimate opponents’
-- &#39;Up the Boro&#39; - Hellberg feels the love as leader
-- Enzo Maresca defends Man City after guilty Premier League verdict
-- Michael Carrick reacts to ‘unprecedented’ Manchester City verdict: ‘Thrown up a lot of questions’
-- Mikel Arteta reacts to Man City verdict: ‘I completely trust the club’
-- Former Real Madrid star Savio talks Vinicius, Rodrygo, Endrick, Mbappe, Diomande, Mourinho: &#8216;He needs to set his mind and focus&#8217;
-- Amateur football club wins £1m Lotto jackpot after 30 years of playing the same numbers
-- Arsenal winger ruled out vs Leeds but 7 could return
-- Mikel Arteta reveals Declan Rice worry in Arsenal injury update
-- Allegri: ‘I was hurt after Fiorentina, our players play for longer than in the Premier League’
-- Milan prepared to reignite interest in Sporting&#8217;s Goncalo Inacio
+- Time to rise? Ranking European football&#39;s sleeping giants
+- Man City whistleblower to remain in witness protection
+- A major Manchester City weapon is ready for Liverpool but doubt remains over the fitness of two players
+- Inter vs Parma: Sucic Favoured After Curtis Jones Injury
+- Enzo Maresca has backed his club when faced with the tough questions surrounding Manchester City
+- Arsenal eye deal for teenager Mora - Saturday&#39;s gossip
+- ⚠️ Court clears Vasco to host Boca Juniors at the Maracanã
+- USWNT vs. Spain: World&#39;s top 2 teams meet in potential preview of 2027 World Cup final
+- NI World Cup hopes gone from &#39;improbable to impossible&#39;
+- Portadown and Glentoran share spoils at Shamrock Park
+- Arteta&#39;s conscience clear over Man City charges
+- How Liverpool’s clash with Manchester City casts awkward new light on Premier League’s big-money model
 
 **Google News EN** (40)
-- The Premier League is BACK! - The story so far
-- How to Watch and Follow the EFL this weekend
-- Scores & Fixtures - Football
 - JJ Gabriel: Manchester United could be forced to accept small fee for wantaway teen - Paper Talk | Football News
-- How do Spanish football clubs become 'Real' and what does it mean?
-- Swansea City: How Welsh club found their way back as ambition returns
-- Aaron Ramsey: Oxford United head coach cannot wait to get going in League One again
-- 'Up the Boro' - Hellberg feels the love as leader
-- What impact has break had & how will Reedijk fare? Premiership questions
-- Celtic ultras plan boycott amid quarrel with board
-- Bournemouth news: Adam Smith on Alex Scott and Juanlu Sanchez
-- Manchester City charges: Enzo Maresca says 'titles absolutely not tainted'
+- Football club makes history with £1m lottery win
+- Infantino has divided football. But he may be the leader Fifa wants
+- How the Premier League’s great sell-off changed the fabric of English football
+- The Premier League is BACK! - The story so far
+- Football gossip: Gilberto Mora, Endrick, Murillo, Harry Kane, Pablo Barrios
+- Sam Kerr on target but Matildas outclassed by youthful Germany in European friendly
+- How Norway's rowing fans inspired Martin Odegaard and Erling Haaland
+- Hull City transfers, latest news, rumours and gossip: Live updates, goals and highlights
+- European FAs pushing for three-week international break to be abandoned
+- Sampdoria, Bordeaux, Real Zaragoza: Ranking European football's biggest sleeping giants
+- Man Utd may be forced into transfer market in January - Paper Talk | Football News
 
 **AS** (27)
-- “Vini tiene que poner la mente y el foco en volver a ser decisivo”
-- Mourinho sale en defensa de Mbappé: “Es ridículo”
+- Fernando Roig: “Somos lo que visualicé hace 30 años que seríamos”
+- El ‘hijo del fútbol holandés’ cumple su promesa
+- El Atleti ironiza sobre Valverde: “La comunidad médica mundial estaba equivocada”
+- Adrián Niño, al rescate en el paraíso del Espanyol
+- El motor económico del Barça
+- No hay que enfadar a Cristiano...
+- Resumen y goles del Málaga vs. Espanyol de la jornada 8 de la Liga EA Sports
+- Tiembla el Barça: victoria con diez... ¡y vuelve Osimhen!
+- Mercado de fichajes, en directo: rumores, altas y bajas de LaLiga, Premier, Serie A...
 - Menos leyendas, más obreros: así han cambiado los banquillos de LaLiga
-- Pedro dice adiós: “Gracias fútbol”
-- “En el Betis no salieron las cosas y decidí volver a casa”
-- Mercado de fichajes, en directo: rumores, altas y bajas de LaLiga, Premier, Serie A...º
-- El Real Madrid ‘avisa’ con Diomande: vean las dos secuencias del entrenamiento
-- El duelo del 2, al rojo vivo
-- El VAR del derbi, sin nevera de Primera
-- Carles Manso: “Tenemos la asignatura pendiente de ganar en casa”
-- El Sevilla homenajea a la Generación del 27
-- “Si descienden al City... ¡yo ya subí con el Leicester!”
+- Mourinho sale en defensa de Mbappé: “Es ridículo”
+- Espí, a lo Hugo Sánchez
 
 **Mundo Deportivo** (40)
-- Esta es la convocatoria del Real Madrid ante el Villarreal
-- Día histórico en el arbitraje
-- El Leganés podría recuperar a Diawara para visitar al Almería
-- "Os podréis encontrar a los jugadores a las 3:30 en las Fiestas del Pilar"
-- El Navalcarnero cambia de estadio para recibir al Betis en la Copa del Rey
-- La gran incógnita del Atlético está arriba
-- El Villarreal confirma la lesión de Buchanan
-- Haaland: "Creo que los aficionados del City que viajen a Liverpool lo pasarán genial"
-- Al Atlético le espera un estreno en el arbitraje en Vitoria
-- Alivio con Ferran Torres
-- Bordalás: "El Barça es de los mejores del Campeonato e incluso de Europa"
-- Barrios y Sorloth reaparecerán contra el Alavés
+- Terzic refuerza la candidatura de Unai Simón
+- El Sanse, a romper su racha de tres derrotas seguidas en casa del otro filial, el Fortuna
+- Un reto de aúpa
+- De mejor socio de Harry Kane a entrenar con un equipo de Octava
+- El brutal contraste goleador entre Barça y Getafe
+- El Barça Atlètic se aferra al factor campo para seguir líder
+- Reinicio exigente y con récord para el Barça
+- Rayo Vallecano y Athletic afrontan su segundo comienzo
+- El Sabadell, ante el reto de volver a sumar de tres
+- Dos partidos se adelantan al sábado en el grupo 5 de Tercera Federación
+- Viene lo gordo
+- Cuatro encuentros para abrir la jornada en el grupo 2 de Segunda Federación
 
 **Google News ES** (40)
-- Atractivo duelo entre filiales en Vigo
-- Agenda de encuentros del Área de Fútbol Base para el fin de semana
-- Mourinho da la cara por Vinicius y su idea de la 'meritocracia': "Hay jugadores que necesitan tiempo para volver a su nivel normal"
-- Fútbol: Estados Unidos - España (F), en directo | 13/10
-- La Junta destaca el valor de la Selección Española de fútbol como referente deportivo y de unión para los castellanos y leoneses
-- Guía completa de todos los Iconos de FC 27
-- CONVOCATORIA: Entrenamiento de la Selecció Valenciana Valenta sub12 de fútbol en Picassent para preparar el ‘II Torneo Tornem!’
-- Celades: "Hay un margen grande de mejora"
-- El fútbol africano muestra su apoyo a Infantino
-- El fútbol en chándal de Mendia
-- Mucho más que 90 minutos
-- José Mourinho rompe una lanza a favor de Kylian Mbappé: "¿Exagerado? Es ridículo"
+- Fútbol Freestyle: el espectáculo llega a Sevilla
+- El Madrid vuelve al Bernabéu 28 días después: presión deportiva, ruido mediático y un examen para sus estrellas
+- La baja de Raphinha pone a prueba el ritmo del Barça
+- En directo | As Celtas-Deportivo B de Segunda Federación de fútbol femenino
+- Fútbol y escuela en La Bordeta
+- CONVOCATORIA: Entrenamiento de la Selecció Valenciana masculina sub12 de fútbol en Picassent para preparar el ‘II Torneo Tornem!’
+- Los 10 equipos de fútbol que más temporadas han jugado en Primera División
+- La extraordinaria historia del fútbol en Ribesalbes: de la mina de los ingleses a Santolaria, Bonet, Palomo, Paco el Malo...
+- "La grandeza se gana": el tifo de la afición de Al Nassr en apoyo a Cristiano Ronaldo tras la polémica con Jorge Jesus
+- Pilotades | El Manacor de Tercera quiere sumar su sexta victoria consecutiva
+- Vuelven
+- Laura Nercellas participará en el Campeonato Paneuropeo de Clubes de fútbol gaélico
 
 **Gazzetta** (0)
 
 **Football Italia** (20)
+- Pio Esposito wants to play for Italy U21 at 2027 European Championships, says Baldini
+- Baldini: ‘Mancini left us our best players for Poland, Barzagli a pleasant surprise’
+- Juric frustrated by Italy call-up for 20-year-old Kouadio: ‘A waste of time’
+- Football Italia Show: Why Milan must keep Pulisic and what’s the McKennie zone at Juventus
+- Official: FIGC assembly called for December 14, Malagò expected to regain Presidency
+- Official: Montella sacked by Turkiye after winless Nations League start
+- Official: Nico Gonzalez signs new contract with Juventus until 2030
+- Iraola hints at Chiesa opportunities as Liverpool face attacking injury pile-up
+- Palestra finally eyeing Premier League debut with Chelsea: ‘Ready to go’
+- Spence in contention for Inter debut against Parma: ‘He’s available’
+- Chivu takes the blame after Calhanoglu criticism for skipping Italy vs. Turkiye
 - Chivu: ‘Players prefer to play than train, Inter never underestimate opponents’
-- Allegri: ‘I was hurt after Fiorentina, our players play for longer than in the Premier League’
-- Allegri confirms McTominay can play for 20-30 minutes after heart procedure
-- Gasperini to leave Argentine duo on bench for Roma’s clash with Como
-- Inter’s English trio still waiting for their first match together
-- Stramaccioni: Dybala still ‘more influential’ than Nico Paz ahead of Como vs. Roma
-- Two names emerge as Milan’s January priorities
-- He’ll be a ‘great’ coach: High praise for ex-Juventus and Italy defender Barzagli
-- Milan focus on new contracts for Pulisic, Rabiot and Pavlovic as Cardinale returns
-- Malen: ‘I didn’t feel important’ at Aston Villa, Gasperini ‘will never lie’
-- What Italy need to do to be seeded for the Euro 2028 qualifying draw
-- Official: Roma and Everton owners Friedkin open to Premier League club’s sale
 
 **Kicker** (20)
-- "Was erzählt einem dann Modric?": Freiburger auf Länderspielreise
-- Demichelis zu Messi-Abschied: "War ein sehr emotionaler Tag"
-- "Den Mut habe ich": Wird Uno Blessins Überraschungsfaktor fürs Derby?
-- Schütte und Kural treffen doppelt: U-17-Juniorinnen feiern Kantersieg
-- Muslic verärgert und hoffnungsvoll: Sylla soll die Sturmflaute beenden
-- Wagner spürt die Skepsis: "Es ist schwer, das nicht wahrzunehmen"
-- Schüller fällt aus: Wücks Personalsorgen vergrößern sich
-- 3:2 nach 0:2 in der 89. Minute: Das wundersame Werder-Comeback in Dortmund
-- "Bestes Jahr meiner Karriere": Füllkrug freut sich auf Rückkehr nach Dortmund
-- VfB-Spielplan bis zur nächsten Länderspielpause: Das XXL-Programm im Überblick
-- Leverkusen plant mit Maza - Boniface "eine Option"
-- Gipfeltreffen mit Erfurt: Das Chemnitzer Bollwerk gegen das "beste Umschaltspiel der Liga"
+- "Ein völlig neues Bremer Qualitätsmerkmal"
+- Schüller reist ab: Wück reagiert und nominiert Martinez nach
+- Zivzivadzes folgenschwere Verspätung: "Er wird sich was einfallen lassen, um es wiedergutzumachen"
+- Füllkrug: "Da kommt der Champions-League-Fülle raus"
+- Wück: "Das war ein unheimlicher Lehrmoment für uns"
+- "Wir hatten alles im Griff": Schlotterbeck schwankt zwischen Stolz, Frust und Enttäuschung
+- Malaga - Espanyol: Tor zum 1:1 durch Nino in der 90.+3 Minute
+- Kössler ebnet den DFB-Frauen den Weg zum Sieg
+- "Münster hat uns wegmalocht": Koschinat hadert und sieht "Kardinalfehler"
+- LEN - LYO: Tor in der 85. Minute
+- LEN - LYO: Rote Karte für in der 84. Minute
+- Lens - Lyon: Tor zum 2:0 durch Udol in der 76. Minute
 
 **L'Equipe** (40)
-- Blessé à la cheville, Adil Bourabaa sera absent au moins un mois : « On pourrait ne pas le revoir sur le terrain pendant un certain temps »
-- Genesio : «Reproduire ce que l'on a fait contre Paris mais avec plus de continuité»
-- City en crise : qu'en pensent les supporters de Manchester United ?
-- Angel Gomes : «Peu importe le poste où je dois jouer, tant que je peux aider l'équipe»
-- Niang, un pari pour le futur
-- Rakan Al-Thani, un des fils de l'ex-président qatarien de Malaga, placé en détention provisoire en Espagne
-- Lens-OL, un choc pour reprendre
-- Une chance pour le milieu niçois Hicham Boudaoui de démarrer contre Strasbourg dimanche en Ligue 1 ?
-- Auxerre sans Christ Makosso ni Rayan Mandengue pour le déplacement à Rennes en Ligue 1
-- Luis Enrique avant d'affronter Le Mans pour la 6e journée de Ligue 1 : « Nous sommes loin de ce que nous voulons au classement »
-- L'entraîneur de Nice Olivier Pantaloni a trouvé la trêve « trop longue »
-- « Nous devons prendre soin de lui » : Raphinha sera ménagé pour les deux prochains matches du FC Barcelone
+- « Il a très bien joué et ça s'est vu car le reste de l'équipe n'a pas fait ce qu'il fallait faire » : Dominik Greif, la seule éclaircie de l
+- Achetée 25 M€ et 42 minutes jouées cette saison : la pépite ivoirienne Patrick Zabi attend encore son heure au Paris FC
+- Le SCO costaud à l'extérieur
+- « Est-ce qu'on va lui faire de la place ? » : Mika Godts, un potentiel certain, mais encore un palier à franchir au PSG
+- « Des matches à intensité tous les week-ends », un Championnat qui prend de l'ampleur et la France à proximité : pourquoi de plus en plus de
+- « Je compte beaucoup sur la force du collectif pour régler les problèmes défensifs » : face aux absences derrière, Brest doit se réorganiser
+- « Le groupe a joué avec personnalité, caractère » : face à Lyon, le Racing club de Lens a renoué avec son ADN
+- « On mettait des petits ponts aux gens dans le RER, on était cinglés » : les années PSG de Patrick Videira
+- Sotoca, comme au bon vieux temps
+- La députée Colette Capdevielle demande la réouverture d'une enquête sur Éric Olhats pour suspicions de soumission chimique
+- «On était loin de ce qu'on a préparé»
+- Cahuzac : «On a joué avec beaucoup de caractère»
 
 **Foot Mercato** (40)
-- Les justifications sincères d’Angel Gomes sur la période noire de l’OM
-- Liverpool : bonne nouvelle pour Jérémy Jacquet
-- PSG, Luis Enrique : « vous êtes toujours extrêmes les journalistes ! »
-- La CAN va finalement rester tous les 2 ans !
-- OM : Bruno Genesio refuse de changer de système de jeu
-- Real Madrid : le groupe pour la réception de Villarreal avec Mbappé
-- OM, Bruno Genesio : « je vais bien, merci de vous inquiéter pour moi »
-- OM : Bruno Genesio révèle les dessous de sa discussion avec ses dirigeants
-- OM : Angel Gomes est prêt à jouer en défense centrale
-- PSG, Luis Enrique : « Doué ? C’est une machine ! »
-- PSG : la sortie provocatrice de Luis Enrique sur les prestations d’Ousmane Dembélé avec l’équipe de France
-- OM : le message d’Angel Gomes aux supporters
+- Espagne : un motard meurt dans une collision avec une voiture où se trouvait la fille de Luis Enrique
+- Al-Nassr : le message de Cristiano Ronaldo
+- Comment Paulo Fonseca et l’OL ont raté leur plan tactique face au RC Lens
+- L’Atlético se moque du Real Madrid dans un nouveau post
+- LdC : avant Lens, le Sporting renverse Braga
+- Yannick Cahuzac a relancé le RC Lens !
+- OL : Loïs Openda a quitté le stade en béquilles
+- Al-Nassr : la folle revanche de Cristiano Ronaldo
+- OL : Corentin Tolisso fait amende honorable
+- RC Lens - OL : les notes du match
+- BL : le BvB gâche deux points à domicile face au Werder
+- Ligue 1 : le RC Lens maîtrise l’OL et renoue enfin avec le succès
 
 **Record** (20)
-- <![CDATA[ Santa Clara com voo adiado e jogo frente ao Casa Pia vai passar para as 20h30 ]]>
-- <![CDATA[ Diogo Mendes reforça o meio-campo do Feirense ]]>
-- <![CDATA[ Maresca rejeita títulos manchados e confia na inocência do Man City: «Vamos ganhar o recurso» ]]>
-- <![CDATA[ Campeões da EDP Maratona de Lisboa querem revalidar títulos em edição recordista ]]>
-- <![CDATA[ Verstappen voa em Singapura e conquista pole position para a Sprint ]]>
-- <![CDATA[ Pergunte o que quiser sobre mais uma jornada da Liga Record: participe no fórum! ]]>
-- <![CDATA[ Frederico Varandas aventura-se nas ondas com os filhos  ]]>
-- <![CDATA[ «Talvez partilhe este prémio com Trump»: vencedora do Nobel da Paz brinca após receber a notícia  ]]>
-- <![CDATA[ Michael Olise dá 'murro na mesa' e impõe condição para renovar com o Bayern ]]>
-- <![CDATA[ Vitinha prometeu e cumpriu: o gesto com adepto de 8 anos que valeu aplausos à saída do treino ]]>
-- <![CDATA[ Villas-Boas explica porque falhou "redondamente no Chelsea" e solta um "Alerta CM!" sobre "o problema dos egos" ]]>
-- <![CDATA[ Ministério da Justiça mantém estatuto de testemunha protegida para Rui Pinto ]]>
+- <![CDATA[ Isaac James aumenta opções de Sérgio Ferreira no Alverca ]]>
+- <![CDATA[ Rui Borges já sorri no vira do Minho ]]>
+- <![CDATA[ Famalicão avança com revolução digital ]]>
+- <![CDATA[ Vasco Vaz antecipa final do Mundial sub-19 com a Espanha: «Vai ser decidida nos pormenores» ]]>
+- <![CDATA[ Fábio Pereira quer que duelo com a Académica seja "especial" para os leirienses ]]>
+- <![CDATA[ Aursnes feito num 8: Marco Silva quer o norueguês sempre a jogar no meio-campo  ]]>
+- <![CDATA[ Portugal vence a Itália nos penáltis e está na final do Mundial sub-19 de hóquei em patins ]]>
+- <![CDATA[ O interrogatório do Sp. Braga-Sporting: triunfo que pode valer mais do que 3 pontos ]]>
+- <![CDATA[ Carlos Vicens reage aos lenços brancos: «Contestação é normal» ]]>
+- <![CDATA[ Luís Miguel Henrique elogia Jorge Jesus: «Não há nenhum líder que não seja justo, corajoso e altruísta» ]]>
+- <![CDATA[ Luís Miguel Henrique: «Estou do lado de Jorge Jesus porque é o lado da razão» ]]>
+- <![CDATA[ Luciano Gonçalves disponível para ser ouvido pela PJ: «Entrego tudo o que necessitarem» ]]>
 
 **Ole** (10)
-- Hansi Flick: "Lamine Yamal será el mejor jugador del mundo, si no lo es ya"
-- La FIFA detectó 240.000 mensajes ofensivos durante el Mundial 2026: el 20% fueron racistas
-- La chance única que tiene Boca en la tabla anual en la visita a Instituto
-- Sin margen de error: el probable 11 de River para recibir a Estudiantes (RC)
-- Masters 1000 de Shanghai: Fran Cerúndolo debutó con victoria y avanzó a tercera ronda
-- The Last Messipedia: el diccionario de Leo actualizado
-- Paris Saint Germain ofrece productos de higiene menstrual en el Parque de los Príncipes
-- Récord en el Brasileirao: nunca se tardó tanto tiempo en determinar un fallo por el VAR
-- River, hoy EN VIVO: sale la lista vs. Estudiantes (RC), cómo está Almada y más noticias del viernes 9 de octubre
-- Tragedia en la lucha libre mexicana: murió un árbitro tras recibir una peligrosa maniobra y detuvieron a un luchador
+- Franco Colapinto en el GP de Singapur, hoy EN VIVO: a qué hora es la carrera Sprint y la clasificación de la F1
+- La Tabla Anual: Boca a un punto del líder y River afuera de todo...
+- Video: el mensaje de Lionel Messi para el equipo de su sobrino
+- El trapo especial de la hinchada de Boca dedicado a Russo a un año de su fallecimiento
+- Aníbal Moreno vuelve a concentrar y puede debutar en el ciclo Ponzio en River
+- Video: la violenta patada del hijo del Muñeco Gallardo a Leonel Flores
+- Choque de titanes: Max Verstappen correrá contra Valentino Rossi en una competencia de gran turismos
+- Arruabarrena: de "Paredes está lesionado" a "tenemos con qué suplantarlo"
+- Así reaccionaron en Brasil a la lesión de Paredes antes de la semi contra Vasco
+- Excursionistas aplastó a Villa San Carlos y acaricia el título de la Primera B
 
 **Infobae** (40)
-- Franco Colapinto quedó detrás de su compañero Gasly por un margen mínimo, fue eliminado en SQ2 y largará 11° la Sprint del GP de Singapur de
-- Boca Juniors visitará a Instituto en un duelo clave por la cima de su zona y la Tabla Anual: hora, TV y probables formaciones
-- El presidente de Lanús Nicolás Russo pidió la salida de Beligoy de la dirección de arbitraje del fútbol argentino: “Cumplió un ciclo”
-- Sorpresa en el mundo del deporte: una figura de la NBA se convirtió en accionista del Atlético de Madrid
-- Tagliafico habló de la idea de ser padre y dio detalles de su relación: “Ser mujer de futbolista psicológicamente es muy duro”
-- Hizo el camino del Dibu Martínez, pasó por el hockey y se convirtió en la primera jugadora de Independiente en llegar a la Selección Mayor
-- Quedó libre de Boca, fue remisero y mozo y recién debutó a los 25 años: “Pasé de levantarle los brazos a la gente a ponerlos en el volante”
-- Con una llamativa ausencia en el top 10, quiénes son los futbolistas más caros del mundo
-- El sorprendente anuncio en la carrera deportiva de Marta antes del Mundial femenino Brasil 2027
-- Neymar volvió tras su lesión y marcó los dos goles del Santos ante Flamengo: la marca histórica que logró y la patada de Paquetá
-- Se dio a conocer la última actualización del ranking FIFA: cómo quedó Argentina tras sus victorias
-- “Deja de usar bótox, pareces una manzana”: la burla en vivo de Cristiano a un periodista que lo criticó por su conflicto en Portugal
+- A 50 años del récord ganador de Roberto Mouras en el TC y el triste final de su auto, el mítico “7 de Oro”
+- La revolución histórica del TC 2000: las nuevas marcas chinas y un gigante de la Fórmula 1 que podría sumarse
+- El argentino Francisco Prado tendrá una pelea en UFC buscando cambiarlo todo: “Sé que puedo, soy peligroso”
+- Franco Colapinto largará 11° la carrera Sprint del Gran Premio de Singapur de Fórmula 1: hora, TV y la grilla de largada
+- Defensa y Justicia venció 2-0 a Unión de Santa Fe y quedó como escolta de su zona en el Torneo Clausura
+- Así están las tablas del Torneo Clausura y la Tabla Anual: la lucha por el descenso y la clasificación a las copas internacionales
+- Boca Juniors igualó 2-2 ante Instituto por el Torneo Clausura a cuatro días de las semifinales de la Copa Sudamericana
+- La preocupante frase del técnico de Boca sobre la lesión de Paredes antes de enfrentar a Vasco da Gama en la Sudamericana
+- Leandro Paredes salió por una molestia muscular ante Instituto y encendió las alarmas en Boca Juniors: el gesto de dolor
+- El blooper del arquero de Instituto que terminó con el inesperado gol de Enner Valencia para Boca Juniors
+- El show de golazos de Lionel Messi en el entrenamiento del Inter Miami tras su despedida de la selección argentina
+- Marcos Rojo fue habilitado y se convirtió en nuevo refuerzo de Estudiantes de La Plata: “Estoy muy feliz de volver a casa”
 
 **Google News AR** (40)
-- El fútbol argentino no espera: Viera, Insua, Coudet, Vojvoda y la cultura del "lo quiero ya"
-- Partidos de HOY, viernes 9 de octubre: horario y por dónde ver fútbol EN VIVO :: Olé - ole.com.ar
-- La CONMEBOL promueve el cuidado de la salud mental en el fútbol sudamericano
-- Sportivo Suardi recibirá las finales de la Copa Bi-Departamental de Fútbol
-- Nations League. La política juega al fútbol
-- El fútbol. Es una industria del expectáculo, y también una identidad argentina
-- Quién es el primer entrenador al que le cancelaron la licencia en Brasil por el escándalo que involucra a Alejandro Mancuso
-- Se termina el fútbol gratis: la AFA confirmó el precio de LPF Play para mirar el Ascenso
-- Se acaba el fútbol gratis: los partidos del ascenso costarán $15.000 por mes
-- Comienza este viernes la Patagonia Cup: tres días a puro fútbol infantil en Villa La Angostura
-- El presidente de Lanús Nicolás Russo pidió la salida de Beligoy de la dirección de arbitraje del fútbol argentino: “Cumplió un ciclo”
-- Fútbol amateur: el seleccionado de "Las Estrellas" viaja a Santa Fe para jugar el Torneo Interprovincial
+- El fútbol y la promoción de las casas de apuestas
+- La Federación Portuguesa de Fútbol sancionó a Cristiano Ronaldo tras abandonar la concentración
+- Informe del Tribunal de Penas de la Liga Veinticinqueña de Fútbol
+- Portugal suspendió provisionalmente a Cristiano Ronaldo: la sanción que podría recibir
+- Decisiva última fecha del fútbol local
+- El fútbol rionegrino definió sus representantes para los Juegos Binacionales de la Araucanía
+- Tomas Messi tendrá su equipo en el torneo de fútbol amateur que organiza el Kun Agüero.
+- Fútbol de Chilecito: La Liguilla comienza en Malligasta y Atlético
+- Pergamino recibe al fútbol juvenil nacional y se prepara para un fin de semana con movimiento turístico
+- Nicolás Russo cruzó a Tagliafico y defendió al Fútbol Argentino: «No veo factible que baje la cantidad de equipos
+- Víctor Cuesta: "Estoy orgulloso de ser parte de Platense"
+- El terremoto de magnitud 7.5 detiene el fútbol panameño y activa protocolos de revisión en los estadios
 
 **ge.globo** (40)
-- Revolta do Flamengo com arbitragem e encontro com os ex do Santos: o que o ge viu do campo
-- Torcida do Vasco esgota ingressos para jogo contra Boca na Bombonera em 15 minutos
-- Em meio à indefinição, Corinthians convoca técnico do sub-20 para treinar profissional nesta sexta
-- Fluminense estreia novo gramado do Maracanã com goleada, mas Marcão pede melhora para clássico
-- Geyse encarou depressão e quase desistiu do futebol pela morte do irmão: "Continuo a jogar por ele"
-- Chama o Tiquinho? Camisa 9 busca espaço no Botafogo em meio a seca de gols no ataque
-- Saldivia aproveita brecha no Vasco, e Pedro Emanuel alerta Cuesta: "Vai ter que lutar"
-- Chamado de "invencível" por jornal espanhol, Filipe Luís diz: "Um jogo de cada vez"
-- Nottingham Forest x Arsenal - Campeonato Inglês 2026/27 - globoesporte.com
-- Leeds United x Manchester United - Campeonato Inglês 2026/27 - globoesporte.com
-- Manchester City x Ipswich - Campeonato Inglês 2026/27 - globoesporte.com
-- Brentford x Liverpool - Campeonato Inglês 2026/27 - globoesporte.com
+- Brasileirão 2026: veja onde assistir ao vivo aos jogos da 30ª rodada
+- Saiba por que Marta não foi convocada para amistosos da seleção brasileira
+- 12 dias até a liberação: veja a linha do tempo do Vasco até ter o Maracanã contra o Boca Juniors
+- Brasil x Argentina: veja onde assistir, escalações e horário do amistoso da Seleção Feminina
+- Flamengo e Fluminense questionam decisão da Justiça que deu direito ao Vasco a jogar no Maracanã
+- Corinthians e Sorocaba empatam no jogo de ida das quartas da Liga Futsal
+- Paredes sente problema muscular no último jogo do Boca antes de semifinal contra o Vasco na Sul-Americana
+- João Basso convoca torcida do Cuiabá para duelo contra o Avaí: “Acreditar até o final”
+- Arsenal x Leeds na Premier League: onde assistir ao vivo e horário
+- Escalação do São Paulo: Rafael e Iago retornam, e Lucas pode jogar até 20 minutos
+- Conmebol anuncia Vasco x Boca Juniors no Maracanã; clube inicia venda de ingressos
+- Favoritismos #30: dicas, palpites e chances no Brasileirão
 
 **r/soccer (top día)** (25)
-- Lamine Yamal: “I was suspended with the youth team. When I returned, Busquets asked me what I did and took me aside. From that moment on, I 
-- Robert Lewandowski threw the ceremonial first pitch at the Chicago White Sox playoff game
 - John Achterberg (former Liverpool coach) on City "I remember we played them at Wembley and there was a big banner covering thousands of seat
-- [Hertha BSC] A visit to the stadium should remain a footballing experience. For this reason the club has decided commercially produced and m
+- Decision made: Portugal set to suspend Cristiano Ronaldo
 - Cristiano Jr, son of Cristiano Ronaldo, currently represent Portugal at youth levels, but CR7's beef with the National Team could change thi
+- Al Nassr [1]-0 Al Diriyah - Cristiano Ronaldo 23'
+- Manchester City Held Settlement Talks With the Premier League Over Financial Breaches (Exclusive) | The settlement would’ve focused on a siz
 - [Athletic]In 2024, Tottenham Hotspur unveiled a “new brand identity” which explained that they did not wish for the club to be referred to a
-- Frank Lampard on potentially stripping Manchester City of titles: "I have titles but I don't have them hanging on my wall. I have them in my
-- PSG to give Ousmane Dembélé and Nuno Mendes extra rest after the international break.
+- Just hours after the PL charged Man City with 115 breaches of financial rules, Khaldoon Al Mubarak had a meeting with then UK finance minist
 - Xavi Simons has joined Harvard Business programme. He announced it on LinkedIn "I'm going back to school. During my recovery I've been tryin
 - [Andy Mitten] Manchester United fans bringing back Old Trafford ticker to mark City’s ‘last’ trophy - in 1976
-- Manchester City refused Haaland to answer questions about the verdict in an interview with Viaplay
-- Man City charges: Erling Haaland encourages club's fans to stay positive after guilty verdict | Football News
+- Atlético de Madrid mocks Valverde's supposed Grade 3 strain on social media: "We would like to congratulate @RealMadrid for continuing to m
+- Borussia Dortmund 2-[2] Werder Bremen - Niclas Fullkrug 90+2'
+- Enzo Maresca press conference: I won the Championship with Leicester… so in case we go down to League One, we are going to see
 
 Fallaron: ESPN (ParseError), Goal (HTTPError), Independent (ParseError), Football365 (HTTPError), Marca (HTTPError), Sport (HTTPError), Calciomercato (HTTPError), TN (HTTPError)

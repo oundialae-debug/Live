@@ -1,15 +1,20 @@
-# Tendencias de fútbol (2026-10-09 14:05 UTC, Google Trends)
+# Tendencias de fútbol (2026-10-10 05:31 UTC, Google Trends)
 
 Generado por el workflow `tendencias`. Úsalo para elegir temas de memes, curiosos y jugador vs jugador.
 
 | País | Búsqueda | Tráfico | Titular |
 |---|---|---|---|
-| Spain | scott mctominay | 200+ | Football gossip: McTominay, Olise, Gabriel, De Jong, Quansah, Woltemade |
-| Spain | fusilamiento eeuu | 100+ | El Pentágono retransmitirá la primera ejecución por fusilamiento desde 1945 |
-| Germany | tabea kemme | 200+ | Ehemalige Nationalspielerin vor Job in der 2. Bundesliga |
-| France | mbappé | 2000+ | « C'est ridicule tout ce qui a été dit sur Mbappé » : José Mourinho défend son joueur, visé par les  |
-| Brazil | exame | 200+ | Na cidade onde nasceu a Vale, ele construiu um negócio de R$ 1,8 bilhão bem longe do minério |
-| Brazil | midway | 200+ | Midway neighbors worry short-term rentals will negatively impact community |
-| Portugal | estádio do dragão | 500+ | FC Porto SAD passa a prejuízos de 26 milhões em 2025/2026 |
-| Mexico | laliga | 200+ | La Liga de España regresa este fin de semana con la Jornada 8; conoce la transmisión y horarios. |
-| Mexico | club deportivo leones negros de la u. de g. | 200+ | "No pagaremos ni un peso": La firme postura de la UdeG ante posibilidad de 'comprar' lugar en la Lig |
+| UK | premier league table | 200+ | Premier League: How settled is the table already? |
+| UK | sky bet | 200+ | Liverpool vs Man City: What awaits City at Anfield in Premier League game? |
+| Germany | bryan zaragoza | 200+ | FC Bayern: Fans in Spanien wünschen Zaragoza den Tod |
+| USA | liverpool | 200+ | Alexander Isak, Cody Gakpo out of Liverpool vs. Man City - Andoni Iraola |
+| Argentina | tigres - toluca | 500+ | Tigres vs. Toluca FC, EN VIVO: dónde ver por TV y ONLINE |
+| Argentina | once caldas | 200+ | Once Caldas vs. Llaneros FC, EN VIVO: dónde ver por TV y ONLINE |
+| Argentina | puebla - león | 100+ | Ver EN VIVO Puebla vs. León: dónde seguir por TV y ONLINE en streaming |
+| Brazil | arsenal | 200+ | Injury latest on Havertz, Tzolis, Rice, Konsa and White |
+| Brazil | chelsea | 200+ | Bagatelle: Is exclusive Chelsea offering future of Premier League hospitality? |
+| Portugal | pedro sousa | 200+ | Prestianni quer estar entre os mais bem pagos |
+| Portugal | luis enrique | 500+ | Luis Enrique: “Los periodistas sois extremos” |
+| Mexico | tigres uanl vs toluca fc standings | 200+ | Highlights and Goals: Tigres 3-2 Toluca in Liga MX |
+| Mexico | arsenal vs leeds | 100+ | Injury latest on Havertz, Tzolis, Rice, Konsa and White |
+| Mexico | fc porto | 100+ | "Preferia não ganhar a ter um presidente que tivesse sido apanhado em escutas a corromper árbitros": |
