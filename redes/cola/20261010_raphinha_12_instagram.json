@@ -1,0 +1,13 @@
+{
+ "red": "instagram",
+ "hora": "2026-10-10T14:30:00+02:00",
+ "tipo": "curioso",
+ "partido": "Raphinha 12 goles en 7 vs trio Madrid 11",
+ "text": "Raphinha has 12 goals in 7 La Liga games. Mbappé, Bellingham and Vinícius have 11 between them. Ballon d'Or: Raphinha or Mbappé? 👇\n#Raphinha #Barcelona #LaLiga #BallonDor #RealMadrid",
+ "titulo": "Raphinha: 12 goals in 7 games, more than Mbappé, Bellingham and Vinícius combined",
+ "imagenes": [
+  "https://raw.githubusercontent.com/oundialae-debug/live/main/media/20261010_raphinha_12.jpg"
+ ],
+ "variante": "hook=pregunta;formato=curioso_comparacion;hora=14;momento=laliga_clasico",
+ "notas": "12 en 7: nuestros datos (understat) + The National 24/09; trio 7+3+1: understat + The National (10 entre Mbappe y Bellingham); jurado r1 8,3 r2 8,3"
+}

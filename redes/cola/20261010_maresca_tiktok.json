@@ -1,0 +1,13 @@
+{
+ "red": "tiktok",
+ "hora": "2026-10-10T17:00:00+02:00",
+ "tipo": "meme",
+ "partido": "Maresca: tainted? / League One",
+ "text": "Man City were found guilty by an independent commission and are appealing. Maresca on Friday: are the titles tainted? \"Absolutely not.\" Relegation to League One? \"I won the Championship with Leicester, so in case League One, we are going to see.\" Liverpool vs Man City is on Sunday. Your take? 👇\n#ManCity #Maresca #PremierLeague #Liverpool #Football",
+ "titulo": "Maresca on City's verdict: 'Absolutely not' and the League One line",
+ "imagenes": [
+  "https://raw.githubusercontent.com/oundialae-debug/live/main/media/20261010_maresca.jpg"
+ ],
+ "variante": "hook=pregunta;formato=meme_comparativa;hora=17;momento=noticia_dia",
+ "notas": "citas literales SI + ReadManCity 09/10; jurado r1 7,7 r2 7,7"
+}

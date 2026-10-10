@@ -1,0 +1,13 @@
+{
+ "red": "instagram",
+ "hora": "2026-10-10T12:00:00+02:00",
+ "tipo": "meme",
+ "partido": "Ronaldo vs Jesus: apology / goal 980",
+ "text": "Ronaldo walked out on Portugal. Coach Jorge Jesus says he owes no apology. Ronaldo's reply on Friday: goal number 980, in the 23rd minute for Al Nassr. Whose side are you on? 👇\n#Ronaldo #CristianoRonaldo #Portugal #AlNassr #Football",
+ "titulo": "Cristiano Ronaldo scores goal 980 after Jorge Jesus: 'I don't owe him an apology'",
+ "imagenes": [
+  "https://raw.githubusercontent.com/oundialae-debug/live/main/media/20261010_ronaldo_jesus.jpg"
+ ],
+ "variante": "hook=pregunta;formato=meme_comparativa;hora=12;momento=noticia_dia",
+ "notas": "Sky/Al Arabiya/beIN (980, minuto 23, 3-0 Al Diriyah); Gulf News cita de Jesus; jurado 3 subagentes r1 6,0 (noticia plana) -> comparativa r2 7,3"
+}
