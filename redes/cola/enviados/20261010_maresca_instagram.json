@@ -1,5 +1,5 @@
 {
- "red": "tiktok",
+ "red": "instagram",
  "hora": "2026-10-10T17:00:00+02:00",
  "tipo": "meme",
  "partido": "Maresca: tainted? / League One",
@@ -9,5 +9,8 @@
   "https://raw.githubusercontent.com/oundialae-debug/live/main/media/20261010_maresca.jpg"
  ],
  "variante": "hook=pregunta;formato=meme_comparativa;hora=17;momento=noticia_dia",
- "notas": "citas literales SI + ReadManCity 09/10; jurado r1 7,7 r2 7,7"
+ "notas": "citas literales SI + ReadManCity 09/10; jurado r1 7,7 r2 7,7",
+ "estado": "enviado",
+ "buffer_id": "6aca4decb07d37ac9776c2f1",
+ "dueAt": "2026-10-10T17:00:00+02:00"
 }
