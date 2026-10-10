@@ -32,7 +32,7 @@ def leer():
         v = max(f(r["views"]), 1)
         inter = f(r["likes"]) + 2*f(r["comentarios"]) + 3*f(r["shares"]) + 3*f(r["guardados"]) + 10*f(r["seguidores_nuevos"])
         rew = 0.5*min(1, inter/v/0.05) + 0.5*min(1, v/max(2*med, 1))
-        obs.append((r["tipo"], dict(kv.split("=") for kv in r["variante"].split(";")), rew))
+        obs.append((r["tipo"], dict(kv.split("=",1) for kv in r["variante"].split(";") if "=" in kv), rew))
     return obs
 def posterior(obs):
     est = {}

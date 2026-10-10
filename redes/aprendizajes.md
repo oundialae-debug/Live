@@ -48,3 +48,9 @@ Fuentes: buffer.com/resources/creator-growth-playbook, fanpagekarma.com/insights
 - 09/10 SIN PREVIOS NI POST-PARTIDO: hoy Lens-Lyon (20:45 Madrid), Dortmund-Bremen (20:30), Málaga-Espanyol (21:00), pero no existe generador/modelo 1X2 de clubes en futbol-pipeline (datos_selecciones.py solo Nations League) y Highlightly exige permiso. Pendiente: plantilla de previo de clubes. Sin tareas puntuales de post-partido.
 - 09/10 IAs gratis (Groq/Cerebras/Mistral) otra vez bloqueadas por el proxy (000/URLError) → NO hay memes (regla d); noticias/datos con crítico Sonnet (notas 8/8/5→corregido, 8/7/7, 8/7/6→corregido, 6/8/4→corregido).
 - 09/10 noticias descartadas: veredicto Man City (25/09, legal y sensible), cotilleos Real Madrid, Xhaka. Publicado: Ronaldo→Messi (12:00), SGA accionista Atlético (14:30), Barça 7/7 31 goles (17:00), Haaland vs Mbappé por 90 (19:00). Lección del crítico: marcador "0-3" del duelo confunde (quitado con `sin_marcador`), frase "más que nadie… solo Sevilla más" ambigua.
+
+## 10/10 (tarea diaria autónoma)
+- Sin previos ni post-partido de clubes: no hay generador de clubes (datos_selecciones.py = selecciones) y data/ de clubes se parte en 20/09; ambos_marcan_hoy solo cubre partidos con ventaja de mercado, no los 2 más grandes. Pendiente construir `datos_clubes.py pre` si el usuario lo quiere (regla 12 mantiene "2 partidos al día").
+- scripts/aprender.py ya no falla con valores de `variante` sin "=" (p. ej. "DESCARTADO: ..."); lo ignora.
+- generar.py (futbol-pipeline, local, no empujado): banda de fotos del jugador vs jugador a 290 px para que la pregunta final no pase de y=1540 (con 330 px y crédito de foto se salía). Sin crédito de foto en la imagen.
+- enviar-cola: último run OK (cada ~20 min).
