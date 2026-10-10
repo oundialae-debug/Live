@@ -1,5 +1,5 @@
 {
- "red": "tiktok",
+ "red": "instagram",
  "hora": "2026-10-10T19:00:00+02:00",
  "tipo": "ranking",
  "partido": "Palmer vs Saka (jugador vs jugador)",
@@ -9,5 +9,8 @@
   "https://raw.githubusercontent.com/oundialae-debug/live/main/media/20261010_duelo_palmer_saka.jpg"
  ],
  "variante": "hook=pregunta;formato=jugador_vs_jugador;hora=19;momento=palmer_inglaterra",
- "notas": "datos propios (box-score Highlightly) = understat (2G/2A Palmer, 3G/0A Saka); fotos Wikipedia/Guardian recortadas; sin credito en imagen"
+ "notas": "datos propios (box-score Highlightly) = understat (2G/2A Palmer, 3G/0A Saka); fotos Wikipedia/Guardian recortadas; sin credito en imagen",
+ "estado": "enviado",
+ "buffer_id": "6aca6959ed92ed8fa5d5a842",
+ "dueAt": "2026-10-10T19:00:00+02:00"
 }
