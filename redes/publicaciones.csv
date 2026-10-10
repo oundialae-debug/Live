@@ -21,9 +21,35 @@ fecha,tipo,partido,red,buffer_id,programado_madrid,musica,plantillas,views,likes
 2026-10-06,diario,pronosticos ayer+hoy,tiktok,6ac48d24ae999c0b7f001bdc,2026-10-06T09:30,anthem,post5+picks_hoy,6,0,0,0,0,0,,seg=1.8;arranque=s1;hook=pregunta;musica=anthem
 2026-10-06,previo,Croatia-Spain,instagram,6ac48d27032d0529987db4db,2026-10-06T14:45,hh09,pre5-2-3-4-1-6,23,0,0,0,0,0,,primera=key;seg=2.3;arranque=s1;hook=dato;ante=6;musica=hh09
 2026-10-06,previo,Croatia-Spain,tiktok,6ac48d2ab0e0485fb46de7ef,2026-10-06T14:45,hh09,pre5-2-3-4-1-6,2,0,0,0,0,0,,primera=key;seg=2.3;arranque=s1;hook=dato;ante=6;musica=hh09
+2026-10-06,ranking,Balón de Oro índice 2yellow,tiktok,6ac4faa4a5491202d07ebe2f,2026-10-06T15:42,app (usuario),balon_oro_indice,782,9,3,2,0,0,recordatorio; datos propios 2025/26 + Mundial,formato=ranking;hook=pregunta;momento=balon_oro
+2026-10-06,ranking,Balón de Oro índice 2yellow,instagram,6ac4fac5e1a4308ddae8f5ae,2026-10-06T15:42,app (usuario),balon_oro_indice,0,1,0,0,0,0,recordatorio; datos propios 2025/26 + Mundial,formato=ranking;hook=pregunta;momento=balon_oro
 2026-10-06,previo,England-Czech Republic,instagram,6ac48d2db0e0485fb46de85a,2026-10-06T16:45,hh06,pre1-2-3-4-5-6,14,0,0,0,0,0,,primera=pred;seg=1.8;arranque=s0;hook=reto;ante=4;musica=hh06
 2026-10-06,previo,England-Czech Republic,tiktok,6ac48d30b0e0485fb46de8a0,2026-10-06T16:45,hh06,pre1-2-3-4-5-6,2,0,0,0,0,0,,primera=pred;seg=1.8;arranque=s0;hook=reto;ante=4;musica=hh06
-2026-10-06,meme,Olise side-eye Belgium,instagram,6ac48e4facc08dcd5ea4a0b9,2026-10-06T21:30,,1 imagen,0,0,0,0,0,0,subagente 7/10 reescrito,hook=pregunta;cartas=1;hora=21
-2026-10-06,meme,Olise side-eye Belgium,tiktok,6ac48e5eacc08dcd5ea4a1c7,2026-10-06T21:30,,1 imagen,12,2,0,0,0,0,,hook=pregunta;cartas=1;hora=21
+2026-10-06,xi,2yellow XI septiembre (ligas + Champions),instagram,6ac510cb9a4f7a88bc25a7b1,2026-10-06T17:16,app (usuario),xi_mes,0,0,0,0,0,0,recordatorio; índice por rol; paleta de la app,formato=xi_mes;hook=pregunta
+2026-10-06,xi,2yellow XI septiembre (ligas + Champions),tiktok,6ac510d1e021988152427e8c,2026-10-06T17:16,app (usuario),xi_mes,6,1,0,0,0,0,recordatorio; índice por rol; paleta de la app,formato=xi_mes;hook=pregunta
+2026-10-06,curioso,Olise 11 minutos,instagram,6ac48ee5032d0529987e227d,2026-10-06T18:00,,1 imagen,0,0,0,0,0,0,dato verificado (Malay Mail: entra 77', gol 88');hook=reto;hora=12
+2026-10-06,curioso,Olise 11 minutos,tiktok,6ac48f5eacc08dcd5ea4fabf,2026-10-06T18:00,,1 imagen,5,0,0,0,0,0,,hook=reto;hora=12
 2026-10-06,meme,Zidane 3 wins from 3,instagram,6ac48fdbae999c0b7f00c350,2026-10-06T19:30,,1 imagen,0,0,0,0,0,0,subagente 7/10,hook=pregunta;cartas=1;hora=17
 2026-10-06,meme,Zidane 3 wins from 3,tiktok,6ac48ee098d02b181e23ac8d,2026-10-06T19:30,,1 imagen,6,0,0,0,0,0,,hook=pregunta;cartas=1;hora=17
+2026-10-06,meme,Olise side-eye Belgium,instagram,6ac48e4facc08dcd5ea4a0b9,2026-10-06T21:30,,1 imagen,0,0,0,0,0,0,subagente 7/10 reescrito,hook=pregunta;cartas=1;hora=21
+2026-10-06,meme,Olise side-eye Belgium,tiktok,6ac48e5eacc08dcd5ea4a1c7,2026-10-06T21:30,,1 imagen,12,2,0,0,0,0,,hook=pregunta;cartas=1;hora=21
+2026-10-06,directo,Merino super-sub (Croatia-Spain 1-1),tiktok,6ac5551d38b9e9d5545e9824,2026-10-06T22:08,usuario,foto+cronologia,,,,,,,,formato=foto;recordatorio=si;DESCARTADO: datos incompletos; usar v2
+2026-10-06,directo,Merino super-sub (Croatia-Spain 1-1),instagram,6ac55520544ff8353df98647,2026-10-06T22:08,usuario,foto+cronologia,,,,,,,,formato=foto;recordatorio=si;DESCARTADO: datos incompletos; usar v2
+2026-10-06,directo,Merino super-sub v2 (Croatia-Spain 1-1),tiktok,6ac555749b4b7d7d77d69ded,2026-10-06T22:09,usuario,foto+cronologia,12,1,0,0,0,0,,formato=foto;recordatorio=si
+2026-10-06,directo,Merino super-sub v2 (Croatia-Spain 1-1),instagram,6ac5557738b9e9d5545ea260,2026-10-06T22:09,usuario,foto+cronologia,1,0,4,0,0,0,,formato=foto;recordatorio=si
+2026-10-06,directo,Racha Spain 41 (Croatia 1-2 Spain),tiktok,6ac55c899b4b7d7d77d7b868,2026-10-06T22:39,usuario,carrusel foto+racha,542,7,0,0,0,0,,formato=carrusel;recordatorio=si;debate_IAs=si
+2026-10-06,directo,Racha Spain 41 (Croatia 1-2 Spain),instagram,6ac55c8c535ade2f59d380b7,2026-10-06T22:39,usuario,carrusel foto+racha,0,0,0,0,0,0,,formato=carrusel;recordatorio=si;debate_IAs=si
+2026-10-07,curioso,Balón de Oro: merece vs ganará (v3),tiktok,6ac65200002d92909c839d8a,2026-10-07T16:06,usuario,foto IA+2 listas,798,4,4,0,0,0,,formato=imagen;recordatorio=si;corrige_post_06-10
+2026-10-07,curioso,Balón de Oro: merece vs ganará (v3),instagram,6ac65204002d92909c839e1c,2026-10-07T16:06,usuario,foto IA+2 listas,0,0,0,0,0,0,,formato=imagen;recordatorio=si;corrige_post_06-10
+2026-10-07,curioso,Despedida Messi (roja debut / gol adiós),tiktok,6ac65a5f3231a434234e08be,2026-10-07T17:30,usuario,doble foto+6 datos,15,0,1,0,0,0,,formato=imagen;recordatorio=si;debate_IAs=si(8.5)
+2026-10-07,curioso,Despedida Messi (roja debut / gol adiós),instagram,6ac65a613231a434234e0945,2026-10-07T17:30,usuario,doble foto+6 datos,0,0,0,0,0,0,,formato=imagen;recordatorio=si;debate_IAs=si(8.5)
+2026-10-07,curioso,Walta = Yamal goleadores NL,tiktok,6ac65977a98948a0e5d47c86,2026-10-07T19:00,usuario,doble foto+tabla,,,,,,,,formato=imagen;recordatorio=si;debate_IAs=si(8.0)
+2026-10-07,curioso,Walta = Yamal goleadores NL,instagram,6ac65979a98948a0e5d47cbc,2026-10-07T19:00,usuario,doble foto+tabla,0,0,0,0,0,0,,formato=imagen;recordatorio=si;debate_IAs=si(8.0)
+2026-10-07,noticia,Arteta hasta 2030,tiktok,6ac65ed994bb0cda4b22f779,2026-10-07T20:00,usuario,foto noticia+línea de tiempo,,,,,,,,formato=imagen;recordatorio=si;debate_IAs=si(7.7)
+2026-10-07,noticia,Arteta hasta 2030,instagram,6ac65edba91c545235ed269e,2026-10-07T20:00,usuario,foto noticia+línea de tiempo,0,0,0,0,0,0,,formato=imagen;recordatorio=si;debate_IAs=si(7.7)
+2026-10-07,noticia,Retirada de Pedro,tiktok,6ac65ede94bb0cda4b22f881,2026-10-07T21:30,usuario,foto noticia+9 títulos,978,23,0,0,0,0,,formato=imagen;recordatorio=si;debate_IAs=si(7.7)
+2026-10-07,noticia,Retirada de Pedro,instagram,6ac65ee0a91c545235ed2a7c,2026-10-07T21:30,usuario,foto noticia+9 títulos,0,0,2,0,0,0,,formato=imagen;recordatorio=si;debate_IAs=si(7.7)
+2026-10-09,meme,Meme Mourinho City vs su vestuario,tiktok,6ac8e74e130133a20a0220cb,2026-10-09T20:30,usuario,paneles foto+texto,,,,,,,,formato=imagen;recordatorio=si;IAs=8.0
+2026-10-09,meme,Meme Mourinho City vs su vestuario,instagram,6ac8e7511f640591362a57a2,2026-10-09T20:30,usuario,paneles foto+texto,,,,,,,,formato=imagen;recordatorio=si;IAs=8.0
+2026-10-09,meme,Meme Haaland enjoy the ride and smile,tiktok,6ac8e753c22cbf9dd503170f,2026-10-09T22:00,usuario,paneles foto+texto,,,,,,,,formato=imagen;recordatorio=si;IAs=7.0
+2026-10-09,meme,Meme Haaland enjoy the ride and smile,instagram,6ac8e755c22cbf9dd5031742,2026-10-09T22:00,usuario,paneles foto+texto,,,,,,,,formato=imagen;recordatorio=si;IAs=7.0
