@@ -1,0 +1,13 @@
+{
+ "red": "tiktok",
+ "hora": "2026-10-10T19:00:00+02:00",
+ "tipo": "ranking",
+ "partido": "Palmer vs Saka (jugador vs jugador)",
+ "text": "Cole Palmer vs Bukayo Saka this season: Saka has 3 goals from 3.2 xG, Palmer has 2 goals and 2 assists. Who are you picking for England? 👇\n#Palmer #Saka #PremierLeague #England #Football",
+ "titulo": "Cole Palmer vs Bukayo Saka this season: goals, xG, assists. Who are you picking?",
+ "imagenes": [
+  "https://raw.githubusercontent.com/oundialae-debug/live/main/media/20261010_duelo_palmer_saka.jpg"
+ ],
+ "variante": "hook=pregunta;formato=jugador_vs_jugador;hora=19;momento=palmer_inglaterra",
+ "notas": "datos propios (box-score Highlightly) = understat (2G/2A Palmer, 3G/0A Saka); fotos Wikipedia/Guardian recortadas; sin credito en imagen"
+}
