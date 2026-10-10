@@ -1,8 +1,0 @@
-{"web": [
- {"noticia": "Ronaldo", "buscar": "Cristiano Ronaldo Al Nassr 2026", "slug": "ron10", "n": 8, "dias": 3, "debe": ["ronaldo"]},
- {"noticia": "Maresca", "buscar": "Enzo Maresca Manchester City manager", "slug": "mar10", "n": 10, "dias": 3, "debe": ["maresca"]},
- {"noticia": "Carrick", "buscar": "Michael Carrick Manchester United manager", "slug": "car10", "n": 8, "dias": 3, "debe": ["carrick"]},
- {"noticia": "Haaland", "buscar": "Erling Haaland Manchester City Liverpool", "slug": "haa10", "n": 8, "dias": 3, "debe": ["haaland"]},
- {"noticia": "Arteta", "buscar": "Mikel Arteta Arsenal Leeds", "slug": "art10", "n": 8, "dias": 3, "debe": ["arteta"]},
- {"noticia": "Mourinho", "buscar": "Jose Mourinho Mbappe", "slug": "mou10", "n": 6, "dias": 3, "debe": ["mourinho"]}
-]}
