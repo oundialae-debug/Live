@@ -3,7 +3,7 @@
 # Uso: python3 scripts/meme_paneles.py salida.jpg '[{"texto": "...", "foto": "ruta", "pos": "center 30%", "alto": 480}, ...]'
 import base64, json, sys
 from pathlib import Path
-R = Path("/home/user/futbol-pipeline/redes/plantillas/recursos")
+R = Path("/home/claude/futbol-pipeline/redes/plantillas/recursos")
 b = lambda p: base64.b64encode(Path(p).read_bytes()).decode()
 mime = lambda f: "webp" if str(f).endswith("webp") else "png" if str(f).endswith("png") else "jpeg"
 paneles = json.loads(sys.argv[2])
