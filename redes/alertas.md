@@ -1,4 +1,4 @@
-# Alertas de noticias (2026-10-11 16:00 UTC)
+# Alertas de noticias (2026-10-11 16:04 UTC)
 
 Temas en >= 7 medios. La rutina diaria y cualquier sesión deben mirar esto ANTES de elegir tema (regla 6: la noticia que todos comentan va primero).
 
@@ -8,12 +8,12 @@ Temas en >= 7 medios. La rutina diaria y cualquier sesión deben mirar esto ANTE
 - **Palace** (10 medios): Pino finishes off Nottingham Forest on Glasner’s unhappy Crystal Palace return
 - **Tottenham** (9 medios): 'Tottenham needs this reaction' - De Zerbi defends Bentancur red
 - **Crystal** (9 medios): Pino finishes off Nottingham Forest on Glasner’s unhappy Crystal Palace return
+- **Messi** (9 medios): &#8216;Miracle&#8217; Lionel Messi photo with Lamine Yamal set to spark wild chase
 - **Spurs** (8 medios): 'I kissed Rodrigo and said thanks' - De Zerbi 'liked' Spurs red card
 - **Arsenal** (8 medios): Hincapie injury adds to Arsenal issues after Guimaraes rescue act
 - **Everton** (8 medios): Mohamed Belloumi grabs point for Hull in seesaw draw with Everton
 - **Hull** (8 medios): Mohamed Belloumi grabs point for Hull in seesaw draw with Everton
 - **Southampton** (8 medios): Joy for Eckert as 10-man Southampton edge out Portsmouth in feisty derby
-- **Messi** (8 medios): &#8216;Miracle&#8217; Lionel Messi photo with Lamine Yamal set to spark wild chase
 - **Milan** (7 medios): AC Milan keen on Scott - Sunday's gossip
 - **Carrick** (7 medios): Boos, anguish & fading belief - 'worrying day' for under-pressure Carrick
 - **Utd** (7 medios): Solanke scores in added time as 10-man Spurs draw with Man Utd
