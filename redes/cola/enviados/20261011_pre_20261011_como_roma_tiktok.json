@@ -8,5 +8,8 @@
  "video": "https://raw.githubusercontent.com/oundialae-debug/live/main/videos/pre_20261011_como_roma.mp4",
  "variante": "primera=goals;seg=2.3;arranque=s0;hook=reto;ante=4;formato=video;musica=hh07",
  "notas": "modelo poisson propio (datos_clubes.py pre); marco comprobado",
- "recordatorio": false
+ "recordatorio": false,
+ "estado": "enviado",
+ "buffer_id": "6acb27afed92ed8fa5f29066",
+ "dueAt": "2026-10-11T08:30:00+02:00"
 }
