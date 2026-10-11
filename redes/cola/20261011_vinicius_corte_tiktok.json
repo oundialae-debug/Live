@@ -3,11 +3,11 @@
  "hora": "2026-10-11T15:30:00+02:00",
  "tipo": "meme",
  "partido": "Vinicius roja pelo Saliba (corte de pelo)",
- "text": "Vinicius was sent off for pulling Saliba's hair, then said sorry and now risks missing the Clásico on 25 Oct. Sir, this is a barbershop? 👇\n#Vinicius #RealMadrid #LaLiga #ElClasico #Football",
+ "text": "Vinicius got a red card for pulling Saliba's hair, apologised, and now could miss the Clásico on 25 Oct. Barbershop Real Madrid is open ✂️👇\n#Vinicius #RealMadrid #LaLiga #ElClasico #Football",
  "imagenes": [
   "https://raw.githubusercontent.com/oundialae-debug/live/main/media/20261011_vinicius_corte.jpg"
  ],
  "variante": "hook=pregunta;formato=meme_foto_editada;hora=15;momento=noticia_dia",
  "notas": "fotograma real del tirón editado con ChatGPT por el usuario; enviado desde la cola a petición (el envío directo por MCP daba error en la app) [cola]",
- "titulo": "Vinicius red card: barber mode activated"
+ "titulo": "Vinicius opens a barbershop after the red card"
 }
