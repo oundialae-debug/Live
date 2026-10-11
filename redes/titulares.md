@@ -1,4 +1,4 @@
-# Titulares de fútbol (2026-10-11 16:13 UTC, últimas 36 h)
+# Titulares de fútbol (2026-10-11 16:47 UTC, últimas 36 h)
 
 Generado por `scripts/titulares.py` (workflow `tendencias`). Leídos 26 de 34 medios; fuentes en `redes/fuentes.md`.
 
@@ -6,37 +6,38 @@ Generado por `scripts/titulares.py` (workflow `tendencias`). Leídos 26 de 34 me
 
 | Tema | Nº medios | Medios | Ejemplo |
 |---|---|---|---|
-| Liverpool | 17 | AS, Daily Mail, Foot Mercato, FourFourTwo, Google News EN, Google News ES, Guard | Liverpool v Manchester City: Premier League – live |
-| Manchester | 14 | AS, Daily Mail, Foot Mercato, FourFourTwo, Google News EN, Google News ES, Guard | Liverpool v Manchester City: Premier League – live |
+| Liverpool | 18 | AS, Daily Mail, Foot Mercato, FourFourTwo, Google News AR, Google News EN, Googl | Liverpool v Manchester City: Premier League – live |
+| Manchester | 15 | AS, Daily Mail, Foot Mercato, FourFourTwo, Google News AR, Google News EN, Googl | Liverpool v Manchester City: Premier League – live |
 | Man | 12 | BBC, Daily Mail, Football Italia, FourFourTwo, Google News EN, Mirror, Planet Fo | Toxicity and uncertainty await Man City - will their season even matter? |
-| Palace | 10 | Daily Mail, Foot Mercato, FourFourTwo, Google News EN, Guardian, L'Equipe, Mundo | Pino finishes off Nottingham Forest on Glasner’s unhappy Crystal Palace return |
-| Tottenham | 9 | BBC, Football Italia, FourFourTwo, Google News EN, Mirror, Planet Football, Yaho | 'Tottenham needs this reaction' - De Zerbi defends Bentancur red |
-| Crystal | 9 | Daily Mail, Foot Mercato, FourFourTwo, Google News EN, Guardian, L'Equipe, Mundo | Pino finishes off Nottingham Forest on Glasner’s unhappy Crystal Palace return |
+| Tottenham | 10 | BBC, Foot Mercato, Football Italia, FourFourTwo, Google News EN, Mirror, Planet  | 'Tottenham needs this reaction' - De Zerbi defends Bentancur red |
+| Palace | 10 | Daily Mail, Foot Mercato, FourFourTwo, Google News EN, Guardian, L'Equipe, Ole,  | Pino finishes off Nottingham Forest on Glasner’s unhappy Crystal Palace return |
+| Crystal | 9 | Daily Mail, Foot Mercato, FourFourTwo, Google News EN, Guardian, L'Equipe, Ole,  | Pino finishes off Nottingham Forest on Glasner’s unhappy Crystal Palace return |
 | Madrid | 9 | AS, Foot Mercato, FourFourTwo, Infobae, Mundo Deportivo, Yahoo, ge.globo, r/socc | Vini Jr held back by Real Madrid teammates as superstar explodes at referee after being sent off |
-| Messi | 9 | Foot Mercato, Football Italia, Google News AR, Infobae, Ole, Yahoo, ge.globo, r/ | &#8216;Miracle&#8217; Lionel Messi photo with Lamine Yamal set to spark wild chase |
+| Milan | 8 | AS, BBC, Foot Mercato, Football Italia, FourFourTwo, L'Equipe, Mundo Deportivo,  | AC Milan keen on Scott - Sunday's gossip |
 | Spurs | 8 | BBC, Daily Mail, Google News EN, Guardian, Infobae, Mirror, Telegraph, talkSPORT | 'I kissed Rodrigo and said thanks' - De Zerbi 'liked' Spurs red card |
-| Arsenal | 8 | BBC, Football Italia, FourFourTwo, Guardian, Mirror, Yahoo, ge.globo, talkSPORT | Hincapie injury adds to Arsenal issues after Guimaraes rescue act |
 | Everton | 8 | Daily Mail, Foot Mercato, FourFourTwo, Google News EN, Guardian, Mundo Deportivo | Mohamed Belloumi grabs point for Hull in seesaw draw with Everton |
 | Hull | 8 | Daily Mail, Foot Mercato, FourFourTwo, Google News EN, Guardian, Mundo Deportivo | Mohamed Belloumi grabs point for Hull in seesaw draw with Everton |
 | Southampton | 8 | FourFourTwo, Google News EN, Guardian, Mirror, Planet Football, Sky Sports, Yaho | Joy for Eckert as 10-man Southampton edge out Portsmouth in feisty derby |
-| Lazio | 8 | Foot Mercato, Football Italia, Google News EN, Kicker, L'Equipe, Mundo Deportivo | Serie A | Lazio 3-1 Monza: Special Nuno Tavares strike keeps Aquile on top |
-| Corinthians | 8 | AS, Foot Mercato, Google News AR, L'Equipe, Ole, Record, Yahoo, ge.globo | Corinthians signing Seedorf shocks social media; see the reactions 🤣 |
-| Milan | 7 | BBC, Foot Mercato, Football Italia, FourFourTwo, L'Equipe, Mundo Deportivo, Yaho | AC Milan keen on Scott - Sunday's gossip |
+| Inter | 8 | Foot Mercato, Football Italia, Google News EN, Guardian, Infobae, L'Equipe, Mund | European football: Lazio join Inter at top of Serie A as Roma held at Como |
+| Lazio | 8 | Foot Mercato, Football Italia, Google News EN, Guardian, Kicker, L'Equipe, Mundo | European football: Lazio join Inter at top of Serie A as Roma held at Como |
+| Messi | 8 | Foot Mercato, Football Italia, Google News AR, Infobae, Ole, Yahoo, r/soccer (to | &#8216;Miracle&#8217; Lionel Messi photo with Lamine Yamal set to spark wild chase |
 | Carrick | 7 | BBC, Daily Mail, Mirror, Planet Football, Sky Sports, Yahoo, talkSPORT | Boos, anguish & fading belief - 'worrying day' for under-pressure Carrick |
+| Arsenal | 7 | BBC, FourFourTwo, Guardian, Mirror, Yahoo, ge.globo, talkSPORT | Hincapie injury adds to Arsenal issues after Guimaraes rescue act |
 | Utd | 7 | BBC, Football Italia, Google News EN, Mirror, Planet Football, Telegraph, r/socc | Solanke scores in added time as 10-man Spurs draw with Man Utd |
-| Forest | 7 | Daily Mail, FourFourTwo, Google News EN, Guardian, L'Equipe, Mundo Deportivo, Sk | Pino finishes off Nottingham Forest on Glasner’s unhappy Crystal Palace return |
 | Portsmouth | 7 | FourFourTwo, Google News EN, Guardian, Mirror, Planet Football, Yahoo, talkSPORT | Joy for Eckert as 10-man Southampton edge out Portsmouth in feisty derby |
-| Monza | 7 | Foot Mercato, Football Italia, Google News EN, Kicker, Mundo Deportivo, Record,  | Serie A | Lazio 3-1 Monza: Special Nuno Tavares strike keeps Aquile on top |
-| Seedorf | 7 | AS, Foot Mercato, L'Equipe, Mundo Deportivo, Record, Yahoo, ge.globo | Corinthians signing Seedorf shocks social media; see the reactions 🤣 |
-| Inter | 7 | Foot Mercato, Football Italia, Infobae, L'Equipe, Yahoo, ge.globo, r/soccer (top | Fabregas: ‘Inter inspired Como on how to hurt Roma’ |
-| Ronaldo | 6 | BBC, Foot Mercato, Guardian, Infobae, r/soccer (top día), talkSPORT | Ronaldo provisionally suspended by Portuguese FA |
+| Anfield | 7 | Daily Mail, Google News EN, L'Equipe, Mirror, Mundo Deportivo, Yahoo, r/soccer ( | Man City give Liverpool fans the slip: Enzo Maresca's side dodge baying home fans en route to Anfield before b |
+| Seedorf | 7 | AS, Foot Mercato, Google News AR, L'Equipe, Mundo Deportivo, Yahoo, ge.globo | Corinthians signing Seedorf shocks social media; see the reactions 🤣 |
+| Corinthians | 7 | AS, Foot Mercato, Google News AR, L'Equipe, Ole, Yahoo, ge.globo | Corinthians signing Seedorf shocks social media; see the reactions 🤣 |
 | Leeds | 6 | BBC, FourFourTwo, Guardian, Mirror, Yahoo, talkSPORT | Brilliant Guimaraes goal helps Arsenal fight back to beat Leeds |
+| Forest | 6 | Daily Mail, FourFourTwo, Google News EN, Guardian, L'Equipe, Sky Sports | Pino finishes off Nottingham Forest on Glasner’s unhappy Crystal Palace return |
+| Roma | 6 | AS, Foot Mercato, Football Italia, Google News EN, Guardian, Yahoo | European football: Lazio join Inter at top of Serie A as Roma held at Como |
 
 ## Titulares por medio
 
 **BBC** (31)
 - Toxicity and uncertainty await Man City - will their season even matter?
 - Russo named England player of the year
+- Hughes focused on Albania before World Cup dream
 - AC Milan keen on Scott - Sunday's gossip
 - Who am I? Plus today's other quizzes
 - Elton John 'upset and disappointed' with Watford form
@@ -46,40 +47,40 @@ Generado por `scripts/titulares.py` (workflow `tendencias`). Leídos 26 de 34 me
 - Ronaldo provisionally suspended by Portuguese FA
 - The rock behind Chelsea's entertainers: Midfield duo key for Blues
 - Hincapie injury adds to Arsenal issues after Guimaraes rescue act
-- 'Reminds me of Muller' - Naderi proving worth in Rangers revival
 
 **Guardian** (20)
 - Liverpool v Manchester City: Premier League – live
 - Pino finishes off Nottingham Forest on Glasner’s unhappy Crystal Palace return
 - Mohamed Belloumi grabs point for Hull in seesaw draw with Everton
 - Joy for Eckert as 10-man Southampton edge out Portsmouth in feisty derby
+- European football: Lazio join Inter at top of Serie A as Roma held at Como
 - Scottish Premiership: Celtic end losing skid and take top spot back from Rangers
 - Robbie Savage the panto villain puts scepticism aside to leave Leicester reeling
 - Why we’re stuck with a Premier League in the clutches of the global mega-rich | Jonathan Wilson
-- Real Madrid’s Vinícius Júnior sent off for hair-pulling in victory over Villarreal
 - Manchester United and Spurs come back to reality as City saga offers brief distraction | John Brewin
+- Real Madrid’s Vinícius Júnior sent off for hair-pulling in victory over Villarreal
 - Bruno Guimarães completes Arsenal comeback to end Leeds’ unbeaten run
 - Henderson and João Pedro lead Chelsea charge against Bournemouth
-- Ten-man Brighton continue fine form with battling win at Sunderland
 
 **Sky Sports** (20)
+- Cummins helps Australia take control against South Africa
 - Smith vows 'karma' will get Suljovic after antics at Swiss Darts Trophy
-- Swiss Darts Trophy LIVE! Humphries, Clayton in action
+- Swiss Darts Trophy LIVE! Van Veen vs Brooks in quarters
 - Hamilton apologises to Ferrari for overriding strategy call
 - Verstappen claims dominant first Singapore GP win
 - Palace stun Forest on Glasner's Selhurst Park return
 - Belloumi earns Hull draw with Everton after thrilling four-goal second half
 - Zheng stuns Andreeva to become first Chinese winner of China Open
 - Ten-man Southampton secure first league derby win since 2004
+- Exeter hold on against Newcastle as Sale extend Harlequins woes
 - Unwell Hamilton misses post-Singapore GP interviews after medical checks
 - Intense Liverpool testing Man City LIVE!
-- Yamashita wins Korea Championship with course-record finish
-- NFL London LIVE! Eagles fight back to take lead vs Jags in thrilling first half
 
-**talkSPORT** (29)
+**talkSPORT** (30)
+- &#8216;Devastated&#8217; &#8211; Micah Richards demands Man City to show evidence in emotional request
 - Liverpool dealt another huge blow as star man is ruled out of Manchester City clash
 - &#8216;Doomsday&#8217; &#8211; EFL boss told his days are numbered amid horror start to season
-- Liverpool 0-0 Manchester City LIVE: No clear chances as visitors make it through early exchanges comfortably
+- Liverpool 0-0 Manchester City LIVE: No clear chances as visitors make it through early first half comfortably
 - Southampton fans told they shouldn&#8217;t applaud star man after red card vs Portsmouth
 - Elton John fires stinging blast towards beloved EFL side as club lose third straight game
 - Bukayo Saka told he&#8217;s not justifying contract as Arsenal legend gives key piece of advice
@@ -88,21 +89,20 @@ Generado por `scripts/titulares.py` (workflow `tendencias`). Leídos 26 de 34 me
 - Jose Mourinho&#8217;s decision to boycott press conference explained after Vinicius Jr red card
 - Oliver Glasner told to expect &#8216;vitriolic&#8217; reaction from Crystal Palace fans despite club plea
 - talkSPORT tips – Best football bets and expert advice for Sunday 11 October
-- Vini Jr held back by Real Madrid teammates as superstar explodes at referee after being sent off
 
 **Daily Mail** (35)
-- Liverpool vs Manchester City - Premier League LIVE: Enzo Maresca's side BOOED by hostile Anfield crowd at kick-off in their first game since
+- Crystal Palace 3-1 Nottingham Forest: Oliver Glasner brutally mocked on nightmare return with Pierre Sage's side gifted first win of the sea
+- Liverpool vs Manchester City - Premier League LIVE: All to play for in the second half as tensions boil over on the pitch after hostile rece
+- Man City give Liverpool fans the slip: Enzo Maresca's side dodge baying home fans en route to Anfield before being taunted by banners and fa
+- Hull 2-2 Everton: Toffees' unbeaten start continues two days after owners revealed plan to sell and despite calamitous transfer window as Mo
 - Dominic Solanke led the line expertly and repaid Roberto De Zerbi for his show of faith - his rescue act needs to be the catalyst to kick-st
+- Tonda Eckert's escape causes stir at Championship summit, Olympics chiefs worry over LA 2028 ticket sales... and DAZN say no to refunds over
 - Bruno Fernandes cuts frustrated figure as he makes hasty Old Trafford exit after Man United throw away win against 10-man Spurs
-- Practice makes perfect! Chelsea reveal unseen footage of Jordan Henderson scoring carbon copy of Bournemouth free kick in training - as vete
-- Sir Elton John's Watford intervention: Superfan reveals he is 'very upset' and 'disappointed' at boyhood club's decline after Hornets suffer
 - The England star lined up to replace Xabi Alonso, a Spanish wizard who became immortal and a wonderkid snatched from their grasp: The signin
-- Liverpool's clash with Man City is a ghost game that may as well be played in a circus tent: Grudge match starts slow period of torture for 
 - Revealed: England WAGs' VERY boozy night out on eve of Golden Generation's disastrous 2006 World Cup campaign as waitress unearths receipt 2
 - 'Worried' Gary Neville tells struggling Man United stars to 'get a grip' after Spurs draw ahead of tough run - as he warns midfield duo CAN'
-- 'Stupid' Rodrigo Bentancur sparks mass brawl after HEADBUTTING Luke Shaw as Spurs star is sent off in clash with Man United
-- Liverpool vs Manchester City - Premier League LIVE: Enzo Maresca's side BOOED by hostile Anfield crowd at kick-off in their first game since
-- Man City give Liverpool fans the slip: Enzo Maresca's side dodge baying home fans en route to Anfield before being taunted by banners and fa
+- Crystal Palace 3-1 Nottingham Forest: Oliver Glasner brutally mocked on nightmare return with Pierre Sage's side gifted first win of the sea
+- Liverpool vs Manchester City - Premier League LIVE: All to play for in the second half as tensions boil over on the pitch after hostile rece
 
 **Mirror** (25)
 - Liverpool vs Man City LIVE: Tempers high as hostile Anfield taunts City players after 115 charges verdict
@@ -151,78 +151,80 @@ Generado por `scripts/titulares.py` (workflow `tendencias`). Leídos 26 de 34 me
 - How to watch Real Madrid vs Villarreal for FREE: Live stream details for La Liga clash
 
 **Yahoo** (40)
+- Gattuso frustrated with Lazio despite 3-1 Monza win: ‘Like the second half against Milan’
+- Why Man City fans have inflatable bananas at Anfield in Premier League clash with Liverpool
+- Hull 2-2 Everton analysis: Toffees rue Barry misses and offside flag
 - Liverpool dealt blow for Man City clash with Dominik Szoboszlai injury
 - Man City greeted with boos and chants from Liverpool supporters in first match after guilty verdict
+- Hull 2-2 Everton analysis: City&#39;s strong start continues
 - Nico Paz: ‘Two amazing weeks with Messi, I don’t know about his no.10 shirt’
 - Cardiff & Wrexham win big but TNS top Adran Premier
 - Derby defeat &#39;one that got away&#39; for Pompey
 - Amorim: ‘Milan system doesn’t matter as much as being aggressive’
 - Six young talents Barcelona are closely monitoring including Manchester United gem
 - Pellegrini makes 350th appearance for Roma
-- McTominay sends nine-word message after 3-0 win on return from heart surgery
-- Malen pens apology after red card vs Como: &#8220;I&#8217;m sorry to the team and fans.&#8221;
-- Tarkowski And Dewsbury-Hall Get 8 | Everton Players Rated In Entertaining Draw Vs Hull City
-- 📸 Man City receive expected hot reception ahead of Anfield test
 
 **Google News EN** (40)
 - Crystal Palace 3-1 Nottingham Forest | Premier League highlights
-- Napoli 3-0 Frosinone | Serie A highlights
-- My partner’s obnoxious conduct at our sons’ football matches is putting me off him | Annalisa Barbieri
 - Wales forward Elise Hughes focused on Albania play-off before World Cup dream
 - Fans hope to save ‘tartan fortress’ where Scotland football team first played
 - Non-league match abandoned after alleged homophobic abuse
-- Millwall analysis: Lions win in testing circumstances 'richly deserved'
-- European football: Lazio maintain strong start with win over Monza
-- Premier League: Crystal Palace 3-1 Nottingham Forest - Pierre Sage post-match interview
+- My partner’s obnoxious conduct at our sons’ football matches is putting me off him | Annalisa Barbieri
 - Derry City: Silverware trumps Europe for Duffy
+- European football: Lazio join Inter at top of Serie A as Roma held at Como
+- Premier League: Crystal Palace 3-1 Nottingham Forest - Pierre Sage post-match interview
+- Liverpool vs Man City LIVE! Premier League score updates, news, prediction, lineups and how to watch or stream
 - Premier League - Crystal Palace 3-1 Nottingham Forest - Oliver Glasner post match interview
 - Rival football fans divided over derby day 'bubble'
+- Premier League: Hull City 2-2 Everton - Sergej Jakirovic post-match interview
 
 **AS** (26)
-- Real Sociedad - Deportivo, en directo: LaLiga EA Sports, hoy en vivo
-- Liverpool - Manchester City, en directo: Premier League, hoy en vivo
 - Betis - Osasuna en directo: LaLiga EA Sports hoy, en vivo
+- Locura, taquicardia y triunfo agónico de la Real en Anoeta
+- Liverpool - Manchester City, en directo: Premier League, hoy en vivo
 - Acelerón insuficiente para Elche y Celta
 - Madrid-CTA: situación límite
-- Polémica en Copa por el penalti entre Sporting de Hortaleza y Unión Güimar en la prórroga: juzguen ustedes
+- Resumen y goles del Almería vs. Leganés, jornada 9 de LaLiga Hypermotion
 - Desazón con Vinicius
-- Almería - Leganés, en directo: LaLiga Hypermotion, hoy en vivo
+- Almería 3 - Leganés 0: resumen, resultado y goles
 - Mallorca - Las Palmas, en directo: LaLiga Hypermotion, hoy en vivo
 - El Andorra pone punto final al invicto ‘orellut’
-- Aviso de la Roma al Madrid
 - Callejón sin salida para Balde
+- Diomande, ahora o nunca
 
 **Mundo Deportivo** (40)
+- Amatucci ve la roja y se perderá el duelo ante el Levante
+- El 1x1 de la Real Sociedad ante el Deportivo
+- Real Sociedad - Deportivo: Las imágenes destacadas del duelo en Anoeta
+- Febas: "Ha sido un partido muy especial para mí"
+- 3-2: La Real se complica la vida cuando iba goleando, sufre pero gana al Deportivo
+- El Lazio de Gattuso sigue el ritmo del Inter con un gran gol de Nuno Tavares
+- El Spotify Camp Nou, un fortín desde su reapertura en la Liga
+- Una sorpresa en la lista de convocados del Sevilla
+- Anfield también dicta sentencia sobre el City: "Tramposos"
+- La polémica acción del penalti y expulsión que favoreció al Deportivo en Anoeta
 - El Real Madrid recurrirá la amarilla que vio Konaté ante el Villarreal
 - Real Betis - Osasuna, en directo | Sigue el partido de LaLiga EA Sports, en vivo
-- El Prat no da lugar a las sorpresas: será el rival del Athletic en la Copa
-- Seedorf encuentra equipo
-- "Parece que el 'Cuti' Romero llevase cinco años ya en el Atlético"
-- Mallorca - Las Palmas, en directo | LaLiga HyperMotion: Segunda división de fútbol
-- 2-2: Hull City y Everton se reparten los puntos en una segunda parte de locura
-- Real Madrid TV aumenta sus críticas a los árbitros
-- Sassuolo - AC Milan, en directo | Serie A
-- Anselmi: "Compitiendo de esta forma estaremos más cerca de ganar"
-- Ausencia sorpresa de una estrella en el Liverpool-City
-- El Eldense, un equipo de segundas partes
 
 **Google News ES** (40)
 - Ganas de Real
+- Atlético Madrileño vs Real Zaragoza de Primera Federación: horario y dónde ver hoy por TV y online el partido de Primera RFEF a través de DA
 - La Ciudad del Fútbol acoge la despedida a la Selección española de refugiados antes de la UEFA Unity EURO Cup 26
 - Ecotelia estrecha lazos con la Federación Riojana de Fútbol
 - Cuidado @sportingdegijon 🤖 #laliga #laligahypermotion #edit #humor #futbol
-- Atlético Madrileño vs Real Zaragoza de Primera Federación: horario y dónde ver hoy por TV y online el partido de Primera RFEF a través de DA
+- 10-11 OCT/ Estos han sido los resultados de los equipos de fútbol y fútbol sala este fin de semana
+- Fútbol playa: España - Brasil (m), en directo | Mundial
+- Real Sociedad
+- Fútbol: Sonia Bermúdez, en directo | Rueda de prensa
 - Aquí tienes el boletín
 - Así se van a preparar
-- Fútbol: Sonia Bermúdez, en directo | Rueda de prensa
-- 10-11 OCT/ Estos han sido los resultados de los equipos de fútbol y fútbol sala este fin de semana
-- Natalia Ramos debuta con la Selección Española Femenina de Fútbol
 - El Coria necesita más del otro fútbol
-- Estos son los grupos de las competiciones de Base Valenta de fútbol sala para la temporada 26/27
 
 **Gazzetta** (0)
 
 **Football Italia** (20)
+- Milan forced into early change against Sassuolo as Gabbia stretchered off in tears
+- Gattuso frustrated with Lazio despite 3-1 Monza win: ‘Like the second half against Milan’
 - Serie A Liveblog including Como-Roma, Sassuolo-Milan, Cagliari-Juventus
 - Nico Paz: ‘Two amazing weeks with Messi, I don’t know about his no.10 shirt’
 - Amorim: ‘Milan system doesn’t matter as much as being aggressive’
@@ -233,25 +235,27 @@ Generado por `scripts/titulares.py` (workflow `tendencias`). Leídos 26 de 34 me
 - Fabregas: ‘Inter inspired Como on how to hurt Roma’
 - Gasperini defends Malen, hits out at freeze-frames, says Roma ‘very different’ from Mourinho era
 - Serie A | Como 0-0 Roma: Giallorossi resist under siege after Malen sees red
-- Why Roma star Malen saw red against Como and what he said to the fourth official
-- Tonali sends six-word message after assist in Tottenham draw with Man Utd
 
 **Kicker** (20)
+- LIVE! Vielversprechender Wiederbeginn: Liverpool und ManCity nehmen Fahrt auf
+- Elf-Tore-Spektakel in Bochum: Rödinghausen kommt nach 1:6-Rückstand fast nochmal zurück
+- Rennes - Auxerre: Tor zum 2:1 durch Thomasson in der 53. Minute
+- 5:2-Kantersieg in Aachen: Viktoria Köln festigt Platz 2
+- San Sebastian - A Coruna: Rote Karte für Amatucci in der 90. Minute
 - KSC: Zwischen Schiedsrichter-Ärger und misslungenen Veränderungen
-- LIVE! Erste Torannäherungen: Noch kein Chancen-Feuerwerk in Liverpool
 - Slapstick-Eigentor vor über 13.000 Zuschauern: Chemnitz entthront Erfurt
 - San Sebastian - A Coruna: Tor zum 3:2 durch Yeremay in der 69. Minute
 - San Sebastian - A Coruna: Tor zum 3:2 durch Yeremay in der 69. Minute
 - San Sebastian - A Coruna: Rote Karte für Marin in der 66. Minute
 - Rennes - Auxerre: Tor zum 1:1 durch Archer in der 25. Minute
 - Koch reagiert auf Hütter-Kritik: "Ändert nichts an meiner Haltung"
-- LIVE! Wieder nach einer Ecke: Schalke gleicht aus
-- San Sebastian - A Coruna: Tor zum 3:1 durch Soriano in der 61. Minute
-- San Sebastian - A Coruna: Tor zum 3:0 durch Goncalo Guedes in der 54. Minute
-- Erleichterung im Fall von Stuttgarts "Abwehr-Jeff" Chabot
 
 **L'Equipe** (40)
-- Les notes de Nice-Strasbourg : Clauss récompensé, Harder effacé
+- La tricherie du siècle ? Tout comprendre à l'affaire Manchester City
+- L’OM, une belle occasion de reconquérir le public
+- Strasbourg : Sebastian Nanasi, blessé avec la sélection suédoise, n'a pas joué face à Nice
+- Le bijou d'Estéban Lepaul avec Rennes contre Auxerre
+- Les notes de Nice-Strasbourg
 - Clarence Seedorf devient l'entraîneur du Corinthians et s'engage jusqu'à fin 2027 avec le club brésilien
 - Mené au score face à Nottingham Forest, Crystal Palace s'en sort bien et offre un répit à Pierre Sage
 - Lepaul, une découverte à digérer et un statut à assumer
@@ -259,12 +263,9 @@ Generado por `scripts/titulares.py` (workflow `tendencias`). Leídos 26 de 34 me
 - City s'efforce de garder le sourire avant Anfield
 - Agacé par les critiques, Ancelotti cherche toujours la bonne formule
 - Toujours invaincue, la Lazio de Gennaro Gattuso rejoint l'Inter Milan en tête de la Serie A
-- « Tricheurs » : l'accueil caustique réservé à Manchester City par les supporters de Liverpool avant leur confrontation en Premier League
-- Relégable, Marseille est condamné à gagner
-- « Cela manquait à l'équipe de France » : Cesc Fabregas admiratif des débuts avec les Bleus de Lucas Da Cunha, son capitaine à Côme
-- Frappe surpuissante, lucarne et barre rentrante : la vidéo du but de la victoire de Jonathan Clauss avec Nice contre Strasbourg
 
 **Foot Mercato** (40)
+- Tottenham : les stages à Marbella de Roberto De Zerbi servent-ils réellement à quelque chose
 - Rennes : le bijou d’Esteban Lepaul face à Auxerre
 - PSG : Ousmane Dembélé et Nuno Mendes de retour à l’entraînement
 - JT Foot Mercato : Mika Godts n’y arrive pas au PSG
@@ -276,23 +277,25 @@ Generado por `scripts/titulares.py` (workflow `tendencias`). Leídos 26 de 34 me
 - Clarence Seedorf nouvel entraîneur des Corinthians
 - PSG : l’autre pique des ultras parisiens à Emmanuel Macron
 - François Modesto a retrouvé un club en Italie
-- Liverpool - Manchester City : les compositions officielles
 
 **Record** (20)
-- <![CDATA[ Omare feliz com vitória na Meia Maratona de Lisboa, portugueses saem satisfeitos ]]>
-- <![CDATA[ Dário Essugo marca belo golo a passe de Harder na derrota do Estrasburgo de Hugo Oliveira ]]>
-- <![CDATA[ Portugal conquista ouro, prata e bronze no Mundial de vela inclusiva em Portimão ]]>
-- <![CDATA[ Sérgio Ferreira quer chegar às três vitórias seguidas: «Equipa está com desejo e ambição» ]]>
-- <![CDATA[ O onze do Benfica para o jogo com o V. Guimarães ]]>
-- <![CDATA[ Antonelli pode assinar recorde incrível já em Austin: as contas para garantir o título ]]>
-- <![CDATA[ A reação de William Gomes à lesão sofrida contra o Marítimo ]]>
-- <![CDATA[ ZTE de Filipe Çelikkaya goleia na Hungria ]]>
-- <![CDATA[ Seedorf é o eleito do Corinthians para tentar fugir da descida ]]>
-- <![CDATA[ Liverpool-Man. City, em direto ]]>
-- <![CDATA[ William Gomes fez tratamento no Olival em dia de folga ]]>
-- <![CDATA[ FC Porto-Benfica, em direto ]]>
+- <![CDATA[ Rio Ave-Nacional, 3-2 ]]>
+- <![CDATA[ FC Porto perde na receção ao Sp. Braga e treme na liderança do campeonato de Iniciados ]]>
+- <![CDATA[ ZTE de Filipe Çelikkaya precisou de apenas 45 minutos para golear (5-1) ]]>
+- <![CDATA[ Gonçalo Guedes aponta grande golo na vitória suada da Real Sociedad ]]>
+- <![CDATA[ Kipruto e Feysa vencem Maratona de Chicago com grandes marcas ]]>
+- <![CDATA[ Glasner confirma a máxima de não voltar onde já se foi feliz: «Podem chamar-lhe karma...» ]]>
+- <![CDATA[ Miguel Oliveira oitavo no Estoril em nova vitória de Bulega com direito a recorde nas Superbikes ]]>
+- <![CDATA[ João Vasconcelos ganha espaço no Santa Clara de Petit ]]>
+- <![CDATA[ FC Porto bate Benfica no clássico de basquetebol ]]>
+- <![CDATA[ Estrelas da NBA entusiasmadas com nova liga de basquetebol pan-europeia ]]>
+- <![CDATA[ Relvado com melhor nota ]]>
+- <![CDATA[ Simão Freitas derrotado na liga búlgara ]]>
 
 **Ole** (10)
+- A dos días de la semi con Boca: un jugador de Vasco chocó y no viajará a Buenos Aires
+- Malas noticias para la Selección: Tortu Deck sufrió una lesión "más grave" de lo esperado
+- Con una atajada clave de Walter Benítez, el triunfo de Crystal Palace para escaparse del fondo de la Premier
 - San Lorenzo vs. Riestra, EN VIVO, por el Torneo Clausura: formaciones y cómo ver
 - La reacción de Alpine, tras tocar fondo en Singapur: frustrados y “necesitamos cambiar para seguir peleando”
 - La buena noticia que recibió Ponzio en el entrenamiento de este domingo en el Monumental
@@ -300,11 +303,10 @@ Generado por `scripts/titulares.py` (workflow `tendencias`). Leídos 26 de 34 me
 - Señales de crack: por qué Tomy Aranda encandiló a Messi y es la gran promesa del fútbol argentino
 - Gimnasia de Mendoza vs. Newell's, por el Torneo Clausura: día, horario y cómo ver por TV en vivo
 - Corinthians presentó a un técnico europeo para salvarse del descenso
-- Scaloni sorprendió en plena madrugada: corrió el Gran Fondo de Buenos Aires
-- Bautismo de fuego: Kevin Zenón marcó su primer gol en México en un clásico y contra Gabriel Milito
-- Qué necesita Antonelli para ser campeón de la Fórmula 1 en la próxima carrera, Austin
 
 **Infobae** (40)
+- La sentencia del jefe de Alpine tras el abandono de Colapinto y la actuación de Pierre Gasly en el GP de Singapur de Fórmula 1
+- Un club alemán prohibió a sus hinchas saltar sincronizados en la tribuna por el "efecto trampolín"
 - Fue una figura del circuito de tenis, estuvo en pareja con tres jugadoras y ahora brilla en un concurso de la baile
 - Lionel Scaloni sumó otro desafío en el ciclismo y completó el Gran Fondo Buenos Aires: “Quería disfrutar de la ciudad sin coches”
 - Franco Colapinto abandonó el Gran Premio de Singapur de Fórmula 1 por una falla en su Alpine: volvió a triunfar Max Verstappen
@@ -315,25 +317,26 @@ Generado por `scripts/titulares.py` (workflow `tendencias`). Leídos 26 de 34 me
 - Cuándo volverá a correr Franco Colapinto en la Fórmula 1 tras su abandono en el GP de Singapur
 - La decepción de Franco Colapinto tras su abandono en el GP de Singapur de Fórmula 1: “Espero revertir este momento malo”
 - El momento del abandono de Franco Colapinto en el Gran Premio de Singapur de la Fórmula 1: cuál fue la falla que reportó Alpine
-- En un duelo de necesitados, Independiente visitará a Talleres de Córdoba: hora, TV y formaciones
-- Racing recibirá a Belgrano en busca de un triunfo que lo acerque a zona de los clasificados en el Torneo Clausura: hora, TV y formaciones
 
 **Google News AR** (40)
 - La Previa: Con la fe puesta en triunfar
 - Messi eligió a 10 promesas del fútbol mundial y hay un argentino
+- Clarence Seedorf vuelve al fútbol brasileño: es el nuevo entrenador de Corinthians
 - El Fútbol Infantil estuvo de fiesta en Dudignac con el 2do Encuentro
+- Futbol para pocos: se suma el ascenso
 - Messi eligió a las próximas diez estrellas del fútbol mundial: incluyó a un jugador de Boca
 - El sol se asoció a la fiesta de los chicos en el Lasallanito
 - Messi presentó a las diez grandes promesas del fútbol mundial: quién es la joya de Boca que aparece entre los elegidos
 - Messi eligió a las 10 futuras estrellas del fútbol mundial e incluyó a un juvenil de Boca
 - Liga Santafesina de fútbol: fue suspendido este sábado por mal clima
-- Lionel Messi eligió a las promesas del fútbol mundial e incluyó a una joya del fútbol argentino
 - Lionel Messi seleccionó a las 10 promesas del fútbol mundial e incluyó a una joya de Boca Juniors
-- Messi eligió a las próximas diez estrellas del fútbol mundial e incluyó a una joya de Boca
-- Messi eligió a las próximas 10 futuras estrellas del fútbol y sorprendió al incluir a uno de Boca
+- Lionel Messi eligió a las promesas del fútbol mundial e incluyó a una joya del fútbol argentino
 
 **ge.globo** (40)
 - Liverpool x Manchester City - Campeonato Inglês 2026/27 - Ao vivo - globoesporte.com
+- Corinthians anuncia patrocínio máster até o fim de 2026
+- Maringá lança camisa em celebração à trajetória rumo ao acesso à Série B; veja imagens
+- Palmeiras corta Kate Tapia da Libertadores Feminina por questões disciplinares
 - Torcida do Liverpool provoca o City em clássico por conta de condenação; veja fotos
 - Abel, do Palmeiras, faz surpresa a movimento comunitário e anuncia apoio do Criança Esperança
 - Maringá desfila em trio elétrico e faz festa com a torcida após acesso inédito à Série B; veja o vídeo
@@ -342,19 +345,16 @@ Generado por `scripts/titulares.py` (workflow `tendencias`). Leídos 26 de 34 me
 - Empresários detalham indicação de Seedorf a Marcelo Paz e explicam acerto com o Corinthians
 - Corinthians contrata Seedorf como novo técnico
 - Vini Jr. deve ficar fora de Barcelona x Real Madrid após expulsão por puxão de cabelo
-- NFL ao vivo - Jacksonville Jaguars x Philadelphia Eagles
-- Cauan Barros, do Vasco, sofre acidente de carro no Rio e não viaja para jogo com o Boca
-- Vasco vai para jogo contra Boca com meta batida no Brasileiro, mas tom é de decepção por tropeço
 
 **r/soccer (top día)** (25)
 - Antonio Rudiger shielding the Referee from Vini. Jr as he's sent off hair pulling
 - Vinicius Junior (Real Madrid) straight red card against Villarreal 73'
 - Manchester United have had their worst start to the season in 40 years
+- Liverpool fans chanting "You cheating bastards, you know what you are" before the Liverpool-Man City match
 - Harry Maguire laughs and waves off Rodrigo Bentancur following his red card.
 - On October 10th, within a span of 6 minutes, wingers of Real Madrid for both the Men's and Women's teams got sent off for pulling hair of an
 - Manchester United 1 - [1] Tottenham Hotspur - Dominic Solanke 90+2'
 - Tottenham's current run of games without a win when conceding first
-- Liverpool fans chanting "You cheating bastards, you know what you are" before the Liverpool-Man City match
 - Erling Haaland on the hostile atmosphere at Anfield: "I hope it's like that, it should be like that when Man City go to Liverpool and Anfiel
 - 25 years ago Gregory Coupet pulled off a spectacular double-save to prevent an own goal and deny Rivaldo
 - [RFEF] VAR conversation for vini’s red card
