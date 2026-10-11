@@ -9,5 +9,8 @@
   "https://raw.githubusercontent.com/oundialae-debug/live/main/media/20261011_duelo_yamal_vinicius.jpg"
  ],
  "variante": "hook=pregunta;formato=jugador_vs_jugador;hora=19;momento=clasico_25_10",
- "notas": "understat (nuestros datos de jugadores no al dia), 592' vs 572'; fotos web/Wikipedia recortadas sin credito [cola]"
+ "notas": "understat (nuestros datos de jugadores no al dia), 592' vs 572'; fotos web/Wikipedia recortadas sin credito [cola]",
+ "estado": "enviado",
+ "buffer_id": "6acbbb10ed92ed8fa50c704f",
+ "dueAt": "2026-10-11T19:00:00+02:00"
 }
