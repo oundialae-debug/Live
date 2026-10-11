@@ -1,0 +1,13 @@
+{
+ "red": "instagram",
+ "hora": "2026-10-11T16:00:00+02:00",
+ "tipo": "meme",
+ "partido": "Neuer encaja el gol mas rapido de la Bundesliga (8 s)",
+ "text": "Manuel Neuer conceded the fastest goal in Bundesliga history on Saturday: 8 seconds at Augsburg (2-2 with Bayern). The old record was 9 seconds. Worst 8 seconds a keeper has ever had? 👇\n#Neuer #Bayern #Bundesliga #FCBayern #Football",
+ "titulo": "Manuel Neuer concedes fastest goal in Bundesliga history: 8 seconds",
+ "imagenes": [
+  "https://raw.githubusercontent.com/oundialae-debug/live/main/media/20261011_neuer_8s.jpg"
+ ],
+ "variante": "hook=pregunta;formato=meme_comparativa;hora=16;momento=noticia_dia",
+ "notas": "Fellhauer 8 s (Goal.com + SuperSport; Bild 8,4 s), record previo 9 s Bellarabi 2014/Volland 2015; Augsburg 2-2 Bayern; jurado 6/9/8=7,7 [cola]"
+}

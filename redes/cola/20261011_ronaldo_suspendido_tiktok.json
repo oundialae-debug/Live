@@ -1,0 +1,13 @@
+{
+ "red": "tiktok",
+ "hora": "2026-10-11T12:00:00+02:00",
+ "tipo": "meme",
+ "partido": "Ronaldo 980 / suspendido por Portugal",
+ "text": "Friday: Ronaldo scores goal #980 for Al Nassr. Saturday: Portugal's FA provisionally suspends him after he left the national team camp. He has said the punishment should have \"no mitigating circumstances\". Fair or too harsh? 👇\n#Ronaldo #CristianoRonaldo #Portugal #AlNassr #Football",
+ "titulo": "Cristiano Ronaldo provisionally suspended by Portugal after scoring goal 980",
+ "imagenes": [
+  "https://raw.githubusercontent.com/oundialae-debug/live/main/media/20261011_ronaldo_suspendido.jpg"
+ ],
+ "variante": "hook=pregunta;formato=meme_comparativa;hora=12;momento=noticia_dia",
+ "notas": "Al Jazeera 10/10 (suspension provisional, 1-6 meses segun reports, cita 'no mitigating circumstances') + titulares 13 medios; 980 Sky/beIN; jurado 3 subagentes 8/7/8=7,7 [cola]; dato nuevo vs 10/10 = suspension"
+}
