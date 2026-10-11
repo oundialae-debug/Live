@@ -9,5 +9,8 @@
  ],
  "variante": "hook=pregunta;formato=meme_foto_editada;hora=15;momento=noticia_dia",
  "notas": "fotograma real del tirón editado con ChatGPT por el usuario; enviado desde la cola a petición (el envío directo por MCP daba error en la app) [cola]",
- "titulo": "Vinicius opens a barbershop after the red card"
+ "titulo": "Vinicius opens a barbershop after the red card",
+ "estado": "enviado",
+ "buffer_id": "6acb92a1bba9419ccb395997",
+ "dueAt": "2026-10-11T13:47:00+00:00"
 }
