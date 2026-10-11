@@ -1,5 +1,11 @@
 {
- "en_curso": {},
+ "en_curso": {
+  "1319169073": {
+   "arranque": "s1",
+   "musica": "hh03",
+   "tarjetas": 6
+  }
+ },
  "partidos": {
   "1336420545": {
    "estado": "publicado_manual",
