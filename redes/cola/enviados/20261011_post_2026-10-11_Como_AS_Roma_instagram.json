@@ -1,5 +1,5 @@
 {
- "red": "tiktok",
+ "red": "instagram",
  "hora": "2026-10-11T14:55:57+02:00",
  "tipo": "post",
  "partido": "Como-AS Roma",
@@ -9,5 +9,7 @@
  "musica": "hh03",
  "variante": "seg=2.8;arranque=s1;hook=dato;musica=hh03;formato=auto_post",
  "notas": "post-partido automático (futbol-pipeline 1319169073, 6 tarjetas)",
- "titulo": "Como 0-0 Roma | Expected goals: 1.5 vs 1.1, Como created more."
+ "estado": "enviado",
+ "buffer_id": "6acb86aaed92ed8fa50259c5",
+ "dueAt": "2026-10-11T12:55:58+00:00"
 }
