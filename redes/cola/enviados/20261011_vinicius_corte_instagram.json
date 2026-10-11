@@ -8,5 +8,8 @@
   "https://raw.githubusercontent.com/oundialae-debug/live/main/media/20261011_vinicius_corte.jpg"
  ],
  "variante": "hook=pregunta;formato=meme_foto_editada;hora=15;momento=noticia_dia",
- "notas": "fotograma real del tirón editado con ChatGPT por el usuario; enviado desde la cola a petición (el envío directo por MCP daba error en la app) [cola]"
+ "notas": "fotograma real del tirón editado con ChatGPT por el usuario; enviado desde la cola a petición (el envío directo por MCP daba error en la app) [cola]",
+ "estado": "enviado",
+ "buffer_id": "6acb91ceb07d37ac97aa66e3",
+ "dueAt": "2026-10-11T13:43:30+00:00"
 }
