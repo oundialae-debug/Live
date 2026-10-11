@@ -429,7 +429,13 @@ def main():
             continue
         if hecho or hoy_publicadas() >= c["max_dia"]:
             continue                                        # una por pasada: la siguiente se evalúa la próxima hora
-        print("->", publicar(h, c, tits))
+        try:
+            print("->", publicar(h, c, tits))
+        except BaseException as ex:                          # los logs de Actions no se pueden leer desde fuera: queda en el repo
+            import traceback
+            msg = traceback.format_exc()[-900:]
+            print(msg)
+            apuntar({"estado": "descartar", "temas": h["topics"], "clave": h.get("key", ""), "motivo": f"ERROR {type(ex).__name__}: {msg[-500:]}"})
         hecho = True
     pp.subir([DIR / "decisiones.jsonl", DIR / "revision.md"] if (DIR / "revision.md").exists() else [DIR / "decisiones.jsonl"],
              "noticias: decisiones [skip ci]")
