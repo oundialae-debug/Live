@@ -1,0 +1,13 @@
+{
+ "red": "instagram",
+ "hora": "2026-10-11T13:30:00+02:00",
+ "tipo": "curioso",
+ "partido": "Henderson 36 anos 2 goles+1 asist (Chelsea 5-1 Bournemouth)",
+ "text": "Jordan Henderson, 36, scored twice and set up another in Chelsea's 5-1 win over Bournemouth: his first goals for the club. The oldest player to do that in a Premier League game since Cristiano Ronaldo in 2022. Best 36-year-old you've ever seen? 👇\n#Henderson #Chelsea #PremierLeague #CFC #Football",
+ "titulo": "Jordan Henderson, 36, scores twice for Chelsea: oldest to do it since Ronaldo",
+ "imagenes": [
+  "https://raw.githubusercontent.com/oundialae-debug/live/main/media/20261011_henderson_36.jpg"
+ ],
+ "variante": "hook=pregunta;formato=curioso_noticia;hora=13;momento=noticia_dia",
+ "notas": "The Analyst (Opta) + Sofascore 9.5 + BBC; 36a 115d, Ronaldo abril 2022 (37); jurado r1 6,7 r2 6,7 r3 7,0 [cola]"
+}
