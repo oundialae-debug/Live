@@ -186,10 +186,10 @@ def sin_acentos(t):
 def respaldado(h, titulares):
     """Anti-invento: toda cifra y todo nombre propio (no inicial de frase) del texto debe salir en los titulares leídos."""
     base = sin_acentos(" ".join(titulares))
-    texto = " ".join([h.get("title", ""), h.get("subtitle", ""), h.get("next", ""), h.get("post", "")] +
-                     [f"{f.get('figure', '')} {f.get('label', '')}" for f in h.get("facts", [])])
-    texto = re.sub(r"#\w+", "", texto)
-    malos = [n for n in re.findall(r"\d+(?:[.,:]\d+)*", texto) if sin_acentos(n) not in base]
+    cifras = " ".join([h.get("title", ""), h.get("subtitle", ""), h.get("next", ""), h.get("post", "")] +
+                      [f"{f.get('figure', '')} {f.get('label', '')}" for f in h.get("facts", [])])
+    texto = re.sub(r"#\w+", "", " ".join([h.get("subtitle", ""), h.get("next", ""), h.get("post", "")]))  # titular y etiquetas van en Title Case: solo cifras
+    malos = [n for n in re.findall(r"\d+(?:[.,:]\d+)*", cifras) if sin_acentos(n) not in base]
     for m in re.finditer(r"(?<![.!?]\s)(?<!^)\b([A-ZÁÉÍÓÚÑ][\wáéíóúñü'’-]{3,})", texto):
         w = m.group(1)
         if w in VACIAS or w in EXTRA_OK or w.upper() == w:

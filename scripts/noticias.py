@@ -5,7 +5,7 @@ o un titular casi idéntico del mismo medio) no se vuelve a apuntar aunque siga 
 Calcula los temas del día (nº de medios distintos en las últimas 36 h) en redes/noticias/temas.json.
 Uso: noticias.py            -> escanea y guarda
      noticias.py ventana    -> escribe dentro=si|no en $GITHUB_OUTPUT (¿es hora de escanear en Madrid? 08:00-23:45)"""
-import hashlib, json, os, re, sys, unicodedata, urllib.request, xml.etree.ElementTree as ET
+import hashlib, html, json, os, re, sys, unicodedata, urllib.request, xml.etree.ElementTree as ET
 from collections import defaultdict
 from concurrent.futures import ThreadPoolExecutor
 from datetime import datetime, timedelta, timezone
@@ -45,7 +45,7 @@ def leer(nombre, url):
     limite = datetime.now(timezone.utc) - timedelta(hours=TEMAS_HORAS)
     out = []
     for it in (list(raiz.iter("item")) or list(raiz.iter(ATOM + "entry")))[:40]:
-        t = (it.findtext("title") or it.findtext(ATOM + "title") or "").strip()
+        t = html.unescape((it.findtext("title") or it.findtext(ATOM + "title") or "").strip())
         link = (it.findtext("link") or "").strip()
         if not link:
             a = it.find(ATOM + "link")
