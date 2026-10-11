@@ -1,9 +1,9 @@
 {
- "generado": "2026-10-11T17:45+00:00",
+ "generado": "2026-10-11T18:50+00:00",
  "temas": [
   {
    "tema": "Liverpool",
-   "medios": 19,
+   "medios": 20,
    "lista_medios": [
     "AS",
     "BBC",
@@ -21,6 +21,7 @@
     "Ole",
     "Planet Football",
     "Sky Sports",
+    "Telegraph",
     "Yahoo",
     "ge.globo",
     "talkSPORT"
@@ -743,6 +744,96 @@
    ]
   },
   {
+   "tema": "Anfield",
+   "medios": 9,
+   "lista_medios": [
+    "Daily Mail",
+    "FourFourTwo",
+    "Google News EN",
+    "Guardian",
+    "L'Equipe",
+    "Mirror",
+    "Mundo Deportivo",
+    "Sky Sports",
+    "Yahoo"
+   ],
+   "primera_vez": "2026-10-11T16:00+00:00",
+   "titulares": [
+    {
+     "medio": "Daily Mail",
+     "titulo": "Liverpool vs Manchester City - Premier League LIVE: Enzo Maresca's side BOOED by hostile Anfield crowd at kick-off in their first game since guilty verdict, before tension boils over on pitch",
+     "url": "https://www.dailymail.com/sport/football/article-16195521/Liverpool-vs-Manchester-City-Premier-League-LIVE-Follow-build-action-reaction-Anfield-visitors-play-match-guilty-verdict.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+     "pub": "2026-10-11T15:53+00:00"
+    },
+    {
+     "medio": "Daily Mail",
+     "titulo": "Man City give Liverpool fans the slip: Enzo Maresca's side dodge baying home fans en route to Anfield before being taunted by banners and facing hostile reception after guilty verdict",
+     "url": "https://www.dailymail.com/sport/football/article-16200431/Man-City-Liverpool-fans-slip-Enzo-Marescas-dodge-baying-home-fans-en-route-Anfield-Premier-League-leaders-braced-hostile-reception-guilty-verdict.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+     "pub": "2026-10-11T15:50+00:00"
+    },
+    {
+     "medio": "Mirror",
+     "titulo": "Liverpool vs Man City LIVE: Tempers high as hostile Anfield taunts City players after 115 charges verdict",
+     "url": "https://www.mirror.co.uk/sport/football/news/liverpool-man-city-live-score-37759400",
+     "pub": "2026-10-11T15:56+00:00"
+    },
+    {
+     "medio": "Mirror",
+     "titulo": "Man City hit by wave of Anfield vitriol as Liverpool fans make feelings fiercely clear",
+     "url": "https://www.mirror.co.uk/sport/football/news/man-city-liverpool-fans-charges-37760428",
+     "pub": "2026-10-11T15:54+00:00"
+    },
+    {
+     "medio": "Yahoo",
+     "titulo": "Why Man City fans have inflatable bananas at Anfield in Premier League clash with Liverpool",
+     "url": "https://sports.yahoo.com/articles/why-man-city-fans-inflatable-155348226.html",
+     "pub": "2026-10-11T15:53+00:00"
+    },
+    {
+     "medio": "Yahoo",
+     "titulo": "📸 Man City receive expected hot reception ahead of Anfield test",
+     "url": "https://sports.yahoo.com/articles/man-city-receive-expected-hot-152900290.html",
+     "pub": "2026-10-11T15:29+00:00"
+    },
+    {
+     "medio": "Yahoo",
+     "titulo": "Manchester City and Liverpool have confirmed their starting lineups ahead of today&#8217;s match at Anfield",
+     "url": "https://sports.yahoo.com/articles/manchester-city-liverpool-confirmed-starting-142000375.html",
+     "pub": "2026-10-11T14:20+00:00"
+    },
+    {
+     "medio": "L'Equipe",
+     "titulo": "City s'efforce de garder le sourire avant Anfield",
+     "url": "https://www.lequipe.fr/Football/Actualites/Menace-de-lourdes-sanctions-manchester-city-s-efforce-de-garder-le-sourire-avant-de-se-rendre-a-anfield/1724862#at_medium=RSS_feeds",
+     "pub": "2026-10-11T15:18+00:00"
+    },
+    {
+     "medio": "Mundo Deportivo",
+     "titulo": "Anfield también dicta sentencia sobre el City: \"Tramposos\"",
+     "url": "https://www.mundodeportivo.com/futbol/premier-league/20261011/1004237469/anfield-dicta-sentencia-sobre-city-tramposos.html",
+     "pub": ""
+    },
+    {
+     "medio": "Yahoo",
+     "titulo": "Enzo Maresca, Man City player reaction to Liverpool match, reception at Anfield",
+     "url": "https://sports.yahoo.com/articles/enzo-maresca-man-city-player-172300565.html",
+     "pub": "2026-10-11T17:23+00:00"
+    },
+    {
+     "medio": "Mundo Deportivo",
+     "titulo": "0-3: El Manchester City 'post veredicto' golea al Liverpool de Iraola en Anfield",
+     "url": "https://www.mundodeportivo.com/futbol/premier-league/20261011/1004237497/liverpool.html",
+     "pub": ""
+    },
+    {
+     "medio": "Guardian",
+     "titulo": "Cherki cracker caps Manchester City win at Liverpool in face of Anfield taunts",
+     "url": "https://www.theguardian.com/football/2026/oct/11/liverpool-manchester-city-premier-league-match-report",
+     "pub": "2026-10-11T17:42+00:00"
+    }
+   ]
+  },
+  {
    "tema": "Spurs",
    "medios": 8,
    "lista_medios": [
@@ -907,16 +998,16 @@
      "pub": "2026-10-10T08:30+00:00"
     },
     {
-     "medio": "FourFourTwo",
-     "titulo": "Viktor Gyokeres still shouldn't start for Arsenal - even with Kai Havertz injured",
-     "url": "https://www.fourfourtwo.com/team/viktor-gyokeres-still-shouldnt-start-for-arsenal-even-with-kai-havertz-injured",
-     "pub": "2026-10-10T06:00+00:00"
-    },
-    {
      "medio": "Yahoo",
      "titulo": "2nd Arsenal player also picked up injury in post-Leeds warm-down",
      "url": "https://sports.yahoo.com/articles/2nd-arsenal-player-picked-injury-152000891.html",
      "pub": "2026-10-11T15:20+00:00"
+    },
+    {
+     "medio": "Yahoo",
+     "titulo": "Arsenal set for breakthrough in contract talks with crucial trio",
+     "url": "https://sports.yahoo.com/articles/arsenal-set-breakthrough-contract-talks-135000039.html",
+     "pub": "2026-10-11T13:50+00:00"
     }
    ]
   },
@@ -1360,6 +1451,89 @@
    ]
   },
   {
+   "tema": "Seedorf",
+   "medios": 8,
+   "lista_medios": [
+    "AS",
+    "Foot Mercato",
+    "Google News AR",
+    "L'Equipe",
+    "Mundo Deportivo",
+    "Record",
+    "Yahoo",
+    "ge.globo"
+   ],
+   "primera_vez": "2026-10-11T16:00+00:00",
+   "titulares": [
+    {
+     "medio": "Yahoo",
+     "titulo": "Corinthians signing Seedorf shocks social media; see the reactions 🤣",
+     "url": "https://sports.yahoo.com/articles/corinthians-signing-seedorf-shocks-social-143300478.html",
+     "pub": "2026-10-11T14:33+00:00"
+    },
+    {
+     "medio": "AS",
+     "titulo": "Oficial: Seedorf, a Corinthians",
+     "url": "https://as.com/futbol/internacional/oficial-seedorf-a-corinthians-f202610-n/",
+     "pub": "2026-10-11T14:33+00:00"
+    },
+    {
+     "medio": "Foot Mercato",
+     "titulo": "Clarence Seedorf nouvel entraîneur des Corinthians",
+     "url": "https://www.footmercato.net/a7448500962750134282-clarence-seedorf-nouvel-entraineur-des-corinthians",
+     "pub": "2026-10-11T14:36+00:00"
+    },
+    {
+     "medio": "Record",
+     "titulo": "<![CDATA[ Seedorf é o eleito do Corinthians para tentar fugir da descida ]]>",
+     "url": "https://www.record.pt/internacional/paises/brasil/detalhe/seedorf-e-o-eleito-do-corinthians-para-tentar-fugir-da-descida",
+     "pub": "2026-10-11T15:32+00:00"
+    },
+    {
+     "medio": "ge.globo",
+     "titulo": "Contrato de Seedorf com o Corinthians prevê rescisão em caso de rebaixamento à Série B",
+     "url": "https://ge.globo.com/futebol/times/corinthians/noticia/2026/10/11/contrato-de-seedorf-com-o-corinthians-preve-rescisao-em-caso-de-rebaixamento-a-serie-b.ghtml",
+     "pub": "2026-10-11T15:37+00:00"
+    },
+    {
+     "medio": "ge.globo",
+     "titulo": "Empresários detalham indicação de Seedorf a Marcelo Paz e explicam acerto com o Corinthians",
+     "url": "https://ge.globo.com/futebol/times/corinthians/noticia/2026/10/11/empresarios-detalham-indicacao-de-seedorf-a-marcelo-paz-e-explicam-acerto-com-o-corinthians.ghtml",
+     "pub": "2026-10-11T14:49+00:00"
+    },
+    {
+     "medio": "ge.globo",
+     "titulo": "Corinthians contrata Seedorf como novo técnico",
+     "url": "https://ge.globo.com/futebol/times/corinthians/noticia/2026/10/11/corinthians-contrata-seedorf-como-novo-tecnico.ghtml",
+     "pub": "2026-10-11T14:05+00:00"
+    },
+    {
+     "medio": "Mundo Deportivo",
+     "titulo": "Seedorf encuentra equipo",
+     "url": "https://www.mundodeportivo.com/futbol/fichajes/oficial/20261011/1004237453/seedorf-encuentra-equipo.html",
+     "pub": ""
+    },
+    {
+     "medio": "L'Equipe",
+     "titulo": "Clarence Seedorf devient l'entraîneur du Corinthians et s'engage jusqu'à fin 2027 avec le club brésilien",
+     "url": "https://www.lequipe.fr/Football/Actualites/Clarence-seedorf-devient-l-entraineur-du-corinthians-et-s-engage-jusqu-a-fin-2027-avec-le-club-bresilien/1724987#at_medium=RSS_feeds",
+     "pub": "2026-10-11T15:45+00:00"
+    },
+    {
+     "medio": "Google News AR",
+     "titulo": "Clarence Seedorf vuelve al fútbol brasileño: es el nuevo entrenador de Corinthians",
+     "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQcG8yeHc0RVQ3VzZpTlZYYnRjd3k5NHc2RXpOaEZmX2kwZ2lEMGZIVEhFemJydG9kamJuTllHbTM4Y2xOQWd0Vmw1MUllbEpsNl9zRHByV2ZsVTNVWlRSSmFfaGpYZE1QSlRURVB0cXF0VXUzZFkwWWxXN25ObWs5anNPeHJnaGFZMi1XSVlRVXR4ZHozVWRwVktqcnRIOExNWkxMUTZONEN2S0thN0xhT0Y1YkNGRElaVk84blpXakh2SlpuLWZ1cDd4d0R5VFM0YTV2UjJRYk5pVUoxMmVSX0Rn?oc=5",
+     "pub": "2026-10-11T16:39+00:00"
+    },
+    {
+     "medio": "ge.globo",
+     "titulo": "Seedorf pede apoio da torcida do Corinthians e promete \"fazer o melhor\"",
+     "url": "https://ge.globo.com/futebol/times/corinthians/noticia/2026/10/11/seedorf-pede-apoio-da-torcida-do-corinthians-e-promete-fazer-o-melhor.ghtml",
+     "pub": "2026-10-11T17:04+00:00"
+    }
+   ]
+  },
+  {
    "tema": "Corinthians",
    "medios": 8,
    "lista_medios": [
@@ -1445,89 +1619,6 @@
      "titulo": "Clarence Seedorf devient l'entraîneur du Corinthians et s'engage jusqu'à fin 2027 avec le club brésilien",
      "url": "https://www.lequipe.fr/Football/Actualites/Clarence-seedorf-devient-l-entraineur-du-corinthians-et-s-engage-jusqu-a-fin-2027-avec-le-club-bresilien/1724987#at_medium=RSS_feeds",
      "pub": "2026-10-11T15:45+00:00"
-    }
-   ]
-  },
-  {
-   "tema": "Seedorf",
-   "medios": 8,
-   "lista_medios": [
-    "AS",
-    "Foot Mercato",
-    "Google News AR",
-    "L'Equipe",
-    "Mundo Deportivo",
-    "Record",
-    "Yahoo",
-    "ge.globo"
-   ],
-   "primera_vez": "2026-10-11T16:00+00:00",
-   "titulares": [
-    {
-     "medio": "Yahoo",
-     "titulo": "Corinthians signing Seedorf shocks social media; see the reactions 🤣",
-     "url": "https://sports.yahoo.com/articles/corinthians-signing-seedorf-shocks-social-143300478.html",
-     "pub": "2026-10-11T14:33+00:00"
-    },
-    {
-     "medio": "AS",
-     "titulo": "Oficial: Seedorf, a Corinthians",
-     "url": "https://as.com/futbol/internacional/oficial-seedorf-a-corinthians-f202610-n/",
-     "pub": "2026-10-11T14:33+00:00"
-    },
-    {
-     "medio": "Foot Mercato",
-     "titulo": "Clarence Seedorf nouvel entraîneur des Corinthians",
-     "url": "https://www.footmercato.net/a7448500962750134282-clarence-seedorf-nouvel-entraineur-des-corinthians",
-     "pub": "2026-10-11T14:36+00:00"
-    },
-    {
-     "medio": "Record",
-     "titulo": "<![CDATA[ Seedorf é o eleito do Corinthians para tentar fugir da descida ]]>",
-     "url": "https://www.record.pt/internacional/paises/brasil/detalhe/seedorf-e-o-eleito-do-corinthians-para-tentar-fugir-da-descida",
-     "pub": "2026-10-11T15:32+00:00"
-    },
-    {
-     "medio": "ge.globo",
-     "titulo": "Contrato de Seedorf com o Corinthians prevê rescisão em caso de rebaixamento à Série B",
-     "url": "https://ge.globo.com/futebol/times/corinthians/noticia/2026/10/11/contrato-de-seedorf-com-o-corinthians-preve-rescisao-em-caso-de-rebaixamento-a-serie-b.ghtml",
-     "pub": "2026-10-11T15:37+00:00"
-    },
-    {
-     "medio": "ge.globo",
-     "titulo": "Empresários detalham indicação de Seedorf a Marcelo Paz e explicam acerto com o Corinthians",
-     "url": "https://ge.globo.com/futebol/times/corinthians/noticia/2026/10/11/empresarios-detalham-indicacao-de-seedorf-a-marcelo-paz-e-explicam-acerto-com-o-corinthians.ghtml",
-     "pub": "2026-10-11T14:49+00:00"
-    },
-    {
-     "medio": "ge.globo",
-     "titulo": "Corinthians contrata Seedorf como novo técnico",
-     "url": "https://ge.globo.com/futebol/times/corinthians/noticia/2026/10/11/corinthians-contrata-seedorf-como-novo-tecnico.ghtml",
-     "pub": "2026-10-11T14:05+00:00"
-    },
-    {
-     "medio": "Mundo Deportivo",
-     "titulo": "Seedorf encuentra equipo",
-     "url": "https://www.mundodeportivo.com/futbol/fichajes/oficial/20261011/1004237453/seedorf-encuentra-equipo.html",
-     "pub": ""
-    },
-    {
-     "medio": "L'Equipe",
-     "titulo": "Clarence Seedorf devient l'entraîneur du Corinthians et s'engage jusqu'à fin 2027 avec le club brésilien",
-     "url": "https://www.lequipe.fr/Football/Actualites/Clarence-seedorf-devient-l-entraineur-du-corinthians-et-s-engage-jusqu-a-fin-2027-avec-le-club-bresilien/1724987#at_medium=RSS_feeds",
-     "pub": "2026-10-11T15:45+00:00"
-    },
-    {
-     "medio": "Google News AR",
-     "titulo": "Clarence Seedorf vuelve al fútbol brasileño: es el nuevo entrenador de Corinthians",
-     "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQcG8yeHc0RVQ3VzZpTlZYYnRjd3k5NHc2RXpOaEZmX2kwZ2lEMGZIVEhFemJydG9kamJuTllHbTM4Y2xOQWd0Vmw1MUllbEpsNl9zRHByV2ZsVTNVWlRSSmFfaGpYZE1QSlRURVB0cXF0VXUzZFkwWWxXN25ObWs5anNPeHJnaGFZMi1XSVlRVXR4ZHozVWRwVktqcnRIOExNWkxMUTZONEN2S0thN0xhT0Y1YkNGRElaVk84blpXakh2SlpuLWZ1cDd4d0R5VFM0YTV2UjJRYk5pVUoxMmVSX0Rn?oc=5",
-     "pub": "2026-10-11T16:39+00:00"
-    },
-    {
-     "medio": "ge.globo",
-     "titulo": "Seedorf pede apoio da torcida do Corinthians e promete \"fazer o melhor\"",
-     "url": "https://ge.globo.com/futebol/times/corinthians/noticia/2026/10/11/seedorf-pede-apoio-da-torcida-do-corinthians-e-promete-fazer-o-melhor.ghtml",
-     "pub": "2026-10-11T17:04+00:00"
     }
    ]
   },
@@ -1842,6 +1933,82 @@
    ]
   },
   {
+   "tema": "Sassuolo",
+   "medios": 7,
+   "lista_medios": [
+    "AS",
+    "Foot Mercato",
+    "Football Italia",
+    "Kicker",
+    "L'Equipe",
+    "Mundo Deportivo",
+    "Yahoo"
+   ],
+   "primera_vez": "2026-10-11T16:00+00:00",
+   "titulares": [
+    {
+     "medio": "Yahoo",
+     "titulo": "🚨XI confirmed: Milan face a tough trip to Sassuolo",
+     "url": "https://sports.yahoo.com/articles/xi-confirmed-milan-face-tough-150800429.html",
+     "pub": "2026-10-11T15:08+00:00"
+    },
+    {
+     "medio": "Yahoo",
+     "titulo": "Serie A: Sassuolo vs. Milan – Confirmed line-ups",
+     "url": "https://sports.yahoo.com/articles/serie-sassuolo-vs-milan-confirmed-145500149.html",
+     "pub": "2026-10-11T14:55+00:00"
+    },
+    {
+     "medio": "Mundo Deportivo",
+     "titulo": "Sassuolo - AC Milan, en directo | Serie A",
+     "url": "https://www.mundodeportivo.com/futbol/serie-a/20261011/1004235605/sassuolo-ac-milan-directo-serie.html",
+     "pub": ""
+    },
+    {
+     "medio": "AS",
+     "titulo": "Sassuolo - Milan, en directo: Serie A, hoy en vivo",
+     "url": "https://as.com/futbol/internacional/sassuolo-milan-en-directo-serie-a-hoy-en-vivo-f202610-n/",
+     "pub": "2026-10-11T15:52+00:00"
+    },
+    {
+     "medio": "Football Italia",
+     "titulo": "Milan forced into early change against Sassuolo as Gabbia stretchered off in tears",
+     "url": "https://football-italia.net/milan-forced-early-change-vs-sassuolo-gabbia/",
+     "pub": "2026-10-11T16:32+00:00"
+    },
+    {
+     "medio": "Kicker",
+     "titulo": "Sassuolo - Milan: Tor zum 1:1 durch Odenthal in der 68. Minute",
+     "url": "https://www.kicker.de/sassuolo-milan-tor-zum-1-1-durch-odenthal-in-der-68-minute-1260300/video#omrss",
+     "pub": "2026-10-11T17:38+00:00"
+    },
+    {
+     "medio": "Yahoo",
+     "titulo": "Aquilani impressed with Sassuolo ‘maturity’ in Milan draw",
+     "url": "https://sports.yahoo.com/articles/aquilani-impressed-sassuolo-maturity-milan-183000559.html",
+     "pub": "2026-10-11T18:30+00:00"
+    },
+    {
+     "medio": "Yahoo",
+     "titulo": "Serie A | Sassuolo 1-1 Milan: Not enough for Rabiot to celebrate",
+     "url": "https://sports.yahoo.com/articles/serie-sassuolo-1-1-milan-180500543.html",
+     "pub": "2026-10-11T18:05+00:00"
+    },
+    {
+     "medio": "L'Equipe",
+     "titulo": "Serie A : l'AC Milan freinée par Sassuolo malgré un beau but d'Adrien Rabiot",
+     "url": "https://www.lequipe.fr/Football/Actualites/Serie-a-l-ac-milan-freinee-par-sassuolo-malgre-un-beau-but-d-adrien-rabiot/1725041#at_medium=RSS_feeds",
+     "pub": "2026-10-11T18:15+00:00"
+    },
+    {
+     "medio": "Foot Mercato",
+     "titulo": "Serie A : l’AC Milan bute sur Sassuolo",
+     "url": "https://www.footmercato.net/a6124686322760603552-serie-a-lac-milan-bute-sur-sassuolo",
+     "pub": "2026-10-11T18:02+00:00"
+    }
+   ]
+  },
+  {
    "tema": "Inter",
    "medios": 7,
    "lista_medios": [
@@ -2137,6 +2304,69 @@
    ]
   },
   {
+   "tema": "Villarreal",
+   "medios": 6,
+   "lista_medios": [
+    "AS",
+    "FourFourTwo",
+    "Guardian",
+    "Mundo Deportivo",
+    "Yahoo",
+    "ge.globo"
+   ],
+   "primera_vez": "2026-10-11T16:00+00:00",
+   "titulares": [
+    {
+     "medio": "Guardian",
+     "titulo": "Real Madrid’s Vinícius Júnior sent off for hair-pulling in victory over Villarreal",
+     "url": "https://www.theguardian.com/football/2026/oct/10/real-madrids-vinicius-junior-sent-off-for-hair-pulling-in-victory-over-villarreal",
+     "pub": "2026-10-10T21:38+00:00"
+    },
+    {
+     "medio": "FourFourTwo",
+     "titulo": "How to watch Real Madrid vs Villarreal for FREE: Live stream details for La Liga clash",
+     "url": "https://www.fourfourtwo.com/competition/watch-real-madrid-vs-villarreal-la-liga-free",
+     "pub": "2026-10-10T15:00+00:00"
+    },
+    {
+     "medio": "AS",
+     "titulo": "Real Madrid 1-0 Villarreal: resumen, gol y resultado",
+     "url": "https://as.com/futbol/primera/real-madrid-villarreal-hoy-en-directo-ultima-hora-de-la-laliga-ea-sports-en-el-santiago-bernabeu-en-vivo-f202610-d-2/",
+     "pub": "2026-10-11T08:07+00:00"
+    },
+    {
+     "medio": "Mundo Deportivo",
+     "titulo": "Real Madrid - Villarreal: las fotos del duelo en el Bernabéu",
+     "url": "https://www.mundodeportivo.com/futbol/laliga/20261011/1004237397/real-madrid-villarreal-fotos-duelo-bernabeu.html",
+     "pub": ""
+    },
+    {
+     "medio": "Mundo Deportivo",
+     "titulo": "El Real Madrid ganó al Villarreal entre quejas arbitrales y poco fútbol",
+     "url": "https://www.mundodeportivo.com/futbol/real-madrid/20261011/1004237360/real-madrid-gano-villarreal-quejas-arbitrales-poco-futbol.html",
+     "pub": ""
+    },
+    {
+     "medio": "ge.globo",
+     "titulo": "Real Madrid sofre, mas vence Villarreal em jogo com gol anulado e expulsão de Vini Jr.",
+     "url": "https://ge.globo.com/futebol/futebol-internacional/futebol-espanhol/jogo/10-10-2026/realmadrid-Villarreal.ghtml",
+     "pub": "2026-10-11T00:34+00:00"
+    },
+    {
+     "medio": "Mundo Deportivo",
+     "titulo": "El Real Madrid recurrirá la amarilla que vio Konaté ante el Villarreal",
+     "url": "https://www.mundodeportivo.com/futbol/real-madrid/20261011/1004237403/real-madrid-recurrira-amarilla-vio-konate-villarreal.html",
+     "pub": ""
+    },
+    {
+     "medio": "Yahoo",
+     "titulo": "Real Madrid to appeal key defender’s yellow card against Villarreal",
+     "url": "https://sports.yahoo.com/articles/real-madrid-appeal-key-defender-181700081.html",
+     "pub": "2026-10-11T18:17+00:00"
+    }
+   ]
+  },
+  {
    "tema": "Barcelona",
    "medios": 6,
    "lista_medios": [
@@ -2202,6 +2432,12 @@
      "titulo": "\"Als würden wir gegen Barcelona spielen\": Riemann kritisiert Aachens Fehlerfestival",
      "url": "https://www.kicker.de/als-wuerden-wir-gegen-barcelona-spielen-riemann-kritisiert-aachens-fehlerfestival-1260281/artikel#omrss",
      "pub": "2026-10-11T17:34+00:00"
+    },
+    {
+     "medio": "Yahoo",
+     "titulo": "Antonio Conte amazed by Barcelona and La Masia: ‘They are doing something extraordinary’",
+     "url": "https://sports.yahoo.com/articles/antonio-conte-amazed-barcelona-la-182900555.html",
+     "pub": "2026-10-11T18:29+00:00"
     }
    ]
   },
@@ -2289,225 +2525,6 @@
      "titulo": "LIVE! Wieder nach einer Ecke: Schalke gleicht aus",
      "url": "https://www.kicker.de/live-wieder-nach-einer-ecke-schalke-gleicht-aus-1259182/artikel#omrss",
      "pub": "2026-10-11T15:41+00:00"
-    }
-   ]
-  },
-  {
-   "tema": "Michael",
-   "medios": 6,
-   "lista_medios": [
-    "Daily Mail",
-    "FourFourTwo",
-    "Mirror",
-    "Planet Football",
-    "Yahoo",
-    "talkSPORT"
-   ],
-   "primera_vez": "2026-10-11T16:00+00:00",
-   "titulares": [
-    {
-     "medio": "talkSPORT",
-     "titulo": "Michael Carrick warned he&#8217;s &#8216;in trouble&#8217; as Manchester United sink to 40-year low against 10-man Spurs",
-     "url": "https://talksport.com/football/4636576/michael-carrick-man-united-future-warning-spurs/",
-     "pub": "2026-10-10T19:11+00:00"
-    },
-    {
-     "medio": "Daily Mail",
-     "titulo": "'Worried' Gary Neville tells struggling Man United stars to 'get a grip' after Spurs draw ahead of tough run - as he warns midfield duo CAN'T play together and calls out lack of fight in Michael Carrick's men",
-     "url": "https://www.dailymail.com/sport/football/article-16199259/Gary-Neville-struggling-Man-United.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-     "pub": "2026-10-10T22:11+00:00"
-    },
-    {
-     "medio": "Daily Mail",
-     "titulo": "It's time for Man United's undependable stars to show some backbone for Michael Carrick, writes CHRIS WHEELER - and why club chiefs will rue letting Casemiro go",
-     "url": "https://www.dailymail.com/sport/football/article-16195573/man-united-stars-fail-michael-carrick.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-     "pub": "2026-10-11T12:37+00:00"
-    },
-    {
-     "medio": "Daily Mail",
-     "titulo": "Feckless Man United were dreadful and embarrassing at times in Spurs draw: Play like this in a week of reckoning and Michael Carrick will be clinging to his job, writes IAN LADYMAN",
-     "url": "https://www.dailymail.com/sport/football/article-16195543/Feckless-Man-United-dreadful-embarrassing-Michael-Carrick.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-     "pub": "2026-10-10T20:44+00:00"
-    },
-    {
-     "medio": "Mirror",
-     "titulo": "Man Utd star reveals Michael Carrick demand was not met in Tottenham draw",
-     "url": "https://www.mirror.co.uk/sport/football/news/man-utd-spurs-carrick-lammens-37759954",
-     "pub": "2026-10-11T12:56+00:00"
-    },
-    {
-     "medio": "Mirror",
-     "titulo": "Gary Neville picks out two Man Utd players and tells Michael Carrick he's 'seen enough'",
-     "url": "https://www.mirror.co.uk/sport/football/news/gary-neville-man-united-spurs-37759719",
-     "pub": "2026-10-11T10:55+00:00"
-    },
-    {
-     "medio": "Mirror",
-     "titulo": "Michael Carrick told £35m summer signing caused 'impossible' Man Utd issue vs Spurs",
-     "url": "https://www.mirror.co.uk/sport/football/news/man-utd-spurs-carrick-tielemans-37759461",
-     "pub": "2026-10-11T08:49+00:00"
-    },
-    {
-     "medio": "Planet Football",
-     "titulo": "The still impressive Premier League table since Michael Carrick took charge of Man Utd",
-     "url": "https://www.planetfootball.com/manchester-united/amazing-premier-league-table-carrick-manager",
-     "pub": "2026-10-10T18:54+00:00"
-    },
-    {
-     "medio": "FourFourTwo",
-     "titulo": "Michael Owen discusses the horses he trains at his Manor House stables and their famous owners",
-     "url": "https://www.fourfourtwo.com/person/player/james-milner-is-the-luckiest-owner-every-horse-he-buys-turns-into-a-superstar-michael-owen-discusses-the-horses-he-trains-at-his-manor-house-stables-and-their-famous-owners",
-     "pub": "2026-10-11T10:00+00:00"
-    },
-    {
-     "medio": "Yahoo",
-     "titulo": "Manchester United make Michael Carrick decision after Tottenham Hotspur draw",
-     "url": "https://sports.yahoo.com/articles/manchester-united-michael-carrick-decision-145000830.html",
-     "pub": "2026-10-11T14:50+00:00"
-    }
-   ]
-  },
-  {
-   "tema": "Roma",
-   "medios": 6,
-   "lista_medios": [
-    "AS",
-    "Foot Mercato",
-    "Football Italia",
-    "Guardian",
-    "Mundo Deportivo",
-    "Yahoo"
-   ],
-   "primera_vez": "2026-10-11T16:00+00:00",
-   "titulares": [
-    {
-     "medio": "Yahoo",
-     "titulo": "Pellegrini makes 350th appearance for Roma",
-     "url": "https://sports.yahoo.com/articles/pellegrini-makes-350th-appearance-roma-153600941.html",
-     "pub": "2026-10-11T15:36+00:00"
-    },
-    {
-     "medio": "Yahoo",
-     "titulo": "Fabregas: ‘Inter inspired Como on how to hurt Roma’",
-     "url": "https://sports.yahoo.com/articles/fabregas-inter-inspired-como-hurt-140000537.html",
-     "pub": "2026-10-11T14:00+00:00"
-    },
-    {
-     "medio": "Yahoo",
-     "titulo": "Gian Piero Gasperini pleased as 10-men Roma hold Como",
-     "url": "https://sports.yahoo.com/articles/gian-piero-gasperini-pleased-10-134100251.html",
-     "pub": "2026-10-11T13:41+00:00"
-    },
-    {
-     "medio": "Yahoo",
-     "titulo": "Gasperini defends Malen, hits out at freeze-frames, says Roma ‘very different’ from Mourinho era",
-     "url": "https://sports.yahoo.com/articles/gasperini-defends-malen-hits-freeze-134000198.html",
-     "pub": "2026-10-11T13:40+00:00"
-    },
-    {
-     "medio": "AS",
-     "titulo": "Aviso de la Roma al Madrid",
-     "url": "https://as.com/futbol/internacional/indestructible-roma-f202610-n/",
-     "pub": "2026-10-11T12:42+00:00"
-    },
-    {
-     "medio": "Mundo Deportivo",
-     "titulo": "La Roma cede dos puntos pero aguanta el tipo en Como",
-     "url": "https://www.mundodeportivo.com/futbol/serie-a/20261011/1004237302/roma.html",
-     "pub": ""
-    },
-    {
-     "medio": "Football Italia",
-     "titulo": "Serie A | Como 0-0 Roma: Giallorossi resist under siege after Malen sees red",
-     "url": "https://football-italia.net/serie-a-como-0-0-roma-malen-sees-red-siege/",
-     "pub": "2026-10-11T12:31+00:00"
-    },
-    {
-     "medio": "Football Italia",
-     "titulo": "Why Roma star Malen saw red against Como and what he said to the fourth official",
-     "url": "https://football-italia.net/why-malen-red-card-como-roma-what-he-said/",
-     "pub": "2026-10-11T12:26+00:00"
-    },
-    {
-     "medio": "Football Italia",
-     "titulo": "Serie A official line-ups: Como vs. Roma",
-     "url": "https://football-italia.net/serie-a-official-line-ups-como-vs-roma-wk6/",
-     "pub": "2026-10-11T09:36+00:00"
-    },
-    {
-     "medio": "Football Italia",
-     "titulo": "Serie A: Where to watch Como vs. Roma on TV",
-     "url": "https://football-italia.net/serie-a-where-to-watch-como-vs-roma-on-tv/",
-     "pub": "2026-10-11T09:06+00:00"
-    },
-    {
-     "medio": "Foot Mercato",
-     "titulo": "Serie A : le choc Côme - AS Roma a accouché d’une souris",
-     "url": "https://www.footmercato.net/a252315151824901195-serie-a-le-choc-come-as-roma-a-accouche-dune-souris",
-     "pub": "2026-10-11T12:31+00:00"
-    },
-    {
-     "medio": "Guardian",
-     "titulo": "European football: Lazio join Inter at top of Serie A as Roma held at Como",
-     "url": "https://www.theguardian.com/football/2026/oct/11/european-football-lazio-maintain-strong-start-with-win-over-monza",
-     "pub": "2026-10-11T16:09+00:00"
-    }
-   ]
-  },
-  {
-   "tema": "Monza",
-   "medios": 6,
-   "lista_medios": [
-    "Foot Mercato",
-    "Google News EN",
-    "Kicker",
-    "Mundo Deportivo",
-    "Record",
-    "Yahoo"
-   ],
-   "primera_vez": "2026-10-11T16:00+00:00",
-   "titulares": [
-    {
-     "medio": "Yahoo",
-     "titulo": "Serie A | Lazio 3-1 Monza: Special Nuno Tavares strike keeps Aquile on top",
-     "url": "https://sports.yahoo.com/articles/serie-lazio-3-1-monza-150000173.html",
-     "pub": "2026-10-11T15:00+00:00"
-    },
-    {
-     "medio": "Mundo Deportivo",
-     "titulo": "Lazio - Monza, en directo | Serie A",
-     "url": "https://www.mundodeportivo.com/futbol/serie-a/20261011/1004235400/lazio-monza-directo-serie.html",
-     "pub": ""
-    },
-    {
-     "medio": "Kicker",
-     "titulo": "Lazio - Monza: Tor zum 3:1 durch Pinamonti in der 88. Minute",
-     "url": "https://www.kicker.de/lazio-monza-tor-zum-3-1-durch-pinamonti-in-der-88-minute-1260224/video#omrss",
-     "pub": "2026-10-11T14:53+00:00"
-    },
-    {
-     "medio": "Foot Mercato",
-     "titulo": "Lazio : le pétard de Nuno Tavares contre Monza",
-     "url": "https://www.footmercato.net/a5728197747751726109-lazio-le-petard-de-nuno-tavares-contre-monza",
-     "pub": "2026-10-11T13:35+00:00"
-    },
-    {
-     "medio": "Record",
-     "titulo": "<![CDATA[ Golaço de Nuno Tavares abre triunfo da Lazio face ao Monza ]]>",
-     "url": "https://www.record.pt/internacional/paises/italia/detalhe/golaco-de-nuno-tavares-abre-triunfo-da-lazio-face-ao-monza",
-     "pub": "2026-10-11T15:14+00:00"
-    },
-    {
-     "medio": "Google News EN",
-     "titulo": "European football: Lazio maintain strong start with win over Monza",
-     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOR3MwUWxPdXNhUlZQdEVYR2NKX0pCVDVuaVMzS190OXdseTNLblVMdE1RUXdrYkY1MkVYaE1PNl90LXgzVzBnUWFkeXN5NWVJYXV3RWl1Yi1ZbENMcVVmbnZNMEFBOEx6RnRUbEc2V0xNLTQ5TTRRQ0tMTkVHSjc4UmZ0Tm1Md3FJYlkzX0VHT3pZZ0Z4alo1Sko2TjhnbHplU2lNNU1qM01EY0xvZS0xSy1oTlE?oc=5",
-     "pub": "2026-10-11T16:09+00:00"
-    },
-    {
-     "medio": "Yahoo",
-     "titulo": "Gattuso frustrated with Lazio despite 3-1 Monza win: ‘Like the second half against Milan’",
-     "url": "https://sports.yahoo.com/articles/gattuso-frustrated-lazio-despite-3-162000226.html",
-     "pub": "2026-10-11T16:20+00:00"
     }
    ]
   }

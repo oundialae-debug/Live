@@ -1,38 +1,35 @@
-# Tendencias de fútbol (2026-10-11 17:44 UTC, Google Trends)
+# Tendencias de fútbol (2026-10-11 18:50 UTC, Google Trends)
 
 Generado por el workflow `tendencias`. Úsalo para elegir temas de memes, curiosos y jugador vs jugador.
 
 | País | Búsqueda | Tráfico | Titular |
 |---|---|---|---|
-| UK | champions league | 500+ | Viking and the strong men |
-| UK | when will man city be punished | 200+ | Why we’re stuck with a Premier League in the clutches of the global mega-rich | Jonathan Wilson |
-| UK | fpl | 1000+ | Havertz, Isak, Dorgu … spate of injuries with national teams leaves sour taste for top clubs |
-| Spain | alcalde de madrid | 200+ | José Luis Martínez Almeida: “Soy el pequeño de seis hermanos y recomiendo la familia numerosa, aunqu |
-| Spain | milan | 200+ | Sassuolo - Milan, en directo: Serie A, hoy en vivo |
-| Spain | sevilla fútbol club | 200+ | EL SEVILLA FC, CONCENTRADO EN VALENCIA PARA CERRAR LA OCTAVA JORNADA |
-| Italy | juventus | 5000+ | LIVE Alle 20.45 Cagliari-Juve: Pisacane lancia Nzola, Spalletti con Conceiçao e Nico dietro a Kolo |
-| Italy | ac milan | 2000+ | Ramos, Pulisic, Moreira, Chukwueze: Milan Set for Super Offensive Line-up Against Sassuolo |
-| Italy | modena verona | 1000+ | Modena-Hellas Verona: le formazioni ufficiali |
-| Germany | tabelle bundesliga | 1000+ | Livestream - Sport-Highlights: Sportschau am Sonntag |
-| Germany | olympiakos – panathinaikos | 200+ | Is Armando 'Hormiga' Gonzalez Playing Today for Olympiacos vs. Panathinaikos? |
-| Germany | jets – browns | 200+ | Just five weeks in, the Jets are at an urgent crossroads against the Browns |
-| France | om | 2000+ | Troyes - OM, Ligue 1, match en direct le 11/10/2026 |
-| France | zamalek – al ahly | 200+ | 🔴 [Egyptian Championship] / Watch Zamalek - Ahly live on Foot Africa! (Live commentary) |
-| France | guardiola | 200+ | Liverpool - Manchester City, en directo | Última hora de Premier League en vivo hoy |
-| France | classement premier league | 1000+ | Chelsea surclasse Bournemouth, Brighton reste sur le podium de la Premier League après sa victoire à |
-| USA | kc concepcion | 5000+ | KC Concepcion ruled out with head injury, Browns cut Jets lead to 7-3 |
-| Argentina | juventus | 100+ | Juventus, i convocati per il Cagliari: Cabal e Cambiaso al rientro |
-| Argentina | cherki | 200+ | « Tricheurs » : l'accueil caustique réservé à Manchester City par les supporters de Liverpool avant  |
-| Argentina | wilfredo gómez | 100+ | Murió "Bazooka" Gómez, el mejor boxeador puertorriqueño que estableció un récord mundial de defensas |
-| Argentina | pep guardiola | 200+ | Pedro Rodríguez, ovacionado tras hacer el saque de honor del Barça-Getafe |
-| Brazil | juventus | 200+ | Spalletti: "Kolo si muova di più, Koop ha occhiali tridimensionali. Alla Juve sempre condannati a vi |
-| Brazil | zamalek x al ahly | 100+ | 🔴 [Egyptian Championship] / Watch Zamalek - Ahly live on Foot Africa! (Live commentary) |
-| Brazil | guardiola | 200+ | Liverpool - Manchester City, en directo | Última hora de Premier League en vivo hoy |
-| Portugal | milan | 100+ | Inter Milan vs Parma: Italian Serie A stats & head-to-head |
-| Portugal | ac milan | 200+ | Serie A: Sassuolo vs. Milan – Confirmed line-ups |
-| Portugal | betis - osasuna | 100+ | Betis - Osasuna en directo: LaLiga EA Sports hoy, en vivo |
-| Mexico | juventus | 200+ | Spalletti: "Kolo si muova di più, Koop ha occhiali tridimensionali. Alla Juve sempre condannati a vi |
-| Mexico | olympiacos - panathinaikos | 5000+ | How to Watch Olympiacos vs. Panathinaikos: Start Time, TV Channels, Streaming Details |
-| Mexico | pep guardiola | 200+ | Five in five: The Enzo Maresca era begins |
-| Mexico | friburgo vs. schalke 04 | 200+ | Football Bet of the Day: Freiburg to fire themselves to another three points on Sunday |
-| Mexico | bradley barcola | 100+ | Bradley Barcola interview: Liverpool adaptation, Man City test and Andoni Iraola 'intensity' |
+| UK | atlético mineiro vs santos | 200+ | Atlético Mineiro vs Santos: Brazilian Serie A stats & head-to-head |
+| UK | troyes vs marseille | 200+ | Troyes vs Marseille: French Ligue 1 stats & head-to-head |
+| UK | racing santander vs valencia | 200+ | Racing de Santander vs Valencia: Spanish La Liga stats & head-to-head |
+| Spain | morante de la puebla | 500+ | Toros en directo desde Madrid con Morante: horario y dónde verlo gratis por televisión |
+| Spain | troyes – marseille | 200+ | Ligue 1 (6e journée) : Suivez Troyes – OM EN DIRECT |
+| Spain | morante | 200+ | Morante de la Puebla frente al fantasma del 12-O, el reencuentro con el abismo de Madrid |
+| Spain | atlético mineiro - santos | 200+ | Escalação: sem Neymar, Santos terá Cebolinha titular contra o Atlético-MG; veja relacionados |
+| Spain | troyes - marsella | 200+ | Troyes - Marseille en directo |
+| Italy | andy burnham | 200+ | Why we’re stuck with a Premier League in the clutches of the global mega-rich | Jonathan Wilson |
+| Italy | scossa terremoto caserta | 500+ | Due scosse di terremoto di magnitudo 3.2 a distanza di un minuto l'una dall'altra sono state registr |
+| Germany | troyes – marseille | 200+ | Ligue 1 (6e journée) : Suivez Troyes – OM EN DIRECT |
+| France | ligue 1 plus | 10000+ | «Le problème, c'est que les mecs sont imprévisibles» : le gardien du Mans Nicolas Kocik raconte sa s |
+| France | gabriel attal | 5000+ | Présidentielle 2027 : à Dijon, Edouard Philippe et Gabriel Attal appellent au rassemblement, sans di |
+| Argentina | atlético mineiro - santos | 1000+ | Brasileirão: Cuca reencontra Atlético-MG e quer quebrar jejum do Santos |
+| Argentina | cagliari - juventus | 1000+ | Cagliari-Juventus, le formazioni ufficiali |
+| Argentina | coquimbo unido - colo-colo | 500+ | Cuándo juegan Coquimbo Unido vs. Colo Colo por la Liga de Primera: equipo, fecha y hora |
+| Brazil | atlético-go x sport recife | 2000+ | Ao vivo: Atlético-GO x Sport | Rodada 33 | Campeonato Brasileiro Série B |
+| Brazil | troyes x olympique | 5000+ | Melhores momentos: Minnesota United 2 x 2 Houston Dynamo FC (MLS) |
+| Brazil | atlético-mg x santos | 100000+ | Santos precisará quebrar tabu contra o Atlético-MG para manter série histórica |
+| Portugal | atlético-mg x santos | 200+ | Atlético-MG x Santos: onde assistir ao vivo, horário e escalações |
+| Portugal | atlético-mg - santos | 200+ | 📋 Neymar out: Atlético-MG and Santos line-ups set for Belo Horizonte clash |
+| Portugal | cagliari - juventus | 500+ | Cagliari-Juventus, le formazioni ufficiali |
+| Portugal | liverpool f.c. vs man city standings | 2000+ | Cherki cracker caps Manchester City win at Liverpool in face of Anfield taunts |
+| Mexico | san luis vs santos | 200+ | Atlético de San Luis vs Santos: posibles alineaciones y probabilidades |
+| Mexico | atlético mineiro - santos | 2000+ |  |
+| Mexico | troyes - marsella | 200+ | Troyes-OM : les compos probables avec Maupay en pointe et Gouiri incertain |
+| Mexico | cagliari vs juventus | 200+ | Official: Juventus squad list for Cagliari clash as eight still unavailable |
+| Mexico | cagliari - juventus | 2000+ | Pronostico Cagliari-Juventus: un momento cruciale nella corsa al vertice |
+| Mexico | coquimbo unido - colo-colo | 200+ | Cuándo juegan Coquimbo Unido vs. Colo Colo por la Liga de Primera: equipo, fecha y hora |
