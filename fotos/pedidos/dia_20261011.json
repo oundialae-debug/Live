@@ -1,9 +1,0 @@
-{"web": [
- {"noticia": "Neuer", "buscar": "Manuel Neuer Bayern Munich goalkeeper", "slug": "neu11", "n": 8, "dias": 5, "debe": ["neuer"]},
- {"noticia": "Ronaldo", "buscar": "Cristiano Ronaldo Portugal Al Nassr", "slug": "ron11", "n": 8, "dias": 3, "debe": ["ronaldo"]},
- {"noticia": "Mourinho", "buscar": "Jose Mourinho Real Madrid manager", "slug": "mou11", "n": 8, "dias": 3, "debe": ["mourinho"]},
- {"noticia": "Vinicius", "buscar": "Vinicius Junior Real Madrid", "slug": "vin11", "n": 8, "dias": 3, "debe": ["vinicius", "vinícius"]},
- {"noticia": "Yamal", "buscar": "Lamine Yamal Barcelona", "slug": "yam11", "n": 8, "dias": 5, "debe": ["yamal"]},
- {"noticia": "Carrick", "buscar": "Michael Carrick Manchester United manager", "slug": "car11", "n": 8, "dias": 3, "debe": ["carrick"]},
- {"noticia": "Zerbi", "buscar": "Roberto De Zerbi Tottenham manager", "slug": "zer11", "n": 8, "dias": 3, "debe": ["zerbi"]}
-]}
