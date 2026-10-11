@@ -2,10 +2,10 @@
 Uso: python3 scripts/noticia_marco.py spec.json out.jpg
 spec: {foto, crop:[x0,y0,w,h] (aspecto 4:3), tag, headline (html), sub, celdas:[[num,txt],..], pregunta}
 Fondo = la misma foto difuminada y oscurecida. Sin crédito de foto (usuario 07/10)."""
-import base64, io, json, sys
+import base64, io, json, os, sys
 from pathlib import Path
 from PIL import Image
-RES = Path("/home/claude/futbol-pipeline/redes/plantillas/recursos")
+RES = Path(os.environ.get("RECURSOS") or "/home/claude/futbol-pipeline/redes/plantillas/recursos")
 spec = json.load(open(sys.argv[1])); out = sys.argv[2]
 b64 = lambda p: base64.b64encode(Path(p).read_bytes()).decode()
 im = Image.open(spec["foto"]).convert("RGB")
@@ -38,7 +38,7 @@ h_ = f"""<style>@font-face{{font-family:A;src:url(data:font/woff2;base64,{b64(RE
 </div>"""
 from playwright.sync_api import sync_playwright
 with sync_playwright() as pw:
-    br = pw.chromium.launch(executable_path="/opt/pw-browsers/chromium"); pg = br.new_page(viewport={"width": 1080, "height": 1920})
+    br = pw.chromium.launch(**({"executable_path": "/opt/pw-browsers/chromium"} if Path("/opt/pw-browsers/chromium").exists() else {})); pg = br.new_page(viewport={"width": 1080, "height": 1920})
     pg.set_content(h_); pg.wait_for_timeout(400)
     # medir el bloque de texto: el último elemento no debe pasar de y=1540
     bottom = pg.evaluate("(()=>{const e=document.querySelectorAll('div');let m=0;e.forEach(x=>{const r=x.getBoundingClientRect();if(r.width<900&&r.height>0&&r.bottom<1919)m=Math.max(m,r.bottom)});return m})()")

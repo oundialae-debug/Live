@@ -1,0 +1,60 @@
+name: noticias
+# Cada hora (08:30-23:30 Madrid; el cron va en UTC y cubre verano e invierno, `noticias.py ventana` descarta lo que cae fuera de 08:00-23:45):
+# 1) lee ~34 medios y guarda las noticias NUEVAS (sin repetir) en redes/noticias/AAAA-MM-DD.jsonl con medio, titular, URL y fechas;
+# 2) si hay un tema grande nuevo, la IA (secreto GROQ_API_KEY) lo evalúa y, si pasa todos los filtros, dibuja 3 tarjetas, monta el
+#    vídeo y lo deja en la cola; 3) avisa a enviar-cola para que salga a Buffer en minutos. Reglas y límites: scripts/noticia_auto.py
+#    y redes/noticias/config.json ("modo": publicar | seco | off).
+on:
+  schedule: [{cron: "30 6-22 * * *"}]
+  workflow_dispatch:
+    inputs:
+      forzar: {description: "Escanear aunque sea fuera de horario (1)", required: false, default: "0"}
+permissions:
+  contents: write
+  actions: write
+concurrency: {group: noticias}
+jobs:
+  noticias:
+    runs-on: ubuntu-latest
+    env:
+      FORZAR: ${{ github.event.inputs.forzar }}
+      GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
+      CEREBRAS_API_KEY: ${{ secrets.CEREBRAS_API_KEY }}
+      MISTRAL_API_KEY: ${{ secrets.MISTRAL_API_KEY }}
+      GH_TOKEN: ${{ github.token }}
+    steps:
+      - uses: actions/checkout@v4
+      - id: v
+        run: python3 scripts/noticias.py ventana
+      - name: Escanear y guardar
+        if: steps.v.outputs.dentro == 'si'
+        run: |
+          python3 scripts/tendencias.py || true
+          python3 scripts/titulares.py
+          python3 scripts/noticias.py
+          python3 scripts/alertas.py
+          git config user.name "2yellow-bot"; git config user.email "bot@users.noreply.github.com"
+          git add redes/tendencias.md redes/titulares.md redes/alertas.md redes/noticias
+          git diff --cached --quiet && exit 0
+          git commit -m "noticias: escaneo [skip ci]"
+          for i in 1 2 3; do git pull --rebase -q && git push && break; sleep 5; done
+      - id: auto
+        if: steps.v.outputs.dentro == 'si'
+        run: python3 scripts/noticia_auto.py hay
+      - uses: actions/setup-python@v5
+        if: steps.auto.outputs.hay == 'si'
+        with: {python-version: '3.12'}
+      - name: Noticia automática (IA, tarjetas, vídeo, cola)
+        id: pub
+        if: steps.auto.outputs.hay == 'si'
+        run: |
+          pip install -q pillow "opencv-python-headless<5" playwright
+          python -m playwright install --with-deps chromium
+          command -v ffmpeg || (sudo apt-get update -qq && sudo apt-get install -y -qq ffmpeg)
+          git clone -q --depth 1 --filter=blob:none --sparse https://github.com/oundialae-debug/futbol-pipeline.git /tmp/fp
+          git -C /tmp/fp sparse-checkout set redes/plantillas/recursos
+          git config user.name "2yellow-bot"; git config user.email "bot@users.noreply.github.com"
+          RECURSOS=/tmp/fp/redes/plantillas/recursos python scripts/noticia_auto.py
+      - name: Avisar a enviar-cola (salir a Buffer ya)
+        if: steps.pub.outputs.publicado == 'si'
+        run: gh workflow run enviar_cola.yml
