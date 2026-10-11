@@ -1,5 +1,5 @@
 {
- "red": "instagram",
+ "red": "tiktok",
  "hora": "2026-10-11T12:30:00+02:00",
  "tipo": "previo",
  "partido": "Liverpool vs Man City",
@@ -8,5 +8,8 @@
  "video": "https://raw.githubusercontent.com/oundialae-debug/live/main/videos/pre_20261011_liv_mci.mp4",
  "variante": "primera=upset;seg=1.8;arranque=s0;hook=pregunta;ante=5;formato=video;musica=drill",
  "notas": "modelo poisson propio (datos_clubes.py pre); marco comprobado",
- "recordatorio": false
+ "recordatorio": false,
+ "estado": "enviado",
+ "buffer_id": "6acb641bed92ed8fa5fc8e5e",
+ "dueAt": "2026-10-11T12:30:00+02:00"
 }
