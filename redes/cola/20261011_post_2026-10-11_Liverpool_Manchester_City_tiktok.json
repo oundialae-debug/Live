@@ -1,0 +1,13 @@
+{
+ "red": "tiktok",
+ "hora": "2026-10-11T19:29:43+02:00",
+ "tipo": "post",
+ "partido": "Liverpool-Manchester City",
+ "text": "Liverpool 0-3 Man City\nExpected goals: 0.9 vs 1.3, Man City created more. Did the better team win?\n\n#football #PremierLeague #Liverpool #ManCity #fulltime",
+ "video": "https://raw.githubusercontent.com/oundialae-debug/live/main/media/post_partido/2026-10-11_Liverpool_Manchester_City.mp4",
+ "recordatorio": false,
+ "musica": "drill",
+ "variante": "seg=2.8;arranque=s1;hook=dato;musica=drill;formato=auto_post",
+ "notas": "post-partido automático (futbol-pipeline 1325368608, 6 tarjetas)",
+ "titulo": "Liverpool 0-3 Man City | Expected goals: 0.9 vs 1.3, Man City created more."
+}

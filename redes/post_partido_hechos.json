@@ -1,11 +1,5 @@
 {
- "en_curso": {
-  "1325368608": {
-   "arranque": "s1",
-   "musica": "drill",
-   "tarjetas": 6
-  }
- },
+ "en_curso": {},
  "partidos": {
   "1319169073": {
    "arranque": "s1",
@@ -18,6 +12,18 @@
    "resultado": "0-0",
    "tarjetas": 6,
    "video": "https://raw.githubusercontent.com/oundialae-debug/live/main/media/post_partido/2026-10-11_Como_AS_Roma.mp4"
+  },
+  "1325368608": {
+   "arranque": "s1",
+   "estado": "en_cola",
+   "fecha": "2026-10-11",
+   "hora": "2026-10-11T17:26:26+00:00",
+   "musica": "drill",
+   "partido": "Liverpool-Manchester City",
+   "publicar": "2026-10-11T19:29:43+02:00",
+   "resultado": "0-3",
+   "tarjetas": 6,
+   "video": "https://raw.githubusercontent.com/oundialae-debug/live/main/media/post_partido/2026-10-11_Liverpool_Manchester_City.mp4"
   },
   "1336420545": {
    "estado": "publicado_manual",
