@@ -1,4 +1,4 @@
-# Titulares de fútbol (2026-10-10 14:02 UTC, últimas 36 h)
+# Titulares de fútbol (2026-10-11 05:32 UTC, últimas 36 h)
 
 Generado por `scripts/titulares.py` (workflow `tendencias`). Leídos 26 de 34 medios; fuentes en `redes/fuentes.md`.
 
@@ -6,136 +6,140 @@ Generado por `scripts/titulares.py` (workflow `tendencias`). Leídos 26 de 34 me
 
 | Tema | Nº medios | Medios | Ejemplo |
 |---|---|---|---|
-| Arsenal | 18 | BBC, Daily Mail, Foot Mercato, Football Italia, FourFourTwo, Google News EN, Gua | Who changed the game? - player ratings for Arsenal v Leeds |
-| Ronaldo | 18 | Daily Mail, Foot Mercato, Google News AR, Google News EN, Google News ES, Guardi | Portugal suspend Cristiano Ronaldo after walking out on national team |
-| Cristiano | 18 | Daily Mail, Foot Mercato, Google News AR, Google News EN, Google News ES, Guardi | Portugal suspend Cristiano Ronaldo after walking out on national team |
-| Leeds | 17 | BBC, Daily Mail, Foot Mercato, FourFourTwo, Google News EN, Guardian, Kicker, L' | Who changed the game? - player ratings for Arsenal v Leeds |
-| Chelsea | 14 | BBC, Daily Mail, Foot Mercato, FourFourTwo, Google News EN, Guardian, L'Equipe,  | Palmer signs new Chelsea contract until 2034 |
-| Palmer | 13 | AS, BBC, Daily Mail, Foot Mercato, Google News EN, Guardian, L'Equipe, Mirror, M | Palmer signs new Chelsea contract until 2034 |
-| Portugal | 13 | AS, Daily Mail, Google News AR, Google News EN, Google News ES, Guardian, Infoba | Portugal suspend Cristiano Ronaldo after walking out on national team |
-| Tottenham | 11 | BBC, Daily Mail, Foot Mercato, FourFourTwo, Google News EN, Google News ES, Guar | Tottenham to fly to Marbella for training camp |
-| Manchester | 11 | Foot Mercato, FourFourTwo, Google News EN, Google News ES, Guardian, Infobae, L' | Managers react to Manchester City’s guilty verdict: ‘Uncertainty is not good for anyone’ |
-| Cole | 10 | Daily Mail, Foot Mercato, Google News EN, Guardian, L'Equipe, Mirror, Mundo Depo | Chelsea manager Alonso insists Cole Palmer is committed to playing for England |
-| Madrid | 10 | AS, Foot Mercato, Football Italia, Google News AR, Google News ES, L'Equipe, Mir | Jose Mourinho namechecks Mikel Arteta as he discusses Real Madrid job |
-| Man | 9 | BBC, Daily Mail, Google News EN, Mirror, Planet Football, Sky Sports, Yahoo, r/s | Arteta's conscience clear over Man City charges |
-| Bournemouth | 9 | Daily Mail, FourFourTwo, Google News EN, Guardian, Mirror, Mundo Deportivo, Sky  | Chelsea v Bournemouth, Sunderland v Brighton, and more: football – live |
-| Messi | 9 | AS, Foot Mercato, Google News AR, Infobae, Kicker, L'Equipe, Mirror, Ole, talkSP | &#8216;Miracle&#8217; Lionel Messi photo with Lamine Yamal set to spark wild chase |
-| Carrick | 8 | BBC, Daily Mail, Guardian, L'Equipe, Mirror, Planet Football, r/soccer (top día) | I've got my own questions on Man City case - Carrick |
-| Bruno | 8 | Daily Mail, Guardian, Kicker, Record, Sky Sports, ge.globo, r/soccer (top día),  | Bruno Guimarães completes Arsenal comeback to end Leeds’ unbeaten run |
-| Liverpool | 7 | Daily Mail, FourFourTwo, Google News EN, Mirror, Yahoo, ge.globo, talkSPORT | &#8216;I was embarrassed&#8217; &#8211; Jermaine Pennant reveals hidden battle during Arsenal and Liverpool ca |
-| European | 6 | BBC, Football Italia, Google News EN, Guardian, r/soccer (top día), talkSPORT | Time to rise? Ranking European football's sleeping giants |
-| Brighton | 6 | BBC, FourFourTwo, Google News EN, Guardian, Mundo Deportivo, Sky Sports | How Arteta's response to Brighton loss may shape Arsenal's next chapter |
-| Sunderland | 6 | Foot Mercato, FourFourTwo, Google News EN, Guardian, Mundo Deportivo, Sky Sports | Chelsea v Bournemouth, Sunderland v Brighton, and more: football – live |
-| Australia | 6 | Google News EN, Guardian, Infobae, Sky Sports, Yahoo, r/soccer (top día) | South Melbourne make history with Australia Cup win that could change the future too | Joey Lynch |
-| LIVE | 6 | Daily Mail, Google News EN, Kicker, Mirror, Sky Sports, talkSPORT | Rangers unchanged from last time out vs Kilmarnock LIVE! |
-| Villa | 6 | FourFourTwo, Google News AR, Google News EN, Mirror, Mundo Deportivo, Sky Sports | Aston Villa vs Brentford LIVE! |
-| Roberto | 6 | Daily Mail, Foot Mercato, FourFourTwo, Infobae, L'Equipe, Mirror | Tottenham to fly to Marbella for training camp immediately after Premier League clash with Man United - as Rob |
-| Arteta | 6 | Daily Mail, Infobae, Mirror, Mundo Deportivo, Yahoo, r/soccer (top día) | Mikel Arteta insists he has a clear conscience over Man City's guilty verdict - and remains tight-lipped over  |
+| Madrid | 14 | AS, Foot Mercato, FourFourTwo, Google News AR, Google News EN, Google News ES, I | Vini Jr held back by Real Madrid teammates as superstar explodes at referee after being sent off |
+| Ronaldo | 13 | BBC, Daily Mail, Foot Mercato, Google News AR, Google News EN, Google News ES, G | Ronaldo provisionally suspended by Portuguese FA |
+| Tottenham | 13 | BBC, Daily Mail, Foot Mercato, Football Italia, FourFourTwo, Google News EN, L'E | Tottenham grab a draw but who got 1/10 - Ratings for Man Utd v Spurs |
+| Villarreal | 13 | AS, Foot Mercato, FourFourTwo, Google News AR, Google News EN, Google News ES, G | Real Madrid’s Vinícius Júnior sent off for hair-pulling in victory over Villarreal |
+| Cristiano | 13 | Daily Mail, Foot Mercato, Google News AR, Google News EN, Google News ES, Guardi | Portugal suspend Cristiano Ronaldo after walking out on national team |
+| Man | 11 | BBC, Daily Mail, Football Italia, Google News EN, Mirror, Planet Football, Sky S | Solanke scores in added time as 10-man Spurs draw with Man Utd |
+| Carrick | 11 | BBC, Daily Mail, Foot Mercato, Google News EN, Guardian, Kicker, Mirror, Planet  | Boos, anguish & fading belief -'worrying day' for under-pressure Carrick |
+| Vinicius | 11 | AS, Foot Mercato, Google News EN, Google News ES, Kicker, L'Equipe, Mirror, Mund | Vinicius Jr sent off in Real win as Gordon scores first Barcelona goal |
+| Spurs | 10 | BBC, Daily Mail, Football Italia, Google News EN, Guardian, Infobae, Sky Sports, | Solanke scores in added time as 10-man Spurs draw with Man Utd |
+| Leeds | 10 | BBC, Daily Mail, Foot Mercato, FourFourTwo, Guardian, Mirror, Planet Football, g | Brilliant Guimaraes goal helps Arsenal fight back to beat Leeds |
+| Utd | 9 | BBC, Football Italia, Google News EN, Mirror, Planet Football, Sky Sports, Teleg | Solanke scores in added time as 10-man Spurs draw with Man Utd |
+| Chelsea | 9 | BBC, Daily Mail, Foot Mercato, Football Italia, FourFourTwo, Guardian, Infobae,  | Henderson scores twice as five-star Chelsea thrash Bournemouth |
+| Arsenal | 9 | BBC, Daily Mail, FourFourTwo, Guardian, Mirror, Planet Football, ge.globo, r/soc | Brilliant Guimaraes goal helps Arsenal fight back to beat Leeds |
+| Zerbi | 9 | BBC, Daily Mail, Foot Mercato, Football Italia, Google News EN, Kicker, Planet F | 'I kissed Rodrigo and said thanks' - De Zerbi 'liked' Spurs red card |
+| Bentancur | 9 | BBC, Daily Mail, Foot Mercato, Football Italia, Google News EN, Kicker, Record,  | 'Tottenham needs this reaction' - De Zerbi defends Bentancur red |
+| Manchester | 9 | Foot Mercato, FourFourTwo, Google News EN, Guardian, L'Equipe, Yahoo, ge.globo,  | Manchester United and Spurs come back to reality as City saga offers brief distraction | John Brewin |
+| Mourinho | 9 | AS, Foot Mercato, Google News ES, L'Equipe, Mirror, Mundo Deportivo, Record, Yah | Jose Mourinho embarrassed and Vinicius Jr sent off in incredible Real Madrid hair pull drama |
+| Inter | 8 | Foot Mercato, Football Italia, Google News AR, Infobae, L'Equipe, Yahoo, ge.glob | Inter coach Chivu: ‘Selfishness isn’t part of Pio Esposito’s vocabulary’ |
+| Bournemouth | 7 | BBC, Daily Mail, FourFourTwo, Guardian, Sky Sports, ge.globo, r/soccer (top día) | Henderson scores twice as five-star Chelsea thrash Bournemouth |
+| Barcelona | 7 | Daily Mail, Google News ES, Guardian, Infobae, Sky Sports, ge.globo, r/soccer (t | European football: Gordon boosts Barcelona, Neuer errors cost Bayern in draw |
+| Portugal | 7 | Daily Mail, Foot Mercato, Google News ES, Guardian, Infobae, Mirror, talkSPORT | Portugal suspend Cristiano Ronaldo after walking out on national team |
+| Brighton | 6 | BBC, Daily Mail, Foot Mercato, FourFourTwo, Google News EN, Guardian | Struijk sees red but Brighton march on with win against Sunderland |
+| Rodrigo | 6 | BBC, Daily Mail, Google News EN, Record, Yahoo, r/soccer (top día) | 'I kissed Rodrigo and said thanks' - De Zerbi 'liked' Spurs red card |
+| Milan | 6 | BBC, Foot Mercato, Football Italia, FourFourTwo, L'Equipe, Yahoo | AC Milan keen on Scott - Sunday's gossip |
+| Bayern | 6 | BBC, Google News ES, Guardian, Infobae, Mirror, r/soccer (top día) | Bayern strike late to avoid shock defeat at Augsburg |
 
 ## Titulares por medio
 
-**BBC** (30)
-- Who changed the game? - player ratings for Arsenal v Leeds
-- Time to rise? Ranking European football's sleeping giants
-- Palmer signs new Chelsea contract until 2034
-- Greek takeaways: What did we learn from Lionesses' win?
-- Who am I? Plus today's other quizzes
-- Arteta's conscience clear over Man City charges
-- Raphinha's brilliant Barcelona start interrupted by injury concerns
-- Delight for Scotland's Cuthbert after long summer of recovery
-- Wales hope pattern continues in Albania return
-- Man City whistleblower to remain in witness protection
-- I've got my own questions on Man City case - Carrick
-- Man City titles 'absolutely not' tainted - Maresca
+**BBC** (32)
+- Solanke scores in added time as 10-man Spurs draw with Man Utd
+- Henderson scores twice as five-star Chelsea thrash Bournemouth
+- Brilliant Guimaraes goal helps Arsenal fight back to beat Leeds
+- Struijk sees red but Brighton march on with win against Sunderland
+- Ipswich produce late fightback to stun winless Fulham
+- Brentford extend unbeaten start as Ajer secures draw at Aston Villa
+- Highlights and analysis on Match of the Day
+- Toxicity and uncertainty await Man City - will their season even matter?
+- Boos, anguish & fading belief -'worrying day' for under-pressure Carrick
+- 'I kissed Rodrigo and said thanks' - De Zerbi 'liked' Spurs red card
+- The rock behind Chelsea's entertainers: Midfield duo key for Blues
+- AC Milan keen on Scott - Sunday's gossip
 
-**Guardian** (22)
-- Chelsea v Bournemouth, Sunderland v Brighton, and more: football – live
+**Guardian** (20)
+- Carrick ‘massively disappointed’ after United drop points against 10-man Spurs
+- Why we’re stuck with a Premier League in the clutches of the global mega-rich | Jonathan Wilson
+- Henderson and João Pedro lead Chelsea charge against Bournemouth
 - Bruno Guimarães completes Arsenal comeback to end Leeds’ unbeaten run
-- Portugal suspend Cristiano Ronaldo after walking out on national team
-- Sliding Doors meets Biff’s Almanac: City saga stirs up a world of alternate histories | Max Rushden
-- The Premier League is back: welcome to the new era of post-verdict unreality | Barney Ronay
-- Managers react to Manchester City’s guilty verdict: ‘Uncertainty is not good for anyone’
+- Real Madrid’s Vinícius Júnior sent off for hair-pulling in victory over Villarreal
+- Ten-man Brighton continue fine form with battling win at Sunderland
+- Ipswich stun Fulham with last-gasp comeback to increase heat on Arbeloa
+- USWNT exposed by ruthless Spain as early goals settle heavyweight friendly
+- Aston Villa’s wait for home win goes on after Ajer hits back for Brentford
+- Manchester United and Spurs come back to reality as City saga offers brief distraction | John Brewin
 - Russo’s return to form is vital but Lionesses still lack bite against low blocks | Suzanne Wrack
-- West Ham’s penalty pain costs them top spot in Championship after QPR draw
-- Chelsea manager Alonso insists Cole Palmer is committed to playing for England
-- Oliver Glasner: ‘There was no plan for me to be Nottingham Forest manager’
-- Singapore GP, tasty Tests and the Premier League’s return – follow with us
-- Premier League team news: predicted lineups for the weekend action
+- European football: Gordon boosts Barcelona, Neuer errors cost Bayern in draw
 
 **Sky Sports** (20)
-- Arsenal come from behind to beat stubborn Leeds
-- Rangers unchanged from last time out vs Kilmarnock LIVE!
-- Bristol City extend Charlton's winless run to six games
-- Alcaraz displays new look in win at Shanghai Masters
-- Singapore GP: Hamilton in pole hunt after setting Q1 pace, Hadjar out early LIVE!
-- Priske penalty earns Birmingham narrow win over WBA
-- Swansea fight back to beat Norwich and extend Championship lead
-- 'McLaren will be furious!' - Was Norris to blame for Piastri collision?
-- Verstappen wins wet Singapore Sprint after Russell crashes
-- 'We win major trophies here': Palmer signs new Chelsea contract
-- Comeback complete! Bruno seals Arsenal victory over Leeds LIVE!
-- Sunderland vs Brighton LIVE!
+- Carrick must share burden of Man Utd's underperformance with his players
+- Van Gerwen dumped out of Swiss Darts Trophy as nightmare year goes on
+- Papers: Wenger urged to stand for FIFA presidency
+- Vinicius Jr sent off in Real win as Gordon scores first Barcelona goal
+- NFL Gameday Guide: Jags and Eagles land in London
+- Neville's Man Utd warning: 'Get a grip or face worrying few weeks'
+- Sherrock, Hayter qualify for Worlds as Greaves sweeps up on Women's Series
+- Rangers 3-1 Kilmarnock
+- Falkirk 1-2 Dundee
+- Dundee United 1-0 Hibernian
+- Solanke heads late equaliser for 10-man Spurs against Man Utd
+- Ten-man Spurs claim dramatic draw at Old Trafford as Man Utd booed off
 
-**talkSPORT** (40)
+**talkSPORT** (24)
+- Vini Jr held back by Real Madrid teammates as superstar explodes at referee after being sent off
+- Michael Carrick warned he&#8217;s &#8216;in trouble&#8217; as Manchester United sink to 40-year low against 10-man Spurs
+- Liverpool vs Man City Super Boost: Get EVS on Liverpool to win OR draw with talkSPORT BET
+- Arsenal given major injury scare as star carried off during warm down after Leeds win
+- Manuel Neuer howler leads to fastest goal in Bundesliga history
+- Robbie Savage makes stunning EFL debut to put Russell Martin in deep trouble
+- Arsenal make 27-year history during Leeds comeback win
 - LaLiga match abandoned after protest chaos sparks police intervention
 - New permanent manager appointed by first EFL club to sack boss this season
 - Cristiano Ronaldo hit with Portugal suspension as disciplinary investigation begins
 - EFL club swapping iconic colours with special edition kit for home clash
 - Premier League managers criticised for soft Man City stance and told to look at EFL boss
-- National League club sold to £5.3billion company days after sacking ex-Premier League player
-- Tottenham to leave UK immediately after Man United clash in rare decision
-- &#8216;Miracle&#8217; Lionel Messi photo with Lamine Yamal set to spark wild chase
-- &#8216;I was embarrassed&#8217; &#8211; Jermaine Pennant reveals hidden battle during Arsenal and Liverpool career
-- Arsenal vs Leeds 23/1 bet builder with bet365
-- talkSPORT tips – Best football bets and expert advice for Saturday 10 October
-- Tottenham happy to be called name again after previous request to the media
 
 **Daily Mail** (35)
-- Arsenal vs Leeds - Premier League LIVE: Bruno Guimaraes changes the game off the bench as sensational team goal secures win for the Gunners
-- Cristiano Ronaldo hit with Portugal suspension after walking out of international duty amid row with Jorge Jesus - as Portuguese FA opens di
+- 'Worried' Gary Neville tells struggling Man United stars to 'get a grip' after Spurs draw ahead of tough run - as he warns midfield duo CAN'
+- Liverpool's clash with Man City is a ghost game that may as well be played in a circus tent: Grudge match starts slow period of torture for 
+- Feckless Man United were dreadful and embarrassing at times in Spurs draw: Play like this in a week of reckoning and Michael Carrick will be
+- 'Hurt' Michael Carrick rues Man United's failure to kill game against 10-man Spurs - as Roberto De Zerbi reveals Rodrigo Bentancur's red car
+- 'Stupid' Rodrigo Bentancur sparks mass brawl after HEADBUTTING Luke Shaw as Spurs star is sent off in clash with Man United
+- Gritty rather than pretty but there's no stopping Brighton - even if Fabian Hurzeler refuses to entertain talk of a title push, writes ROSS 
+- Quick-fire Chelsea's speedy start too hot to handle for Bournemouth as Jordan Henderson rolls back the years - but there remains a major con
+- Arsenal boss Mikel Arteta bizarrely claims his 'EYES were in pain' after Brighton loss as he praises his side's response in victory over Lee
 - Jamie Carragher and Piers Morgan trade insults on social media as Liverpool legend brands broadcaster an 'absolute phoney' over his staunch 
-- Cole Palmer casually announces his new Chelsea contract on awkward mock livestream just HOURS before clash with Bournemouth - as Blues star 
-- Tottenham to fly to Marbella for training camp immediately after Premier League clash with Man United - as Roberto De Zerbi hopes trip to Sp
-- Man United and Spurs combined XI according to the stats: Bruno Fernandes and Kobbie Mainoo make the cut - but who is the surprise Tottenham 
-- Man City 'held secret settlement talks with Premier League before guilty verdict - and club could have got let-off with a FINE before they c
-- Dan Friedkin is typical of a festering indifference from Premier League owners - he'd prefer a round of golf to a chat with David Moyes and 
-- The glaring problems Roberto De Zerbi must fix ahead of Tottenham's crunch test at Man United, how his patience is starting to wear thin aft
-- Georgia Stanway reminds Sarina Wiegman she can always rely on her, Maya Le Tissier takes her chance - and a bright moment for one of the Lio
-- Riyad Mahrez risks infuriating wife Taylor Ward on Dele Alli's live stream with indiscreet comment about 'the birds in Dubai'
-- Chelsea vs Bournemouth - Premier League LIVE: Xabi Alonso looks to end slump as Bournemouth seek first win - with updates from across the 3p
+- Bruno Guimaraes rescues Arsenal off the bench to earn an unconvincing 2-1 win over Leeds - but alarm bells should be ringing for Mikel Artet
+- Cristiano Ronaldo hit with Portugal suspension after walking out of international duty amid row with Jorge Jesus - as Portuguese FA opens di
+- Extraordinary scenes as second tier club beats A-League giants Melbourne Victory to win Australia's biggest Cup trophy
 
 **Mirror** (25)
-- 'Mammoth game, Haaland factor' - Pundits split on Liverpool game as pressure builds on Man City
-- Man City charges LIVE: Settlement talks with Premier League as punishments agreed
-- Man Utd vs Tottenham TV channel, live stream and kick-off time
-- Brutal Mikel Arteta decision in Leeds win sets clock ticking on Arsenal career
-- Jose Mourinho namechecks Mikel Arteta as he discusses Real Madrid job
-- I try to manage like Jurgen Klopp - but an ex-Liverpool and Man City coach taught me more
-- Is Aston Villa vs Brentford on TV? Live stream info and kick-off time for Premier League clash
-- Is Chelsea vs Bournemouth on TV? Streaming info, kick-off time and how to follow live
-- Man Utd star may need surgery after latest injury setback causes Michael Carrick headache
-- Piers Morgan and Jamie Carragher’s social media row IN FULL as Liverpool icon hits back
-- English football stadium that held 82,000 knocked down and rubble used to decorate London park
-- Ex-England manager Roy Hodgson back in work aged 79 just months after Bristol City exit
+- Four mega stadiums under construction now from £28bn beast to 115,000 seater World Cup venue
+- David Beckham's staggering cash boost, upcoming Netflix series and son's family announcement
+- 'People say my dead dad's still alive – I block out conspiracies as I seek England career'
+- Liverpool news: Andoni Iraola forced to defend second player as Reds ready to raid Prem rival
+- Arsenal news: Mikel Merino's dad reveals exit terms as January swap deal available
+- Michael Carrick disagrees with Sky Sports pundit's Man Utd claim after blowing win vs Tottenham
+- Man City charges LIVE: Settlement talks with Premier League before punishments agreed
+- Jose Mourinho embarrassed and Vinicius Jr sent off in incredible Real Madrid hair pull drama
+- Michael Carrick addresses Man Utd boos amid fan backlash and addresses new 'reality'
+- Andy Carroll's abuser's own daughter labels him a 'monster' and would say sorry if they met
+- Five Liverpool players facing tough chats as Andoni Iraola reveals his golden rule
+- Michael Carrick instantly responded after Man Utd stars ignored advice - but it wasn't enough
 
-**Telegraph** (1)
+**Telegraph** (3)
+- Man Utd make worst start in 40 years after being hauled back by 10-man Spurs
+- Guimaraes looks a £75m bargain as ‘super sub’ makes difference
 - Lionesses take step closer to World Cup but do not look like they can win it
 
 **90min** (0)
 
 **Planet Football** (10)
+- The still impressive Premier League table since Michael Carrick took charge of Man Utd
+- The iffy Premier League table since Tottenham appointed Roberto De Zerbi
+- Comparing the stats of the main 2027 Ballon d’Or contenders: Kane, Yamal, Olise, Raphinha, Mbappe…
+- The 66 players in football history with 1000+ appearances: Messi, Ronaldo, Modric…
+- Can you name everybody to play for Man Utd & Tottenham in the Premier League?
+- Manuel Neuer responsible for breaking crazy Bundesliga record with absolute clanger
 - Why Arsenal fans shouldn’t worry about Ethan Nwaneri’s slow start at Borussia Dortmund
 - Can you name everybody to play for Arsenal & Leeds United since 1992?
 - Ranking every Man Utd manager since 1992 from worst to best: Carrick 6th…
 - When will Cristiano Ronaldo score his 1000th goal? Now just 20 away…
-- Sportword: Play daily football word game on Planet Sport
-- Planet Football Weekend Quiz: Ronaldinho, Golden Boy, Ballon d’Or, Arsenal vs Leeds & more
-- Arsenal vs Leeds is an English football classic and Daniel Farke’s final frontier
-- 30 years on, this ridiculous goalkeeper free-kick still defies belief
-- Can you name Leeds United’s XI that famously beat Arsenal in 2003?
-- Players with most goals in a calendar year in football history & where Kane currently ranks
 
-**FourFourTwo** (24)
+**FourFourTwo** (13)
+- Barry Hearn on why he loved John Sitton’s 'bring your f**king dinner’ rant
+- How to watch Real Madrid vs Villarreal for FREE: Live stream details for La Liga clash
 - Watch Manchester United vs Tottenham Hotspur: FREE streams
 - Streets-won’t-forget-football Lee Trundle looks back at the height of his “mad” career as he turns 50
 - Watch Ipswich Town vs Fulham: Live Streams and TV Channels
@@ -146,217 +150,215 @@ Generado por `scripts/titulares.py` (workflow `tendencias`). Leídos 26 de 34 me
 - Watch Arsenal vs Leeds United: FREE streams and TV channels
 - "The Ballon d'Or was my childhood dream. Milan said 'The only way to win it is by playing for us'" Andriy Shevchenko on on how he became the
 - FourFourTwo's Weekend Crossword 74: Bridesmaids, play-offs and viral memes
-- Viktor Gyokeres still shouldn't start for Arsenal - even with Kai Havertz injured
-- Is Alexander Isak fit for Liverpool vs Manchester City? Premier League injury update
 
 **Yahoo** (40)
-- Neuer makes bizarre blunder and concedes Bundesliga&#39;s fastest-ever goal
-- Cristiano Ronaldo provisionally suspended by Portugal after leaving national team
-- Real Madrid identify five midfield targets as Mourinho’s favourite comes with €100m price tag &#8211; report
-- 📸 Fastest Bundesliga goal ever! Neuer howler makes history
-- 📸 Neuer&#39;s unbelievable blunder after just 8 seconds 😱
-- Video: Calafiori completes great week with Arsenal and Italy goals
-- Barrow make two more additions to squad
-- Who changed the game? - player ratings for Arsenal v Leeds
-- Fabregas: &#8220;Roma are great, but we will do our best.&#8221;
-- Stats: Joan Garcia and David Soria reveal how Barcelona and Getafe approach football differently
-- 🚨 Arsenal survive a scare but beat Leeds !
-- Mikel Arteta reaction — Arsenal manager speaks after comeback win over Leeds
+- Cardiff lacked aggression in Rovers loss, says boss
+- Lucas Moura back, Calleri saves São Paulo in bounce-back win over Vitória
+- 📊 Check out the updated Brasileirão table after Saturday&#39;s matches
+- Querétaro saw off Atlante and maintained their excellent form
+- ¡Clásico Tapatío! confirmed XI`s for the Atlas v Chivas clash
+- Frustrated but &#39;not deterred,&#39; USWNT looks to Tuesday rematch after Spain exposes early lapses
+- Boos, anguish & fading belief -&#39;worrying day&#39; for under-pressure Carrick
+- &#39;I kissed Rodrigo and said thanks&#39; - De Zerbi &#39;liked&#39; Spurs red card
+- Lang lashes out at Conte: ‘This Napoli coach talks to me, which is new’
+- AC Milan keen on Scott - Sunday&#39;s gossip
+- Alvini: ‘Napoli 3-0 Frosinone result is too harsh on my team’
+- McTominay returns after heart surgery as Napoli beat Frosinone
 
 **Google News EN** (40)
-- Sports News, Transfers, Scores | Watch Live Sport
 - Scores & Fixtures - Football
-- JJ Gabriel: Manchester United could be forced to accept small fee for wantaway teen - Paper Talk | Football News
-- Arsenal 2-1 Leeds United: Have your say
-- Barrow make two more additions to squad
-- Northern Ireland 0-4 Portugal: NI debut 'something that I thought had passed' - Kess Elmore
-- Gateshead: Players hope to get paid quickly with sale of club agreed
-- Wales v Albania: Rhian Wilkinson's side hope pattern continues in Women's World Cup play-off semi-final
-- Sampdoria, Bordeaux, Real Zaragoza: Ranking European football's biggest sleeping giants
-- Reuben Egan: Worthing sign goalkeeper on dual registration
-- Sunderland vs Brighton predictions: Chris Sutton on Premier League game
-- Miles Bracking: Hornchurch extend midfielder's loan from Norwich City
+- USWNT exposed by ruthless Spain as early goals settle heavyweight friendly
+- Arsene Wenger urged to stand against Gianni Infantino for FIFA presidency - Paper Talk | Football News
+- Leicester 1-3 Peterborough
+- Cristiano Ronaldo: Portuguese FA provisionally suspend forward after leaving international camp
+- York 1-1 Northampton
+- Cheltenham 0-2 Salford
+- Brian Barry-Murphy: Cardiff not good enough in Blackburn Rovers defeat
+- Cambridge 1-0 Blackpool
+- Highlights - Premier League - Sunderland 0-2 Brighton & Hove Albion
+- Wycombe 1-4 Luton
+- Football gossip: Scott, Gabriel, Gomes, Kounde, Camara
 
 **AS** (27)
-- Mourinho corta la sangría
-- Alavés - Atlético hoy, en directo: partido de LaLiga EA Sports, en vivo
-- Barcelona - Getafe hoy, en directo: última hora de LaLiga EA Sports, en vivo
-- Real Madrid - Villarreal, en directo: previa y última hora de LaLiga EA Sports hoy, en vivo
-- Fernando Roig: “Somos lo que visualicé hace 30 años que seríamos”
-- La hora de Gabriel Jesús
-- Enamorará a los culés: la reacción del hermano de Lamine cuando se entera que Lewandowski ya no está en el Barça
-- La Premier se moja en el ‘caso City’: “Debe haber consecuencias”
-- Mercado de fichajes, en directo: rumores, altas y bajas de LaLiga, Premier, Serie A...
-- Quique Álvarez: “Hemos recuperado a bastantes futbolistas”
-- La revolución que no lo fue
-- El partido más difícil para Joan Martínez: jugó en Ibiza horas después de fallecer su abuela
+- Diomande saca del apuro a Mou
+- Vinicius, casi adiós al Clásico
+- Real Madrid 1-0 Villarreal: resumen, gol y resultado
+- Un récord en tercera
+- Baena lo dibuja, Cuti lo colorea
+- Las polémicas de la jornada 8 de LaLiga EA Sports: penaltis, expulsiones y jugadas controvertidas
+- Roncero y uno de los alegatos arbitrales más duros en tiempo con un contundente mensaje sobre Mourinho
+- We are Spain
+- Territorio propicio para el “vasco” Aguirre
+- Febas, ante el equipo de su “vida”
+- Arnau Tenas defiende su fortín
+- Dos caminos opuestos, tres supervivientes y un reencuentro de Primera
 
 **Mundo Deportivo** (40)
-- Cubarsí y Pedri, las grandes dudas de Flick
-- Este es el mensaje escrito en los aviones de papel que han provocado la suspensión del Rayo-Athletic
-- El Arsenal remonta ante el Leeds para celebrar la renovación de Arteta
-- La previa del Alavés - Atlético de Madrid, en directo
-- Oficial: la noticia más esperada por Ansu Fati
-- Ceuta - Sabadell, en directo | LaLiga HyperMotion: Segunda división de fútbol
-- ¡Protesta masiva, lluvia de objetos y suspensión! Las fotos del caótico Rayo vs. Athletic
-- Once con sorpresas de un Atlético con dinamita para los cambios
-- Barça Atlètic - SD Logroñés, en directo
-- Sunderland - Brighton and Hove Albion, en directo | Premier League
-- Ipswich Town - Fulham, en directo | Premier League
-- Chelsea - Bournemouth, en directo | Premier League
+- Un equipo para presumir
+- El Betis busca seguir soñando ante Osasuna
+- El Andorra busca confirmar su reacción ante un Castellón invicto
+- Elche y Celta, a consolidar su recuperación con una nueva victoria
+- Goles para reivindicarse
+- El Sardinero, punto de partida para el Valencia de Aguirre
+- El Liverpool-Manchester City 'post veredicto'
+- Continúa la jornada en el grupo 2 de Primera Federación
+- Cuatro encuentros para concluir la jornada en el grupo 2 de Segunda Federación
+- Previas de los siete partidos que cierran la jornada en el grupo 5 de Tercera Federación
+- Solo 13 minutos de fútbol
+- El cuento de nunca acabar
 
 **Google News ES** (40)
 - Hora y dónde ver gratis en TV los amistosos España - EEUU de fútbol femenino
+- Así fue la polémica expulsión de Vinicius ante el Villarreal: ¿se puede perder el Clásico por sanción?
+- España se lleva el primer asalto ante Estados Unidos (0-2)
 - La Federación portuguesa de fútbol abre un expediente disciplinario a Cristiano Ronaldo y le impone una “suspensión preventiva”
-- Síguela en directo
-- La Federación portuguesa abre un expediente disciplinario a Cristiano Ronaldo
-- "La única solución es la marcha de Presa y de todo su séquito": así era el comunicado de la afición del Rayo Vallecano presente en los avion
-- ¿Por qué el CD Castellón es recibido por hasta cuatro destacados clubs del fútbol inglés?
-- Ambar y Meyba lanzan una camiseta de fútbol retro de edición limitada con la histórica «Z» con espiga
-- El Ayuntamiento reconoce la histórica temporada del CD Marbella Fútbol Playa,...
-- PSG vs Le Mans: horario y dónde ver hoy por TV y online el partido de la Ligue 1 2026/27 a través de DAZN
-- Ajax vs NEC Nijmegen: horario y dónde ver hoy por TV y online el partido de la Eredivisie 2026/27 a través de DAZN
-- Mainz 05 – Bayer Leverkusen el partido de fútbol de Jornada 5 de la Bundesliga, en directo
-- Horario, canal y dónde ver por TV el Real Madrid - Villarreal de LaLiga EA Sports: Primera división de fútbol
+- José Bordalás hace historia con 868 partidos dirigidos en el fútbol español
+- Alineaciones Real Madrid vs Villarreal hoy: once inicial y banquillo de suplentes de José Mourinho y Iñigo Pérez para LaLiga 2026/27
+- España derrota a Portugal y se jugará el Mundialito ante Brasil
+- Cómo ver Atlas vs Chivas de Guadalajara en vivo: canales, streaming y horarios del Apertura de la Liga MX para España, México, Latinoamérica
+- Standard de Lieja vs Charleroi: horario y dónde ver hoy por TV y online el partido de la Jupiler Pro League 2026/27 a través de DAZN
+- Cómo ver Club América vs Monterrey en vivo: canales, streaming y horarios del Apertura de la Liga MX para España, México, Latinoamérica y US
+- ¿Quién es Javier Alberola Rojas? Árbitro del Elche vs Celta de la jornada 8 de LALIGA
+- Utrecht vs Willem II: horario y dónde ver hoy por TV y online el partido de la Eredivisie 2026/27 a través de DAZN
 
 **Gazzetta** (0)
 
 **Football Italia** (20)
-- Gasperini: ‘Roma and Como same level, cannot predict Real Madrid choices’
-- Video: Calafiori completes great week with Arsenal and Italy goals
-- Amorim: ‘Milan lack of mobility needed change, Serie A has high value’
+- Lang lashes out at Conte: ‘This Napoli coach talks to me, which is new’
+- Alvini: ‘Napoli 3-0 Frosinone result is too harsh on my team’
+- Allegri: ‘De Bruyne doesn’t like new role, what I told Hojlund’ in penalty farce
+- De Bruyne uncertain of new Napoli role: ‘I was always a Number 8 or 10’
+- Serie A | Napoli 3-0 Frosinone: De Bruyne inspires new approach
+- McTominay makes Napoli comeback 4 weeks after heart surgery
+- De Zerbi on Bentancur red card after Spurs draw with Man Utd: ‘I kissed him and said thanks’
+- Inter coach Chivu: ‘Selfishness isn’t part of Pio Esposito’s vocabulary’
+- What happened during Napoli penalty chaos for Allegri, De Bruyne and Hojlund
+- Italy talent Palestra finally makes Chelsea debut
+- Inter react to Parma win: Spence thanks ‘amazing’ fans, Thuram respects France omission
 - Serie A Liveblog: Napoli-Frosinone, Inter-Parma, Genoa-Fiorentina
-- Roma stunned as Svilar out for at least a month with stress fracture
-- Kean ruled out of Como vs. Roma after Italy injury
-- Spence: ‘I don’t get nervous anymore’ as Inter debut nears
-- Svilar a major Roma doubt for Como clash
-- Why new Juventus signing Neto will miss Cagliari game
-- Argentine stars set for Serie A showdown after Messi’s international farewell
-- Cannavaro’s Ballon d’Or verdict: ‘No doubt’ over winner, Mbappé snubbed
-- Cagliari send clear message to Inter and Juventus over Romano
 
 **Kicker** (20)
-- LIVE! Neuer-Patzer ermöglicht frühestes Tor der Bundesliga - Poulsen gedankenschnell - Chabot mit Köpfchen
-- Joker Bruno Guimaraes sorgt für die Wende: Arsenal bezwingt Leeds nach Rückstand
-- Genoa - Fiorentina: Tor in der 15. Minute
-- Genoa - Fiorentina: Tor zum 1:0 durch Osmajic in der 7. Minute
-- 0:3 in Magdeburg: Hannover geht beim Wagner-Debüt baden
-- Disziplinarverfahren eingeleitet: Cristiano Ronaldo vorläufig suspendiert
-- LIVE! Waldhof-Kantersieg in Aspach - Hansa knackt den FWK - Havelse geht baden
-- Regenschlacht von Nürnberg: Absurde Szenen und ein historischer Spielabbruch
-- LIVE! Bleibt Hannover II in Hamburg auf Siegkurs? - Schöningen hofft auf die Wende
-- "Warum sollte ich bereit sein?" Gündogan sorgt für Zündstoff
-- Oberhausen und BVB II feiern späte Arbeitssiege - Siegen fertigt Gütersloh ab
-- Jena feiert Arbeitssieg gegen Magdeburg II
+- Nagelsmann-Gerüchte in Leipzig: "Davon sind wir ganz weit entfernt"
+- Martinez lobt Andrich: "Er hat sich nicht nur um das Tor gekümmert"
+- "Massiv enttäuscht": Carrick nach verspieltem United-Sieg
+- De Zerbi nach Kopfstoß von Spurs-Profi Bentancur: "Ich habe ihn geküsst und Danke gesagt"
+- Tor, VAR-Check, Rot: Vinicius Junior mit unrühmlichem Abgang bei Real-Sieg
+- Von "grottenschlechten" Zebras zur Hollywood-Story: Remmerts Drittliga-Rekord in sechs Minuten
+- Keine Zeit zum Verschnaufen in Nürnberg: "Unfassbare Emotionen"
+- Trotz Doués Elfmeter-Fehlschuss: PSG feiert souveränen Sieg
+- Kompletter Torwart-Blackout bringt Lewandowski-Team auf die Siegerstraße
+- Rot statt Tor: Vinicius Junior fliegt bei Real-Sieg gegen Villarreal
+- "Jeder will Cristiano zurück": Portugals Verbandspräsident gibt sich versöhnlich
+- Paris SG - MAN: Elfmeter in der 93. Minute
 
 **L'Equipe** (40)
-- Arsenal renverse Leeds et rejoint provisoirement Manchester City en tête de la Premier League
-- Cristiano Ronaldo suspendu provisoirement par la Fédération portugaise après son départ prématuré du rassemblement de la sélection
-- Cuisance dans le bon sens
-- Mika Biereth, Takumi Minamino et Mamadou Coulibaly pas dans le groupe de Monaco pour la réception de Toulouse
-- «On peut se suivre partout» : Camara et Sané racontent leur improbable destin commun
-- Cole Palmer prolonge son contrat avec Chelsea jusqu'en 2034
-- Le groupe du PSG pour son retour en Ligue 1 face au Mans avec quatre absents et une première convocation pour Arthur Bar
-- Godts, l'heure reste aux questions
-- Roberto De Zerbi et Tottenham en stage commando à Marbella après leur match contre Manchester United
-- Kily Gonzalez : « Lionel Messi est à nous maintenant »
-- Mais qu'arrive-t-il à Vinicius ?
-- Pourquoi l'Argentine pourrait ne plus jouer au Stade Monumental
+- « Si on est toujours frustrés et tristes quand on gagne et quand on perd... » : Davide Ancelotti s'étonne des critiques sur le style de Lill
+- Contrats verrouillés, temps de jeu augmenté et formation valorisée : les raisons derrière le changement de cap de Nice et l'appel d'air pour
+- À Troyes, promu en Ligue 1, la réception de l'OM est une étape importante pour la reconquête du public
+- « On est dans une situation d'urgence » : pour un OM relégable, désormais, il est temps de gagner
+- Estéban Lepaul, une découverte à digérer et un statut à assumer à Rennes
+- Des habituels remplaçants décevants avant l'entrée de titulaires virevoltants : ce PSG n'a (vraiment) qu'un plan A et ça pourrait devenir pr
+- Après son carton rouge pour tirage de cheveux, Vinicius s'excuse puis se plaint sur les réseaux sociaux
+- Gabin Bernardeau, un premier but en Ligue 1 qui rapporte gros  : « Un sentiment indescriptible »
+- Patrick Videira, entraîneur du Mans : « J'ai dit à Vitinha d'y aller doucement »
+- Remonté contre l'arbitrage, José Mourinho boycotte la conférence de presse après la victoire du Real Madrid face à Villarreal
+- Luis Enrique, après le succès contre Le Mans : « 30 dernières minutes de très haut niveau »
+- Les notes de PSG-Le Mans
 
 **Foot Mercato** (40)
-- Real Betis : l’incroyable explosion du nouveau héros irlandais Troy Parrott
-- Ligue 2 : le Red Star s’impose à Clermont et prend la tête, Nantes accroché par Reims
-- Jamie Carragher allume Rio Ferdinand pour sa défense de CR7
-- PL : Arsenal renverse Leeds et revient à hauteur de Manchester City
-- PSG : qui est Arthur Bar, le nouveau Titi parisien convoqué par Luis Enrique
-- Liga : le match Rayo - Athletic définitivement interrompu !
-- La Fédération portugaise ouvre une procédure disciplinaire contre Cristiano Ronaldo
-- PSG : Mika Godts joue déjà très gros !
-- Barça : Laporta donne un indice sur la présence de Raphinha contre le PSG
-- Real Madrid : nouvelles révélations alarmantes sur la relation entre Kylian Mbappé et Vinicius Junior
-- FIFA : une femme pour succéder à Gianni Infantino ?
-- Barça : le groupe contre Getafe, sans Raphinha mais avec Joan Garcia
+- Patrick Videira, Le Mans : « j’ai dit à Vitinha d’y aller doucement »
+- PSG : Lucas Digne se confie sur les manifestations étudiantes
+- PSG : Luis Enrique réagit à la grève des ultras du Virage Auteuil !
+- Les Parisiens attendent de pied ferme le choc face à Manchester City
+- Real Madrid : Vinicius Junior sort du silence après son carton rouge polémique
+- Le Real Madrid enrage contre l’arbitrage et craint le pire pour Vinícius Júnior !
+- Real Madrid : José Mourinho a boycotté la conférence de presse d’après-match
+- PSG-Le Mans : brillant avant City, Maghnes Akliouche a enfin lancé sa saison !
+- Inter Milan : l’annonce forte de Benjamin Pavard sur l’équipe de France
+- PSG : Luis Enrique défend sa gestion d’effectif contre Le Mans
+- PSG : la réaction à chaud de Maghnes Akliouche
+- Liga : le Real Madrid s’impose contre Villarreal grâce à Yan Diomandé, mais perd Vinicius Jr
 
 **Record** (20)
-- <![CDATA[ Luís Montenegro, Pedro Proença, Reinaldo Teixeira e Luciano Gonçalves juntos em cerimónia de inauguração ]]>
-- <![CDATA[ Augsburgo-Bayern, em direto ]]>
-- <![CDATA[ Génova-Fiorentina, em direto ]]>
-- <![CDATA[ Marco Silva e a polémica na Seleção: «Que as coisas se resolvam da melhor forma para o nosso País» ]]>
-- <![CDATA[ Marco Silva e as palavras de Fred sobre Durán: «Estavam em amena cavaqueira...» ]]>
-- <![CDATA[ Chelsea-Bournemouth, em direto ]]>
-- <![CDATA[ Marco Silva explica situação clínica do plantel: quatro baixas para Guimarães ]]>
-- <![CDATA[ Vasco Seabra: «Temos de ser mais equipa e não me vou agarrar a desculpas» ]]>
-- <![CDATA[ Novo protesto em Vallecas: adeptos atiram aviões de papel para o relvado e jogo fica suspenso ]]>
-- <![CDATA[ Arsenal vence o Leeds em casa no regresso da Premier League  ]]>
-- <![CDATA[ Cole Palmer renova pelo Chelsea até 2034: «Vamos vencer grandes troféus» ]]>
-- <![CDATA[ Donald Trump chama Mike Tyson ao palco durante comício em Nova Iorque ]]>
+- <![CDATA[ Apoio massivo teve direito a brinde: Pietuszewski ofereceu camisola aos adeptos do FC Porto ]]>
+- <![CDATA[ Sporting reúne sócios para Assembleia Geral este domingo: os pontos em discussão ]]>
+- <![CDATA[ Rodrigo Zalazar é carta fora do baralho do Sporting para a visita ao Lens na Liga dos Campeões ]]>
+- <![CDATA[ Bah certo e Sudakov talvez: Marco Silva com boas notícias antes do jogo com o V. Guimarães ]]>
+- <![CDATA[ Madalena Costa bate novo recorde e sagra-se bicampeã mundial de patinagem artística livre ]]>
+- <![CDATA[ Echeverri entra na luta por um lugar no onze do Benfica ]]>
+- <![CDATA[ Vasco Vaz: «Parabéns à Espanha. Foi mais consistente do que nós» ]]>
+- <![CDATA[ João Cruz sagra-se campeão mundial júnior de patinagem artística livre ]]>
+- <![CDATA[ Fabiano no radar do Marítimo ]]>
+- <![CDATA[ Pedro Lencart vence pela segunda vez em três anos no Open da Terceira ]]>
+- <![CDATA[ Pedro Andrade empossado como presidente do Paços de Ferreira ]]>
+- <![CDATA[ Vasco Matos desiludido: «É um momento de reflexão, não estamos contentes» ]]>
 
 **Ole** (10)
-- Con el Cuti y Giuliano titulares, el Atlético visita al Alavés por LaLiga
-- Paredes lesionado: los videos que preocupan a todo Boca
-- Crece la tensión: Cristiano Ronaldo fue suspendido en Portugal
-- Todas derrotas: Etcheverry, Tirante, Ugo Carabelli y Juanma Cerúndolo se despidieron del Masters de Shanghai
-- Ya se sabe qué le pasó al auto de Colapinto y qué cambios deberá hacerle Alpine
-- El gran ciclo de Vaccari en Defensa: de heredar un presente turbulento a ilusionarse con el primer puesto del Clausura
-- Fue el primer 10 después de Maradona, postuló a Enzo Fernández y siente que el heredero tendrá la bendición de Messi
-- La Liga Femenina abre su 10ª temporada con récord de 20 equipos
-- Los memes por el error de Lando Norris que hizo abandonar a su compañero
-- A qué hora juega River vs. Estudiantes (RC) y cómo ver hoy EN VIVO el Torneo Clausura
+- Ahora, el árbitro estrella es Andrés Gariano
+- El antes y el después de Cabo Verde a 100 días de haber puesto a la Argentina contra la pared
+- Ponzio: "Quedan cinco finales"
+- A qué hora corre Franco Colapinto por el GP de Singapur y dónde ver hoy EN VIVO la carrera de Fórmula 1
+- De no creer: Acuña predijo su gol ante Estudiantes RC
+- La cargada oficial de Barracas Central luego de ganarle a Huracán
+- River le ganó por la mínima a un flojo Estudiantes de Río Cuarto que perdió la categoría
+- Poné tus puntajes para los jugadores de River luego del triunfo contra Estudiantes (RC)
+- Otamendi: “El objetivo es ganar los cinco partidos que quedan”
+- El uno por uno de River en el triunfo contra Estudiantes de Río Cuarto
 
 **Infobae** (40)
-- Tras el abandono en la Sprint, Franco Colapinto afronta la clasificación para el Gran Premio de Singapur de Fórmula 1: avanzó a Q2
-- Escandaloso accidente entre los McLaren a metros del final de la Sprint: Lando Norris se tocó con Oscar Piastri y lo dejó fuera de carrera
-- La graciosa reacción de Checo Pérez al ver en vivo el insólito accidente de los McLaren en plena entrevista
-- River Plate buscará ingresar a zona de Playoffs ante un Estudiantes de Río Cuarto que puede descender: hora, TV y formaciones
-- El momento del abandono de Franco Colapinto en la Sprint del GP de Singapur detrás del auto de seguridad: qué le pasó a su Alpine
-- Franco Colapinto abandonó en la Sprint de Singapur: Verstappen ganó una carrera de F1 que tuvo un accidente insólito entre los McLaren en el
-- Tras el choque a su compañero, Norris fue superado por Verstappen en el Campeonato y Racing Bulls estiró la brecha con Alpine: las tablas de
-- Las estremecedoras imágenes del violento robo que sufrió en la casa de sus hijos el ex futbolista de Boca Juniors Clemente Rodríguez
-- A 50 años del récord ganador de Roberto Mouras en el TC y el triste final de su auto, el mítico “7 de Oro”
-- La revolución histórica del TC 2000: las nuevas marcas chinas y un gigante de la Fórmula 1 que podría sumarse
-- El argentino Francisco Prado tendrá una pelea en UFC buscando cambiarlo todo: “Sé que puedo, soy peligroso”
-- Defensa y Justicia venció 2-0 a Unión de Santa Fe y quedó como escolta de su zona en el Torneo Clausura
+- Es ídolo de San Lorenzo, pasó por Boca y jugó en la Selección: “Cuando dejé el fútbol me agarró una depresión muy grande”
+- Es argentino, tiene 11 años y fue captado por la academia de Fernando Alonso: “Mi sueño es llegar a la Fórmula 1”
+- 6 frases de Leonardo Ponzio tras la victoria de River Plate: el juvenil que elogió y la deuda pendiente del equipo
+- El argentino Francisco Prado logró un triunfo demoledor en la UFC y cortó una racha de cuatro derrotas seguidas
+- River Plate le ganó 1-0 a Estudiantes de Río Cuarto, se arrimó a puestos de Playoffs y selló el descenso de su rival a la B Nacional
+- Tras la victoria de Barracas Central que condicionó a River, así están las tablas del Torneo Clausura y la Tabla Anual
+- Estudiantes de Río Cuarto cayó con River Plate y descendió a la Primera Nacional: la histórica racha negativa
+- Con dos tantos de Lionel Messi, el Inter Miami goleó 4-0 al DC United y volvió a la victoria en la MLS
+- El show de Messi en Inter Miami tras su despedida de la selección argentina: los dos golazos en el triunfo ante DC United
+- Banfield le ganó 2-1 a Tigre, que encadenó su quinta derrota consecutiva en el Torneo Clausura: la agenda completa del sábado
+- Ariadna Palacios debutó como árbitra principal en la Primera B Metropolitana y marcó un nuevo hito en el fútbol argentino
+- Javier Frana contó una anécdota con Maradona tras ganar el bronce en los Juegos Olímpicos de Barcelona 92: “Entrenamos en los Lagos de Paler
 
 **Google News AR** (40)
-- La Federación Portuguesa de Fútbol confirmó la suspensión provisional de Cristiano Ronaldo por abandonar la concentración de la selección
-- Liga Regional de Fútbol. Varios enfrentamientos de inferiores fueron suspendidos
-- Villa La Angostura vive una verdadera fiesta del fútbol infantil con la 8ª edición de la Patagonia Cup
-- El fútbol y la promoción de las casas de apuestas
-- Liga Regional de Fútbol: Suspendida la fecha de Sub 15 femenina
-- Partidos de HOY, sábado 10 de octubre: horario y por dónde ver fútbol EN VIVO :: Olé - ole.com.ar
-- Estos son los partidos del fútbol argentino para hoy, sábado 10 de octubre de 2026
-- La Federación Portuguesa de Fútbol sancionó a Cristiano Ronaldo tras abandonar la concentración
-- El Mundialito de fútbol infantil reúne a 42 clubes y 124 equipos en Trenque Lauquen
-- Fútbol, justicia y poder: el juez mendocino que formó parte de la decisión clave de la Corte
-- Aprobó una ampliación millonaria: de cuánto es el impulso para el club de Messi
-- Grave: apuñalan a un adolescente tras un partido de fútbol
+- FÚTBOL JUVENIL: TRES VICTORIAS DE DEFENSA ANTE UNIÓN
+- Fin del fútbol gratis en el Ascenso: la AFA confirmó el precio de LPF Play
+- PRUEBA DE JUGADORAS PARA EL FÚTBOL FEMENINO JUVENIL
+- Selección femenina de Brasil vence 3-1 a Argentina en amistoso
+- La árbitra Ariadna Palacios hizo historia en el fútbol argentino: se convirtió en la primera mujer en dirigir un partido en la Primera B Met
+- Es ídolo de San Lorenzo, pasó por Boca y jugó en la Selección: “Cuando dejé el fútbol me agarró una depresión muy grande”
+- Qué canal pasa Argentina vs Brasil hoy: dónde ver gratis y EN VIVO el amistoso internacional
+- Fútbol libre de riesgo: dónde ver Inter Miami vs. DC United por TV y ONLINE, EN VIVO
+- Finalizó la etapa clasificatoria del fútbol Femenino: resultados de este sábado
+- Murió un hombre de 63 años jugando al fútbol en Ruta 99
+- Fútbol Local: Loma Negra y Municipales terminaron iguales
+- Checho Fútbol Club gritó campeón en el Provincial de Futsal de Tres Lagos
 
 **ge.globo** (40)
-- Chelsea x Bournemouth - Campeonato Inglês 2026/27 - Ao vivo - globoesporte.com
-- Arsenal vira contra o Leeds com golaço de Bruno Guimarães
-- Wesley Natã aproveita chance no Fluminense e recebe elogio de colegas  e de Marcão: "Coragem e ousadia"
-- Porto Velho e Genus decidem o título do Rondoniense Feminino Sub-17 no domingo: "Lutar pelo troféu"
-- Cristiano Ronaldo é suspenso pela federação portuguesa após abandonar seleção
-- Emiliano Díaz comenta recusa ao Corinthians, cita lealdade e promete: "Um dia eu vou voltar"
-- Craque do Chelsea, Cole Palmer renova contrato até 2034
-- Cartola: Palmeiras puxa fila dos jogadores que estão bem; veja o Mapa da Mitada da rodada #30
-- Coletivo em Cotia, assistência e idolatria: como foi o último teste de Lucas antes de voltar ao São Paulo
-- Criciúma tem desfalque de zagueiro titular para enfrentar o América-MG; veja provável time
-- Palpite ge 2026: veja as apostas de apresentadores e comentaristas para a 30ª rodada do Brasileirão
-- Isa Haas lidera índice de titularidade entre jogadoras convocadas na Seleção
+- Pedrinho dá duas assistências em 100º jogo pelo Zenit e brilha em confronto direto pelo título russo
+- Atlético-MG x Santos: onde assistir ao vivo, horário e escalações
+- Dorival expõe problemas no CT do São Paulo e desabafa: "Um dos trabalhos mais complicados"
+- Lucas volta depois de cinco meses e chora em vitória do São Paulo: "Como se fosse o primeiro jogo"
+- Djhordney recebe o terceiro cartão amarelo e desfalca o São Paulo contra o Vasco
+- Atuações do São Paulo: Lucas volta bem, e Calleri decide no Morumbis; dê suas notas
+- Flamengo vence Brasília e conquista o bicampeonato do Torneio Abertura do NBB
+- Zayn, ex-One Direction, usa camisa do Flamengo em show no estádio do Palmeiras: "Gosto do time"
+- Messi marca duas vezes na volta ao Inter Miami após despedida da Argentina e chega a 934 gols
+- Cuiabá x Avaí: onde assistir ao vivo, horário e escalações
+- Real Madrid sofre, mas vence Villarreal em jogo com gol anulado e expulsão de Vini Jr.
+- Pedro Emanuel lamenta "exibição cinzentinha" do Vasco e projeta jogo contra o Boca: "Podemos ser competitivos"
 
 **r/soccer (top día)** (25)
-- Decision made: Portugal set to suspend Cristiano Ronaldo
-- Al Nassr [1]-0 Al Diriyah - Cristiano Ronaldo 23'
-- Manchester City Held Settlement Talks With the Premier League Over Financial Breaches (Exclusive) | The settlement would’ve focused on a siz
-- Roda JC's Mitchel Paulissen calls for a penalty after taking a free kick, before realizing he's scored a goal
-- Just hours after the PL charged Man City with 115 breaches of financial rules, Khaldoon Al Mubarak had a meeting with then UK finance minist
-- Borussia Dortmund 2-[2] Werder Bremen - Niclas Fullkrug 90+2'
-- Atlético de Madrid mocks Valverde's supposed Grade 3 strain on social media: "We would like to congratulate @RealMadrid for continuing to m
-- [Athletic] City's reported income from sponsorships is the highest in football
-- Gary Neville "It would be extremely difficult to watch Manchester City win the league this year. If they lift the Premier League title in Ma
-- Semi-Professional 2nd tier club South Melbourne wins the Australia Cup, beating A-League side Melbourne Victory in a penalty shootout in the
-- Real Madrid have reached out to Scott McTominay's agent as the Scottish midfielder has had extension talks break down with Napoli. Further a
 - The moment 2nd tier australian club South Melbourne beat A-League side Melbourne Victory to win Australian Cup.
+- Antonio Rudiger shielding the Referee from Vini. Jr as he's sent off hair pulling
+- Vinicius Junior (Real Madrid) straight red card against Villarreal 73'
+- Tondela [1] - 0 Torreense - Rodrigo Cascavel 90’
+- Manchester United have had their worst start to the season in 40 years
+- Manchester United 1 - [1] Tottenham Hotspur - Dominic Solanke 90+2'
+- [Athletic] City's reported income from sponsorships is the highest in football
+- Semi-Professional 2nd tier club South Melbourne wins the Australia Cup, beating A-League side Melbourne Victory in a penalty shootout in the
+- Tottenham's current run of games without a win when conceding first
+- Erling Haaland on the hostile atmosphere at Anfield: "I hope it's like that, it should be like that when Man City go to Liverpool and Anfiel
+- Rodrigo Bentancur (Tottenham Hotspur) straight red card against Manchester United 89'
+- Chelsea [5] - 1 Bournemouth - J. Henderson 70'
 
 Fallaron: ESPN (ParseError), Goal (HTTPError), Independent (ParseError), Football365 (HTTPError), Marca (HTTPError), Sport (HTTPError), Calciomercato (HTTPError), TN (HTTPError)
