@@ -1,3 +1,5 @@
+> **REGLA GENERAL (usuario 11/10): en CUALQUIER publicación, fotos ACTUALES** (de los últimos días, camiseta de esta temporada, búsqueda web sin mirar derechos). Nunca fotos de archivo ni de Wikipedia/Commons salvo que la web no dé nada (y entonces se avisa al usuario).
+
 # 2yellow (@2yellowdata) — playbook diario de redes
 
 Cuenta: TikTok + Instagram, contenido EN INGLÉS. Texto/hashtags: 5 hashtags. NUNCA "Data, not betting advice. 18+" ni en imágenes ni en descripciones (usuario 06/10: confunde al algoritmo). Nada de vocabulario de apuestas en títulos (bookies, tips, odds).
