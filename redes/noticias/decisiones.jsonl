@@ -2,3 +2,7 @@
 {"t": "2026-10-11T16:15+00:00", "estado": "seco", "temas": ["Palace", "Crystal"], "clave": "crystal-palace-forest-3-1", "video": "https://raw.githubusercontent.com/oundialae-debug/live/main/media/noticias/2026-10-11_1814_crystal-palace-forest-3-1.mp4", "texto": "Crystal Palace secured a 3-1 victory over Nottingham Forest on Oliver Glasner’s return, but the manager faces a vitriolic fan reaction. Will Palace build on this win?\n#CrystalPalace #NottinghamForest #PremierLeague #Glasner #Result"}
 {"t": "2026-10-11T16:48+00:00", "estado": "descartar", "temas": ["Tottenham", "Spurs"], "clave": "spurs-red-card-draw", "motivo": "falta question"}
 {"t": "2026-10-11T17:46+00:00", "estado": "publicado", "temas": ["Messi"], "clave": "messi-intermiami-double", "video": "https://raw.githubusercontent.com/oundialae-debug/live/main/media/noticias/2026-10-11_1946_messi-intermiami-double.mp4"}
+{"t": "2026-10-11T17:46+00:00", "estado": "revisar", "temas": ["Arsenal"], "clave": "arsenal-leeds-comeback", "motivo": "categoría sensible: injury"}
+{"t": "2026-10-11T17:46+00:00", "estado": "descartar", "temas": ["Milan"], "clave": "milan-sassuolo-preview", "motivo": "importancia 6 < 7"}
+{"t": "2026-10-11T17:46+00:00", "estado": "descartar", "temas": ["Everton", "Hull"], "clave": "hull-everton-draw", "motivo": "importancia 5 < 7"}
+{"t": "2026-10-11T17:46+00:00", "estado": "descartar", "temas": ["Southampton"], "clave": "southampton-portsmouth-derby", "motivo": "importancia 5 < 7"}
