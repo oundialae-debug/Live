@@ -1,5 +1,5 @@
 {
- "red": "instagram",
+ "red": "tiktok",
  "hora": "2026-10-11T12:00:00+02:00",
  "tipo": "meme",
  "partido": "Ronaldo 980 / suspendido por Portugal",
@@ -9,5 +9,8 @@
   "https://raw.githubusercontent.com/oundialae-debug/live/main/media/20261011_ronaldo_suspendido.jpg"
  ],
  "variante": "hook=pregunta;formato=meme_comparativa;hora=12;momento=noticia_dia",
- "notas": "Al Jazeera 10/10 (suspension provisional, 1-6 meses segun reports, cita 'no mitigating circumstances') + titulares 13 medios; 980 Sky/beIN; jurado 3 subagentes 8/7/8=7,7 [cola]; dato nuevo vs 10/10 = suspension"
+ "notas": "Al Jazeera 10/10 (suspension provisional, 1-6 meses segun reports, cita 'no mitigating circumstances') + titulares 13 medios; 980 Sky/beIN; jurado 3 subagentes 8/7/8=7,7 [cola]; dato nuevo vs 10/10 = suspension",
+ "estado": "enviado",
+ "buffer_id": "6acb5b3df91f772d45c21428",
+ "dueAt": "2026-10-11T12:00:00+02:00"
 }
