@@ -1,5 +1,5 @@
 {
- "generado": "2026-10-11T16:04+00:00",
+ "generado": "2026-10-11T16:09+00:00",
  "temas": [
   {
    "tema": "Liverpool",
@@ -1055,6 +1055,95 @@
    ]
   },
   {
+   "tema": "Messi",
+   "medios": 8,
+   "lista_medios": [
+    "Foot Mercato",
+    "Football Italia",
+    "Google News AR",
+    "Infobae",
+    "L'Equipe",
+    "Ole",
+    "ge.globo",
+    "talkSPORT"
+   ],
+   "primera_vez": "2026-10-11T16:00+00:00",
+   "titulares": [
+    {
+     "medio": "talkSPORT",
+     "titulo": "&#8216;Miracle&#8217; Lionel Messi photo with Lamine Yamal set to spark wild chase",
+     "url": "https://talksport.com/football/4635391/lionel-messi-lamine-yamal-photo-topps-stadium-club-chrome/",
+     "pub": "2026-10-10T09:01+00:00"
+    },
+    {
+     "medio": "Football Italia",
+     "titulo": "Nico Paz: ‘Two amazing weeks with Messi, I don’t know about his no.10 shirt’",
+     "url": "https://football-italia.net/nico-paz-two-amazing-weeks-with-messi/",
+     "pub": "2026-10-11T15:46+00:00"
+    },
+    {
+     "medio": "L'Equipe",
+     "titulo": "Auteur d'un doublé, Lionel Messi jubile encore avec l'Inter Miami",
+     "url": "https://www.lequipe.fr/Football/Actualites/Auteur-d-un-double-lionel-messi-jubile-encore-avec-l-inter-miami/1724902#at_medium=RSS_feeds",
+     "pub": "2026-10-11T06:47+00:00"
+    },
+    {
+     "medio": "Foot Mercato",
+     "titulo": "Inter Miami : le nouveau doublé de Lionel Messi après ses adieux à l’Argentine",
+     "url": "https://www.footmercato.net/a8354376357581106776-inter-miami-le-nouveau-double-de-lionel-messi-apres-ses-adieux-a-largentine",
+     "pub": "2026-10-11T08:05+00:00"
+    },
+    {
+     "medio": "Infobae",
+     "titulo": "La sentida carta para Messi de un integrante del cuerpo técnico de la selección argentina tras su despedida: “El vacío será enorme”",
+     "url": "https://www.infobae.com/deportes/2026/10/11/la-sentida-carta-para-messi-de-un-integrante-del-cuerpo-tecnico-de-la-seleccion-argentina-tras-su-despedida-el-vacio-sera-enorme/",
+     "pub": "2026-10-11T10:42+00:00"
+    },
+    {
+     "medio": "Infobae",
+     "titulo": "Con dos tantos de Lionel Messi, el Inter Miami goleó 4-0 al DC United y volvió a la victoria en la MLS",
+     "url": "https://www.infobae.com/deportes/2026/10/10/tras-su-despedida-con-la-seleccion-argentina-lionel-messi-volvera-a-jugar-con-inter-miami-por-la-mls-hora-tv-y-formaciones/",
+     "pub": "2026-10-11T01:49+00:00"
+    },
+    {
+     "medio": "Infobae",
+     "titulo": "El show de Messi en Inter Miami tras su despedida de la selección argentina: los dos golazos en el triunfo ante DC United",
+     "url": "https://www.infobae.com/deportes/2026/10/11/el-show-de-messi-en-inter-miami-tras-su-despedida-de-la-seleccion-argentina-los-dos-golazos-en-el-triunfo-ante-dc-united/",
+     "pub": "2026-10-11T01:38+00:00"
+    },
+    {
+     "medio": "Infobae",
+     "titulo": "El divertido mensaje de Lionel Messi al equipo de su sobrino que jugará la Copa Potrero que organiza el Kun Agüero",
+     "url": "https://www.infobae.com/deportes/2026/10/10/el-divertido-mensaje-de-lionel-messi-al-equipo-de-su-sobrino-que-jugara-la-copa-potrero-que-organiza-el-kun-aguero/",
+     "pub": "2026-10-10T16:50+00:00"
+    },
+    {
+     "medio": "Google News AR",
+     "titulo": "Messi eligió a 10 promesas del fútbol mundial y hay un argentino",
+     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNcWkxWUpEOG1NblRLLUl0LXNJSzFBRUVZWmVWU0JWcHJUejdyTV9USDVIZzBaQ0ljaWJtZ2xvTEo0a1NEd083MVdrNnBHSGhEeEZlNGM2OW1uNU5jbWV0QzlpYXBENnVCamF3YzYyWWx6LXZEM3NwNzRoWFdySDdwZ2dtUzE4LWlFeUkwOWZIa2hPSm_SAZgBQVVfeXFMTktWSks3ZzFVS1E3RVFIZXpiMk5ELWRfaU5jTDBtREtKYk9rY05LMTJ0d1JrZk1HMUtkMDJSRVNWTURZRTZDcGVRNHhpaGRmd25sZ1kyU3lNQTh4alhqVUFqWUsydlY3eGVncmZlazRmRkM4c3QyT1FpOTUzdldnY040d1BWMHdPRGRMZFhTT3pscE04VEVnTnM?oc=5",
+     "pub": "2026-10-11T14:03+00:00"
+    },
+    {
+     "medio": "Google News AR",
+     "titulo": "Messi presentó a las diez grandes promesas del fútbol mundial: quién es la joya de Boca que aparece entre los elegidos",
+     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNb2gxMXVaYWVrQi1wdk5sMmZia2hSbzBXcXpjRFFvTW02cjBlRVV1MkwwN0YwcGV5NmhSWGNSenhoaWJDWVJGSzc2V3QxeGtaUUpoWjRNd25YeFJJN1dubUJkWGFsZnlvLS1yV1ZmN2R5ei1nNldrV1dvTklfQTNMWUFSRWVvbDNHRFhodzdmZlRkR19PeVJSS3gwTEJOQlhQWjBqelZ3b1lISndnSm9OUExMQXNUVDJoTjlCLW1lMjg?oc=5",
+     "pub": "2026-10-11T13:25+00:00"
+    },
+    {
+     "medio": "Google News AR",
+     "titulo": "Messi eligió a las 10 futuras estrellas del fútbol mundial e incluyó a un juvenil de Boca",
+     "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQMlM5ZGFZX2xId2YxTzRKV3RIWlhNRktoWU5FMk1ENUphZ0VPdk5helpLcmo3SEpwS05HWHAzcnQ2VEI0QkZTWHRqd3pMakhRN3ZZSnNIZGtqZDFTR0xoWHRwQ2R5cC1kZTg2REtjU0w3N2tEWkd6aDlUUHo1U2FqNGlNVDFtUS1ETko4cE4zclVwRE5VcWFpUFFOeXFZOWN3NzIwejdwOG9tYU5CTFpRMUE2U01LcU56UDlOV1NzZVBJZE1Wenk1NDhyNHA0NzVBV2thMmozMXhuS0c5N1pmTNIB5gFBVV95cUxPTlZZUVliNTc2U0JRQ3dzMnV1WFRyLW4zUWlUWmFkYnM3aFVuY0tneEFtcklSSUl1SzRJNXhyakxyRWxabEcxZFU0V0JqdzZOUm1wRmpBaG5ITmJqNFNxY2daUjNRRTdiR2daRW0tOW1Ed3hfYzJFVmlXNGZVOWphZVVLUW9nSlR6Z2hiUEl1REhfMFc5eUhxN3hzOUJyR3A1WUdPVjVHUF9HRlpDa2RUV1NLOXo1c3ZIQ3NMMGNkQkFZVFZ4b2dvUjNjb1YxV3QzRmtudlhweGotUlZkZXN0U3ZYT0NfZw?oc=5",
+     "pub": "2026-10-11T14:19+00:00"
+    },
+    {
+     "medio": "Google News AR",
+     "titulo": "Messi eligió a las próximas diez estrellas del fútbol mundial: incluyó a un jugador de Boca",
+     "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOdlJKTEoxUWdKQTRQbmJiSDgyb0p4VjFIaE9WdWR1UW90RXBrTXJ4TzZhZE9qcnlpeGNoRjBJTGxLVThqMm1zZldNMGdBeG4tVDlzVjlpTnU5cmNDQ1NIRnpEYzVuSG5Dc2YzSm1LTm43cGlfbVhVckloM0JtTG5XdGNDdUJvYkVMcm9WMG10TlZjNW9JdGhFS3F3UjJPUVJoVDl6U0YwcEdSQkR1WEJDVFJPSG11RDNBUk0xelJqcHZ6MjNNdTRrR081aXI4WjhKWjRWSmwtRjctZWZkTVB4U3RiQUphQQ?oc=5",
+     "pub": "2026-10-11T12:47+00:00"
+    }
+   ]
+  },
+  {
    "tema": "Carrick",
    "medios": 7,
    "lista_medios": [
@@ -1215,6 +1304,12 @@
      "titulo": "Mené au score face à Nottingham Forest, Crystal Palace s'en sort bien et offre un répit à Pierre Sage",
      "url": "https://www.lequipe.fr/Football/Actualites/Mene-au-score-face-a-nottingham-forest-crystal-palace-s-en-sort-bien-et-offre-un-repit-a-pierre-sage/1724985#at_medium=RSS_feeds",
      "pub": "2026-10-11T15:34+00:00"
+    },
+    {
+     "medio": "Google News EN",
+     "titulo": "Crystal Palace 3-1 Nottingham Forest | Premier League highlights",
+     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPME5kcGd5RjJ1VWYwdDRlU0twc3Q5eWpjNHMxbkhlYVJNRkNDVlROYmRSaW4wS2ZNZGg5YUpBalVWQTNpOFBsby1aWmEwa08zNnV0NlBqZy1WaGJ1UXRyNnI4aVJIZHlwYnFfdENGNnh4TDJ1VU10LUY1NFpHM2VPV1dXQmFodElTOFdUYy1uZHNTY2V5eHhwQ0tBNzBVZHZKMHB5RW8wU1Ftb3VESmFsOHNR?oc=5",
+     "pub": "2026-10-11T15:15+00:00"
     }
    ]
   },
@@ -1289,90 +1384,160 @@
    ]
   },
   {
-   "tema": "Messi",
+   "tema": "Seedorf",
    "medios": 7,
    "lista_medios": [
+    "AS",
     "Foot Mercato",
-    "Football Italia",
-    "Google News AR",
-    "Infobae",
     "L'Equipe",
-    "ge.globo",
-    "talkSPORT"
+    "Mundo Deportivo",
+    "Record",
+    "Yahoo",
+    "ge.globo"
    ],
    "primera_vez": "2026-10-11T16:00+00:00",
    "titulares": [
     {
-     "medio": "talkSPORT",
-     "titulo": "&#8216;Miracle&#8217; Lionel Messi photo with Lamine Yamal set to spark wild chase",
-     "url": "https://talksport.com/football/4635391/lionel-messi-lamine-yamal-photo-topps-stadium-club-chrome/",
-     "pub": "2026-10-10T09:01+00:00"
+     "medio": "Yahoo",
+     "titulo": "Corinthians signing Seedorf shocks social media; see the reactions 🤣",
+     "url": "https://sports.yahoo.com/articles/corinthians-signing-seedorf-shocks-social-143300478.html",
+     "pub": "2026-10-11T14:33+00:00"
     },
     {
-     "medio": "Football Italia",
-     "titulo": "Nico Paz: ‘Two amazing weeks with Messi, I don’t know about his no.10 shirt’",
-     "url": "https://football-italia.net/nico-paz-two-amazing-weeks-with-messi/",
-     "pub": "2026-10-11T15:46+00:00"
-    },
-    {
-     "medio": "L'Equipe",
-     "titulo": "Auteur d'un doublé, Lionel Messi jubile encore avec l'Inter Miami",
-     "url": "https://www.lequipe.fr/Football/Actualites/Auteur-d-un-double-lionel-messi-jubile-encore-avec-l-inter-miami/1724902#at_medium=RSS_feeds",
-     "pub": "2026-10-11T06:47+00:00"
+     "medio": "AS",
+     "titulo": "Oficial: Seedorf, a Corinthians",
+     "url": "https://as.com/futbol/internacional/oficial-seedorf-a-corinthians-f202610-n/",
+     "pub": "2026-10-11T14:33+00:00"
     },
     {
      "medio": "Foot Mercato",
-     "titulo": "Inter Miami : le nouveau doublé de Lionel Messi après ses adieux à l’Argentine",
-     "url": "https://www.footmercato.net/a8354376357581106776-inter-miami-le-nouveau-double-de-lionel-messi-apres-ses-adieux-a-largentine",
-     "pub": "2026-10-11T08:05+00:00"
+     "titulo": "Clarence Seedorf nouvel entraîneur des Corinthians",
+     "url": "https://www.footmercato.net/a7448500962750134282-clarence-seedorf-nouvel-entraineur-des-corinthians",
+     "pub": "2026-10-11T14:36+00:00"
     },
     {
-     "medio": "Infobae",
-     "titulo": "La sentida carta para Messi de un integrante del cuerpo técnico de la selección argentina tras su despedida: “El vacío será enorme”",
-     "url": "https://www.infobae.com/deportes/2026/10/11/la-sentida-carta-para-messi-de-un-integrante-del-cuerpo-tecnico-de-la-seleccion-argentina-tras-su-despedida-el-vacio-sera-enorme/",
-     "pub": "2026-10-11T10:42+00:00"
+     "medio": "Record",
+     "titulo": "<![CDATA[ Seedorf é o eleito do Corinthians para tentar fugir da descida ]]>",
+     "url": "https://www.record.pt/internacional/paises/brasil/detalhe/seedorf-e-o-eleito-do-corinthians-para-tentar-fugir-da-descida",
+     "pub": "2026-10-11T15:32+00:00"
     },
     {
-     "medio": "Infobae",
-     "titulo": "Con dos tantos de Lionel Messi, el Inter Miami goleó 4-0 al DC United y volvió a la victoria en la MLS",
-     "url": "https://www.infobae.com/deportes/2026/10/10/tras-su-despedida-con-la-seleccion-argentina-lionel-messi-volvera-a-jugar-con-inter-miami-por-la-mls-hora-tv-y-formaciones/",
-     "pub": "2026-10-11T01:49+00:00"
+     "medio": "ge.globo",
+     "titulo": "Contrato de Seedorf com o Corinthians prevê rescisão em caso de rebaixamento à Série B",
+     "url": "https://ge.globo.com/futebol/times/corinthians/noticia/2026/10/11/contrato-de-seedorf-com-o-corinthians-preve-rescisao-em-caso-de-rebaixamento-a-serie-b.ghtml",
+     "pub": "2026-10-11T15:37+00:00"
     },
     {
-     "medio": "Infobae",
-     "titulo": "El show de Messi en Inter Miami tras su despedida de la selección argentina: los dos golazos en el triunfo ante DC United",
-     "url": "https://www.infobae.com/deportes/2026/10/11/el-show-de-messi-en-inter-miami-tras-su-despedida-de-la-seleccion-argentina-los-dos-golazos-en-el-triunfo-ante-dc-united/",
-     "pub": "2026-10-11T01:38+00:00"
+     "medio": "ge.globo",
+     "titulo": "Empresários detalham indicação de Seedorf a Marcelo Paz e explicam acerto com o Corinthians",
+     "url": "https://ge.globo.com/futebol/times/corinthians/noticia/2026/10/11/empresarios-detalham-indicacao-de-seedorf-a-marcelo-paz-e-explicam-acerto-com-o-corinthians.ghtml",
+     "pub": "2026-10-11T14:49+00:00"
     },
     {
-     "medio": "Infobae",
-     "titulo": "El divertido mensaje de Lionel Messi al equipo de su sobrino que jugará la Copa Potrero que organiza el Kun Agüero",
-     "url": "https://www.infobae.com/deportes/2026/10/10/el-divertido-mensaje-de-lionel-messi-al-equipo-de-su-sobrino-que-jugara-la-copa-potrero-que-organiza-el-kun-aguero/",
-     "pub": "2026-10-10T16:50+00:00"
+     "medio": "ge.globo",
+     "titulo": "Corinthians contrata Seedorf como novo técnico",
+     "url": "https://ge.globo.com/futebol/times/corinthians/noticia/2026/10/11/corinthians-contrata-seedorf-como-novo-tecnico.ghtml",
+     "pub": "2026-10-11T14:05+00:00"
     },
     {
-     "medio": "Google News AR",
-     "titulo": "Messi eligió a 10 promesas del fútbol mundial y hay un argentino",
-     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNcWkxWUpEOG1NblRLLUl0LXNJSzFBRUVZWmVWU0JWcHJUejdyTV9USDVIZzBaQ0ljaWJtZ2xvTEo0a1NEd083MVdrNnBHSGhEeEZlNGM2OW1uNU5jbWV0QzlpYXBENnVCamF3YzYyWWx6LXZEM3NwNzRoWFdySDdwZ2dtUzE4LWlFeUkwOWZIa2hPSm_SAZgBQVVfeXFMTktWSks3ZzFVS1E3RVFIZXpiMk5ELWRfaU5jTDBtREtKYk9rY05LMTJ0d1JrZk1HMUtkMDJSRVNWTURZRTZDcGVRNHhpaGRmd25sZ1kyU3lNQTh4alhqVUFqWUsydlY3eGVncmZlazRmRkM4c3QyT1FpOTUzdldnY040d1BWMHdPRGRMZFhTT3pscE04VEVnTnM?oc=5",
-     "pub": "2026-10-11T14:03+00:00"
+     "medio": "Mundo Deportivo",
+     "titulo": "Seedorf encuentra equipo",
+     "url": "https://www.mundodeportivo.com/futbol/fichajes/oficial/20261011/1004237453/seedorf-encuentra-equipo.html",
+     "pub": ""
     },
     {
-     "medio": "Google News AR",
-     "titulo": "Messi presentó a las diez grandes promesas del fútbol mundial: quién es la joya de Boca que aparece entre los elegidos",
-     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNb2gxMXVaYWVrQi1wdk5sMmZia2hSbzBXcXpjRFFvTW02cjBlRVV1MkwwN0YwcGV5NmhSWGNSenhoaWJDWVJGSzc2V3QxeGtaUUpoWjRNd25YeFJJN1dubUJkWGFsZnlvLS1yV1ZmN2R5ei1nNldrV1dvTklfQTNMWUFSRWVvbDNHRFhodzdmZlRkR19PeVJSS3gwTEJOQlhQWjBqelZ3b1lISndnSm9OUExMQXNUVDJoTjlCLW1lMjg?oc=5",
-     "pub": "2026-10-11T13:25+00:00"
+     "medio": "L'Equipe",
+     "titulo": "Clarence Seedorf devient l'entraîneur du Corinthians et s'engage jusqu'à fin 2027 avec le club brésilien",
+     "url": "https://www.lequipe.fr/Football/Actualites/Clarence-seedorf-devient-l-entraineur-du-corinthians-et-s-engage-jusqu-a-fin-2027-avec-le-club-bresilien/1724987#at_medium=RSS_feeds",
+     "pub": "2026-10-11T15:45+00:00"
+    }
+   ]
+  },
+  {
+   "tema": "Corinthians",
+   "medios": 7,
+   "lista_medios": [
+    "AS",
+    "Foot Mercato",
+    "L'Equipe",
+    "Ole",
+    "Record",
+    "Yahoo",
+    "ge.globo"
+   ],
+   "primera_vez": "2026-10-11T16:00+00:00",
+   "titulares": [
+    {
+     "medio": "Yahoo",
+     "titulo": "Corinthians signing Seedorf shocks social media; see the reactions 🤣",
+     "url": "https://sports.yahoo.com/articles/corinthians-signing-seedorf-shocks-social-143300478.html",
+     "pub": "2026-10-11T14:33+00:00"
     },
     {
-     "medio": "Google News AR",
-     "titulo": "Messi eligió a las 10 futuras estrellas del fútbol mundial e incluyó a un juvenil de Boca",
-     "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQMlM5ZGFZX2xId2YxTzRKV3RIWlhNRktoWU5FMk1ENUphZ0VPdk5helpLcmo3SEpwS05HWHAzcnQ2VEI0QkZTWHRqd3pMakhRN3ZZSnNIZGtqZDFTR0xoWHRwQ2R5cC1kZTg2REtjU0w3N2tEWkd6aDlUUHo1U2FqNGlNVDFtUS1ETko4cE4zclVwRE5VcWFpUFFOeXFZOWN3NzIwejdwOG9tYU5CTFpRMUE2U01LcU56UDlOV1NzZVBJZE1Wenk1NDhyNHA0NzVBV2thMmozMXhuS0c5N1pmTNIB5gFBVV95cUxPTlZZUVliNTc2U0JRQ3dzMnV1WFRyLW4zUWlUWmFkYnM3aFVuY0tneEFtcklSSUl1SzRJNXhyakxyRWxabEcxZFU0V0JqdzZOUm1wRmpBaG5ITmJqNFNxY2daUjNRRTdiR2daRW0tOW1Ed3hfYzJFVmlXNGZVOWphZVVLUW9nSlR6Z2hiUEl1REhfMFc5eUhxN3hzOUJyR3A1WUdPVjVHUF9HRlpDa2RUV1NLOXo1c3ZIQ3NMMGNkQkFZVFZ4b2dvUjNjb1YxV3QzRmtudlhweGotUlZkZXN0U3ZYT0NfZw?oc=5",
-     "pub": "2026-10-11T14:19+00:00"
+     "medio": "AS",
+     "titulo": "Oficial: Seedorf, a Corinthians",
+     "url": "https://as.com/futbol/internacional/oficial-seedorf-a-corinthians-f202610-n/",
+     "pub": "2026-10-11T14:33+00:00"
     },
     {
-     "medio": "Google News AR",
-     "titulo": "Messi eligió a las próximas diez estrellas del fútbol mundial: incluyó a un jugador de Boca",
-     "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOdlJKTEoxUWdKQTRQbmJiSDgyb0p4VjFIaE9WdWR1UW90RXBrTXJ4TzZhZE9qcnlpeGNoRjBJTGxLVThqMm1zZldNMGdBeG4tVDlzVjlpTnU5cmNDQ1NIRnpEYzVuSG5Dc2YzSm1LTm43cGlfbVhVckloM0JtTG5XdGNDdUJvYkVMcm9WMG10TlZjNW9JdGhFS3F3UjJPUVJoVDl6U0YwcEdSQkR1WEJDVFJPSG11RDNBUk0xelJqcHZ6MjNNdTRrR081aXI4WjhKWjRWSmwtRjctZWZkTVB4U3RiQUphQQ?oc=5",
-     "pub": "2026-10-11T12:47+00:00"
+     "medio": "Foot Mercato",
+     "titulo": "Clarence Seedorf nouvel entraîneur des Corinthians",
+     "url": "https://www.footmercato.net/a7448500962750134282-clarence-seedorf-nouvel-entraineur-des-corinthians",
+     "pub": "2026-10-11T14:36+00:00"
+    },
+    {
+     "medio": "Record",
+     "titulo": "<![CDATA[ Seedorf é o eleito do Corinthians para tentar fugir da descida ]]>",
+     "url": "https://www.record.pt/internacional/paises/brasil/detalhe/seedorf-e-o-eleito-do-corinthians-para-tentar-fugir-da-descida",
+     "pub": "2026-10-11T15:32+00:00"
+    },
+    {
+     "medio": "Ole",
+     "titulo": "Corinthians presentó a un técnico europeo para salvarse del descenso",
+     "url": "https://www.ole.com.ar/futbol-internacional/america/corinthians-presento-nuevo-tecnico-europeo-clarence-seedorf-brasil_0_vPehzmpgIC.html",
+     "pub": "2026-10-11T15:47+00:00"
+    },
+    {
+     "medio": "ge.globo",
+     "titulo": "Contrato de Seedorf com o Corinthians prevê rescisão em caso de rebaixamento à Série B",
+     "url": "https://ge.globo.com/futebol/times/corinthians/noticia/2026/10/11/contrato-de-seedorf-com-o-corinthians-preve-rescisao-em-caso-de-rebaixamento-a-serie-b.ghtml",
+     "pub": "2026-10-11T15:37+00:00"
+    },
+    {
+     "medio": "ge.globo",
+     "titulo": "Empresários detalham indicação de Seedorf a Marcelo Paz e explicam acerto com o Corinthians",
+     "url": "https://ge.globo.com/futebol/times/corinthians/noticia/2026/10/11/empresarios-detalham-indicacao-de-seedorf-a-marcelo-paz-e-explicam-acerto-com-o-corinthians.ghtml",
+     "pub": "2026-10-11T14:49+00:00"
+    },
+    {
+     "medio": "ge.globo",
+     "titulo": "Corinthians contrata Seedorf como novo técnico",
+     "url": "https://ge.globo.com/futebol/times/corinthians/noticia/2026/10/11/corinthians-contrata-seedorf-como-novo-tecnico.ghtml",
+     "pub": "2026-10-11T14:05+00:00"
+    },
+    {
+     "medio": "ge.globo",
+     "titulo": "Palmeiras vai encarar 11º técnico do Corinthians na era Abel Ferreira; veja os números",
+     "url": "https://ge.globo.com/futebol/times/palmeiras/noticia/2026/10/11/palmeiras-vai-encarar-11o-tecnico-do-corinthians-na-era-abel-ferreira-veja-os-numeros.ghtml",
+     "pub": "2026-10-11T11:00+00:00"
+    },
+    {
+     "medio": "ge.globo",
+     "titulo": "Corinthians chega ao Dérbi com dificuldades para avançar por técnico e sem alvo definido",
+     "url": "https://ge.globo.com/futebol/times/corinthians/noticia/2026/10/11/corinthians-chega-ao-derbi-com-dificuldades-para-avancar-por-tecnico-e-sem-alvo-definido.ghtml",
+     "pub": "2026-10-11T11:00+00:00"
+    },
+    {
+     "medio": "ge.globo",
+     "titulo": "Palmeiras x Corinthians: onde assistir ao vivo, horário e escalações",
+     "url": "https://ge.globo.com/sp/futebol/brasileirao-serie-a/noticia/2026/10/11/palmeiras-x-corinthians-onde-assistir-ao-vivo-horario-e-escalacoes.ghtml",
+     "pub": "2026-10-11T07:00+00:00"
+    },
+    {
+     "medio": "L'Equipe",
+     "titulo": "Clarence Seedorf devient l'entraîneur du Corinthians et s'engage jusqu'à fin 2027 avec le club brésilien",
+     "url": "https://www.lequipe.fr/Football/Actualites/Clarence-seedorf-devient-l-entraineur-du-corinthians-et-s-engage-jusqu-a-fin-2027-avec-le-club-bresilien/1724987#at_medium=RSS_feeds",
+     "pub": "2026-10-11T15:45+00:00"
     }
    ]
   },
@@ -1700,6 +1865,18 @@
      "titulo": "Mené au score face à Nottingham Forest, Crystal Palace s'en sort bien et offre un répit à Pierre Sage",
      "url": "https://www.lequipe.fr/Football/Actualites/Mene-au-score-face-a-nottingham-forest-crystal-palace-s-en-sort-bien-et-offre-un-repit-a-pierre-sage/1724985#at_medium=RSS_feeds",
      "pub": "2026-10-11T15:34+00:00"
+    },
+    {
+     "medio": "Google News EN",
+     "titulo": "Crystal Palace 3-1 Nottingham Forest | Premier League highlights",
+     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPME5kcGd5RjJ1VWYwdDRlU0twc3Q5eWpjNHMxbkhlYVJNRkNDVlROYmRSaW4wS2ZNZGg5YUpBalVWQTNpOFBsby1aWmEwa08zNnV0NlBqZy1WaGJ1UXRyNnI4aVJIZHlwYnFfdENGNnh4TDJ1VU10LUY1NFpHM2VPV1dXQmFodElTOFdUYy1uZHNTY2V5eHhwQ0tBNzBVZHZKMHB5RW8wU1Ftb3VESmFsOHNR?oc=5",
+     "pub": "2026-10-11T15:15+00:00"
+    },
+    {
+     "medio": "Google News EN",
+     "titulo": "Premier League: Crystal Palace 3-1 Nottingham Forest - Pierre Sage post-match interview",
+     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9SX2tSeDRZbGZVaTNCRUVLc3c2Q3M2c1A2a3E1T0J0ZnRYaFIwNDFna1lRZ250VjVYU2xxbzlDSnJIXzlkeGEyUWFqdElDT09iR290ZTd0NzZ0OTYzN2hPdGV6R0pkaHM3?oc=5",
+     "pub": "2026-10-11T16:05+00:00"
     }
    ]
   },
@@ -1923,150 +2100,6 @@
    ]
   },
   {
-   "tema": "Corinthians",
-   "medios": 6,
-   "lista_medios": [
-    "AS",
-    "Foot Mercato",
-    "Ole",
-    "Record",
-    "Yahoo",
-    "ge.globo"
-   ],
-   "primera_vez": "2026-10-11T16:00+00:00",
-   "titulares": [
-    {
-     "medio": "Yahoo",
-     "titulo": "Corinthians signing Seedorf shocks social media; see the reactions 🤣",
-     "url": "https://sports.yahoo.com/articles/corinthians-signing-seedorf-shocks-social-143300478.html",
-     "pub": "2026-10-11T14:33+00:00"
-    },
-    {
-     "medio": "AS",
-     "titulo": "Oficial: Seedorf, a Corinthians",
-     "url": "https://as.com/futbol/internacional/oficial-seedorf-a-corinthians-f202610-n/",
-     "pub": "2026-10-11T14:33+00:00"
-    },
-    {
-     "medio": "Foot Mercato",
-     "titulo": "Clarence Seedorf nouvel entraîneur des Corinthians",
-     "url": "https://www.footmercato.net/a7448500962750134282-clarence-seedorf-nouvel-entraineur-des-corinthians",
-     "pub": "2026-10-11T14:36+00:00"
-    },
-    {
-     "medio": "Record",
-     "titulo": "<![CDATA[ Seedorf é o eleito do Corinthians para tentar fugir da descida ]]>",
-     "url": "https://www.record.pt/internacional/paises/brasil/detalhe/seedorf-e-o-eleito-do-corinthians-para-tentar-fugir-da-descida",
-     "pub": "2026-10-11T15:32+00:00"
-    },
-    {
-     "medio": "Ole",
-     "titulo": "Corinthians presentó a un técnico europeo para salvarse del descenso",
-     "url": "https://www.ole.com.ar/futbol-internacional/america/corinthians-presento-nuevo-tecnico-europeo-clarence-seedorf-brasil_0_vPehzmpgIC.html",
-     "pub": "2026-10-11T15:47+00:00"
-    },
-    {
-     "medio": "ge.globo",
-     "titulo": "Contrato de Seedorf com o Corinthians prevê rescisão em caso de rebaixamento à Série B",
-     "url": "https://ge.globo.com/futebol/times/corinthians/noticia/2026/10/11/contrato-de-seedorf-com-o-corinthians-preve-rescisao-em-caso-de-rebaixamento-a-serie-b.ghtml",
-     "pub": "2026-10-11T15:37+00:00"
-    },
-    {
-     "medio": "ge.globo",
-     "titulo": "Empresários detalham indicação de Seedorf a Marcelo Paz e explicam acerto com o Corinthians",
-     "url": "https://ge.globo.com/futebol/times/corinthians/noticia/2026/10/11/empresarios-detalham-indicacao-de-seedorf-a-marcelo-paz-e-explicam-acerto-com-o-corinthians.ghtml",
-     "pub": "2026-10-11T14:49+00:00"
-    },
-    {
-     "medio": "ge.globo",
-     "titulo": "Corinthians contrata Seedorf como novo técnico",
-     "url": "https://ge.globo.com/futebol/times/corinthians/noticia/2026/10/11/corinthians-contrata-seedorf-como-novo-tecnico.ghtml",
-     "pub": "2026-10-11T14:05+00:00"
-    },
-    {
-     "medio": "ge.globo",
-     "titulo": "Palmeiras vai encarar 11º técnico do Corinthians na era Abel Ferreira; veja os números",
-     "url": "https://ge.globo.com/futebol/times/palmeiras/noticia/2026/10/11/palmeiras-vai-encarar-11o-tecnico-do-corinthians-na-era-abel-ferreira-veja-os-numeros.ghtml",
-     "pub": "2026-10-11T11:00+00:00"
-    },
-    {
-     "medio": "ge.globo",
-     "titulo": "Corinthians chega ao Dérbi com dificuldades para avançar por técnico e sem alvo definido",
-     "url": "https://ge.globo.com/futebol/times/corinthians/noticia/2026/10/11/corinthians-chega-ao-derbi-com-dificuldades-para-avancar-por-tecnico-e-sem-alvo-definido.ghtml",
-     "pub": "2026-10-11T11:00+00:00"
-    },
-    {
-     "medio": "ge.globo",
-     "titulo": "Palmeiras x Corinthians: onde assistir ao vivo, horário e escalações",
-     "url": "https://ge.globo.com/sp/futebol/brasileirao-serie-a/noticia/2026/10/11/palmeiras-x-corinthians-onde-assistir-ao-vivo-horario-e-escalacoes.ghtml",
-     "pub": "2026-10-11T07:00+00:00"
-    }
-   ]
-  },
-  {
-   "tema": "Seedorf",
-   "medios": 6,
-   "lista_medios": [
-    "AS",
-    "Foot Mercato",
-    "Mundo Deportivo",
-    "Record",
-    "Yahoo",
-    "ge.globo"
-   ],
-   "primera_vez": "2026-10-11T16:00+00:00",
-   "titulares": [
-    {
-     "medio": "Yahoo",
-     "titulo": "Corinthians signing Seedorf shocks social media; see the reactions 🤣",
-     "url": "https://sports.yahoo.com/articles/corinthians-signing-seedorf-shocks-social-143300478.html",
-     "pub": "2026-10-11T14:33+00:00"
-    },
-    {
-     "medio": "AS",
-     "titulo": "Oficial: Seedorf, a Corinthians",
-     "url": "https://as.com/futbol/internacional/oficial-seedorf-a-corinthians-f202610-n/",
-     "pub": "2026-10-11T14:33+00:00"
-    },
-    {
-     "medio": "Foot Mercato",
-     "titulo": "Clarence Seedorf nouvel entraîneur des Corinthians",
-     "url": "https://www.footmercato.net/a7448500962750134282-clarence-seedorf-nouvel-entraineur-des-corinthians",
-     "pub": "2026-10-11T14:36+00:00"
-    },
-    {
-     "medio": "Record",
-     "titulo": "<![CDATA[ Seedorf é o eleito do Corinthians para tentar fugir da descida ]]>",
-     "url": "https://www.record.pt/internacional/paises/brasil/detalhe/seedorf-e-o-eleito-do-corinthians-para-tentar-fugir-da-descida",
-     "pub": "2026-10-11T15:32+00:00"
-    },
-    {
-     "medio": "ge.globo",
-     "titulo": "Contrato de Seedorf com o Corinthians prevê rescisão em caso de rebaixamento à Série B",
-     "url": "https://ge.globo.com/futebol/times/corinthians/noticia/2026/10/11/contrato-de-seedorf-com-o-corinthians-preve-rescisao-em-caso-de-rebaixamento-a-serie-b.ghtml",
-     "pub": "2026-10-11T15:37+00:00"
-    },
-    {
-     "medio": "ge.globo",
-     "titulo": "Empresários detalham indicação de Seedorf a Marcelo Paz e explicam acerto com o Corinthians",
-     "url": "https://ge.globo.com/futebol/times/corinthians/noticia/2026/10/11/empresarios-detalham-indicacao-de-seedorf-a-marcelo-paz-e-explicam-acerto-com-o-corinthians.ghtml",
-     "pub": "2026-10-11T14:49+00:00"
-    },
-    {
-     "medio": "ge.globo",
-     "titulo": "Corinthians contrata Seedorf como novo técnico",
-     "url": "https://ge.globo.com/futebol/times/corinthians/noticia/2026/10/11/corinthians-contrata-seedorf-como-novo-tecnico.ghtml",
-     "pub": "2026-10-11T14:05+00:00"
-    },
-    {
-     "medio": "Mundo Deportivo",
-     "titulo": "Seedorf encuentra equipo",
-     "url": "https://www.mundodeportivo.com/futbol/fichajes/oficial/20261011/1004237453/seedorf-encuentra-equipo.html",
-     "pub": ""
-    }
-   ]
-  },
-  {
    "tema": "Ronaldo",
    "medios": 5,
    "lista_medios": [
@@ -2217,46 +2250,64 @@
    ]
   },
   {
-   "tema": "Portugal",
+   "tema": "Barcelona",
    "medios": 5,
    "lista_medios": [
-    "Foot Mercato",
     "Google News ES",
     "Guardian",
-    "Record",
-    "talkSPORT"
+    "Infobae",
+    "Yahoo",
+    "ge.globo"
    ],
    "primera_vez": "2026-10-11T16:00+00:00",
    "titulares": [
     {
      "medio": "Guardian",
-     "titulo": "Portugal suspend Cristiano Ronaldo after walking out on national team",
-     "url": "https://www.theguardian.com/football/2026/oct/10/portugal-suspend-cristiano-ronaldo",
-     "pub": "2026-10-10T20:48+00:00"
+     "titulo": "European football: Gordon boosts Barcelona, Neuer errors cost Bayern in draw",
+     "url": "https://www.theguardian.com/football/2026/oct/10/european-football-bayern-concede-fastest-goal-bundeliga-history",
+     "pub": "2026-10-10T19:05+00:00"
     },
     {
-     "medio": "talkSPORT",
-     "titulo": "Cristiano Ronaldo hit with Portugal suspension as disciplinary investigation begins",
-     "url": "https://talksport.com/football/4636152/cristiano-ronaldo-portugal-suspension-disciplinary-investigation/",
-     "pub": "2026-10-10T12:35+00:00"
+     "medio": "Yahoo",
+     "titulo": "Six young talents Barcelona are closely monitoring including Manchester United gem",
+     "url": "https://sports.yahoo.com/articles/six-young-talents-barcelona-closely-153700227.html",
+     "pub": "2026-10-11T15:37+00:00"
+    },
+    {
+     "medio": "Yahoo",
+     "titulo": "Barcelona homegrown star&#8217;s future in serious doubt as Flick sends another clear message",
+     "url": "https://sports.yahoo.com/articles/barcelona-homegrown-star-future-serious-140000300.html",
+     "pub": "2026-10-11T14:00+00:00"
+    },
+    {
+     "medio": "Yahoo",
+     "titulo": "Barcelona head of scouting all but confirms interest in Brazilian defender: &#8216;Looking for a profile like his&#8217;",
+     "url": "https://sports.yahoo.com/articles/barcelona-head-scouting-confirms-interest-134000385.html",
+     "pub": "2026-10-11T13:40+00:00"
+    },
+    {
+     "medio": "Infobae",
+     "titulo": "Javier Frana contó una anécdota con Maradona tras ganar el bronce en los Juegos Olímpicos de Barcelona 92: “Entrenamos en los Lagos de Palermo”",
+     "url": "https://www.infobae.com/deportes/2026/10/10/javier-frana-conto-una-anecdota-con-maradona-tras-ganar-el-bronce-en-los-juegos-olimpicos-de-barcelona-92-entrenamos-en-los-lagos-de-palermo/",
+     "pub": "2026-10-10T22:17+00:00"
+    },
+    {
+     "medio": "ge.globo",
+     "titulo": "Vini Jr. deve ficar fora de Barcelona x Real Madrid após expulsão por puxão de cabelo",
+     "url": "https://ge.globo.com/futebol/futebol-internacional/noticia/2026/10/11/vini-jr-deve-ficar-fora-de-barcelona-x-real-madrid-apos-expulsao-por-puxao-de-cabelo.ghtml",
+     "pub": "2026-10-11T14:04+00:00"
+    },
+    {
+     "medio": "ge.globo",
+     "titulo": "Gabriel Jesus tem começo mais eficiente no Barcelona do que em Arsenal e Manchester City",
+     "url": "https://ge.globo.com/futebol/futebol-internacional/futebol-espanhol/noticia/2026/10/11/gabriel-jesus-tem-comeco-mais-eficiente-no-barcelona-do-que-em-arsenal-e-manchester-city.ghtml",
+     "pub": "2026-10-11T07:00+00:00"
     },
     {
      "medio": "Google News ES",
-     "titulo": "Benfica vs Vitoria Guimaraes: horario y dónde ver hoy por TV y online el partido de la Liga Portugal 2026/27 a través de DAZN",
-     "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNVXcwTVV0S3EyQlA2YmRneFJQZTZyQ3NoVHFmLWVwaW5VOURQUUJHQU9lRnpodkowcHFnbThmQWEyNjR0V2tPeVNXY0xIOFhzY0k4R0NWUTVpRU8zcXR4enBZNVBETmdSaGhWbWRLbkVxX2dxNURpdHg2Qnc4UjA3Z3l0d1pvYTZLUEFPRFZ6a3YyOExtcURmbmowSW1hcU1qTEliQWFNYWhjeXNmVk5QVDZjdXF2c3Z4dXZmTUo0SVhzdUtQWVBwckVkUkx6VWtRX0tpZGw3ZHRjRU9fMlozSmtHZng3M2F0b3ZRQTRyQ2szaXJzNU9WN0gwbG9QUUhYWVFPbHJCMA?oc=5",
-     "pub": "2026-10-11T11:00+00:00"
-    },
-    {
-     "medio": "Foot Mercato",
-     "titulo": "Le Portugal n’en croit pas ses yeux après l’énième comeback de Cristiano Ronaldo",
-     "url": "https://www.footmercato.net/a8037599116133005509-le-portugal-nen-croit-pas-ses-yeux-apres-lenieme-comeback-de-cristiano-ronaldo",
-     "pub": "2026-10-11T11:29+00:00"
-    },
-    {
-     "medio": "Record",
-     "titulo": "<![CDATA[ Portugal conquista ouro, prata e bronze no Mundial de vela inclusiva em Portimão ]]>",
-     "url": "https://www.record.pt/modalidades/vela/detalhe/portugal-conquista-ouro-prata-e-bronze-no-mundial-de-vela-inclusiva-em-portimao",
-     "pub": "2026-10-11T15:57+00:00"
+     "titulo": "El FC Barcelona iguala su mejor inicio de la historia en Liga",
+     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQa3VVcDVhN0JEdnBVcTFuR2IzclViUGJKdFNqcTdOZjZYYUVTcUcxMVR4T3lmY0prYWxOWlpBWlYxSlZTYXo0djhBd2o4TFhENkY5MDBza3J3WjVIaERPcXA2WW9fbW5lajQ4bDd6emM2UXhBLTN3cndLYzZmNUxmbVZhc0RRdENleDFMM2VmUEY0V1VvQ1BER1ltemdVSXZ6YXZVTmVIQTI3RkhZMmFCVG51eFdoSTlsbU9oS1pvSDctTjg?oc=5",
+     "pub": "2026-10-11T11:14+00:00"
     }
    ]
   }

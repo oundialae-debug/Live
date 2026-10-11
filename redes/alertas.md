@@ -1,4 +1,4 @@
-# Alertas de noticias (2026-10-11 16:04 UTC)
+# Alertas de noticias (2026-10-11 16:09 UTC)
 
 Temas en >= 7 medios. La rutina diaria y cualquier sesión deben mirar esto ANTES de elegir tema (regla 6: la noticia que todos comentan va primero).
 
@@ -20,6 +20,8 @@ Temas en >= 7 medios. La rutina diaria y cualquier sesión deben mirar esto ANTE
 - **Forest** (7 medios): Pino finishes off Nottingham Forest on Glasner’s unhappy Crystal Palace return
 - **Portsmouth** (7 medios): Joy for Eckert as 10-man Southampton edge out Portsmouth in feisty derby
 - **Lazio** (7 medios): Serie A
+- **Corinthians** (7 medios): Corinthians signing Seedorf shocks social media; see the reactions 🤣
+- **Seedorf** (7 medios): Corinthians signing Seedorf shocks social media; see the reactions 🤣
 - **Inter** (7 medios): Fabregas: ‘Inter inspired Como on how to hurt Roma’
 
 ## Grandes ya cubiertas
