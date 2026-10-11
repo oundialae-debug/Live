@@ -1,0 +1,12 @@
+{
+ "red": "tiktok",
+ "hora": "2026-10-11T08:30:00+02:00",
+ "tipo": "previo",
+ "partido": "Como vs Roma",
+ "text": "Como vs Roma (Serie A, today 12:30 CEST): our model gives Roma 40%, Como 34%, draw 26%. Both teams score? 52%. Can you beat the model? Who wins? 👇\n#SerieA #ComoRoma #Roma #Como #Football",
+ "titulo": "Como vs Roma prediction: our Serie A model",
+ "video": "https://raw.githubusercontent.com/oundialae-debug/live/main/videos/pre_20261011_como_roma.mp4",
+ "variante": "primera=goals;seg=2.3;arranque=s0;hook=reto;ante=4;formato=video;musica=hh07",
+ "notas": "modelo poisson propio (datos_clubes.py pre); marco comprobado",
+ "recordatorio": false
+}

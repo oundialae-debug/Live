@@ -1,0 +1,12 @@
+{
+ "red": "instagram",
+ "hora": "2026-10-11T12:30:00+02:00",
+ "tipo": "previo",
+ "partido": "Liverpool vs Man City",
+ "text": "Liverpool vs Man City (Premier League, today 17:30 CEST): our model gives City 44%, Liverpool 32%, draw 24%. Do you agree? 👇\n#Liverpool #ManCity #PremierLeague #LIVMCI #Football",
+ "titulo": "Liverpool vs Man City prediction: our model",
+ "video": "https://raw.githubusercontent.com/oundialae-debug/live/main/videos/pre_20261011_liv_mci.mp4",
+ "variante": "primera=upset;seg=1.8;arranque=s0;hook=pregunta;ante=5;formato=video;musica=drill",
+ "notas": "modelo poisson propio (datos_clubes.py pre); marco comprobado",
+ "recordatorio": false
+}
