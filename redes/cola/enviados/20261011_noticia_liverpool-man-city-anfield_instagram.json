@@ -8,5 +8,8 @@
  "recordatorio": false,
  "musica": "hh10",
  "variante": "seg=5.0;arranque=s0;hook=pregunta;musica=hh10;formato=auto_noticia;hora=20",
- "notas": "noticia automática (IA + reglas): Daily Mail: Liverpool vs Manchester City - Premier League LIVE: Enzo Maresca's side BOOED by hostile Anfield crowd at kick-off in their first game since guilty verdict, before tension boils over on pi"
+ "notas": "noticia automática (IA + reglas): Daily Mail: Liverpool vs Manchester City - Premier League LIVE: Enzo Maresca's side BOOED by hostile Anfield crowd at kick-off in their first game since guilty verdict, before tension boils over on pi",
+ "estado": "enviado",
+ "buffer_id": "6acbdacc7db619a29144368b",
+ "dueAt": "2026-10-11T18:54:55+00:00"
 }
