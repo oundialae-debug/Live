@@ -1,5 +1,5 @@
 {
- "red": "tiktok",
+ "red": "instagram",
  "hora": "2026-10-11T19:29:43+02:00",
  "tipo": "post",
  "partido": "Liverpool-Manchester City",
@@ -9,5 +9,7 @@
  "musica": "drill",
  "variante": "seg=2.8;arranque=s1;hook=dato;musica=drill;formato=auto_post",
  "notas": "post-partido automático (futbol-pipeline 1325368608, 6 tarjetas)",
- "titulo": "Liverpool 0-3 Man City | Expected goals: 0.9 vs 1.3, Man City created more."
+ "estado": "enviado",
+ "buffer_id": "6acbc6d57db619a291406497",
+ "dueAt": "2026-10-11T17:29:44+00:00"
 }
