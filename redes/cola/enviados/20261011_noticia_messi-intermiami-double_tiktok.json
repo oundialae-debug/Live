@@ -1,5 +1,5 @@
 {
- "red": "instagram",
+ "red": "tiktok",
  "hora": "2026-10-11T19:49:53+02:00",
  "tipo": "noticia",
  "partido": "Messi’s double powers Miami",
@@ -8,5 +8,9 @@
  "recordatorio": false,
  "musica": "hh09",
  "variante": "seg=5.0;arranque=s1;hook=pregunta;musica=hh09;formato=auto_noticia;hora=19",
- "notas": "noticia automática (IA + reglas): talkSPORT: &#8216;Miracle&#8217; Lionel Messi photo with Lamine Yamal set to spark wild chase; Football Italia: Nico Paz: ‘Two amazing weeks with Messi, I don’t know about his no.10 shirt’"
+ "notas": "noticia automática (IA + reglas): talkSPORT: &#8216;Miracle&#8217; Lionel Messi photo with Lamine Yamal set to spark wild chase; Football Italia: Nico Paz: ‘Two amazing weeks with Messi, I don’t know about his no.10 shirt’",
+ "titulo": "Messi scores brace as Inter Miami demolish DC United",
+ "estado": "enviado",
+ "buffer_id": "6acbcb9f7db619a291415171",
+ "dueAt": "2026-10-11T17:50:10+00:00"
 }
