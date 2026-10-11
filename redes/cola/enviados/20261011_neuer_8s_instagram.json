@@ -1,5 +1,5 @@
 {
- "red": "tiktok",
+ "red": "instagram",
  "hora": "2026-10-11T16:00:00+02:00",
  "tipo": "meme",
  "partido": "Neuer encaja el gol mas rapido de la Bundesliga (8 s)",
@@ -9,5 +9,8 @@
   "https://raw.githubusercontent.com/oundialae-debug/live/main/media/20261011_neuer_8s.jpg"
  ],
  "variante": "hook=pregunta;formato=meme_comparativa;hora=16;momento=noticia_dia",
- "notas": "Fellhauer 8 s (Goal.com + SuperSport; Bild 8,4 s), record previo 9 s Bellarabi 2014/Volland 2015; Augsburg 2-2 Bayern; jurado 6/9/8=7,7 [cola]"
+ "notas": "Fellhauer 8 s (Goal.com + SuperSport; Bild 8,4 s), record previo 9 s Bellarabi 2014/Volland 2015; Augsburg 2-2 Bayern; jurado 6/9/8=7,7 [cola]",
+ "estado": "enviado",
+ "buffer_id": "6acb9186ed92ed8fa5047cd9",
+ "dueAt": "2026-10-11T16:00:00+02:00"
 }
