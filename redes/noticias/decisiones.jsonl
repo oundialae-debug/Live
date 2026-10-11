@@ -6,3 +6,4 @@
 {"t": "2026-10-11T17:46+00:00", "estado": "descartar", "temas": ["Milan"], "clave": "milan-sassuolo-preview", "motivo": "importancia 6 < 7"}
 {"t": "2026-10-11T17:46+00:00", "estado": "descartar", "temas": ["Everton", "Hull"], "clave": "hull-everton-draw", "motivo": "importancia 5 < 7"}
 {"t": "2026-10-11T17:46+00:00", "estado": "descartar", "temas": ["Southampton"], "clave": "southampton-portsmouth-derby", "motivo": "importancia 5 < 7"}
+{"t": "2026-10-11T18:51+00:00", "estado": "publicado", "temas": ["Anfield"], "clave": "liverpool-man-city-anfield", "video": "https://raw.githubusercontent.com/oundialae-debug/live/main/media/noticias/2026-10-11_2051_liverpool-man-city-anfield.mp4"}
