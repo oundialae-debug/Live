@@ -1,22 +1,22 @@
-# Tendencias de fútbol (2026-10-11 19:45 UTC, Google Trends)
+# Tendencias de fútbol (2026-10-11 20:46 UTC, Google Trends)
 
 Generado por el workflow `tendencias`. Úsalo para elegir temas de memes, curiosos y jugador vs jugador.
 
 | País | Búsqueda | Tráfico | Titular |
 |---|---|---|---|
-| UK | daniel maldini | 200+ | Cagliari-Juventus, probabili formazioni: Sarr e Nico dal 1' |
-| UK | andy burnham man city meetings | 1000+ | Man City: Prime Minister Andy Burnham to release details of his meetings with Man City owners |
-| Spain | zabiri | 500+ | José Alberto deja en el banquillo a Pablo García y Andrés Martín |
-| Spain | laliga clasificación | 500+ | Un récord en tercera |
-| Germany | meteo di domani | 500+ | Protezione civile Campania: anche in assenza di piogge prestare attenzione a rischio idrogeologico |
-| Argentina | platense - argentinos jrs. | 2000+ | Ya disponible la venta de entradas vs. Argentinos Juniors |
-| Argentina | juventus vs | 100+ | Spalletti: We need to be alert and intense |
-| Argentina | gimnasia jujuy - gimnasia y tiro de salta | 2000+ | Gimnasia (J) vs. Gimnasia y Tiro, EN VIVO: dónde ver por TV y ONLINE |
-| Argentina | lpf play | 5000+ | Furia por la decisión de AFA con LPF Play: "hinchas indignados" |
-| Brazil | jogo do galo | 2000+ | Escalação: Atlético-MG confirma lesão de Fred e vai com reservas contra o Santos; veja time |
-| Brazil | valencia fc | 100+ | Racing Santander vs Valencia: Lineups, Prediction, Odds & Bet Builder Tip |
-| Brazil | serie c | 10000+ | IL TRENTO BATTE LA FOLGORE CARATESE 1-0 GRAZIE A LADISA: GIALLOBLÙ AL QUARTO POSTO |
-| Portugal | resultado benfica | 100+ | Benfica vs Vitoria Guimaraes en vivo la Liga de Portugal 2026: transmisión, goles y resultados de la |
-| Portugal | campeonato português | 100+ | Caldeirão em ‘ebulição’ antes do apito inicial |
-| Mexico | troyes vs marseille | 100+ | LIVE: Troyes vs. Marseille | Ligue 1 |
-| Mexico | racing santander vs valencia | 100+ | Tickets for Racing de Santander vs Valencia CF — LaLiga |
+| UK | palmeiras vs corinthians | 200+ | Palmeiras vs Corinthians: Brazilian Serie A stats & head-to-head |
+| Spain | david otorbi | 200+ | Mayol y Aimar: “Hay que demostrarle a Aguirre que estamos preparados” |
+| Spain | palmeiras - corinthians | 200+ | Palmeiras x Corinthians: onde assistir ao vivo, horário e escalações |
+| Italy | palmeiras - corinthians | 200+ | Palmeiras x Corinthians: onde assistir ao vivo, horário e escalações |
+| Italy | nzola | 500+ | Da far battere il cuore. Da Angelini a Nzola. Con la forza o l’astuzia. I gol da incorniciare |
+| Italy | edon zhegrova | 200+ | Spalletti su Zhegrova: "È uno di quelli che ha cambiato casacca" |
+| Germany | skhiri | 200+ | 1. FC Köln: Diagnose da: Jahres-Aus für Köln-Star Ellyes Skhiri |
+| USA | washington football | 2000+ | Why UW's brutal loss to Iowa could be start of doom spiral |
+| USA | jacoby brissett | 2000+ | Fantasy Football QB Streaming Week 5: Time To Ride The Jameis Winston Rollercoaster |
+| Argentina | grêmio - internacional | 200+ | Grêmio x Internacional: onde assistir ao vivo, horário e escalações |
+| Brazil | estatísticas de grêmio x internacional | 200+ | Ao vivo: Grêmio x Internacional | Rodada 30 | Campeonato Brasileiro |
+| Brazil | palmeiras joga hoje | 200+ | Escalação do Palmeiras: Gómez não tem fratura e treina antes do Dérbi; Paulinho pode ser novidade |
+| Portugal | palmeiras - corinthians | 2000+ | Palmeiras x Corinthians: onde assistir ao vivo, horário e escalações |
+| Portugal | resultado benfica | 200+ | Benfica vs Vitoria Guimaraes: retransmisión de la jornada 8 de la Liga de Portugal 2026 |
+| Mexico | platense - argentinos jrs. | 100+ | Cuándo juegan Platense vs. Argentinos por el Torneo Clausura: equipo, fecha, hora y TV en vivo |
+| Mexico | grêmio - internacional | 200+ | ((Ao vivo))jogo Grêmio x Internacional ao vivo hoje |

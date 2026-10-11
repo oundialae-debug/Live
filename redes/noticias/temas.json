@@ -1,9 +1,9 @@
 {
- "generado": "2026-10-11T19:45+00:00",
+ "generado": "2026-10-11T20:46+00:00",
  "temas": [
   {
    "tema": "Liverpool",
-   "medios": 20,
+   "medios": 21,
    "lista_medios": [
     "AS",
     "BBC",
@@ -14,6 +14,7 @@
     "Google News EN",
     "Google News ES",
     "Guardian",
+    "Infobae",
     "Kicker",
     "L'Equipe",
     "Mirror",
@@ -51,12 +52,6 @@
      "titulo": "Liverpool vs Man City Super Boost: Get EVS on Liverpool to win OR draw with talkSPORT BET",
      "url": "https://talksport.com/football/4630494/liverpool-man-city-super-boost-now-talksport-bet/",
      "pub": "2026-10-10T19:00+00:00"
-    },
-    {
-     "medio": "talkSPORT",
-     "titulo": "&#8216;I was embarrassed&#8217; &#8211; Jermaine Pennant reveals hidden battle during Arsenal and Liverpool career",
-     "url": "https://talksport.com/football/4634218/jermaine-pennant-adhd-depression-arsenal-liverpool-birmingham/",
-     "pub": "2026-10-10T08:45+00:00"
     },
     {
      "medio": "Daily Mail",
@@ -99,12 +94,18 @@
      "titulo": "Liverpool vs Man City TV channel, live stream and kick-off time",
      "url": "https://www.mirror.co.uk/sport/football/news/liverpool-city-watch-tv-channel-37749587",
      "pub": "2026-10-11T12:00+00:00"
+    },
+    {
+     "medio": "Mirror",
+     "titulo": "Enzo Maresca's private message to Man City players leaked before Liverpool showdown",
+     "url": "https://www.mirror.co.uk/sport/football/news/enzo-maresca-message-man-city-37759831",
+     "pub": "2026-10-11T11:48+00:00"
     }
    ]
   },
   {
    "tema": "Manchester",
-   "medios": 16,
+   "medios": 17,
    "lista_medios": [
     "AS",
     "BBC",
@@ -115,6 +116,7 @@
     "Google News EN",
     "Google News ES",
     "Guardian",
+    "Infobae",
     "L'Equipe",
     "Mundo Deportivo",
     "Ole",
@@ -293,6 +295,99 @@
    ]
   },
   {
+   "tema": "Anfield",
+   "medios": 12,
+   "lista_medios": [
+    "BBC",
+    "Daily Mail",
+    "FourFourTwo",
+    "Google News EN",
+    "Google News ES",
+    "Guardian",
+    "L'Equipe",
+    "Mirror",
+    "Mundo Deportivo",
+    "Planet Football",
+    "Sky Sports",
+    "Yahoo"
+   ],
+   "primera_vez": "2026-10-11T16:00+00:00",
+   "titulares": [
+    {
+     "medio": "Daily Mail",
+     "titulo": "Liverpool vs Manchester City - Premier League LIVE: Enzo Maresca's side BOOED by hostile Anfield crowd at kick-off in their first game since guilty verdict, before tension boils over on pitch",
+     "url": "https://www.dailymail.com/sport/football/article-16195521/Liverpool-vs-Manchester-City-Premier-League-LIVE-Follow-build-action-reaction-Anfield-visitors-play-match-guilty-verdict.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+     "pub": "2026-10-11T15:53+00:00"
+    },
+    {
+     "medio": "Daily Mail",
+     "titulo": "Man City give Liverpool fans the slip: Enzo Maresca's side dodge baying home fans en route to Anfield before being taunted by banners and facing hostile reception after guilty verdict",
+     "url": "https://www.dailymail.com/sport/football/article-16200431/Man-City-Liverpool-fans-slip-Enzo-Marescas-dodge-baying-home-fans-en-route-Anfield-Premier-League-leaders-braced-hostile-reception-guilty-verdict.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+     "pub": "2026-10-11T15:50+00:00"
+    },
+    {
+     "medio": "Mirror",
+     "titulo": "Liverpool vs Man City LIVE: Tempers high as hostile Anfield taunts City players after 115 charges verdict",
+     "url": "https://www.mirror.co.uk/sport/football/news/liverpool-man-city-live-score-37759400",
+     "pub": "2026-10-11T15:56+00:00"
+    },
+    {
+     "medio": "Mirror",
+     "titulo": "Man City hit by wave of Anfield vitriol as Liverpool fans make feelings fiercely clear",
+     "url": "https://www.mirror.co.uk/sport/football/news/man-city-liverpool-fans-charges-37760428",
+     "pub": "2026-10-11T15:54+00:00"
+    },
+    {
+     "medio": "Yahoo",
+     "titulo": "Why Man City fans have inflatable bananas at Anfield in Premier League clash with Liverpool",
+     "url": "https://sports.yahoo.com/articles/why-man-city-fans-inflatable-155348226.html",
+     "pub": "2026-10-11T15:53+00:00"
+    },
+    {
+     "medio": "Yahoo",
+     "titulo": "📸 Man City receive expected hot reception ahead of Anfield test",
+     "url": "https://sports.yahoo.com/articles/man-city-receive-expected-hot-152900290.html",
+     "pub": "2026-10-11T15:29+00:00"
+    },
+    {
+     "medio": "Yahoo",
+     "titulo": "Manchester City and Liverpool have confirmed their starting lineups ahead of today&#8217;s match at Anfield",
+     "url": "https://sports.yahoo.com/articles/manchester-city-liverpool-confirmed-starting-142000375.html",
+     "pub": "2026-10-11T14:20+00:00"
+    },
+    {
+     "medio": "L'Equipe",
+     "titulo": "City s'efforce de garder le sourire avant Anfield",
+     "url": "https://www.lequipe.fr/Football/Actualites/Menace-de-lourdes-sanctions-manchester-city-s-efforce-de-garder-le-sourire-avant-de-se-rendre-a-anfield/1724862#at_medium=RSS_feeds",
+     "pub": "2026-10-11T15:18+00:00"
+    },
+    {
+     "medio": "Mundo Deportivo",
+     "titulo": "Anfield también dicta sentencia sobre el City: \"Tramposos\"",
+     "url": "https://www.mundodeportivo.com/futbol/premier-league/20261011/1004237469/anfield-dicta-sentencia-sobre-city-tramposos.html",
+     "pub": ""
+    },
+    {
+     "medio": "Yahoo",
+     "titulo": "Enzo Maresca, Man City player reaction to Liverpool match, reception at Anfield",
+     "url": "https://sports.yahoo.com/articles/enzo-maresca-man-city-player-172300565.html",
+     "pub": "2026-10-11T17:23+00:00"
+    },
+    {
+     "medio": "Mundo Deportivo",
+     "titulo": "0-3: El Manchester City 'post veredicto' golea al Liverpool de Iraola en Anfield",
+     "url": "https://www.mundodeportivo.com/futbol/premier-league/20261011/1004237497/liverpool.html",
+     "pub": ""
+    },
+    {
+     "medio": "Guardian",
+     "titulo": "Cherki cracker caps Manchester City win at Liverpool in face of Anfield taunts",
+     "url": "https://www.theguardian.com/football/2026/oct/11/liverpool-manchester-city-premier-league-match-report",
+     "pub": "2026-10-11T17:42+00:00"
+    }
+   ]
+  },
+  {
    "tema": "Man",
    "medios": 11,
    "lista_medios": [
@@ -381,98 +476,6 @@
      "titulo": "Liverpool's clash with Man City is a ghost game that may as well be played in a circus tent: Grudge match starts slow period of torture for the top flight after guilty verdict - and Anfield's anger is real, writes OLIVER HOLT",
      "url": "https://www.dailymail.com/sport/football/article-16198335/Liverpools-clash-Man-City-ghost-game-played-circus-tent-Grudge-match-starts-slow-period-torture-flight-guilty-verdict-Anfields-anger-real-writes-OLIVER-HOLT.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
      "pub": "2026-10-11T07:46+00:00"
-    }
-   ]
-  },
-  {
-   "tema": "Anfield",
-   "medios": 11,
-   "lista_medios": [
-    "BBC",
-    "Daily Mail",
-    "FourFourTwo",
-    "Google News EN",
-    "Guardian",
-    "L'Equipe",
-    "Mirror",
-    "Mundo Deportivo",
-    "Planet Football",
-    "Sky Sports",
-    "Yahoo"
-   ],
-   "primera_vez": "2026-10-11T16:00+00:00",
-   "titulares": [
-    {
-     "medio": "Daily Mail",
-     "titulo": "Liverpool vs Manchester City - Premier League LIVE: Enzo Maresca's side BOOED by hostile Anfield crowd at kick-off in their first game since guilty verdict, before tension boils over on pitch",
-     "url": "https://www.dailymail.com/sport/football/article-16195521/Liverpool-vs-Manchester-City-Premier-League-LIVE-Follow-build-action-reaction-Anfield-visitors-play-match-guilty-verdict.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-     "pub": "2026-10-11T15:53+00:00"
-    },
-    {
-     "medio": "Daily Mail",
-     "titulo": "Man City give Liverpool fans the slip: Enzo Maresca's side dodge baying home fans en route to Anfield before being taunted by banners and facing hostile reception after guilty verdict",
-     "url": "https://www.dailymail.com/sport/football/article-16200431/Man-City-Liverpool-fans-slip-Enzo-Marescas-dodge-baying-home-fans-en-route-Anfield-Premier-League-leaders-braced-hostile-reception-guilty-verdict.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-     "pub": "2026-10-11T15:50+00:00"
-    },
-    {
-     "medio": "Mirror",
-     "titulo": "Liverpool vs Man City LIVE: Tempers high as hostile Anfield taunts City players after 115 charges verdict",
-     "url": "https://www.mirror.co.uk/sport/football/news/liverpool-man-city-live-score-37759400",
-     "pub": "2026-10-11T15:56+00:00"
-    },
-    {
-     "medio": "Mirror",
-     "titulo": "Man City hit by wave of Anfield vitriol as Liverpool fans make feelings fiercely clear",
-     "url": "https://www.mirror.co.uk/sport/football/news/man-city-liverpool-fans-charges-37760428",
-     "pub": "2026-10-11T15:54+00:00"
-    },
-    {
-     "medio": "Yahoo",
-     "titulo": "Why Man City fans have inflatable bananas at Anfield in Premier League clash with Liverpool",
-     "url": "https://sports.yahoo.com/articles/why-man-city-fans-inflatable-155348226.html",
-     "pub": "2026-10-11T15:53+00:00"
-    },
-    {
-     "medio": "Yahoo",
-     "titulo": "📸 Man City receive expected hot reception ahead of Anfield test",
-     "url": "https://sports.yahoo.com/articles/man-city-receive-expected-hot-152900290.html",
-     "pub": "2026-10-11T15:29+00:00"
-    },
-    {
-     "medio": "Yahoo",
-     "titulo": "Manchester City and Liverpool have confirmed their starting lineups ahead of today&#8217;s match at Anfield",
-     "url": "https://sports.yahoo.com/articles/manchester-city-liverpool-confirmed-starting-142000375.html",
-     "pub": "2026-10-11T14:20+00:00"
-    },
-    {
-     "medio": "L'Equipe",
-     "titulo": "City s'efforce de garder le sourire avant Anfield",
-     "url": "https://www.lequipe.fr/Football/Actualites/Menace-de-lourdes-sanctions-manchester-city-s-efforce-de-garder-le-sourire-avant-de-se-rendre-a-anfield/1724862#at_medium=RSS_feeds",
-     "pub": "2026-10-11T15:18+00:00"
-    },
-    {
-     "medio": "Mundo Deportivo",
-     "titulo": "Anfield también dicta sentencia sobre el City: \"Tramposos\"",
-     "url": "https://www.mundodeportivo.com/futbol/premier-league/20261011/1004237469/anfield-dicta-sentencia-sobre-city-tramposos.html",
-     "pub": ""
-    },
-    {
-     "medio": "Yahoo",
-     "titulo": "Enzo Maresca, Man City player reaction to Liverpool match, reception at Anfield",
-     "url": "https://sports.yahoo.com/articles/enzo-maresca-man-city-player-172300565.html",
-     "pub": "2026-10-11T17:23+00:00"
-    },
-    {
-     "medio": "Mundo Deportivo",
-     "titulo": "0-3: El Manchester City 'post veredicto' golea al Liverpool de Iraola en Anfield",
-     "url": "https://www.mundodeportivo.com/futbol/premier-league/20261011/1004237497/liverpool.html",
-     "pub": ""
-    },
-    {
-     "medio": "Guardian",
-     "titulo": "Cherki cracker caps Manchester City win at Liverpool in face of Anfield taunts",
-     "url": "https://www.theguardian.com/football/2026/oct/11/liverpool-manchester-city-premier-league-match-report",
-     "pub": "2026-10-11T17:42+00:00"
     }
    ]
   },
@@ -659,92 +662,92 @@
    ]
   },
   {
-   "tema": "Milan",
+   "tema": "Spurs",
    "medios": 9,
    "lista_medios": [
-    "AS",
     "BBC",
-    "Foot Mercato",
-    "Football Italia",
-    "FourFourTwo",
-    "Kicker",
-    "L'Equipe",
-    "Mundo Deportivo",
-    "Yahoo"
+    "Daily Mail",
+    "Google News EN",
+    "Guardian",
+    "Infobae",
+    "Mirror",
+    "Telegraph",
+    "Yahoo",
+    "talkSPORT"
    ],
    "primera_vez": "2026-10-11T16:00+00:00",
    "titulares": [
     {
      "medio": "BBC",
-     "titulo": "AC Milan keen on Scott - Sunday's gossip",
-     "url": "https://www.bbc.co.uk/sport/football/articles/cmy0rp2r516po?at_medium=RSS&at_campaign=rss",
-     "pub": "2026-10-10T22:01+00:00"
+     "titulo": "'I kissed Rodrigo and said thanks' - De Zerbi 'liked' Spurs red card",
+     "url": "https://www.bbc.co.uk/sport/football/articles/cqn73g3pvezdo?at_medium=RSS&at_campaign=rss",
+     "pub": "2026-10-10T20:58+00:00"
     },
     {
-     "medio": "FourFourTwo",
-     "titulo": "\"The Ballon d'Or was my childhood dream. Milan said 'The only way to win it is by playing for us'\" Andriy Shevchenko on on how he became the world's best striker",
-     "url": "https://www.fourfourtwo.com/person/player/the-ballon-dor-was-my-childhood-dream-milan-said-the-only-way-to-win-it-is-by-playing-for-us-andriy-shevchenko-on-on-how-he-became-the-worlds-best-striker",
-     "pub": "2026-10-10T08:00+00:00"
+     "medio": "BBC",
+     "titulo": "Solanke scores in added time as 10-man Spurs draw with Man Utd",
+     "url": "https://www.bbc.co.uk/sport/football/videos/crz9zdl0g04zo?at_medium=RSS&at_campaign=rss",
+     "pub": "2026-10-10T19:24+00:00"
     },
     {
-     "medio": "Yahoo",
-     "titulo": "Amorim: ‘Milan system doesn’t matter as much as being aggressive’",
-     "url": "https://sports.yahoo.com/articles/amorim-milan-system-doesn-t-154000703.html",
-     "pub": "2026-10-11T15:40+00:00"
+     "medio": "Guardian",
+     "titulo": "Manchester United and Spurs come back to reality as City saga offers brief distraction | John Brewin",
+     "url": "https://www.theguardian.com/football/2026/oct/10/draw-brings-no-respite-for-manchester-united-and-tottenham-as-crises-continue",
+     "pub": "2026-10-10T20:40+00:00"
     },
     {
-     "medio": "Yahoo",
-     "titulo": "🚨XI confirmed: Milan face a tough trip to Sassuolo",
-     "url": "https://sports.yahoo.com/articles/xi-confirmed-milan-face-tough-150800429.html",
-     "pub": "2026-10-11T15:08+00:00"
+     "medio": "talkSPORT",
+     "titulo": "Michael Carrick warned he&#8217;s &#8216;in trouble&#8217; as Manchester United sink to 40-year low against 10-man Spurs",
+     "url": "https://talksport.com/football/4636576/michael-carrick-man-united-future-warning-spurs/",
+     "pub": "2026-10-10T19:11+00:00"
     },
     {
-     "medio": "Yahoo",
-     "titulo": "Serie A: Sassuolo vs. Milan – Confirmed line-ups",
-     "url": "https://sports.yahoo.com/articles/serie-sassuolo-vs-milan-confirmed-145500149.html",
+     "medio": "Daily Mail",
+     "titulo": "Dominic Solanke led the line expertly and repaid Roberto De Zerbi for his show of faith - his rescue act needs to be the catalyst to kick-start Spurs' season, writes MATT BARLOW",
+     "url": "https://www.dailymail.com/sport/football/article-16195575/Tottenham-analysis-Solanke-Zerbi-Barlow.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
      "pub": "2026-10-11T14:55+00:00"
     },
     {
-     "medio": "Mundo Deportivo",
-     "titulo": "Sassuolo - AC Milan, en directo | Serie A",
-     "url": "https://www.mundodeportivo.com/futbol/serie-a/20261011/1004235605/sassuolo-ac-milan-directo-serie.html",
-     "pub": ""
+     "medio": "Daily Mail",
+     "titulo": "Bruno Fernandes cuts frustrated figure as he makes hasty Old Trafford exit after Man United throw away win against 10-man Spurs",
+     "url": "https://www.dailymail.com/sport/football/article-16200131/Bruno-Fernandes-cuts-frustrated-figure-makes-hasty-Old-Trafford-exit-Man-United-throw-away-win-against-10-man-Spurs.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+     "pub": "2026-10-11T11:55+00:00"
     },
     {
-     "medio": "L'Equipe",
-     "titulo": "Toujours invaincue, la Lazio de Gennaro Gattuso rejoint l'Inter Milan en tête de la Serie A",
-     "url": "https://www.lequipe.fr/Football/Actualites/Toujours-invaincue-la-lazio-de-gennaro-gattuso-rejoint-l-inter-milan-en-tete-de-la-serie-a/1724978#at_medium=RSS_feeds",
-     "pub": "2026-10-11T15:18+00:00"
+     "medio": "Daily Mail",
+     "titulo": "'Worried' Gary Neville tells struggling Man United stars to 'get a grip' after Spurs draw ahead of tough run - as he warns midfield duo CAN'T play together and calls out lack of fight in Michael Carrick's men",
+     "url": "https://www.dailymail.com/sport/football/article-16199259/Gary-Neville-struggling-Man-United.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+     "pub": "2026-10-10T22:11+00:00"
     },
     {
-     "medio": "Foot Mercato",
-     "titulo": "AC Milan : Medhi Benatia a déjà quatre gros concurrents !",
-     "url": "https://www.footmercato.net/a6606005491836601491-ac-milan-medhi-benatia-a-deja-quatre-gros-concurrents",
-     "pub": "2026-10-11T08:18+00:00"
+     "medio": "Daily Mail",
+     "titulo": "'Stupid' Rodrigo Bentancur sparks mass brawl after HEADBUTTING Luke Shaw as Spurs star is sent off in clash with Man United",
+     "url": "https://www.dailymail.com/sport/football/article-16199171/Rodrigo-Bentancur-mass-brawl-HEADBUTTING.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+     "pub": "2026-10-10T20:12+00:00"
     },
     {
-     "medio": "Yahoo",
-     "titulo": "Gattuso frustrated with Lazio despite 3-1 Monza win: ‘Like the second half against Milan’",
-     "url": "https://sports.yahoo.com/articles/gattuso-frustrated-lazio-despite-3-162000226.html",
-     "pub": "2026-10-11T16:20+00:00"
+     "medio": "Daily Mail",
+     "titulo": "Feckless Man United were dreadful and embarrassing at times in Spurs draw: Play like this in a week of reckoning and Michael Carrick will be clinging to his job, writes IAN LADYMAN",
+     "url": "https://www.dailymail.com/sport/football/article-16195543/Feckless-Man-United-dreadful-embarrassing-Michael-Carrick.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+     "pub": "2026-10-10T20:44+00:00"
     },
     {
-     "medio": "AS",
-     "titulo": "Sassuolo - Milan, en directo: Serie A, hoy en vivo",
-     "url": "https://as.com/futbol/internacional/sassuolo-milan-en-directo-serie-a-hoy-en-vivo-f202610-n/",
-     "pub": "2026-10-11T15:52+00:00"
+     "medio": "Mirror",
+     "titulo": "Michael Carrick told £35m summer signing caused 'impossible' Man Utd issue vs Spurs",
+     "url": "https://www.mirror.co.uk/sport/football/news/man-utd-spurs-carrick-tielemans-37759461",
+     "pub": "2026-10-11T08:49+00:00"
     },
     {
-     "medio": "Football Italia",
-     "titulo": "Milan forced into early change against Sassuolo as Gabbia stretchered off in tears",
-     "url": "https://football-italia.net/milan-forced-early-change-vs-sassuolo-gabbia/",
-     "pub": "2026-10-11T16:32+00:00"
+     "medio": "Telegraph",
+     "titulo": "Man Utd make worst start in 40 years after being hauled back by 10-man Spurs",
+     "url": "https://www.telegraph.co.uk/football/2026/10/10/manchester-united-vs-tottenham-team-news-and-latest-premier/",
+     "pub": "2026-10-10T20:54+00:00"
     },
     {
-     "medio": "Kicker",
-     "titulo": "Sassuolo - Milan: Tor zum 1:1 durch Odenthal in der 68. Minute",
-     "url": "https://www.kicker.de/sassuolo-milan-tor-zum-1-1-durch-odenthal-in-der-68-minute-1260300/video#omrss",
-     "pub": "2026-10-11T17:38+00:00"
+     "medio": "Google News EN",
+     "titulo": "Man Utd 1-1 Tottenham: Dominic Solanke rescues dramatic draw for 10-man Spurs at Old Trafford",
+     "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQbkZaaDhrU05wMGVXV1dwaHZkeXZLeEY5bEhiTE5OUXhySGdRU1N4SmtNMC1LVWYtSDFYNnBSVklsbGI5emVFb2s3Y2VlSWk3TVo2bUU2dTQzVVRhS1poRkdTbHJWVzRJWHd2TTJCZFpoLWtJT1VGNHlzTXE3eDNLOE5Xbk8zNjRiMkVhSzBOUkItemFoSU9NUDdyMFRyWllzNURCNnJ0VXl5NW84T0lnSWVvb2RtTlZjLUliY1hLOWxlazdYY254NVdWaUZSRzBrQ1UtQjlRRnM?oc=5",
+     "pub": "2026-10-11T14:31+00:00"
     }
    ]
   },
@@ -839,96 +842,6 @@
    ]
   },
   {
-   "tema": "Everton",
-   "medios": 9,
-   "lista_medios": [
-    "BBC",
-    "Daily Mail",
-    "Foot Mercato",
-    "FourFourTwo",
-    "Google News EN",
-    "Guardian",
-    "Mundo Deportivo",
-    "Sky Sports",
-    "Yahoo"
-   ],
-   "primera_vez": "2026-10-11T16:00+00:00",
-   "titulares": [
-    {
-     "medio": "Guardian",
-     "titulo": "Mohamed Belloumi grabs point for Hull in seesaw draw with Everton",
-     "url": "https://www.theguardian.com/football/2026/oct/11/hull-city-everton-premier-league-match-report",
-     "pub": "2026-10-11T15:13+00:00"
-    },
-    {
-     "medio": "Sky Sports",
-     "titulo": "Belloumi earns Hull draw with Everton after thrilling four-goal second half",
-     "url": "https://www.skysports.com/football/hull-city-vs-everton/report/559499",
-     "pub": "2026-10-11T16:00+00:00"
-    },
-    {
-     "medio": "Sky Sports",
-     "titulo": "Belloumi rescues draw for Hull vs Everton after thrilling second half LIVE!",
-     "url": "https://www.skysports.com/football/hull-city-vs-everton/live/559499",
-     "pub": "2026-10-11T12:30+00:00"
-    },
-    {
-     "medio": "Daily Mail",
-     "titulo": "Hull 2-2 Everton: Toffees' unbeaten start continues two days after owners revealed plan to sell and despite calamitous transfer window as Mohamed Belloumi salvages draw for the Tigers in exhilarating second half",
-     "url": "https://www.dailymail.com/sport/football/article-16195583/Hull-2-2-Everton-Mohamed-Belloumi-salvages-draw-Tigers-exhilarating-second-half-visitors-unbeaten-start-continues-two-days-owners-revealed-plan-sell.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-     "pub": "2026-10-11T15:24+00:00"
-    },
-    {
-     "medio": "FourFourTwo",
-     "titulo": "Hull City vs Everton FREE live streams: How to watch",
-     "url": "https://www.fourfourtwo.com/competition/watch-hull-vs-everton-premier-league-2026-27-free",
-     "pub": "2026-10-11T10:00+00:00"
-    },
-    {
-     "medio": "Yahoo",
-     "titulo": "Tarkowski And Dewsbury-Hall Get 8 | Everton Players Rated In Entertaining Draw Vs Hull City",
-     "url": "https://sports.yahoo.com/articles/tarkowski-dewsbury-hall-8-everton-153000484.html",
-     "pub": "2026-10-11T15:30+00:00"
-    },
-    {
-     "medio": "Mundo Deportivo",
-     "titulo": "2-2: Hull City y Everton se reparten los puntos en una segunda parte de locura",
-     "url": "https://www.mundodeportivo.com/futbol/premier-league/20261011/1004237443/hull-city-everton-reparten-puntos-segunda-parte-locura.html",
-     "pub": ""
-    },
-    {
-     "medio": "Mundo Deportivo",
-     "titulo": "Hull City - Everton, en directo | Premier League",
-     "url": "https://www.mundodeportivo.com/futbol/premier-league/20261011/1004235394/hull-city-everton-directo-premier-league.html",
-     "pub": ""
-    },
-    {
-     "medio": "Foot Mercato",
-     "titulo": "Premier League : Pierre Sage et Crystal Palace se donnent de l’air, Everton accroché par Hull City",
-     "url": "https://www.footmercato.net/a829854825299357934-premier-league-pierre-sage-et-crystal-palace-se-donnent-de-lair-everton-accroche-par-hull-city",
-     "pub": "2026-10-11T15:03+00:00"
-    },
-    {
-     "medio": "Google News EN",
-     "titulo": "Hull City vs Everton LIVE! Premier League score updates, news, prediction, line-ups and how to watch or stream",
-     "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPMV9BakhRLUVyMThjczhya3FEdmtjckFMelIweGFoOVdpd2dVcEd2dE93a0ZZV0czZGQ5dnQxOVN0NWZBcHNLWlA5SUtWODZobUdiMGZaYWlmb3Y2UFlxQ3d2SGU4cXU2VnFabkNxTWI4bXMyb3JlV0UwR0lLSkthZEJDYzIxZE9jeFAxdEF3WlcyamRLamdXYVBtbWFhY3I1aEhJVUNmZnhnM1pfcElIY2dqTnM2R1h3c250aEtUcmllWTQ3YXlLdU43Y2Zad1A5OU9YdW9QOW9Gd2xKdEJlc3dDeVZ5U3c2VGsxeXNnLWtwQQ?oc=5",
-     "pub": "2026-10-11T16:03+00:00"
-    },
-    {
-     "medio": "Yahoo",
-     "titulo": "Hull 2-2 Everton analysis: Toffees rue Barry misses and offside flag",
-     "url": "https://sports.yahoo.com/articles/hull-2-2-everton-analysis-160405654.html",
-     "pub": "2026-10-11T16:04+00:00"
-    },
-    {
-     "medio": "Yahoo",
-     "titulo": "Hull 2-2 Everton analysis: City's strong start continues",
-     "url": "https://sports.yahoo.com/articles/hull-2-2-everton-analysis-160114464.html",
-     "pub": "2026-10-11T16:01+00:00"
-    }
-   ]
-  },
-  {
    "tema": "Hull",
    "medios": 9,
    "lista_medios": [
@@ -1019,180 +932,181 @@
    ]
   },
   {
-   "tema": "Spurs",
-   "medios": 8,
+   "tema": "Everton",
+   "medios": 9,
    "lista_medios": [
     "BBC",
     "Daily Mail",
+    "Foot Mercato",
+    "FourFourTwo",
     "Google News EN",
     "Guardian",
-    "Infobae",
-    "Mirror",
-    "Telegraph",
-    "talkSPORT"
+    "Mundo Deportivo",
+    "Sky Sports",
+    "Yahoo"
    ],
    "primera_vez": "2026-10-11T16:00+00:00",
    "titulares": [
     {
-     "medio": "BBC",
-     "titulo": "'I kissed Rodrigo and said thanks' - De Zerbi 'liked' Spurs red card",
-     "url": "https://www.bbc.co.uk/sport/football/articles/cqn73g3pvezdo?at_medium=RSS&at_campaign=rss",
-     "pub": "2026-10-10T20:58+00:00"
-    },
-    {
-     "medio": "BBC",
-     "titulo": "Solanke scores in added time as 10-man Spurs draw with Man Utd",
-     "url": "https://www.bbc.co.uk/sport/football/videos/crz9zdl0g04zo?at_medium=RSS&at_campaign=rss",
-     "pub": "2026-10-10T19:24+00:00"
-    },
-    {
      "medio": "Guardian",
-     "titulo": "Manchester United and Spurs come back to reality as City saga offers brief distraction | John Brewin",
-     "url": "https://www.theguardian.com/football/2026/oct/10/draw-brings-no-respite-for-manchester-united-and-tottenham-as-crises-continue",
-     "pub": "2026-10-10T20:40+00:00"
+     "titulo": "Mohamed Belloumi grabs point for Hull in seesaw draw with Everton",
+     "url": "https://www.theguardian.com/football/2026/oct/11/hull-city-everton-premier-league-match-report",
+     "pub": "2026-10-11T15:13+00:00"
     },
     {
-     "medio": "talkSPORT",
-     "titulo": "Michael Carrick warned he&#8217;s &#8216;in trouble&#8217; as Manchester United sink to 40-year low against 10-man Spurs",
-     "url": "https://talksport.com/football/4636576/michael-carrick-man-united-future-warning-spurs/",
-     "pub": "2026-10-10T19:11+00:00"
+     "medio": "Sky Sports",
+     "titulo": "Belloumi earns Hull draw with Everton after thrilling four-goal second half",
+     "url": "https://www.skysports.com/football/hull-city-vs-everton/report/559499",
+     "pub": "2026-10-11T16:00+00:00"
     },
     {
-     "medio": "Daily Mail",
-     "titulo": "Dominic Solanke led the line expertly and repaid Roberto De Zerbi for his show of faith - his rescue act needs to be the catalyst to kick-start Spurs' season, writes MATT BARLOW",
-     "url": "https://www.dailymail.com/sport/football/article-16195575/Tottenham-analysis-Solanke-Zerbi-Barlow.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-     "pub": "2026-10-11T14:55+00:00"
-    },
-    {
-     "medio": "Daily Mail",
-     "titulo": "Bruno Fernandes cuts frustrated figure as he makes hasty Old Trafford exit after Man United throw away win against 10-man Spurs",
-     "url": "https://www.dailymail.com/sport/football/article-16200131/Bruno-Fernandes-cuts-frustrated-figure-makes-hasty-Old-Trafford-exit-Man-United-throw-away-win-against-10-man-Spurs.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-     "pub": "2026-10-11T11:55+00:00"
+     "medio": "Sky Sports",
+     "titulo": "Belloumi rescues draw for Hull vs Everton after thrilling second half LIVE!",
+     "url": "https://www.skysports.com/football/hull-city-vs-everton/live/559499",
+     "pub": "2026-10-11T12:30+00:00"
     },
     {
      "medio": "Daily Mail",
-     "titulo": "'Worried' Gary Neville tells struggling Man United stars to 'get a grip' after Spurs draw ahead of tough run - as he warns midfield duo CAN'T play together and calls out lack of fight in Michael Carrick's men",
-     "url": "https://www.dailymail.com/sport/football/article-16199259/Gary-Neville-struggling-Man-United.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-     "pub": "2026-10-10T22:11+00:00"
+     "titulo": "Hull 2-2 Everton: Toffees' unbeaten start continues two days after owners revealed plan to sell and despite calamitous transfer window as Mohamed Belloumi salvages draw for the Tigers in exhilarating second half",
+     "url": "https://www.dailymail.com/sport/football/article-16195583/Hull-2-2-Everton-Mohamed-Belloumi-salvages-draw-Tigers-exhilarating-second-half-visitors-unbeaten-start-continues-two-days-owners-revealed-plan-sell.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+     "pub": "2026-10-11T15:24+00:00"
     },
     {
-     "medio": "Daily Mail",
-     "titulo": "'Stupid' Rodrigo Bentancur sparks mass brawl after HEADBUTTING Luke Shaw as Spurs star is sent off in clash with Man United",
-     "url": "https://www.dailymail.com/sport/football/article-16199171/Rodrigo-Bentancur-mass-brawl-HEADBUTTING.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-     "pub": "2026-10-10T20:12+00:00"
+     "medio": "FourFourTwo",
+     "titulo": "Hull City vs Everton FREE live streams: How to watch",
+     "url": "https://www.fourfourtwo.com/competition/watch-hull-vs-everton-premier-league-2026-27-free",
+     "pub": "2026-10-11T10:00+00:00"
     },
     {
-     "medio": "Daily Mail",
-     "titulo": "Feckless Man United were dreadful and embarrassing at times in Spurs draw: Play like this in a week of reckoning and Michael Carrick will be clinging to his job, writes IAN LADYMAN",
-     "url": "https://www.dailymail.com/sport/football/article-16195543/Feckless-Man-United-dreadful-embarrassing-Michael-Carrick.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-     "pub": "2026-10-10T20:44+00:00"
+     "medio": "Yahoo",
+     "titulo": "Tarkowski And Dewsbury-Hall Get 8 | Everton Players Rated In Entertaining Draw Vs Hull City",
+     "url": "https://sports.yahoo.com/articles/tarkowski-dewsbury-hall-8-everton-153000484.html",
+     "pub": "2026-10-11T15:30+00:00"
     },
     {
-     "medio": "Mirror",
-     "titulo": "Michael Carrick told £35m summer signing caused 'impossible' Man Utd issue vs Spurs",
-     "url": "https://www.mirror.co.uk/sport/football/news/man-utd-spurs-carrick-tielemans-37759461",
-     "pub": "2026-10-11T08:49+00:00"
+     "medio": "Mundo Deportivo",
+     "titulo": "2-2: Hull City y Everton se reparten los puntos en una segunda parte de locura",
+     "url": "https://www.mundodeportivo.com/futbol/premier-league/20261011/1004237443/hull-city-everton-reparten-puntos-segunda-parte-locura.html",
+     "pub": ""
     },
     {
-     "medio": "Telegraph",
-     "titulo": "Man Utd make worst start in 40 years after being hauled back by 10-man Spurs",
-     "url": "https://www.telegraph.co.uk/football/2026/10/10/manchester-united-vs-tottenham-team-news-and-latest-premier/",
-     "pub": "2026-10-10T20:54+00:00"
+     "medio": "Mundo Deportivo",
+     "titulo": "Hull City - Everton, en directo | Premier League",
+     "url": "https://www.mundodeportivo.com/futbol/premier-league/20261011/1004235394/hull-city-everton-directo-premier-league.html",
+     "pub": ""
+    },
+    {
+     "medio": "Foot Mercato",
+     "titulo": "Premier League : Pierre Sage et Crystal Palace se donnent de l’air, Everton accroché par Hull City",
+     "url": "https://www.footmercato.net/a829854825299357934-premier-league-pierre-sage-et-crystal-palace-se-donnent-de-lair-everton-accroche-par-hull-city",
+     "pub": "2026-10-11T15:03+00:00"
     },
     {
      "medio": "Google News EN",
-     "titulo": "Man Utd 1-1 Tottenham: Dominic Solanke rescues dramatic draw for 10-man Spurs at Old Trafford",
-     "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQbkZaaDhrU05wMGVXV1dwaHZkeXZLeEY5bEhiTE5OUXhySGdRU1N4SmtNMC1LVWYtSDFYNnBSVklsbGI5emVFb2s3Y2VlSWk3TVo2bUU2dTQzVVRhS1poRkdTbHJWVzRJWHd2TTJCZFpoLWtJT1VGNHlzTXE3eDNLOE5Xbk8zNjRiMkVhSzBOUkItemFoSU9NUDdyMFRyWllzNURCNnJ0VXl5NW84T0lnSWVvb2RtTlZjLUliY1hLOWxlazdYY254NVdWaUZSRzBrQ1UtQjlRRnM?oc=5",
-     "pub": "2026-10-11T14:31+00:00"
+     "titulo": "Hull City vs Everton LIVE! Premier League score updates, news, prediction, line-ups and how to watch or stream",
+     "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPMV9BakhRLUVyMThjczhya3FEdmtjckFMelIweGFoOVdpd2dVcEd2dE93a0ZZV0czZGQ5dnQxOVN0NWZBcHNLWlA5SUtWODZobUdiMGZaYWlmb3Y2UFlxQ3d2SGU4cXU2VnFabkNxTWI4bXMyb3JlV0UwR0lLSkthZEJDYzIxZE9jeFAxdEF3WlcyamRLamdXYVBtbWFhY3I1aEhJVUNmZnhnM1pfcElIY2dqTnM2R1h3c250aEtUcmllWTQ3YXlLdU43Y2Zad1A5OU9YdW9QOW9Gd2xKdEJlc3dDeVZ5U3c2VGsxeXNnLWtwQQ?oc=5",
+     "pub": "2026-10-11T16:03+00:00"
+    },
+    {
+     "medio": "Yahoo",
+     "titulo": "Hull 2-2 Everton analysis: Toffees rue Barry misses and offside flag",
+     "url": "https://sports.yahoo.com/articles/hull-2-2-everton-analysis-160405654.html",
+     "pub": "2026-10-11T16:04+00:00"
+    },
+    {
+     "medio": "Yahoo",
+     "titulo": "Hull 2-2 Everton analysis: City's strong start continues",
+     "url": "https://sports.yahoo.com/articles/hull-2-2-everton-analysis-160114464.html",
+     "pub": "2026-10-11T16:01+00:00"
     }
    ]
   },
   {
-   "tema": "Arsenal",
+   "tema": "Milan",
    "medios": 8,
    "lista_medios": [
+    "AS",
     "BBC",
+    "Foot Mercato",
     "Football Italia",
-    "FourFourTwo",
-    "Guardian",
-    "Mirror",
-    "Yahoo",
-    "ge.globo",
-    "talkSPORT"
+    "Kicker",
+    "L'Equipe",
+    "Mundo Deportivo",
+    "Yahoo"
    ],
    "primera_vez": "2026-10-11T16:00+00:00",
    "titulares": [
     {
      "medio": "BBC",
-     "titulo": "Hincapie injury adds to Arsenal issues after Guimaraes rescue act",
-     "url": "https://www.bbc.co.uk/sport/football/articles/c63r5w20ez3do?at_medium=RSS&at_campaign=rss",
-     "pub": "2026-10-10T15:44+00:00"
-    },
-    {
-     "medio": "BBC",
-     "titulo": "Brilliant Guimaraes goal helps Arsenal fight back to beat Leeds",
-     "url": "https://www.bbc.co.uk/sport/football/videos/c6y4z9lnkz30o?at_medium=RSS&at_campaign=rss",
-     "pub": "2026-10-10T19:00+00:00"
-    },
-    {
-     "medio": "Guardian",
-     "titulo": "Bruno Guimarães completes Arsenal comeback to end Leeds’ unbeaten run",
-     "url": "https://www.theguardian.com/football/2026/oct/10/arsenal-leeds-premier-league-match-report",
-     "pub": "2026-10-10T13:41+00:00"
-    },
-    {
-     "medio": "talkSPORT",
-     "titulo": "Bukayo Saka told he&#8217;s not justifying contract as Arsenal legend gives key piece of advice",
-     "url": "https://talksport.com/football/4637028/arsenal-bukayo-saka-david-oleary-advice/",
-     "pub": "2026-10-11T12:05+00:00"
-    },
-    {
-     "medio": "talkSPORT",
-     "titulo": "Arsenal given major injury scare as star carried off during warm down after Leeds win",
-     "url": "https://talksport.com/football/4636492/arsenal-injury-leeds-piero-hincapie/",
-     "pub": "2026-10-10T16:42+00:00"
-    },
-    {
-     "medio": "talkSPORT",
-     "titulo": "Arsenal make 27-year history during Leeds comeback win",
-     "url": "https://talksport.com/football/4636236/arsenal-make-27-year-history-during-leeds-comeback-win/",
-     "pub": "2026-10-10T14:20+00:00"
-    },
-    {
-     "medio": "talkSPORT",
-     "titulo": "&#8216;I was embarrassed&#8217; &#8211; Jermaine Pennant reveals hidden battle during Arsenal and Liverpool career",
-     "url": "https://talksport.com/football/4634218/jermaine-pennant-adhd-depression-arsenal-liverpool-birmingham/",
-     "pub": "2026-10-10T08:45+00:00"
-    },
-    {
-     "medio": "Mirror",
-     "titulo": "Ray Parlour accuses Arsenal star of 'not doing his job' in Leeds victory",
-     "url": "https://www.mirror.co.uk/sport/football/news/arsenal-noni-madueke-leeds-parlour-37759772",
-     "pub": "2026-10-11T11:31+00:00"
-    },
-    {
-     "medio": "FourFourTwo",
-     "titulo": "Watch Arsenal vs Leeds United: FREE streams and TV channels",
-     "url": "https://www.fourfourtwo.com/competition/watch-arsenal-vs-leeds-united-premier-league-2026-27-free",
-     "pub": "2026-10-10T08:30+00:00"
+     "titulo": "AC Milan keen on Scott - Sunday's gossip",
+     "url": "https://www.bbc.co.uk/sport/football/articles/cmy0rp2r516po?at_medium=RSS&at_campaign=rss",
+     "pub": "2026-10-10T22:01+00:00"
     },
     {
      "medio": "Yahoo",
-     "titulo": "2nd Arsenal player also picked up injury in post-Leeds warm-down",
-     "url": "https://sports.yahoo.com/articles/2nd-arsenal-player-picked-injury-152000891.html",
-     "pub": "2026-10-11T15:20+00:00"
+     "titulo": "Amorim: ‘Milan system doesn’t matter as much as being aggressive’",
+     "url": "https://sports.yahoo.com/articles/amorim-milan-system-doesn-t-154000703.html",
+     "pub": "2026-10-11T15:40+00:00"
     },
     {
      "medio": "Yahoo",
-     "titulo": "Arsenal set for breakthrough in contract talks with crucial trio",
-     "url": "https://sports.yahoo.com/articles/arsenal-set-breakthrough-contract-talks-135000039.html",
-     "pub": "2026-10-11T13:50+00:00"
+     "titulo": "🚨XI confirmed: Milan face a tough trip to Sassuolo",
+     "url": "https://sports.yahoo.com/articles/xi-confirmed-milan-face-tough-150800429.html",
+     "pub": "2026-10-11T15:08+00:00"
+    },
+    {
+     "medio": "Yahoo",
+     "titulo": "Serie A: Sassuolo vs. Milan – Confirmed line-ups",
+     "url": "https://sports.yahoo.com/articles/serie-sassuolo-vs-milan-confirmed-145500149.html",
+     "pub": "2026-10-11T14:55+00:00"
+    },
+    {
+     "medio": "Mundo Deportivo",
+     "titulo": "Sassuolo - AC Milan, en directo | Serie A",
+     "url": "https://www.mundodeportivo.com/futbol/serie-a/20261011/1004235605/sassuolo-ac-milan-directo-serie.html",
+     "pub": ""
+    },
+    {
+     "medio": "L'Equipe",
+     "titulo": "Toujours invaincue, la Lazio de Gennaro Gattuso rejoint l'Inter Milan en tête de la Serie A",
+     "url": "https://www.lequipe.fr/Football/Actualites/Toujours-invaincue-la-lazio-de-gennaro-gattuso-rejoint-l-inter-milan-en-tete-de-la-serie-a/1724978#at_medium=RSS_feeds",
+     "pub": "2026-10-11T15:18+00:00"
+    },
+    {
+     "medio": "Foot Mercato",
+     "titulo": "AC Milan : Medhi Benatia a déjà quatre gros concurrents !",
+     "url": "https://www.footmercato.net/a6606005491836601491-ac-milan-medhi-benatia-a-deja-quatre-gros-concurrents",
+     "pub": "2026-10-11T08:18+00:00"
+    },
+    {
+     "medio": "Yahoo",
+     "titulo": "Gattuso frustrated with Lazio despite 3-1 Monza win: ‘Like the second half against Milan’",
+     "url": "https://sports.yahoo.com/articles/gattuso-frustrated-lazio-despite-3-162000226.html",
+     "pub": "2026-10-11T16:20+00:00"
+    },
+    {
+     "medio": "AS",
+     "titulo": "Sassuolo - Milan, en directo: Serie A, hoy en vivo",
+     "url": "https://as.com/futbol/internacional/sassuolo-milan-en-directo-serie-a-hoy-en-vivo-f202610-n/",
+     "pub": "2026-10-11T15:52+00:00"
     },
     {
      "medio": "Football Italia",
-     "titulo": "Arsenal trio and Italy defender react as Calafiori scores first Arsenal goal at the Emirates",
-     "url": "https://football-italia.net/arsenal-trio-italy-defender-calafiori-goal/",
-     "pub": "2026-10-11T08:54+00:00"
+     "titulo": "Milan forced into early change against Sassuolo as Gabbia stretchered off in tears",
+     "url": "https://football-italia.net/milan-forced-early-change-vs-sassuolo-gabbia/",
+     "pub": "2026-10-11T16:32+00:00"
+    },
+    {
+     "medio": "Kicker",
+     "titulo": "Sassuolo - Milan: Tor zum 1:1 durch Odenthal in der 68. Minute",
+     "url": "https://www.kicker.de/sassuolo-milan-tor-zum-1-1-durch-odenthal-in-der-68-minute-1260300/video#omrss",
+     "pub": "2026-10-11T17:38+00:00"
+    },
+    {
+     "medio": "Kicker",
+     "titulo": "Rabiot-Knaller aus spitzen Winkel: Milan führt mit 1:0",
+     "url": "https://www.kicker.de/rabiot-knaller-aus-spitzen-winkel-milan-fuehrt-mit-1-0-1260297/video#omrss",
+     "pub": "2026-10-11T17:33+00:00"
     }
    ]
   },
@@ -1543,6 +1457,12 @@
      "titulo": "El Lazio de Gattuso sigue el ritmo del Inter con un gran gol de Nuno Tavares",
      "url": "https://www.mundodeportivo.com/futbol/serie-a/20261011/1004237454/lazio.html",
      "pub": ""
+    },
+    {
+     "medio": "Yahoo",
+     "titulo": "Lazio boss Rino Gattuso believes he deserves more credit as manager",
+     "url": "https://sports.yahoo.com/articles/lazio-boss-rino-gattuso-believes-201400412.html",
+     "pub": "2026-10-11T20:14+00:00"
     }
    ]
   },
@@ -1626,6 +1546,12 @@
      "titulo": "Seedorf pede apoio da torcida do Corinthians e promete \"fazer o melhor\"",
      "url": "https://ge.globo.com/futebol/times/corinthians/noticia/2026/10/11/seedorf-pede-apoio-da-torcida-do-corinthians-e-promete-fazer-o-melhor.ghtml",
      "pub": "2026-10-11T17:04+00:00"
+    },
+    {
+     "medio": "ge.globo",
+     "titulo": "Marcelo Paz explica escolha por Seedorf e quer Corinthians pragmático: \"Ganhar de 1 a 0\"",
+     "url": "https://ge.globo.com/futebol/times/corinthians/noticia/2026/10/11/marcelo-paz-explica-escolha-por-seedorf-e-quer-corinthians-pragmatico-ganhar-de-1-a-0.ghtml",
+     "pub": "2026-10-11T20:12+00:00"
     }
    ]
   },
@@ -1884,6 +1810,94 @@
    ]
   },
   {
+   "tema": "Arsenal",
+   "medios": 7,
+   "lista_medios": [
+    "BBC",
+    "Football Italia",
+    "Guardian",
+    "Mirror",
+    "Yahoo",
+    "ge.globo",
+    "talkSPORT"
+   ],
+   "primera_vez": "2026-10-11T16:00+00:00",
+   "titulares": [
+    {
+     "medio": "BBC",
+     "titulo": "Hincapie injury adds to Arsenal issues after Guimaraes rescue act",
+     "url": "https://www.bbc.co.uk/sport/football/articles/c63r5w20ez3do?at_medium=RSS&at_campaign=rss",
+     "pub": "2026-10-10T15:44+00:00"
+    },
+    {
+     "medio": "BBC",
+     "titulo": "Brilliant Guimaraes goal helps Arsenal fight back to beat Leeds",
+     "url": "https://www.bbc.co.uk/sport/football/videos/c6y4z9lnkz30o?at_medium=RSS&at_campaign=rss",
+     "pub": "2026-10-10T19:00+00:00"
+    },
+    {
+     "medio": "Guardian",
+     "titulo": "Bruno Guimarães completes Arsenal comeback to end Leeds’ unbeaten run",
+     "url": "https://www.theguardian.com/football/2026/oct/10/arsenal-leeds-premier-league-match-report",
+     "pub": "2026-10-10T13:41+00:00"
+    },
+    {
+     "medio": "talkSPORT",
+     "titulo": "Bukayo Saka told he&#8217;s not justifying contract as Arsenal legend gives key piece of advice",
+     "url": "https://talksport.com/football/4637028/arsenal-bukayo-saka-david-oleary-advice/",
+     "pub": "2026-10-11T12:05+00:00"
+    },
+    {
+     "medio": "talkSPORT",
+     "titulo": "Arsenal given major injury scare as star carried off during warm down after Leeds win",
+     "url": "https://talksport.com/football/4636492/arsenal-injury-leeds-piero-hincapie/",
+     "pub": "2026-10-10T16:42+00:00"
+    },
+    {
+     "medio": "talkSPORT",
+     "titulo": "Arsenal make 27-year history during Leeds comeback win",
+     "url": "https://talksport.com/football/4636236/arsenal-make-27-year-history-during-leeds-comeback-win/",
+     "pub": "2026-10-10T14:20+00:00"
+    },
+    {
+     "medio": "Mirror",
+     "titulo": "Ray Parlour accuses Arsenal star of 'not doing his job' in Leeds victory",
+     "url": "https://www.mirror.co.uk/sport/football/news/arsenal-noni-madueke-leeds-parlour-37759772",
+     "pub": "2026-10-11T11:31+00:00"
+    },
+    {
+     "medio": "Yahoo",
+     "titulo": "2nd Arsenal player also picked up injury in post-Leeds warm-down",
+     "url": "https://sports.yahoo.com/articles/2nd-arsenal-player-picked-injury-152000891.html",
+     "pub": "2026-10-11T15:20+00:00"
+    },
+    {
+     "medio": "Yahoo",
+     "titulo": "Arsenal set for breakthrough in contract talks with crucial trio",
+     "url": "https://sports.yahoo.com/articles/arsenal-set-breakthrough-contract-talks-135000039.html",
+     "pub": "2026-10-11T13:50+00:00"
+    },
+    {
+     "medio": "Football Italia",
+     "titulo": "Arsenal trio and Italy defender react as Calafiori scores first Arsenal goal at the Emirates",
+     "url": "https://football-italia.net/arsenal-trio-italy-defender-calafiori-goal/",
+     "pub": "2026-10-11T08:54+00:00"
+    },
+    {
+     "medio": "ge.globo",
+     "titulo": "Gabriel Jesus tem começo mais eficiente no Barcelona do que em Arsenal e Manchester City",
+     "url": "https://ge.globo.com/futebol/futebol-internacional/futebol-espanhol/noticia/2026/10/11/gabriel-jesus-tem-comeco-mais-eficiente-no-barcelona-do-que-em-arsenal-e-manchester-city.ghtml",
+     "pub": "2026-10-11T07:00+00:00"
+    },
+    {
+     "medio": "ge.globo",
+     "titulo": "Bruno Guimarães fala em \"sensação única\" após primeiro gol na casa do Arsenal",
+     "url": "https://ge.globo.com/futebol/futebol-internacional/futebol-ingles/noticia/2026/10/11/bruno-guimaraes-fala-em-sensacao-unica-apos-primeiro-gol-na-casa-do-arsenal.ghtml",
+     "pub": "2026-10-11T06:00+00:00"
+    }
+   ]
+  },
+  {
    "tema": "Chelsea",
    "medios": 7,
    "lista_medios": [
@@ -1950,6 +1964,12 @@
      "titulo": "‘I just want to focus on myself’ – Dario Essugo not trying to prove a point to Chelsea after opening his Strasbourg account",
      "url": "https://sports.yahoo.com/articles/just-want-focus-myself-dario-170500204.html",
      "pub": "2026-10-11T17:05+00:00"
+    },
+    {
+     "medio": "Yahoo",
+     "titulo": "Arsenal Are Among The Clubs Showing Interest In This Chelsea Defender: Should Arteta Move In For Him?",
+     "url": "https://sports.yahoo.com/articles/arsenal-among-clubs-showing-interest-195000518.html",
+     "pub": "2026-10-11T19:50+00:00"
     }
    ]
   },
@@ -2102,6 +2122,273 @@
      "titulo": "Rabiot eröffnet kraftvoll, Sassuolo mit Eckballvariante zum remis",
      "url": "https://www.kicker.de/rabiot-eroeffnet-kraftvoll-sassuolo-mit-eckballvariante-zum-remis-1260326/video#omrss",
      "pub": "2026-10-11T18:35+00:00"
+    },
+    {
+     "medio": "Yahoo",
+     "titulo": "Milan threw away two points against Sassuolo, says Ruben Amorim",
+     "url": "https://sports.yahoo.com/articles/milan-threw-away-two-points-202900377.html",
+     "pub": "2026-10-11T20:29+00:00"
+    }
+   ]
+  },
+  {
+   "tema": "Cagliari",
+   "medios": 7,
+   "lista_medios": [
+    "Foot Mercato",
+    "Football Italia",
+    "Google News ES",
+    "Kicker",
+    "Mundo Deportivo",
+    "Ole",
+    "Yahoo"
+   ],
+   "primera_vez": "2026-10-11T16:00+00:00",
+   "titulares": [
+    {
+     "medio": "Google News ES",
+     "titulo": "Cagliari vs Juventus de Serie A 2026/2027: horario y dónde ver hoy por TV y online el partido de la liga italiana a través de DAZN",
+     "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNNy1aaFdZdnhMaVlsRnppeGZzRGxYWW9DcnVTamRjXzRCem5HNlpnX2JSekZqX2t2S3ZfRE5LMW40MXhrVi1MemZra3dPLUJEbl80RzVJLW5IYzhWVExOM1NhcUp6bWRqQXpkam1FYzJxeFN0cmRMSHBiR0std1UwczBqTzJuQmxRRHpSMEdDOXVyQ08wU1d2ZTVuOE5WRXVzNDVpUlgyTTFpb09LNnBUN0Q4R2JtZS1xSG03ZXF3WV9SNnRyLWlaSU1KOGNBM3N4dkJOaGZHZHBKUjRXUVNqOTFkZDJRV3BKUGFpa3h1M21lREVLWXVSb2loZw?oc=5",
+     "pub": "2026-10-11T12:40+00:00"
+    },
+    {
+     "medio": "Football Italia",
+     "titulo": "Official: Juventus squad list for Cagliari clash as eight still unavailable",
+     "url": "https://football-italia.net/juventus-squad-list-cagliari-clash-8-out/",
+     "pub": "2026-10-11T11:11+00:00"
+    },
+    {
+     "medio": "Football Italia",
+     "titulo": "Serie A: Cagliari vs. Juventus: Confirmed line-ups",
+     "url": "https://football-italia.net/serie-a-cagliari-vs-juventus-official-line-ups/",
+     "pub": "2026-10-11T17:35+00:00"
+    },
+    {
+     "medio": "Mundo Deportivo",
+     "titulo": "Cagliari - Juventus, en directo | Serie A",
+     "url": "https://www.mundodeportivo.com/futbol/serie-a/20261011/1004235608/cagliari-juventus-directo-serie.html",
+     "pub": ""
+    },
+    {
+     "medio": "Kicker",
+     "titulo": "Cagliari - Juventus: Tor zum 1:0 durch Maldini in der 20. Minute",
+     "url": "https://www.kicker.de/cagliari-juventus-tor-zum-1-0-durch-maldini-in-der-20-minute-1260339/video#omrss",
+     "pub": "2026-10-11T19:12+00:00"
+    },
+    {
+     "medio": "Ole",
+     "titulo": "Insólito momento en Italia: una pareja festejó su casamiento en el estadio del Cagliari",
+     "url": "https://www.ole.com.ar/futbol-internacional/italia/cagliari-juventus-matrimonio-festejo-casamiento-serie-ax_0_VcWesLutVU.html",
+     "pub": "2026-10-11T19:19+00:00"
+    },
+    {
+     "medio": "Yahoo",
+     "titulo": "Serie A | Cagliari 1-1 Juventus: Kolo Muani first goal to rescue a point",
+     "url": "https://sports.yahoo.com/articles/serie-cagliari-1-1-juventus-204000299.html",
+     "pub": "2026-10-11T20:40+00:00"
+    },
+    {
+     "medio": "Kicker",
+     "titulo": "Cagliari - Juventus: Tor zum 1:1 durch Kolo Muani in der 81. Minute",
+     "url": "https://www.kicker.de/cagliari-juventus-tor-zum-1-1-durch-kolo-muani-in-der-81-minute-1260360/video#omrss",
+     "pub": "2026-10-11T20:29+00:00"
+    },
+    {
+     "medio": "Foot Mercato",
+     "titulo": "Serie A : Randal Kolo Muani sauve la Juve contre Cagliari",
+     "url": "https://www.footmercato.net/a2358596021589016777-serie-a-randal-kolo-muani-sauve-la-juve-contre-cagliari",
+     "pub": "2026-10-11T20:42+00:00"
+    }
+   ]
+  },
+  {
+   "tema": "Cherki",
+   "medios": 7,
+   "lista_medios": [
+    "AS",
+    "BBC",
+    "Foot Mercato",
+    "Guardian",
+    "Infobae",
+    "L'Equipe",
+    "Yahoo"
+   ],
+   "primera_vez": "2026-10-11T16:00+00:00",
+   "titulares": [
+    {
+     "medio": "L'Equipe",
+     "titulo": "Les compositions de Liverpool-Manchester City : Cherki, Barcola et Jacquet débutent, baptême du feu pour Koumas",
+     "url": "https://www.lequipe.fr/Football/Actualites/Les-compositions-de-liverpool-manchester-city-cherki-barcola-et-jacquet-debutent-bapteme-du-feu-pour-koumas/1724964#at_medium=RSS_feeds",
+     "pub": "2026-10-11T14:54+00:00"
+    },
+    {
+     "medio": "BBC",
+     "titulo": "Cherki sparkles but who must do more? - player ratings for Liverpool v Man City",
+     "url": "https://www.bbc.co.uk/sport/football/articles/ck87z1jjynyqo?at_medium=RSS&at_campaign=rss",
+     "pub": "2026-10-11T17:30+00:00"
+    },
+    {
+     "medio": "AS",
+     "titulo": "Cherki firma el mejor gol de la Premier 2026: disfruten de toda la jugada porque es antólogica",
+     "url": "https://as.com/futbol/videos/cherki-firma-el-mejor-gol-de-la-premier-2026-disfruten-de-toda-la-jugada-porque-es-antologica-f202610-v/",
+     "pub": "2026-10-11T17:27+00:00"
+    },
+    {
+     "medio": "L'Equipe",
+     "titulo": "Ballon entre les jambes, crochet... Le sublime but de Rayan Cherki lors du choc de la Premier League entre Manchester City et Liverpool en vidéo",
+     "url": "https://www.lequipe.fr/Football/Actualites/Ballon-entre-les-jambes-crochet-le-sublime-but-de-rayan-cherki-lors-du-choc-de-la-premier-league-entre-manchester-city-et-liverpool-en-video/1725024#at_medium=RSS_feeds",
+     "pub": "2026-10-11T17:21+00:00"
+    },
+    {
+     "medio": "Foot Mercato",
+     "titulo": "Manchester City : le but exceptionnel de Rayan Cherki contre Liverpool",
+     "url": "https://www.footmercato.net/a3865014053492149953-manchester-city-le-but-exceptionnel-de-rayan-cherki-contre-liverpool",
+     "pub": "2026-10-11T17:15+00:00"
+    },
+    {
+     "medio": "Guardian",
+     "titulo": "Cherki cracker caps Manchester City win at Liverpool in face of Anfield taunts",
+     "url": "https://www.theguardian.com/football/2026/oct/11/liverpool-manchester-city-premier-league-match-report",
+     "pub": "2026-10-11T17:42+00:00"
+    },
+    {
+     "medio": "Yahoo",
+     "titulo": "Cherki Gets 8, Haaland With 7.5 | Manchester City Players Rated In Impressive Win Vs Liverpool",
+     "url": "https://sports.yahoo.com/articles/cherki-gets-8-haaland-7-180000775.html",
+     "pub": "2026-10-11T18:00+00:00"
+    },
+    {
+     "medio": "Infobae",
+     "titulo": "Las perlitas del triunfo del Manchester City ante el Liverpool: del chispazo entre Enzo Fernández y Mac Allister al golazo de Cherki",
+     "url": "https://www.infobae.com/deportes/2026/10/11/las-perlitas-del-triunfo-del-manchester-city-ante-el-liverpool-del-chispazo-entre-enzo-fernandez-y-mac-allister-al-golazo-de-cherki/",
+     "pub": "2026-10-11T19:46+00:00"
+    }
+   ]
+  },
+  {
+   "tema": "Iraola",
+   "medios": 7,
+   "lista_medios": [
+    "BBC",
+    "Daily Mail",
+    "Google News EN",
+    "L'Equipe",
+    "Mirror",
+    "Mundo Deportivo",
+    "Yahoo"
+   ],
+   "primera_vez": "2026-10-11T17:45+00:00",
+   "titulares": [
+    {
+     "medio": "Yahoo",
+     "titulo": "Andoni Iraola reaction — What did Liverpool boss say on Gravenberch red card, late implosion vs Man City?",
+     "url": "https://sports.yahoo.com/articles/andoni-iraola-reaction-did-liverpool-172259661.html",
+     "pub": "2026-10-11T17:22+00:00"
+    },
+    {
+     "medio": "Mundo Deportivo",
+     "titulo": "0-3: El Manchester City 'post veredicto' golea al Liverpool de Iraola en Anfield",
+     "url": "https://www.mundodeportivo.com/futbol/premier-league/20261011/1004237497/liverpool.html",
+     "pub": ""
+    },
+    {
+     "medio": "BBC",
+     "titulo": "'I didn't like the refereeing' - Iraola unhappy with Gravenberch red",
+     "url": "https://www.bbc.co.uk/sport/football/videos/cj20v49vd4zro?at_medium=RSS&at_campaign=rss",
+     "pub": "2026-10-11T18:46+00:00"
+    },
+    {
+     "medio": "Daily Mail",
+     "titulo": "Liverpool 0-3 Man City PLAYER RATINGS: Who always made the wrong decision in the big moments? Who will Andoni Iraola be demanding more from? And who could be City's main man but for pending punishments?",
+     "url": "https://www.dailymail.com/sport/football/article-16195643/Liverpool-0-3-Man-City-PLAYER-RATINGS.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+     "pub": "2026-10-11T17:51+00:00"
+    },
+    {
+     "medio": "Mirror",
+     "titulo": "Andoni Iraola slams Ryan Gravenberch red card decision and bemoans Man City 'uncertainty'",
+     "url": "https://www.mirror.co.uk/sport/football/news/andoni-iraola-man-city-liverpool-37760770",
+     "pub": "2026-10-11T18:55+00:00"
+    },
+    {
+     "medio": "Google News EN",
+     "titulo": "Premier League: Liverpool 0-3 Manchester City - Andoni Iraola post match interview",
+     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE05c2FuaDk1X3FsNGhaaUE5bjRkdGowdDNnTkpLdU91WjlPbTUzQ1p5Z3lYYVBxV1FUNTFEYmRBaXNNdFlSTkVELVZhTVVYOUZhekZ0UWw0Mnd3Xy1sZFl6Rk5jNkpEVmFo?oc=5",
+     "pub": "2026-10-11T18:45+00:00"
+    },
+    {
+     "medio": "Mundo Deportivo",
+     "titulo": "Iraola, tras el fin de su sensacional racha: \"Se aprende mucho en partidos así\"",
+     "url": "https://www.mundodeportivo.com/futbol/premier-league/20261011/1004237556/iraola-sensacional-racha-aprende-partidos-asi.html",
+     "pub": ""
+    },
+    {
+     "medio": "L'Equipe",
+     "titulo": "Iraola : « Deux matches différents, avant et après le carton rouge »",
+     "url": "https://www.lequipe.fr/Football/Video/Premier-league-andoni-iraola-frustre-par-le-scenario-face-a-manchester-city-deux-matches-differents-avant-et-apres-le-carton-rouge/20243014#at_medium=RSS_feeds",
+     "pub": "2026-10-11T20:25+00:00"
+    }
+   ]
+  },
+  {
+   "tema": "Zerbi",
+   "medios": 6,
+   "lista_medios": [
+    "BBC",
+    "Daily Mail",
+    "Foot Mercato",
+    "L'Equipe",
+    "Planet Football",
+    "Yahoo"
+   ],
+   "primera_vez": "2026-10-11T16:00+00:00",
+   "titulares": [
+    {
+     "medio": "BBC",
+     "titulo": "'I kissed Rodrigo and said thanks' - De Zerbi 'liked' Spurs red card",
+     "url": "https://www.bbc.co.uk/sport/football/articles/cqn73g3pvezdo?at_medium=RSS&at_campaign=rss",
+     "pub": "2026-10-10T20:58+00:00"
+    },
+    {
+     "medio": "BBC",
+     "titulo": "'Tottenham needs this reaction' - De Zerbi defends Bentancur red",
+     "url": "https://www.bbc.co.uk/sport/football/videos/cq39818v0ekzo?at_medium=RSS&at_campaign=rss",
+     "pub": "2026-10-10T19:46+00:00"
+    },
+    {
+     "medio": "Daily Mail",
+     "titulo": "Dominic Solanke led the line expertly and repaid Roberto De Zerbi for his show of faith - his rescue act needs to be the catalyst to kick-start Spurs' season, writes MATT BARLOW",
+     "url": "https://www.dailymail.com/sport/football/article-16195575/Tottenham-analysis-Solanke-Zerbi-Barlow.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+     "pub": "2026-10-11T14:55+00:00"
+    },
+    {
+     "medio": "Planet Football",
+     "titulo": "The iffy Premier League table since Tottenham appointed Roberto De Zerbi",
+     "url": "https://www.planetfootball.com/tottenham-hotspur/premier-league-table-roberto-de-zerbi-spurs",
+     "pub": "2026-10-10T18:49+00:00"
+    },
+    {
+     "medio": "L'Equipe",
+     "titulo": "De Zerbi : « Je veux voir ce caractère à chaque match »",
+     "url": "https://www.lequipe.fr/Football/Video/Premier-league-tottenham-roberto-de-zerbi-apres-manchester-united-tottenham-je-veux-voir-ce-caractere-a-chaque-match/20242988#at_medium=RSS_feeds",
+     "pub": "2026-10-11T09:34+00:00"
+    },
+    {
+     "medio": "Foot Mercato",
+     "titulo": "Tottenham : les stages à Marbella de Roberto De Zerbi servent-ils réellement à quelque chose",
+     "url": "https://www.footmercato.net/a1605781767685981346-tottenham-les-stages-a-marbella-de-roberto-de-zerbi-servent-ils-reellement-a-quelque-chose",
+     "pub": "2026-10-11T16:15+00:00"
+    },
+    {
+     "medio": "Yahoo",
+     "titulo": "Tottenham Hotspur Are Keeping Tabs On This Serie A Full-Back: Should De Zerbi Get Him On Board?",
+     "url": "https://sports.yahoo.com/articles/tottenham-hotspur-keeping-tabs-serie-202000736.html",
+     "pub": "2026-10-11T20:20+00:00"
+    },
+    {
+     "medio": "Yahoo",
+     "titulo": "Roberto De Zerbi defends Spurs star after Man United controversy",
+     "url": "https://sports.yahoo.com/articles/roberto-zerbi-defends-spurs-star-195000729.html",
+     "pub": "2026-10-11T19:50+00:00"
     }
    ]
   },
@@ -2187,75 +2474,6 @@
    ]
   },
   {
-   "tema": "Leeds",
-   "medios": 6,
-   "lista_medios": [
-    "BBC",
-    "FourFourTwo",
-    "Guardian",
-    "Mirror",
-    "Yahoo",
-    "talkSPORT"
-   ],
-   "primera_vez": "2026-10-11T16:00+00:00",
-   "titulares": [
-    {
-     "medio": "BBC",
-     "titulo": "Brilliant Guimaraes goal helps Arsenal fight back to beat Leeds",
-     "url": "https://www.bbc.co.uk/sport/football/videos/c6y4z9lnkz30o?at_medium=RSS&at_campaign=rss",
-     "pub": "2026-10-10T19:00+00:00"
-    },
-    {
-     "medio": "Guardian",
-     "titulo": "Bruno Guimarães completes Arsenal comeback to end Leeds’ unbeaten run",
-     "url": "https://www.theguardian.com/football/2026/oct/10/arsenal-leeds-premier-league-match-report",
-     "pub": "2026-10-10T13:41+00:00"
-    },
-    {
-     "medio": "talkSPORT",
-     "titulo": "Arsenal given major injury scare as star carried off during warm down after Leeds win",
-     "url": "https://talksport.com/football/4636492/arsenal-injury-leeds-piero-hincapie/",
-     "pub": "2026-10-10T16:42+00:00"
-    },
-    {
-     "medio": "talkSPORT",
-     "titulo": "Arsenal make 27-year history during Leeds comeback win",
-     "url": "https://talksport.com/football/4636236/arsenal-make-27-year-history-during-leeds-comeback-win/",
-     "pub": "2026-10-10T14:20+00:00"
-    },
-    {
-     "medio": "Mirror",
-     "titulo": "Ray Parlour accuses Arsenal star of 'not doing his job' in Leeds victory",
-     "url": "https://www.mirror.co.uk/sport/football/news/arsenal-noni-madueke-leeds-parlour-37759772",
-     "pub": "2026-10-11T11:31+00:00"
-    },
-    {
-     "medio": "FourFourTwo",
-     "titulo": "Watch Arsenal vs Leeds United: FREE streams and TV channels",
-     "url": "https://www.fourfourtwo.com/competition/watch-arsenal-vs-leeds-united-premier-league-2026-27-free",
-     "pub": "2026-10-10T08:30+00:00"
-    },
-    {
-     "medio": "Yahoo",
-     "titulo": "2nd Arsenal player also picked up injury in post-Leeds warm-down",
-     "url": "https://sports.yahoo.com/articles/2nd-arsenal-player-picked-injury-152000891.html",
-     "pub": "2026-10-11T15:20+00:00"
-    },
-    {
-     "medio": "Yahoo",
-     "titulo": "Arsenal dealt injury blow after Leeds United win",
-     "url": "https://sports.yahoo.com/articles/arsenal-dealt-injury-blow-leeds-185000230.html",
-     "pub": "2026-10-11T18:50+00:00"
-    },
-    {
-     "medio": "Yahoo",
-     "titulo": "Leeds Captain Can Reach New Level, Says Ex-Star: Can Farke Unlock His Midfielder?",
-     "url": "https://sports.yahoo.com/articles/leeds-captain-reach-level-says-184500393.html",
-     "pub": "2026-10-11T18:45+00:00"
-    }
-   ]
-  },
-  {
    "tema": "Nottingham",
    "medios": 6,
    "lista_medios": [
@@ -2333,237 +2551,6 @@
      "titulo": "Premier League: Crystal Palace 3-1 Nottingham Forest - Adam Wharton post match interview",
      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5kNUN2QV8xbmlHUDBicEVnNGtaanNHRllWbklxQW9BOVFqcVRnNGRNeHFvMnNtaUdCMU1hVXVyTWZqNEhKNUtYRThvVEs4WnhpeTVYck1ReU9yT29ndEw1V0ZIM0owNlVH?oc=5",
      "pub": "2026-10-11T16:46+00:00"
-    }
-   ]
-  },
-  {
-   "tema": "Villarreal",
-   "medios": 6,
-   "lista_medios": [
-    "AS",
-    "FourFourTwo",
-    "Guardian",
-    "Mundo Deportivo",
-    "Yahoo",
-    "ge.globo"
-   ],
-   "primera_vez": "2026-10-11T16:00+00:00",
-   "titulares": [
-    {
-     "medio": "Guardian",
-     "titulo": "Real Madrid’s Vinícius Júnior sent off for hair-pulling in victory over Villarreal",
-     "url": "https://www.theguardian.com/football/2026/oct/10/real-madrids-vinicius-junior-sent-off-for-hair-pulling-in-victory-over-villarreal",
-     "pub": "2026-10-10T21:38+00:00"
-    },
-    {
-     "medio": "FourFourTwo",
-     "titulo": "How to watch Real Madrid vs Villarreal for FREE: Live stream details for La Liga clash",
-     "url": "https://www.fourfourtwo.com/competition/watch-real-madrid-vs-villarreal-la-liga-free",
-     "pub": "2026-10-10T15:00+00:00"
-    },
-    {
-     "medio": "AS",
-     "titulo": "Real Madrid 1-0 Villarreal: resumen, gol y resultado",
-     "url": "https://as.com/futbol/primera/real-madrid-villarreal-hoy-en-directo-ultima-hora-de-la-laliga-ea-sports-en-el-santiago-bernabeu-en-vivo-f202610-d-2/",
-     "pub": "2026-10-11T08:07+00:00"
-    },
-    {
-     "medio": "Mundo Deportivo",
-     "titulo": "Real Madrid - Villarreal: las fotos del duelo en el Bernabéu",
-     "url": "https://www.mundodeportivo.com/futbol/laliga/20261011/1004237397/real-madrid-villarreal-fotos-duelo-bernabeu.html",
-     "pub": ""
-    },
-    {
-     "medio": "Mundo Deportivo",
-     "titulo": "El Real Madrid ganó al Villarreal entre quejas arbitrales y poco fútbol",
-     "url": "https://www.mundodeportivo.com/futbol/real-madrid/20261011/1004237360/real-madrid-gano-villarreal-quejas-arbitrales-poco-futbol.html",
-     "pub": ""
-    },
-    {
-     "medio": "ge.globo",
-     "titulo": "Real Madrid sofre, mas vence Villarreal em jogo com gol anulado e expulsão de Vini Jr.",
-     "url": "https://ge.globo.com/futebol/futebol-internacional/futebol-espanhol/jogo/10-10-2026/realmadrid-Villarreal.ghtml",
-     "pub": "2026-10-11T00:34+00:00"
-    },
-    {
-     "medio": "Mundo Deportivo",
-     "titulo": "El Real Madrid recurrirá la amarilla que vio Konaté ante el Villarreal",
-     "url": "https://www.mundodeportivo.com/futbol/real-madrid/20261011/1004237403/real-madrid-recurrira-amarilla-vio-konate-villarreal.html",
-     "pub": ""
-    },
-    {
-     "medio": "Yahoo",
-     "titulo": "Real Madrid to appeal key defender’s yellow card against Villarreal",
-     "url": "https://sports.yahoo.com/articles/real-madrid-appeal-key-defender-181700081.html",
-     "pub": "2026-10-11T18:17+00:00"
-    }
-   ]
-  },
-  {
-   "tema": "Barcelona",
-   "medios": 6,
-   "lista_medios": [
-    "Google News ES",
-    "Guardian",
-    "Infobae",
-    "Kicker",
-    "Yahoo",
-    "ge.globo"
-   ],
-   "primera_vez": "2026-10-11T16:00+00:00",
-   "titulares": [
-    {
-     "medio": "Guardian",
-     "titulo": "European football: Gordon boosts Barcelona, Neuer errors cost Bayern in draw",
-     "url": "https://www.theguardian.com/football/2026/oct/10/european-football-bayern-concede-fastest-goal-bundeliga-history",
-     "pub": "2026-10-10T19:05+00:00"
-    },
-    {
-     "medio": "Yahoo",
-     "titulo": "Six young talents Barcelona are closely monitoring including Manchester United gem",
-     "url": "https://sports.yahoo.com/articles/six-young-talents-barcelona-closely-153700227.html",
-     "pub": "2026-10-11T15:37+00:00"
-    },
-    {
-     "medio": "Yahoo",
-     "titulo": "Barcelona homegrown star&#8217;s future in serious doubt as Flick sends another clear message",
-     "url": "https://sports.yahoo.com/articles/barcelona-homegrown-star-future-serious-140000300.html",
-     "pub": "2026-10-11T14:00+00:00"
-    },
-    {
-     "medio": "Yahoo",
-     "titulo": "Barcelona head of scouting all but confirms interest in Brazilian defender: &#8216;Looking for a profile like his&#8217;",
-     "url": "https://sports.yahoo.com/articles/barcelona-head-scouting-confirms-interest-134000385.html",
-     "pub": "2026-10-11T13:40+00:00"
-    },
-    {
-     "medio": "Infobae",
-     "titulo": "Javier Frana contó una anécdota con Maradona tras ganar el bronce en los Juegos Olímpicos de Barcelona 92: “Entrenamos en los Lagos de Palermo”",
-     "url": "https://www.infobae.com/deportes/2026/10/10/javier-frana-conto-una-anecdota-con-maradona-tras-ganar-el-bronce-en-los-juegos-olimpicos-de-barcelona-92-entrenamos-en-los-lagos-de-palermo/",
-     "pub": "2026-10-10T22:17+00:00"
-    },
-    {
-     "medio": "ge.globo",
-     "titulo": "Vini Jr. deve ficar fora de Barcelona x Real Madrid após expulsão por puxão de cabelo",
-     "url": "https://ge.globo.com/futebol/futebol-internacional/noticia/2026/10/11/vini-jr-deve-ficar-fora-de-barcelona-x-real-madrid-apos-expulsao-por-puxao-de-cabelo.ghtml",
-     "pub": "2026-10-11T14:04+00:00"
-    },
-    {
-     "medio": "ge.globo",
-     "titulo": "Gabriel Jesus tem começo mais eficiente no Barcelona do que em Arsenal e Manchester City",
-     "url": "https://ge.globo.com/futebol/futebol-internacional/futebol-espanhol/noticia/2026/10/11/gabriel-jesus-tem-comeco-mais-eficiente-no-barcelona-do-que-em-arsenal-e-manchester-city.ghtml",
-     "pub": "2026-10-11T07:00+00:00"
-    },
-    {
-     "medio": "Google News ES",
-     "titulo": "El FC Barcelona iguala su mejor inicio de la historia en Liga",
-     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQa3VVcDVhN0JEdnBVcTFuR2IzclViUGJKdFNqcTdOZjZYYUVTcUcxMVR4T3lmY0prYWxOWlpBWlYxSlZTYXo0djhBd2o4TFhENkY5MDBza3J3WjVIaERPcXA2WW9fbW5lajQ4bDd6emM2UXhBLTN3cndLYzZmNUxmbVZhc0RRdENleDFMM2VmUEY0V1VvQ1BER1ltemdVSXZ6YXZVTmVIQTI3RkhZMmFCVG51eFdoSTlsbU9oS1pvSDctTjg?oc=5",
-     "pub": "2026-10-11T11:14+00:00"
-    },
-    {
-     "medio": "Kicker",
-     "titulo": "\"Als würden wir gegen Barcelona spielen\": Riemann kritisiert Aachens Fehlerfestival",
-     "url": "https://www.kicker.de/als-wuerden-wir-gegen-barcelona-spielen-riemann-kritisiert-aachens-fehlerfestival-1260281/artikel#omrss",
-     "pub": "2026-10-11T17:34+00:00"
-    },
-    {
-     "medio": "Yahoo",
-     "titulo": "Antonio Conte amazed by Barcelona and La Masia: ‘They are doing something extraordinary’",
-     "url": "https://sports.yahoo.com/articles/antonio-conte-amazed-barcelona-la-182900555.html",
-     "pub": "2026-10-11T18:29+00:00"
-    },
-    {
-     "medio": "Yahoo",
-     "titulo": "Barcelona turn the Spotify Camp Nou into their fortress since returning in 2025",
-     "url": "https://sports.yahoo.com/articles/barcelona-turn-spotify-camp-nou-190000661.html",
-     "pub": "2026-10-11T19:00+00:00"
-    }
-   ]
-  },
-  {
-   "tema": "LIVE",
-   "medios": 6,
-   "lista_medios": [
-    "Daily Mail",
-    "Google News EN",
-    "Kicker",
-    "Mirror",
-    "Sky Sports",
-    "talkSPORT"
-   ],
-   "primera_vez": "2026-10-11T16:00+00:00",
-   "titulares": [
-    {
-     "medio": "Sky Sports",
-     "titulo": "Swiss Darts Trophy LIVE! Humphries, Clayton in action",
-     "url": "https://www.skysports.com/darts/live-blog/12040/13597867/swiss-darts-trophy-live-updates-scores-commentary-analysis-with-luke-humphries-and-jonny-clayton-in-action",
-     "pub": "2026-10-11T16:45+00:00"
-    },
-    {
-     "medio": "Sky Sports",
-     "titulo": "Belloumi rescues draw for Hull vs Everton after thrilling second half LIVE!",
-     "url": "https://www.skysports.com/football/hull-city-vs-everton/live/559499",
-     "pub": "2026-10-11T12:30+00:00"
-    },
-    {
-     "medio": "Sky Sports",
-     "titulo": "NFL London LIVE! Eagles fight back to take lead vs Jags in thrilling first half",
-     "url": "https://www.skysports.com/nfl/live-blog/12040/13597706/nfl-london-games-2026-live-updates-result-highlights-from-jacksonville-jaguars-vs-philadelphia-eagles-at-tottenham-hotspur-stadium",
-     "pub": "2026-10-11T14:00+00:00"
-    },
-    {
-     "medio": "talkSPORT",
-     "titulo": "Liverpool 0-0 Manchester City LIVE: Visitors expecting hellish atmosphere as they take part in first PL game since guilty verdict",
-     "url": "https://talksport.com/football/4628267/where-to-watch-liverpool-man-city-time-score-commentary/",
-     "pub": "2026-10-11T14:02+00:00"
-    },
-    {
-     "medio": "Daily Mail",
-     "titulo": "Liverpool vs Manchester City - Premier League LIVE: Enzo Maresca's side BOOED by hostile Anfield crowd at kick-off in their first game since guilty verdict, before tension boils over on pitch",
-     "url": "https://www.dailymail.com/sport/football/article-16195521/Liverpool-vs-Manchester-City-Premier-League-LIVE-Follow-build-action-reaction-Anfield-visitors-play-match-guilty-verdict.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-     "pub": "2026-10-11T15:53+00:00"
-    },
-    {
-     "medio": "Mirror",
-     "titulo": "Liverpool vs Man City LIVE: Tempers high as hostile Anfield taunts City players after 115 charges verdict",
-     "url": "https://www.mirror.co.uk/sport/football/news/liverpool-man-city-live-score-37759400",
-     "pub": "2026-10-11T15:56+00:00"
-    },
-    {
-     "medio": "Google News EN",
-     "titulo": "Liverpool vs Man City LIVE! Premier League score updates, news, prediction, lineups and how to watch or stream",
-     "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQRE1WZHc2TElraGFNZ25DMHpEaTlydEF3bjh2NUhpMGU1UFc4S0phX2ZfUVFMdnZ1dFNiMlF1eE1ydm1hS1plVHdROG9wandKSzZjSXRseFd6RXJuSmkxWG85WmVjZWJDNXN0Y2pLajZqZUw5V21XS3g4eVVqeWFveUJXcFA2cnM0dVFkZkdNYTZhcGxvV084LW90X2Y4ZWt2MGpnempuUzVMdjd5VEZBZkVmWE1ZTjJrU3NHQ2xqMkFFbkxrc3NxbmVnOHN1dGpUY2t0WXF0MFhIUWY4dDJSSERZOU1HVGU2SUJoTS1ROGhSdw?oc=5",
-     "pub": "2026-10-11T15:59+00:00"
-    },
-    {
-     "medio": "Kicker",
-     "titulo": "LIVE! Erste Rudelbildung: Brisantes Topspiel zwischen Liverpool und ManCity",
-     "url": "https://www.kicker.de/liverpool-gegen-mancity-2026-premier-league-5213327/spielbericht#omrss",
-     "pub": "2026-10-11T15:48+00:00"
-    },
-    {
-     "medio": "Kicker",
-     "titulo": "LIVE! Frühe Freiburger Führung nach Ecke",
-     "url": "https://www.kicker.de/live-fruehe-freiburger-fuehrung-nach-ecke-1259182/artikel#omrss",
-     "pub": "2026-10-11T15:41+00:00"
-    },
-    {
-     "medio": "Google News EN",
-     "titulo": "Hull City vs Everton LIVE! Premier League score updates, news, prediction, line-ups and how to watch or stream",
-     "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPMV9BakhRLUVyMThjczhya3FEdmtjckFMelIweGFoOVdpd2dVcEd2dE93a0ZZV0czZGQ5dnQxOVN0NWZBcHNLWlA5SUtWODZobUdiMGZaYWlmb3Y2UFlxQ3d2SGU4cXU2VnFabkNxTWI4bXMyb3JlV0UwR0lLSkthZEJDYzIxZE9jeFAxdEF3WlcyamRLamdXYVBtbWFhY3I1aEhJVUNmZnhnM1pfcElIY2dqTnM2R1h3c250aEtUcmllWTQ3YXlLdU43Y2Zad1A5OU9YdW9QOW9Gd2xKdEJlc3dDeVZ5U3c2VGsxeXNnLWtwQQ?oc=5",
-     "pub": "2026-10-11T16:03+00:00"
-    },
-    {
-     "medio": "Google News EN",
-     "titulo": "Transfer Centre LIVE! Football transfer news, updates and rumours",
-     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNcjB3Uk43enBWT2hjdE5DT0JKb01CTEpFeUNaejk5TGxRWXJfa1FfYkVVc3IxQ2Z5eWlfaE9fUjdUOU4ycVcyTW1PcXV4MTlWVWRqdmFwRlc0QUM4TVdmWWQzaWZnRmpuY0YzZ19XamJTYUhfeTk0NGQ2TzJDMlA1ZFk4QTNlaGlsd0VfMlF0OXJyM0tvc3hRalNIM29OOElDYVRaUWMxTG0zSG5vVlV5TWZrbmNmdw?oc=5",
-     "pub": "2026-10-11T10:22+00:00"
-    },
-    {
-     "medio": "Kicker",
-     "titulo": "LIVE! Wieder nach einer Ecke: Schalke gleicht aus",
-     "url": "https://www.kicker.de/live-wieder-nach-einer-ecke-schalke-gleicht-aus-1259182/artikel#omrss",
-     "pub": "2026-10-11T15:41+00:00"
     }
    ]
   }
