@@ -1,0 +1,14 @@
+{
+ "red": "instagram",
+ "hora": "2026-10-11T11:19:00+00:00",
+ "tipo": "previo",
+ "partido": "Picks del dia 11/10 (7 partidos)",
+ "text": "Our model's calls for today's 7 biggest games in Europe's top 5 leagues: Real Betis 61% to beat Osasuna, under 2.5 goals in Cagliari-Juventus 61%, both teams to score in Liverpool-Man City 60%... Which call is wrong? 👇\n#Football #PremierLeague #LaLiga #SerieA #Ligue1",
+ "titulo": "Our model's calls for today's 7 big games in Europe's top 5 leagues",
+ "imagenes": [
+  "https://raw.githubusercontent.com/oundialae-debug/live/main/media/20261011_picks_hoy.jpg"
+ ],
+ "variante": "formato=lista_picks;hora=13;promesa_perfil_previos",
+ "recordatorio": false,
+ "notas": "lista desbloqueada que prometen los previos/pre6 ('All unlocked on our profile'); modelo oficial/poisson propio; datos_clubes.lista_hoy [cola]"
+}
