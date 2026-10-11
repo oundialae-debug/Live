@@ -1,0 +1,12 @@
+{
+ "red": "instagram",
+ "hora": "2026-10-11T14:55:57+02:00",
+ "tipo": "post",
+ "partido": "Como-AS Roma",
+ "text": "Como 0-0 Roma\nExpected goals: 1.5 vs 1.1, Como created more. Did the better team win?\n\n#football #SerieA #Como #Roma #fulltime",
+ "video": "https://raw.githubusercontent.com/oundialae-debug/live/main/media/post_partido/2026-10-11_Como_AS_Roma.mp4",
+ "recordatorio": false,
+ "musica": "hh03",
+ "variante": "seg=2.8;arranque=s1;hook=dato;musica=hh03;formato=auto_post",
+ "notas": "post-partido automático (futbol-pipeline 1319169073, 6 tarjetas)"
+}
