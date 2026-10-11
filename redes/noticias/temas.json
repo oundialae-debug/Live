@@ -1,5 +1,5 @@
 {
- "generado": "2026-10-11T18:50+00:00",
+ "generado": "2026-10-11T19:45+00:00",
  "temas": [
   {
    "tema": "Liverpool",
@@ -104,9 +104,10 @@
   },
   {
    "tema": "Manchester",
-   "medios": 15,
+   "medios": 16,
    "lista_medios": [
     "AS",
+    "BBC",
     "Daily Mail",
     "Foot Mercato",
     "FourFourTwo",
@@ -195,6 +196,99 @@
      "titulo": "Who is Lewis Koumas? Liverpool youngster gets first Premier League start vs Manchester City",
      "url": "https://sports.yahoo.com/articles/lewis-koumas-liverpool-youngsters-gets-144809179.html",
      "pub": "2026-10-11T14:48+00:00"
+    }
+   ]
+  },
+  {
+   "tema": "Palace",
+   "medios": 12,
+   "lista_medios": [
+    "BBC",
+    "Daily Mail",
+    "Foot Mercato",
+    "FourFourTwo",
+    "Google News EN",
+    "Guardian",
+    "L'Equipe",
+    "Mundo Deportivo",
+    "Ole",
+    "Sky Sports",
+    "Yahoo",
+    "talkSPORT"
+   ],
+   "primera_vez": "2026-10-11T16:00+00:00",
+   "titulares": [
+    {
+     "medio": "Guardian",
+     "titulo": "Pino finishes off Nottingham Forest on Glasner’s unhappy Crystal Palace return",
+     "url": "https://www.theguardian.com/football/2026/oct/11/crystal-palace-nottingham-forest-premier-league-match-report",
+     "pub": "2026-10-11T15:28+00:00"
+    },
+    {
+     "medio": "Sky Sports",
+     "titulo": "Palace stun Forest on Glasner's Selhurst Park return",
+     "url": "https://www.skysports.com/football/crystal-palace-vs-nottingham-forest/report/559498",
+     "pub": "2026-10-11T16:10+00:00"
+    },
+    {
+     "medio": "talkSPORT",
+     "titulo": "Oliver Glasner told to expect &#8216;vitriolic&#8217; reaction from Crystal Palace fans despite club plea",
+     "url": "https://talksport.com/football/4632268/oliver-glasner-crystal-palace-return-nottingham-forest/",
+     "pub": "2026-10-11T08:30+00:00"
+    },
+    {
+     "medio": "Daily Mail",
+     "titulo": "Crystal Palace 3-1 Nottingham Forest: Oliver Glasner brutally mocked on nightmare return with Pierre Sage's side gifted first win of the season as £50m man Liam Delap lacks clinical touch",
+     "url": "https://www.dailymail.com/sport/football/article-16195581/crystal-palace-nottingham-forest-glasner-selhurst.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+     "pub": "2026-10-11T15:52+00:00"
+    },
+    {
+     "medio": "FourFourTwo",
+     "titulo": "How to watch Crystal Palace vs Nottingham Forest for FREE",
+     "url": "https://www.fourfourtwo.com/competition/watch-crystal-palace-vs-nottingham-forest-free",
+     "pub": "2026-10-11T10:00+00:00"
+    },
+    {
+     "medio": "Yahoo",
+     "titulo": "Lyon striker Loïs Openda likely to miss Europa League clash with Crystal Palace",
+     "url": "https://sports.yahoo.com/articles/lyon-striker-lo-openda-likely-142400495.html",
+     "pub": "2026-10-11T14:24+00:00"
+    },
+    {
+     "medio": "Yahoo",
+     "titulo": "Stunning save or miss of the season? Palace keeper Walter Benitez denies Liam Delap from four yards",
+     "url": "https://sports.yahoo.com/articles/stunning-save-miss-season-palace-135412708.html",
+     "pub": "2026-10-11T13:54+00:00"
+    },
+    {
+     "medio": "Google News EN",
+     "titulo": "Premier League - Crystal Palace 3-1 Nottingham Forest - Oliver Glasner post match interview",
+     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE0tNFpwRzYtTWdXNTJmYVNZTFdNOEJSZnVCRDZqeG1Va2gtY1ltR3gzbElGTW4xbzVZbTRfczl4N2pJTHhtemFYZVlQT3lQdFdPay0wS0NKd29mc3BLSmlDdWdjaWRuRXB4?oc=5",
+     "pub": "2026-10-11T15:54+00:00"
+    },
+    {
+     "medio": "Google News EN",
+     "titulo": "Crystal Palace vs Nottm Forest | Daichi Kamada levels for Palace",
+     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOa0FNVmZWVGV0eC1uQXFpVmpUQzZtdVc5SktwektuOGdBcVJoSUxuRTF4NXZDLVhxMDFHelB3bXhfcmRFLU9DUzBVVVBTN0FOYmZ0NnE4eEc4a05BcWpmY3ZELTctYmEtSnNxU3lnRjh0Sk9mWXRybXhDM1pXOFppcEZFcEZHQ1BPRG0yM0NHVTFtWmFha2p6UnVCdTRsTkE?oc=5",
+     "pub": "2026-10-11T13:55+00:00"
+    },
+    {
+     "medio": "Google News EN",
+     "titulo": "Crystal Palace vs Nottm Forest | Brilliant finish as Dan Ndoye puts Forest ahead",
+     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPenp6cm1CQ0tYYm9zQ19jbmYydnVuRnpUOS1mS25GemRQUHBzOEczengyMXh2VTd5Y04tNTM1SUZ5OVZpbGd0VFVFbm9fRWQzWWhuMkVUdi1UUEczM3VBU2x3bG9UNXoyVFZGYmlWRG4wUEl5WnRhNV9acmtVbk1FYnJwY0JZSFdmOWlyX0VRMDJQZlh6cEtIYmRCVHg?oc=5",
+     "pub": "2026-10-11T13:11+00:00"
+    },
+    {
+     "medio": "Google News EN",
+     "titulo": "Save W Benitez (80) Crystal Palace 3 - 1 Nottm Forest",
+     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQMXhGVFMzYWJvdk5EWjc1OFRFZm9zMnNrRWVrTFBNMklZamJ5em9jS25nak5WOXhJVTdxcTB1eVpFX3dUTkNvLTVMZTZGT09pbDFRWXlsTE52blpVVk9sRlhLbFVUdXZHbUYzWVhub3dJV0FneU5odEZtczhSMXlPcENaWmtpVlR2LV9VcVFOWnRJVFVuX19NYXBaX1ZWR3BLd0Vrb25n?oc=5",
+     "pub": "2026-10-11T14:50+00:00"
+    },
+    {
+     "medio": "Mundo Deportivo",
+     "titulo": "Crystal Palace - Nottingham Forest, en directo | Premier League",
+     "url": "https://www.mundodeportivo.com/futbol/premier-league/20261011/1004235391/crystal-palace-nottingham-forest-directo-premier-league.html",
+     "pub": ""
     }
    ]
   },
@@ -291,94 +385,94 @@
    ]
   },
   {
-   "tema": "Palace",
+   "tema": "Anfield",
    "medios": 11,
    "lista_medios": [
+    "BBC",
     "Daily Mail",
-    "Foot Mercato",
     "FourFourTwo",
     "Google News EN",
     "Guardian",
     "L'Equipe",
+    "Mirror",
     "Mundo Deportivo",
-    "Ole",
+    "Planet Football",
     "Sky Sports",
-    "Yahoo",
-    "talkSPORT"
+    "Yahoo"
    ],
    "primera_vez": "2026-10-11T16:00+00:00",
    "titulares": [
     {
-     "medio": "Guardian",
-     "titulo": "Pino finishes off Nottingham Forest on Glasner’s unhappy Crystal Palace return",
-     "url": "https://www.theguardian.com/football/2026/oct/11/crystal-palace-nottingham-forest-premier-league-match-report",
-     "pub": "2026-10-11T15:28+00:00"
-    },
-    {
-     "medio": "Sky Sports",
-     "titulo": "Palace stun Forest on Glasner's Selhurst Park return",
-     "url": "https://www.skysports.com/football/crystal-palace-vs-nottingham-forest/report/559498",
-     "pub": "2026-10-11T16:10+00:00"
-    },
-    {
-     "medio": "talkSPORT",
-     "titulo": "Oliver Glasner told to expect &#8216;vitriolic&#8217; reaction from Crystal Palace fans despite club plea",
-     "url": "https://talksport.com/football/4632268/oliver-glasner-crystal-palace-return-nottingham-forest/",
-     "pub": "2026-10-11T08:30+00:00"
+     "medio": "Daily Mail",
+     "titulo": "Liverpool vs Manchester City - Premier League LIVE: Enzo Maresca's side BOOED by hostile Anfield crowd at kick-off in their first game since guilty verdict, before tension boils over on pitch",
+     "url": "https://www.dailymail.com/sport/football/article-16195521/Liverpool-vs-Manchester-City-Premier-League-LIVE-Follow-build-action-reaction-Anfield-visitors-play-match-guilty-verdict.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+     "pub": "2026-10-11T15:53+00:00"
     },
     {
      "medio": "Daily Mail",
-     "titulo": "Crystal Palace 3-1 Nottingham Forest: Oliver Glasner brutally mocked on nightmare return with Pierre Sage's side gifted first win of the season as £50m man Liam Delap lacks clinical touch",
-     "url": "https://www.dailymail.com/sport/football/article-16195581/crystal-palace-nottingham-forest-glasner-selhurst.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-     "pub": "2026-10-11T15:52+00:00"
+     "titulo": "Man City give Liverpool fans the slip: Enzo Maresca's side dodge baying home fans en route to Anfield before being taunted by banners and facing hostile reception after guilty verdict",
+     "url": "https://www.dailymail.com/sport/football/article-16200431/Man-City-Liverpool-fans-slip-Enzo-Marescas-dodge-baying-home-fans-en-route-Anfield-Premier-League-leaders-braced-hostile-reception-guilty-verdict.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+     "pub": "2026-10-11T15:50+00:00"
     },
     {
-     "medio": "FourFourTwo",
-     "titulo": "How to watch Crystal Palace vs Nottingham Forest for FREE",
-     "url": "https://www.fourfourtwo.com/competition/watch-crystal-palace-vs-nottingham-forest-free",
-     "pub": "2026-10-11T10:00+00:00"
+     "medio": "Mirror",
+     "titulo": "Liverpool vs Man City LIVE: Tempers high as hostile Anfield taunts City players after 115 charges verdict",
+     "url": "https://www.mirror.co.uk/sport/football/news/liverpool-man-city-live-score-37759400",
+     "pub": "2026-10-11T15:56+00:00"
     },
     {
-     "medio": "Yahoo",
-     "titulo": "Lyon striker Loïs Openda likely to miss Europa League clash with Crystal Palace",
-     "url": "https://sports.yahoo.com/articles/lyon-striker-lo-openda-likely-142400495.html",
-     "pub": "2026-10-11T14:24+00:00"
-    },
-    {
-     "medio": "Yahoo",
-     "titulo": "Stunning save or miss of the season? Palace keeper Walter Benitez denies Liam Delap from four yards",
-     "url": "https://sports.yahoo.com/articles/stunning-save-miss-season-palace-135412708.html",
-     "pub": "2026-10-11T13:54+00:00"
-    },
-    {
-     "medio": "Google News EN",
-     "titulo": "Premier League - Crystal Palace 3-1 Nottingham Forest - Oliver Glasner post match interview",
-     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE0tNFpwRzYtTWdXNTJmYVNZTFdNOEJSZnVCRDZqeG1Va2gtY1ltR3gzbElGTW4xbzVZbTRfczl4N2pJTHhtemFYZVlQT3lQdFdPay0wS0NKd29mc3BLSmlDdWdjaWRuRXB4?oc=5",
+     "medio": "Mirror",
+     "titulo": "Man City hit by wave of Anfield vitriol as Liverpool fans make feelings fiercely clear",
+     "url": "https://www.mirror.co.uk/sport/football/news/man-city-liverpool-fans-charges-37760428",
      "pub": "2026-10-11T15:54+00:00"
     },
     {
-     "medio": "Google News EN",
-     "titulo": "Crystal Palace vs Nottm Forest | Daichi Kamada levels for Palace",
-     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOa0FNVmZWVGV0eC1uQXFpVmpUQzZtdVc5SktwektuOGdBcVJoSUxuRTF4NXZDLVhxMDFHelB3bXhfcmRFLU9DUzBVVVBTN0FOYmZ0NnE4eEc4a05BcWpmY3ZELTctYmEtSnNxU3lnRjh0Sk9mWXRybXhDM1pXOFppcEZFcEZHQ1BPRG0yM0NHVTFtWmFha2p6UnVCdTRsTkE?oc=5",
-     "pub": "2026-10-11T13:55+00:00"
+     "medio": "Yahoo",
+     "titulo": "Why Man City fans have inflatable bananas at Anfield in Premier League clash with Liverpool",
+     "url": "https://sports.yahoo.com/articles/why-man-city-fans-inflatable-155348226.html",
+     "pub": "2026-10-11T15:53+00:00"
     },
     {
-     "medio": "Google News EN",
-     "titulo": "Crystal Palace vs Nottm Forest | Brilliant finish as Dan Ndoye puts Forest ahead",
-     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPenp6cm1CQ0tYYm9zQ19jbmYydnVuRnpUOS1mS25GemRQUHBzOEczengyMXh2VTd5Y04tNTM1SUZ5OVZpbGd0VFVFbm9fRWQzWWhuMkVUdi1UUEczM3VBU2x3bG9UNXoyVFZGYmlWRG4wUEl5WnRhNV9acmtVbk1FYnJwY0JZSFdmOWlyX0VRMDJQZlh6cEtIYmRCVHg?oc=5",
-     "pub": "2026-10-11T13:11+00:00"
+     "medio": "Yahoo",
+     "titulo": "📸 Man City receive expected hot reception ahead of Anfield test",
+     "url": "https://sports.yahoo.com/articles/man-city-receive-expected-hot-152900290.html",
+     "pub": "2026-10-11T15:29+00:00"
     },
     {
-     "medio": "Google News EN",
-     "titulo": "Save W Benitez (80) Crystal Palace 3 - 1 Nottm Forest",
-     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQMXhGVFMzYWJvdk5EWjc1OFRFZm9zMnNrRWVrTFBNMklZamJ5em9jS25nak5WOXhJVTdxcTB1eVpFX3dUTkNvLTVMZTZGT09pbDFRWXlsTE52blpVVk9sRlhLbFVUdXZHbUYzWVhub3dJV0FneU5odEZtczhSMXlPcENaWmtpVlR2LV9VcVFOWnRJVFVuX19NYXBaX1ZWR3BLd0Vrb25n?oc=5",
-     "pub": "2026-10-11T14:50+00:00"
+     "medio": "Yahoo",
+     "titulo": "Manchester City and Liverpool have confirmed their starting lineups ahead of today&#8217;s match at Anfield",
+     "url": "https://sports.yahoo.com/articles/manchester-city-liverpool-confirmed-starting-142000375.html",
+     "pub": "2026-10-11T14:20+00:00"
+    },
+    {
+     "medio": "L'Equipe",
+     "titulo": "City s'efforce de garder le sourire avant Anfield",
+     "url": "https://www.lequipe.fr/Football/Actualites/Menace-de-lourdes-sanctions-manchester-city-s-efforce-de-garder-le-sourire-avant-de-se-rendre-a-anfield/1724862#at_medium=RSS_feeds",
+     "pub": "2026-10-11T15:18+00:00"
     },
     {
      "medio": "Mundo Deportivo",
-     "titulo": "Crystal Palace - Nottingham Forest, en directo | Premier League",
-     "url": "https://www.mundodeportivo.com/futbol/premier-league/20261011/1004235391/crystal-palace-nottingham-forest-directo-premier-league.html",
+     "titulo": "Anfield también dicta sentencia sobre el City: \"Tramposos\"",
+     "url": "https://www.mundodeportivo.com/futbol/premier-league/20261011/1004237469/anfield-dicta-sentencia-sobre-city-tramposos.html",
      "pub": ""
+    },
+    {
+     "medio": "Yahoo",
+     "titulo": "Enzo Maresca, Man City player reaction to Liverpool match, reception at Anfield",
+     "url": "https://sports.yahoo.com/articles/enzo-maresca-man-city-player-172300565.html",
+     "pub": "2026-10-11T17:23+00:00"
+    },
+    {
+     "medio": "Mundo Deportivo",
+     "titulo": "0-3: El Manchester City 'post veredicto' golea al Liverpool de Iraola en Anfield",
+     "url": "https://www.mundodeportivo.com/futbol/premier-league/20261011/1004237497/liverpool.html",
+     "pub": ""
+    },
+    {
+     "medio": "Guardian",
+     "titulo": "Cherki cracker caps Manchester City win at Liverpool in face of Anfield taunts",
+     "url": "https://www.theguardian.com/football/2026/oct/11/liverpool-manchester-city-premier-league-match-report",
+     "pub": "2026-10-11T17:42+00:00"
     }
    ]
   },
@@ -470,6 +564,97 @@
      "titulo": "OL : vers un forfait de Loïs Openda contre Crystal Palace",
      "url": "https://www.footmercato.net/a6373001634929223023-ol-vers-un-forfait-de-lois-openda-contre-crystal-palace",
      "pub": "2026-10-11T07:44+00:00"
+    }
+   ]
+  },
+  {
+   "tema": "Madrid",
+   "medios": 10,
+   "lista_medios": [
+    "AS",
+    "Foot Mercato",
+    "FourFourTwo",
+    "Google News ES",
+    "Infobae",
+    "L'Equipe",
+    "Mundo Deportivo",
+    "Yahoo",
+    "ge.globo",
+    "talkSPORT"
+   ],
+   "primera_vez": "2026-10-11T16:00+00:00",
+   "titulares": [
+    {
+     "medio": "talkSPORT",
+     "titulo": "Vini Jr held back by Real Madrid teammates as superstar explodes at referee after being sent off",
+     "url": "https://talksport.com/football/4636641/vinicius-jr-real-madrid-red-card-villarreal/",
+     "pub": "2026-10-10T21:18+00:00"
+    },
+    {
+     "medio": "FourFourTwo",
+     "titulo": "How to watch Real Madrid vs Villarreal for FREE: Live stream details for La Liga clash",
+     "url": "https://www.fourfourtwo.com/competition/watch-real-madrid-vs-villarreal-la-liga-free",
+     "pub": "2026-10-10T15:00+00:00"
+    },
+    {
+     "medio": "Yahoo",
+     "titulo": "Real Madrid midfielder attracted strong summer interest from multiple Premier League clubs &#8211; Romano",
+     "url": "https://sports.yahoo.com/articles/real-madrid-midfielder-attracted-strong-151200686.html",
+     "pub": "2026-10-11T15:12+00:00"
+    },
+    {
+     "medio": "AS",
+     "titulo": "Aviso de la Roma al Madrid",
+     "url": "https://as.com/futbol/internacional/indestructible-roma-f202610-n/",
+     "pub": "2026-10-11T12:42+00:00"
+    },
+    {
+     "medio": "AS",
+     "titulo": "Real Madrid 1-0 Villarreal: resumen, gol y resultado",
+     "url": "https://as.com/futbol/primera/real-madrid-villarreal-hoy-en-directo-ultima-hora-de-la-laliga-ea-sports-en-el-santiago-bernabeu-en-vivo-f202610-d-2/",
+     "pub": "2026-10-11T08:07+00:00"
+    },
+    {
+     "medio": "Mundo Deportivo",
+     "titulo": "Real Madrid TV aumenta sus críticas a los árbitros",
+     "url": "https://www.mundodeportivo.com/futbol/real-madrid/20261011/1004237395/real-madrid-tv-aumenta-criticas-arbitros.html",
+     "pub": ""
+    },
+    {
+     "medio": "Mundo Deportivo",
+     "titulo": "Real Madrid - Villarreal: las fotos del duelo en el Bernabéu",
+     "url": "https://www.mundodeportivo.com/futbol/laliga/20261011/1004237397/real-madrid-villarreal-fotos-duelo-bernabeu.html",
+     "pub": ""
+    },
+    {
+     "medio": "Mundo Deportivo",
+     "titulo": "El Real Madrid ganó al Villarreal entre quejas arbitrales y poco fútbol",
+     "url": "https://www.mundodeportivo.com/futbol/real-madrid/20261011/1004237360/real-madrid-gano-villarreal-quejas-arbitrales-poco-futbol.html",
+     "pub": ""
+    },
+    {
+     "medio": "Google News ES",
+     "titulo": "El Real Madrid, muchas urgencias y poco fútbol",
+     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOVW90VHNic2pjaV9ERWhrMk0ySW52clhoN3ppOVlJSHFVNVNrb1ZoN210VlZxX0NJeEFWWDY5T2UwVGFtWmRnMjhfVjM2WFpIMDlGR3BISGYxdC1SS3NZdXZGNFJBRzFjRlpwczNJLXpJLTVwd0J1WlZiSmdJa2pDTFdKSThFN2xLQWtvVWRZTjdDWlEzRUxrY0wwbkljbHlKQ1llZFFtcWlHMHlMek52WFRZOGN2Z9IBwwFBVV95cUxNN254VFlZRkpvNUJ4TWhVS25SNVpJSlNpVGRVQWZHak1sbnVkNjFya0hDOG9FMmJKWE1tQVZ3cE1GWHBCeXBCWXVsaFpoZEY1SDlUbXV4SWhmUTV2MFRIdEhod1Uyc1NKTEhVQmc5NS1tNWczSmtBWDdOSC1abWhQVkpLRV9meTlQM0ZFaVUxUm9rOUtDYzVVS2VuZk40UldJVUxnTGpfY0IzR0JBc0ZJZUlQLXBSXzF3eDR0aUVkTnZTT28?oc=5",
+     "pub": "2026-10-11T10:52+00:00"
+    },
+    {
+     "medio": "Foot Mercato",
+     "titulo": "Real Madrid : l’entourage de Vinicius Jr réagit à son expulsion polémique",
+     "url": "https://www.footmercato.net/a3971435971801351262-real-madrid-lentourage-de-vinicius-jr-reagit-a-son-expulsion-polemique",
+     "pub": "2026-10-11T10:05+00:00"
+    },
+    {
+     "medio": "Infobae",
+     "titulo": "Una brutal patada a Julián Álvarez que terminó en roja y el cabezazo agónico del Cuti Romero: Atlético Madrid ganó y pelea por la cima",
+     "url": "https://www.infobae.com/deportes/2026/10/10/una-brutal-patada-a-julian-alvarez-que-termino-en-roja-y-el-cabezazo-agonico-del-cuti-romero-atletico-madrid-gano-y-pelea-por-la-cima/",
+     "pub": "2026-10-10T19:55+00:00"
+    },
+    {
+     "medio": "ge.globo",
+     "titulo": "Vini Jr. deve ficar fora de Barcelona x Real Madrid após expulsão por puxão de cabelo",
+     "url": "https://ge.globo.com/futebol/futebol-internacional/noticia/2026/10/11/vini-jr-deve-ficar-fora-de-barcelona-x-real-madrid-apos-expulsao-por-puxao-de-cabelo.ghtml",
+     "pub": "2026-10-11T14:04+00:00"
     }
    ]
   },
@@ -654,105 +839,15 @@
    ]
   },
   {
-   "tema": "Madrid",
+   "tema": "Everton",
    "medios": 9,
    "lista_medios": [
-    "AS",
-    "Foot Mercato",
-    "FourFourTwo",
-    "Google News ES",
-    "Infobae",
-    "Mundo Deportivo",
-    "Yahoo",
-    "ge.globo",
-    "talkSPORT"
-   ],
-   "primera_vez": "2026-10-11T16:00+00:00",
-   "titulares": [
-    {
-     "medio": "talkSPORT",
-     "titulo": "Vini Jr held back by Real Madrid teammates as superstar explodes at referee after being sent off",
-     "url": "https://talksport.com/football/4636641/vinicius-jr-real-madrid-red-card-villarreal/",
-     "pub": "2026-10-10T21:18+00:00"
-    },
-    {
-     "medio": "FourFourTwo",
-     "titulo": "How to watch Real Madrid vs Villarreal for FREE: Live stream details for La Liga clash",
-     "url": "https://www.fourfourtwo.com/competition/watch-real-madrid-vs-villarreal-la-liga-free",
-     "pub": "2026-10-10T15:00+00:00"
-    },
-    {
-     "medio": "Yahoo",
-     "titulo": "Real Madrid midfielder attracted strong summer interest from multiple Premier League clubs &#8211; Romano",
-     "url": "https://sports.yahoo.com/articles/real-madrid-midfielder-attracted-strong-151200686.html",
-     "pub": "2026-10-11T15:12+00:00"
-    },
-    {
-     "medio": "AS",
-     "titulo": "Aviso de la Roma al Madrid",
-     "url": "https://as.com/futbol/internacional/indestructible-roma-f202610-n/",
-     "pub": "2026-10-11T12:42+00:00"
-    },
-    {
-     "medio": "AS",
-     "titulo": "Real Madrid 1-0 Villarreal: resumen, gol y resultado",
-     "url": "https://as.com/futbol/primera/real-madrid-villarreal-hoy-en-directo-ultima-hora-de-la-laliga-ea-sports-en-el-santiago-bernabeu-en-vivo-f202610-d-2/",
-     "pub": "2026-10-11T08:07+00:00"
-    },
-    {
-     "medio": "Mundo Deportivo",
-     "titulo": "Real Madrid TV aumenta sus críticas a los árbitros",
-     "url": "https://www.mundodeportivo.com/futbol/real-madrid/20261011/1004237395/real-madrid-tv-aumenta-criticas-arbitros.html",
-     "pub": ""
-    },
-    {
-     "medio": "Mundo Deportivo",
-     "titulo": "Real Madrid - Villarreal: las fotos del duelo en el Bernabéu",
-     "url": "https://www.mundodeportivo.com/futbol/laliga/20261011/1004237397/real-madrid-villarreal-fotos-duelo-bernabeu.html",
-     "pub": ""
-    },
-    {
-     "medio": "Mundo Deportivo",
-     "titulo": "El Real Madrid ganó al Villarreal entre quejas arbitrales y poco fútbol",
-     "url": "https://www.mundodeportivo.com/futbol/real-madrid/20261011/1004237360/real-madrid-gano-villarreal-quejas-arbitrales-poco-futbol.html",
-     "pub": ""
-    },
-    {
-     "medio": "Google News ES",
-     "titulo": "El Real Madrid, muchas urgencias y poco fútbol",
-     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOVW90VHNic2pjaV9ERWhrMk0ySW52clhoN3ppOVlJSHFVNVNrb1ZoN210VlZxX0NJeEFWWDY5T2UwVGFtWmRnMjhfVjM2WFpIMDlGR3BISGYxdC1SS3NZdXZGNFJBRzFjRlpwczNJLXpJLTVwd0J1WlZiSmdJa2pDTFdKSThFN2xLQWtvVWRZTjdDWlEzRUxrY0wwbkljbHlKQ1llZFFtcWlHMHlMek52WFRZOGN2Z9IBwwFBVV95cUxNN254VFlZRkpvNUJ4TWhVS25SNVpJSlNpVGRVQWZHak1sbnVkNjFya0hDOG9FMmJKWE1tQVZ3cE1GWHBCeXBCWXVsaFpoZEY1SDlUbXV4SWhmUTV2MFRIdEhod1Uyc1NKTEhVQmc5NS1tNWczSmtBWDdOSC1abWhQVkpLRV9meTlQM0ZFaVUxUm9rOUtDYzVVS2VuZk40UldJVUxnTGpfY0IzR0JBc0ZJZUlQLXBSXzF3eDR0aUVkTnZTT28?oc=5",
-     "pub": "2026-10-11T10:52+00:00"
-    },
-    {
-     "medio": "Foot Mercato",
-     "titulo": "Real Madrid : l’entourage de Vinicius Jr réagit à son expulsion polémique",
-     "url": "https://www.footmercato.net/a3971435971801351262-real-madrid-lentourage-de-vinicius-jr-reagit-a-son-expulsion-polemique",
-     "pub": "2026-10-11T10:05+00:00"
-    },
-    {
-     "medio": "Infobae",
-     "titulo": "Una brutal patada a Julián Álvarez que terminó en roja y el cabezazo agónico del Cuti Romero: Atlético Madrid ganó y pelea por la cima",
-     "url": "https://www.infobae.com/deportes/2026/10/10/una-brutal-patada-a-julian-alvarez-que-termino-en-roja-y-el-cabezazo-agonico-del-cuti-romero-atletico-madrid-gano-y-pelea-por-la-cima/",
-     "pub": "2026-10-10T19:55+00:00"
-    },
-    {
-     "medio": "ge.globo",
-     "titulo": "Vini Jr. deve ficar fora de Barcelona x Real Madrid após expulsão por puxão de cabelo",
-     "url": "https://ge.globo.com/futebol/futebol-internacional/noticia/2026/10/11/vini-jr-deve-ficar-fora-de-barcelona-x-real-madrid-apos-expulsao-por-puxao-de-cabelo.ghtml",
-     "pub": "2026-10-11T14:04+00:00"
-    }
-   ]
-  },
-  {
-   "tema": "Anfield",
-   "medios": 9,
-   "lista_medios": [
+    "BBC",
     "Daily Mail",
+    "Foot Mercato",
     "FourFourTwo",
     "Google News EN",
     "Guardian",
-    "L'Equipe",
-    "Mirror",
     "Mundo Deportivo",
     "Sky Sports",
     "Yahoo"
@@ -760,76 +855,166 @@
    "primera_vez": "2026-10-11T16:00+00:00",
    "titulares": [
     {
-     "medio": "Daily Mail",
-     "titulo": "Liverpool vs Manchester City - Premier League LIVE: Enzo Maresca's side BOOED by hostile Anfield crowd at kick-off in their first game since guilty verdict, before tension boils over on pitch",
-     "url": "https://www.dailymail.com/sport/football/article-16195521/Liverpool-vs-Manchester-City-Premier-League-LIVE-Follow-build-action-reaction-Anfield-visitors-play-match-guilty-verdict.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-     "pub": "2026-10-11T15:53+00:00"
+     "medio": "Guardian",
+     "titulo": "Mohamed Belloumi grabs point for Hull in seesaw draw with Everton",
+     "url": "https://www.theguardian.com/football/2026/oct/11/hull-city-everton-premier-league-match-report",
+     "pub": "2026-10-11T15:13+00:00"
+    },
+    {
+     "medio": "Sky Sports",
+     "titulo": "Belloumi earns Hull draw with Everton after thrilling four-goal second half",
+     "url": "https://www.skysports.com/football/hull-city-vs-everton/report/559499",
+     "pub": "2026-10-11T16:00+00:00"
+    },
+    {
+     "medio": "Sky Sports",
+     "titulo": "Belloumi rescues draw for Hull vs Everton after thrilling second half LIVE!",
+     "url": "https://www.skysports.com/football/hull-city-vs-everton/live/559499",
+     "pub": "2026-10-11T12:30+00:00"
     },
     {
      "medio": "Daily Mail",
-     "titulo": "Man City give Liverpool fans the slip: Enzo Maresca's side dodge baying home fans en route to Anfield before being taunted by banners and facing hostile reception after guilty verdict",
-     "url": "https://www.dailymail.com/sport/football/article-16200431/Man-City-Liverpool-fans-slip-Enzo-Marescas-dodge-baying-home-fans-en-route-Anfield-Premier-League-leaders-braced-hostile-reception-guilty-verdict.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-     "pub": "2026-10-11T15:50+00:00"
+     "titulo": "Hull 2-2 Everton: Toffees' unbeaten start continues two days after owners revealed plan to sell and despite calamitous transfer window as Mohamed Belloumi salvages draw for the Tigers in exhilarating second half",
+     "url": "https://www.dailymail.com/sport/football/article-16195583/Hull-2-2-Everton-Mohamed-Belloumi-salvages-draw-Tigers-exhilarating-second-half-visitors-unbeaten-start-continues-two-days-owners-revealed-plan-sell.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+     "pub": "2026-10-11T15:24+00:00"
     },
     {
-     "medio": "Mirror",
-     "titulo": "Liverpool vs Man City LIVE: Tempers high as hostile Anfield taunts City players after 115 charges verdict",
-     "url": "https://www.mirror.co.uk/sport/football/news/liverpool-man-city-live-score-37759400",
-     "pub": "2026-10-11T15:56+00:00"
-    },
-    {
-     "medio": "Mirror",
-     "titulo": "Man City hit by wave of Anfield vitriol as Liverpool fans make feelings fiercely clear",
-     "url": "https://www.mirror.co.uk/sport/football/news/man-city-liverpool-fans-charges-37760428",
-     "pub": "2026-10-11T15:54+00:00"
+     "medio": "FourFourTwo",
+     "titulo": "Hull City vs Everton FREE live streams: How to watch",
+     "url": "https://www.fourfourtwo.com/competition/watch-hull-vs-everton-premier-league-2026-27-free",
+     "pub": "2026-10-11T10:00+00:00"
     },
     {
      "medio": "Yahoo",
-     "titulo": "Why Man City fans have inflatable bananas at Anfield in Premier League clash with Liverpool",
-     "url": "https://sports.yahoo.com/articles/why-man-city-fans-inflatable-155348226.html",
-     "pub": "2026-10-11T15:53+00:00"
-    },
-    {
-     "medio": "Yahoo",
-     "titulo": "📸 Man City receive expected hot reception ahead of Anfield test",
-     "url": "https://sports.yahoo.com/articles/man-city-receive-expected-hot-152900290.html",
-     "pub": "2026-10-11T15:29+00:00"
-    },
-    {
-     "medio": "Yahoo",
-     "titulo": "Manchester City and Liverpool have confirmed their starting lineups ahead of today&#8217;s match at Anfield",
-     "url": "https://sports.yahoo.com/articles/manchester-city-liverpool-confirmed-starting-142000375.html",
-     "pub": "2026-10-11T14:20+00:00"
-    },
-    {
-     "medio": "L'Equipe",
-     "titulo": "City s'efforce de garder le sourire avant Anfield",
-     "url": "https://www.lequipe.fr/Football/Actualites/Menace-de-lourdes-sanctions-manchester-city-s-efforce-de-garder-le-sourire-avant-de-se-rendre-a-anfield/1724862#at_medium=RSS_feeds",
-     "pub": "2026-10-11T15:18+00:00"
+     "titulo": "Tarkowski And Dewsbury-Hall Get 8 | Everton Players Rated In Entertaining Draw Vs Hull City",
+     "url": "https://sports.yahoo.com/articles/tarkowski-dewsbury-hall-8-everton-153000484.html",
+     "pub": "2026-10-11T15:30+00:00"
     },
     {
      "medio": "Mundo Deportivo",
-     "titulo": "Anfield también dicta sentencia sobre el City: \"Tramposos\"",
-     "url": "https://www.mundodeportivo.com/futbol/premier-league/20261011/1004237469/anfield-dicta-sentencia-sobre-city-tramposos.html",
+     "titulo": "2-2: Hull City y Everton se reparten los puntos en una segunda parte de locura",
+     "url": "https://www.mundodeportivo.com/futbol/premier-league/20261011/1004237443/hull-city-everton-reparten-puntos-segunda-parte-locura.html",
      "pub": ""
-    },
-    {
-     "medio": "Yahoo",
-     "titulo": "Enzo Maresca, Man City player reaction to Liverpool match, reception at Anfield",
-     "url": "https://sports.yahoo.com/articles/enzo-maresca-man-city-player-172300565.html",
-     "pub": "2026-10-11T17:23+00:00"
     },
     {
      "medio": "Mundo Deportivo",
-     "titulo": "0-3: El Manchester City 'post veredicto' golea al Liverpool de Iraola en Anfield",
-     "url": "https://www.mundodeportivo.com/futbol/premier-league/20261011/1004237497/liverpool.html",
+     "titulo": "Hull City - Everton, en directo | Premier League",
+     "url": "https://www.mundodeportivo.com/futbol/premier-league/20261011/1004235394/hull-city-everton-directo-premier-league.html",
      "pub": ""
     },
+    {
+     "medio": "Foot Mercato",
+     "titulo": "Premier League : Pierre Sage et Crystal Palace se donnent de l’air, Everton accroché par Hull City",
+     "url": "https://www.footmercato.net/a829854825299357934-premier-league-pierre-sage-et-crystal-palace-se-donnent-de-lair-everton-accroche-par-hull-city",
+     "pub": "2026-10-11T15:03+00:00"
+    },
+    {
+     "medio": "Google News EN",
+     "titulo": "Hull City vs Everton LIVE! Premier League score updates, news, prediction, line-ups and how to watch or stream",
+     "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPMV9BakhRLUVyMThjczhya3FEdmtjckFMelIweGFoOVdpd2dVcEd2dE93a0ZZV0czZGQ5dnQxOVN0NWZBcHNLWlA5SUtWODZobUdiMGZaYWlmb3Y2UFlxQ3d2SGU4cXU2VnFabkNxTWI4bXMyb3JlV0UwR0lLSkthZEJDYzIxZE9jeFAxdEF3WlcyamRLamdXYVBtbWFhY3I1aEhJVUNmZnhnM1pfcElIY2dqTnM2R1h3c250aEtUcmllWTQ3YXlLdU43Y2Zad1A5OU9YdW9QOW9Gd2xKdEJlc3dDeVZ5U3c2VGsxeXNnLWtwQQ?oc=5",
+     "pub": "2026-10-11T16:03+00:00"
+    },
+    {
+     "medio": "Yahoo",
+     "titulo": "Hull 2-2 Everton analysis: Toffees rue Barry misses and offside flag",
+     "url": "https://sports.yahoo.com/articles/hull-2-2-everton-analysis-160405654.html",
+     "pub": "2026-10-11T16:04+00:00"
+    },
+    {
+     "medio": "Yahoo",
+     "titulo": "Hull 2-2 Everton analysis: City's strong start continues",
+     "url": "https://sports.yahoo.com/articles/hull-2-2-everton-analysis-160114464.html",
+     "pub": "2026-10-11T16:01+00:00"
+    }
+   ]
+  },
+  {
+   "tema": "Hull",
+   "medios": 9,
+   "lista_medios": [
+    "BBC",
+    "Daily Mail",
+    "Foot Mercato",
+    "FourFourTwo",
+    "Google News EN",
+    "Guardian",
+    "Mundo Deportivo",
+    "Sky Sports",
+    "Yahoo"
+   ],
+   "primera_vez": "2026-10-11T16:00+00:00",
+   "titulares": [
     {
      "medio": "Guardian",
-     "titulo": "Cherki cracker caps Manchester City win at Liverpool in face of Anfield taunts",
-     "url": "https://www.theguardian.com/football/2026/oct/11/liverpool-manchester-city-premier-league-match-report",
-     "pub": "2026-10-11T17:42+00:00"
+     "titulo": "Mohamed Belloumi grabs point for Hull in seesaw draw with Everton",
+     "url": "https://www.theguardian.com/football/2026/oct/11/hull-city-everton-premier-league-match-report",
+     "pub": "2026-10-11T15:13+00:00"
+    },
+    {
+     "medio": "Sky Sports",
+     "titulo": "Belloumi earns Hull draw with Everton after thrilling four-goal second half",
+     "url": "https://www.skysports.com/football/hull-city-vs-everton/report/559499",
+     "pub": "2026-10-11T16:00+00:00"
+    },
+    {
+     "medio": "Sky Sports",
+     "titulo": "Belloumi rescues draw for Hull vs Everton after thrilling second half LIVE!",
+     "url": "https://www.skysports.com/football/hull-city-vs-everton/live/559499",
+     "pub": "2026-10-11T12:30+00:00"
+    },
+    {
+     "medio": "Daily Mail",
+     "titulo": "Hull 2-2 Everton: Toffees' unbeaten start continues two days after owners revealed plan to sell and despite calamitous transfer window as Mohamed Belloumi salvages draw for the Tigers in exhilarating second half",
+     "url": "https://www.dailymail.com/sport/football/article-16195583/Hull-2-2-Everton-Mohamed-Belloumi-salvages-draw-Tigers-exhilarating-second-half-visitors-unbeaten-start-continues-two-days-owners-revealed-plan-sell.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+     "pub": "2026-10-11T15:24+00:00"
+    },
+    {
+     "medio": "FourFourTwo",
+     "titulo": "Hull City vs Everton FREE live streams: How to watch",
+     "url": "https://www.fourfourtwo.com/competition/watch-hull-vs-everton-premier-league-2026-27-free",
+     "pub": "2026-10-11T10:00+00:00"
+    },
+    {
+     "medio": "Yahoo",
+     "titulo": "Tarkowski And Dewsbury-Hall Get 8 | Everton Players Rated In Entertaining Draw Vs Hull City",
+     "url": "https://sports.yahoo.com/articles/tarkowski-dewsbury-hall-8-everton-153000484.html",
+     "pub": "2026-10-11T15:30+00:00"
+    },
+    {
+     "medio": "Mundo Deportivo",
+     "titulo": "2-2: Hull City y Everton se reparten los puntos en una segunda parte de locura",
+     "url": "https://www.mundodeportivo.com/futbol/premier-league/20261011/1004237443/hull-city-everton-reparten-puntos-segunda-parte-locura.html",
+     "pub": ""
+    },
+    {
+     "medio": "Mundo Deportivo",
+     "titulo": "Hull City - Everton, en directo | Premier League",
+     "url": "https://www.mundodeportivo.com/futbol/premier-league/20261011/1004235394/hull-city-everton-directo-premier-league.html",
+     "pub": ""
+    },
+    {
+     "medio": "Foot Mercato",
+     "titulo": "Premier League : Pierre Sage et Crystal Palace se donnent de l’air, Everton accroché par Hull City",
+     "url": "https://www.footmercato.net/a829854825299357934-premier-league-pierre-sage-et-crystal-palace-se-donnent-de-lair-everton-accroche-par-hull-city",
+     "pub": "2026-10-11T15:03+00:00"
+    },
+    {
+     "medio": "Google News EN",
+     "titulo": "Hull City vs Everton LIVE! Premier League score updates, news, prediction, line-ups and how to watch or stream",
+     "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPMV9BakhRLUVyMThjczhya3FEdmtjckFMelIweGFoOVdpd2dVcEd2dE93a0ZZV0czZGQ5dnQxOVN0NWZBcHNLWlA5SUtWODZobUdiMGZaYWlmb3Y2UFlxQ3d2SGU4cXU2VnFabkNxTWI4bXMyb3JlV0UwR0lLSkthZEJDYzIxZE9jeFAxdEF3WlcyamRLamdXYVBtbWFhY3I1aEhJVUNmZnhnM1pfcElIY2dqTnM2R1h3c250aEtUcmllWTQ3YXlLdU43Y2Zad1A5OU9YdW9QOW9Gd2xKdEJlc3dDeVZ5U3c2VGsxeXNnLWtwQQ?oc=5",
+     "pub": "2026-10-11T16:03+00:00"
+    },
+    {
+     "medio": "Yahoo",
+     "titulo": "Hull 2-2 Everton analysis: Toffees rue Barry misses and offside flag",
+     "url": "https://sports.yahoo.com/articles/hull-2-2-everton-analysis-160405654.html",
+     "pub": "2026-10-11T16:04+00:00"
+    },
+    {
+     "medio": "Yahoo",
+     "titulo": "Hull 2-2 Everton analysis: City's strong start continues",
+     "url": "https://sports.yahoo.com/articles/hull-2-2-everton-analysis-160114464.html",
+     "pub": "2026-10-11T16:01+00:00"
     }
    ]
   },
@@ -980,12 +1165,6 @@
      "pub": "2026-10-10T08:45+00:00"
     },
     {
-     "medio": "talkSPORT",
-     "titulo": "Arsenal vs Leeds 23/1 bet builder with bet365",
-     "url": "https://talksport.com/football/4628112/arsenal-leeds-bet-builder-bet365-premier-league/",
-     "pub": "2026-10-10T07:00+00:00"
-    },
-    {
      "medio": "Mirror",
      "titulo": "Ray Parlour accuses Arsenal star of 'not doing his job' in Leeds victory",
      "url": "https://www.mirror.co.uk/sport/football/news/arsenal-noni-madueke-leeds-parlour-37759772",
@@ -1008,184 +1187,101 @@
      "titulo": "Arsenal set for breakthrough in contract talks with crucial trio",
      "url": "https://sports.yahoo.com/articles/arsenal-set-breakthrough-contract-talks-135000039.html",
      "pub": "2026-10-11T13:50+00:00"
+    },
+    {
+     "medio": "Football Italia",
+     "titulo": "Arsenal trio and Italy defender react as Calafiori scores first Arsenal goal at the Emirates",
+     "url": "https://football-italia.net/arsenal-trio-italy-defender-calafiori-goal/",
+     "pub": "2026-10-11T08:54+00:00"
     }
    ]
   },
   {
-   "tema": "Everton",
+   "tema": "Forest",
    "medios": 8,
    "lista_medios": [
+    "BBC",
     "Daily Mail",
-    "Foot Mercato",
     "FourFourTwo",
     "Google News EN",
     "Guardian",
+    "L'Equipe",
     "Mundo Deportivo",
-    "Sky Sports",
-    "Yahoo"
+    "Sky Sports"
    ],
    "primera_vez": "2026-10-11T16:00+00:00",
    "titulares": [
     {
      "medio": "Guardian",
-     "titulo": "Mohamed Belloumi grabs point for Hull in seesaw draw with Everton",
-     "url": "https://www.theguardian.com/football/2026/oct/11/hull-city-everton-premier-league-match-report",
-     "pub": "2026-10-11T15:13+00:00"
+     "titulo": "Pino finishes off Nottingham Forest on Glasner’s unhappy Crystal Palace return",
+     "url": "https://www.theguardian.com/football/2026/oct/11/crystal-palace-nottingham-forest-premier-league-match-report",
+     "pub": "2026-10-11T15:28+00:00"
     },
     {
      "medio": "Sky Sports",
-     "titulo": "Belloumi earns Hull draw with Everton after thrilling four-goal second half",
-     "url": "https://www.skysports.com/football/hull-city-vs-everton/report/559499",
-     "pub": "2026-10-11T16:00+00:00"
-    },
-    {
-     "medio": "Sky Sports",
-     "titulo": "Belloumi rescues draw for Hull vs Everton after thrilling second half LIVE!",
-     "url": "https://www.skysports.com/football/hull-city-vs-everton/live/559499",
-     "pub": "2026-10-11T12:30+00:00"
+     "titulo": "Palace stun Forest on Glasner's Selhurst Park return",
+     "url": "https://www.skysports.com/football/crystal-palace-vs-nottingham-forest/report/559498",
+     "pub": "2026-10-11T16:10+00:00"
     },
     {
      "medio": "Daily Mail",
-     "titulo": "Hull 2-2 Everton: Toffees' unbeaten start continues two days after owners revealed plan to sell and despite calamitous transfer window as Mohamed Belloumi salvages draw for the Tigers in exhilarating second half",
-     "url": "https://www.dailymail.com/sport/football/article-16195583/Hull-2-2-Everton-Mohamed-Belloumi-salvages-draw-Tigers-exhilarating-second-half-visitors-unbeaten-start-continues-two-days-owners-revealed-plan-sell.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-     "pub": "2026-10-11T15:24+00:00"
+     "titulo": "Crystal Palace 3-1 Nottingham Forest: Oliver Glasner brutally mocked on nightmare return with Pierre Sage's side gifted first win of the season as £50m man Liam Delap lacks clinical touch",
+     "url": "https://www.dailymail.com/sport/football/article-16195581/crystal-palace-nottingham-forest-glasner-selhurst.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+     "pub": "2026-10-11T15:52+00:00"
     },
     {
      "medio": "FourFourTwo",
-     "titulo": "Hull City vs Everton FREE live streams: How to watch",
-     "url": "https://www.fourfourtwo.com/competition/watch-hull-vs-everton-premier-league-2026-27-free",
+     "titulo": "How to watch Crystal Palace vs Nottingham Forest for FREE",
+     "url": "https://www.fourfourtwo.com/competition/watch-crystal-palace-vs-nottingham-forest-free",
      "pub": "2026-10-11T10:00+00:00"
     },
     {
-     "medio": "Yahoo",
-     "titulo": "Tarkowski And Dewsbury-Hall Get 8 | Everton Players Rated In Entertaining Draw Vs Hull City",
-     "url": "https://sports.yahoo.com/articles/tarkowski-dewsbury-hall-8-everton-153000484.html",
-     "pub": "2026-10-11T15:30+00:00"
-    },
-    {
-     "medio": "Mundo Deportivo",
-     "titulo": "2-2: Hull City y Everton se reparten los puntos en una segunda parte de locura",
-     "url": "https://www.mundodeportivo.com/futbol/premier-league/20261011/1004237443/hull-city-everton-reparten-puntos-segunda-parte-locura.html",
-     "pub": ""
-    },
-    {
-     "medio": "Mundo Deportivo",
-     "titulo": "Hull City - Everton, en directo | Premier League",
-     "url": "https://www.mundodeportivo.com/futbol/premier-league/20261011/1004235394/hull-city-everton-directo-premier-league.html",
-     "pub": ""
-    },
-    {
-     "medio": "Foot Mercato",
-     "titulo": "Premier League : Pierre Sage et Crystal Palace se donnent de l’air, Everton accroché par Hull City",
-     "url": "https://www.footmercato.net/a829854825299357934-premier-league-pierre-sage-et-crystal-palace-se-donnent-de-lair-everton-accroche-par-hull-city",
-     "pub": "2026-10-11T15:03+00:00"
+     "medio": "Google News EN",
+     "titulo": "Premier League - Crystal Palace 3-1 Nottingham Forest - Oliver Glasner post match interview",
+     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE0tNFpwRzYtTWdXNTJmYVNZTFdNOEJSZnVCRDZqeG1Va2gtY1ltR3gzbElGTW4xbzVZbTRfczl4N2pJTHhtemFYZVlQT3lQdFdPay0wS0NKd29mc3BLSmlDdWdjaWRuRXB4?oc=5",
+     "pub": "2026-10-11T15:54+00:00"
     },
     {
      "medio": "Google News EN",
-     "titulo": "Hull City vs Everton LIVE! Premier League score updates, news, prediction, line-ups and how to watch or stream",
-     "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPMV9BakhRLUVyMThjczhya3FEdmtjckFMelIweGFoOVdpd2dVcEd2dE93a0ZZV0czZGQ5dnQxOVN0NWZBcHNLWlA5SUtWODZobUdiMGZaYWlmb3Y2UFlxQ3d2SGU4cXU2VnFabkNxTWI4bXMyb3JlV0UwR0lLSkthZEJDYzIxZE9jeFAxdEF3WlcyamRLamdXYVBtbWFhY3I1aEhJVUNmZnhnM1pfcElIY2dqTnM2R1h3c250aEtUcmllWTQ3YXlLdU43Y2Zad1A5OU9YdW9QOW9Gd2xKdEJlc3dDeVZ5U3c2VGsxeXNnLWtwQQ?oc=5",
-     "pub": "2026-10-11T16:03+00:00"
-    },
-    {
-     "medio": "Yahoo",
-     "titulo": "Hull 2-2 Everton analysis: Toffees rue Barry misses and offside flag",
-     "url": "https://sports.yahoo.com/articles/hull-2-2-everton-analysis-160405654.html",
-     "pub": "2026-10-11T16:04+00:00"
-    },
-    {
-     "medio": "Yahoo",
-     "titulo": "Hull 2-2 Everton analysis: City's strong start continues",
-     "url": "https://sports.yahoo.com/articles/hull-2-2-everton-analysis-160114464.html",
-     "pub": "2026-10-11T16:01+00:00"
-    }
-   ]
-  },
-  {
-   "tema": "Hull",
-   "medios": 8,
-   "lista_medios": [
-    "Daily Mail",
-    "Foot Mercato",
-    "FourFourTwo",
-    "Google News EN",
-    "Guardian",
-    "Mundo Deportivo",
-    "Sky Sports",
-    "Yahoo"
-   ],
-   "primera_vez": "2026-10-11T16:00+00:00",
-   "titulares": [
-    {
-     "medio": "Guardian",
-     "titulo": "Mohamed Belloumi grabs point for Hull in seesaw draw with Everton",
-     "url": "https://www.theguardian.com/football/2026/oct/11/hull-city-everton-premier-league-match-report",
-     "pub": "2026-10-11T15:13+00:00"
-    },
-    {
-     "medio": "Sky Sports",
-     "titulo": "Belloumi earns Hull draw with Everton after thrilling four-goal second half",
-     "url": "https://www.skysports.com/football/hull-city-vs-everton/report/559499",
-     "pub": "2026-10-11T16:00+00:00"
-    },
-    {
-     "medio": "Sky Sports",
-     "titulo": "Belloumi rescues draw for Hull vs Everton after thrilling second half LIVE!",
-     "url": "https://www.skysports.com/football/hull-city-vs-everton/live/559499",
-     "pub": "2026-10-11T12:30+00:00"
-    },
-    {
-     "medio": "Daily Mail",
-     "titulo": "Hull 2-2 Everton: Toffees' unbeaten start continues two days after owners revealed plan to sell and despite calamitous transfer window as Mohamed Belloumi salvages draw for the Tigers in exhilarating second half",
-     "url": "https://www.dailymail.com/sport/football/article-16195583/Hull-2-2-Everton-Mohamed-Belloumi-salvages-draw-Tigers-exhilarating-second-half-visitors-unbeaten-start-continues-two-days-owners-revealed-plan-sell.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-     "pub": "2026-10-11T15:24+00:00"
-    },
-    {
-     "medio": "FourFourTwo",
-     "titulo": "Hull City vs Everton FREE live streams: How to watch",
-     "url": "https://www.fourfourtwo.com/competition/watch-hull-vs-everton-premier-league-2026-27-free",
-     "pub": "2026-10-11T10:00+00:00"
-    },
-    {
-     "medio": "Yahoo",
-     "titulo": "Tarkowski And Dewsbury-Hall Get 8 | Everton Players Rated In Entertaining Draw Vs Hull City",
-     "url": "https://sports.yahoo.com/articles/tarkowski-dewsbury-hall-8-everton-153000484.html",
-     "pub": "2026-10-11T15:30+00:00"
-    },
-    {
-     "medio": "Mundo Deportivo",
-     "titulo": "2-2: Hull City y Everton se reparten los puntos en una segunda parte de locura",
-     "url": "https://www.mundodeportivo.com/futbol/premier-league/20261011/1004237443/hull-city-everton-reparten-puntos-segunda-parte-locura.html",
-     "pub": ""
-    },
-    {
-     "medio": "Mundo Deportivo",
-     "titulo": "Hull City - Everton, en directo | Premier League",
-     "url": "https://www.mundodeportivo.com/futbol/premier-league/20261011/1004235394/hull-city-everton-directo-premier-league.html",
-     "pub": ""
-    },
-    {
-     "medio": "Foot Mercato",
-     "titulo": "Premier League : Pierre Sage et Crystal Palace se donnent de l’air, Everton accroché par Hull City",
-     "url": "https://www.footmercato.net/a829854825299357934-premier-league-pierre-sage-et-crystal-palace-se-donnent-de-lair-everton-accroche-par-hull-city",
-     "pub": "2026-10-11T15:03+00:00"
+     "titulo": "Crystal Palace vs Nottm Forest | Daichi Kamada levels for Palace",
+     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOa0FNVmZWVGV0eC1uQXFpVmpUQzZtdVc5SktwektuOGdBcVJoSUxuRTF4NXZDLVhxMDFHelB3bXhfcmRFLU9DUzBVVVBTN0FOYmZ0NnE4eEc4a05BcWpmY3ZELTctYmEtSnNxU3lnRjh0Sk9mWXRybXhDM1pXOFppcEZFcEZHQ1BPRG0yM0NHVTFtWmFha2p6UnVCdTRsTkE?oc=5",
+     "pub": "2026-10-11T13:55+00:00"
     },
     {
      "medio": "Google News EN",
-     "titulo": "Hull City vs Everton LIVE! Premier League score updates, news, prediction, line-ups and how to watch or stream",
-     "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPMV9BakhRLUVyMThjczhya3FEdmtjckFMelIweGFoOVdpd2dVcEd2dE93a0ZZV0czZGQ5dnQxOVN0NWZBcHNLWlA5SUtWODZobUdiMGZaYWlmb3Y2UFlxQ3d2SGU4cXU2VnFabkNxTWI4bXMyb3JlV0UwR0lLSkthZEJDYzIxZE9jeFAxdEF3WlcyamRLamdXYVBtbWFhY3I1aEhJVUNmZnhnM1pfcElIY2dqTnM2R1h3c250aEtUcmllWTQ3YXlLdU43Y2Zad1A5OU9YdW9QOW9Gd2xKdEJlc3dDeVZ5U3c2VGsxeXNnLWtwQQ?oc=5",
-     "pub": "2026-10-11T16:03+00:00"
+     "titulo": "Crystal Palace vs Nottm Forest | Brilliant finish as Dan Ndoye puts Forest ahead",
+     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPenp6cm1CQ0tYYm9zQ19jbmYydnVuRnpUOS1mS25GemRQUHBzOEczengyMXh2VTd5Y04tNTM1SUZ5OVZpbGd0VFVFbm9fRWQzWWhuMkVUdi1UUEczM3VBU2x3bG9UNXoyVFZGYmlWRG4wUEl5WnRhNV9acmtVbk1FYnJwY0JZSFdmOWlyX0VRMDJQZlh6cEtIYmRCVHg?oc=5",
+     "pub": "2026-10-11T13:11+00:00"
     },
     {
-     "medio": "Yahoo",
-     "titulo": "Hull 2-2 Everton analysis: Toffees rue Barry misses and offside flag",
-     "url": "https://sports.yahoo.com/articles/hull-2-2-everton-analysis-160405654.html",
-     "pub": "2026-10-11T16:04+00:00"
+     "medio": "Google News EN",
+     "titulo": "Save W Benitez (80) Crystal Palace 3 - 1 Nottm Forest",
+     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQMXhGVFMzYWJvdk5EWjc1OFRFZm9zMnNrRWVrTFBNMklZamJ5em9jS25nak5WOXhJVTdxcTB1eVpFX3dUTkNvLTVMZTZGT09pbDFRWXlsTE52blpVVk9sRlhLbFVUdXZHbUYzWVhub3dJV0FneU5odEZtczhSMXlPcENaWmtpVlR2LV9VcVFOWnRJVFVuX19NYXBaX1ZWR3BLd0Vrb25n?oc=5",
+     "pub": "2026-10-11T14:50+00:00"
     },
     {
-     "medio": "Yahoo",
-     "titulo": "Hull 2-2 Everton analysis: City's strong start continues",
-     "url": "https://sports.yahoo.com/articles/hull-2-2-everton-analysis-160114464.html",
-     "pub": "2026-10-11T16:01+00:00"
+     "medio": "Mundo Deportivo",
+     "titulo": "Crystal Palace - Nottingham Forest, en directo | Premier League",
+     "url": "https://www.mundodeportivo.com/futbol/premier-league/20261011/1004235391/crystal-palace-nottingham-forest-directo-premier-league.html",
+     "pub": ""
+    },
+    {
+     "medio": "L'Equipe",
+     "titulo": "L'incroyable parade du gardien Walter Benitez contre Nottingham Forest en Premier League",
+     "url": "https://www.lequipe.fr/Football/Actualites/L-incroyable-parade-du-gardien-walter-benitez-contre-nottingham-forest-en-premier-league/1724953#at_medium=RSS_feeds",
+     "pub": "2026-10-11T14:24+00:00"
+    },
+    {
+     "medio": "L'Equipe",
+     "titulo": "Mené au score face à Nottingham Forest, Crystal Palace s'en sort bien et offre un répit à Pierre Sage",
+     "url": "https://www.lequipe.fr/Football/Actualites/Mene-au-score-face-a-nottingham-forest-crystal-palace-s-en-sort-bien-et-offre-un-repit-a-pierre-sage/1724985#at_medium=RSS_feeds",
+     "pub": "2026-10-11T15:34+00:00"
+    },
+    {
+     "medio": "Google News EN",
+     "titulo": "Crystal Palace 3-1 Nottingham Forest | Premier League highlights",
+     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPME5kcGd5RjJ1VWYwdDRlU0twc3Q5eWpjNHMxbkhlYVJNRkNDVlROYmRSaW4wS2ZNZGg5YUpBalVWQTNpOFBsby1aWmEwa08zNnV0NlBqZy1WaGJ1UXRyNnI4aVJIZHlwYnFfdENGNnh4TDJ1VU10LUY1NFpHM2VPV1dXQmFodElTOFdUYy1uZHNTY2V5eHhwQ0tBNzBVZHZKMHB5RW8wU1Ftb3VESmFsOHNR?oc=5",
+     "pub": "2026-10-11T15:15+00:00"
     }
    ]
   },
@@ -1623,6 +1719,83 @@
    ]
   },
   {
+   "tema": "Inter",
+   "medios": 8,
+   "lista_medios": [
+    "Foot Mercato",
+    "Google News AR",
+    "Guardian",
+    "Infobae",
+    "L'Equipe",
+    "Mundo Deportivo",
+    "Yahoo",
+    "ge.globo"
+   ],
+   "primera_vez": "2026-10-11T16:00+00:00",
+   "titulares": [
+    {
+     "medio": "Yahoo",
+     "titulo": "Fabregas: ‘Inter inspired Como on how to hurt Roma’",
+     "url": "https://sports.yahoo.com/articles/fabregas-inter-inspired-como-hurt-140000537.html",
+     "pub": "2026-10-11T14:00+00:00"
+    },
+    {
+     "medio": "L'Equipe",
+     "titulo": "Toujours invaincue, la Lazio de Gennaro Gattuso rejoint l'Inter Milan en tête de la Serie A",
+     "url": "https://www.lequipe.fr/Football/Actualites/Toujours-invaincue-la-lazio-de-gennaro-gattuso-rejoint-l-inter-milan-en-tete-de-la-serie-a/1724978#at_medium=RSS_feeds",
+     "pub": "2026-10-11T15:18+00:00"
+    },
+    {
+     "medio": "L'Equipe",
+     "titulo": "Auteur d'un doublé, Lionel Messi jubile encore avec l'Inter Miami",
+     "url": "https://www.lequipe.fr/Football/Actualites/Auteur-d-un-double-lionel-messi-jubile-encore-avec-l-inter-miami/1724902#at_medium=RSS_feeds",
+     "pub": "2026-10-11T06:47+00:00"
+    },
+    {
+     "medio": "Foot Mercato",
+     "titulo": "Inter Miami : le nouveau doublé de Lionel Messi après ses adieux à l’Argentine",
+     "url": "https://www.footmercato.net/a8354376357581106776-inter-miami-le-nouveau-double-de-lionel-messi-apres-ses-adieux-a-largentine",
+     "pub": "2026-10-11T08:05+00:00"
+    },
+    {
+     "medio": "Infobae",
+     "titulo": "Con dos tantos de Lionel Messi, el Inter Miami goleó 4-0 al DC United y volvió a la victoria en la MLS",
+     "url": "https://www.infobae.com/deportes/2026/10/10/tras-su-despedida-con-la-seleccion-argentina-lionel-messi-volvera-a-jugar-con-inter-miami-por-la-mls-hora-tv-y-formaciones/",
+     "pub": "2026-10-11T01:49+00:00"
+    },
+    {
+     "medio": "Infobae",
+     "titulo": "El show de Messi en Inter Miami tras su despedida de la selección argentina: los dos golazos en el triunfo ante DC United",
+     "url": "https://www.infobae.com/deportes/2026/10/11/el-show-de-messi-en-inter-miami-tras-su-despedida-de-la-seleccion-argentina-los-dos-golazos-en-el-triunfo-ante-dc-united/",
+     "pub": "2026-10-11T01:38+00:00"
+    },
+    {
+     "medio": "ge.globo",
+     "titulo": "Messi marca duas vezes na volta ao Inter Miami após despedida da Argentina e chega a 934 gols",
+     "url": "https://ge.globo.com/futebol/futebol-internacional/noticia/2026/10/10/messi-marca-no-primeiro-jogo-pelo-inter-miami-depois-da-despedida-da-selecao-argentina.ghtml",
+     "pub": "2026-10-11T00:55+00:00"
+    },
+    {
+     "medio": "Guardian",
+     "titulo": "European football: Lazio join Inter at top of Serie A as Roma held at Como",
+     "url": "https://www.theguardian.com/football/2026/oct/11/european-football-lazio-maintain-strong-start-with-win-over-monza",
+     "pub": "2026-10-11T16:09+00:00"
+    },
+    {
+     "medio": "Mundo Deportivo",
+     "titulo": "El Lazio de Gattuso sigue el ritmo del Inter con un gran gol de Nuno Tavares",
+     "url": "https://www.mundodeportivo.com/futbol/serie-a/20261011/1004237454/lazio.html",
+     "pub": ""
+    },
+    {
+     "medio": "Google News AR",
+     "titulo": "Messi volvió con todo a Inter Miami: doblete en la goleada sobre DC United",
+     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPNWUzWlIyeUlydVRld2RJdTMtV0djTzRiNmEtM2ZNTUFwWXIzTFVrZDJ3VjVPNWlsbzN4MmtjYjdlY2Q0T1NXTnVLajlPczZZV3NYVVpvUHlCSEZRMkRsczhVa2I0UUR2ZF84blpab3drS3hiNEU3NU1IU3k5UjBlTG1OQmh4WFIwcVVDWmdrRmh6RGpOaFAzQlZlRDhuVXZVeGtnX3FtUGlrS28?oc=5",
+     "pub": "2026-10-11T13:43+00:00"
+    }
+   ]
+  },
+  {
    "tema": "Carrick",
    "medios": 7,
    "lista_medios": [
@@ -1701,6 +1874,12 @@
      "titulo": "Manchester United make Michael Carrick decision after Tottenham Hotspur draw",
      "url": "https://sports.yahoo.com/articles/manchester-united-michael-carrick-decision-145000830.html",
      "pub": "2026-10-11T14:50+00:00"
+    },
+    {
+     "medio": "Yahoo",
+     "titulo": "Manchester United Are In The Mix To Sign This Atletico Madrid Winger: Good Fit For Carrick?",
+     "url": "https://sports.yahoo.com/articles/manchester-united-mix-sign-atletico-193500461.html",
+     "pub": "2026-10-11T19:35+00:00"
     }
    ]
   },
@@ -1771,94 +1950,6 @@
      "titulo": "‘I just want to focus on myself’ – Dario Essugo not trying to prove a point to Chelsea after opening his Strasbourg account",
      "url": "https://sports.yahoo.com/articles/just-want-focus-myself-dario-170500204.html",
      "pub": "2026-10-11T17:05+00:00"
-    }
-   ]
-  },
-  {
-   "tema": "Forest",
-   "medios": 7,
-   "lista_medios": [
-    "Daily Mail",
-    "FourFourTwo",
-    "Google News EN",
-    "Guardian",
-    "L'Equipe",
-    "Mundo Deportivo",
-    "Sky Sports"
-   ],
-   "primera_vez": "2026-10-11T16:00+00:00",
-   "titulares": [
-    {
-     "medio": "Guardian",
-     "titulo": "Pino finishes off Nottingham Forest on Glasner’s unhappy Crystal Palace return",
-     "url": "https://www.theguardian.com/football/2026/oct/11/crystal-palace-nottingham-forest-premier-league-match-report",
-     "pub": "2026-10-11T15:28+00:00"
-    },
-    {
-     "medio": "Sky Sports",
-     "titulo": "Palace stun Forest on Glasner's Selhurst Park return",
-     "url": "https://www.skysports.com/football/crystal-palace-vs-nottingham-forest/report/559498",
-     "pub": "2026-10-11T16:10+00:00"
-    },
-    {
-     "medio": "Daily Mail",
-     "titulo": "Crystal Palace 3-1 Nottingham Forest: Oliver Glasner brutally mocked on nightmare return with Pierre Sage's side gifted first win of the season as £50m man Liam Delap lacks clinical touch",
-     "url": "https://www.dailymail.com/sport/football/article-16195581/crystal-palace-nottingham-forest-glasner-selhurst.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-     "pub": "2026-10-11T15:52+00:00"
-    },
-    {
-     "medio": "FourFourTwo",
-     "titulo": "How to watch Crystal Palace vs Nottingham Forest for FREE",
-     "url": "https://www.fourfourtwo.com/competition/watch-crystal-palace-vs-nottingham-forest-free",
-     "pub": "2026-10-11T10:00+00:00"
-    },
-    {
-     "medio": "Google News EN",
-     "titulo": "Premier League - Crystal Palace 3-1 Nottingham Forest - Oliver Glasner post match interview",
-     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE0tNFpwRzYtTWdXNTJmYVNZTFdNOEJSZnVCRDZqeG1Va2gtY1ltR3gzbElGTW4xbzVZbTRfczl4N2pJTHhtemFYZVlQT3lQdFdPay0wS0NKd29mc3BLSmlDdWdjaWRuRXB4?oc=5",
-     "pub": "2026-10-11T15:54+00:00"
-    },
-    {
-     "medio": "Google News EN",
-     "titulo": "Crystal Palace vs Nottm Forest | Daichi Kamada levels for Palace",
-     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOa0FNVmZWVGV0eC1uQXFpVmpUQzZtdVc5SktwektuOGdBcVJoSUxuRTF4NXZDLVhxMDFHelB3bXhfcmRFLU9DUzBVVVBTN0FOYmZ0NnE4eEc4a05BcWpmY3ZELTctYmEtSnNxU3lnRjh0Sk9mWXRybXhDM1pXOFppcEZFcEZHQ1BPRG0yM0NHVTFtWmFha2p6UnVCdTRsTkE?oc=5",
-     "pub": "2026-10-11T13:55+00:00"
-    },
-    {
-     "medio": "Google News EN",
-     "titulo": "Crystal Palace vs Nottm Forest | Brilliant finish as Dan Ndoye puts Forest ahead",
-     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPenp6cm1CQ0tYYm9zQ19jbmYydnVuRnpUOS1mS25GemRQUHBzOEczengyMXh2VTd5Y04tNTM1SUZ5OVZpbGd0VFVFbm9fRWQzWWhuMkVUdi1UUEczM3VBU2x3bG9UNXoyVFZGYmlWRG4wUEl5WnRhNV9acmtVbk1FYnJwY0JZSFdmOWlyX0VRMDJQZlh6cEtIYmRCVHg?oc=5",
-     "pub": "2026-10-11T13:11+00:00"
-    },
-    {
-     "medio": "Google News EN",
-     "titulo": "Save W Benitez (80) Crystal Palace 3 - 1 Nottm Forest",
-     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQMXhGVFMzYWJvdk5EWjc1OFRFZm9zMnNrRWVrTFBNMklZamJ5em9jS25nak5WOXhJVTdxcTB1eVpFX3dUTkNvLTVMZTZGT09pbDFRWXlsTE52blpVVk9sRlhLbFVUdXZHbUYzWVhub3dJV0FneU5odEZtczhSMXlPcENaWmtpVlR2LV9VcVFOWnRJVFVuX19NYXBaX1ZWR3BLd0Vrb25n?oc=5",
-     "pub": "2026-10-11T14:50+00:00"
-    },
-    {
-     "medio": "Mundo Deportivo",
-     "titulo": "Crystal Palace - Nottingham Forest, en directo | Premier League",
-     "url": "https://www.mundodeportivo.com/futbol/premier-league/20261011/1004235391/crystal-palace-nottingham-forest-directo-premier-league.html",
-     "pub": ""
-    },
-    {
-     "medio": "L'Equipe",
-     "titulo": "L'incroyable parade du gardien Walter Benitez contre Nottingham Forest en Premier League",
-     "url": "https://www.lequipe.fr/Football/Actualites/L-incroyable-parade-du-gardien-walter-benitez-contre-nottingham-forest-en-premier-league/1724953#at_medium=RSS_feeds",
-     "pub": "2026-10-11T14:24+00:00"
-    },
-    {
-     "medio": "L'Equipe",
-     "titulo": "Mené au score face à Nottingham Forest, Crystal Palace s'en sort bien et offre un répit à Pierre Sage",
-     "url": "https://www.lequipe.fr/Football/Actualites/Mene-au-score-face-a-nottingham-forest-crystal-palace-s-en-sort-bien-et-offre-un-repit-a-pierre-sage/1724985#at_medium=RSS_feeds",
-     "pub": "2026-10-11T15:34+00:00"
-    },
-    {
-     "medio": "Google News EN",
-     "titulo": "Crystal Palace 3-1 Nottingham Forest | Premier League highlights",
-     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPME5kcGd5RjJ1VWYwdDRlU0twc3Q5eWpjNHMxbkhlYVJNRkNDVlROYmRSaW4wS2ZNZGg5YUpBalVWQTNpOFBsby1aWmEwa08zNnV0NlBqZy1WaGJ1UXRyNnI4aVJIZHlwYnFfdENGNnh4TDJ1VU10LUY1NFpHM2VPV1dXQmFodElTOFdUYy1uZHNTY2V5eHhwQ0tBNzBVZHZKMHB5RW8wU1Ftb3VESmFsOHNR?oc=5",
-     "pub": "2026-10-11T15:15+00:00"
     }
    ]
   },
@@ -2005,76 +2096,12 @@
      "titulo": "Serie A : l’AC Milan bute sur Sassuolo",
      "url": "https://www.footmercato.net/a6124686322760603552-serie-a-lac-milan-bute-sur-sassuolo",
      "pub": "2026-10-11T18:02+00:00"
-    }
-   ]
-  },
-  {
-   "tema": "Inter",
-   "medios": 7,
-   "lista_medios": [
-    "Foot Mercato",
-    "Guardian",
-    "Infobae",
-    "L'Equipe",
-    "Mundo Deportivo",
-    "Yahoo",
-    "ge.globo"
-   ],
-   "primera_vez": "2026-10-11T16:00+00:00",
-   "titulares": [
-    {
-     "medio": "Yahoo",
-     "titulo": "Fabregas: ‘Inter inspired Como on how to hurt Roma’",
-     "url": "https://sports.yahoo.com/articles/fabregas-inter-inspired-como-hurt-140000537.html",
-     "pub": "2026-10-11T14:00+00:00"
     },
     {
-     "medio": "L'Equipe",
-     "titulo": "Toujours invaincue, la Lazio de Gennaro Gattuso rejoint l'Inter Milan en tête de la Serie A",
-     "url": "https://www.lequipe.fr/Football/Actualites/Toujours-invaincue-la-lazio-de-gennaro-gattuso-rejoint-l-inter-milan-en-tete-de-la-serie-a/1724978#at_medium=RSS_feeds",
-     "pub": "2026-10-11T15:18+00:00"
-    },
-    {
-     "medio": "L'Equipe",
-     "titulo": "Auteur d'un doublé, Lionel Messi jubile encore avec l'Inter Miami",
-     "url": "https://www.lequipe.fr/Football/Actualites/Auteur-d-un-double-lionel-messi-jubile-encore-avec-l-inter-miami/1724902#at_medium=RSS_feeds",
-     "pub": "2026-10-11T06:47+00:00"
-    },
-    {
-     "medio": "Foot Mercato",
-     "titulo": "Inter Miami : le nouveau doublé de Lionel Messi après ses adieux à l’Argentine",
-     "url": "https://www.footmercato.net/a8354376357581106776-inter-miami-le-nouveau-double-de-lionel-messi-apres-ses-adieux-a-largentine",
-     "pub": "2026-10-11T08:05+00:00"
-    },
-    {
-     "medio": "Infobae",
-     "titulo": "Con dos tantos de Lionel Messi, el Inter Miami goleó 4-0 al DC United y volvió a la victoria en la MLS",
-     "url": "https://www.infobae.com/deportes/2026/10/10/tras-su-despedida-con-la-seleccion-argentina-lionel-messi-volvera-a-jugar-con-inter-miami-por-la-mls-hora-tv-y-formaciones/",
-     "pub": "2026-10-11T01:49+00:00"
-    },
-    {
-     "medio": "Infobae",
-     "titulo": "El show de Messi en Inter Miami tras su despedida de la selección argentina: los dos golazos en el triunfo ante DC United",
-     "url": "https://www.infobae.com/deportes/2026/10/11/el-show-de-messi-en-inter-miami-tras-su-despedida-de-la-seleccion-argentina-los-dos-golazos-en-el-triunfo-ante-dc-united/",
-     "pub": "2026-10-11T01:38+00:00"
-    },
-    {
-     "medio": "ge.globo",
-     "titulo": "Messi marca duas vezes na volta ao Inter Miami após despedida da Argentina e chega a 934 gols",
-     "url": "https://ge.globo.com/futebol/futebol-internacional/noticia/2026/10/10/messi-marca-no-primeiro-jogo-pelo-inter-miami-depois-da-despedida-da-selecao-argentina.ghtml",
-     "pub": "2026-10-11T00:55+00:00"
-    },
-    {
-     "medio": "Guardian",
-     "titulo": "European football: Lazio join Inter at top of Serie A as Roma held at Como",
-     "url": "https://www.theguardian.com/football/2026/oct/11/european-football-lazio-maintain-strong-start-with-win-over-monza",
-     "pub": "2026-10-11T16:09+00:00"
-    },
-    {
-     "medio": "Mundo Deportivo",
-     "titulo": "El Lazio de Gattuso sigue el ritmo del Inter con un gran gol de Nuno Tavares",
-     "url": "https://www.mundodeportivo.com/futbol/serie-a/20261011/1004237454/lazio.html",
-     "pub": ""
+     "medio": "Kicker",
+     "titulo": "Rabiot eröffnet kraftvoll, Sassuolo mit Eckballvariante zum remis",
+     "url": "https://www.kicker.de/rabiot-eroeffnet-kraftvoll-sassuolo-mit-eckballvariante-zum-remis-1260326/video#omrss",
+     "pub": "2026-10-11T18:35+00:00"
     }
    ]
   },
@@ -2197,12 +2224,6 @@
      "pub": "2026-10-10T14:20+00:00"
     },
     {
-     "medio": "talkSPORT",
-     "titulo": "Arsenal vs Leeds 23/1 bet builder with bet365",
-     "url": "https://talksport.com/football/4628112/arsenal-leeds-bet-builder-bet365-premier-league/",
-     "pub": "2026-10-10T07:00+00:00"
-    },
-    {
      "medio": "Mirror",
      "titulo": "Ray Parlour accuses Arsenal star of 'not doing his job' in Leeds victory",
      "url": "https://www.mirror.co.uk/sport/football/news/arsenal-noni-madueke-leeds-parlour-37759772",
@@ -2219,6 +2240,18 @@
      "titulo": "2nd Arsenal player also picked up injury in post-Leeds warm-down",
      "url": "https://sports.yahoo.com/articles/2nd-arsenal-player-picked-injury-152000891.html",
      "pub": "2026-10-11T15:20+00:00"
+    },
+    {
+     "medio": "Yahoo",
+     "titulo": "Arsenal dealt injury blow after Leeds United win",
+     "url": "https://sports.yahoo.com/articles/arsenal-dealt-injury-blow-leeds-185000230.html",
+     "pub": "2026-10-11T18:50+00:00"
+    },
+    {
+     "medio": "Yahoo",
+     "titulo": "Leeds Captain Can Reach New Level, Says Ex-Star: Can Farke Unlock His Midfielder?",
+     "url": "https://sports.yahoo.com/articles/leeds-captain-reach-level-says-184500393.html",
+     "pub": "2026-10-11T18:45+00:00"
     }
    ]
   },
@@ -2438,6 +2471,12 @@
      "titulo": "Antonio Conte amazed by Barcelona and La Masia: ‘They are doing something extraordinary’",
      "url": "https://sports.yahoo.com/articles/antonio-conte-amazed-barcelona-la-182900555.html",
      "pub": "2026-10-11T18:29+00:00"
+    },
+    {
+     "medio": "Yahoo",
+     "titulo": "Barcelona turn the Spotify Camp Nou into their fortress since returning in 2025",
+     "url": "https://sports.yahoo.com/articles/barcelona-turn-spotify-camp-nou-190000661.html",
+     "pub": "2026-10-11T19:00+00:00"
     }
    ]
   },
