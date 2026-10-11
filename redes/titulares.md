@@ -1,4 +1,4 @@
-# Titulares de fútbol (2026-10-11 15:30 UTC, últimas 36 h)
+# Titulares de fútbol (2026-10-11 16:00 UTC, últimas 36 h)
 
 Generado por `scripts/titulares.py` (workflow `tendencias`). Leídos 26 de 34 medios; fuentes en `redes/fuentes.md`.
 
@@ -6,31 +6,31 @@ Generado por `scripts/titulares.py` (workflow `tendencias`). Leídos 26 de 34 me
 
 | Tema | Nº medios | Medios | Ejemplo |
 |---|---|---|---|
-| Liverpool | 16 | AS, Daily Mail, Foot Mercato, FourFourTwo, Google News EN, Guardian, Kicker, Mir | Liverpool v Manchester City: Premier League – live |
-| Manchester | 14 | AS, Daily Mail, Foot Mercato, FourFourTwo, Google News EN, Guardian, L'Equipe, M | Liverpool v Manchester City: Premier League – live |
+| Liverpool | 18 | AS, Daily Mail, Foot Mercato, FourFourTwo, Google News EN, Google News ES, Guard | Liverpool v Manchester City: Premier League – live |
+| Manchester | 15 | AS, Daily Mail, Foot Mercato, FourFourTwo, Google News EN, Google News ES, Guard | Liverpool v Manchester City: Premier League – live |
 | Man | 12 | BBC, Daily Mail, Football Italia, FourFourTwo, Google News EN, Mirror, Planet Fo | Toxicity and uncertainty await Man City - will their season even matter? |
-| Madrid | 11 | AS, Foot Mercato, FourFourTwo, Google News ES, Infobae, L'Equipe, Mundo Deportiv | Vini Jr held back by Real Madrid teammates as superstar explodes at referee after being sent off |
+| Palace | 10 | Daily Mail, Foot Mercato, FourFourTwo, Google News EN, Guardian, L'Equipe, Mundo | Pino finishes off Nottingham Forest on Glasner’s unhappy Crystal Palace return |
+| Madrid | 10 | AS, Foot Mercato, FourFourTwo, Google News ES, Infobae, Mundo Deportivo, Yahoo,  | Vini Jr held back by Real Madrid teammates as superstar explodes at referee after being sent off |
 | Tottenham | 9 | BBC, Football Italia, FourFourTwo, Google News EN, Mirror, Planet Football, Yaho | 'Tottenham needs this reaction' - De Zerbi defends Bentancur red |
-| Carrick | 8 | BBC, Daily Mail, Guardian, Mirror, Planet Football, Sky Sports, Yahoo, talkSPORT | Boos, anguish & fading belief - 'worrying day' for under-pressure Carrick |
+| Crystal | 9 | Daily Mail, Foot Mercato, FourFourTwo, Google News EN, Guardian, L'Equipe, Mundo | Pino finishes off Nottingham Forest on Glasner’s unhappy Crystal Palace return |
 | Spurs | 8 | BBC, Daily Mail, Google News EN, Guardian, Infobae, Mirror, Telegraph, talkSPORT | 'I kissed Rodrigo and said thanks' - De Zerbi 'liked' Spurs red card |
 | Arsenal | 8 | BBC, Football Italia, FourFourTwo, Guardian, Mirror, Yahoo, ge.globo, talkSPORT | Hincapie injury adds to Arsenal issues after Guimaraes rescue act |
-| Palace | 8 | Foot Mercato, FourFourTwo, Google News EN, Guardian, Mundo Deportivo, Sky Sports | Crystal Palace 3-1 Nottingham Forest, Hull 2-2 Everton, Southampton 1-0 Portsmouth: football – live |
-| Southampton | 8 | FourFourTwo, Google News EN, Guardian, Mirror, Planet Football, Sky Sports, Yaho | Crystal Palace 3-1 Nottingham Forest, Hull 2-2 Everton, Southampton 1-0 Portsmouth: football – live |
-| Villarreal | 8 | AS, FourFourTwo, Guardian, L'Equipe, Mundo Deportivo, Yahoo, ge.globo, r/soccer  | Real Madrid’s Vinícius Júnior sent off for hair-pulling in victory over Villarreal |
-| Mourinho | 8 | Football Italia, FourFourTwo, Google News ES, L'Equipe, Mundo Deportivo, Yahoo,  | Jose Mourinho&#8217;s decision to boycott press conference explained after Vinicius Jr red card |
-| Messi | 8 | Foot Mercato, Google News AR, Infobae, L'Equipe, Ole, ge.globo, r/soccer (top dí | &#8216;Miracle&#8217; Lionel Messi photo with Lamine Yamal set to spark wild chase |
+| Everton | 8 | Daily Mail, Foot Mercato, FourFourTwo, Google News EN, Guardian, Mundo Deportivo | Mohamed Belloumi grabs point for Hull in seesaw draw with Everton |
+| Hull | 8 | Daily Mail, Foot Mercato, FourFourTwo, Google News EN, Guardian, Mundo Deportivo | Mohamed Belloumi grabs point for Hull in seesaw draw with Everton |
+| Southampton | 8 | FourFourTwo, Google News EN, Guardian, Mirror, Planet Football, Sky Sports, Yaho | Joy for Eckert as 10-man Southampton edge out Portsmouth in feisty derby |
+| Messi | 8 | Foot Mercato, Football Italia, Google News AR, Infobae, L'Equipe, ge.globo, r/so | &#8216;Miracle&#8217; Lionel Messi photo with Lamine Yamal set to spark wild chase |
+| Milan | 7 | BBC, Foot Mercato, Football Italia, FourFourTwo, L'Equipe, Mundo Deportivo, Yaho | AC Milan keen on Scott - Sunday's gossip |
+| Carrick | 7 | BBC, Daily Mail, Mirror, Planet Football, Sky Sports, Yahoo, talkSPORT | Boos, anguish & fading belief - 'worrying day' for under-pressure Carrick |
 | Utd | 7 | BBC, Football Italia, Google News EN, Mirror, Planet Football, Telegraph, r/socc | Solanke scores in added time as 10-man Spurs draw with Man Utd |
-| Everton | 7 | Daily Mail, Foot Mercato, FourFourTwo, Google News EN, Guardian, Mundo Deportivo | Crystal Palace 3-1 Nottingham Forest, Hull 2-2 Everton, Southampton 1-0 Portsmouth: football – live |
-| Portsmouth | 7 | FourFourTwo, Google News EN, Guardian, Mirror, Planet Football, Yahoo, talkSPORT | Crystal Palace 3-1 Nottingham Forest, Hull 2-2 Everton, Southampton 1-0 Portsmouth: football – live |
-| Crystal | 7 | Foot Mercato, FourFourTwo, Google News EN, Guardian, Mundo Deportivo, Yahoo, tal | Crystal Palace 3-1 Nottingham Forest, Hull 2-2 Everton, Southampton 1-0 Portsmouth: football – live |
-| Hull | 7 | Daily Mail, Foot Mercato, FourFourTwo, Google News EN, Guardian, Mundo Deportivo | Crystal Palace 3-1 Nottingham Forest, Hull 2-2 Everton, Southampton 1-0 Portsmouth: football – live |
+| Forest | 7 | Daily Mail, FourFourTwo, Google News EN, Guardian, L'Equipe, Mundo Deportivo, Sk | Pino finishes off Nottingham Forest on Glasner’s unhappy Crystal Palace return |
+| Portsmouth | 7 | FourFourTwo, Google News EN, Guardian, Mirror, Planet Football, Yahoo, talkSPORT | Joy for Eckert as 10-man Southampton edge out Portsmouth in feisty derby |
+| Lazio | 7 | Foot Mercato, Football Italia, Kicker, L'Equipe, Mundo Deportivo, Record, Yahoo | Serie A | Lazio 3-1 Monza: Special Nuno Tavares strike keeps Aquile on top |
 | Inter | 7 | Foot Mercato, Football Italia, Infobae, L'Equipe, Yahoo, ge.globo, r/soccer (top | Fabregas: ‘Inter inspired Como on how to hurt Roma’ |
-| Milan | 6 | BBC, Foot Mercato, Football Italia, FourFourTwo, Mundo Deportivo, Yahoo | AC Milan keen on Scott - Sunday's gossip |
 | Ronaldo | 6 | BBC, Foot Mercato, Guardian, Infobae, r/soccer (top día), talkSPORT | Ronaldo provisionally suspended by Portuguese FA |
 | Chelsea | 6 | BBC, Daily Mail, FourFourTwo, Google News EN, Guardian, Infobae | Henderson scores twice as five-star Chelsea thrash Bournemouth |
-| Forest | 6 | FourFourTwo, Google News EN, Guardian, L'Equipe, Mundo Deportivo, Sky Sports | Crystal Palace 3-1 Nottingham Forest, Hull 2-2 Everton, Southampton 1-0 Portsmouth: football – live |
-| Celtic | 6 | Daily Mail, Google News EN, Guardian, Record, Sky Sports, Yahoo | Scottish Premiership: Celtic end losing skid and take top spot back from Rangers |
-| LIVE | 6 | Daily Mail, Google News EN, Kicker, Mirror, Sky Sports, talkSPORT | Sage's Palace get one up on Forest as Glasner Selhurst return ends in defeat LIVE! |
+| Leeds | 6 | BBC, FourFourTwo, Guardian, Mirror, Yahoo, talkSPORT | Brilliant Guimaraes goal helps Arsenal fight back to beat Leeds |
+| Nottingham | 6 | Daily Mail, FourFourTwo, Google News EN, Guardian, L'Equipe, Mundo Deportivo | Pino finishes off Nottingham Forest on Glasner’s unhappy Crystal Palace return |
+| Villarreal | 6 | AS, FourFourTwo, Guardian, Mundo Deportivo, ge.globo, r/soccer (top día) | Real Madrid’s Vinícius Júnior sent off for hair-pulling in victory over Villarreal |
 
 ## Titulares por medio
 
@@ -50,36 +50,36 @@ Generado por `scripts/titulares.py` (workflow `tendencias`). Leídos 26 de 34 me
 
 **Guardian** (20)
 - Liverpool v Manchester City: Premier League – live
-- Crystal Palace 3-1 Nottingham Forest, Hull 2-2 Everton, Southampton 1-0 Portsmouth: football – live
+- Pino finishes off Nottingham Forest on Glasner’s unhappy Crystal Palace return
+- Mohamed Belloumi grabs point for Hull in seesaw draw with Everton
 - Joy for Eckert as 10-man Southampton edge out Portsmouth in feisty derby
 - Scottish Premiership: Celtic end losing skid and take top spot back from Rangers
 - Robbie Savage the panto villain puts scepticism aside to leave Leicester reeling
 - Why we’re stuck with a Premier League in the clutches of the global mega-rich | Jonathan Wilson
-- Manchester United and Spurs come back to reality as City saga offers brief distraction | John Brewin
 - Real Madrid’s Vinícius Júnior sent off for hair-pulling in victory over Villarreal
+- Manchester United and Spurs come back to reality as City saga offers brief distraction | John Brewin
 - Bruno Guimarães completes Arsenal comeback to end Leeds’ unbeaten run
 - Henderson and João Pedro lead Chelsea charge against Bournemouth
 - Ten-man Brighton continue fine form with battling win at Sunderland
-- Ipswich stun Fulham with last-gasp comeback to increase heat on Arbeloa
 
 **Sky Sports** (20)
+- Swiss Darts Trophy LIVE! Humphries, Clayton in action
+- Hamilton apologises to Ferrari for overriding strategy call
 - Verstappen claims dominant first Singapore GP win
-- Sage's Palace get one up on Forest as Glasner Selhurst return ends in defeat LIVE!
 - Palace stun Forest on Glasner's Selhurst Park return
 - Belloumi earns Hull draw with Everton after thrilling four-goal second half
 - Zheng stuns Andreeva to become first Chinese winner of China Open
 - Ten-man Southampton secure first league derby win since 2004
 - Belloumi rescues draw for Hull vs Everton after thrilling second half LIVE!
-- Singapore GP: Verstappen wins as Hamilton tumbles off podium late on LIVE!
-- Liverpool vs Man City LIVE!
+- Unwell Hamilton misses post-Singapore GP interviews after medical checks
+- Intense Liverpool testing Man City LIVE!
 - Yamashita wins Korea Championship with course-record finish
 - NFL London LIVE! Eagles fight back to take lead vs Jags in thrilling first half
-- Brennan holds on for one-shot victory at Baycurrent Classic in Japan
 
 **talkSPORT** (29)
 - Liverpool dealt another huge blow as star man is ruled out of Manchester City clash
 - &#8216;Doomsday&#8217; &#8211; EFL boss told his days are numbered amid horror start to season
-- Liverpool vs Manchester City LIVE: Visitors expecting hellish atmosphere as they take part in first PL game since guilty verdict
+- Liverpool 0-0 Manchester City LIVE: Visitors expecting hellish atmosphere as they take part in first PL game since guilty verdict
 - Southampton fans told they shouldn&#8217;t applaud star man after red card vs Portsmouth
 - Elton John fires stinging blast towards beloved EFL side as club lose third straight game
 - Bukayo Saka told he&#8217;s not justifying contract as Arsenal legend gives key piece of advice
@@ -91,7 +91,7 @@ Generado por `scripts/titulares.py` (workflow `tendencias`). Leídos 26 de 34 me
 - Vini Jr held back by Real Madrid teammates as superstar explodes at referee after being sent off
 
 **Daily Mail** (35)
-- Liverpool vs Manchester City - Premier League LIVE: Enzo Maresca's side BOOED during warm up as hostile Anfield crowd awaits - after visitor
+- Liverpool vs Manchester City - Premier League LIVE: Enzo Maresca's side BOOED by hostile Anfield crowd at kick-off in their first game since
 - Dominic Solanke led the line expertly and repaid Roberto De Zerbi for his show of faith - his rescue act needs to be the catalyst to kick-st
 - Bruno Fernandes cuts frustrated figure as he makes hasty Old Trafford exit after Man United throw away win against 10-man Spurs
 - Practice makes perfect! Chelsea reveal unseen footage of Jordan Henderson scoring carbon copy of Bournemouth free kick in training - as vete
@@ -101,11 +101,12 @@ Generado por `scripts/titulares.py` (workflow `tendencias`). Leídos 26 de 34 me
 - Revealed: England WAGs' VERY boozy night out on eve of Golden Generation's disastrous 2006 World Cup campaign as waitress unearths receipt 2
 - 'Worried' Gary Neville tells struggling Man United stars to 'get a grip' after Spurs draw ahead of tough run - as he warns midfield duo CAN'
 - 'Stupid' Rodrigo Bentancur sparks mass brawl after HEADBUTTING Luke Shaw as Spurs star is sent off in clash with Man United
-- Liverpool vs Manchester City - Premier League LIVE: Enzo Maresca's side BOOED during warm up as hostile Anfield crowd awaits - after visitor
-- Hull 2-2 Everton: Toffees' unbeaten start continues two days after owners revealed plan to sell and despite calamitous transfer window as Mo
+- Liverpool vs Manchester City - Premier League LIVE: Enzo Maresca's side BOOED by hostile Anfield crowd at kick-off in their first game since
+- Crystal Palace 3-1 Nottingham Forest: Oliver Glasner brutally mocked on nightmare return with Pierre Sage's side gifted first win of the sea
 
 **Mirror** (25)
-- Liverpool vs Man City LIVE: Team bus evades hostile fans but Anfield taunts players after 115 charges verdict
+- Liverpool vs Man City LIVE: Tempers high as hostile Anfield taunts City players after 115 charges verdict
+- Man City hit by wave of Anfield vitriol as Liverpool fans make feelings fiercely clear
 - Why do Man City fans carry inflatable bananas? Reason explained before Liverpool clash
 - Man City relegation odds: What price are they to drop down to the Championship?
 - Roy Keane says ex-Man City stars should be DISGUSTED by club's 'dodgy dealings'
@@ -116,7 +117,6 @@ Generado por `scripts/titulares.py` (workflow `tendencias`). Leídos 26 de 34 me
 - Ray Parlour accuses Arsenal star of 'not doing his job' in Leeds victory
 - Erling Haaland 'the most vocal' about Man City charges as true feelings comes to light
 - Man City charges latest: £830m 'sham' contracts, possible punishments, appeal timeline
-- Mark Chapman and Kelly Cates mocked by BBC star, ex 'fuming' and dating statement
 
 **Telegraph** (2)
 - Man Utd make worst start in 40 years after being hauled back by 10-man Spurs
@@ -141,8 +141,8 @@ Generado por `scripts/titulares.py` (workflow `tendencias`). Leídos 26 de 34 me
 - Tony Adams on the managerial lessons learned from Jose Mourinho
 - Watch Liverpool vs Man City for FREE: Live streams
 - Hull City vs Everton FREE live streams: How to watch
-- Michael Owen discusses the horses he trains at his Manor House stables and their famous owners
 - How to watch Crystal Palace vs Nottingham Forest for FREE
+- Michael Owen discusses the horses he trains at his Manor House stables and their famous owners
 - Tonda Eckert’s Spygate 'punishment' could BOOST Southampton
 - Watch Southampton vs Portsmouth for FREE: Live Streams
 - Dimitar Berbatov opens up on his career as a cult hero
@@ -151,29 +151,29 @@ Generado por `scripts/titulares.py` (workflow `tendencias`). Leídos 26 de 34 me
 - How to watch Real Madrid vs Villarreal for FREE: Live stream details for La Liga clash
 
 **Yahoo** (40)
+- Why Man City fans have inflatable bananas at Anfield in Premier League clash with Liverpool
+- Cardiff & Wrexham win big but TNS top Adran Premier
+- Amorim: ‘Milan system doesn’t matter as much as being aggressive’
+- Six young talents Barcelona are closely monitoring including Manchester United gem
+- Pellegrini makes 350th appearance for Roma
+- McTominay sends nine-word message after 3-0 win on return from heart surgery
+- Malen pens apology after red card vs Como: &#8220;I&#8217;m sorry to the team and fans.&#8221;
+- Tarkowski And Dewsbury-Hall Get 8 | Everton Players Rated In Entertaining Draw Vs Hull City
+- 📸 Man City receive expected hot reception ahead of Anfield test
 - Man City greeted with boos and chants from Liverpool supporters in first match after guilty verdict
+- 2nd Arsenal player also picked up injury in post-Leeds warm-down
 - Liverpool dealt blow for Man City clash with Dominik Szoboszlai injury
-- 🚨XI confirmed: Milan face a tough trip to Sassuolo
-- Serie A | Lecce 1-2 Bologna: First victory for Palladino
-- Serie A | Lazio 3-1 Monza: Special Nuno Tavares strike keeps Aquile on top
-- PLAYER RATINGS | OGC Nice 2-1 Strasbourg: Jonathan Clauss completes comeback win for Le Gym
-- Serie A: Sassuolo vs. Milan – Confirmed line-ups
-- Manchester United make Michael Carrick decision after Tottenham Hotspur draw
-- Who is Lewis Koumas? Liverpool youngster gets first Premier League start vs Manchester City
-- Lyon full-back Nicolás Tagliafico considers possible return to Argentina
-- Ten-man Southampton beat Portsmouth in heated derby
-- Corinthians signing Seedorf shocks social media; see the reactions 🤣
 
 **Google News EN** (40)
 - Napoli 3-0 Frosinone | Serie A highlights
-- Non-league match abandoned after alleged homophobic abuse
 - My partner’s obnoxious conduct at our sons’ football matches is putting me off him | Annalisa Barbieri
-- Russo named England player of the year
+- Non-league match abandoned after alleged homophobic abuse
+- Millwall analysis: Lions win in testing circumstances 'richly deserved'
 - Campaign launched to safeguard site of first home of Scotland’s national football team
 - Derry City: Silverware trumps Europe for Duffy
-- Rival football fans divided over derby day 'bubble'
 - Robbie Savage the panto villain puts scepticism aside to leave Leicester reeling
-- Liverpool v Manchester City: fans want justice over City charges
+- Premier League - Crystal Palace 3-1 Nottingham Forest - Oliver Glasner post match interview
+- Rival football fans divided over derby day 'bubble'
 - Blyth Spartans Women ahead of schedule after FA Cup qualifiers run
 - Brainteaser No 52: Will you get today's answer?
 - 'It shows you there is hope': Football coach on anorexia recovery journey
@@ -181,18 +181,19 @@ Generado por `scripts/titulares.py` (workflow `tendencias`). Leídos 26 de 34 me
 **AS** (26)
 - Real Sociedad - Deportivo, en directo: LaLiga EA Sports, hoy en vivo
 - Liverpool - Manchester City, en directo: Premier League, hoy en vivo
+- Betis - Osasuna en directo: LaLiga EA Sports hoy, en vivo
 - Acelerón insuficiente para Elche y Celta
 - Madrid-CTA: situación límite
-- Desazón con Vinicius
 - Polémica en Copa por el penalti entre Sporting de Hortaleza y Unión Güimar en la prórroga: juzguen ustedes
+- Desazón con Vinicius
 - Almería - Leganés, en directo: LaLiga Hypermotion, hoy en vivo
+- Mallorca - Las Palmas, en directo: LaLiga Hypermotion, hoy en vivo
 - El Andorra pone punto final al invicto ‘orellut’
 - Aviso de la Roma al Madrid
 - Callejón sin salida para Balde
-- Diomande, ahora o nunca
-- LaLiga cada día es más de izquierdas
 
 **Mundo Deportivo** (40)
+- 2-2: Hull City y Everton se reparten los puntos en una segunda parte de locura
 - Real Madrid TV aumenta sus críticas a los árbitros
 - Sassuolo - AC Milan, en directo | Serie A
 - Anselmi: "Compitiendo de esta forma estaremos más cerca de ganar"
@@ -204,7 +205,6 @@ Generado por `scripts/titulares.py` (workflow `tendencias`). Leídos 26 de 34 me
 - 1-0: El Andorra se reivindica ante el Castellón con su mejor partido
 - Rennes - Auxerre, en directo | Ligue 1
 - Flick comparte con su 'staff' el premio al mejor técnico de septiembre
-- 0-0: La pólvora mojada marca el Elche-Celta
 
 **Google News ES** (40)
 - Ganas de Real
@@ -212,17 +212,20 @@ Generado por `scripts/titulares.py` (workflow `tendencias`). Leídos 26 de 34 me
 - Cuidado @sportingdegijon 🤖 #laliga #laligahypermotion #edit #humor #futbol
 - Ecotelia estrecha lazos con la Federación Riojana de Fútbol
 - Atlético Madrileño vs Real Zaragoza de Primera Federación: horario y dónde ver hoy por TV y online el partido de Primera RFEF a través de DA
-- Fútbol: Sonia Bermúdez, en directo | Rueda de prensa
-- El Coria necesita más del otro fútbol
-- Natalia Ramos debuta con la Selección Española Femenina de Fútbol
 - Aquí tienes el boletín
 - Así se van a preparar
+- Fútbol: Sonia Bermúdez, en directo | Rueda de prensa
+- Natalia Ramos debuta con la Selección Española Femenina de Fútbol
+- El Coria necesita más del otro fútbol
 - Estos son los grupos de las competiciones de Base Valenta de fútbol sala para la temporada 26/27
 - ¿Quién es Luís Bestard Servera? Árbitro del Racing vs Valencia de la jornada 8 de LALIGA
 
 **Gazzetta** (0)
 
 **Football Italia** (20)
+- Nico Paz: ‘Two amazing weeks with Messi, I don’t know about his no.10 shirt’
+- Amorim: ‘Milan system doesn’t matter as much as being aggressive’
+- McTominay sends nine-word message after 3-0 win on return from heart surgery
 - Serie A Liveblog including Como-Roma, Sassuolo-Milan, Cagliari-Juventus
 - Serie A | Lecce 1-2 Bologna: First victory for Palladino
 - Serie A | Lazio 3-1 Monza: Special Nuno Tavares strike keeps Aquile on top
@@ -232,39 +235,38 @@ Generado por `scripts/titulares.py` (workflow `tendencias`). Leídos 26 de 34 me
 - Serie A | Como 0-0 Roma: Giallorossi resist under siege after Malen sees red
 - Why Roma star Malen saw red against Como and what he said to the fourth official
 - Tonali sends six-word message after assist in Tottenham draw with Man Utd
-- Picture: Baggio in New York to receive Best Italian Player of All Time award
-- Official: Juventus squad list for Cagliari clash as eight still unavailable
-- Ludi: ‘Como proud to have Kean represent Italy, excellent rapport with staff’
 
 **Kicker** (20)
-- LIVE! Gladbach drückt nochmal - El Mala trifft traumhaft
-- LIVE! Zu Gast bei unbesiegten Freiburgern: Vier Wechsel bei Schalke
+- San Sebastian - A Coruna: Tor zum 3:2 durch Yeremay in der 69. Minute
+- San Sebastian - A Coruna: Tor zum 3:2 durch Yeremay in der 69. Minute
+- San Sebastian - A Coruna: Rote Karte für Marin in der 66. Minute
+- LIVE! Erste Rudelbildung: Brisantes Topspiel zwischen Liverpool und ManCity
+- Rennes - Auxerre: Tor zum 1:1 durch Archer in der 25. Minute
+- Koch reagiert auf Hütter-Kritik: "Ändert nichts an meiner Haltung"
+- LIVE! Frühe Freiburger Führung nach Ecke
+- San Sebastian - A Coruna: Tor zum 3:1 durch Soriano in der 61. Minute
+- San Sebastian - A Coruna: Tor zum 3:0 durch Goncalo Guedes in der 54. Minute
+- Erleichterung im Fall von Stuttgarts "Abwehr-Jeff" Chabot
+- Rennes - Auxerre: Tor zum 1:0 durch Lepaul in der 15. Minute
 - Sorgen um Skhiri: Auswechslung und Untersuchung in Klinik
-- San Sebastian - A Coruna: Tor zum 2:0 durch Zakharyan in der 34. Minute
-- Lazio - Monza: Tor zum 3:1 durch Pinamonti in der 88. Minute
-- San Sebastian - A Coruna: Tor zum 1:0 durch Martin in der 29. Minute
-- Nizza - Straßburg: Tor zum 2:1 durch Clauss in der 81. Minute
-- Lecce - Bologna: Tor zum 1:2 durch Enem in der 75. Minute
-- Offener Schlagabtausch nach der Pause: Bonns Serie hält auch in Wiedenbrück
-- LIVE! Auch Szoboszlai fehlt: Brisantes Topspiel zwischen Liverpool und ManCity
-- Wagners Probleme in allen Mannschaftsteilen: "Es gibt keinen Freifahrtschein"
-- Lecce - Bologna: Tor zum 1:1 durch Fatah in der 64. Minute
 
 **L'Equipe** (40)
+- Mené au score face à Nottingham Forest, Crystal Palace s'en sort bien et offre un répit à Pierre Sage
+- Ousmane Dembélé et Nuno Mendes de retour au Campus PSG avant le match contre Manchester City
+- City s'efforce de garder le sourire avant Anfield
+- Agacé par les critiques, Ancelotti cherche toujours la bonne formule
+- Toujours invaincue, la Lazio de Gennaro Gattuso rejoint l'Inter Milan en tête de la Serie A
+- « Tricheurs » : l'accueil caustique réservé à Manchester City par les supporters de Liverpool avant leur confrontation en Premier League
+- Relégable, Marseille est condamné à gagner
+- « Cela manquait à l'équipe de France » : Cesc Fabregas admiratif des débuts avec les Bleus de Lucas Da Cunha, son capitaine à Côme
+- Frappe surpuissante, lucarne et barre rentrante : la vidéo du but de la victoire de Jonathan Clauss avec Nice contre Strasbourg
+- Jacquet-Van Dijk, des rôles distincts pour une association prometteuse
 - Rennes avec Moussa Al-Tamari, Mahamadou Nagida et Bryan Reynolds face à Auxerre, Quentin Merlin absent
-- Nice enchaîne à domicile en renversant un pâle Strasbourg en Ligue 1
-- Les compositions de Liverpool-Manchester City : Cherki, Barcola et Jacquet débutent, baptême du feu pour Koumas
-- Même nombre de points, autant de buts marqués et concédés... L'égalité presque parfaite entre le Viking FK et Bodö/Glimt en D1 norvégienne
-- Nos coups de cœur du début de saison en L1
-- L'incroyable parade du gardien Walter Benitez contre Nottingham Forest en Premier League
-- Victime d'un coup de fatigue, le Niçois Djibril Coulibaly sort dès la 37e minute contre Strasbourg en Ligue 1
-- Ce Paris n'a (vraiment) qu'un plan A
-- À Nice, une politique davantage tournée vers le centre de formation
-- En infériorité numérique en deuxième période, l'AS Rome, accrochée par Côme, manque de prendre la tête de Serie A
-- Alessia Russo élue « Joueuse anglaise de la saison 2025-2026 » par les fans
-- Karim Coulibaly, Dario Essugo et Conrad Harder titulaires avec Strasbourg à Nice en Ligue 1
+- Repos des stars : et si la L1 imitait la NBA ?
 
 **Foot Mercato** (40)
+- PSG : Ousmane Dembélé et Nuno Mendes de retour à l’entraînement
+- JT Foot Mercato : Mika Godts n’y arrive pas au PSG
 - «Tricheurs, bâtards»… l’avant-match cauchemardesque de Manchester City à Liverpool
 - Premier League : Pierre Sage et Crystal Palace se donnent de l’air, Everton accroché par Hull City
 - Serie A : Gattuso toujours invaincu avec sa Lazio, Bologne retrouve des couleurs à Lecce
@@ -275,36 +277,35 @@ Generado por `scripts/titulares.py` (workflow `tendencias`). Leídos 26 de 34 me
 - François Modesto a retrouvé un club en Italie
 - Liverpool - Manchester City : les compositions officielles
 - Lorient : le disparu Isaak Touré sort du silence après ses deux ans d’absence
-- Strasbourg : le but gag de Pape Demba qui offre l’égalisation à Nice
-- Lazio : le pétard de Nuno Tavares contre Monza
 
 **Record** (20)
+- <![CDATA[ O onze do Benfica para o jogo com o V. Guimarães ]]>
+- <![CDATA[ Antonelli pode assinar recorde incrível já em Austin: as contas para garantir o título ]]>
+- <![CDATA[ A reação de William Gomes à lesão sofrida contra o Marítimo ]]>
+- <![CDATA[ ZTE de Filipe Çelikkaya goleia na Hungria ]]>
+- <![CDATA[ Seedorf é o eleito do Corinthians para tentar fugir da descida ]]>
 - <![CDATA[ Liverpool-Man. City, em direto ]]>
+- <![CDATA[ William Gomes fez tratamento no Olival em dia de folga ]]>
+- <![CDATA[ FC Porto-Benfica, em direto ]]>
+- <![CDATA[ Sassuolo-Milan, em direto ]]>
 - <![CDATA[ Golaço de Nuno Tavares abre triunfo da Lazio face ao Monza ]]>
 - <![CDATA[ O momento em que homens armados tentam roubar carro no Carregado   ]]>
 - <![CDATA[ Benfica-V. Guimarães, em direto ]]>
-- <![CDATA[ Matsushita Tomoyuki bate recorde mundial dos 400 estilos em piscina curta ]]>
-- <![CDATA[ Rio Ave-Nacional, 1-1 (1.ª parte) ]]>
-- <![CDATA[ Pepê celebra jogo 250 pelo FC Porto: «É a minha casa e espero conquistar mais títulos» ]]>
-- <![CDATA[ Zheng Qinwen é a primeira tenista chinesa a ganhar o torneio de Pequim ]]>
-- <![CDATA[ Antigo treinador augura futuro brilhante a Rodrigo Ribeiro: «Características para singrar e chegar à seleção» ]]>
-- <![CDATA[ Imagens de drone mostram destruição causada pelo furacão Isaías num complexo habitacional da Florida ]]>
-- <![CDATA[ Croata Igor Pajac arbitra deslocação do Sporting a Lens ]]>
-- <![CDATA[ Verstappen domina e conquista Grande Prémio de Singapura pela primeira vez na carreira ]]>
 
 **Ole** (10)
+- Corinthians presentó a un técnico europeo para salvarse del descenso
+- Scaloni sorprendió en plena madrugada: corrió el Gran Fondo de Buenos Aires
 - Bautismo de fuego: Kevin Zenón marcó su primer gol en México en un clásico y contra Gabriel Milito
 - Qué necesita Antonelli para ser campeón de la Fórmula 1 en la próxima carrera, Austin
 - Fausto Vera, sin vueltas sobre el presente de River: "Tenemos que afinar la puntería y hacer más goles"
 - Video: en Brasil se suspendió un partido por el ascenso porque se movía la tribuna
 - Todo el trasfondo de la guerra por el Maracaná: ¿dónde jugará Boca la revancha en Brasil?
-- Liverpool vs. Manchester City, por la Premier League, hoy en VIVO: cómo ver y equipos confirmados
+- Liverpool vs. Manchester City, por la Premier League, hoy en VIVO: ya se juega el duelo de argentinos
 - El supremo Max Verstappen: ya ganó en todos lados
 - El lamento de Franco Colapinto tras el abandono en el GP de Singapur: "Fue la peor racha de mi carrera"
-- Cómo quedaron las posiciones de la F1 tras el GP de Singapur
-- Messi eligió a 10 promesas del fútbol mundial y hay un argentino
 
 **Infobae** (40)
+- Lionel Scaloni sumó otro desafío en el ciclismo y completó el Gran Fondo Buenos Aires: “Quería disfrutar de la ciudad sin coches”
 - Franco Colapinto abandonó el Gran Premio de Singapur de Fórmula 1 por una falla en su Alpine: volvió a triunfar Max Verstappen
 - Francisco Cerúndolo cayó ante Jakub Mensik y ya no quedan argentinos en el Masters 1000 de Shanghai
 - Destrozó su raqueta y se cortó la mano tras golpear un contenedor: el ataque de furia de una figura que dio de qué hablar en el tenis
@@ -316,24 +317,26 @@ Generado por `scripts/titulares.py` (workflow `tendencias`). Leídos 26 de 34 me
 - En un duelo de necesitados, Independiente visitará a Talleres de Córdoba: hora, TV y formaciones
 - Racing recibirá a Belgrano en busca de un triunfo que lo acerque a zona de los clasificados en el Torneo Clausura: hora, TV y formaciones
 - Con la presentación de San Lorenzo, se abrirá la jornada de domingo por la fecha 12 del Torneo Clausura: la agenda completa
-- Sangrienta definición en UFC: con un codazo le abrió la cabeza a su rival y ganó un bono de 100 mil dólares
 
 **Google News AR** (40)
-- Juveniles LPF: Negativa jornada contra Independiente
+- La Previa: Con la fe puesta en triunfar
+- Messi eligió a 10 promesas del fútbol mundial y hay un argentino
 - El Fútbol Infantil estuvo de fiesta en Dudignac con el 2do Encuentro
 - El sol se asoció a la fiesta de los chicos en el Lasallanito
 - Messi presentó a las diez grandes promesas del fútbol mundial: quién es la joya de Boca que aparece entre los elegidos
+- Messi eligió a las 10 futuras estrellas del fútbol mundial e incluyó a un juvenil de Boca
 - Messi eligió a las próximas diez estrellas del fútbol mundial: incluyó a un jugador de Boca
 - Liga Santafesina de fútbol: fue suspendido este sábado por mal clima
-- Messi eligió a 10 promesas del fútbol mundial y hay un argentino
 - Lionel Messi eligió a las promesas del fútbol mundial e incluyó a una joya del fútbol argentino
+- Lionel Messi seleccionó a las 10 promesas del fútbol mundial e incluyó a una joya de Boca Juniors
 - Messi eligió a las próximas diez estrellas del fútbol mundial e incluyó a una joya de Boca
 - FÚTBOL JUVENIL: TRES VICTORIAS DE DEFENSA ANTE UNIÓN
-- Messi eligió a las próximas 10 estrellas del fútbol: hay un jugador de Boca
-- Fútbol/Menores: Buena cosecha de los chicos de San Jorge en La Francia
 
 **ge.globo** (40)
 - Liverpool x Manchester City - Campeonato Inglês 2026/27 - Ao vivo - globoesporte.com
+- Abel, do Palmeiras, faz surpresa a movimento comunitário e anuncia apoio do Criança Esperança
+- Maringá desfila em trio elétrico e faz festa com a torcida após acesso inédito à Série B; veja o vídeo
+- Contrato de Seedorf com o Corinthians prevê rescisão em caso de rebaixamento à Série B
 - Léo Jardim se esquiva sobre indefinição por Maracanã para Vasco x Boca: "Nos preocupamos com os jogos"
 - Empresários detalham indicação de Seedorf a Marcelo Paz e explicam acerto com o Corinthians
 - Corinthians contrata Seedorf como novo técnico
@@ -342,22 +345,19 @@ Generado por `scripts/titulares.py` (workflow `tendencias`). Leídos 26 de 34 me
 - Cauan Barros, do Vasco, sofre acidente de carro no Rio e não viaja para jogo com o Boca
 - Vasco vai para jogo contra Boca com meta batida no Brasileiro, mas tom é de decepção por tropeço
 - Santos precisará quebrar tabu contra o Atlético-MG para manter série histórica
-- Real Madrid sobe tom após expulsão de Vini Jr. e nove cartões: "Se Yamal faz isso, o gol não volta"
-- Dá para sonhar? Veja a projeção do Cruzeiro com a campanha de campeão de Artur Jorge
-- Nonato valoriza clássico do Fluminense com o Flamengo: "Tem que ter noção da dimensão dessa partida"
 
 **r/soccer (top día)** (25)
 - Antonio Rudiger shielding the Referee from Vini. Jr as he's sent off hair pulling
 - Vinicius Junior (Real Madrid) straight red card against Villarreal 73'
 - Manchester United have had their worst start to the season in 40 years
 - Harry Maguire laughs and waves off Rodrigo Bentancur following his red card.
+- On October 10th, within a span of 6 minutes, wingers of Real Madrid for both the Men's and Women's teams got sent off for pulling hair of an
 - Manchester United 1 - [1] Tottenham Hotspur - Dominic Solanke 90+2'
 - Tottenham's current run of games without a win when conceding first
-- On October 10th, within a span of 6 minutes, wingers of Real Madrid for both the Men's and Women's teams got sent off for pulling hair of an
 - Erling Haaland on the hostile atmosphere at Anfield: "I hope it's like that, it should be like that when Man City go to Liverpool and Anfiel
+- Liverpool fans chanting "You cheating bastards, you know what you are" before the Liverpool-Man City match
 - 25 years ago Gregory Coupet pulled off a spectacular double-save to prevent an own goal and deny Rivaldo
 - [RFEF] VAR conversation for vini’s red card
 - Rodrigo Bentancur (Tottenham Hotspur) straight red card against Manchester United 89'
-- Jamie Carragher on figures like Piers Morgan and Rio Ferdinand defending Cristiano Ronaldo in the media: "This is a lesson for future pundit
 
 Fallaron: ESPN (ParseError), Goal (HTTPError), Independent (ParseError), Football365 (HTTPError), Marca (HTTPError), Sport (HTTPError), Calciomercato (HTTPError), TN (HTTPError)
