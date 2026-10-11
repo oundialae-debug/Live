@@ -73,13 +73,14 @@ UA_WEB = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/5
           "Accept-Language": "en-GB,en;q=0.9"}
 
 
-def web(buscar, n=8, dias=7, debe=None):
+def web(buscar, n=8, dias=7, debe=None, grande=True):
     """Fotos de toda la web (usuario 07/10: "nunca te preocupes por los derechos; busca la imagen más actual y de
     calidad"). Junta Bing Imágenes (grandes; primero de los últimos `dias`, luego sin fecha) y DuckDuckGo, y se queda
     solo con las que llevan en el título o en la URL alguna palabra de `debe` (por defecto, las palabras con mayúscula
     de la búsqueda): sin ese filtro Bing devuelve basura (con "Arteta" salió Cairo, Illinois)."""
     out = []
-    for qft in (f"+filterui:imagesize-large+filterui:age-lt{dias * 1440}", "+filterui:imagesize-large"):
+    big = "+filterui:imagesize-large" if grande else ""
+    for qft in (f"{big}+filterui:age-lt{dias * 1440}", big):
         try:
             q = urllib.parse.urlencode({"q": buscar, "first": 1, "count": 80, "qft": qft})
             html = urllib.request.urlopen(urllib.request.Request(f"https://www.bing.com/images/async?{q}", headers=UA_WEB), timeout=30).read().decode("utf-8", "ignore")
@@ -95,7 +96,7 @@ def web(buscar, n=8, dias=7, debe=None):
         pag = urllib.request.urlopen(urllib.request.Request("https://duckduckgo.com/?" + urllib.parse.urlencode({"q": buscar, "iax": "images", "ia": "images"}), headers=UA_WEB), timeout=30).read().decode("utf-8", "ignore")
         vqd = re.search(r"vqd=['\"]?([\d-]+)", pag).group(1)
         per = "Day" if dias <= 1 else "Week" if dias <= 7 else "Month"
-        for f in (f"time:{per},size:Large,,,,", "size:Large,,,,"):
+        for f in ((f"time:{per},size:Large,,,,", "size:Large,,,,") if grande else (f"time:{per},,,,,", ",,,,,")):
             q = urllib.parse.urlencode({"l": "wt-wt", "o": "json", "q": buscar, "vqd": vqd, "f": f, "p": "1"})
             for r in get_web(f"https://duckduckgo.com/i.js?{q}").get("results", []):
                 out.append({"url": r["image"], "titulo": r.get("title", ""), "pagina": r.get("url", ""), "fuente": "ddg"})
@@ -164,11 +165,11 @@ def main():
             d = ROOT / "fotos/candidatas"; d.mkdir(parents=True, exist_ok=True); i = 0
             cands = noticia(c["noticia"], c.get("n", 8)) if c.get("noticia") else []
             print(f"noticias con {c.get('noticia')}: {len(cands)}")
-            for f in cands + web(c["buscar"], c.get("n", 8), c.get("dias", 7), c.get("debe")):
+            for f in cands + web(c["buscar"], c.get("n", 8), c.get("dias", 7), c.get("debe"), c.get("grande", True)):
                 try:
                     r = urllib.request.urlopen(urllib.request.Request(f["url"], headers=UA_WEB), timeout=30)
                     datos = r.read()
-                    if "image" not in r.headers.get("Content-Type", "image") or len(datos) < 60_000:
+                    if "image" not in r.headers.get("Content-Type", "image") or len(datos) < c.get("min_bytes", 60_000):
                         continue  # no es imagen o es pequeña (mala calidad)
                 except Exception:
                     continue
