@@ -1,5 +1,5 @@
 {
- "generado": "2026-10-12T06:59+00:00",
+ "generado": "2026-10-12T07:52+00:00",
  "temas": [
   {
    "tema": "Liverpool",
@@ -48,12 +48,6 @@
      "pub": "2026-10-11T14:02+00:00"
     },
     {
-     "medio": "talkSPORT",
-     "titulo": "Liverpool vs Man City Super Boost: Get EVS on Liverpool to win OR draw with talkSPORT BET",
-     "url": "https://talksport.com/football/4630494/liverpool-man-city-super-boost-now-talksport-bet/",
-     "pub": "2026-10-10T19:00+00:00"
-    },
-    {
      "medio": "Daily Mail",
      "titulo": "Liverpool vs Manchester City - Premier League LIVE: Enzo Maresca's side BOOED by hostile Anfield crowd at kick-off in their first game since guilty verdict, before tension boils over on pitch",
      "url": "https://www.dailymail.com/sport/football/article-16195521/Liverpool-vs-Manchester-City-Premier-League-LIVE-Follow-build-action-reaction-Anfield-visitors-play-match-guilty-verdict.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
@@ -100,6 +94,12 @@
      "titulo": "Enzo Maresca's private message to Man City players leaked before Liverpool showdown",
      "url": "https://www.mirror.co.uk/sport/football/news/enzo-maresca-message-man-city-37759831",
      "pub": "2026-10-11T11:48+00:00"
+    },
+    {
+     "medio": "Mirror",
+     "titulo": "Five pundits predict Liverpool vs Man City as legal chaos overshadows clash",
+     "url": "https://www.mirror.co.uk/sport/football/news/liverpool-man-city-predictions-charges-37753376",
+     "pub": "2026-10-11T09:00+00:00"
     }
    ]
   },
@@ -158,12 +158,6 @@
      "pub": "2026-10-11T10:07+00:00"
     },
     {
-     "medio": "talkSPORT",
-     "titulo": "Michael Carrick warned he&#8217;s &#8216;in trouble&#8217; as Manchester United sink to 40-year low against 10-man Spurs",
-     "url": "https://talksport.com/football/4636576/michael-carrick-man-united-future-warning-spurs/",
-     "pub": "2026-10-10T19:11+00:00"
-    },
-    {
      "medio": "Daily Mail",
      "titulo": "Liverpool vs Manchester City - Premier League LIVE: Enzo Maresca's side BOOED by hostile Anfield crowd at kick-off in their first game since guilty verdict, before tension boils over on pitch",
      "url": "https://www.dailymail.com/sport/football/article-16195521/Liverpool-vs-Manchester-City-Premier-League-LIVE-Follow-build-action-reaction-Anfield-visitors-play-match-guilty-verdict.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
@@ -198,6 +192,12 @@
      "titulo": "How to watch Liverpool v Manchester City as City return to action after guilty verdict",
      "url": "https://sports.yahoo.com/articles/watch-liverpool-v-manchester-city-081317907.html",
      "pub": "2026-10-11T14:26+00:00"
+    },
+    {
+     "medio": "Yahoo",
+     "titulo": "Manchester City and Liverpool have confirmed their starting lineups ahead of today&#8217;s match at Anfield",
+     "url": "https://sports.yahoo.com/articles/manchester-city-liverpool-confirmed-starting-142000375.html",
+     "pub": "2026-10-11T14:20+00:00"
     }
    ]
   },
@@ -413,21 +413,9 @@
     },
     {
      "medio": "BBC",
-     "titulo": "Solanke scores in added time as 10-man Spurs draw with Man Utd",
-     "url": "https://www.bbc.co.uk/sport/football/videos/crz9zdl0g04zo?at_medium=RSS&at_campaign=rss",
-     "pub": "2026-10-10T19:24+00:00"
-    },
-    {
-     "medio": "BBC",
      "titulo": "Man Utd midfield can't control games - Murphy",
      "url": "https://www.bbc.co.uk/sport/football/videos/c6lye9kmnvpzo?at_medium=RSS&at_campaign=rss",
      "pub": "2026-10-10T22:58+00:00"
-    },
-    {
-     "medio": "BBC",
-     "titulo": "'It hurts a lot' - Carrick 'understands' Man Utd boos after draw",
-     "url": "https://www.bbc.co.uk/sport/football/videos/cqlye9evnm7lo?at_medium=RSS&at_campaign=rss",
-     "pub": "2026-10-10T19:35+00:00"
     },
     {
      "medio": "Sky Sports",
@@ -440,12 +428,6 @@
      "titulo": "Keane asked if Micah should lose his Man City title",
      "url": "https://www.skysports.com/watch/video/13597749/roy-keane-asked-if-micah-richards-should-lose-his-man-city-title",
      "pub": "2026-10-11T13:37+00:00"
-    },
-    {
-     "medio": "talkSPORT",
-     "titulo": "Liverpool vs Man City Super Boost: Get EVS on Liverpool to win OR draw with talkSPORT BET",
-     "url": "https://talksport.com/football/4630494/liverpool-man-city-super-boost-now-talksport-bet/",
-     "pub": "2026-10-10T19:00+00:00"
     },
     {
      "medio": "Daily Mail",
@@ -476,6 +458,300 @@
      "titulo": "'Stupid' Rodrigo Bentancur sparks mass brawl after HEADBUTTING Luke Shaw as Spurs star is sent off in clash with Man United",
      "url": "https://www.dailymail.com/sport/football/article-16199171/Rodrigo-Bentancur-mass-brawl-HEADBUTTING.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
      "pub": "2026-10-10T20:12+00:00"
+    },
+    {
+     "medio": "Daily Mail",
+     "titulo": "Man City give Liverpool fans the slip: Enzo Maresca's side dodge baying home fans en route to Anfield before being taunted by banners and facing hostile reception after guilty verdict",
+     "url": "https://www.dailymail.com/sport/football/article-16200431/Man-City-Liverpool-fans-slip-Enzo-Marescas-dodge-baying-home-fans-en-route-Anfield-Premier-League-leaders-braced-hostile-reception-guilty-verdict.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+     "pub": "2026-10-11T15:50+00:00"
+    },
+    {
+     "medio": "Daily Mail",
+     "titulo": "Inside Man City's dressing room after guilty verdict: We reveal Enzo Maresca's inspiring words which left squad 'ready to go to war' - plus the two most 'vocal and calming' stars",
+     "url": "https://www.dailymail.com/sport/football/article-16198631/Inside-Man-Citys-dressing-room-guilty-verdict-reveal-Enzo-Marescas-inspiring-words-left-squad-ready-war-plus-two-vocal-calming-stars.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+     "pub": "2026-10-11T14:53+00:00"
+    },
+    {
+     "medio": "Daily Mail",
+     "titulo": "It's time for Man United's undependable stars to show some backbone for Michael Carrick, writes CHRIS WHEELER - and why club chiefs will rue letting Casemiro go",
+     "url": "https://www.dailymail.com/sport/football/article-16195573/man-united-stars-fail-michael-carrick.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+     "pub": "2026-10-11T12:37+00:00"
+    }
+   ]
+  },
+  {
+   "tema": "Madrid",
+   "medios": 11,
+   "lista_medios": [
+    "AS",
+    "Foot Mercato",
+    "Google News EN",
+    "Google News ES",
+    "Infobae",
+    "L'Equipe",
+    "Mundo Deportivo",
+    "Record",
+    "Yahoo",
+    "ge.globo",
+    "talkSPORT"
+   ],
+   "primera_vez": "2026-10-11T16:00+00:00",
+   "titulares": [
+    {
+     "medio": "talkSPORT",
+     "titulo": "Vini Jr held back by Real Madrid teammates as superstar explodes at referee after being sent off",
+     "url": "https://talksport.com/football/4636641/vinicius-jr-real-madrid-red-card-villarreal/",
+     "pub": "2026-10-10T21:18+00:00"
+    },
+    {
+     "medio": "Yahoo",
+     "titulo": "Real Madrid midfielder attracted strong summer interest from multiple Premier League clubs &#8211; Romano",
+     "url": "https://sports.yahoo.com/articles/real-madrid-midfielder-attracted-strong-151200686.html",
+     "pub": "2026-10-11T15:12+00:00"
+    },
+    {
+     "medio": "AS",
+     "titulo": "Aviso de la Roma al Madrid",
+     "url": "https://as.com/futbol/internacional/indestructible-roma-f202610-n/",
+     "pub": "2026-10-11T12:42+00:00"
+    },
+    {
+     "medio": "AS",
+     "titulo": "Real Madrid 1-0 Villarreal: resumen, gol y resultado",
+     "url": "https://as.com/futbol/primera/real-madrid-villarreal-hoy-en-directo-ultima-hora-de-la-laliga-ea-sports-en-el-santiago-bernabeu-en-vivo-f202610-d-2/",
+     "pub": "2026-10-11T08:07+00:00"
+    },
+    {
+     "medio": "Mundo Deportivo",
+     "titulo": "Real Madrid TV aumenta sus críticas a los árbitros",
+     "url": "https://www.mundodeportivo.com/futbol/real-madrid/20261011/1004237395/real-madrid-tv-aumenta-criticas-arbitros.html",
+     "pub": ""
+    },
+    {
+     "medio": "Mundo Deportivo",
+     "titulo": "Real Madrid - Villarreal: las fotos del duelo en el Bernabéu",
+     "url": "https://www.mundodeportivo.com/futbol/laliga/20261011/1004237397/real-madrid-villarreal-fotos-duelo-bernabeu.html",
+     "pub": ""
+    },
+    {
+     "medio": "Mundo Deportivo",
+     "titulo": "El Real Madrid ganó al Villarreal entre quejas arbitrales y poco fútbol",
+     "url": "https://www.mundodeportivo.com/futbol/real-madrid/20261011/1004237360/real-madrid-gano-villarreal-quejas-arbitrales-poco-futbol.html",
+     "pub": ""
+    },
+    {
+     "medio": "Google News ES",
+     "titulo": "El Real Madrid, muchas urgencias y poco fútbol",
+     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOVW90VHNic2pjaV9ERWhrMk0ySW52clhoN3ppOVlJSHFVNVNrb1ZoN210VlZxX0NJeEFWWDY5T2UwVGFtWmRnMjhfVjM2WFpIMDlGR3BISGYxdC1SS3NZdXZGNFJBRzFjRlpwczNJLXpJLTVwd0J1WlZiSmdJa2pDTFdKSThFN2xLQWtvVWRZTjdDWlEzRUxrY0wwbkljbHlKQ1llZFFtcWlHMHlMek52WFRZOGN2Z9IBwwFBVV95cUxNN254VFlZRkpvNUJ4TWhVS25SNVpJSlNpVGRVQWZHak1sbnVkNjFya0hDOG9FMmJKWE1tQVZ3cE1GWHBCeXBCWXVsaFpoZEY1SDlUbXV4SWhmUTV2MFRIdEhod1Uyc1NKTEhVQmc5NS1tNWczSmtBWDdOSC1abWhQVkpLRV9meTlQM0ZFaVUxUm9rOUtDYzVVS2VuZk40UldJVUxnTGpfY0IzR0JBc0ZJZUlQLXBSXzF3eDR0aUVkTnZTT28?oc=5",
+     "pub": "2026-10-11T10:52+00:00"
+    },
+    {
+     "medio": "Foot Mercato",
+     "titulo": "Real Madrid : l’entourage de Vinicius Jr réagit à son expulsion polémique",
+     "url": "https://www.footmercato.net/a3971435971801351262-real-madrid-lentourage-de-vinicius-jr-reagit-a-son-expulsion-polemique",
+     "pub": "2026-10-11T10:05+00:00"
+    },
+    {
+     "medio": "Infobae",
+     "titulo": "Una brutal patada a Julián Álvarez que terminó en roja y el cabezazo agónico del Cuti Romero: Atlético Madrid ganó y pelea por la cima",
+     "url": "https://www.infobae.com/deportes/2026/10/10/una-brutal-patada-a-julian-alvarez-que-termino-en-roja-y-el-cabezazo-agonico-del-cuti-romero-atletico-madrid-gano-y-pelea-por-la-cima/",
+     "pub": "2026-10-10T19:55+00:00"
+    },
+    {
+     "medio": "ge.globo",
+     "titulo": "Vini Jr. deve ficar fora de Barcelona x Real Madrid após expulsão por puxão de cabelo",
+     "url": "https://ge.globo.com/futebol/futebol-internacional/noticia/2026/10/11/vini-jr-deve-ficar-fora-de-barcelona-x-real-madrid-apos-expulsao-por-puxao-de-cabelo.ghtml",
+     "pub": "2026-10-11T14:04+00:00"
+    },
+    {
+     "medio": "ge.globo",
+     "titulo": "TV do Real Madrid sobe tom após expulsão de Vini Jr. e nove cartões: \"Se Yamal faz isso, o gol não volta\"",
+     "url": "https://ge.globo.com/futebol/futebol-internacional/noticia/2026/10/11/real-madrid-sobe-tom-apos-expulsao-de-vini-jr-e-nove-cartoes-se-yamal-faz-isso-o-gol-nao-volta.ghtml",
+     "pub": "2026-10-11T11:11+00:00"
+    }
+   ]
+  },
+  {
+   "tema": "Corinthians",
+   "medios": 11,
+   "lista_medios": [
+    "AS",
+    "BBC",
+    "Foot Mercato",
+    "Google News AR",
+    "Google News EN",
+    "Infobae",
+    "L'Equipe",
+    "Ole",
+    "Record",
+    "Yahoo",
+    "ge.globo"
+   ],
+   "primera_vez": "2026-10-11T16:00+00:00",
+   "titulares": [
+    {
+     "medio": "Yahoo",
+     "titulo": "Corinthians signing Seedorf shocks social media; see the reactions 🤣",
+     "url": "https://sports.yahoo.com/articles/corinthians-signing-seedorf-shocks-social-143300478.html",
+     "pub": "2026-10-11T14:33+00:00"
+    },
+    {
+     "medio": "AS",
+     "titulo": "Oficial: Seedorf, a Corinthians",
+     "url": "https://as.com/futbol/internacional/oficial-seedorf-a-corinthians-f202610-n/",
+     "pub": "2026-10-11T14:33+00:00"
+    },
+    {
+     "medio": "Foot Mercato",
+     "titulo": "Clarence Seedorf nouvel entraîneur des Corinthians",
+     "url": "https://www.footmercato.net/a7448500962750134282-clarence-seedorf-nouvel-entraineur-des-corinthians",
+     "pub": "2026-10-11T14:36+00:00"
+    },
+    {
+     "medio": "Record",
+     "titulo": "<![CDATA[ Seedorf é o eleito do Corinthians para tentar fugir da descida ]]>",
+     "url": "https://www.record.pt/internacional/paises/brasil/detalhe/seedorf-e-o-eleito-do-corinthians-para-tentar-fugir-da-descida",
+     "pub": "2026-10-11T15:32+00:00"
+    },
+    {
+     "medio": "Ole",
+     "titulo": "Corinthians presentó a un técnico europeo para salvarse del descenso",
+     "url": "https://www.ole.com.ar/futbol-internacional/america/corinthians-presento-nuevo-tecnico-europeo-clarence-seedorf-brasil_0_vPehzmpgIC.html",
+     "pub": "2026-10-11T15:47+00:00"
+    },
+    {
+     "medio": "ge.globo",
+     "titulo": "Contrato de Seedorf com o Corinthians prevê rescisão em caso de rebaixamento à Série B",
+     "url": "https://ge.globo.com/futebol/times/corinthians/noticia/2026/10/11/contrato-de-seedorf-com-o-corinthians-preve-rescisao-em-caso-de-rebaixamento-a-serie-b.ghtml",
+     "pub": "2026-10-11T15:37+00:00"
+    },
+    {
+     "medio": "ge.globo",
+     "titulo": "Empresários detalham indicação de Seedorf a Marcelo Paz e explicam acerto com o Corinthians",
+     "url": "https://ge.globo.com/futebol/times/corinthians/noticia/2026/10/11/empresarios-detalham-indicacao-de-seedorf-a-marcelo-paz-e-explicam-acerto-com-o-corinthians.ghtml",
+     "pub": "2026-10-11T14:49+00:00"
+    },
+    {
+     "medio": "ge.globo",
+     "titulo": "Corinthians contrata Seedorf como novo técnico",
+     "url": "https://ge.globo.com/futebol/times/corinthians/noticia/2026/10/11/corinthians-contrata-seedorf-como-novo-tecnico.ghtml",
+     "pub": "2026-10-11T14:05+00:00"
+    },
+    {
+     "medio": "ge.globo",
+     "titulo": "Palmeiras vai encarar 11º técnico do Corinthians na era Abel Ferreira; veja os números",
+     "url": "https://ge.globo.com/futebol/times/palmeiras/noticia/2026/10/11/palmeiras-vai-encarar-11o-tecnico-do-corinthians-na-era-abel-ferreira-veja-os-numeros.ghtml",
+     "pub": "2026-10-11T11:00+00:00"
+    },
+    {
+     "medio": "ge.globo",
+     "titulo": "Corinthians chega ao Dérbi com dificuldades para avançar por técnico e sem alvo definido",
+     "url": "https://ge.globo.com/futebol/times/corinthians/noticia/2026/10/11/corinthians-chega-ao-derbi-com-dificuldades-para-avancar-por-tecnico-e-sem-alvo-definido.ghtml",
+     "pub": "2026-10-11T11:00+00:00"
+    },
+    {
+     "medio": "ge.globo",
+     "titulo": "Palmeiras x Corinthians: onde assistir ao vivo, horário e escalações",
+     "url": "https://ge.globo.com/sp/futebol/brasileirao-serie-a/noticia/2026/10/11/palmeiras-x-corinthians-onde-assistir-ao-vivo-horario-e-escalacoes.ghtml",
+     "pub": "2026-10-11T07:00+00:00"
+    },
+    {
+     "medio": "L'Equipe",
+     "titulo": "Clarence Seedorf devient l'entraîneur du Corinthians et s'engage jusqu'à fin 2027 avec le club brésilien",
+     "url": "https://www.lequipe.fr/Football/Actualites/Clarence-seedorf-devient-l-entraineur-du-corinthians-et-s-engage-jusqu-a-fin-2027-avec-le-club-bresilien/1724987#at_medium=RSS_feeds",
+     "pub": "2026-10-11T15:45+00:00"
+    }
+   ]
+  },
+  {
+   "tema": "Seedorf",
+   "medios": 11,
+   "lista_medios": [
+    "AS",
+    "BBC",
+    "Foot Mercato",
+    "Google News AR",
+    "Google News EN",
+    "L'Equipe",
+    "Mundo Deportivo",
+    "Planet Football",
+    "Record",
+    "Yahoo",
+    "ge.globo"
+   ],
+   "primera_vez": "2026-10-11T16:00+00:00",
+   "titulares": [
+    {
+     "medio": "Yahoo",
+     "titulo": "Corinthians signing Seedorf shocks social media; see the reactions 🤣",
+     "url": "https://sports.yahoo.com/articles/corinthians-signing-seedorf-shocks-social-143300478.html",
+     "pub": "2026-10-11T14:33+00:00"
+    },
+    {
+     "medio": "AS",
+     "titulo": "Oficial: Seedorf, a Corinthians",
+     "url": "https://as.com/futbol/internacional/oficial-seedorf-a-corinthians-f202610-n/",
+     "pub": "2026-10-11T14:33+00:00"
+    },
+    {
+     "medio": "Foot Mercato",
+     "titulo": "Clarence Seedorf nouvel entraîneur des Corinthians",
+     "url": "https://www.footmercato.net/a7448500962750134282-clarence-seedorf-nouvel-entraineur-des-corinthians",
+     "pub": "2026-10-11T14:36+00:00"
+    },
+    {
+     "medio": "Record",
+     "titulo": "<![CDATA[ Seedorf é o eleito do Corinthians para tentar fugir da descida ]]>",
+     "url": "https://www.record.pt/internacional/paises/brasil/detalhe/seedorf-e-o-eleito-do-corinthians-para-tentar-fugir-da-descida",
+     "pub": "2026-10-11T15:32+00:00"
+    },
+    {
+     "medio": "ge.globo",
+     "titulo": "Contrato de Seedorf com o Corinthians prevê rescisão em caso de rebaixamento à Série B",
+     "url": "https://ge.globo.com/futebol/times/corinthians/noticia/2026/10/11/contrato-de-seedorf-com-o-corinthians-preve-rescisao-em-caso-de-rebaixamento-a-serie-b.ghtml",
+     "pub": "2026-10-11T15:37+00:00"
+    },
+    {
+     "medio": "ge.globo",
+     "titulo": "Empresários detalham indicação de Seedorf a Marcelo Paz e explicam acerto com o Corinthians",
+     "url": "https://ge.globo.com/futebol/times/corinthians/noticia/2026/10/11/empresarios-detalham-indicacao-de-seedorf-a-marcelo-paz-e-explicam-acerto-com-o-corinthians.ghtml",
+     "pub": "2026-10-11T14:49+00:00"
+    },
+    {
+     "medio": "ge.globo",
+     "titulo": "Corinthians contrata Seedorf como novo técnico",
+     "url": "https://ge.globo.com/futebol/times/corinthians/noticia/2026/10/11/corinthians-contrata-seedorf-como-novo-tecnico.ghtml",
+     "pub": "2026-10-11T14:05+00:00"
+    },
+    {
+     "medio": "Mundo Deportivo",
+     "titulo": "Seedorf encuentra equipo",
+     "url": "https://www.mundodeportivo.com/futbol/fichajes/oficial/20261011/1004237453/seedorf-encuentra-equipo.html",
+     "pub": ""
+    },
+    {
+     "medio": "L'Equipe",
+     "titulo": "Clarence Seedorf devient l'entraîneur du Corinthians et s'engage jusqu'à fin 2027 avec le club brésilien",
+     "url": "https://www.lequipe.fr/Football/Actualites/Clarence-seedorf-devient-l-entraineur-du-corinthians-et-s-engage-jusqu-a-fin-2027-avec-le-club-bresilien/1724987#at_medium=RSS_feeds",
+     "pub": "2026-10-11T15:45+00:00"
+    },
+    {
+     "medio": "Google News AR",
+     "titulo": "Clarence Seedorf vuelve al fútbol brasileño: es el nuevo entrenador de Corinthians",
+     "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQcG8yeHc0RVQ3VzZpTlZYYnRjd3k5NHc2RXpOaEZmX2kwZ2lEMGZIVEhFemJydG9kamJuTllHbTM4Y2xOQWd0Vmw1MUllbEpsNl9zRHByV2ZsVTNVWlRSSmFfaGpYZE1QSlRURVB0cXF0VXUzZFkwWWxXN25ObWs5anNPeHJnaGFZMi1XSVlRVXR4ZHozVWRwVktqcnRIOExNWkxMUTZONEN2S0thN0xhT0Y1YkNGRElaVk84blpXakh2SlpuLWZ1cDd4d0R5VFM0YTV2UjJRYk5pVUoxMmVSX0Rn?oc=5",
+     "pub": "2026-10-11T16:39+00:00"
+    },
+    {
+     "medio": "ge.globo",
+     "titulo": "Seedorf pede apoio da torcida do Corinthians e promete \"fazer o melhor\"",
+     "url": "https://ge.globo.com/futebol/times/corinthians/noticia/2026/10/11/seedorf-pede-apoio-da-torcida-do-corinthians-e-promete-fazer-o-melhor.ghtml",
+     "pub": "2026-10-11T17:04+00:00"
+    },
+    {
+     "medio": "ge.globo",
+     "titulo": "Marcelo Paz explica escolha por Seedorf e quer Corinthians pragmático: \"Ganhar de 1 a 0\"",
+     "url": "https://ge.globo.com/futebol/times/corinthians/noticia/2026/10/11/marcelo-paz-explica-escolha-por-seedorf-e-quer-corinthians-pragmatico-ganhar-de-1-a-0.ghtml",
+     "pub": "2026-10-11T20:12+00:00"
     }
    ]
   },
@@ -571,188 +847,187 @@
    ]
   },
   {
-   "tema": "Madrid",
-   "medios": 10,
+   "tema": "Milan",
+   "medios": 9,
    "lista_medios": [
     "AS",
+    "BBC",
     "Foot Mercato",
-    "Google News EN",
-    "Google News ES",
-    "Infobae",
+    "Football Italia",
+    "Kicker",
     "L'Equipe",
     "Mundo Deportivo",
-    "Yahoo",
-    "ge.globo",
-    "talkSPORT"
+    "Record",
+    "Yahoo"
    ],
    "primera_vez": "2026-10-11T16:00+00:00",
    "titulares": [
     {
-     "medio": "talkSPORT",
-     "titulo": "Vini Jr held back by Real Madrid teammates as superstar explodes at referee after being sent off",
-     "url": "https://talksport.com/football/4636641/vinicius-jr-real-madrid-red-card-villarreal/",
-     "pub": "2026-10-10T21:18+00:00"
+     "medio": "BBC",
+     "titulo": "AC Milan keen on Scott - Sunday's gossip",
+     "url": "https://www.bbc.co.uk/sport/football/articles/cmy0rp2r516po?at_medium=RSS&at_campaign=rss",
+     "pub": "2026-10-10T22:01+00:00"
     },
     {
      "medio": "Yahoo",
-     "titulo": "Real Madrid midfielder attracted strong summer interest from multiple Premier League clubs &#8211; Romano",
-     "url": "https://sports.yahoo.com/articles/real-madrid-midfielder-attracted-strong-151200686.html",
-     "pub": "2026-10-11T15:12+00:00"
+     "titulo": "Amorim: ‘Milan system doesn’t matter as much as being aggressive’",
+     "url": "https://sports.yahoo.com/articles/amorim-milan-system-doesn-t-154000703.html",
+     "pub": "2026-10-11T15:40+00:00"
     },
     {
-     "medio": "AS",
-     "titulo": "Aviso de la Roma al Madrid",
-     "url": "https://as.com/futbol/internacional/indestructible-roma-f202610-n/",
-     "pub": "2026-10-11T12:42+00:00"
+     "medio": "Yahoo",
+     "titulo": "🚨XI confirmed: Milan face a tough trip to Sassuolo",
+     "url": "https://sports.yahoo.com/articles/xi-confirmed-milan-face-tough-150800429.html",
+     "pub": "2026-10-11T15:08+00:00"
     },
     {
-     "medio": "AS",
-     "titulo": "Real Madrid 1-0 Villarreal: resumen, gol y resultado",
-     "url": "https://as.com/futbol/primera/real-madrid-villarreal-hoy-en-directo-ultima-hora-de-la-laliga-ea-sports-en-el-santiago-bernabeu-en-vivo-f202610-d-2/",
-     "pub": "2026-10-11T08:07+00:00"
-    },
-    {
-     "medio": "Mundo Deportivo",
-     "titulo": "Real Madrid TV aumenta sus críticas a los árbitros",
-     "url": "https://www.mundodeportivo.com/futbol/real-madrid/20261011/1004237395/real-madrid-tv-aumenta-criticas-arbitros.html",
-     "pub": ""
+     "medio": "Yahoo",
+     "titulo": "Serie A: Sassuolo vs. Milan – Confirmed line-ups",
+     "url": "https://sports.yahoo.com/articles/serie-sassuolo-vs-milan-confirmed-145500149.html",
+     "pub": "2026-10-11T14:55+00:00"
     },
     {
      "medio": "Mundo Deportivo",
-     "titulo": "Real Madrid - Villarreal: las fotos del duelo en el Bernabéu",
-     "url": "https://www.mundodeportivo.com/futbol/laliga/20261011/1004237397/real-madrid-villarreal-fotos-duelo-bernabeu.html",
+     "titulo": "Sassuolo - AC Milan, en directo | Serie A",
+     "url": "https://www.mundodeportivo.com/futbol/serie-a/20261011/1004235605/sassuolo-ac-milan-directo-serie.html",
      "pub": ""
     },
     {
-     "medio": "Mundo Deportivo",
-     "titulo": "El Real Madrid ganó al Villarreal entre quejas arbitrales y poco fútbol",
-     "url": "https://www.mundodeportivo.com/futbol/real-madrid/20261011/1004237360/real-madrid-gano-villarreal-quejas-arbitrales-poco-futbol.html",
-     "pub": ""
-    },
-    {
-     "medio": "Google News ES",
-     "titulo": "El Real Madrid, muchas urgencias y poco fútbol",
-     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOVW90VHNic2pjaV9ERWhrMk0ySW52clhoN3ppOVlJSHFVNVNrb1ZoN210VlZxX0NJeEFWWDY5T2UwVGFtWmRnMjhfVjM2WFpIMDlGR3BISGYxdC1SS3NZdXZGNFJBRzFjRlpwczNJLXpJLTVwd0J1WlZiSmdJa2pDTFdKSThFN2xLQWtvVWRZTjdDWlEzRUxrY0wwbkljbHlKQ1llZFFtcWlHMHlMek52WFRZOGN2Z9IBwwFBVV95cUxNN254VFlZRkpvNUJ4TWhVS25SNVpJSlNpVGRVQWZHak1sbnVkNjFya0hDOG9FMmJKWE1tQVZ3cE1GWHBCeXBCWXVsaFpoZEY1SDlUbXV4SWhmUTV2MFRIdEhod1Uyc1NKTEhVQmc5NS1tNWczSmtBWDdOSC1abWhQVkpLRV9meTlQM0ZFaVUxUm9rOUtDYzVVS2VuZk40UldJVUxnTGpfY0IzR0JBc0ZJZUlQLXBSXzF3eDR0aUVkTnZTT28?oc=5",
-     "pub": "2026-10-11T10:52+00:00"
+     "medio": "L'Equipe",
+     "titulo": "Toujours invaincue, la Lazio de Gennaro Gattuso rejoint l'Inter Milan en tête de la Serie A",
+     "url": "https://www.lequipe.fr/Football/Actualites/Toujours-invaincue-la-lazio-de-gennaro-gattuso-rejoint-l-inter-milan-en-tete-de-la-serie-a/1724978#at_medium=RSS_feeds",
+     "pub": "2026-10-11T15:18+00:00"
     },
     {
      "medio": "Foot Mercato",
-     "titulo": "Real Madrid : l’entourage de Vinicius Jr réagit à son expulsion polémique",
-     "url": "https://www.footmercato.net/a3971435971801351262-real-madrid-lentourage-de-vinicius-jr-reagit-a-son-expulsion-polemique",
-     "pub": "2026-10-11T10:05+00:00"
+     "titulo": "AC Milan : Medhi Benatia a déjà quatre gros concurrents !",
+     "url": "https://www.footmercato.net/a6606005491836601491-ac-milan-medhi-benatia-a-deja-quatre-gros-concurrents",
+     "pub": "2026-10-11T08:18+00:00"
     },
     {
-     "medio": "Infobae",
-     "titulo": "Una brutal patada a Julián Álvarez que terminó en roja y el cabezazo agónico del Cuti Romero: Atlético Madrid ganó y pelea por la cima",
-     "url": "https://www.infobae.com/deportes/2026/10/10/una-brutal-patada-a-julian-alvarez-que-termino-en-roja-y-el-cabezazo-agonico-del-cuti-romero-atletico-madrid-gano-y-pelea-por-la-cima/",
-     "pub": "2026-10-10T19:55+00:00"
+     "medio": "Yahoo",
+     "titulo": "Gattuso frustrated with Lazio despite 3-1 Monza win: ‘Like the second half against Milan’",
+     "url": "https://sports.yahoo.com/articles/gattuso-frustrated-lazio-despite-3-162000226.html",
+     "pub": "2026-10-11T16:20+00:00"
     },
     {
-     "medio": "ge.globo",
-     "titulo": "Vini Jr. deve ficar fora de Barcelona x Real Madrid após expulsão por puxão de cabelo",
-     "url": "https://ge.globo.com/futebol/futebol-internacional/noticia/2026/10/11/vini-jr-deve-ficar-fora-de-barcelona-x-real-madrid-apos-expulsao-por-puxao-de-cabelo.ghtml",
-     "pub": "2026-10-11T14:04+00:00"
+     "medio": "AS",
+     "titulo": "Sassuolo - Milan, en directo: Serie A, hoy en vivo",
+     "url": "https://as.com/futbol/internacional/sassuolo-milan-en-directo-serie-a-hoy-en-vivo-f202610-n/",
+     "pub": "2026-10-11T15:52+00:00"
     },
     {
-     "medio": "ge.globo",
-     "titulo": "TV do Real Madrid sobe tom após expulsão de Vini Jr. e nove cartões: \"Se Yamal faz isso, o gol não volta\"",
-     "url": "https://ge.globo.com/futebol/futebol-internacional/noticia/2026/10/11/real-madrid-sobe-tom-apos-expulsao-de-vini-jr-e-nove-cartoes-se-yamal-faz-isso-o-gol-nao-volta.ghtml",
-     "pub": "2026-10-11T11:11+00:00"
+     "medio": "Football Italia",
+     "titulo": "Milan forced into early change against Sassuolo as Gabbia stretchered off in tears",
+     "url": "https://football-italia.net/milan-forced-early-change-vs-sassuolo-gabbia/",
+     "pub": "2026-10-11T16:32+00:00"
+    },
+    {
+     "medio": "Kicker",
+     "titulo": "Sassuolo - Milan: Tor zum 1:1 durch Odenthal in der 68. Minute",
+     "url": "https://www.kicker.de/sassuolo-milan-tor-zum-1-1-durch-odenthal-in-der-68-minute-1260300/video#omrss",
+     "pub": "2026-10-11T17:38+00:00"
+    },
+    {
+     "medio": "Kicker",
+     "titulo": "Rabiot-Knaller aus spitzen Winkel: Milan führt mit 1:0",
+     "url": "https://www.kicker.de/rabiot-knaller-aus-spitzen-winkel-milan-fuehrt-mit-1-0-1260297/video#omrss",
+     "pub": "2026-10-11T17:33+00:00"
     }
    ]
   },
   {
-   "tema": "Spurs",
+   "tema": "Forest",
    "medios": 9,
    "lista_medios": [
     "BBC",
     "Daily Mail",
+    "FourFourTwo",
     "Google News EN",
     "Guardian",
-    "Infobae",
-    "Mirror",
-    "Telegraph",
-    "Yahoo",
-    "talkSPORT"
+    "L'Equipe",
+    "Mundo Deportivo",
+    "Sky Sports",
+    "Yahoo"
    ],
    "primera_vez": "2026-10-11T16:00+00:00",
    "titulares": [
     {
-     "medio": "BBC",
-     "titulo": "'I kissed Rodrigo and said thanks' - De Zerbi 'liked' Spurs red card",
-     "url": "https://www.bbc.co.uk/sport/football/articles/cqn73g3pvezdo?at_medium=RSS&at_campaign=rss",
-     "pub": "2026-10-10T20:58+00:00"
-    },
-    {
-     "medio": "BBC",
-     "titulo": "Solanke scores in added time as 10-man Spurs draw with Man Utd",
-     "url": "https://www.bbc.co.uk/sport/football/videos/crz9zdl0g04zo?at_medium=RSS&at_campaign=rss",
-     "pub": "2026-10-10T19:24+00:00"
-    },
-    {
      "medio": "Guardian",
-     "titulo": "Manchester United and Spurs come back to reality as City saga offers brief distraction | John Brewin",
-     "url": "https://www.theguardian.com/football/2026/oct/10/draw-brings-no-respite-for-manchester-united-and-tottenham-as-crises-continue",
-     "pub": "2026-10-10T20:40+00:00"
+     "titulo": "Pino finishes off Nottingham Forest on Glasner’s unhappy Crystal Palace return",
+     "url": "https://www.theguardian.com/football/2026/oct/11/crystal-palace-nottingham-forest-premier-league-match-report",
+     "pub": "2026-10-11T15:28+00:00"
     },
     {
-     "medio": "talkSPORT",
-     "titulo": "Michael Carrick warned he&#8217;s &#8216;in trouble&#8217; as Manchester United sink to 40-year low against 10-man Spurs",
-     "url": "https://talksport.com/football/4636576/michael-carrick-man-united-future-warning-spurs/",
-     "pub": "2026-10-10T19:11+00:00"
-    },
-    {
-     "medio": "Daily Mail",
-     "titulo": "Dominic Solanke led the line expertly and repaid Roberto De Zerbi for his show of faith - his rescue act needs to be the catalyst to kick-start Spurs' season, writes MATT BARLOW",
-     "url": "https://www.dailymail.com/sport/football/article-16195575/Tottenham-analysis-Solanke-Zerbi-Barlow.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-     "pub": "2026-10-11T14:55+00:00"
+     "medio": "Sky Sports",
+     "titulo": "Palace stun Forest on Glasner's Selhurst Park return",
+     "url": "https://www.skysports.com/football/crystal-palace-vs-nottingham-forest/report/559498",
+     "pub": "2026-10-11T16:10+00:00"
     },
     {
      "medio": "Daily Mail",
-     "titulo": "Bruno Fernandes cuts frustrated figure as he makes hasty Old Trafford exit after Man United throw away win against 10-man Spurs",
-     "url": "https://www.dailymail.com/sport/football/article-16200131/Bruno-Fernandes-cuts-frustrated-figure-makes-hasty-Old-Trafford-exit-Man-United-throw-away-win-against-10-man-Spurs.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-     "pub": "2026-10-11T11:55+00:00"
+     "titulo": "Crystal Palace 3-1 Nottingham Forest: Oliver Glasner brutally mocked on nightmare return with Pierre Sage's side gifted first win of the season as £50m man Liam Delap lacks clinical touch",
+     "url": "https://www.dailymail.com/sport/football/article-16195581/crystal-palace-nottingham-forest-glasner-selhurst.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+     "pub": "2026-10-11T15:52+00:00"
     },
     {
-     "medio": "Daily Mail",
-     "titulo": "'Worried' Gary Neville tells struggling Man United stars to 'get a grip' after Spurs draw ahead of tough run - as he warns midfield duo CAN'T play together and calls out lack of fight in Michael Carrick's men",
-     "url": "https://www.dailymail.com/sport/football/article-16199259/Gary-Neville-struggling-Man-United.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-     "pub": "2026-10-10T22:11+00:00"
-    },
-    {
-     "medio": "Daily Mail",
-     "titulo": "'Stupid' Rodrigo Bentancur sparks mass brawl after HEADBUTTING Luke Shaw as Spurs star is sent off in clash with Man United",
-     "url": "https://www.dailymail.com/sport/football/article-16199171/Rodrigo-Bentancur-mass-brawl-HEADBUTTING.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-     "pub": "2026-10-10T20:12+00:00"
-    },
-    {
-     "medio": "Daily Mail",
-     "titulo": "Feckless Man United were dreadful and embarrassing at times in Spurs draw: Play like this in a week of reckoning and Michael Carrick will be clinging to his job, writes IAN LADYMAN",
-     "url": "https://www.dailymail.com/sport/football/article-16195543/Feckless-Man-United-dreadful-embarrassing-Michael-Carrick.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-     "pub": "2026-10-10T20:44+00:00"
-    },
-    {
-     "medio": "Mirror",
-     "titulo": "Michael Carrick told £35m summer signing caused 'impossible' Man Utd issue vs Spurs",
-     "url": "https://www.mirror.co.uk/sport/football/news/man-utd-spurs-carrick-tielemans-37759461",
-     "pub": "2026-10-11T08:49+00:00"
-    },
-    {
-     "medio": "Telegraph",
-     "titulo": "Man Utd make worst start in 40 years after being hauled back by 10-man Spurs",
-     "url": "https://www.telegraph.co.uk/football/2026/10/10/manchester-united-vs-tottenham-team-news-and-latest-premier/",
-     "pub": "2026-10-10T20:54+00:00"
+     "medio": "FourFourTwo",
+     "titulo": "How to watch Crystal Palace vs Nottingham Forest for FREE",
+     "url": "https://www.fourfourtwo.com/competition/watch-crystal-palace-vs-nottingham-forest-free",
+     "pub": "2026-10-11T10:00+00:00"
     },
     {
      "medio": "Google News EN",
-     "titulo": "Man Utd 1-1 Tottenham: Dominic Solanke rescues dramatic draw for 10-man Spurs at Old Trafford",
-     "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQbkZaaDhrU05wMGVXV1dwaHZkeXZLeEY5bEhiTE5OUXhySGdRU1N4SmtNMC1LVWYtSDFYNnBSVklsbGI5emVFb2s3Y2VlSWk3TVo2bUU2dTQzVVRhS1poRkdTbHJWVzRJWHd2TTJCZFpoLWtJT1VGNHlzTXE3eDNLOE5Xbk8zNjRiMkVhSzBOUkItemFoSU9NUDdyMFRyWllzNURCNnJ0VXl5NW84T0lnSWVvb2RtTlZjLUliY1hLOWxlazdYY254NVdWaUZSRzBrQ1UtQjlRRnM?oc=5",
-     "pub": "2026-10-11T14:31+00:00"
+     "titulo": "Premier League - Crystal Palace 3-1 Nottingham Forest - Oliver Glasner post match interview",
+     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE0tNFpwRzYtTWdXNTJmYVNZTFdNOEJSZnVCRDZqeG1Va2gtY1ltR3gzbElGTW4xbzVZbTRfczl4N2pJTHhtemFYZVlQT3lQdFdPay0wS0NKd29mc3BLSmlDdWdjaWRuRXB4?oc=5",
+     "pub": "2026-10-11T15:54+00:00"
+    },
+    {
+     "medio": "Google News EN",
+     "titulo": "Crystal Palace vs Nottm Forest | Daichi Kamada levels for Palace",
+     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOa0FNVmZWVGV0eC1uQXFpVmpUQzZtdVc5SktwektuOGdBcVJoSUxuRTF4NXZDLVhxMDFHelB3bXhfcmRFLU9DUzBVVVBTN0FOYmZ0NnE4eEc4a05BcWpmY3ZELTctYmEtSnNxU3lnRjh0Sk9mWXRybXhDM1pXOFppcEZFcEZHQ1BPRG0yM0NHVTFtWmFha2p6UnVCdTRsTkE?oc=5",
+     "pub": "2026-10-11T13:55+00:00"
+    },
+    {
+     "medio": "Google News EN",
+     "titulo": "Crystal Palace vs Nottm Forest | Brilliant finish as Dan Ndoye puts Forest ahead",
+     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPenp6cm1CQ0tYYm9zQ19jbmYydnVuRnpUOS1mS25GemRQUHBzOEczengyMXh2VTd5Y04tNTM1SUZ5OVZpbGd0VFVFbm9fRWQzWWhuMkVUdi1UUEczM3VBU2x3bG9UNXoyVFZGYmlWRG4wUEl5WnRhNV9acmtVbk1FYnJwY0JZSFdmOWlyX0VRMDJQZlh6cEtIYmRCVHg?oc=5",
+     "pub": "2026-10-11T13:11+00:00"
+    },
+    {
+     "medio": "Google News EN",
+     "titulo": "Save W Benitez (80) Crystal Palace 3 - 1 Nottm Forest",
+     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQMXhGVFMzYWJvdk5EWjc1OFRFZm9zMnNrRWVrTFBNMklZamJ5em9jS25nak5WOXhJVTdxcTB1eVpFX3dUTkNvLTVMZTZGT09pbDFRWXlsTE52blpVVk9sRlhLbFVUdXZHbUYzWVhub3dJV0FneU5odEZtczhSMXlPcENaWmtpVlR2LV9VcVFOWnRJVFVuX19NYXBaX1ZWR3BLd0Vrb25n?oc=5",
+     "pub": "2026-10-11T14:50+00:00"
+    },
+    {
+     "medio": "Mundo Deportivo",
+     "titulo": "Crystal Palace - Nottingham Forest, en directo | Premier League",
+     "url": "https://www.mundodeportivo.com/futbol/premier-league/20261011/1004235391/crystal-palace-nottingham-forest-directo-premier-league.html",
+     "pub": ""
+    },
+    {
+     "medio": "L'Equipe",
+     "titulo": "L'incroyable parade du gardien Walter Benitez contre Nottingham Forest en Premier League",
+     "url": "https://www.lequipe.fr/Football/Actualites/L-incroyable-parade-du-gardien-walter-benitez-contre-nottingham-forest-en-premier-league/1724953#at_medium=RSS_feeds",
+     "pub": "2026-10-11T14:24+00:00"
+    },
+    {
+     "medio": "L'Equipe",
+     "titulo": "Mené au score face à Nottingham Forest, Crystal Palace s'en sort bien et offre un répit à Pierre Sage",
+     "url": "https://www.lequipe.fr/Football/Actualites/Mene-au-score-face-a-nottingham-forest-crystal-palace-s-en-sort-bien-et-offre-un-repit-a-pierre-sage/1724985#at_medium=RSS_feeds",
+     "pub": "2026-10-11T15:34+00:00"
+    },
+    {
+     "medio": "Google News EN",
+     "titulo": "Crystal Palace 3-1 Nottingham Forest | Premier League highlights",
+     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPME5kcGd5RjJ1VWYwdDRlU0twc3Q5eWpjNHMxbkhlYVJNRkNDVlROYmRSaW4wS2ZNZGg5YUpBalVWQTNpOFBsby1aWmEwa08zNnV0NlBqZy1WaGJ1UXRyNnI4aVJIZHlwYnFfdENGNnh4TDJ1VU10LUY1NFpHM2VPV1dXQmFodElTOFdUYy1uZHNTY2V5eHhwQ0tBNzBVZHZKMHB5RW8wU1Ftb3VESmFsOHNR?oc=5",
+     "pub": "2026-10-11T15:15+00:00"
     }
    ]
   },
   {
-   "tema": "Everton",
+   "tema": "Hull",
    "medios": 9,
    "lista_medios": [
     "BBC",
@@ -842,7 +1117,7 @@
    ]
   },
   {
-   "tema": "Hull",
+   "tema": "Everton",
    "medios": 9,
    "lista_medios": [
     "BBC",
@@ -1022,360 +1297,91 @@
    ]
   },
   {
-   "tema": "Seedorf",
-   "medios": 9,
-   "lista_medios": [
-    "AS",
-    "Foot Mercato",
-    "Google News AR",
-    "L'Equipe",
-    "Mundo Deportivo",
-    "Planet Football",
-    "Record",
-    "Yahoo",
-    "ge.globo"
-   ],
-   "primera_vez": "2026-10-11T16:00+00:00",
-   "titulares": [
-    {
-     "medio": "Yahoo",
-     "titulo": "Corinthians signing Seedorf shocks social media; see the reactions 🤣",
-     "url": "https://sports.yahoo.com/articles/corinthians-signing-seedorf-shocks-social-143300478.html",
-     "pub": "2026-10-11T14:33+00:00"
-    },
-    {
-     "medio": "AS",
-     "titulo": "Oficial: Seedorf, a Corinthians",
-     "url": "https://as.com/futbol/internacional/oficial-seedorf-a-corinthians-f202610-n/",
-     "pub": "2026-10-11T14:33+00:00"
-    },
-    {
-     "medio": "Foot Mercato",
-     "titulo": "Clarence Seedorf nouvel entraîneur des Corinthians",
-     "url": "https://www.footmercato.net/a7448500962750134282-clarence-seedorf-nouvel-entraineur-des-corinthians",
-     "pub": "2026-10-11T14:36+00:00"
-    },
-    {
-     "medio": "Record",
-     "titulo": "<![CDATA[ Seedorf é o eleito do Corinthians para tentar fugir da descida ]]>",
-     "url": "https://www.record.pt/internacional/paises/brasil/detalhe/seedorf-e-o-eleito-do-corinthians-para-tentar-fugir-da-descida",
-     "pub": "2026-10-11T15:32+00:00"
-    },
-    {
-     "medio": "ge.globo",
-     "titulo": "Contrato de Seedorf com o Corinthians prevê rescisão em caso de rebaixamento à Série B",
-     "url": "https://ge.globo.com/futebol/times/corinthians/noticia/2026/10/11/contrato-de-seedorf-com-o-corinthians-preve-rescisao-em-caso-de-rebaixamento-a-serie-b.ghtml",
-     "pub": "2026-10-11T15:37+00:00"
-    },
-    {
-     "medio": "ge.globo",
-     "titulo": "Empresários detalham indicação de Seedorf a Marcelo Paz e explicam acerto com o Corinthians",
-     "url": "https://ge.globo.com/futebol/times/corinthians/noticia/2026/10/11/empresarios-detalham-indicacao-de-seedorf-a-marcelo-paz-e-explicam-acerto-com-o-corinthians.ghtml",
-     "pub": "2026-10-11T14:49+00:00"
-    },
-    {
-     "medio": "ge.globo",
-     "titulo": "Corinthians contrata Seedorf como novo técnico",
-     "url": "https://ge.globo.com/futebol/times/corinthians/noticia/2026/10/11/corinthians-contrata-seedorf-como-novo-tecnico.ghtml",
-     "pub": "2026-10-11T14:05+00:00"
-    },
-    {
-     "medio": "Mundo Deportivo",
-     "titulo": "Seedorf encuentra equipo",
-     "url": "https://www.mundodeportivo.com/futbol/fichajes/oficial/20261011/1004237453/seedorf-encuentra-equipo.html",
-     "pub": ""
-    },
-    {
-     "medio": "L'Equipe",
-     "titulo": "Clarence Seedorf devient l'entraîneur du Corinthians et s'engage jusqu'à fin 2027 avec le club brésilien",
-     "url": "https://www.lequipe.fr/Football/Actualites/Clarence-seedorf-devient-l-entraineur-du-corinthians-et-s-engage-jusqu-a-fin-2027-avec-le-club-bresilien/1724987#at_medium=RSS_feeds",
-     "pub": "2026-10-11T15:45+00:00"
-    },
-    {
-     "medio": "Google News AR",
-     "titulo": "Clarence Seedorf vuelve al fútbol brasileño: es el nuevo entrenador de Corinthians",
-     "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQcG8yeHc0RVQ3VzZpTlZYYnRjd3k5NHc2RXpOaEZmX2kwZ2lEMGZIVEhFemJydG9kamJuTllHbTM4Y2xOQWd0Vmw1MUllbEpsNl9zRHByV2ZsVTNVWlRSSmFfaGpYZE1QSlRURVB0cXF0VXUzZFkwWWxXN25ObWs5anNPeHJnaGFZMi1XSVlRVXR4ZHozVWRwVktqcnRIOExNWkxMUTZONEN2S0thN0xhT0Y1YkNGRElaVk84blpXakh2SlpuLWZ1cDd4d0R5VFM0YTV2UjJRYk5pVUoxMmVSX0Rn?oc=5",
-     "pub": "2026-10-11T16:39+00:00"
-    },
-    {
-     "medio": "ge.globo",
-     "titulo": "Seedorf pede apoio da torcida do Corinthians e promete \"fazer o melhor\"",
-     "url": "https://ge.globo.com/futebol/times/corinthians/noticia/2026/10/11/seedorf-pede-apoio-da-torcida-do-corinthians-e-promete-fazer-o-melhor.ghtml",
-     "pub": "2026-10-11T17:04+00:00"
-    },
-    {
-     "medio": "ge.globo",
-     "titulo": "Marcelo Paz explica escolha por Seedorf e quer Corinthians pragmático: \"Ganhar de 1 a 0\"",
-     "url": "https://ge.globo.com/futebol/times/corinthians/noticia/2026/10/11/marcelo-paz-explica-escolha-por-seedorf-e-quer-corinthians-pragmatico-ganhar-de-1-a-0.ghtml",
-     "pub": "2026-10-11T20:12+00:00"
-    }
-   ]
-  },
-  {
-   "tema": "Corinthians",
-   "medios": 9,
-   "lista_medios": [
-    "AS",
-    "Foot Mercato",
-    "Google News AR",
-    "Infobae",
-    "L'Equipe",
-    "Ole",
-    "Record",
-    "Yahoo",
-    "ge.globo"
-   ],
-   "primera_vez": "2026-10-11T16:00+00:00",
-   "titulares": [
-    {
-     "medio": "Yahoo",
-     "titulo": "Corinthians signing Seedorf shocks social media; see the reactions 🤣",
-     "url": "https://sports.yahoo.com/articles/corinthians-signing-seedorf-shocks-social-143300478.html",
-     "pub": "2026-10-11T14:33+00:00"
-    },
-    {
-     "medio": "AS",
-     "titulo": "Oficial: Seedorf, a Corinthians",
-     "url": "https://as.com/futbol/internacional/oficial-seedorf-a-corinthians-f202610-n/",
-     "pub": "2026-10-11T14:33+00:00"
-    },
-    {
-     "medio": "Foot Mercato",
-     "titulo": "Clarence Seedorf nouvel entraîneur des Corinthians",
-     "url": "https://www.footmercato.net/a7448500962750134282-clarence-seedorf-nouvel-entraineur-des-corinthians",
-     "pub": "2026-10-11T14:36+00:00"
-    },
-    {
-     "medio": "Record",
-     "titulo": "<![CDATA[ Seedorf é o eleito do Corinthians para tentar fugir da descida ]]>",
-     "url": "https://www.record.pt/internacional/paises/brasil/detalhe/seedorf-e-o-eleito-do-corinthians-para-tentar-fugir-da-descida",
-     "pub": "2026-10-11T15:32+00:00"
-    },
-    {
-     "medio": "Ole",
-     "titulo": "Corinthians presentó a un técnico europeo para salvarse del descenso",
-     "url": "https://www.ole.com.ar/futbol-internacional/america/corinthians-presento-nuevo-tecnico-europeo-clarence-seedorf-brasil_0_vPehzmpgIC.html",
-     "pub": "2026-10-11T15:47+00:00"
-    },
-    {
-     "medio": "ge.globo",
-     "titulo": "Contrato de Seedorf com o Corinthians prevê rescisão em caso de rebaixamento à Série B",
-     "url": "https://ge.globo.com/futebol/times/corinthians/noticia/2026/10/11/contrato-de-seedorf-com-o-corinthians-preve-rescisao-em-caso-de-rebaixamento-a-serie-b.ghtml",
-     "pub": "2026-10-11T15:37+00:00"
-    },
-    {
-     "medio": "ge.globo",
-     "titulo": "Empresários detalham indicação de Seedorf a Marcelo Paz e explicam acerto com o Corinthians",
-     "url": "https://ge.globo.com/futebol/times/corinthians/noticia/2026/10/11/empresarios-detalham-indicacao-de-seedorf-a-marcelo-paz-e-explicam-acerto-com-o-corinthians.ghtml",
-     "pub": "2026-10-11T14:49+00:00"
-    },
-    {
-     "medio": "ge.globo",
-     "titulo": "Corinthians contrata Seedorf como novo técnico",
-     "url": "https://ge.globo.com/futebol/times/corinthians/noticia/2026/10/11/corinthians-contrata-seedorf-como-novo-tecnico.ghtml",
-     "pub": "2026-10-11T14:05+00:00"
-    },
-    {
-     "medio": "ge.globo",
-     "titulo": "Palmeiras vai encarar 11º técnico do Corinthians na era Abel Ferreira; veja os números",
-     "url": "https://ge.globo.com/futebol/times/palmeiras/noticia/2026/10/11/palmeiras-vai-encarar-11o-tecnico-do-corinthians-na-era-abel-ferreira-veja-os-numeros.ghtml",
-     "pub": "2026-10-11T11:00+00:00"
-    },
-    {
-     "medio": "ge.globo",
-     "titulo": "Corinthians chega ao Dérbi com dificuldades para avançar por técnico e sem alvo definido",
-     "url": "https://ge.globo.com/futebol/times/corinthians/noticia/2026/10/11/corinthians-chega-ao-derbi-com-dificuldades-para-avancar-por-tecnico-e-sem-alvo-definido.ghtml",
-     "pub": "2026-10-11T11:00+00:00"
-    },
-    {
-     "medio": "ge.globo",
-     "titulo": "Palmeiras x Corinthians: onde assistir ao vivo, horário e escalações",
-     "url": "https://ge.globo.com/sp/futebol/brasileirao-serie-a/noticia/2026/10/11/palmeiras-x-corinthians-onde-assistir-ao-vivo-horario-e-escalacoes.ghtml",
-     "pub": "2026-10-11T07:00+00:00"
-    },
-    {
-     "medio": "L'Equipe",
-     "titulo": "Clarence Seedorf devient l'entraîneur du Corinthians et s'engage jusqu'à fin 2027 avec le club brésilien",
-     "url": "https://www.lequipe.fr/Football/Actualites/Clarence-seedorf-devient-l-entraineur-du-corinthians-et-s-engage-jusqu-a-fin-2027-avec-le-club-bresilien/1724987#at_medium=RSS_feeds",
-     "pub": "2026-10-11T15:45+00:00"
-    }
-   ]
-  },
-  {
-   "tema": "Milan",
+   "tema": "Spurs",
    "medios": 8,
    "lista_medios": [
-    "AS",
     "BBC",
-    "Foot Mercato",
-    "Football Italia",
-    "Kicker",
-    "L'Equipe",
-    "Mundo Deportivo",
+    "Daily Mail",
+    "Google News EN",
+    "Guardian",
+    "Infobae",
+    "Mirror",
+    "Telegraph",
     "Yahoo"
    ],
    "primera_vez": "2026-10-11T16:00+00:00",
    "titulares": [
     {
      "medio": "BBC",
-     "titulo": "AC Milan keen on Scott - Sunday's gossip",
-     "url": "https://www.bbc.co.uk/sport/football/articles/cmy0rp2r516po?at_medium=RSS&at_campaign=rss",
-     "pub": "2026-10-10T22:01+00:00"
+     "titulo": "'I kissed Rodrigo and said thanks' - De Zerbi 'liked' Spurs red card",
+     "url": "https://www.bbc.co.uk/sport/football/articles/cqn73g3pvezdo?at_medium=RSS&at_campaign=rss",
+     "pub": "2026-10-10T20:58+00:00"
     },
-    {
-     "medio": "Yahoo",
-     "titulo": "Amorim: ‘Milan system doesn’t matter as much as being aggressive’",
-     "url": "https://sports.yahoo.com/articles/amorim-milan-system-doesn-t-154000703.html",
-     "pub": "2026-10-11T15:40+00:00"
-    },
-    {
-     "medio": "Yahoo",
-     "titulo": "🚨XI confirmed: Milan face a tough trip to Sassuolo",
-     "url": "https://sports.yahoo.com/articles/xi-confirmed-milan-face-tough-150800429.html",
-     "pub": "2026-10-11T15:08+00:00"
-    },
-    {
-     "medio": "Yahoo",
-     "titulo": "Serie A: Sassuolo vs. Milan – Confirmed line-ups",
-     "url": "https://sports.yahoo.com/articles/serie-sassuolo-vs-milan-confirmed-145500149.html",
-     "pub": "2026-10-11T14:55+00:00"
-    },
-    {
-     "medio": "Mundo Deportivo",
-     "titulo": "Sassuolo - AC Milan, en directo | Serie A",
-     "url": "https://www.mundodeportivo.com/futbol/serie-a/20261011/1004235605/sassuolo-ac-milan-directo-serie.html",
-     "pub": ""
-    },
-    {
-     "medio": "L'Equipe",
-     "titulo": "Toujours invaincue, la Lazio de Gennaro Gattuso rejoint l'Inter Milan en tête de la Serie A",
-     "url": "https://www.lequipe.fr/Football/Actualites/Toujours-invaincue-la-lazio-de-gennaro-gattuso-rejoint-l-inter-milan-en-tete-de-la-serie-a/1724978#at_medium=RSS_feeds",
-     "pub": "2026-10-11T15:18+00:00"
-    },
-    {
-     "medio": "Foot Mercato",
-     "titulo": "AC Milan : Medhi Benatia a déjà quatre gros concurrents !",
-     "url": "https://www.footmercato.net/a6606005491836601491-ac-milan-medhi-benatia-a-deja-quatre-gros-concurrents",
-     "pub": "2026-10-11T08:18+00:00"
-    },
-    {
-     "medio": "Yahoo",
-     "titulo": "Gattuso frustrated with Lazio despite 3-1 Monza win: ‘Like the second half against Milan’",
-     "url": "https://sports.yahoo.com/articles/gattuso-frustrated-lazio-despite-3-162000226.html",
-     "pub": "2026-10-11T16:20+00:00"
-    },
-    {
-     "medio": "AS",
-     "titulo": "Sassuolo - Milan, en directo: Serie A, hoy en vivo",
-     "url": "https://as.com/futbol/internacional/sassuolo-milan-en-directo-serie-a-hoy-en-vivo-f202610-n/",
-     "pub": "2026-10-11T15:52+00:00"
-    },
-    {
-     "medio": "Football Italia",
-     "titulo": "Milan forced into early change against Sassuolo as Gabbia stretchered off in tears",
-     "url": "https://football-italia.net/milan-forced-early-change-vs-sassuolo-gabbia/",
-     "pub": "2026-10-11T16:32+00:00"
-    },
-    {
-     "medio": "Kicker",
-     "titulo": "Sassuolo - Milan: Tor zum 1:1 durch Odenthal in der 68. Minute",
-     "url": "https://www.kicker.de/sassuolo-milan-tor-zum-1-1-durch-odenthal-in-der-68-minute-1260300/video#omrss",
-     "pub": "2026-10-11T17:38+00:00"
-    },
-    {
-     "medio": "Kicker",
-     "titulo": "Rabiot-Knaller aus spitzen Winkel: Milan führt mit 1:0",
-     "url": "https://www.kicker.de/rabiot-knaller-aus-spitzen-winkel-milan-fuehrt-mit-1-0-1260297/video#omrss",
-     "pub": "2026-10-11T17:33+00:00"
-    }
-   ]
-  },
-  {
-   "tema": "Forest",
-   "medios": 8,
-   "lista_medios": [
-    "BBC",
-    "Daily Mail",
-    "FourFourTwo",
-    "Google News EN",
-    "Guardian",
-    "L'Equipe",
-    "Mundo Deportivo",
-    "Sky Sports"
-   ],
-   "primera_vez": "2026-10-11T16:00+00:00",
-   "titulares": [
     {
      "medio": "Guardian",
-     "titulo": "Pino finishes off Nottingham Forest on Glasner’s unhappy Crystal Palace return",
-     "url": "https://www.theguardian.com/football/2026/oct/11/crystal-palace-nottingham-forest-premier-league-match-report",
-     "pub": "2026-10-11T15:28+00:00"
-    },
-    {
-     "medio": "Sky Sports",
-     "titulo": "Palace stun Forest on Glasner's Selhurst Park return",
-     "url": "https://www.skysports.com/football/crystal-palace-vs-nottingham-forest/report/559498",
-     "pub": "2026-10-11T16:10+00:00"
+     "titulo": "Manchester United and Spurs come back to reality as City saga offers brief distraction | John Brewin",
+     "url": "https://www.theguardian.com/football/2026/oct/10/draw-brings-no-respite-for-manchester-united-and-tottenham-as-crises-continue",
+     "pub": "2026-10-10T20:40+00:00"
     },
     {
      "medio": "Daily Mail",
-     "titulo": "Crystal Palace 3-1 Nottingham Forest: Oliver Glasner brutally mocked on nightmare return with Pierre Sage's side gifted first win of the season as £50m man Liam Delap lacks clinical touch",
-     "url": "https://www.dailymail.com/sport/football/article-16195581/crystal-palace-nottingham-forest-glasner-selhurst.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-     "pub": "2026-10-11T15:52+00:00"
+     "titulo": "Dominic Solanke led the line expertly and repaid Roberto De Zerbi for his show of faith - his rescue act needs to be the catalyst to kick-start Spurs' season, writes MATT BARLOW",
+     "url": "https://www.dailymail.com/sport/football/article-16195575/Tottenham-analysis-Solanke-Zerbi-Barlow.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+     "pub": "2026-10-11T14:55+00:00"
     },
     {
-     "medio": "FourFourTwo",
-     "titulo": "How to watch Crystal Palace vs Nottingham Forest for FREE",
-     "url": "https://www.fourfourtwo.com/competition/watch-crystal-palace-vs-nottingham-forest-free",
-     "pub": "2026-10-11T10:00+00:00"
+     "medio": "Daily Mail",
+     "titulo": "Bruno Fernandes cuts frustrated figure as he makes hasty Old Trafford exit after Man United throw away win against 10-man Spurs",
+     "url": "https://www.dailymail.com/sport/football/article-16200131/Bruno-Fernandes-cuts-frustrated-figure-makes-hasty-Old-Trafford-exit-Man-United-throw-away-win-against-10-man-Spurs.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+     "pub": "2026-10-11T11:55+00:00"
     },
     {
-     "medio": "Google News EN",
-     "titulo": "Premier League - Crystal Palace 3-1 Nottingham Forest - Oliver Glasner post match interview",
-     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE0tNFpwRzYtTWdXNTJmYVNZTFdNOEJSZnVCRDZqeG1Va2gtY1ltR3gzbElGTW4xbzVZbTRfczl4N2pJTHhtemFYZVlQT3lQdFdPay0wS0NKd29mc3BLSmlDdWdjaWRuRXB4?oc=5",
-     "pub": "2026-10-11T15:54+00:00"
+     "medio": "Daily Mail",
+     "titulo": "'Worried' Gary Neville tells struggling Man United stars to 'get a grip' after Spurs draw ahead of tough run - as he warns midfield duo CAN'T play together and calls out lack of fight in Michael Carrick's men",
+     "url": "https://www.dailymail.com/sport/football/article-16199259/Gary-Neville-struggling-Man-United.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+     "pub": "2026-10-10T22:11+00:00"
     },
     {
-     "medio": "Google News EN",
-     "titulo": "Crystal Palace vs Nottm Forest | Daichi Kamada levels for Palace",
-     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOa0FNVmZWVGV0eC1uQXFpVmpUQzZtdVc5SktwektuOGdBcVJoSUxuRTF4NXZDLVhxMDFHelB3bXhfcmRFLU9DUzBVVVBTN0FOYmZ0NnE4eEc4a05BcWpmY3ZELTctYmEtSnNxU3lnRjh0Sk9mWXRybXhDM1pXOFppcEZFcEZHQ1BPRG0yM0NHVTFtWmFha2p6UnVCdTRsTkE?oc=5",
-     "pub": "2026-10-11T13:55+00:00"
+     "medio": "Daily Mail",
+     "titulo": "'Stupid' Rodrigo Bentancur sparks mass brawl after HEADBUTTING Luke Shaw as Spurs star is sent off in clash with Man United",
+     "url": "https://www.dailymail.com/sport/football/article-16199171/Rodrigo-Bentancur-mass-brawl-HEADBUTTING.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+     "pub": "2026-10-10T20:12+00:00"
     },
     {
-     "medio": "Google News EN",
-     "titulo": "Crystal Palace vs Nottm Forest | Brilliant finish as Dan Ndoye puts Forest ahead",
-     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPenp6cm1CQ0tYYm9zQ19jbmYydnVuRnpUOS1mS25GemRQUHBzOEczengyMXh2VTd5Y04tNTM1SUZ5OVZpbGd0VFVFbm9fRWQzWWhuMkVUdi1UUEczM3VBU2x3bG9UNXoyVFZGYmlWRG4wUEl5WnRhNV9acmtVbk1FYnJwY0JZSFdmOWlyX0VRMDJQZlh6cEtIYmRCVHg?oc=5",
-     "pub": "2026-10-11T13:11+00:00"
+     "medio": "Daily Mail",
+     "titulo": "Feckless Man United were dreadful and embarrassing at times in Spurs draw: Play like this in a week of reckoning and Michael Carrick will be clinging to his job, writes IAN LADYMAN",
+     "url": "https://www.dailymail.com/sport/football/article-16195543/Feckless-Man-United-dreadful-embarrassing-Michael-Carrick.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+     "pub": "2026-10-10T20:44+00:00"
     },
     {
-     "medio": "Google News EN",
-     "titulo": "Save W Benitez (80) Crystal Palace 3 - 1 Nottm Forest",
-     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQMXhGVFMzYWJvdk5EWjc1OFRFZm9zMnNrRWVrTFBNMklZamJ5em9jS25nak5WOXhJVTdxcTB1eVpFX3dUTkNvLTVMZTZGT09pbDFRWXlsTE52blpVVk9sRlhLbFVUdXZHbUYzWVhub3dJV0FneU5odEZtczhSMXlPcENaWmtpVlR2LV9VcVFOWnRJVFVuX19NYXBaX1ZWR3BLd0Vrb25n?oc=5",
-     "pub": "2026-10-11T14:50+00:00"
+     "medio": "Mirror",
+     "titulo": "Michael Carrick told £35m summer signing caused 'impossible' Man Utd issue vs Spurs",
+     "url": "https://www.mirror.co.uk/sport/football/news/man-utd-spurs-carrick-tielemans-37759461",
+     "pub": "2026-10-11T08:49+00:00"
     },
     {
-     "medio": "Mundo Deportivo",
-     "titulo": "Crystal Palace - Nottingham Forest, en directo | Premier League",
-     "url": "https://www.mundodeportivo.com/futbol/premier-league/20261011/1004235391/crystal-palace-nottingham-forest-directo-premier-league.html",
-     "pub": ""
-    },
-    {
-     "medio": "L'Equipe",
-     "titulo": "L'incroyable parade du gardien Walter Benitez contre Nottingham Forest en Premier League",
-     "url": "https://www.lequipe.fr/Football/Actualites/L-incroyable-parade-du-gardien-walter-benitez-contre-nottingham-forest-en-premier-league/1724953#at_medium=RSS_feeds",
-     "pub": "2026-10-11T14:24+00:00"
-    },
-    {
-     "medio": "L'Equipe",
-     "titulo": "Mené au score face à Nottingham Forest, Crystal Palace s'en sort bien et offre un répit à Pierre Sage",
-     "url": "https://www.lequipe.fr/Football/Actualites/Mene-au-score-face-a-nottingham-forest-crystal-palace-s-en-sort-bien-et-offre-un-repit-a-pierre-sage/1724985#at_medium=RSS_feeds",
-     "pub": "2026-10-11T15:34+00:00"
+     "medio": "Telegraph",
+     "titulo": "Man Utd make worst start in 40 years after being hauled back by 10-man Spurs",
+     "url": "https://www.telegraph.co.uk/football/2026/10/10/manchester-united-vs-tottenham-team-news-and-latest-premier/",
+     "pub": "2026-10-10T20:54+00:00"
     },
     {
      "medio": "Google News EN",
-     "titulo": "Crystal Palace 3-1 Nottingham Forest | Premier League highlights",
-     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPME5kcGd5RjJ1VWYwdDRlU0twc3Q5eWpjNHMxbkhlYVJNRkNDVlROYmRSaW4wS2ZNZGg5YUpBalVWQTNpOFBsby1aWmEwa08zNnV0NlBqZy1WaGJ1UXRyNnI4aVJIZHlwYnFfdENGNnh4TDJ1VU10LUY1NFpHM2VPV1dXQmFodElTOFdUYy1uZHNTY2V5eHhwQ0tBNzBVZHZKMHB5RW8wU1Ftb3VESmFsOHNR?oc=5",
-     "pub": "2026-10-11T15:15+00:00"
+     "titulo": "Man Utd 1-1 Tottenham: Dominic Solanke rescues dramatic draw for 10-man Spurs at Old Trafford",
+     "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQbkZaaDhrU05wMGVXV1dwaHZkeXZLeEY5bEhiTE5OUXhySGdRU1N4SmtNMC1LVWYtSDFYNnBSVklsbGI5emVFb2s3Y2VlSWk3TVo2bUU2dTQzVVRhS1poRkdTbHJWVzRJWHd2TTJCZFpoLWtJT1VGNHlzTXE3eDNLOE5Xbk8zNjRiMkVhSzBOUkItemFoSU9NUDdyMFRyWllzNURCNnJ0VXl5NW84T0lnSWVvb2RtTlZjLUliY1hLOWxlazdYY254NVdWaUZSRzBrQ1UtQjlRRnM?oc=5",
+     "pub": "2026-10-11T14:31+00:00"
+    },
+    {
+     "medio": "Infobae",
+     "titulo": "Jugó en cinco países de Europa, sorprendió a los Lakers y debutó en la NBA a los 30 años con San Antonio Spurs",
+     "url": "https://www.infobae.com/deportes/2026/10/10/jugo-en-cinco-paises-de-europa-sorprendio-a-los-lakers-y-debuto-en-la-nba-a-los-30-anos-con-san-antonio-spurs/",
+     "pub": "2026-10-10T21:28+00:00"
+    },
+    {
+     "medio": "Yahoo",
+     "titulo": "Roberto De Zerbi defends Spurs star after Man United controversy",
+     "url": "https://sports.yahoo.com/articles/roberto-zerbi-defends-spurs-star-195000729.html",
+     "pub": "2026-10-11T19:50+00:00"
     }
    ]
   },
@@ -1465,6 +1471,95 @@
      "titulo": "Portsmouth analysis: Southampton defeat 'one that got away'",
      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE44Rlk5YWNHUTgxRXN3M1Axbng2VFFRREVGQmxKREZvLXN0LW5VV1gxSm1JeE1pcGRUMHhVOU1LVUg3M1ZIQk5ibkVma3U2SGROSC0tVGlyZTJPN3c0YjF0eklyR2hKcmdZTjlJ?oc=5",
      "pub": "2026-10-11T15:49+00:00"
+    }
+   ]
+  },
+  {
+   "tema": "Vinicius",
+   "medios": 8,
+   "lista_medios": [
+    "AS",
+    "Foot Mercato",
+    "Google News ES",
+    "L'Equipe",
+    "Mundo Deportivo",
+    "Yahoo",
+    "ge.globo",
+    "talkSPORT"
+   ],
+   "primera_vez": "2026-10-11T16:00+00:00",
+   "titulares": [
+    {
+     "medio": "talkSPORT",
+     "titulo": "Jose Mourinho&#8217;s decision to boycott press conference explained after Vinicius Jr red card",
+     "url": "https://talksport.com/football/4636735/jose-mourinho-press-conference-boycott-vinicius-jr-red-card/",
+     "pub": "2026-10-11T09:10+00:00"
+    },
+    {
+     "medio": "AS",
+     "titulo": "Desazón con Vinicius",
+     "url": "https://as.com/futbol/primera/desazon-con-vinicius-f202610-n/",
+     "pub": "2026-10-11T06:27+00:00"
+    },
+    {
+     "medio": "Mundo Deportivo",
+     "titulo": "Cifras redondas para Vinicius y Tchouaméni",
+     "url": "https://www.mundodeportivo.com/futbol/real-madrid/20261011/1004237374/cifras-redondas-vinicius-tchouameni.html",
+     "pub": ""
+    },
+    {
+     "medio": "L'Equipe",
+     "titulo": "« Ridicule », « un geste violent »... Vinicius unanimement condamné par les médias espagnols au lendemain de son expulsion",
+     "url": "https://www.lequipe.fr/Football/Actualites/-ridicule-un-geste-violent-vinicius-unanimement-condamne-par-les-medias-espagnols-au-lendemain-de-son-expulsion/1724917#at_medium=RSS_feeds",
+     "pub": "2026-10-11T09:21+00:00"
+    },
+    {
+     "medio": "Foot Mercato",
+     "titulo": "Real Madrid : l’entourage de Vinicius Jr réagit à son expulsion polémique",
+     "url": "https://www.footmercato.net/a3971435971801351262-real-madrid-lentourage-de-vinicius-jr-reagit-a-son-expulsion-polemique",
+     "pub": "2026-10-11T10:05+00:00"
+    },
+    {
+     "medio": "Foot Mercato",
+     "titulo": "Yan Diomandé profite des déboires de Vinicius Jr, la presse allemande cartonne Neuer après sa boulette historique",
+     "url": "https://www.footmercato.net/a3575618506492248561-yan-diomande-profite-des-deboires-de-vinicius-jr-la-presse-allemande-cartonne-neuer-apres-sa-boulette-historique",
+     "pub": "2026-10-11T09:04+00:00"
+    },
+    {
+     "medio": "Foot Mercato",
+     "titulo": "«Un véritable fiasco» : la presse madrilène vole au secours de Vinicius Júnior après son pétage de câble",
+     "url": "https://www.footmercato.net/a2984014693036282798-un-veritable-fiasco-la-presse-madrilene-vole-au-secours-de-vinicius-junior-apres-son-petage-de-cable",
+     "pub": "2026-10-11T07:15+00:00"
+    },
+    {
+     "medio": "Foot Mercato",
+     "titulo": "Vinicius Jr et l’influenceuse Virginia Fonseca se séparent",
+     "url": "https://www.footmercato.net/a5896446103485072680-vinicius-jr-et-linfluenceuse-virginia-fonseca-se-separent",
+     "pub": "2026-10-11T18:13+00:00"
+    },
+    {
+     "medio": "Google News ES",
+     "titulo": "Vídeo | Cucurella y su reacción tras la expulsión de Vinicius que captaron las cámaras de DAZN",
+     "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQMVlGeldJUDVEUUd6X0laRUluVm1YTGJNYVZLYW5VNWwtVVdHZElVTk8tZ2JzU2FMMW5WXzRlZk1KZ1BMYWp4WGVWUjJSeHdPc2ZySm5Vdmo1SnZyYk5fTGFmN1QteU9PVVc0Y0owQU1yTkhfbG5hTTZLYVV4WVVKekZhMjJpdkpNNnJicGEwRHRFQjkwTzYwa3JFRDNOVklRd0llMkpTNnJuSmpTQVFyUEtrckJaRFlSYVplVUNqYmhCVkZ4Zk9QSlZpUW9yZnVmUjRxWkk0bw?oc=5",
+     "pub": "2026-10-11T20:17+00:00"
+    },
+    {
+     "medio": "AS",
+     "titulo": "La ‘carambola’ que podría ayudar a Vinicius para el Clásico",
+     "url": "https://as.com/futbol/videos/la-carambola-que-podria-ayudar-a-vinicius-para-a-en-el-clasico-f202610-v/",
+     "pub": "2026-10-12T06:47+00:00"
+    },
+    {
+     "medio": "Mundo Deportivo",
+     "titulo": "Alimentar a Vinicius",
+     "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261012/1004237493/alimentar-vinicius.html",
+     "pub": ""
+    },
+    {
+     "medio": "Mundo Deportivo",
+     "titulo": "Cucurella advirtió al árbitro tras la roja de Vinicius: \"Espero que si me tocan un pelo le saquéis la roja\"",
+     "url": "https://www.mundodeportivo.com/futbol/real-madrid/20261011/1004237588/cucurella-advirtio-arbitro-roja-vinicius-espero-me-tocan-pelo-le-saqueis-roja.html",
+     "pub": ""
     }
    ]
   },
@@ -1819,182 +1914,6 @@
    ]
   },
   {
-   "tema": "Arsenal",
-   "medios": 7,
-   "lista_medios": [
-    "BBC",
-    "Football Italia",
-    "L'Equipe",
-    "Mirror",
-    "Yahoo",
-    "ge.globo",
-    "talkSPORT"
-   ],
-   "primera_vez": "2026-10-11T16:00+00:00",
-   "titulares": [
-    {
-     "medio": "BBC",
-     "titulo": "Brilliant Guimaraes goal helps Arsenal fight back to beat Leeds",
-     "url": "https://www.bbc.co.uk/sport/football/videos/c6y4z9lnkz30o?at_medium=RSS&at_campaign=rss",
-     "pub": "2026-10-10T19:00+00:00"
-    },
-    {
-     "medio": "talkSPORT",
-     "titulo": "Bukayo Saka told he&#8217;s not justifying contract as Arsenal legend gives key piece of advice",
-     "url": "https://talksport.com/football/4637028/arsenal-bukayo-saka-david-oleary-advice/",
-     "pub": "2026-10-11T12:05+00:00"
-    },
-    {
-     "medio": "Mirror",
-     "titulo": "Ray Parlour accuses Arsenal star of 'not doing his job' in Leeds victory",
-     "url": "https://www.mirror.co.uk/sport/football/news/arsenal-noni-madueke-leeds-parlour-37759772",
-     "pub": "2026-10-11T11:31+00:00"
-    },
-    {
-     "medio": "Yahoo",
-     "titulo": "2nd Arsenal player also picked up injury in post-Leeds warm-down",
-     "url": "https://sports.yahoo.com/articles/2nd-arsenal-player-picked-injury-152000891.html",
-     "pub": "2026-10-11T15:20+00:00"
-    },
-    {
-     "medio": "Yahoo",
-     "titulo": "Arsenal set for breakthrough in contract talks with crucial trio",
-     "url": "https://sports.yahoo.com/articles/arsenal-set-breakthrough-contract-talks-135000039.html",
-     "pub": "2026-10-11T13:50+00:00"
-    },
-    {
-     "medio": "Football Italia",
-     "titulo": "Arsenal trio and Italy defender react as Calafiori scores first Arsenal goal at the Emirates",
-     "url": "https://football-italia.net/arsenal-trio-italy-defender-calafiori-goal/",
-     "pub": "2026-10-11T08:54+00:00"
-    },
-    {
-     "medio": "ge.globo",
-     "titulo": "Gabriel Jesus tem começo mais eficiente no Barcelona do que em Arsenal e Manchester City",
-     "url": "https://ge.globo.com/futebol/futebol-internacional/futebol-espanhol/noticia/2026/10/11/gabriel-jesus-tem-comeco-mais-eficiente-no-barcelona-do-que-em-arsenal-e-manchester-city.ghtml",
-     "pub": "2026-10-11T07:00+00:00"
-    },
-    {
-     "medio": "ge.globo",
-     "titulo": "Bruno Guimarães fala em \"sensação única\" após primeiro gol na casa do Arsenal",
-     "url": "https://ge.globo.com/futebol/futebol-internacional/futebol-ingles/noticia/2026/10/11/bruno-guimaraes-fala-em-sensacao-unica-apos-primeiro-gol-na-casa-do-arsenal.ghtml",
-     "pub": "2026-10-11T06:00+00:00"
-    },
-    {
-     "medio": "Yahoo",
-     "titulo": "Mourinho makes unprompted remark about Arteta & Arsenal",
-     "url": "https://sports.yahoo.com/articles/mourinho-makes-unprompted-remark-arteta-170500002.html",
-     "pub": "2026-10-11T17:05+00:00"
-    },
-    {
-     "medio": "Yahoo",
-     "titulo": "Arsenal dealt injury blow after Leeds United win",
-     "url": "https://sports.yahoo.com/articles/arsenal-dealt-injury-blow-leeds-185000230.html",
-     "pub": "2026-10-11T18:50+00:00"
-    },
-    {
-     "medio": "Yahoo",
-     "titulo": "Arsenal Are Among The Clubs Showing Interest In This Chelsea Defender: Should Arteta Move In For Him?",
-     "url": "https://sports.yahoo.com/articles/arsenal-among-clubs-showing-interest-195000518.html",
-     "pub": "2026-10-11T19:50+00:00"
-    },
-    {
-     "medio": "Mirror",
-     "titulo": "Arsenal news: Mikel Arteta plots Liverpool hijack as Gunners near 'triple deal'",
-     "url": "https://www.mirror.co.uk/sport/football/news/arsenal-transfer-news-gilberto-mora-37760094",
-     "pub": "2026-10-12T03:00+00:00"
-    }
-   ]
-  },
-  {
-   "tema": "Tottenham",
-   "medios": 7,
-   "lista_medios": [
-    "BBC",
-    "Foot Mercato",
-    "Football Italia",
-    "FourFourTwo",
-    "Google News EN",
-    "Mirror",
-    "Yahoo"
-   ],
-   "primera_vez": "2026-10-11T16:00+00:00",
-   "titulares": [
-    {
-     "medio": "BBC",
-     "titulo": "'Tottenham needs this reaction' - De Zerbi defends Bentancur red",
-     "url": "https://www.bbc.co.uk/sport/football/videos/cq39818v0ekzo?at_medium=RSS&at_campaign=rss",
-     "pub": "2026-10-10T19:46+00:00"
-    },
-    {
-     "medio": "Mirror",
-     "titulo": "Man Utd star reveals Michael Carrick demand was not met in Tottenham draw",
-     "url": "https://www.mirror.co.uk/sport/football/news/man-utd-spurs-carrick-lammens-37759954",
-     "pub": "2026-10-11T12:56+00:00"
-    },
-    {
-     "medio": "FourFourTwo",
-     "titulo": "Toby Alderweireld on Tottenham Hotspur’s incredible Champions League semi-final win in 2019",
-     "url": "https://www.fourfourtwo.com/person/player/to-kill-the-dream-of-my-former-club-was-a-strange-feeling-ill-always-be-grateful-to-ajax-but-football-is-like-that-toby-alderweireld-on-tottenham-hotspurs-incredible-champions-league-semi-final-win-in-2019",
-     "pub": "2026-10-11T15:00+00:00"
-    },
-    {
-     "medio": "Yahoo",
-     "titulo": "Manchester United make Michael Carrick decision after Tottenham Hotspur draw",
-     "url": "https://sports.yahoo.com/articles/manchester-united-michael-carrick-decision-145000830.html",
-     "pub": "2026-10-11T14:50+00:00"
-    },
-    {
-     "medio": "Google News EN",
-     "titulo": "Highlights - Premier League - Manchester United 1-1 Tottenham Hotspur",
-     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBUaHMzd0hTNGYtbTZvTHRlZFRuU25sc3NzMWpCdFh2Mnh3SHdPQ210a2l1eExvOERXTjVfQmpqWjVWdHlPQV9mVndqWm9ha1d1Slo0cDJFTFJteUdCOElmdGhKYllZcVNr?oc=5",
-     "pub": "2026-10-10T19:24+00:00"
-    },
-    {
-     "medio": "Google News EN",
-     "titulo": "Man Utd 1-1 Tottenham: Dominic Solanke rescues dramatic draw for 10-man Spurs at Old Trafford",
-     "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQbkZaaDhrU05wMGVXV1dwaHZkeXZLeEY5bEhiTE5OUXhySGdRU1N4SmtNMC1LVWYtSDFYNnBSVklsbGI5emVFb2s3Y2VlSWk3TVo2bUU2dTQzVVRhS1poRkdTbHJWVzRJWHd2TTJCZFpoLWtJT1VGNHlzTXE3eDNLOE5Xbk8zNjRiMkVhSzBOUkItemFoSU9NUDdyMFRyWllzNURCNnJ0VXl5NW84T0lnSWVvb2RtTlZjLUliY1hLOWxlazdYY254NVdWaUZSRzBrQ1UtQjlRRnM?oc=5",
-     "pub": "2026-10-11T14:31+00:00"
-    },
-    {
-     "medio": "Football Italia",
-     "titulo": "Tonali sends six-word message after assist in Tottenham draw with Man Utd",
-     "url": "https://football-italia.net/tonali-6-words-message-assist-draw-tottenham/",
-     "pub": "2026-10-11T12:03+00:00"
-    },
-    {
-     "medio": "Google News EN",
-     "titulo": "NFL London games 2026 LIVE! Updates, result, highlights from Jacksonville Jaguars vs Philadelphia Eagles at Tottenham Hotspur Stadium",
-     "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxNSVN0QzA5eWFabHpnZ3RDdlJqSlRBNzJvUllOVnYyOGozM2x2d0pHTnlMTHpxeWdIQnFKaTl0U2JFRE85NUlBMXg5aXlxVEljYmZMTXQ5Y0hrblpuTGNwdjAxWTJOZ0hwRC1LRFRQRFJjVEtkX2Npby14Z1BTajZWdmtKYUpYWGxvUC1wTDV4eTFBcDhVZlFZb0E4dWlPaER6c21mTjhxaWs0c3lVRG1XMEQtZU95MUViRTlEdmRib1E5TC1qUHdpV3ItN1NBUUcxdjVlamQ5NEtGMWZDelVOUWpUY2xwTEVnUldEZXlDdEdidEhNcmhSTzkyQkFaXzRLc0Z6ZllBYUlvdlU?oc=5",
-     "pub": "2026-10-11T14:37+00:00"
-    },
-    {
-     "medio": "Foot Mercato",
-     "titulo": "Tottenham : les stages à Marbella de Roberto De Zerbi servent-ils réellement à quelque chose",
-     "url": "https://www.footmercato.net/a1605781767685981346-tottenham-les-stages-a-marbella-de-roberto-de-zerbi-servent-ils-reellement-a-quelque-chose",
-     "pub": "2026-10-11T16:15+00:00"
-    },
-    {
-     "medio": "Foot Mercato",
-     "titulo": "MU : Bruno Fernandes dépité après le nouveau fiasco contre Tottenham",
-     "url": "https://www.footmercato.net/a578664916989954370-mu-bruno-fernandes-depite-apres-le-nouveau-fiasco-contre-tottenham",
-     "pub": "2026-10-11T16:52+00:00"
-    },
-    {
-     "medio": "Yahoo",
-     "titulo": "Tottenham Hotspur Are Keeping Tabs On This Serie A Full-Back: Should De Zerbi Get Him On Board?",
-     "url": "https://sports.yahoo.com/articles/tottenham-hotspur-keeping-tabs-serie-202000736.html",
-     "pub": "2026-10-11T20:20+00:00"
-    },
-    {
-     "medio": "Yahoo",
-     "titulo": "Tottenham Hotspur star makes personal admission after Man United draw",
-     "url": "https://sports.yahoo.com/articles/tottenham-hotspur-star-makes-personal-205000048.html",
-     "pub": "2026-10-11T20:50+00:00"
-    }
-   ]
-  },
-  {
    "tema": "Portsmouth",
    "medios": 7,
    "lista_medios": [
@@ -2061,94 +1980,6 @@
      "titulo": "Portsmouth analysis: Southampton defeat 'one that got away'",
      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE44Rlk5YWNHUTgxRXN3M1Axbng2VFFRREVGQmxKREZvLXN0LW5VV1gxSm1JeE1pcGRUMHhVOU1LVUg3M1ZIQk5ibkVma3U2SGROSC0tVGlyZTJPN3c0YjF0eklyR2hKcmdZTjlJ?oc=5",
      "pub": "2026-10-11T15:49+00:00"
-    }
-   ]
-  },
-  {
-   "tema": "Vinicius",
-   "medios": 7,
-   "lista_medios": [
-    "AS",
-    "Foot Mercato",
-    "Google News ES",
-    "L'Equipe",
-    "Mundo Deportivo",
-    "ge.globo",
-    "talkSPORT"
-   ],
-   "primera_vez": "2026-10-11T16:00+00:00",
-   "titulares": [
-    {
-     "medio": "talkSPORT",
-     "titulo": "Jose Mourinho&#8217;s decision to boycott press conference explained after Vinicius Jr red card",
-     "url": "https://talksport.com/football/4636735/jose-mourinho-press-conference-boycott-vinicius-jr-red-card/",
-     "pub": "2026-10-11T09:10+00:00"
-    },
-    {
-     "medio": "AS",
-     "titulo": "Desazón con Vinicius",
-     "url": "https://as.com/futbol/primera/desazon-con-vinicius-f202610-n/",
-     "pub": "2026-10-11T06:27+00:00"
-    },
-    {
-     "medio": "Mundo Deportivo",
-     "titulo": "Cifras redondas para Vinicius y Tchouaméni",
-     "url": "https://www.mundodeportivo.com/futbol/real-madrid/20261011/1004237374/cifras-redondas-vinicius-tchouameni.html",
-     "pub": ""
-    },
-    {
-     "medio": "L'Equipe",
-     "titulo": "« Ridicule », « un geste violent »... Vinicius unanimement condamné par les médias espagnols au lendemain de son expulsion",
-     "url": "https://www.lequipe.fr/Football/Actualites/-ridicule-un-geste-violent-vinicius-unanimement-condamne-par-les-medias-espagnols-au-lendemain-de-son-expulsion/1724917#at_medium=RSS_feeds",
-     "pub": "2026-10-11T09:21+00:00"
-    },
-    {
-     "medio": "Foot Mercato",
-     "titulo": "Real Madrid : l’entourage de Vinicius Jr réagit à son expulsion polémique",
-     "url": "https://www.footmercato.net/a3971435971801351262-real-madrid-lentourage-de-vinicius-jr-reagit-a-son-expulsion-polemique",
-     "pub": "2026-10-11T10:05+00:00"
-    },
-    {
-     "medio": "Foot Mercato",
-     "titulo": "Yan Diomandé profite des déboires de Vinicius Jr, la presse allemande cartonne Neuer après sa boulette historique",
-     "url": "https://www.footmercato.net/a3575618506492248561-yan-diomande-profite-des-deboires-de-vinicius-jr-la-presse-allemande-cartonne-neuer-apres-sa-boulette-historique",
-     "pub": "2026-10-11T09:04+00:00"
-    },
-    {
-     "medio": "Foot Mercato",
-     "titulo": "«Un véritable fiasco» : la presse madrilène vole au secours de Vinicius Júnior après son pétage de câble",
-     "url": "https://www.footmercato.net/a2984014693036282798-un-veritable-fiasco-la-presse-madrilene-vole-au-secours-de-vinicius-junior-apres-son-petage-de-cable",
-     "pub": "2026-10-11T07:15+00:00"
-    },
-    {
-     "medio": "Foot Mercato",
-     "titulo": "Vinicius Jr et l’influenceuse Virginia Fonseca se séparent",
-     "url": "https://www.footmercato.net/a5896446103485072680-vinicius-jr-et-linfluenceuse-virginia-fonseca-se-separent",
-     "pub": "2026-10-11T18:13+00:00"
-    },
-    {
-     "medio": "Google News ES",
-     "titulo": "Vídeo | Cucurella y su reacción tras la expulsión de Vinicius que captaron las cámaras de DAZN",
-     "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQMVlGeldJUDVEUUd6X0laRUluVm1YTGJNYVZLYW5VNWwtVVdHZElVTk8tZ2JzU2FMMW5WXzRlZk1KZ1BMYWp4WGVWUjJSeHdPc2ZySm5Vdmo1SnZyYk5fTGFmN1QteU9PVVc0Y0owQU1yTkhfbG5hTTZLYVV4WVVKekZhMjJpdkpNNnJicGEwRHRFQjkwTzYwa3JFRDNOVklRd0llMkpTNnJuSmpTQVFyUEtrckJaRFlSYVplVUNqYmhCVkZ4Zk9QSlZpUW9yZnVmUjRxWkk0bw?oc=5",
-     "pub": "2026-10-11T20:17+00:00"
-    },
-    {
-     "medio": "AS",
-     "titulo": "La ‘carambola’ que podría ayudar a Vinicius para el Clásico",
-     "url": "https://as.com/futbol/videos/la-carambola-que-podria-ayudar-a-vinicius-para-a-en-el-clasico-f202610-v/",
-     "pub": "2026-10-12T06:47+00:00"
-    },
-    {
-     "medio": "Mundo Deportivo",
-     "titulo": "Alimentar a Vinicius",
-     "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261012/1004237493/alimentar-vinicius.html",
-     "pub": ""
-    },
-    {
-     "medio": "Mundo Deportivo",
-     "titulo": "Cucurella advirtió al árbitro tras la roja de Vinicius: \"Espero que si me tocan un pelo le saquéis la roja\"",
-     "url": "https://www.mundodeportivo.com/futbol/real-madrid/20261011/1004237588/cucurella-advirtio-arbitro-roja-vinicius-espero-me-tocan-pelo-le-saqueis-roja.html",
-     "pub": ""
     }
    ]
   },
@@ -2477,6 +2308,12 @@
      "titulo": "Las perlitas del triunfo del Manchester City ante el Liverpool: del chispazo entre Enzo Fernández y Mac Allister al golazo de Cherki",
      "url": "https://www.infobae.com/deportes/2026/10/11/las-perlitas-del-triunfo-del-manchester-city-ante-el-liverpool-del-chispazo-entre-enzo-fernandez-y-mac-allister-al-golazo-de-cherki/",
      "pub": "2026-10-11T19:46+00:00"
+    },
+    {
+     "medio": "L'Equipe",
+     "titulo": "Les retours de gagnants de Diaby et Nkunku, le bijou de Cherki",
+     "url": "https://www.lequipe.fr/Football/Article/L-equipe-type-des-francais-du-week-end-les-retours-gagnants-de-moussa-diaby-et-christopher-nkunku-la-trajectoire-folle-de-laurent-mendy/1725090#at_medium=RSS_feeds",
+     "pub": "2026-10-12T06:39+00:00"
     }
    ]
   },
@@ -2623,6 +2460,168 @@
      "titulo": "Andoni Iraola masterminding move for €500m Spain midfielder",
      "url": "https://sports.yahoo.com/articles/andoni-iraola-masterminding-move-500m-211000031.html",
      "pub": "2026-10-11T21:10+00:00"
+    },
+    {
+     "medio": "Yahoo",
+     "titulo": "Andoni Iraola claims Liverpool played two different games against rivals",
+     "url": "https://sports.yahoo.com/articles/andoni-iraola-claims-liverpool-played-065000040.html",
+     "pub": "2026-10-12T06:50+00:00"
+    }
+   ]
+  },
+  {
+   "tema": "Nottingham",
+   "medios": 6,
+   "lista_medios": [
+    "Daily Mail",
+    "FourFourTwo",
+    "Google News EN",
+    "Guardian",
+    "L'Equipe",
+    "Mundo Deportivo"
+   ],
+   "primera_vez": "2026-10-11T16:00+00:00",
+   "titulares": [
+    {
+     "medio": "Guardian",
+     "titulo": "Pino finishes off Nottingham Forest on Glasner’s unhappy Crystal Palace return",
+     "url": "https://www.theguardian.com/football/2026/oct/11/crystal-palace-nottingham-forest-premier-league-match-report",
+     "pub": "2026-10-11T15:28+00:00"
+    },
+    {
+     "medio": "Daily Mail",
+     "titulo": "Crystal Palace 3-1 Nottingham Forest: Oliver Glasner brutally mocked on nightmare return with Pierre Sage's side gifted first win of the season as £50m man Liam Delap lacks clinical touch",
+     "url": "https://www.dailymail.com/sport/football/article-16195581/crystal-palace-nottingham-forest-glasner-selhurst.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+     "pub": "2026-10-11T15:52+00:00"
+    },
+    {
+     "medio": "FourFourTwo",
+     "titulo": "How to watch Crystal Palace vs Nottingham Forest for FREE",
+     "url": "https://www.fourfourtwo.com/competition/watch-crystal-palace-vs-nottingham-forest-free",
+     "pub": "2026-10-11T10:00+00:00"
+    },
+    {
+     "medio": "Google News EN",
+     "titulo": "Premier League - Crystal Palace 3-1 Nottingham Forest - Oliver Glasner post match interview",
+     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE0tNFpwRzYtTWdXNTJmYVNZTFdNOEJSZnVCRDZqeG1Va2gtY1ltR3gzbElGTW4xbzVZbTRfczl4N2pJTHhtemFYZVlQT3lQdFdPay0wS0NKd29mc3BLSmlDdWdjaWRuRXB4?oc=5",
+     "pub": "2026-10-11T15:54+00:00"
+    },
+    {
+     "medio": "Mundo Deportivo",
+     "titulo": "Crystal Palace - Nottingham Forest, en directo | Premier League",
+     "url": "https://www.mundodeportivo.com/futbol/premier-league/20261011/1004235391/crystal-palace-nottingham-forest-directo-premier-league.html",
+     "pub": ""
+    },
+    {
+     "medio": "L'Equipe",
+     "titulo": "L'incroyable parade du gardien Walter Benitez contre Nottingham Forest en Premier League",
+     "url": "https://www.lequipe.fr/Football/Actualites/L-incroyable-parade-du-gardien-walter-benitez-contre-nottingham-forest-en-premier-league/1724953#at_medium=RSS_feeds",
+     "pub": "2026-10-11T14:24+00:00"
+    },
+    {
+     "medio": "L'Equipe",
+     "titulo": "Mené au score face à Nottingham Forest, Crystal Palace s'en sort bien et offre un répit à Pierre Sage",
+     "url": "https://www.lequipe.fr/Football/Actualites/Mene-au-score-face-a-nottingham-forest-crystal-palace-s-en-sort-bien-et-offre-un-repit-a-pierre-sage/1724985#at_medium=RSS_feeds",
+     "pub": "2026-10-11T15:34+00:00"
+    },
+    {
+     "medio": "Google News EN",
+     "titulo": "Crystal Palace 3-1 Nottingham Forest | Premier League highlights",
+     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPME5kcGd5RjJ1VWYwdDRlU0twc3Q5eWpjNHMxbkhlYVJNRkNDVlROYmRSaW4wS2ZNZGg5YUpBalVWQTNpOFBsby1aWmEwa08zNnV0NlBqZy1WaGJ1UXRyNnI4aVJIZHlwYnFfdENGNnh4TDJ1VU10LUY1NFpHM2VPV1dXQmFodElTOFdUYy1uZHNTY2V5eHhwQ0tBNzBVZHZKMHB5RW8wU1Ftb3VESmFsOHNR?oc=5",
+     "pub": "2026-10-11T15:15+00:00"
+    },
+    {
+     "medio": "Google News EN",
+     "titulo": "Premier League: Crystal Palace 3-1 Nottingham Forest - Pierre Sage post-match interview",
+     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9SX2tSeDRZbGZVaTNCRUVLc3c2Q3M2c1A2a3E1T0J0ZnRYaFIwNDFna1lRZ250VjVYU2xxbzlDSnJIXzlkeGEyUWFqdElDT09iR290ZTd0NzZ0OTYzN2hPdGV6R0pkaHM3?oc=5",
+     "pub": "2026-10-11T16:05+00:00"
+    },
+    {
+     "medio": "Google News EN",
+     "titulo": "Crystal Palace 3-1 Nottingham Forest: Oliver Glasner's Selhurst Park return ends in defeat as Eagles complete remarkable comeback",
+     "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPUVlKWHhYeWU2eTVPa09za2R5RUpib0IyWW9kWnhuV1Y5SVR4aGpZdVJabVM0WUp3OUo3bTZyVmZnYnZjbUdTZWM0S3F5dWdaVlRjM2lxOEM2YkhHR0RSZzgzV1hiaXlSYjlvdTlvTnJ6ajFGeDNvWWZMMlY1X3JFaE1ma0lVMzZQWVhiYVVOQXViNnI1ODVNZXBsT2s2N2puRVcyN1RjaVFiQ0doTy1rcnpSNjRqcUl5bGs3Ny1rLUFNcFB0anVOVmI4cVEwTlRNZWZ6Y3JmVEFMZUFPYS0xWFdpcV8zaVF2Q19nc2hDLXl5QnFqQUVMVk5yUXJBUjVpU2JQUWNtTQ?oc=5",
+     "pub": "2026-10-11T15:23+00:00"
+    },
+    {
+     "medio": "Google News EN",
+     "titulo": "Premier League: Crystal Palace 3-1 Nottingham Forest - Adam Wharton post match interview",
+     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5kNUN2QV8xbmlHUDBicEVnNGtaanNHRllWbklxQW9BOVFqcVRnNGRNeHFvMnNtaUdCMU1hVXVyTWZqNEhKNUtYRThvVEs4WnhpeTVYck1ReU9yT29ndEw1V0ZIM0owNlVH?oc=5",
+     "pub": "2026-10-11T16:46+00:00"
+    }
+   ]
+  },
+  {
+   "tema": "Celtic",
+   "medios": 6,
+   "lista_medios": [
+    "BBC",
+    "Daily Mail",
+    "Google News EN",
+    "Guardian",
+    "Sky Sports",
+    "Yahoo"
+   ],
+   "primera_vez": "2026-10-11T16:00+00:00",
+   "titulares": [
+    {
+     "medio": "Guardian",
+     "titulo": "Scottish Premiership: Celtic end losing skid and take top spot back from Rangers",
+     "url": "https://www.theguardian.com/football/2026/oct/10/scottish-premiership-rangers-hearts-celtic",
+     "pub": "2026-10-11T13:16+00:00"
+    },
+    {
+     "medio": "Daily Mail",
+     "titulo": "Motherwell 0 Celtic 2: Civil war is put on the back burner as Bhoys rediscover their identity in dominant victory",
+     "url": "https://www.dailymail.com/sport/football/article-16200463/Celtic-Motherwell-Duran-Nygren.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+     "pub": "2026-10-11T14:14+00:00"
+    },
+    {
+     "medio": "Yahoo",
+     "titulo": "Celtic Return To Summit With Convincing Fir Park Victory As Jota Makes Emotional Return",
+     "url": "https://sports.yahoo.com/articles/celtic-return-summit-convincing-fir-142000788.html",
+     "pub": "2026-10-11T14:20+00:00"
+    },
+    {
+     "medio": "Google News EN",
+     "titulo": "Motherwell 0-2 Celtic commentary & highlights",
+     "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNbUhza3RzMHVtRkZoeWgtRU1tbXZnRUlNemU3alk2VlFCWU5vTmlRRjZYN09OZ2JZdnFFWnA5dVVqVW9ET2NhWmhrTjVyZDFqeUQteFp6OWVvWXdKdTNINWVqQy1udy1qOU44a2dxRi10aTFOMXF6NTMzNWFObnVTNi1LaHowbFFHUWRHYTJBSFB0UUVacHdFcjBSM0tKdHVxcVMyZVFReDQ4MzI4OU4xaHF5Q05acjFZSWJBN2hIYkQ5ZFJsZWJjTHlqb05TbUFhcVhNbFhTT3M5MTBlNFhMQnNiQ1NXZ2pPVkpMaUYyV1NHS2VvclEwVA?oc=5",
+     "pub": "2026-10-11T13:08+00:00"
+    },
+    {
+     "medio": "Google News EN",
+     "titulo": "Motherwell 0-2 Celtic: Hoops secure first win in four games to ease pressure on Martin O'Neill and go top in Scottish Premiership",
+     "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNUGRqSzRZUVJxdUN2UnR2NnNwVm9oUldudEQxUmItbmt0bjNKVW9rTDRwWmNQWnhqbW04RjVkMGs0VERhZVhjemlqc2hpVlQ0enp1c19ybnpyNGt0YVpaZ1VQRkZySDNXOGFvZWdjS3hpaVNtaXVFMkhoMWpDa3VQRDR3RWFtOS00Y1FBalo0WEUxYjdLMlZhZjNkMENabF9UTGcwc0szcjg2dW4zUFoyQ1VWam1aUS1qLTlGbU9oQU5TZzdjNWtCclZTZUZhSzhjMDFGa0JENS1DWGhITW04NWNVcjZUS19rWUV1OFdGMFFmRy1iSjZwNzVtVUhrcVIzcDZXVTZtRQ?oc=5",
+     "pub": "2026-10-11T14:26+00:00"
+    },
+    {
+     "medio": "BBC",
+     "titulo": "Jota comeback helps Celtic lift gloom in strong response",
+     "url": "https://www.bbc.co.uk/sport/football/articles/cqwy7nr5lry0o?at_medium=RSS&at_campaign=rss",
+     "pub": "2026-10-11T16:55+00:00"
+    },
+    {
+     "medio": "Yahoo",
+     "titulo": "Duran Gets 8.5, Baur With 8 | Celtic Players Rated In Their Win Against Motherwell",
+     "url": "https://sports.yahoo.com/articles/duran-gets-8-5-baur-163500469.html",
+     "pub": "2026-10-11T16:35+00:00"
+    },
+    {
+     "medio": "Daily Mail",
+     "titulo": "Martin O'Neill motors to 250th victory as Celtic manager after team bus breaks down",
+     "url": "https://www.dailymail.com/sport/football/article-16200547/Martin-ONeill-motors-250th-victory-Celtic-manager-team-bus-breaks-down.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+     "pub": "2026-10-11T18:32+00:00"
+    },
+    {
+     "medio": "Sky Sports",
+     "titulo": "Motherwell 0-2 Celtic",
+     "url": "https://www.skysports.com/watch/video/13597820/motherwell-0-2-celtic-scottish-premiership-highlights",
+     "pub": "2026-10-11T20:00+00:00"
+    },
+    {
+     "medio": "Yahoo",
+     "titulo": "Moyes may offer Celtic solution next summer - gossip",
+     "url": "https://sports.yahoo.com/articles/moyes-may-offer-celtic-solution-073321819.html",
+     "pub": "2026-10-12T07:33+00:00"
     }
    ]
   }
