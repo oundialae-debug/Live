@@ -1,5 +1,5 @@
 {
- "generado": "2026-10-12T08:52+00:00",
+ "generado": "2026-10-12T09:52+00:00",
  "temas": [
   {
    "tema": "Liverpool",
@@ -295,99 +295,6 @@
    ]
   },
   {
-   "tema": "Madrid",
-   "medios": 12,
-   "lista_medios": [
-    "AS",
-    "Foot Mercato",
-    "Google News EN",
-    "Google News ES",
-    "Infobae",
-    "Kicker",
-    "L'Equipe",
-    "Mundo Deportivo",
-    "Record",
-    "Yahoo",
-    "ge.globo",
-    "talkSPORT"
-   ],
-   "primera_vez": "2026-10-11T16:00+00:00",
-   "titulares": [
-    {
-     "medio": "talkSPORT",
-     "titulo": "Vini Jr held back by Real Madrid teammates as superstar explodes at referee after being sent off",
-     "url": "https://talksport.com/football/4636641/vinicius-jr-real-madrid-red-card-villarreal/",
-     "pub": "2026-10-10T21:18+00:00"
-    },
-    {
-     "medio": "Yahoo",
-     "titulo": "Real Madrid midfielder attracted strong summer interest from multiple Premier League clubs &#8211; Romano",
-     "url": "https://sports.yahoo.com/articles/real-madrid-midfielder-attracted-strong-151200686.html",
-     "pub": "2026-10-11T15:12+00:00"
-    },
-    {
-     "medio": "AS",
-     "titulo": "Aviso de la Roma al Madrid",
-     "url": "https://as.com/futbol/internacional/indestructible-roma-f202610-n/",
-     "pub": "2026-10-11T12:42+00:00"
-    },
-    {
-     "medio": "AS",
-     "titulo": "Real Madrid 1-0 Villarreal: resumen, gol y resultado",
-     "url": "https://as.com/futbol/primera/real-madrid-villarreal-hoy-en-directo-ultima-hora-de-la-laliga-ea-sports-en-el-santiago-bernabeu-en-vivo-f202610-d-2/",
-     "pub": "2026-10-11T08:07+00:00"
-    },
-    {
-     "medio": "Mundo Deportivo",
-     "titulo": "Real Madrid TV aumenta sus críticas a los árbitros",
-     "url": "https://www.mundodeportivo.com/futbol/real-madrid/20261011/1004237395/real-madrid-tv-aumenta-criticas-arbitros.html",
-     "pub": ""
-    },
-    {
-     "medio": "Mundo Deportivo",
-     "titulo": "Real Madrid - Villarreal: las fotos del duelo en el Bernabéu",
-     "url": "https://www.mundodeportivo.com/futbol/laliga/20261011/1004237397/real-madrid-villarreal-fotos-duelo-bernabeu.html",
-     "pub": ""
-    },
-    {
-     "medio": "Mundo Deportivo",
-     "titulo": "El Real Madrid ganó al Villarreal entre quejas arbitrales y poco fútbol",
-     "url": "https://www.mundodeportivo.com/futbol/real-madrid/20261011/1004237360/real-madrid-gano-villarreal-quejas-arbitrales-poco-futbol.html",
-     "pub": ""
-    },
-    {
-     "medio": "Google News ES",
-     "titulo": "El Real Madrid, muchas urgencias y poco fútbol",
-     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOVW90VHNic2pjaV9ERWhrMk0ySW52clhoN3ppOVlJSHFVNVNrb1ZoN210VlZxX0NJeEFWWDY5T2UwVGFtWmRnMjhfVjM2WFpIMDlGR3BISGYxdC1SS3NZdXZGNFJBRzFjRlpwczNJLXpJLTVwd0J1WlZiSmdJa2pDTFdKSThFN2xLQWtvVWRZTjdDWlEzRUxrY0wwbkljbHlKQ1llZFFtcWlHMHlMek52WFRZOGN2Z9IBwwFBVV95cUxNN254VFlZRkpvNUJ4TWhVS25SNVpJSlNpVGRVQWZHak1sbnVkNjFya0hDOG9FMmJKWE1tQVZ3cE1GWHBCeXBCWXVsaFpoZEY1SDlUbXV4SWhmUTV2MFRIdEhod1Uyc1NKTEhVQmc5NS1tNWczSmtBWDdOSC1abWhQVkpLRV9meTlQM0ZFaVUxUm9rOUtDYzVVS2VuZk40UldJVUxnTGpfY0IzR0JBc0ZJZUlQLXBSXzF3eDR0aUVkTnZTT28?oc=5",
-     "pub": "2026-10-11T10:52+00:00"
-    },
-    {
-     "medio": "Foot Mercato",
-     "titulo": "Real Madrid : l’entourage de Vinicius Jr réagit à son expulsion polémique",
-     "url": "https://www.footmercato.net/a3971435971801351262-real-madrid-lentourage-de-vinicius-jr-reagit-a-son-expulsion-polemique",
-     "pub": "2026-10-11T10:05+00:00"
-    },
-    {
-     "medio": "ge.globo",
-     "titulo": "Vini Jr. deve ficar fora de Barcelona x Real Madrid após expulsão por puxão de cabelo",
-     "url": "https://ge.globo.com/futebol/futebol-internacional/noticia/2026/10/11/vini-jr-deve-ficar-fora-de-barcelona-x-real-madrid-apos-expulsao-por-puxao-de-cabelo.ghtml",
-     "pub": "2026-10-11T14:04+00:00"
-    },
-    {
-     "medio": "ge.globo",
-     "titulo": "TV do Real Madrid sobe tom após expulsão de Vini Jr. e nove cartões: \"Se Yamal faz isso, o gol não volta\"",
-     "url": "https://ge.globo.com/futebol/futebol-internacional/noticia/2026/10/11/real-madrid-sobe-tom-apos-expulsao-de-vini-jr-e-nove-cartoes-se-yamal-faz-isso-o-gol-nao-volta.ghtml",
-     "pub": "2026-10-11T11:11+00:00"
-    },
-    {
-     "medio": "ge.globo",
-     "titulo": "Real Madrid sofre, mas vence Villarreal em jogo com gol anulado e expulsão de Vini Jr.",
-     "url": "https://ge.globo.com/futebol/futebol-internacional/futebol-espanhol/jogo/10-10-2026/realmadrid-Villarreal.ghtml",
-     "pub": "2026-10-11T00:34+00:00"
-    }
-   ]
-  },
-  {
    "tema": "Anfield",
    "medios": 12,
    "lista_medios": [
@@ -477,99 +384,6 @@
      "titulo": "Cherki cracker caps Manchester City win at Liverpool in face of Anfield taunts",
      "url": "https://www.theguardian.com/football/2026/oct/11/liverpool-manchester-city-premier-league-match-report",
      "pub": "2026-10-11T17:42+00:00"
-    }
-   ]
-  },
-  {
-   "tema": "Seedorf",
-   "medios": 12,
-   "lista_medios": [
-    "AS",
-    "BBC",
-    "Foot Mercato",
-    "Google News AR",
-    "Google News EN",
-    "Kicker",
-    "L'Equipe",
-    "Mundo Deportivo",
-    "Planet Football",
-    "Record",
-    "Yahoo",
-    "ge.globo"
-   ],
-   "primera_vez": "2026-10-11T16:00+00:00",
-   "titulares": [
-    {
-     "medio": "Yahoo",
-     "titulo": "Corinthians signing Seedorf shocks social media; see the reactions 🤣",
-     "url": "https://sports.yahoo.com/articles/corinthians-signing-seedorf-shocks-social-143300478.html",
-     "pub": "2026-10-11T14:33+00:00"
-    },
-    {
-     "medio": "AS",
-     "titulo": "Oficial: Seedorf, a Corinthians",
-     "url": "https://as.com/futbol/internacional/oficial-seedorf-a-corinthians-f202610-n/",
-     "pub": "2026-10-11T14:33+00:00"
-    },
-    {
-     "medio": "Foot Mercato",
-     "titulo": "Clarence Seedorf nouvel entraîneur des Corinthians",
-     "url": "https://www.footmercato.net/a7448500962750134282-clarence-seedorf-nouvel-entraineur-des-corinthians",
-     "pub": "2026-10-11T14:36+00:00"
-    },
-    {
-     "medio": "Record",
-     "titulo": "<![CDATA[ Seedorf é o eleito do Corinthians para tentar fugir da descida ]]>",
-     "url": "https://www.record.pt/internacional/paises/brasil/detalhe/seedorf-e-o-eleito-do-corinthians-para-tentar-fugir-da-descida",
-     "pub": "2026-10-11T15:32+00:00"
-    },
-    {
-     "medio": "ge.globo",
-     "titulo": "Contrato de Seedorf com o Corinthians prevê rescisão em caso de rebaixamento à Série B",
-     "url": "https://ge.globo.com/futebol/times/corinthians/noticia/2026/10/11/contrato-de-seedorf-com-o-corinthians-preve-rescisao-em-caso-de-rebaixamento-a-serie-b.ghtml",
-     "pub": "2026-10-11T15:37+00:00"
-    },
-    {
-     "medio": "ge.globo",
-     "titulo": "Empresários detalham indicação de Seedorf a Marcelo Paz e explicam acerto com o Corinthians",
-     "url": "https://ge.globo.com/futebol/times/corinthians/noticia/2026/10/11/empresarios-detalham-indicacao-de-seedorf-a-marcelo-paz-e-explicam-acerto-com-o-corinthians.ghtml",
-     "pub": "2026-10-11T14:49+00:00"
-    },
-    {
-     "medio": "ge.globo",
-     "titulo": "Corinthians contrata Seedorf como novo técnico",
-     "url": "https://ge.globo.com/futebol/times/corinthians/noticia/2026/10/11/corinthians-contrata-seedorf-como-novo-tecnico.ghtml",
-     "pub": "2026-10-11T14:05+00:00"
-    },
-    {
-     "medio": "Mundo Deportivo",
-     "titulo": "Seedorf encuentra equipo",
-     "url": "https://www.mundodeportivo.com/futbol/fichajes/oficial/20261011/1004237453/seedorf-encuentra-equipo.html",
-     "pub": ""
-    },
-    {
-     "medio": "L'Equipe",
-     "titulo": "Clarence Seedorf devient l'entraîneur du Corinthians et s'engage jusqu'à fin 2027 avec le club brésilien",
-     "url": "https://www.lequipe.fr/Football/Actualites/Clarence-seedorf-devient-l-entraineur-du-corinthians-et-s-engage-jusqu-a-fin-2027-avec-le-club-bresilien/1724987#at_medium=RSS_feeds",
-     "pub": "2026-10-11T15:45+00:00"
-    },
-    {
-     "medio": "Google News AR",
-     "titulo": "Clarence Seedorf vuelve al fútbol brasileño: es el nuevo entrenador de Corinthians",
-     "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQcG8yeHc0RVQ3VzZpTlZYYnRjd3k5NHc2RXpOaEZmX2kwZ2lEMGZIVEhFemJydG9kamJuTllHbTM4Y2xOQWd0Vmw1MUllbEpsNl9zRHByV2ZsVTNVWlRSSmFfaGpYZE1QSlRURVB0cXF0VXUzZFkwWWxXN25ObWs5anNPeHJnaGFZMi1XSVlRVXR4ZHozVWRwVktqcnRIOExNWkxMUTZONEN2S0thN0xhT0Y1YkNGRElaVk84blpXakh2SlpuLWZ1cDd4d0R5VFM0YTV2UjJRYk5pVUoxMmVSX0Rn?oc=5",
-     "pub": "2026-10-11T16:39+00:00"
-    },
-    {
-     "medio": "ge.globo",
-     "titulo": "Seedorf pede apoio da torcida do Corinthians e promete \"fazer o melhor\"",
-     "url": "https://ge.globo.com/futebol/times/corinthians/noticia/2026/10/11/seedorf-pede-apoio-da-torcida-do-corinthians-e-promete-fazer-o-melhor.ghtml",
-     "pub": "2026-10-11T17:04+00:00"
-    },
-    {
-     "medio": "ge.globo",
-     "titulo": "Marcelo Paz explica escolha por Seedorf e quer Corinthians pragmático: \"Ganhar de 1 a 0\"",
-     "url": "https://ge.globo.com/futebol/times/corinthians/noticia/2026/10/11/marcelo-paz-explica-escolha-por-seedorf-e-quer-corinthians-pragmatico-ganhar-de-1-a-0.ghtml",
-     "pub": "2026-10-11T20:12+00:00"
     }
    ]
   },
@@ -667,6 +481,99 @@
    ]
   },
   {
+   "tema": "Seedorf",
+   "medios": 12,
+   "lista_medios": [
+    "AS",
+    "BBC",
+    "Foot Mercato",
+    "Google News AR",
+    "Google News EN",
+    "Kicker",
+    "L'Equipe",
+    "Mundo Deportivo",
+    "Planet Football",
+    "Record",
+    "Yahoo",
+    "ge.globo"
+   ],
+   "primera_vez": "2026-10-11T16:00+00:00",
+   "titulares": [
+    {
+     "medio": "Yahoo",
+     "titulo": "Corinthians signing Seedorf shocks social media; see the reactions 🤣",
+     "url": "https://sports.yahoo.com/articles/corinthians-signing-seedorf-shocks-social-143300478.html",
+     "pub": "2026-10-11T14:33+00:00"
+    },
+    {
+     "medio": "AS",
+     "titulo": "Oficial: Seedorf, a Corinthians",
+     "url": "https://as.com/futbol/internacional/oficial-seedorf-a-corinthians-f202610-n/",
+     "pub": "2026-10-11T14:33+00:00"
+    },
+    {
+     "medio": "Foot Mercato",
+     "titulo": "Clarence Seedorf nouvel entraîneur des Corinthians",
+     "url": "https://www.footmercato.net/a7448500962750134282-clarence-seedorf-nouvel-entraineur-des-corinthians",
+     "pub": "2026-10-11T14:36+00:00"
+    },
+    {
+     "medio": "Record",
+     "titulo": "<![CDATA[ Seedorf é o eleito do Corinthians para tentar fugir da descida ]]>",
+     "url": "https://www.record.pt/internacional/paises/brasil/detalhe/seedorf-e-o-eleito-do-corinthians-para-tentar-fugir-da-descida",
+     "pub": "2026-10-11T15:32+00:00"
+    },
+    {
+     "medio": "ge.globo",
+     "titulo": "Contrato de Seedorf com o Corinthians prevê rescisão em caso de rebaixamento à Série B",
+     "url": "https://ge.globo.com/futebol/times/corinthians/noticia/2026/10/11/contrato-de-seedorf-com-o-corinthians-preve-rescisao-em-caso-de-rebaixamento-a-serie-b.ghtml",
+     "pub": "2026-10-11T15:37+00:00"
+    },
+    {
+     "medio": "ge.globo",
+     "titulo": "Empresários detalham indicação de Seedorf a Marcelo Paz e explicam acerto com o Corinthians",
+     "url": "https://ge.globo.com/futebol/times/corinthians/noticia/2026/10/11/empresarios-detalham-indicacao-de-seedorf-a-marcelo-paz-e-explicam-acerto-com-o-corinthians.ghtml",
+     "pub": "2026-10-11T14:49+00:00"
+    },
+    {
+     "medio": "ge.globo",
+     "titulo": "Corinthians contrata Seedorf como novo técnico",
+     "url": "https://ge.globo.com/futebol/times/corinthians/noticia/2026/10/11/corinthians-contrata-seedorf-como-novo-tecnico.ghtml",
+     "pub": "2026-10-11T14:05+00:00"
+    },
+    {
+     "medio": "Mundo Deportivo",
+     "titulo": "Seedorf encuentra equipo",
+     "url": "https://www.mundodeportivo.com/futbol/fichajes/oficial/20261011/1004237453/seedorf-encuentra-equipo.html",
+     "pub": ""
+    },
+    {
+     "medio": "L'Equipe",
+     "titulo": "Clarence Seedorf devient l'entraîneur du Corinthians et s'engage jusqu'à fin 2027 avec le club brésilien",
+     "url": "https://www.lequipe.fr/Football/Actualites/Clarence-seedorf-devient-l-entraineur-du-corinthians-et-s-engage-jusqu-a-fin-2027-avec-le-club-bresilien/1724987#at_medium=RSS_feeds",
+     "pub": "2026-10-11T15:45+00:00"
+    },
+    {
+     "medio": "Google News AR",
+     "titulo": "Clarence Seedorf vuelve al fútbol brasileño: es el nuevo entrenador de Corinthians",
+     "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQcG8yeHc0RVQ3VzZpTlZYYnRjd3k5NHc2RXpOaEZmX2kwZ2lEMGZIVEhFemJydG9kamJuTllHbTM4Y2xOQWd0Vmw1MUllbEpsNl9zRHByV2ZsVTNVWlRSSmFfaGpYZE1QSlRURVB0cXF0VXUzZFkwWWxXN25ObWs5anNPeHJnaGFZMi1XSVlRVXR4ZHozVWRwVktqcnRIOExNWkxMUTZONEN2S0thN0xhT0Y1YkNGRElaVk84blpXakh2SlpuLWZ1cDd4d0R5VFM0YTV2UjJRYk5pVUoxMmVSX0Rn?oc=5",
+     "pub": "2026-10-11T16:39+00:00"
+    },
+    {
+     "medio": "ge.globo",
+     "titulo": "Seedorf pede apoio da torcida do Corinthians e promete \"fazer o melhor\"",
+     "url": "https://ge.globo.com/futebol/times/corinthians/noticia/2026/10/11/seedorf-pede-apoio-da-torcida-do-corinthians-e-promete-fazer-o-melhor.ghtml",
+     "pub": "2026-10-11T17:04+00:00"
+    },
+    {
+     "medio": "ge.globo",
+     "titulo": "Marcelo Paz explica escolha por Seedorf e quer Corinthians pragmático: \"Ganhar de 1 a 0\"",
+     "url": "https://ge.globo.com/futebol/times/corinthians/noticia/2026/10/11/marcelo-paz-explica-escolha-por-seedorf-e-quer-corinthians-pragmatico-ganhar-de-1-a-0.ghtml",
+     "pub": "2026-10-11T20:12+00:00"
+    }
+   ]
+  },
+  {
    "tema": "Man",
    "medios": 11,
    "lista_medios": [
@@ -755,6 +662,98 @@
      "titulo": "Liverpool vs Man City LIVE: Tempers high as hostile Anfield taunts City players after 115 charges verdict",
      "url": "https://www.mirror.co.uk/sport/football/news/liverpool-man-city-live-score-37759400",
      "pub": "2026-10-11T15:56+00:00"
+    }
+   ]
+  },
+  {
+   "tema": "Madrid",
+   "medios": 11,
+   "lista_medios": [
+    "AS",
+    "Foot Mercato",
+    "Google News EN",
+    "Google News ES",
+    "Infobae",
+    "Kicker",
+    "L'Equipe",
+    "Mundo Deportivo",
+    "Record",
+    "Yahoo",
+    "ge.globo"
+   ],
+   "primera_vez": "2026-10-11T16:00+00:00",
+   "titulares": [
+    {
+     "medio": "Yahoo",
+     "titulo": "Real Madrid midfielder attracted strong summer interest from multiple Premier League clubs &#8211; Romano",
+     "url": "https://sports.yahoo.com/articles/real-madrid-midfielder-attracted-strong-151200686.html",
+     "pub": "2026-10-11T15:12+00:00"
+    },
+    {
+     "medio": "AS",
+     "titulo": "Aviso de la Roma al Madrid",
+     "url": "https://as.com/futbol/internacional/indestructible-roma-f202610-n/",
+     "pub": "2026-10-11T12:42+00:00"
+    },
+    {
+     "medio": "AS",
+     "titulo": "Real Madrid 1-0 Villarreal: resumen, gol y resultado",
+     "url": "https://as.com/futbol/primera/real-madrid-villarreal-hoy-en-directo-ultima-hora-de-la-laliga-ea-sports-en-el-santiago-bernabeu-en-vivo-f202610-d-2/",
+     "pub": "2026-10-11T08:07+00:00"
+    },
+    {
+     "medio": "Mundo Deportivo",
+     "titulo": "Real Madrid TV aumenta sus críticas a los árbitros",
+     "url": "https://www.mundodeportivo.com/futbol/real-madrid/20261011/1004237395/real-madrid-tv-aumenta-criticas-arbitros.html",
+     "pub": ""
+    },
+    {
+     "medio": "Mundo Deportivo",
+     "titulo": "Real Madrid - Villarreal: las fotos del duelo en el Bernabéu",
+     "url": "https://www.mundodeportivo.com/futbol/laliga/20261011/1004237397/real-madrid-villarreal-fotos-duelo-bernabeu.html",
+     "pub": ""
+    },
+    {
+     "medio": "Mundo Deportivo",
+     "titulo": "El Real Madrid ganó al Villarreal entre quejas arbitrales y poco fútbol",
+     "url": "https://www.mundodeportivo.com/futbol/real-madrid/20261011/1004237360/real-madrid-gano-villarreal-quejas-arbitrales-poco-futbol.html",
+     "pub": ""
+    },
+    {
+     "medio": "Google News ES",
+     "titulo": "El Real Madrid, muchas urgencias y poco fútbol",
+     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOVW90VHNic2pjaV9ERWhrMk0ySW52clhoN3ppOVlJSHFVNVNrb1ZoN210VlZxX0NJeEFWWDY5T2UwVGFtWmRnMjhfVjM2WFpIMDlGR3BISGYxdC1SS3NZdXZGNFJBRzFjRlpwczNJLXpJLTVwd0J1WlZiSmdJa2pDTFdKSThFN2xLQWtvVWRZTjdDWlEzRUxrY0wwbkljbHlKQ1llZFFtcWlHMHlMek52WFRZOGN2Z9IBwwFBVV95cUxNN254VFlZRkpvNUJ4TWhVS25SNVpJSlNpVGRVQWZHak1sbnVkNjFya0hDOG9FMmJKWE1tQVZ3cE1GWHBCeXBCWXVsaFpoZEY1SDlUbXV4SWhmUTV2MFRIdEhod1Uyc1NKTEhVQmc5NS1tNWczSmtBWDdOSC1abWhQVkpLRV9meTlQM0ZFaVUxUm9rOUtDYzVVS2VuZk40UldJVUxnTGpfY0IzR0JBc0ZJZUlQLXBSXzF3eDR0aUVkTnZTT28?oc=5",
+     "pub": "2026-10-11T10:52+00:00"
+    },
+    {
+     "medio": "Foot Mercato",
+     "titulo": "Real Madrid : l’entourage de Vinicius Jr réagit à son expulsion polémique",
+     "url": "https://www.footmercato.net/a3971435971801351262-real-madrid-lentourage-de-vinicius-jr-reagit-a-son-expulsion-polemique",
+     "pub": "2026-10-11T10:05+00:00"
+    },
+    {
+     "medio": "ge.globo",
+     "titulo": "Vini Jr. deve ficar fora de Barcelona x Real Madrid após expulsão por puxão de cabelo",
+     "url": "https://ge.globo.com/futebol/futebol-internacional/noticia/2026/10/11/vini-jr-deve-ficar-fora-de-barcelona-x-real-madrid-apos-expulsao-por-puxao-de-cabelo.ghtml",
+     "pub": "2026-10-11T14:04+00:00"
+    },
+    {
+     "medio": "ge.globo",
+     "titulo": "TV do Real Madrid sobe tom após expulsão de Vini Jr. e nove cartões: \"Se Yamal faz isso, o gol não volta\"",
+     "url": "https://ge.globo.com/futebol/futebol-internacional/noticia/2026/10/11/real-madrid-sobe-tom-apos-expulsao-de-vini-jr-e-nove-cartoes-se-yamal-faz-isso-o-gol-nao-volta.ghtml",
+     "pub": "2026-10-11T11:11+00:00"
+    },
+    {
+     "medio": "ge.globo",
+     "titulo": "Real Madrid sofre, mas vence Villarreal em jogo com gol anulado e expulsão de Vini Jr.",
+     "url": "https://ge.globo.com/futebol/futebol-internacional/futebol-espanhol/jogo/10-10-2026/realmadrid-Villarreal.ghtml",
+     "pub": "2026-10-11T00:34+00:00"
+    },
+    {
+     "medio": "Mundo Deportivo",
+     "titulo": "El Real Madrid recurrirá la amarilla que vio Konaté ante el Villarreal",
+     "url": "https://www.mundodeportivo.com/futbol/real-madrid/20261011/1004237403/real-madrid-recurrira-amarilla-vio-konate-villarreal.html",
+     "pub": ""
     }
    ]
   },
@@ -1391,6 +1390,96 @@
    ]
   },
   {
+   "tema": "Cagliari",
+   "medios": 9,
+   "lista_medios": [
+    "Foot Mercato",
+    "Football Italia",
+    "Google News ES",
+    "Kicker",
+    "L'Equipe",
+    "Mundo Deportivo",
+    "Ole",
+    "Yahoo",
+    "ge.globo"
+   ],
+   "primera_vez": "2026-10-11T16:00+00:00",
+   "titulares": [
+    {
+     "medio": "Google News ES",
+     "titulo": "Cagliari vs Juventus de Serie A 2026/2027: horario y dónde ver hoy por TV y online el partido de la liga italiana a través de DAZN",
+     "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNNy1aaFdZdnhMaVlsRnppeGZzRGxYWW9DcnVTamRjXzRCem5HNlpnX2JSekZqX2t2S3ZfRE5LMW40MXhrVi1MemZra3dPLUJEbl80RzVJLW5IYzhWVExOM1NhcUp6bWRqQXpkam1FYzJxeFN0cmRMSHBiR0std1UwczBqTzJuQmxRRHpSMEdDOXVyQ08wU1d2ZTVuOE5WRXVzNDVpUlgyTTFpb09LNnBUN0Q4R2JtZS1xSG03ZXF3WV9SNnRyLWlaSU1KOGNBM3N4dkJOaGZHZHBKUjRXUVNqOTFkZDJRV3BKUGFpa3h1M21lREVLWXVSb2loZw?oc=5",
+     "pub": "2026-10-11T12:40+00:00"
+    },
+    {
+     "medio": "Football Italia",
+     "titulo": "Official: Juventus squad list for Cagliari clash as eight still unavailable",
+     "url": "https://football-italia.net/juventus-squad-list-cagliari-clash-8-out/",
+     "pub": "2026-10-11T11:11+00:00"
+    },
+    {
+     "medio": "Football Italia",
+     "titulo": "Serie A: Cagliari vs. Juventus: Confirmed line-ups",
+     "url": "https://football-italia.net/serie-a-cagliari-vs-juventus-official-line-ups/",
+     "pub": "2026-10-11T17:35+00:00"
+    },
+    {
+     "medio": "Mundo Deportivo",
+     "titulo": "Cagliari - Juventus, en directo | Serie A",
+     "url": "https://www.mundodeportivo.com/futbol/serie-a/20261011/1004235608/cagliari-juventus-directo-serie.html",
+     "pub": ""
+    },
+    {
+     "medio": "Kicker",
+     "titulo": "Cagliari - Juventus: Tor zum 1:0 durch Maldini in der 20. Minute",
+     "url": "https://www.kicker.de/cagliari-juventus-tor-zum-1-0-durch-maldini-in-der-20-minute-1260339/video#omrss",
+     "pub": "2026-10-11T19:12+00:00"
+    },
+    {
+     "medio": "Ole",
+     "titulo": "Insólito momento en Italia: una pareja festejó su casamiento en el estadio del Cagliari",
+     "url": "https://www.ole.com.ar/futbol-internacional/italia/cagliari-juventus-matrimonio-festejo-casamiento-serie-ax_0_VcWesLutVU.html",
+     "pub": "2026-10-11T19:19+00:00"
+    },
+    {
+     "medio": "Yahoo",
+     "titulo": "Serie A | Cagliari 1-1 Juventus: Kolo Muani first goal to rescue a point",
+     "url": "https://sports.yahoo.com/articles/serie-cagliari-1-1-juventus-204000299.html",
+     "pub": "2026-10-11T20:40+00:00"
+    },
+    {
+     "medio": "Kicker",
+     "titulo": "Cagliari - Juventus: Tor zum 1:1 durch Kolo Muani in der 81. Minute",
+     "url": "https://www.kicker.de/cagliari-juventus-tor-zum-1-1-durch-kolo-muani-in-der-81-minute-1260360/video#omrss",
+     "pub": "2026-10-11T20:29+00:00"
+    },
+    {
+     "medio": "Foot Mercato",
+     "titulo": "Serie A : Randal Kolo Muani sauve la Juve contre Cagliari",
+     "url": "https://www.footmercato.net/a2358596021589016777-serie-a-randal-kolo-muani-sauve-la-juve-contre-cagliari",
+     "pub": "2026-10-11T20:42+00:00"
+    },
+    {
+     "medio": "Yahoo",
+     "titulo": "Pisacane: ‘If Juventus are worried about playing us, Cagliari are on the right track’",
+     "url": "https://sports.yahoo.com/articles/pisacane-juventus-worried-playing-us-214000188.html",
+     "pub": "2026-10-11T21:40+00:00"
+    },
+    {
+     "medio": "Yahoo",
+     "titulo": "Spalletti: ‘Juventus must seek victory, Cagliari good at wasting time’",
+     "url": "https://sports.yahoo.com/articles/spalletti-juventus-must-seek-victory-212000912.html",
+     "pub": "2026-10-11T21:20+00:00"
+    },
+    {
+     "medio": "Yahoo",
+     "titulo": "Cagliari 1-1 Juventus ends in headloss as Spalletti and Pisacane see red",
+     "url": "https://sports.yahoo.com/articles/cagliari-1-1-juventus-ends-210000850.html",
+     "pub": "2026-10-11T21:00+00:00"
+    }
+   ]
+  },
+  {
    "tema": "Messi",
    "medios": 9,
    "lista_medios": [
@@ -1748,17 +1837,17 @@
    ]
   },
   {
-   "tema": "Cagliari",
+   "tema": "Juventus",
    "medios": 8,
    "lista_medios": [
-    "Foot Mercato",
     "Football Italia",
     "Google News ES",
     "Kicker",
     "L'Equipe",
     "Mundo Deportivo",
-    "Ole",
-    "Yahoo"
+    "Record",
+    "Yahoo",
+    "ge.globo"
    ],
    "primera_vez": "2026-10-11T16:00+00:00",
    "titulares": [
@@ -1781,6 +1870,12 @@
      "pub": "2026-10-11T17:35+00:00"
     },
     {
+     "medio": "Yahoo",
+     "titulo": "🚨Line-ups confirmed: Juventus visit Serie A's surprise package",
+     "url": "https://sports.yahoo.com/articles/line-ups-confirmed-juventus-visit-175300081.html",
+     "pub": "2026-10-11T17:53+00:00"
+    },
+    {
      "medio": "Mundo Deportivo",
      "titulo": "Cagliari - Juventus, en directo | Serie A",
      "url": "https://www.mundodeportivo.com/futbol/serie-a/20261011/1004235608/cagliari-juventus-directo-serie.html",
@@ -1793,12 +1888,6 @@
      "pub": "2026-10-11T19:12+00:00"
     },
     {
-     "medio": "Ole",
-     "titulo": "Insólito momento en Italia: una pareja festejó su casamiento en el estadio del Cagliari",
-     "url": "https://www.ole.com.ar/futbol-internacional/italia/cagliari-juventus-matrimonio-festejo-casamiento-serie-ax_0_VcWesLutVU.html",
-     "pub": "2026-10-11T19:19+00:00"
-    },
-    {
      "medio": "Yahoo",
      "titulo": "Serie A | Cagliari 1-1 Juventus: Kolo Muani first goal to rescue a point",
      "url": "https://sports.yahoo.com/articles/serie-cagliari-1-1-juventus-204000299.html",
@@ -1809,12 +1898,6 @@
      "titulo": "Cagliari - Juventus: Tor zum 1:1 durch Kolo Muani in der 81. Minute",
      "url": "https://www.kicker.de/cagliari-juventus-tor-zum-1-1-durch-kolo-muani-in-der-81-minute-1260360/video#omrss",
      "pub": "2026-10-11T20:29+00:00"
-    },
-    {
-     "medio": "Foot Mercato",
-     "titulo": "Serie A : Randal Kolo Muani sauve la Juve contre Cagliari",
-     "url": "https://www.footmercato.net/a2358596021589016777-serie-a-randal-kolo-muani-sauve-la-juve-contre-cagliari",
-     "pub": "2026-10-11T20:42+00:00"
     },
     {
      "medio": "Yahoo",
@@ -1830,91 +1913,15 @@
     },
     {
      "medio": "Yahoo",
-     "titulo": "Cagliari 1-1 Juventus ends in headloss as Spalletti and Pisacane see red",
-     "url": "https://sports.yahoo.com/articles/cagliari-1-1-juventus-ends-210000850.html",
-     "pub": "2026-10-11T21:00+00:00"
-    }
-   ]
-  },
-  {
-   "tema": "Spurs",
-   "medios": 7,
-   "lista_medios": [
-    "BBC",
-    "Daily Mail",
-    "Google News EN",
-    "Infobae",
-    "Mirror",
-    "Telegraph",
-    "Yahoo"
-   ],
-   "primera_vez": "2026-10-11T16:00+00:00",
-   "titulares": [
-    {
-     "medio": "BBC",
-     "titulo": "'I kissed Rodrigo and said thanks' - De Zerbi 'liked' Spurs red card",
-     "url": "https://www.bbc.co.uk/sport/football/articles/cqn73g3pvezdo?at_medium=RSS&at_campaign=rss",
-     "pub": "2026-10-10T20:58+00:00"
-    },
-    {
-     "medio": "Daily Mail",
-     "titulo": "Dominic Solanke led the line expertly and repaid Roberto De Zerbi for his show of faith - his rescue act needs to be the catalyst to kick-start Spurs' season, writes MATT BARLOW",
-     "url": "https://www.dailymail.com/sport/football/article-16195575/Tottenham-analysis-Solanke-Zerbi-Barlow.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-     "pub": "2026-10-11T14:55+00:00"
-    },
-    {
-     "medio": "Daily Mail",
-     "titulo": "Bruno Fernandes cuts frustrated figure as he makes hasty Old Trafford exit after Man United throw away win against 10-man Spurs",
-     "url": "https://www.dailymail.com/sport/football/article-16200131/Bruno-Fernandes-cuts-frustrated-figure-makes-hasty-Old-Trafford-exit-Man-United-throw-away-win-against-10-man-Spurs.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-     "pub": "2026-10-11T11:55+00:00"
-    },
-    {
-     "medio": "Daily Mail",
-     "titulo": "'Worried' Gary Neville tells struggling Man United stars to 'get a grip' after Spurs draw ahead of tough run - as he warns midfield duo CAN'T play together and calls out lack of fight in Michael Carrick's men",
-     "url": "https://www.dailymail.com/sport/football/article-16199259/Gary-Neville-struggling-Man-United.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-     "pub": "2026-10-10T22:11+00:00"
-    },
-    {
-     "medio": "Mirror",
-     "titulo": "Michael Carrick told £35m summer signing caused 'impossible' Man Utd issue vs Spurs",
-     "url": "https://www.mirror.co.uk/sport/football/news/man-utd-spurs-carrick-tielemans-37759461",
-     "pub": "2026-10-11T08:49+00:00"
-    },
-    {
-     "medio": "Telegraph",
-     "titulo": "Man Utd make worst start in 40 years after being hauled back by 10-man Spurs",
-     "url": "https://www.telegraph.co.uk/football/2026/10/10/manchester-united-vs-tottenham-team-news-and-latest-premier/",
-     "pub": "2026-10-10T20:54+00:00"
-    },
-    {
-     "medio": "Google News EN",
-     "titulo": "Man Utd 1-1 Tottenham: Dominic Solanke rescues dramatic draw for 10-man Spurs at Old Trafford",
-     "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQbkZaaDhrU05wMGVXV1dwaHZkeXZLeEY5bEhiTE5OUXhySGdRU1N4SmtNMC1LVWYtSDFYNnBSVklsbGI5emVFb2s3Y2VlSWk3TVo2bUU2dTQzVVRhS1poRkdTbHJWVzRJWHd2TTJCZFpoLWtJT1VGNHlzTXE3eDNLOE5Xbk8zNjRiMkVhSzBOUkItemFoSU9NUDdyMFRyWllzNURCNnJ0VXl5NW84T0lnSWVvb2RtTlZjLUliY1hLOWxlazdYY254NVdWaUZSRzBrQ1UtQjlRRnM?oc=5",
-     "pub": "2026-10-11T14:31+00:00"
-    },
-    {
-     "medio": "Infobae",
-     "titulo": "Jugó en cinco países de Europa, sorprendió a los Lakers y debutó en la NBA a los 30 años con San Antonio Spurs",
-     "url": "https://www.infobae.com/deportes/2026/10/10/jugo-en-cinco-paises-de-europa-sorprendio-a-los-lakers-y-debuto-en-la-nba-a-los-30-anos-con-san-antonio-spurs/",
-     "pub": "2026-10-10T21:28+00:00"
+     "titulo": "Kolo Muani: ‘Juventus better when Woltemade is on, gives me more freedom’",
+     "url": "https://sports.yahoo.com/articles/kolo-muani-juventus-better-woltemade-210500705.html",
+     "pub": "2026-10-11T21:05+00:00"
     },
     {
      "medio": "Yahoo",
-     "titulo": "Roberto De Zerbi defends Spurs star after Man United controversy",
-     "url": "https://sports.yahoo.com/articles/roberto-zerbi-defends-spurs-star-195000729.html",
-     "pub": "2026-10-11T19:50+00:00"
-    },
-    {
-     "medio": "BBC",
-     "titulo": "The 'Kane-esque' striker Spurs may regret letting go",
-     "url": "https://www.bbc.co.uk/sport/football/articles/cq1kdmej1xnvo?at_medium=RSS&at_campaign=rss",
-     "pub": "2026-10-12T05:40+00:00"
-    },
-    {
-     "medio": "Google News EN",
-     "titulo": "Will Lankshear: The 'Kane-esque' striker Spurs may regret letting go",
-     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1VQ2k4RmlQRzJfcUwtMnpRYUxTS19KRnk3SnJPLTFZakNBNml2NnRScTF2cWJRa0ZSZl9lVlNoQ25qdi12RWRobWQ2dFpUemFIZGlQM0Q1U0p2eEZqV0xkXzJ1LWFqRDFORTNn?oc=5",
-     "pub": "2026-10-12T05:40+00:00"
+     "titulo": "Cagliari 1-1 Juventus ends in headloss as Spalletti and Pisacane see red",
+     "url": "https://sports.yahoo.com/articles/cagliari-1-1-juventus-ends-210000850.html",
+     "pub": "2026-10-11T21:00+00:00"
     }
    ]
   },
@@ -2315,12 +2322,6 @@
      "pub": "2026-10-11T04:12+00:00"
     },
     {
-     "medio": "Infobae",
-     "titulo": "Jugó en cinco países de Europa, sorprendió a los Lakers y debutó en la NBA a los 30 años con San Antonio Spurs",
-     "url": "https://www.infobae.com/deportes/2026/10/10/jugo-en-cinco-paises-de-europa-sorprendio-a-los-lakers-y-debuto-en-la-nba-a-los-30-anos-con-san-antonio-spurs/",
-     "pub": "2026-10-10T21:28+00:00"
-    },
-    {
      "medio": "Google News AR",
      "titulo": "Fútbol/Menores: Buena cosecha de los chicos de San Jorge en La Francia",
      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPWHNkbWRJVWdBS1N4VkxoNXZXTHI4LU56MWJpdFF0aHlBUkJxMksxY3NrZlVEWjFHVERidTBRZTZfUS03STVoVllBU0owSnRtVkxWTHRpVUJYUnBhQ1VsYl9NTkVfeXZDSVNHVDJRbHR2YjlMUzZxU25wdVl2ZVk5SXo2WWZ1enoza2h6Q2tFQURYcktMU3J5VExGV0FCdzRYQUtub2NMQTlNS0x6SktUMTFR?oc=5",
@@ -2337,6 +2338,12 @@
      "titulo": "Posiciones de San Lorenzo: a cuánto está de clasificarse en la Liga Profesional",
      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA5c0s5aExTdzJSY3djbVFhWkZRRl9IU2lNUGFsWVBzWXJfN1YyZEZrTU9Nak1ZVm45aDNvQ1QzMDJ0Sy1RZkdfcGZZa3hMYl9ieGtaZW9Ga0hPQ2lqUF9PYnYwLUV5dUEyemVxY1BJcWJRN05JZEt1WE9JcTNRWVE?oc=5",
      "pub": "2026-10-11T14:24+00:00"
+    },
+    {
+     "medio": "Ole",
+     "titulo": "San Lorenzo vs. Riestra, EN VIVO, por el Torneo Clausura: formaciones y cómo ver",
+     "url": "https://www.ole.com.ar/futbol-primera/san-lorenzo-riestra-vivo-torneo-clausura_0_rIsxBaisxI.html",
+     "pub": "2026-10-11T16:02+00:00"
     }
    ]
   },
