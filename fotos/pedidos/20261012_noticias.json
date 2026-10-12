@@ -1,0 +1,8 @@
+{"web": [
+ {"noticia": "Glasner", "buscar": "Oliver Glasner Nottingham Forest Crystal Palace Selhurst Park", "slug": "glasner_selhurst", "n": 8, "dias": 3, "debe": ["glasner"]},
+ {"noticia": "Cherki", "buscar": "Rayan Cherki Manchester City goal Liverpool Anfield", "slug": "cherki_anfield", "n": 8, "dias": 3, "debe": ["cherki"]},
+ {"noticia": "banners", "buscar": "Anfield banners Manchester City inflatable bananas Liverpool fans", "slug": "anfield_banners", "n": 8, "dias": 3, "debe": ["anfield", "banner", "city", "liverpool"]},
+ {"noticia": "Doku", "buscar": "Jeremy Doku Manchester City Liverpool Anfield", "slug": "doku_anfield", "n": 8, "dias": 3, "debe": ["doku"]},
+ {"noticia": "Vin", "buscar": "Rudiger Vinicius Junior sent off Villarreal referee Real Madrid", "slug": "rudiger_vini", "n": 8, "dias": 3, "debe": ["vini", "rudiger"]},
+ {"noticia": "Isco", "buscar": "Isco Real Betis La Cartuja Osasuna", "slug": "isco_betis", "n": 8, "dias": 3, "debe": ["isco"]}
+]}
