@@ -8,3 +8,7 @@
 {"t": "2026-10-11T17:46+00:00", "estado": "descartar", "temas": ["Southampton"], "clave": "southampton-portsmouth-derby", "motivo": "importancia 5 < 7"}
 {"t": "2026-10-11T18:51+00:00", "estado": "publicado", "temas": ["Anfield"], "clave": "liverpool-man-city-anfield", "video": "https://raw.githubusercontent.com/oundialae-debug/live/main/media/noticias/2026-10-11_2051_liverpool-man-city-anfield.mp4"}
 {"t": "2026-10-11T18:51+00:00", "estado": "descartar", "temas": ["Lazio"], "clave": "lazio-monza-3-1", "motivo": "importancia 6 < 7"}
+{"t": "2026-10-12T07:01+00:00", "estado": "revisar", "temas": ["Spurs"], "clave": "spurs-red-card-united", "motivo": "sin foto buena con cara visible"}
+{"t": "2026-10-12T07:01+00:00", "estado": "revisar", "temas": ["Seedorf", "Corinthians"], "clave": "seedorf-corinthians-manager", "motivo": "datos que no salen en los titulares: Dutch"}
+{"t": "2026-10-12T07:01+00:00", "estado": "descartar", "temas": ["Everton", "Hull"], "clave": "hull-everton-draw-belloumi", "motivo": "importancia 6 < 7"}
+{"t": "2026-10-12T07:01+00:00", "estado": "descartar", "temas": ["Lazio"], "clave": "lazio-monza-3-1-tavares", "motivo": "importancia 5 < 7"}
