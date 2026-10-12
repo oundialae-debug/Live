@@ -1,0 +1,12 @@
+{
+ "red": "instagram",
+ "hora": "2026-10-12T16:30:00+02:00",
+ "tipo": "previo",
+ "partido": "Coventry vs Newcastle",
+ "text": "Coventry vs Newcastle (Premier League, today 21:00 CEST): our model gives Newcastle 55%, Coventry 21%, draw 24%. Do you agree? 👇\n#Coventry #Newcastle #PremierLeague #COVNEW #Football",
+ "titulo": "Coventry vs Newcastle prediction: our model",
+ "video": "https://raw.githubusercontent.com/oundialae-debug/live/main/videos/pre_20261012_cov_new.mp4",
+ "variante": "primera=goals;seg=2.3;arranque=s0;hook=pregunta;ante=4.5;formato=video;musica=drill",
+ "notas": "modelo poisson propio (datos_clubes.py pre); marco comprobado",
+ "recordatorio": false
+}

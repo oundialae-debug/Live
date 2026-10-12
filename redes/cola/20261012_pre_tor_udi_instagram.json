@@ -1,0 +1,12 @@
+{
+ "red": "instagram",
+ "hora": "2026-10-12T15:45:00+02:00",
+ "tipo": "previo",
+ "partido": "Torino vs Udinese",
+ "text": "Torino vs Udinese (Serie A, today 20:45 CEST): our model gives Udinese 39%, Torino 35%, draw 26%. Do you agree? 👇\n#Torino #Udinese #SerieA #TORUDI #Football",
+ "titulo": "Torino vs Udinese prediction: our model",
+ "video": "https://raw.githubusercontent.com/oundialae-debug/live/main/videos/pre_20261012_tor_udi.mp4",
+ "variante": "primera=goals;seg=2.3;arranque=s1;hook=pregunta;ante=5;formato=video;musica=boom",
+ "notas": "modelo poisson propio (datos_clubes.py pre); marco comprobado",
+ "recordatorio": false
+}

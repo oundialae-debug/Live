@@ -1,0 +1,14 @@
+{
+ "red": "instagram",
+ "hora": "2026-10-12T09:00:00+02:00",
+ "tipo": "previo",
+ "partido": "Picks del dia 12/10 (4 partidos)",
+ "text": "Our model's calls for today's 4 biggest games in Europe's top 5 leagues: Atalanta 69% to beat Venezia, both teams to score in Levante-Sevilla 56%, Newcastle 55% at Coventry... Which call is wrong? 👇\n#Football #PremierLeague #LaLiga #SerieA #Ligue1",
+ "titulo": "Our model's calls for today's 4 big games in Europe's top 5 leagues",
+ "imagenes": [
+  "https://raw.githubusercontent.com/oundialae-debug/live/main/media/20261012_picks_hoy.jpg"
+ ],
+ "variante": "formato=lista_picks;hora=9;promesa_perfil_previos",
+ "recordatorio": false,
+ "notas": "lista desbloqueada que prometen los previos/pre6; modelo oficial/poisson propio; datos_clubes.lista_hoy [cola]"
+}
