@@ -1,19 +1,22 @@
-# Tendencias de fútbol (2026-10-12 14:00 UTC, Google Trends)
+# Tendencias de fútbol (2026-10-12 14:53 UTC, Google Trends)
 
 Generado por el workflow `tendencias`. Úsalo para elegir temas de memes, curiosos y jugador vs jugador.
 
 | País | Búsqueda | Tráfico | Titular |
 |---|---|---|---|
-| UK | premier league manchester city case appeal | 500+ | Premier League returns in shadow of Manchester City’s judgment day | Jonathan Wilson |
-| Spain | thibaut courtois | 200+ | Courtois, cerca de renovar hasta 2028 |
-| Spain | burgos - granada | 2000+ | Burgos - Granada, en directo: LaLiga Hypermotion hoy en vivo |
-| Spain | champions league | 1000+ | Club Atlético de Madrid - European nights return to the Riyadh Air Metropolitano |
-| Spain | frenkie de jong | 500+ | Flick pide a De Jong que se entrene como central |
-| Italy | nazionale femminile di calcio della bielorussia | 200+ | Azzurre, -2 alla nuova sfida con la Bielorussia. Giugliano scalda il pubblico di Firenze: “Il ‘Franc |
-| Germany | geisterspiel | 1000+ | Nationalmannschaft: Nations League – Geisterspiel für Klopp droht nach Uefa-Strafe |
-| France | gonçalo ramos | 500+ | Milan, le problème n’est pas Ramos, mais la phase offensive : Amorim dispose de peu de solutions de  |
-| Argentina | selección de fútbol de nueva zelanda | 100+ | Nació en Nueva Zelanda, llegó a Argentina sin hablar español, eligió Vélez por sobre River y Boca y  |
-| Argentina | cristiano ronaldo | 2000+ | Cristiano Ronaldo reportedly expected to return to Portugal national team despite latest provisional |
-| Brazil | newcastle | 100+ | Coventry City vs. Newcastle United: TV channel, how to watch in UK, kick-off time, live stream, team |
-| Portugal | al-nassr football club | 2000+ | Benfica vs Vitoria de Guimaraes: Where to watch, live stream, TV channel and kick-off time |
-| Mexico | liga de campeones de la afc | 100+ | Al Hilal se salvó: la AFC pone a Al Nassr, Al Ahli y Al Ittihad en un verdadero aprieto |
+| UK | premier league manchester city case appeal | 1000+ | Premier League returns in shadow of Manchester City’s judgment day | Jonathan Wilson |
+| Spain | levante unión deportiva | 1000+ | LA PREVIA DEL LEVANTE UD VS SEVILLA FC DE LALIGA 26/27 |
+| Spain | toros hoy | 1000+ | Corrida de la Hispanidad: Morante de la Puebla, Héctor Gutiérrez y Aarón Palacio |
+| Spain | thibaut courtois | 200+ | Thibaut Courtois set to extend Real Madrid contract through to 2028 |
+| Spain | burgos - granada | 5000+ | Burgos - Granada, en directo: LaLiga Hypermotion hoy en vivo |
+| Italy | garbatella | 500+ | Rapina alle poste alla Garbatella: spuntano dal buco nel muro con le maschere di Halloween, via con  |
+| Germany | paok – fc kalamata | 200+ | PAOK vs Kalamata: Greek Super League stats & head-to-head |
+| Germany | mario basler | 200+ | Basler mit Knallhart-Prognose zu Karls Zukunft bei Bayern |
+| France | quotidienne star academy | 500+ | Star Academy 2026 : la fille d’un célèbre commentateur de football au casting, sa prestation déclenc |
+| Argentina | selección de fútbol de nueva zelanda | 200+ | Nació en Nueva Zelanda, llegó a Argentina sin hablar español, eligió Vélez por sobre River y Boca y  |
+| Brazil | liga dos campeões da afc | 100+ | Como comprar ingressos para Al Nassr FC x Neftchi Fargona: preços da Liga dos Campeões da AFC Elite, |
+| Portugal | nos | 200+ | Haaland compra casa aos patrões num megaprojeto nos Emirados |
+| Portugal | madeira | 500+ | FC Porto: mais um feito de Farioli no campeonato |
+| Portugal | al-nassr football club | 2000+ | Al Hilal escaped it: the AFC puts Al Nassr, Al Ahli and Al Ittihad in real trouble |
+| Mexico | al qadisiya | 200+ | Partidos de hoy lunes 12 de octubre: CR7 y mexicanos en el extranjero |
+| Mexico | newcastle vs | 100+ | Two dilemmas for Matthias Jaissle as Newcastle head to Coventry |
