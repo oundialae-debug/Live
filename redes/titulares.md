@@ -1,4 +1,4 @@
-# Titulares de fútbol (2026-10-12 07:52 UTC, últimas 36 h)
+# Titulares de fútbol (2026-10-12 08:52 UTC, últimas 36 h)
 
 Generado por `scripts/titulares.py` (workflow `tendencias`). Leídos 26 de 34 medios; fuentes en `redes/fuentes.md`.
 
@@ -9,32 +9,32 @@ Generado por `scripts/titulares.py` (workflow `tendencias`). Leídos 26 de 34 me
 | Liverpool | 15 | BBC, Daily Mail, Foot Mercato, Football Italia, FourFourTwo, Google News EN, Gua | Doku delights as Manchester City cruise past 10-man Liverpool |
 | Manchester | 14 | BBC, Daily Mail, Foot Mercato, FourFourTwo, Google News EN, Guardian, Infobae, L | Doku delights as Manchester City cruise past 10-man Liverpool |
 | Man | 12 | BBC, Daily Mail, Football Italia, FourFourTwo, Google News EN, Mirror, Planet Fo | Man City's statement win has feeling of irrelevance with season in limbo |
+| Madrid | 11 | AS, Foot Mercato, Infobae, Kicker, L'Equipe, Mundo Deportivo, Record, Yahoo, ge. | Vini Jr held back by Real Madrid teammates as superstar explodes at referee after being sent off |
 | Anfield | 10 | BBC, Daily Mail, FourFourTwo, Google News EN, Guardian, L'Equipe, Mirror, Planet | Winless and an 'easy touch' - what's happened to the Anfield fear factor? |
-| Madrid | 10 | AS, Foot Mercato, Infobae, L'Equipe, Mundo Deportivo, Record, Yahoo, ge.globo, r | Vini Jr held back by Real Madrid teammates as superstar explodes at referee after being sent off |
 | Vinicius | 9 | AS, Foot Mercato, Google News ES, L'Equipe, Mundo Deportivo, Yahoo, ge.globo, r/ | Jose Mourinho&#8217;s decision to boycott press conference explained after Vinicius Jr red card |
 | Palace | 8 | BBC, Daily Mail, FourFourTwo, Google News EN, Guardian, L'Equipe, r/soccer (top  | Glasner suffers loss on Selhurst return as Palace beat Forest |
+| Corinthians | 7 | BBC, Google News AR, Google News EN, Infobae, Kicker, Yahoo, ge.globo | Seedorf back in football as Corinthians head coach |
 | Celtic | 7 | BBC, Daily Mail, Google News EN, Guardian, Sky Sports, Yahoo, r/soccer (top día) | Jota comeback helps Celtic lift gloom in strong response |
 | Forest | 7 | BBC, Daily Mail, FourFourTwo, Google News EN, Guardian, Yahoo, r/soccer (top día | Glasner suffers loss on Selhurst return as Palace beat Forest |
-| Gravenberch | 7 | BBC, Google News EN, Kicker, Mirror, Yahoo, r/soccer (top día), talkSPORT | Rooney gives verdict on Gravenberch red card |
 | Crystal | 7 | Daily Mail, FourFourTwo, Google News EN, Guardian, L'Equipe, r/soccer (top día), | Pino finishes off Nottingham Forest on Glasner’s unhappy Crystal Palace return |
-| Betis | 7 | Google News EN, Google News ES, Guardian, L'Equipe, Mundo Deportivo, Sky Sports, | European football: Freiburg move top of Bundesliga while Isco keeps Betis flying high |
 | Burnham | 6 | BBC, Daily Mail, L'Equipe, Mirror, Yahoo, r/soccer (top día) | Burnham to release details of Man City meetings |
-| Spurs | 6 | BBC, Daily Mail, Google News EN, Guardian, Telegraph, Yahoo | The 'Kane-esque' striker Spurs may regret letting go |
+| Seedorf | 6 | BBC, Google News EN, Kicker, Mundo Deportivo, Planet Football, Yahoo | Seedorf back in football as Corinthians head coach |
+| Gravenberch | 6 | BBC, Google News EN, Kicker, Mirror, r/soccer (top día), talkSPORT | Rooney gives verdict on Gravenberch red card |
 | Andy | 6 | Daily Mail, Guardian, L'Equipe, Mirror, Yahoo, r/soccer (top día) | Manchester City shrug off chaos and controversy in public shaming at Anfield | Andy Hunter |
+| Gabriel | 6 | AS, Mirror, Record, Yahoo, ge.globo, r/soccer (top día) | Man Utd news: JJ Gabriel left in transfer lurch as Michael Carrick told to change plans |
 | City's | 5 | BBC, Daily Mail, Google News EN, Mirror, r/soccer (top día) | Man City's statement win has feeling of irrelevance with season in limbo |
-| Corinthians | 5 | BBC, Google News AR, Google News EN, Infobae, ge.globo | Seedorf back in football as Corinthians head coach |
 | Hull | 5 | BBC, Daily Mail, FourFourTwo, Google News EN, Guardian | Hull continue good start with entertaining Everton draw |
 | Maresca | 5 | BBC, Daily Mail, Google News EN, Guardian, ge.globo | 'We deal with the noise' - Maresca 'proud' after Man City win |
 | Iraola | 5 | BBC, Daily Mail, L'Equipe, Mirror, Yahoo | 'I didn't like the refereeing' - Iraola unhappy with Gravenberch red |
 | Nottingham | 5 | Daily Mail, FourFourTwo, Google News EN, Guardian, r/soccer (top día) | Pino finishes off Nottingham Forest on Glasner’s unhappy Crystal Palace return |
-| Freiburg | 5 | Google News EN, Guardian, Kicker, Sky Sports, Yahoo | European football: Freiburg move top of Bundesliga while Isco keeps Betis flying high |
+| Betis | 5 | Google News ES, Guardian, L'Equipe, Sky Sports, Yahoo | European football: Freiburg move top of Bundesliga while Isco keeps Betis flying high |
+| Southampton | 5 | FourFourTwo, Google News EN, Guardian, Planet Football, talkSPORT | Joy for Eckert as 10-man Southampton edge out Portsmouth in feisty derby |
+| Portsmouth | 5 | FourFourTwo, Google News EN, Guardian, Planet Football, talkSPORT | Joy for Eckert as 10-man Southampton edge out Portsmouth in feisty derby |
 | Cherki | 5 | Foot Mercato, Guardian, Infobae, L'Equipe, r/soccer (top día) | Cherki cracker caps Manchester City win at Liverpool in face of Anfield taunts |
-| Ryan | 5 | Google News EN, Mirror, Yahoo, r/soccer (top día), talkSPORT | &#8216;Sham&#8217; club Man City awaiting sanction but Ryan Gravenberch&#8217;s swift punishment settles Liver |
-| Gabriel | 5 | AS, Mirror, Record, ge.globo, r/soccer (top día) | Man Utd news: JJ Gabriel left in transfer lurch as Michael Carrick told to change plans |
 
 ## Titulares por medio
 
-**BBC** (30)
+**BBC** (28)
 - Man City's statement win has feeling of irrelevance with season in limbo
 - Winless and an 'easy touch' - what's happened to the Anfield fear factor?
 - Burnham to release details of Man City meetings
@@ -48,7 +48,7 @@ Generado por `scripts/titulares.py` (workflow `tendencias`). Leídos 26 de 34 me
 - Jota comeback helps Celtic lift gloom in strong response
 - Sharp retires after incredible 22-year career
 
-**Guardian** (16)
+**Guardian** (15)
 - Premier League: 10 talking points from the weekend’s action
 - Premier League returns in shadow of Manchester City’s judgment day | Jonathan Wilson
 - Manchester City shrug off chaos and controversy in public shaming at Anfield | Andy Hunter
@@ -72,11 +72,13 @@ Generado por `scripts/titulares.py` (workflow `tendencias`). Leídos 26 de 34 me
 - The worst football you'll see? Commanders and Giants tie after sloppy overtime!
 - 'Are you joking!' - Ja'Marr Chase makes incredible one-handed TD catch!
 - Motherwell 0-2 Celtic
+- Neville and Carra: ‘Stain’ hangs over Man City until financial charges resolved
+- Euro Debrief: Gordon's first Barca goal and Spence's Inter debut
 - 90-yard TD, four flags, a brawl and two ejections... all on the opening kickoff!
-- Clayton defeats Humphries to win Swiss Darts Trophy and clinch Grand Slam spot
-- 'We got off on the wrong foot?!' - Brundle meets Kim K on Singapore GP Grid Walk!
 
-**talkSPORT** (20)
+**talkSPORT** (22)
+- Matthias Jaissle issues hands-off warning to club regarding potential Newcastle sale
+- Heroes and Villains: Alvaro Arbeloa on borrowed time and Liverpool PA announcer&#8217;s unseen act gets applause
 - talkSPORT tips – Best football bets and expert advice for Monday 12 October
 - Jesse Lingard gets four-time Champions League winner as new manager at Brazilian club
 - Police forced to intervene as fans clash minutes after Liverpool vs Man City in chaotic scenes
@@ -87,8 +89,6 @@ Generado por `scripts/titulares.py` (workflow `tendencias`). Leídos 26 de 34 me
 - &#8216;Devastated&#8217; &#8211; Micah Richards demands Man City to show evidence in emotional request
 - Liverpool dealt another huge blow as star man is ruled out of Manchester City clash
 - &#8216;Doomsday&#8217; &#8211; EFL boss told his days are numbered amid horror start to season
-- Liverpool 0-3 Manchester City LIVE REACTION: Visitors overcome booing home crowd to smash ten-man Reds
-- Southampton fans told they shouldn&#8217;t applaud star man after red card vs Portsmouth
 
 **Daily Mail** (35)
 - Gary Neville claims the wait for sanctions against Man City is 'really bad for the Premier League' as Piers Morgan labels it a 'total farce'
@@ -102,10 +102,12 @@ Generado por `scripts/titulares.py` (workflow `tendencias`). Leídos 26 de 34 me
 - MAN CITY FAN VIEW: We're going nowhere! We stood up to pantomime Anfield atmosphere and last season's win was more thrilling but we showed g
 - Crystal Palace 3-1 Nottingham Forest: Oliver Glasner brutally mocked on nightmare return with Pierre Sage's side gifted first win of the sea
 - Hull 2-2 Everton: Toffees' unbeaten start continues two days after owners revealed plan to sell and despite calamitous transfer window as Mo
-- Get rid of Welcome to Countries at the footy - only use it sparingly at big official conferences: Indigenous leader Warren Mundine makes big
+- Chelsea star Cole Palmer under fire as he 'can't even be bothered to say hello' to desperate young fans swarming him and his girlfriend as t
 
 **Mirror** (25)
 - Man City charges LIVE: Premier League punishment agreement as Liverpool response sent
+- Jamie Carragher begs Liverpool to drop Florian Wirtz immediately in latest brutal takedown
+- AD FEATURE: Win up to £20k on this week’s UEFA Champions League action with free-to-play predictor game
 - Wayne Rooney sticks to his word on Man City being stripped of titles in punishment verdict
 - Jordan Henderson scores another own goal with nonsense gesture after Chelsea heroics
 - Liverpool news: Gerrard picks Van Dijk replacement as Salah continues setting new records
@@ -115,8 +117,6 @@ Generado por `scripts/titulares.py` (workflow `tendencias`). Leídos 26 de 34 me
 - Liverpool's Virgil Van Dijk says when he will 'definitely comment' on Man City's guilt
 - Gary Neville picks out brutal Man City chant which will 'catch on' around Premier League grounds
 - Gary Neville makes ‘take me off’ request to Sky Sports bosses as Premier League called out
-- Andy Burnham 'happy to put out everything' he did with Man City as PM challenged
-- Recap Liverpool vs Man City LIVE: Hostile Anfield 'cheat' taunts SILENCED by dominant City win
 
 **Telegraph** (2)
 - The cheats prosper: Man City thrash 10-man Liverpool
@@ -125,8 +125,9 @@ Generado por `scripts/titulares.py` (workflow `tendencias`). Leídos 26 de 34 me
 **90min** (0)
 
 **Planet Football** (10)
+- Can you name every Liverpool player to be sent off in the Premier League?
 - Can you name Man City’s top 30 Premier League goalscorers?
-- 14 Things We Loved This Weekend: Henderson, Neuer, Seedorf, Anfield banners & more
+- 13 Things We Loved This Weekend: Henderson, Neuer, Seedorf, Anfield banners & more
 - Clarence Seedorf in Brazil: A perfect swansong in his football utopia
 - Sportword: Play daily football word game on Planet Sport
 - 11 of the best anti-Man City banners Liverpool fans unfurled at Anfield
@@ -134,94 +135,96 @@ Generado por `scripts/titulares.py` (workflow `tendencias`). Leídos 26 de 34 me
 - Russell Martin says Leicester managerial change isn’t a ‘quick fix’ when it absolutely is
 - Is Liverpool vs Man City the most hyped game in Premier League history?
 - Name everybody to play for Southampton & Portsmouth since 1992
-- Paul Merson’s Manchester City rant is the antidote to pundit fence-sitters
 
-**FourFourTwo** (11)
+**FourFourTwo** (16)
+- NWSL chief Jessica Berman reveals Ted Lasso's impact on women's football
+- Jonjo Shelvey: "Alan Pardew said I couldn't take a girl out"
+- Quiz! Can you name every player to get three red cards in a single Premier League season?
+- Quickfire Quiz 221: Can you answer 10 questions in 90 seconds?
+- Southampton kickstart their return to normality with derby win after Tonda Eckert’s ‘Spygate’ reprieve
 - HENRY WINTER: Manchester City triumph with a 'pointless' Anfield win - and show they have the character to deal with the noise
 - Toby Alderweireld on Tottenham Hotspur’s incredible Champions League semi-final win in 2019
-- Watch Liverpool vs Man City for FREE: Live streams
 - Tony Adams on the managerial lessons learned from Jose Mourinho
+- Watch Liverpool vs Man City for FREE: Live streams
 - Hull City vs Everton FREE live streams: How to watch
-- Michael Owen discusses the horses he trains at his Manor House stables and their famous owners
 - How to watch Crystal Palace vs Nottingham Forest for FREE
-- Tonda Eckert’s Spygate 'punishment' could BOOST Southampton
-- Watch Southampton vs Portsmouth for FREE: Live Streams
-- Dimitar Berbatov opens up on his career as a cult hero
-- Pre-Match Poser no.48: Can you answer this elite-level football quiz question?
+- Michael Owen discusses the horses he trains at his Manor House stables and their famous owners
 
 **Yahoo** (40)
-- Unchanged from Getafe: Barça&#39;s squad for Galatasaray 🛫
-- &#8216;Maybe I got on people&#8217;s nerves&#8217; &#8211; OGC Nice&#8217;s Jonathan Clauss on giving up the armband
-- National League club Forest Green to play without manager after Robbie Savage departure
-- Moyes may offer Celtic solution next summer - gossip
-- Watch: Vinicius&#8217; furious reaction after Villarreal red card that could rule him out of El Clasico
-- The Man City mess is unsustainable for the Premier League
-- Barcelona reach agreement with homegrown star over contract extension until 2031; announcement imminent
-- 🥐☕️ Breakfast FC : Kvara sends IShowSpeed wild 😭, Seedorf in Brazil 🇧🇷
-- Athletic Club left waiting after Rayo Vallecano match abandoned
-- Guernsey FC Women suffer Havant home defeat
-- Real Madrid&#8217;s Marc Cucurella sends pointed warning to referee after Vinicius red card controversy: &#8216;If anyone touches my hair&#8
-- 🎥 I hope if they touch a hair on my head…: Cucurella on Vinicius&#39; red card
+- Ilkay Gundogan talks Barcelona exit, Xavi, Flick, Lamine, Cubarsi, Fermin, Rodri, Gabriel Jesus
+- Champions League Preview | Viking FK vs Bayern Munich: The ideal opening match for Vincent Kompany after Bundesliga slip-up?
+- Real Madrid identify €60m-rated Brighton defender as potential 2027 transfer target &#8211; report
+- Premier League review: Man City maintain perfect record but will it matter?
+- Matias Soule tipped to start against Real Madrid
+- Today’s Papers: Lazio join the lead, Spalletti-Pisacane row, Malen madness
+- The response on the pitch from Manchester City at Anfield was ruthless
+- Barcelona superstar Lamine Yamal one goal away from matching Mbappe’s Champions League record
+- Liverpool legend has future confirmed after major news emerges from Anfield
+- From Football Matches to Digital Gaming: The New Era of Entertainment
+- Vinícius Suspension Puts Real Madrid’s Clásico Plans at Risk
+- Real Madrid confident of signing Manchester United prodigy JJ Gabriel
 
 **Google News EN** (40)
-- Will Lankshear: The 'Kane-esque' striker Spurs may regret letting go
 - Who am I? Plus today's other quizzes
 - Transfer Centre LIVE! Football transfer news, updates and rumours
-- Five in Five: Football quiz No 57
-- Guernsey FC Women suffer 5-2 Havant and Waterlooville home defeat
-- Irish League: Jamie McGonigle, Gary Haveron and Louise McDaniel win NIFWA September awards
-- Brainteaser No 53: Will you get today's answer?
-- Moyes may offer Celtic solution next summer - gossip
-- Who am I? Guess Premier League star No 84
+- Will Lankshear: The 'Kane-esque' striker Spurs may regret letting go
 - Clarence Seedorf: Corinthians hire former Netherlands midfielder as head coach
-- NFL: San Francisco 49ers & Minnesota Vikings go 5-0
-- Match of the Day - Wayne Rooney and Toby Alderweireld on Ryan Gravenberch getting a red card
+- Can Robinson solve Aberdeen's lack of goals?
+- 'We're still pushing, we're there and we're scoring goals' - O'Shea on fitness
+- Bournemouth news: Ben Gannon-Doak - 'I'm working, trying to be positive'
+- Five in Five: Football quiz No 57
+- Irish League: Jamie McGonigle, Gary Haveron and Louise McDaniel win NIFWA September awards
+- Coventry vs Newcastle predictions: Chris Sutton on Premier League game
+- Guernsey FC Women suffer 5-2 Havant and Waterlooville home defeat
+- Moyes may offer Celtic solution next summer - gossip
 
 **AS** (27)
+- “La Fábrica es la mejor cantera del mundo, te mete el gen de competir”
 - Olise sabe lo que hace con el Bayern
 - El Real Madrid ha hecho todos los deberes con JJ Gabriel
 - Las polémicas de la jornada 8 de LaLiga EA Sports: penaltis, expulsiones y jugadas controvertidas
+- El límite de la publicidad en un espectáculo deportivo
+- Bryan Zaragoza pide turno
+- La directa advertencia de Guti al Barça: el madridismo debe escuchar esto
+- Carragher: “Víctor Muñoz rindió mejor que esos jugadores de 100 millones...”
 - Flick, con los mismos que golearon al Getafe
 - David Badía, el español tras el éxito de Haití: “A una selección mundialista no le puedes decir que no”
 - Isco fulmina todas las dudas que quedaran
-- Sale a la luz el empujón de Vinicius a un empleado de LaLiga tras la roja
 - Cucurella: “Espero que si me tocan el pelo saquéis roja”
-- Cubarsí-Osimhen, el duelo que lo cambió todo
-- Se quedaron con las ganas
-- ¡Iscolosal en La Cartuja!
-- Locura, taquicardia y triunfo agónico de la Real en Anoeta
 
 **Mundo Deportivo** (40)
+- El árbitro que expulsó a Mourinho pitará el Roma-Real Madrid
+- El Manchester United aprovechará para 'espiar' en directo a Giuliano Simeone
+- El manual del CTA da la razón a Isidro Díaz de Mera en la expulsión a Vinicius
+- Miguel Gil, llegar y besar el santo
+- Rajada descomunal contra Memphis Depay, con Seedorf de por medio
+- El Juvenil A del Barça, con refuerzos para la reacción en la Youth League pero sin Tunkara
+- Torres, entre el "orgullo" y la "rabia" por la actuación del Madrileño ante el Zaragoza
 - El Barça anuncia los 22 convocados para Estambul con las bajas conocidas
 - "Si hay abandono de campo, se acabó"
 - Acuerdo cerrado por Bernal hasta 2031 y sólo falta la firma
 - "Todo esto es lo que le conviene a alguien para no hablar de que dentro de dos semanas hay Clásico"
 - El mercado de fichajes de fútbol, en directo
-- Las caras de la reacción del Atlético
-- El Rayo fue mejor en los 13 minutos jugados
-- De Futre y Manolo a Lodi, la pesadilla rojiblanca del Manchester United
-- El Sant Andreu cierra la jornada con el Hércules
-- "Messi se despidió a lo grande"
-- Poco para rescatar en 13 minutos
-- Temporada de sobresaltos para el Athletic
 
 **Google News ES** (40)
-- Dónde quedó el fútbol control
+- Los tirones de pelo más sonados de la historia del fútbol
 - Resultados de los encuentros disputados por los equipos de la Cantera Granota el 8, 9 y 10 de octubre
 - Cómo ver Pumas vs Cruz Azul en vivo: canales, streaming y horarios del Apertura de la Liga MX para España, México, Latinoamérica y USA
+- Cómo el fútbol pasó de ser la propaganda perfecta del franquismo a un espacio de reivindicación nacionalista
+- El loco del fútbol que reinó donde era imposible
 - Fútbol: Estados Unidos - España (F), en directo | 13/10
 - La estrella de Bucarest
+- España tumba a Brasil y conquista su tercer Mundialito femenino de fútbol playa
+- España consigue su tercer Mundialito de fútbol playa femenino con Andrea Mirón como MVP
 - La enésima mutación lleva otra vez al Betis al fútbol asociativo
 - Paqui Campoy conquista el mundo para España
-- Antonio Penedo, presidente del club deportivo Sete Castros de fútbol sala: «Cada vez hay más chicas jugando y tienen mejor técnica que antes
-- Odio eterno al parón de selecciones
-- Burgos vs Granada de Segunda División: horario y dónde ver hoy por TV y online el partido de LaLiga Hypermotion a través de DAZN
-- Cómo ver Pachuca vs Necaxa en vivo: canales, streaming y horarios del Apertura de la Liga MX para España, México, Latinoamérica y USA
-- Llorar o jugar al fútbol
+- Real Oviedo vs Eibar de Segunda División: horario y dónde ver hoy por TV y online el partido de LaLiga Hypermotion a través de DAZN
 
 **Gazzetta** (0)
 
 **Football Italia** (20)
+- Cardinale disappointed in Milan as newspaper highlights four issues for Amorim to fix
+- Today’s Papers: Lazio join the lead, Spalletti-Pisacane row, Malen madness
 - Pisacane: ‘If Juventus are worried about playing us, Cagliari are on the right track’
 - Spalletti: ‘Juventus must seek victory, Cagliari good at wasting time’
 - Kolo Muani: ‘Juventus better when Woltemade is on, gives me more freedom’
@@ -232,24 +235,24 @@ Generado por `scripts/titulares.py` (workflow `tendencias`). Leídos 26 de 34 me
 - Serie A Liveblog including Como-Roma, Sassuolo-Milan, Cagliari-Juventus
 - Amorim: ‘Milan cannot concede that goal, sad for Gabbia injury’
 - Spalletti: ‘Kolo Muani needs to put his best skills into practice’
-- Aquilani impressed with Sassuolo ‘maturity’ in Milan draw
-- Serie A | Sassuolo 1-1 Milan: Not enough for Rabiot to celebrate
 
 **Kicker** (20)
+- Vukotic nach seinen Patzern: "Immer dieselbe Scheiße"
+- Remmert springt an die Spitze: Die schnellsten Hattricks in Liga 3
+- Seedorf übernimmt Corinthians - Palmer bindet sich acht Jahre an Chelsea
+- Bloß kein Debakel: In Madrid kann es schon um Carricks Zukunft gehen
+- Der Rekord-Dreierpacker und acht Debütanten: Die Elf des Tages in der 3. Liga
+- Leitl trotz Sieg deutlich: "Nicht so, wie ich mir das wünsche"
 - Jeddeloh II: Arambasic beklagt "perverse" Anfeindungen - Kommt Bahar aus Meppen?
 - Iraola-Ärger über strittige Gelbe für Gravenberch: "Pfeift nicht mal sofort"
 - Aus Handshake wird Rudelbildung: Doppel-Rot für die Trainer bei Juve-Match
 - Trotz Reus-Assist: LA Galaxy kassiert deutliche Pleite in St. Louis
 - Inklusive Hattrick in 21 Minuten: Reus geht mit LA Galaxy in St. Louis baden
 - Auch wenn es ihm wehtut: So hat Arnold einen Mehrwert für Wolfsburg
-- Imeri deutet an, was er Union geben kann
-- Riemann nach 2:5-Debakel: "So viele Fehler gemacht wie in den letzten 8 Monaten"
-- Ingolstadt holt 0:2 auf - und verliert trotzdem
-- Düsseldorf jubelt zweimal, doch Verl kämpft sich zweimal zurück
-- Golz hält RWE im Spiel - Doppelschlag wendet das Blatt
-- Troyes - Marseille: Tor zum 0:2 durch Abdelli in der 90.+8 Minute
 
 **L'Equipe** (40)
+- Thauvin en patron, Brest en démonstration : l'équipe type de la 6e journée de Ligue 1
+- Presque continuellement absent des terrains depuis juin 2024, Arkadiusz Milik s'est encore blessé avec la Juventus Turin
 - Les retours de gagnants de Diaby et Nkunku, le bijou de Cherki
 - Comment Anfield a accueilli City après ses déboires
 - Faites vos paris pour le Ballon d'Or 2026
@@ -260,10 +263,11 @@ Generado por `scripts/titulares.py` (workflow `tendencias`). Leídos 26 de 34 me
 - Enfin décisif et récompensé de ses efforts, Amine Harit a sorti l'OM de l'impasse à Troyes
 - Malgré la colère, les supporters de l'OM prouvent par leur soutien inconditionnel qu'ils sont devenus le meilleur atout de leur club
 - Co-leader malgré une fronde de ses supporters et un été chaotique, la Lazio de Gennaro Gattuso est la bonne surprise de Serie A
-- « Dès le premier jour, il était là à rigoler, à faire le con. Il ne nous a jamais fait sentir que c'était une star » : le rêve américain d'A
-- « Je ne suis pas là pour faire rire » : à 18 ans, Lilian Rose coache chez les seniors
 
 **Foot Mercato** (40)
+- LdC : l’arbitre de Manchester City-PSG est connu
+- Barça : le groupe sans Raphinha contre Galatasaray
+- La presse anglaise ne lâche pas Manchester City, le cas Dembélé fait toujours débat au PSG
 - PSG : IShowSpeed lance un défi à Khvicha Kvaratskhelia
 - Liverpool en a marre de Florian Wirtz !
 - OM : « on a refusé 35 patates pour toi », Kevin Diaz fracasse lourdement Igor Paixão
@@ -273,23 +277,20 @@ Generado por `scripts/titulares.py` (workflow `tendencias`). Leídos 26 de 34 me
 - Rennes-Auxerre : Franck Haise a poussé une énorme gueulante à la mi-temps
 - Barça : nouveau coup dur pour Alejandro Baldé
 - OM : les images de l’accrochage entre Genesio et Paixão
-- Paul Pogba espère récupérer deux titres de Premier League
-- OM : Bruno Genesio lâche ses vérités sur la sortie houleuse d’Igor Paixão !
-- Nice, Jonathan Clauss : « parfois je casse les couilles »
 
 **Record** (20)
-- <![CDATA[ Real Madrid já fez proposta a JJ Gabriel: United vê cerco à jovem pérola apertar ]]>
+- <![CDATA[ Davidovich ficou com as costas 'a arder' devido a reação alérgica a meio do encontro e acabou a vencer em Xangai ]]>
+- <![CDATA[ Polícia intervém no acampamento pelo direito à habitação e retira tendas a manifestantes no Porto ]]>
+- <![CDATA[ Lens cresce e aparece: o clube que enche o estádio que leva mais gente do que a própria cidade ]]>
+- <![CDATA[ Cátia Azevedo e a saída do Sporting após ser mãe: «Nunca foi só um corte de salário. Foi falta de respeito» ]]>
+- <![CDATA[ Antigo presidente do Barcelona deixa aviso a Messi: «Quem é que ele pensa que é? Que tenha cuidado» ]]>
+- <![CDATA[ Real Madrid já fez proposta a JJ Gabriel: Manchester United vê cerco à jovem pérola apertar ]]>
 - <![CDATA[ Abel Ferreira: «Se a nossa presidente não fosse corajosa, o treinador já teria sido despedido duas ou três vezes» ]]>
 - <![CDATA[ Portugal à conquista de Assunção: chegou a vez da Seleção principal atacar o Mundial de hóquei em patins ]]>
 - <![CDATA[ José Raimundo destaca o "fenómeno" Madalena Costa e aponta: «Portugal é uma potência na patinagem artística» ]]>
 - <![CDATA[ Amorim deixa recado após empate do Milan: «Não podemos sofrer aquele golo num canto...» ]]>
 - <![CDATA[ Leonardo Jardim defende árbitro e imita lance em conferência de imprensa ]]>
 - <![CDATA[ Jota e o fim do calvário de 18 meses: «Nunca desisti do sonho de jogar futebol outra vez» ]]>
-- <![CDATA[ «Foi uma boa preparação para a Liga Europa, única competição sem VAR cegos e centímetros cirúrgicos» ]]>
-- <![CDATA[ Problema familiar levou à saída de Bah na segunda parte do Benfica-V. Guimarães ]]>
-- <![CDATA[ Dahl já encontrou a vítima preferida: sueco só marca... ao V. Guimarães ]]>
-- <![CDATA[ André Villas-Boas vibrou com triunfo do FC Porto sobre o Benfica em basquetebol ]]>
-- <![CDATA[ Tomás Araújo adiou passagem da braçadeira a Aursnes ]]>
 
 **Ole** (10)
 - La tabla anual es una nueva zanahoria
@@ -318,8 +319,8 @@ Generado por `scripts/titulares.py` (workflow `tendencias`). Leídos 26 de 34 me
 - La reacción de Tomás Aranda al ver que Messi lo incluyó en su lista de las 10 mayores promesas del fútbol: “Es un honor”
 
 **Google News AR** (40)
-- Messi eligió a las próximas diez estrellas del fútbol mundial: incluyó a un jugador de Boca
 - La crítica de un campeón del mundo al fútbol argentino
+- Messi eligió a las próximas diez estrellas del fútbol mundial: incluyó a un jugador de Boca
 - "Hay que dar vuelta esto" - Racing Club
 - Messi armó la lista de las 10 mayores promesas del fútbol mundial e incluyó a un argentino: “Proyecto de crack”
 - PASIÓN POR EL FÚTBOL - BOCA PAGÓ MUY CARO EL EMPATE EN CÓRDOBA - Programa del 11/10/26
