@@ -1,0 +1,14 @@
+{
+ "red": "tiktok",
+ "hora": "2026-10-12T18:00:00+02:00",
+ "tipo": "meme",
+ "partido": "Isco 2 goles Betis 4-2 Osasuna / Real Madrid 4º",
+ "text": "Real Madrid let Isco go in 2022. Now he has 2 goals on Sunday and Betis sit above them. Real Madrid fans, how are we feeling? 👇\n#Isco #RealBetis #RealMadrid #LaLiga #Football",
+ "titulo": "Isco scores twice, Betis go above Real Madrid",
+ "imagenes": [
+  "https://raw.githubusercontent.com/oundialae-debug/live/main/media/20261012_isco_madrid.jpg"
+ ],
+ "variante": "hook=pregunta;formato=comparativa;hora=18",
+ "notas": "Kicker (Isco 10' y 67', 4-2), Claro Sports 'Betis top 3 doblete Isco', L'Equipe Betis podio aux dépens du Real Madrid; Guardian Vinicius expulsado; jurado r4 7/6/8 = 7,0 (r1 6,0; r3 6,7); foto Isco web actual",
+ "recordatorio": true
+}

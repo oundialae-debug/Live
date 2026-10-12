@@ -1,0 +1,14 @@
+{
+ "red": "instagram",
+ "hora": "2026-10-12T12:00:00+02:00",
+ "tipo": "meme",
+ "partido": "Anfield: pancartas cheats / Liverpool 0-3 Man City (Maresca)",
+ "text": "Man City got “cheats” banners and boos at Anfield. They left with a 3–0 win. Who won the day? 👇\n#ManCity #Liverpool #Maresca #PremierLeague #Football",
+ "titulo": "Man City at Anfield: banners before, 3-0 after",
+ "imagenes": [
+  "https://raw.githubusercontent.com/oundialae-debug/live/main/media/20261012_anfield_maresca.jpg"
+ ],
+ "variante": "hook=pregunta;formato=comparativa;hora=12",
+ "notas": "Guardian 'Tension, cheat banners and inflatable bananas' + Daily Mail BOOED + BBC/Football Italia 0-3; jurado 8/8/7 = 7,7; foto Guardian recortada sin logo; gesto de Maresca descrito, sin cita",
+ "recordatorio": true
+}
