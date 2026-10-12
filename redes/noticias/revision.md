@@ -54,3 +54,12 @@
 - Mirror: Sky Sports pundit breaks down in tears live on air before Southampton vs Portsmouth
 - Mirror: How to watch Southampton vs Portsmouth for free – TV channel, live stream, kick-off time
 
+## 12/10 15:13 · Barça matches historic start · revisar
+- Motivo: datos que no salen en los titulares: Barça
+- Temas: Barcelona
+- Yahoo: Six young talents Barcelona are closely monitoring including Manchester United gem
+- Yahoo: Barcelona homegrown star&#8217;s future in serious doubt as Flick sends another clear message
+- Yahoo: Barcelona head of scouting all but confirms interest in Brazilian defender: &#8216;Looking for a profile like his&#8217;
+- ge.globo: Vini Jr. deve ficar fora de Barcelona x Real Madrid após expulsão por puxão de cabelo
+- ge.globo: Gabriel Jesus tem começo mais eficiente no Barcelona do que em Arsenal e Manchester City
+

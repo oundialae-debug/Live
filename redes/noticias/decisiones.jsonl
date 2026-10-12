@@ -18,3 +18,4 @@
 {"t": "2026-10-12T08:53+00:00", "estado": "descartar", "temas": ["Betis"], "clave": "betis-osasuna-4-2", "motivo": "importancia 5 < 7"}
 {"t": "2026-10-12T09:53+00:00", "estado": "descartar", "temas": ["Juventus"], "clave": "cagliari-juventus-1-1", "motivo": "importancia 6 < 7"}
 {"t": "2026-10-12T11:52+00:00", "estado": "descartar", "temas": ["Enzo", "Iraola"], "clave": "city-0-3-liverpool", "motivo": "repetida (ya publicada/decidida)"}
+{"t": "2026-10-12T13:13+00:00", "estado": "revisar", "temas": ["Barcelona"], "clave": "barcelona-record-start", "motivo": "datos que no salen en los titulares: Barça"}
