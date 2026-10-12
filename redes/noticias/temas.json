@@ -1,5 +1,5 @@
 {
- "generado": "2026-10-12T16:49+00:00",
+ "generado": "2026-10-12T17:48+00:00",
  "temas": [
   {
    "tema": "Liverpool",
@@ -394,6 +394,100 @@
    ]
   },
   {
+   "tema": "Messi",
+   "medios": 13,
+   "lista_medios": [
+    "Daily Mail",
+    "Foot Mercato",
+    "Football Italia",
+    "Google News AR",
+    "Google News ES",
+    "Infobae",
+    "Kicker",
+    "L'Equipe",
+    "Mundo Deportivo",
+    "Ole",
+    "Planet Football",
+    "Record",
+    "talkSPORT"
+   ],
+   "primera_vez": "2026-10-11T16:00+00:00",
+   "titulares": [
+    {
+     "medio": "Football Italia",
+     "titulo": "Nico Paz: ‘Two amazing weeks with Messi, I don’t know about his no.10 shirt’",
+     "url": "https://football-italia.net/nico-paz-two-amazing-weeks-with-messi/",
+     "pub": "2026-10-11T15:46+00:00"
+    },
+    {
+     "medio": "L'Equipe",
+     "titulo": "Auteur d'un doublé, Lionel Messi jubile encore avec l'Inter Miami",
+     "url": "https://www.lequipe.fr/Football/Actualites/Auteur-d-un-double-lionel-messi-jubile-encore-avec-l-inter-miami/1724902#at_medium=RSS_feeds",
+     "pub": "2026-10-11T06:47+00:00"
+    },
+    {
+     "medio": "Foot Mercato",
+     "titulo": "Inter Miami : le nouveau doublé de Lionel Messi après ses adieux à l’Argentine",
+     "url": "https://www.footmercato.net/a8354376357581106776-inter-miami-le-nouveau-double-de-lionel-messi-apres-ses-adieux-a-largentine",
+     "pub": "2026-10-11T08:05+00:00"
+    },
+    {
+     "medio": "Infobae",
+     "titulo": "La sentida carta para Messi de un integrante del cuerpo técnico de la selección argentina tras su despedida: “El vacío será enorme”",
+     "url": "https://www.infobae.com/deportes/2026/10/11/la-sentida-carta-para-messi-de-un-integrante-del-cuerpo-tecnico-de-la-seleccion-argentina-tras-su-despedida-el-vacio-sera-enorme/",
+     "pub": "2026-10-11T10:42+00:00"
+    },
+    {
+     "medio": "Google News AR",
+     "titulo": "Messi eligió a 10 promesas del fútbol mundial y hay un argentino",
+     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNcWkxWUpEOG1NblRLLUl0LXNJSzFBRUVZWmVWU0JWcHJUejdyTV9USDVIZzBaQ0ljaWJtZ2xvTEo0a1NEd083MVdrNnBHSGhEeEZlNGM2OW1uNU5jbWV0QzlpYXBENnVCamF3YzYyWWx6LXZEM3NwNzRoWFdySDdwZ2dtUzE4LWlFeUkwOWZIa2hPSm_SAZgBQVVfeXFMTktWSks3ZzFVS1E3RVFIZXpiMk5ELWRfaU5jTDBtREtKYk9rY05LMTJ0d1JrZk1HMUtkMDJSRVNWTURZRTZDcGVRNHhpaGRmd25sZ1kyU3lNQTh4alhqVUFqWUsydlY3eGVncmZlazRmRkM4c3QyT1FpOTUzdldnY040d1BWMHdPRGRMZFhTT3pscE04VEVnTnM?oc=5",
+     "pub": "2026-10-11T14:03+00:00"
+    },
+    {
+     "medio": "Google News AR",
+     "titulo": "Messi presentó a las diez grandes promesas del fútbol mundial: quién es la joya de Boca que aparece entre los elegidos",
+     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNb2gxMXVaYWVrQi1wdk5sMmZia2hSbzBXcXpjRFFvTW02cjBlRVV1MkwwN0YwcGV5NmhSWGNSenhoaWJDWVJGSzc2V3QxeGtaUUpoWjRNd25YeFJJN1dubUJkWGFsZnlvLS1yV1ZmN2R5ei1nNldrV1dvTklfQTNMWUFSRWVvbDNHRFhodzdmZlRkR19PeVJSS3gwTEJOQlhQWjBqelZ3b1lISndnSm9OUExMQXNUVDJoTjlCLW1lMjg?oc=5",
+     "pub": "2026-10-11T13:25+00:00"
+    },
+    {
+     "medio": "Google News AR",
+     "titulo": "Messi eligió a las 10 futuras estrellas del fútbol mundial e incluyó a un juvenil de Boca",
+     "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQMlM5ZGFZX2xId2YxTzRKV3RIWlhNRktoWU5FMk1ENUphZ0VPdk5helpLcmo3SEpwS05HWHAzcnQ2VEI0QkZTWHRqd3pMakhRN3ZZSnNIZGtqZDFTR0xoWHRwQ2R5cC1kZTg2REtjU0w3N2tEWkd6aDlUUHo1U2FqNGlNVDFtUS1ETko4cE4zclVwRE5VcWFpUFFOeXFZOWN3NzIwejdwOG9tYU5CTFpRMUE2U01LcU56UDlOV1NzZVBJZE1Wenk1NDhyNHA0NzVBV2thMmozMXhuS0c5N1pmTNIB5gFBVV95cUxPTlZZUVliNTc2U0JRQ3dzMnV1WFRyLW4zUWlUWmFkYnM3aFVuY0tneEFtcklSSUl1SzRJNXhyakxyRWxabEcxZFU0V0JqdzZOUm1wRmpBaG5ITmJqNFNxY2daUjNRRTdiR2daRW0tOW1Ed3hfYzJFVmlXNGZVOWphZVVLUW9nSlR6Z2hiUEl1REhfMFc5eUhxN3hzOUJyR3A1WUdPVjVHUF9HRlpDa2RUV1NLOXo1c3ZIQ3NMMGNkQkFZVFZ4b2dvUjNjb1YxV3QzRmtudlhweGotUlZkZXN0U3ZYT0NfZw?oc=5",
+     "pub": "2026-10-11T14:19+00:00"
+    },
+    {
+     "medio": "Google News AR",
+     "titulo": "Messi eligió a las próximas diez estrellas del fútbol mundial: incluyó a un jugador de Boca",
+     "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOdlJKTEoxUWdKQTRQbmJiSDgyb0p4VjFIaE9WdWR1UW90RXBrTXJ4TzZhZE9qcnlpeGNoRjBJTGxLVThqMm1zZldNMGdBeG4tVDlzVjlpTnU5cmNDQ1NIRnpEYzVuSG5Dc2YzSm1LTm43cGlfbVhVckloM0JtTG5XdGNDdUJvYkVMcm9WMG10TlZjNW9JdGhFS3F3UjJPUVJoVDl6U0YwcEdSQkR1WEJDVFJPSG11RDNBUk0xelJqcHZ6MjNNdTRrR081aXI4WjhKWjRWSmwtRjctZWZkTVB4U3RiQUphQQ?oc=5",
+     "pub": "2026-10-11T12:47+00:00"
+    },
+    {
+     "medio": "Google News AR",
+     "titulo": "Lionel Messi eligió a las promesas del fútbol mundial e incluyó a una joya del fútbol argentino",
+     "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNQnVCeGtBR0NLelowUV9tOW0wQmJ0dFNVZGdyZ2FBdTRoN0ktb3h4d3JITkp2Wi1vRkhhY2tQY1NwekY4TFV4U1FJNGhfRkJUNXZCWHRGdGRhQmpHbVB6U2JwSkZHX2RPX2x4a3VSVTE5SkVuSWZRMTNMdm5rVV9UWS1NVFoyTFY5TjBsd2duS3Uwb0MwX0RoOUx3OUFqMVo4TDlZdHNkQ05GQ2RkMHJVTFpteDRtMGxXOENadXAyZXpXSVBpRUpDYkJvWVFRZmtv0gHQAUFVX3lxTE1CdUJ4a0FHQ0t6WjBRX205bTBCYnR0U1VkZ3JnYUF1NGg3SS1veHh3ckhOSnZaLW9GSGFja1BjU3B6RjhMVXhTUUk0aF9GQlQ1dkJYdEZ0ZGFCakdtUHpTYnBKRkdfZE9fbHhrdVJVMTlKRW5JZlExM0x2bmtVX1RZLU1UWjJMVjlOMGx3Z25LdTBvQzBfRGg5THc5QWoxWjhMOVl0c2RDTkZDZGQwclVMWm14NG0wbFc4Q1p1cDJleldJUGlFSkNiQm9ZUVFma28?oc=5",
+     "pub": "2026-10-11T12:46+00:00"
+    },
+    {
+     "medio": "Google News AR",
+     "titulo": "Lionel Messi seleccionó a las 10 promesas del fútbol mundial e incluyó a una joya de Boca Juniors",
+     "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOdW5IX2JYREhsV194UnEtd09Nd0pfT05PTVFIemhhN1RibjctWW5GOTJQTkxXQjJ3eXZEelY3dk1XSmdBODZoTWFfNm0zeHBOQWFQbUlJaXlkazNZWnhINFVtTy1abUl3LWZxdHRtZEo0M2t4dC01R09lT1VrNW5FUEdMdTZiMzdCUFFoVFItUS1Tb3h3TnpJcFNPdDhPT0hlVVJCR3lWLUVjSkJJNElhZ1UtMW12dGZMSW8xV1hqbFkweDJZN2JQRkxVbkV6RnpmSmVvMzVaYmhrSlEzcVHSAecBQVVfeXFMUHZKajdVT3B1dGdfbWx0RnFaQjE2UzhPY2I4N0RrU0VIZFBTZTI1OGZ2djVBbWJsMTlsTjBmZF9vUl9KckMzUk1jbElwVnJMbjZYbFBxdnRJcmZuRC1wajZBNXA3M0NKaV9henZFcEIzVjdkZTRrQ29zamtwZEFpX2QySE16VU9pZFZtVmpJcFVKcExySHljTFJvQjdxLTVGX1FuRjVxdGtCdW5yckhOdURCRm85eG5rbVBsdE5xSVhMSU5UV0x4bnRnRHJyUHhWQV9kR3NJa0E0ZUpHc1ZVc0lhTWwzbktR?oc=5",
+     "pub": "2026-10-11T15:07+00:00"
+    },
+    {
+     "medio": "Google News AR",
+     "titulo": "Messi eligió a las próximas diez estrellas del fútbol mundial e incluyó a una joya de Boca",
+     "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNSTlwS3JfZ296OGg0c29zYnZyTzBLTGxzX3F1d0ZMQUZVd0NDUHdHNVRuamxBMHJYSkt4U2JsaFRaci05RDhhcjBvTVVaZjJLZTdrTU5OSGhhcVk0QmtWcVNnTVEwMkEwbldQV0pWN0h2QTBoWl9KcFVrb3dSY05iYi1XOTNCaVJZV3BiWEdQckJOUXFLS3NFZkQ3T1VsMjBGZ0tyUDZ3a1JzSFdnQ01DZ1JkeXhWbkpZV3BxMmFoaUNITnZ4SUNzOVZpSdIBywFBVV95cUxNSTlwS3JfZ296OGg0c29zYnZyTzBLTGxzX3F1d0ZMQUZVd0NDUHdHNVRuamxBMHJYSkt4U2JsaFRaci05RDhhcjBvTVVaZjJLZTdrTU5OSGhhcVk0QmtWcVNnTVEwMkEwbldQV0pWN0h2QTBoWl9KcFVrb3dSY05iYi1XOTNCaVJZV3BiWEdQckJOUXFLS3NFZkQ3T1VsMjBGZ0tyUDZ3a1JzSFdnQ01DZ1JkeXhWbkpZV3BxMmFoaUNITnZ4SUNzOVZpSQ?oc=5",
+     "pub": "2026-10-11T13:38+00:00"
+    },
+    {
+     "medio": "Google News AR",
+     "titulo": "Messi eligió a las próximas 10 futuras estrellas del fútbol y sorprendió al incluir a uno de Boca",
+     "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNenJNeXNwMEZLU2VHZERXc3V0ZC1waXpoUDYxWFpoeXY3aUlyanM1dlF1LXdzbHBpZDluY3liTUNoU0hSMWk5ZUtiRnFHeTFLMWtzdjVIbjdaU1p0WWpXTHNhVFpnNE1acUJDbUhSNl9DcVBJWmszdDdIVWpDMEptOUthVGJJUE90NUZhT3ZDeTdlaFlwak8zM3phSlAxNnN3UXVJZHdKSDJxa00taVZYV0tua0dvOV90Si1sOVhSa3VpdEQzV1VzeDRiMGl4SW9uQ0VUMGVZN2tfNzJKT1lUVllSZk1RTU0?oc=5",
+     "pub": "2026-10-11T14:55+00:00"
+    }
+   ]
+  },
+  {
    "tema": "Man",
    "medios": 12,
    "lista_medios": [
@@ -412,12 +506,6 @@
    ],
    "primera_vez": "2026-10-11T16:00+00:00",
    "titulares": [
-    {
-     "medio": "BBC",
-     "titulo": "Toxicity and uncertainty await Man City - will their season even matter?",
-     "url": "https://www.bbc.co.uk/sport/football/articles/cvy0rp14xz7lo?at_medium=RSS&at_campaign=rss",
-     "pub": "2026-10-11T05:27+00:00"
-    },
     {
      "medio": "Sky Sports",
      "titulo": "Keane asked if Micah should lose his Man City title",
@@ -483,6 +571,12 @@
      "titulo": "Man City relegation odds: What price are they to drop down to the Championship?",
      "url": "https://www.mirror.co.uk/sport/football/news/man-city-relegation-odds-punishment-37760134",
      "pub": "2026-10-11T13:57+00:00"
+    },
+    {
+     "medio": "Mirror",
+     "titulo": "Roy Keane says ex-Man City stars should be DISGUSTED by club's 'dodgy dealings'",
+     "url": "https://www.mirror.co.uk/sport/football/news/roy-keane-man-city-charges-37760104",
+     "pub": "2026-10-11T13:43+00:00"
     }
    ]
   },
@@ -580,99 +674,6 @@
    ]
   },
   {
-   "tema": "Seedorf",
-   "medios": 12,
-   "lista_medios": [
-    "AS",
-    "BBC",
-    "Foot Mercato",
-    "Google News AR",
-    "Google News EN",
-    "Kicker",
-    "L'Equipe",
-    "Mundo Deportivo",
-    "Planet Football",
-    "Record",
-    "Yahoo",
-    "ge.globo"
-   ],
-   "primera_vez": "2026-10-11T16:00+00:00",
-   "titulares": [
-    {
-     "medio": "Yahoo",
-     "titulo": "Corinthians signing Seedorf shocks social media; see the reactions 🤣",
-     "url": "https://sports.yahoo.com/articles/corinthians-signing-seedorf-shocks-social-143300478.html",
-     "pub": "2026-10-11T14:33+00:00"
-    },
-    {
-     "medio": "AS",
-     "titulo": "Oficial: Seedorf, a Corinthians",
-     "url": "https://as.com/futbol/internacional/oficial-seedorf-a-corinthians-f202610-n/",
-     "pub": "2026-10-11T14:33+00:00"
-    },
-    {
-     "medio": "Foot Mercato",
-     "titulo": "Clarence Seedorf nouvel entraîneur des Corinthians",
-     "url": "https://www.footmercato.net/a7448500962750134282-clarence-seedorf-nouvel-entraineur-des-corinthians",
-     "pub": "2026-10-11T14:36+00:00"
-    },
-    {
-     "medio": "Record",
-     "titulo": "<![CDATA[ Seedorf é o eleito do Corinthians para tentar fugir da descida ]]>",
-     "url": "https://www.record.pt/internacional/paises/brasil/detalhe/seedorf-e-o-eleito-do-corinthians-para-tentar-fugir-da-descida",
-     "pub": "2026-10-11T15:32+00:00"
-    },
-    {
-     "medio": "ge.globo",
-     "titulo": "Contrato de Seedorf com o Corinthians prevê rescisão em caso de rebaixamento à Série B",
-     "url": "https://ge.globo.com/futebol/times/corinthians/noticia/2026/10/11/contrato-de-seedorf-com-o-corinthians-preve-rescisao-em-caso-de-rebaixamento-a-serie-b.ghtml",
-     "pub": "2026-10-11T15:37+00:00"
-    },
-    {
-     "medio": "ge.globo",
-     "titulo": "Empresários detalham indicação de Seedorf a Marcelo Paz e explicam acerto com o Corinthians",
-     "url": "https://ge.globo.com/futebol/times/corinthians/noticia/2026/10/11/empresarios-detalham-indicacao-de-seedorf-a-marcelo-paz-e-explicam-acerto-com-o-corinthians.ghtml",
-     "pub": "2026-10-11T14:49+00:00"
-    },
-    {
-     "medio": "ge.globo",
-     "titulo": "Corinthians contrata Seedorf como novo técnico",
-     "url": "https://ge.globo.com/futebol/times/corinthians/noticia/2026/10/11/corinthians-contrata-seedorf-como-novo-tecnico.ghtml",
-     "pub": "2026-10-11T14:05+00:00"
-    },
-    {
-     "medio": "Mundo Deportivo",
-     "titulo": "Seedorf encuentra equipo",
-     "url": "https://www.mundodeportivo.com/futbol/fichajes/oficial/20261011/1004237453/seedorf-encuentra-equipo.html",
-     "pub": ""
-    },
-    {
-     "medio": "L'Equipe",
-     "titulo": "Clarence Seedorf devient l'entraîneur du Corinthians et s'engage jusqu'à fin 2027 avec le club brésilien",
-     "url": "https://www.lequipe.fr/Football/Actualites/Clarence-seedorf-devient-l-entraineur-du-corinthians-et-s-engage-jusqu-a-fin-2027-avec-le-club-bresilien/1724987#at_medium=RSS_feeds",
-     "pub": "2026-10-11T15:45+00:00"
-    },
-    {
-     "medio": "Google News AR",
-     "titulo": "Clarence Seedorf vuelve al fútbol brasileño: es el nuevo entrenador de Corinthians",
-     "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQcG8yeHc0RVQ3VzZpTlZYYnRjd3k5NHc2RXpOaEZmX2kwZ2lEMGZIVEhFemJydG9kamJuTllHbTM4Y2xOQWd0Vmw1MUllbEpsNl9zRHByV2ZsVTNVWlRSSmFfaGpYZE1QSlRURVB0cXF0VXUzZFkwWWxXN25ObWs5anNPeHJnaGFZMi1XSVlRVXR4ZHozVWRwVktqcnRIOExNWkxMUTZONEN2S0thN0xhT0Y1YkNGRElaVk84blpXakh2SlpuLWZ1cDd4d0R5VFM0YTV2UjJRYk5pVUoxMmVSX0Rn?oc=5",
-     "pub": "2026-10-11T16:39+00:00"
-    },
-    {
-     "medio": "ge.globo",
-     "titulo": "Seedorf pede apoio da torcida do Corinthians e promete \"fazer o melhor\"",
-     "url": "https://ge.globo.com/futebol/times/corinthians/noticia/2026/10/11/seedorf-pede-apoio-da-torcida-do-corinthians-e-promete-fazer-o-melhor.ghtml",
-     "pub": "2026-10-11T17:04+00:00"
-    },
-    {
-     "medio": "ge.globo",
-     "titulo": "Marcelo Paz explica escolha por Seedorf e quer Corinthians pragmático: \"Ganhar de 1 a 0\"",
-     "url": "https://ge.globo.com/futebol/times/corinthians/noticia/2026/10/11/marcelo-paz-explica-escolha-por-seedorf-e-quer-corinthians-pragmatico-ganhar-de-1-a-0.ghtml",
-     "pub": "2026-10-11T20:12+00:00"
-    }
-   ]
-  },
-  {
    "tema": "Corinthians",
    "medios": 12,
    "lista_medios": [
@@ -766,95 +767,95 @@
    ]
   },
   {
-   "tema": "Messi",
+   "tema": "Seedorf",
    "medios": 12,
    "lista_medios": [
-    "Daily Mail",
+    "AS",
+    "BBC",
     "Foot Mercato",
-    "Football Italia",
     "Google News AR",
-    "Google News ES",
-    "Infobae",
+    "Google News EN",
     "Kicker",
     "L'Equipe",
     "Mundo Deportivo",
-    "Ole",
     "Planet Football",
-    "Record"
+    "Record",
+    "Yahoo",
+    "ge.globo"
    ],
    "primera_vez": "2026-10-11T16:00+00:00",
    "titulares": [
     {
-     "medio": "Football Italia",
-     "titulo": "Nico Paz: ‘Two amazing weeks with Messi, I don’t know about his no.10 shirt’",
-     "url": "https://football-italia.net/nico-paz-two-amazing-weeks-with-messi/",
-     "pub": "2026-10-11T15:46+00:00"
+     "medio": "Yahoo",
+     "titulo": "Corinthians signing Seedorf shocks social media; see the reactions 🤣",
+     "url": "https://sports.yahoo.com/articles/corinthians-signing-seedorf-shocks-social-143300478.html",
+     "pub": "2026-10-11T14:33+00:00"
     },
     {
-     "medio": "L'Equipe",
-     "titulo": "Auteur d'un doublé, Lionel Messi jubile encore avec l'Inter Miami",
-     "url": "https://www.lequipe.fr/Football/Actualites/Auteur-d-un-double-lionel-messi-jubile-encore-avec-l-inter-miami/1724902#at_medium=RSS_feeds",
-     "pub": "2026-10-11T06:47+00:00"
+     "medio": "AS",
+     "titulo": "Oficial: Seedorf, a Corinthians",
+     "url": "https://as.com/futbol/internacional/oficial-seedorf-a-corinthians-f202610-n/",
+     "pub": "2026-10-11T14:33+00:00"
     },
     {
      "medio": "Foot Mercato",
-     "titulo": "Inter Miami : le nouveau doublé de Lionel Messi après ses adieux à l’Argentine",
-     "url": "https://www.footmercato.net/a8354376357581106776-inter-miami-le-nouveau-double-de-lionel-messi-apres-ses-adieux-a-largentine",
-     "pub": "2026-10-11T08:05+00:00"
+     "titulo": "Clarence Seedorf nouvel entraîneur des Corinthians",
+     "url": "https://www.footmercato.net/a7448500962750134282-clarence-seedorf-nouvel-entraineur-des-corinthians",
+     "pub": "2026-10-11T14:36+00:00"
     },
     {
-     "medio": "Infobae",
-     "titulo": "La sentida carta para Messi de un integrante del cuerpo técnico de la selección argentina tras su despedida: “El vacío será enorme”",
-     "url": "https://www.infobae.com/deportes/2026/10/11/la-sentida-carta-para-messi-de-un-integrante-del-cuerpo-tecnico-de-la-seleccion-argentina-tras-su-despedida-el-vacio-sera-enorme/",
-     "pub": "2026-10-11T10:42+00:00"
+     "medio": "Record",
+     "titulo": "<![CDATA[ Seedorf é o eleito do Corinthians para tentar fugir da descida ]]>",
+     "url": "https://www.record.pt/internacional/paises/brasil/detalhe/seedorf-e-o-eleito-do-corinthians-para-tentar-fugir-da-descida",
+     "pub": "2026-10-11T15:32+00:00"
     },
     {
-     "medio": "Google News AR",
-     "titulo": "Messi eligió a 10 promesas del fútbol mundial y hay un argentino",
-     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNcWkxWUpEOG1NblRLLUl0LXNJSzFBRUVZWmVWU0JWcHJUejdyTV9USDVIZzBaQ0ljaWJtZ2xvTEo0a1NEd083MVdrNnBHSGhEeEZlNGM2OW1uNU5jbWV0QzlpYXBENnVCamF3YzYyWWx6LXZEM3NwNzRoWFdySDdwZ2dtUzE4LWlFeUkwOWZIa2hPSm_SAZgBQVVfeXFMTktWSks3ZzFVS1E3RVFIZXpiMk5ELWRfaU5jTDBtREtKYk9rY05LMTJ0d1JrZk1HMUtkMDJSRVNWTURZRTZDcGVRNHhpaGRmd25sZ1kyU3lNQTh4alhqVUFqWUsydlY3eGVncmZlazRmRkM4c3QyT1FpOTUzdldnY040d1BWMHdPRGRMZFhTT3pscE04VEVnTnM?oc=5",
-     "pub": "2026-10-11T14:03+00:00"
+     "medio": "ge.globo",
+     "titulo": "Contrato de Seedorf com o Corinthians prevê rescisão em caso de rebaixamento à Série B",
+     "url": "https://ge.globo.com/futebol/times/corinthians/noticia/2026/10/11/contrato-de-seedorf-com-o-corinthians-preve-rescisao-em-caso-de-rebaixamento-a-serie-b.ghtml",
+     "pub": "2026-10-11T15:37+00:00"
     },
     {
-     "medio": "Google News AR",
-     "titulo": "Messi presentó a las diez grandes promesas del fútbol mundial: quién es la joya de Boca que aparece entre los elegidos",
-     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNb2gxMXVaYWVrQi1wdk5sMmZia2hSbzBXcXpjRFFvTW02cjBlRVV1MkwwN0YwcGV5NmhSWGNSenhoaWJDWVJGSzc2V3QxeGtaUUpoWjRNd25YeFJJN1dubUJkWGFsZnlvLS1yV1ZmN2R5ei1nNldrV1dvTklfQTNMWUFSRWVvbDNHRFhodzdmZlRkR19PeVJSS3gwTEJOQlhQWjBqelZ3b1lISndnSm9OUExMQXNUVDJoTjlCLW1lMjg?oc=5",
-     "pub": "2026-10-11T13:25+00:00"
+     "medio": "ge.globo",
+     "titulo": "Empresários detalham indicação de Seedorf a Marcelo Paz e explicam acerto com o Corinthians",
+     "url": "https://ge.globo.com/futebol/times/corinthians/noticia/2026/10/11/empresarios-detalham-indicacao-de-seedorf-a-marcelo-paz-e-explicam-acerto-com-o-corinthians.ghtml",
+     "pub": "2026-10-11T14:49+00:00"
     },
     {
-     "medio": "Google News AR",
-     "titulo": "Messi eligió a las 10 futuras estrellas del fútbol mundial e incluyó a un juvenil de Boca",
-     "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQMlM5ZGFZX2xId2YxTzRKV3RIWlhNRktoWU5FMk1ENUphZ0VPdk5helpLcmo3SEpwS05HWHAzcnQ2VEI0QkZTWHRqd3pMakhRN3ZZSnNIZGtqZDFTR0xoWHRwQ2R5cC1kZTg2REtjU0w3N2tEWkd6aDlUUHo1U2FqNGlNVDFtUS1ETko4cE4zclVwRE5VcWFpUFFOeXFZOWN3NzIwejdwOG9tYU5CTFpRMUE2U01LcU56UDlOV1NzZVBJZE1Wenk1NDhyNHA0NzVBV2thMmozMXhuS0c5N1pmTNIB5gFBVV95cUxPTlZZUVliNTc2U0JRQ3dzMnV1WFRyLW4zUWlUWmFkYnM3aFVuY0tneEFtcklSSUl1SzRJNXhyakxyRWxabEcxZFU0V0JqdzZOUm1wRmpBaG5ITmJqNFNxY2daUjNRRTdiR2daRW0tOW1Ed3hfYzJFVmlXNGZVOWphZVVLUW9nSlR6Z2hiUEl1REhfMFc5eUhxN3hzOUJyR3A1WUdPVjVHUF9HRlpDa2RUV1NLOXo1c3ZIQ3NMMGNkQkFZVFZ4b2dvUjNjb1YxV3QzRmtudlhweGotUlZkZXN0U3ZYT0NfZw?oc=5",
-     "pub": "2026-10-11T14:19+00:00"
+     "medio": "ge.globo",
+     "titulo": "Corinthians contrata Seedorf como novo técnico",
+     "url": "https://ge.globo.com/futebol/times/corinthians/noticia/2026/10/11/corinthians-contrata-seedorf-como-novo-tecnico.ghtml",
+     "pub": "2026-10-11T14:05+00:00"
     },
     {
-     "medio": "Google News AR",
-     "titulo": "Messi eligió a las próximas diez estrellas del fútbol mundial: incluyó a un jugador de Boca",
-     "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOdlJKTEoxUWdKQTRQbmJiSDgyb0p4VjFIaE9WdWR1UW90RXBrTXJ4TzZhZE9qcnlpeGNoRjBJTGxLVThqMm1zZldNMGdBeG4tVDlzVjlpTnU5cmNDQ1NIRnpEYzVuSG5Dc2YzSm1LTm43cGlfbVhVckloM0JtTG5XdGNDdUJvYkVMcm9WMG10TlZjNW9JdGhFS3F3UjJPUVJoVDl6U0YwcEdSQkR1WEJDVFJPSG11RDNBUk0xelJqcHZ6MjNNdTRrR081aXI4WjhKWjRWSmwtRjctZWZkTVB4U3RiQUphQQ?oc=5",
-     "pub": "2026-10-11T12:47+00:00"
+     "medio": "Mundo Deportivo",
+     "titulo": "Seedorf encuentra equipo",
+     "url": "https://www.mundodeportivo.com/futbol/fichajes/oficial/20261011/1004237453/seedorf-encuentra-equipo.html",
+     "pub": ""
     },
     {
-     "medio": "Google News AR",
-     "titulo": "Lionel Messi eligió a las promesas del fútbol mundial e incluyó a una joya del fútbol argentino",
-     "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNQnVCeGtBR0NLelowUV9tOW0wQmJ0dFNVZGdyZ2FBdTRoN0ktb3h4d3JITkp2Wi1vRkhhY2tQY1NwekY4TFV4U1FJNGhfRkJUNXZCWHRGdGRhQmpHbVB6U2JwSkZHX2RPX2x4a3VSVTE5SkVuSWZRMTNMdm5rVV9UWS1NVFoyTFY5TjBsd2duS3Uwb0MwX0RoOUx3OUFqMVo4TDlZdHNkQ05GQ2RkMHJVTFpteDRtMGxXOENadXAyZXpXSVBpRUpDYkJvWVFRZmtv0gHQAUFVX3lxTE1CdUJ4a0FHQ0t6WjBRX205bTBCYnR0U1VkZ3JnYUF1NGg3SS1veHh3ckhOSnZaLW9GSGFja1BjU3B6RjhMVXhTUUk0aF9GQlQ1dkJYdEZ0ZGFCakdtUHpTYnBKRkdfZE9fbHhrdVJVMTlKRW5JZlExM0x2bmtVX1RZLU1UWjJMVjlOMGx3Z25LdTBvQzBfRGg5THc5QWoxWjhMOVl0c2RDTkZDZGQwclVMWm14NG0wbFc4Q1p1cDJleldJUGlFSkNiQm9ZUVFma28?oc=5",
-     "pub": "2026-10-11T12:46+00:00"
-    },
-    {
-     "medio": "Google News AR",
-     "titulo": "Lionel Messi seleccionó a las 10 promesas del fútbol mundial e incluyó a una joya de Boca Juniors",
-     "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOdW5IX2JYREhsV194UnEtd09Nd0pfT05PTVFIemhhN1RibjctWW5GOTJQTkxXQjJ3eXZEelY3dk1XSmdBODZoTWFfNm0zeHBOQWFQbUlJaXlkazNZWnhINFVtTy1abUl3LWZxdHRtZEo0M2t4dC01R09lT1VrNW5FUEdMdTZiMzdCUFFoVFItUS1Tb3h3TnpJcFNPdDhPT0hlVVJCR3lWLUVjSkJJNElhZ1UtMW12dGZMSW8xV1hqbFkweDJZN2JQRkxVbkV6RnpmSmVvMzVaYmhrSlEzcVHSAecBQVVfeXFMUHZKajdVT3B1dGdfbWx0RnFaQjE2UzhPY2I4N0RrU0VIZFBTZTI1OGZ2djVBbWJsMTlsTjBmZF9vUl9KckMzUk1jbElwVnJMbjZYbFBxdnRJcmZuRC1wajZBNXA3M0NKaV9henZFcEIzVjdkZTRrQ29zamtwZEFpX2QySE16VU9pZFZtVmpJcFVKcExySHljTFJvQjdxLTVGX1FuRjVxdGtCdW5yckhOdURCRm85eG5rbVBsdE5xSVhMSU5UV0x4bnRnRHJyUHhWQV9kR3NJa0E0ZUpHc1ZVc0lhTWwzbktR?oc=5",
-     "pub": "2026-10-11T15:07+00:00"
+     "medio": "L'Equipe",
+     "titulo": "Clarence Seedorf devient l'entraîneur du Corinthians et s'engage jusqu'à fin 2027 avec le club brésilien",
+     "url": "https://www.lequipe.fr/Football/Actualites/Clarence-seedorf-devient-l-entraineur-du-corinthians-et-s-engage-jusqu-a-fin-2027-avec-le-club-bresilien/1724987#at_medium=RSS_feeds",
+     "pub": "2026-10-11T15:45+00:00"
     },
     {
      "medio": "Google News AR",
-     "titulo": "Messi eligió a las próximas diez estrellas del fútbol mundial e incluyó a una joya de Boca",
-     "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNSTlwS3JfZ296OGg0c29zYnZyTzBLTGxzX3F1d0ZMQUZVd0NDUHdHNVRuamxBMHJYSkt4U2JsaFRaci05RDhhcjBvTVVaZjJLZTdrTU5OSGhhcVk0QmtWcVNnTVEwMkEwbldQV0pWN0h2QTBoWl9KcFVrb3dSY05iYi1XOTNCaVJZV3BiWEdQckJOUXFLS3NFZkQ3T1VsMjBGZ0tyUDZ3a1JzSFdnQ01DZ1JkeXhWbkpZV3BxMmFoaUNITnZ4SUNzOVZpSdIBywFBVV95cUxNSTlwS3JfZ296OGg0c29zYnZyTzBLTGxzX3F1d0ZMQUZVd0NDUHdHNVRuamxBMHJYSkt4U2JsaFRaci05RDhhcjBvTVVaZjJLZTdrTU5OSGhhcVk0QmtWcVNnTVEwMkEwbldQV0pWN0h2QTBoWl9KcFVrb3dSY05iYi1XOTNCaVJZV3BiWEdQckJOUXFLS3NFZkQ3T1VsMjBGZ0tyUDZ3a1JzSFdnQ01DZ1JkeXhWbkpZV3BxMmFoaUNITnZ4SUNzOVZpSQ?oc=5",
-     "pub": "2026-10-11T13:38+00:00"
+     "titulo": "Clarence Seedorf vuelve al fútbol brasileño: es el nuevo entrenador de Corinthians",
+     "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQcG8yeHc0RVQ3VzZpTlZYYnRjd3k5NHc2RXpOaEZmX2kwZ2lEMGZIVEhFemJydG9kamJuTllHbTM4Y2xOQWd0Vmw1MUllbEpsNl9zRHByV2ZsVTNVWlRSSmFfaGpYZE1QSlRURVB0cXF0VXUzZFkwWWxXN25ObWs5anNPeHJnaGFZMi1XSVlRVXR4ZHozVWRwVktqcnRIOExNWkxMUTZONEN2S0thN0xhT0Y1YkNGRElaVk84blpXakh2SlpuLWZ1cDd4d0R5VFM0YTV2UjJRYk5pVUoxMmVSX0Rn?oc=5",
+     "pub": "2026-10-11T16:39+00:00"
     },
     {
-     "medio": "Google News AR",
-     "titulo": "Messi eligió a las próximas 10 futuras estrellas del fútbol y sorprendió al incluir a uno de Boca",
-     "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNenJNeXNwMEZLU2VHZERXc3V0ZC1waXpoUDYxWFpoeXY3aUlyanM1dlF1LXdzbHBpZDluY3liTUNoU0hSMWk5ZUtiRnFHeTFLMWtzdjVIbjdaU1p0WWpXTHNhVFpnNE1acUJDbUhSNl9DcVBJWmszdDdIVWpDMEptOUthVGJJUE90NUZhT3ZDeTdlaFlwak8zM3phSlAxNnN3UXVJZHdKSDJxa00taVZYV0tua0dvOV90Si1sOVhSa3VpdEQzV1VzeDRiMGl4SW9uQ0VUMGVZN2tfNzJKT1lUVllSZk1RTU0?oc=5",
-     "pub": "2026-10-11T14:55+00:00"
+     "medio": "ge.globo",
+     "titulo": "Seedorf pede apoio da torcida do Corinthians e promete \"fazer o melhor\"",
+     "url": "https://ge.globo.com/futebol/times/corinthians/noticia/2026/10/11/seedorf-pede-apoio-da-torcida-do-corinthians-e-promete-fazer-o-melhor.ghtml",
+     "pub": "2026-10-11T17:04+00:00"
+    },
+    {
+     "medio": "ge.globo",
+     "titulo": "Marcelo Paz explica escolha por Seedorf e quer Corinthians pragmático: \"Ganhar de 1 a 0\"",
+     "url": "https://ge.globo.com/futebol/times/corinthians/noticia/2026/10/11/marcelo-paz-explica-escolha-por-seedorf-e-quer-corinthians-pragmatico-ganhar-de-1-a-0.ghtml",
+     "pub": "2026-10-11T20:12+00:00"
     }
    ]
   },
@@ -1039,6 +1040,98 @@
      "titulo": "Manchester City se balade, Arsenal et l'Olympiakos sur le fil : les résultats des prochains adversaires des clubs français en Coupe d'Europe",
      "url": "https://www.lequipe.fr/Football/Actualites/Manchester-city-se-balade-arsenal-et-l-olympiakos-sur-le-fil-les-resultats-des-prochains-adversaires-des-clubs-francais-en-coupe-d-europe/1725099#at_medium=RSS_feeds",
      "pub": "2026-10-11T22:12+00:00"
+    }
+   ]
+  },
+  {
+   "tema": "Lionel",
+   "medios": 11,
+   "lista_medios": [
+    "Daily Mail",
+    "Foot Mercato",
+    "Google News AR",
+    "Google News ES",
+    "Infobae",
+    "L'Equipe",
+    "Mirror",
+    "Ole",
+    "Planet Football",
+    "Record",
+    "talkSPORT"
+   ],
+   "primera_vez": "2026-10-11T16:00+00:00",
+   "titulares": [
+    {
+     "medio": "L'Equipe",
+     "titulo": "Auteur d'un doublé, Lionel Messi jubile encore avec l'Inter Miami",
+     "url": "https://www.lequipe.fr/Football/Actualites/Auteur-d-un-double-lionel-messi-jubile-encore-avec-l-inter-miami/1724902#at_medium=RSS_feeds",
+     "pub": "2026-10-11T06:47+00:00"
+    },
+    {
+     "medio": "Foot Mercato",
+     "titulo": "Inter Miami : le nouveau doublé de Lionel Messi après ses adieux à l’Argentine",
+     "url": "https://www.footmercato.net/a8354376357581106776-inter-miami-le-nouveau-double-de-lionel-messi-apres-ses-adieux-a-largentine",
+     "pub": "2026-10-11T08:05+00:00"
+    },
+    {
+     "medio": "Infobae",
+     "titulo": "Lionel Scaloni sumó otro desafío en el ciclismo y completó el Gran Fondo Buenos Aires: “Quería disfrutar de la ciudad sin coches”",
+     "url": "https://www.infobae.com/deportes/2026/10/11/lionel-scaloni-sumo-otro-desafio-en-el-ciclismo-y-completo-el-gran-fondo-buenos-aires-queria-disfrutar-de-la-ciudad-sin-coches/",
+     "pub": "2026-10-11T15:36+00:00"
+    },
+    {
+     "medio": "Google News AR",
+     "titulo": "Lionel Messi eligió a las promesas del fútbol mundial e incluyó a una joya del fútbol argentino",
+     "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNQnVCeGtBR0NLelowUV9tOW0wQmJ0dFNVZGdyZ2FBdTRoN0ktb3h4d3JITkp2Wi1vRkhhY2tQY1NwekY4TFV4U1FJNGhfRkJUNXZCWHRGdGRhQmpHbVB6U2JwSkZHX2RPX2x4a3VSVTE5SkVuSWZRMTNMdm5rVV9UWS1NVFoyTFY5TjBsd2duS3Uwb0MwX0RoOUx3OUFqMVo4TDlZdHNkQ05GQ2RkMHJVTFpteDRtMGxXOENadXAyZXpXSVBpRUpDYkJvWVFRZmtv0gHQAUFVX3lxTE1CdUJ4a0FHQ0t6WjBRX205bTBCYnR0U1VkZ3JnYUF1NGg3SS1veHh3ckhOSnZaLW9GSGFja1BjU3B6RjhMVXhTUUk0aF9GQlQ1dkJYdEZ0ZGFCakdtUHpTYnBKRkdfZE9fbHhrdVJVMTlKRW5JZlExM0x2bmtVX1RZLU1UWjJMVjlOMGx3Z25LdTBvQzBfRGg5THc5QWoxWjhMOVl0c2RDTkZDZGQwclVMWm14NG0wbFc4Q1p1cDJleldJUGlFSkNiQm9ZUVFma28?oc=5",
+     "pub": "2026-10-11T12:46+00:00"
+    },
+    {
+     "medio": "Google News AR",
+     "titulo": "Lionel Messi seleccionó a las 10 promesas del fútbol mundial e incluyó a una joya de Boca Juniors",
+     "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOdW5IX2JYREhsV194UnEtd09Nd0pfT05PTVFIemhhN1RibjctWW5GOTJQTkxXQjJ3eXZEelY3dk1XSmdBODZoTWFfNm0zeHBOQWFQbUlJaXlkazNZWnhINFVtTy1abUl3LWZxdHRtZEo0M2t4dC01R09lT1VrNW5FUEdMdTZiMzdCUFFoVFItUS1Tb3h3TnpJcFNPdDhPT0hlVVJCR3lWLUVjSkJJNElhZ1UtMW12dGZMSW8xV1hqbFkweDJZN2JQRkxVbkV6RnpmSmVvMzVaYmhrSlEzcVHSAecBQVVfeXFMUHZKajdVT3B1dGdfbWx0RnFaQjE2UzhPY2I4N0RrU0VIZFBTZTI1OGZ2djVBbWJsMTlsTjBmZF9vUl9KckMzUk1jbElwVnJMbjZYbFBxdnRJcmZuRC1wajZBNXA3M0NKaV9henZFcEIzVjdkZTRrQ29zamtwZEFpX2QySE16VU9pZFZtVmpJcFVKcExySHljTFJvQjdxLTVGX1FuRjVxdGtCdW5yckhOdURCRm85eG5rbVBsdE5xSVhMSU5UV0x4bnRnRHJyUHhWQV9kR3NJa0E0ZUpHc1ZVc0lhTWwzbktR?oc=5",
+     "pub": "2026-10-11T15:07+00:00"
+    },
+    {
+     "medio": "Google News AR",
+     "titulo": "Lionel Messi eligió a las 10 joyas del futuro y sorprendió con un crack del fútbol argentino",
+     "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPUEZkQ2RBN0I0NDQwaGdSTk0xVVVPaFJuRmhQMl8zSkI2U05mc3FiV2xWNHpKZXowUGk3LUJZOEIyWV9KSHBfTmRnaHdiWHhsMDV2bFZiMXhQZzZTM2JiMEtjSlV2VDJuc1RtY0cwVWQ1TzVmMGZCanRleDRNdHlDNXlKdTh5bWlmRk9ERVQ2OVlvd2tlUld5WUdYMkx4aDhWYkpRUHp1X080VUNMNVp4NXVqUzY4cUFjR2hkY1ZNZmNlMzlSS0ZsMWRDYkZTRDFFcmZ0ellHRQ?oc=5",
+     "pub": "2026-10-11T14:10+00:00"
+    },
+    {
+     "medio": "Google News AR",
+     "titulo": "Lionel Messi eligió a las próximas estrellas del fútbol para una campaña de adidas",
+     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPcDV3VU96WWZRV3dDbmNQQ1Z1NkF1NV9xZ0pGVHA2RkdYQnYyUjZSSjdSVFFuTXl6Zk1ncnJxRHUwYWFmRzkxQ2lXNUZIaGNETTFFMWdjczk0RVd4emF4eXZGTzd0WngwZzV5T3prVDBEUDVVUVJTbThxR2NFRWZQNnV4NDJaR2IzMkY0MXUxWEFDdzBhSEtISU9OVE11WHplMEJYX0FPQVpHMTcwUy1vSFVYODllN285SUdZNi1B?oc=5",
+     "pub": "2026-10-11T12:51+00:00"
+    },
+    {
+     "medio": "Google News AR",
+     "titulo": "Quién es el jugador argentino que Lionel Messi eligió entre los 10 cracks del futuro",
+     "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQaVc3dXZVcVFPeUxFUE9XX1NTSElubzlabGxhRGxWX2M2Z1FPMWxvRi1yS1NOY1lLQXlBMXBEN2FIQ2xqWDJOTjZ3a18tM2JDNkZZbi1sWHF0NEg4WWpNOGhpb1FNZjAwaE05RUg2RS13Y1ozeHNFSkYybGxuaG8wck13RkdBeXZ0dXVQZ25yOE9MMUdNbEdVV0lfM3ZpdmhSRnRyWHh0MzFlRFYtNF9iLWNiUFdsOWRzMDYycWZKV0p3NGhkX1JwbGxPTWs0dDFuMHFKdzM2d0IzUDRLWS1vWHoxZzFURmJSc0lCV3FOdllzT2dXSWpn0gGLAkFVX3lxTE9SQmtYVmxYZmNjc19RWUc2QmQ2aFRaQ1VURnMwWTNQakFsM1N2VkZNSnhzWGwybWtfWWVqZU5hd1ZGWEExTHc5WmVKbnRFcjJ0cmNaQWNNdmV4amtoTmVxQkJyZVUxRVpROUtmay1nS0pHQk5yWnJnTTc1ZWlNLXk4RjhGOG1FWjVLQkxfQkhMYUdjVmRudERZSTU5b1hRWGdTZkpHclIweHZFSzNUdk9aM2kwamNmOW96UkkwbVlFUzZOMVJnVng3Ykt3RHMtbDZzUzIzMllZY3E5NXZWLUt1WnFaME5ZSHBKWGdRMEtLenVHeTVEd0RnOWUydjN3dVgyS3Zva1hmM0pubw?oc=5",
+     "pub": "2026-10-11T11:00+00:00"
+    },
+    {
+     "medio": "Google News AR",
+     "titulo": "🌟 En un spot de Adidas, Lionel Messi escribió el nombre de Tomás Aranda como una de las próximas 10 estrellas del fútbol",
+     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQZnF2WV8yNW5DaXA0TGZTVF9OSTZ6WTFSNUd3XzZaRXNEZXNuMnltWnhVYkpJVTZXbVhVZ0NpczJfRzlVZVhvT0dxQnZZNWtUVlJqSDFERXNEVXBIZkdVWDd2SDhPWDFmekZ2WXRSQ3lEX1R0bXNnTjVYY3RVWkF4MDU2MXA5eWUtUThaSWV6R0U1Sm9CTTZEYUxvbld0d3RQeEdoWC12clhNd21jR3FSX0RVRjNnRWJnT3UxVUt5Y2RZZnBqaExPUw?oc=5",
+     "pub": "2026-10-11T14:59+00:00"
+    },
+    {
+     "medio": "Google News AR",
+     "titulo": "Lionel Messi eligió a un jugador de Boca como la próxima estrella argentina del fútbol",
+     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOZERUcTFkMmNiblhnRW9jZndSTzh2bVh4Um9pejRJS2dkQkY1X2N4Nmp5N2d4S0pIaGQ3ZFJseHVBME01YUd2ZXlIaEhHNnRWenRkZ2NDUEgyWXhWQThCSnotODdFanRCQkd4SHhlOXFubmFhejNPUVFFYUx0VkF4ejBVYVFrWkFEdjJtS09VcUUxT0ZERFdEdW1MTXNtWENLR1lYbDNjYmtZM1Y0YlJhNEtRR3l5LWVoU3fSAc4BQVVfeXFMUHdLbE5XaWlTNVM1R3JOcGxrZlpoTDUxN3VzMkZUUDBaeWt2eWl2VHdqRDk2eDJhalBlQXRkenBJM3MwZUI1TEdmZjR2TTFJZXdCSEgzQjBrNkpZY2Z2allJNTZnNldvOUg0NkUxVzJ2cmgwaktnWmd5V085NEhBaEoxR2ItM2FBZnBXcTd0ZjF1VWVRTzZJc1ZJTTRfQlphWEY4cEljZ19vRl9LbEJfZ1g0d3pXajV5QUd4SThPaWllcmdvdFdweV83b19hNmc?oc=5",
+     "pub": "2026-10-11T14:00+00:00"
+    },
+    {
+     "medio": "Infobae",
+     "titulo": "El emocionante mensaje de Dibu Martínez a Lionel Messi en una camiseta firmada tras su despedida de la selección argentina",
+     "url": "https://www.infobae.com/deportes/2026/10/11/el-emocionante-mensaje-de-dibu-martinez-a-lionel-messi-en-una-camiseta-firmada-tras-su-despedida-de-la-seleccion-argentina/",
+     "pub": "2026-10-11T17:27+00:00"
+    },
+    {
+     "medio": "Google News AR",
+     "titulo": "Lionel Messi eligió a un argentino entre las máximas promesas del fútbol",
+     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNNzV0cDFWc0JmUTAwWUhaU2JXb1BNTWVGWUFGZExBUjB6aG9TYUxWdWJGV21VcGZTSFltN3RXNDUyTFpvNTN6R2d1WmpPbHF6SkRFTW5MSW9UMG9vUkxLbkFmUDBzNzg4MWZsRzU4c3RjOUdxcFlWZk9taEVLU08yZXNoWjdtQUQ2QmZXdFNYcGZ3aEg1RnFVSTFqMUlWWFNBLVp0V2Y2aG9VcHJ5UzlpSg?oc=5",
+     "pub": "2026-10-11T16:46+00:00"
     }
    ]
   },
@@ -1407,93 +1500,184 @@
    ]
   },
   {
-   "tema": "Lionel",
+   "tema": "Cristiano",
    "medios": 10,
    "lista_medios": [
+    "AS",
     "Daily Mail",
     "Foot Mercato",
     "Google News AR",
-    "Google News ES",
-    "Infobae",
-    "L'Equipe",
-    "Mirror",
+    "Kicker",
+    "Mundo Deportivo",
     "Ole",
     "Planet Football",
-    "Record"
+    "Record",
+    "Yahoo"
    ],
    "primera_vez": "2026-10-11T16:00+00:00",
    "titulares": [
     {
-     "medio": "L'Equipe",
-     "titulo": "Auteur d'un doublé, Lionel Messi jubile encore avec l'Inter Miami",
-     "url": "https://www.lequipe.fr/Football/Actualites/Auteur-d-un-double-lionel-messi-jubile-encore-avec-l-inter-miami/1724902#at_medium=RSS_feeds",
-     "pub": "2026-10-11T06:47+00:00"
+     "medio": "Foot Mercato",
+     "titulo": "Le Portugal n’en croit pas ses yeux après l’énième comeback de Cristiano Ronaldo",
+     "url": "https://www.footmercato.net/a8037599116133005509-le-portugal-nen-croit-pas-ses-yeux-apres-lenieme-comeback-de-cristiano-ronaldo",
+     "pub": "2026-10-11T11:29+00:00"
     },
     {
      "medio": "Foot Mercato",
-     "titulo": "Inter Miami : le nouveau doublé de Lionel Messi après ses adieux à l’Argentine",
-     "url": "https://www.footmercato.net/a8354376357581106776-inter-miami-le-nouveau-double-de-lionel-messi-apres-ses-adieux-a-largentine",
-     "pub": "2026-10-11T08:05+00:00"
+     "titulo": "Les mots forts de Walid Regragui sur la polémique Cristiano Ronaldo !",
+     "url": "https://www.footmercato.net/a5431987571359598492-les-mots-forts-de-walid-regragui-sur-la-polemique-cristiano-ronaldo",
+     "pub": "2026-10-11T18:47+00:00"
     },
     {
-     "medio": "Infobae",
-     "titulo": "Lionel Scaloni sumó otro desafío en el ciclismo y completó el Gran Fondo Buenos Aires: “Quería disfrutar de la ciudad sin coches”",
-     "url": "https://www.infobae.com/deportes/2026/10/11/lionel-scaloni-sumo-otro-desafio-en-el-ciclismo-y-completo-el-gran-fondo-buenos-aires-queria-disfrutar-de-la-ciudad-sin-coches/",
-     "pub": "2026-10-11T15:36+00:00"
+     "medio": "Record",
+     "titulo": "<![CDATA[ Cristiano Ronaldo em ação na Champions asiática ]]>",
+     "url": "https://www.record.pt/o-diario-de-cr7/detalhe/cristiano-ronaldo-em-acao-na-champions-asiatica",
+     "pub": "2026-10-12T00:24+00:00"
     },
     {
-     "medio": "Google News AR",
-     "titulo": "Lionel Messi eligió a las promesas del fútbol mundial e incluyó a una joya del fútbol argentino",
-     "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNQnVCeGtBR0NLelowUV9tOW0wQmJ0dFNVZGdyZ2FBdTRoN0ktb3h4d3JITkp2Wi1vRkhhY2tQY1NwekY4TFV4U1FJNGhfRkJUNXZCWHRGdGRhQmpHbVB6U2JwSkZHX2RPX2x4a3VSVTE5SkVuSWZRMTNMdm5rVV9UWS1NVFoyTFY5TjBsd2duS3Uwb0MwX0RoOUx3OUFqMVo4TDlZdHNkQ05GQ2RkMHJVTFpteDRtMGxXOENadXAyZXpXSVBpRUpDYkJvWVFRZmtv0gHQAUFVX3lxTE1CdUJ4a0FHQ0t6WjBRX205bTBCYnR0U1VkZ3JnYUF1NGg3SS1veHh3ckhOSnZaLW9GSGFja1BjU3B6RjhMVXhTUUk0aF9GQlQ1dkJYdEZ0ZGFCakdtUHpTYnBKRkdfZE9fbHhrdVJVMTlKRW5JZlExM0x2bmtVX1RZLU1UWjJMVjlOMGx3Z25LdTBvQzBfRGg5THc5QWoxWjhMOVl0c2RDTkZDZGQwclVMWm14NG0wbFc4Q1p1cDJleldJUGlFSkNiQm9ZUVFma28?oc=5",
-     "pub": "2026-10-11T12:46+00:00"
+     "medio": "Kicker",
+     "titulo": "Ist Cristiano Ronaldo der beste Fußballer der Geschichte?",
+     "url": "https://www.kicker.de/ist-cristiano-ronaldo-der-beste-fussballer-der-geschichte-1260566/artikel#omrss",
+     "pub": "2026-10-12T11:16+00:00"
     },
     {
-     "medio": "Google News AR",
-     "titulo": "Lionel Messi seleccionó a las 10 promesas del fútbol mundial e incluyó a una joya de Boca Juniors",
-     "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOdW5IX2JYREhsV194UnEtd09Nd0pfT05PTVFIemhhN1RibjctWW5GOTJQTkxXQjJ3eXZEelY3dk1XSmdBODZoTWFfNm0zeHBOQWFQbUlJaXlkazNZWnhINFVtTy1abUl3LWZxdHRtZEo0M2t4dC01R09lT1VrNW5FUEdMdTZiMzdCUFFoVFItUS1Tb3h3TnpJcFNPdDhPT0hlVVJCR3lWLUVjSkJJNElhZ1UtMW12dGZMSW8xV1hqbFkweDJZN2JQRkxVbkV6RnpmSmVvMzVaYmhrSlEzcVHSAecBQVVfeXFMUHZKajdVT3B1dGdfbWx0RnFaQjE2UzhPY2I4N0RrU0VIZFBTZTI1OGZ2djVBbWJsMTlsTjBmZF9vUl9KckMzUk1jbElwVnJMbjZYbFBxdnRJcmZuRC1wajZBNXA3M0NKaV9henZFcEIzVjdkZTRrQ29zamtwZEFpX2QySE16VU9pZFZtVmpJcFVKcExySHljTFJvQjdxLTVGX1FuRjVxdGtCdW5yckhOdURCRm85eG5rbVBsdE5xSVhMSU5UV0x4bnRnRHJyUHhWQV9kR3NJa0E0ZUpHc1ZVc0lhTWwzbktR?oc=5",
-     "pub": "2026-10-11T15:07+00:00"
+     "medio": "Kicker",
+     "titulo": "\"Bin der Beste der Geschichte\": Cristiano Ronaldo beklagt mangelnde Wertschätzung",
+     "url": "https://www.kicker.de/bin-der-beste-der-geschichte-cristiano-ronaldo-beklagt-mangelnde-wertschaetzung-1260546/artikel#omrss",
+     "pub": "2026-10-12T10:56+00:00"
     },
     {
-     "medio": "Google News AR",
-     "titulo": "Lionel Messi eligió a las 10 joyas del futuro y sorprendió con un crack del fútbol argentino",
-     "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPUEZkQ2RBN0I0NDQwaGdSTk0xVVVPaFJuRmhQMl8zSkI2U05mc3FiV2xWNHpKZXowUGk3LUJZOEIyWV9KSHBfTmRnaHdiWHhsMDV2bFZiMXhQZzZTM2JiMEtjSlV2VDJuc1RtY0cwVWQ1TzVmMGZCanRleDRNdHlDNXlKdTh5bWlmRk9ERVQ2OVlvd2tlUld5WUdYMkx4aDhWYkpRUHp1X080VUNMNVp4NXVqUzY4cUFjR2hkY1ZNZmNlMzlSS0ZsMWRDYkZTRDFFcmZ0ellHRQ?oc=5",
-     "pub": "2026-10-11T14:10+00:00"
+     "medio": "Ole",
+     "titulo": "Cristiano redobló la apuesta tras su crisis con Portugal: \"Si alguien prefiere a Messi, Pelé o Maradona es cuestión de gustos\"",
+     "url": "https://www.ole.com.ar/futbol-internacional/cristiano-ronaldo-portugal-messi-pele-maradona-crisis-declaraciones_0_r7ZR23ZKji.html",
+     "pub": "2026-10-12T11:34+00:00"
     },
     {
-     "medio": "Google News AR",
-     "titulo": "Lionel Messi eligió a las próximas estrellas del fútbol para una campaña de adidas",
-     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPcDV3VU96WWZRV3dDbmNQQ1Z1NkF1NV9xZ0pGVHA2RkdYQnYyUjZSSjdSVFFuTXl6Zk1ncnJxRHUwYWFmRzkxQ2lXNUZIaGNETTFFMWdjczk0RVd4emF4eXZGTzd0WngwZzV5T3prVDBEUDVVUVJTbThxR2NFRWZQNnV4NDJaR2IzMkY0MXUxWEFDdzBhSEtISU9OVE11WHplMEJYX0FPQVpHMTcwUy1vSFVYODllN285SUdZNi1B?oc=5",
-     "pub": "2026-10-11T12:51+00:00"
+     "medio": "Daily Mail",
+     "titulo": "Cristiano Ronaldo labels himself 'the best footballer of all time' and likens his GOAT battle with Lionel Messi to famous F1 rivalry - accusing anyone who disagrees that he is history's 'most complete player' of LYING",
+     "url": "https://www.dailymail.com/sport/football/article-16202091/Cristiano-Ronaldo-labels-best-footballer-time-accuses-doubters-LYING.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+     "pub": "2026-10-12T12:42+00:00"
     },
     {
-     "medio": "Google News AR",
-     "titulo": "Quién es el jugador argentino que Lionel Messi eligió entre los 10 cracks del futuro",
-     "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQaVc3dXZVcVFPeUxFUE9XX1NTSElubzlabGxhRGxWX2M2Z1FPMWxvRi1yS1NOY1lLQXlBMXBEN2FIQ2xqWDJOTjZ3a18tM2JDNkZZbi1sWHF0NEg4WWpNOGhpb1FNZjAwaE05RUg2RS13Y1ozeHNFSkYybGxuaG8wck13RkdBeXZ0dXVQZ25yOE9MMUdNbEdVV0lfM3ZpdmhSRnRyWHh0MzFlRFYtNF9iLWNiUFdsOWRzMDYycWZKV0p3NGhkX1JwbGxPTWs0dDFuMHFKdzM2d0IzUDRLWS1vWHoxZzFURmJSc0lCV3FOdllzT2dXSWpn0gGLAkFVX3lxTE9SQmtYVmxYZmNjc19RWUc2QmQ2aFRaQ1VURnMwWTNQakFsM1N2VkZNSnhzWGwybWtfWWVqZU5hd1ZGWEExTHc5WmVKbnRFcjJ0cmNaQWNNdmV4amtoTmVxQkJyZVUxRVpROUtmay1nS0pHQk5yWnJnTTc1ZWlNLXk4RjhGOG1FWjVLQkxfQkhMYUdjVmRudERZSTU5b1hRWGdTZkpHclIweHZFSzNUdk9aM2kwamNmOW96UkkwbVlFUzZOMVJnVng3Ykt3RHMtbDZzUzIzMllZY3E5NXZWLUt1WnFaME5ZSHBKWGdRMEtLenVHeTVEd0RnOWUydjN3dVgyS3Zva1hmM0pubw?oc=5",
-     "pub": "2026-10-11T11:00+00:00"
-    },
-    {
-     "medio": "Google News AR",
-     "titulo": "🌟 En un spot de Adidas, Lionel Messi escribió el nombre de Tomás Aranda como una de las próximas 10 estrellas del fútbol",
-     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQZnF2WV8yNW5DaXA0TGZTVF9OSTZ6WTFSNUd3XzZaRXNEZXNuMnltWnhVYkpJVTZXbVhVZ0NpczJfRzlVZVhvT0dxQnZZNWtUVlJqSDFERXNEVXBIZkdVWDd2SDhPWDFmekZ2WXRSQ3lEX1R0bXNnTjVYY3RVWkF4MDU2MXA5eWUtUThaSWV6R0U1Sm9CTTZEYUxvbld0d3RQeEdoWC12clhNd21jR3FSX0RVRjNnRWJnT3UxVUt5Y2RZZnBqaExPUw?oc=5",
-     "pub": "2026-10-11T14:59+00:00"
+     "medio": "Mundo Deportivo",
+     "titulo": "Polémica por una entrevista eliminada de Cristiano Ronaldo: \"El mejor de la historia soy yo\"",
+     "url": "https://www.mundodeportivo.com/futbol/internacional/20261012/1004237749/polemica-entrevista-eliminada-cristiano-ronaldo-mejor-historia.html",
+     "pub": ""
     },
     {
      "medio": "Google News AR",
-     "titulo": "Lionel Messi eligió a un jugador de Boca como la próxima estrella argentina del fútbol",
-     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOZERUcTFkMmNiblhnRW9jZndSTzh2bVh4Um9pejRJS2dkQkY1X2N4Nmp5N2d4S0pIaGQ3ZFJseHVBME01YUd2ZXlIaEhHNnRWenRkZ2NDUEgyWXhWQThCSnotODdFanRCQkd4SHhlOXFubmFhejNPUVFFYUx0VkF4ejBVYVFrWkFEdjJtS09VcUUxT0ZERFdEdW1MTXNtWENLR1lYbDNjYmtZM1Y0YlJhNEtRR3l5LWVoU3fSAc4BQVVfeXFMUHdLbE5XaWlTNVM1R3JOcGxrZlpoTDUxN3VzMkZUUDBaeWt2eWl2VHdqRDk2eDJhalBlQXRkenBJM3MwZUI1TEdmZjR2TTFJZXdCSEgzQjBrNkpZY2Z2allJNTZnNldvOUg0NkUxVzJ2cmgwaktnWmd5V085NEhBaEoxR2ItM2FBZnBXcTd0ZjF1VWVRTzZJc1ZJTTRfQlphWEY4cEljZ19vRl9LbEJfZ1g0d3pXajV5QUd4SThPaWllcmdvdFdweV83b19hNmc?oc=5",
-     "pub": "2026-10-11T14:00+00:00"
+     "titulo": "Cristiano Ronaldo opinó de su futuro en Portugal y volvió a autoproclamarse el mejor: “Si alguien prefiere a Messi…”",
+     "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOWnBNc1NLOGJ1b3h1U0ZNZDd3TDZFRmFWeW51bkZTY3pKRk5INjRJTmFMcE96SkhpdVZyZ0RmV0tEanpJVTBDNjkyWjF0Q1FncVB0SThtQUM0Sm82cTRBTjA2QjFhZDhsRHQtQzJnblR1UkEzMWNFaVF1WHRSaVNqZThnVm1RV3VmaW40V3dfLUhCVFI1RmRtb21iT05iRzhOVU9mLXBOSzYyVGt0UjVDMjNoRlBma0VnMjNZQ3ZCdkdrUzhLUzVnRGhlRXI4OHh2LUg3empRLVRaTkRYNGVHbWJIYlEwTFh5TTV6UWJRSVY5U0tSOXJqTw?oc=5",
+     "pub": "2026-10-12T12:54+00:00"
     },
     {
-     "medio": "Infobae",
-     "titulo": "El emocionante mensaje de Dibu Martínez a Lionel Messi en una camiseta firmada tras su despedida de la selección argentina",
-     "url": "https://www.infobae.com/deportes/2026/10/11/el-emocionante-mensaje-de-dibu-martinez-a-lionel-messi-en-una-camiseta-firmada-tras-su-despedida-de-la-seleccion-argentina/",
-     "pub": "2026-10-11T17:27+00:00"
+     "medio": "Yahoo",
+     "titulo": "🙄 I'm the best ever: Cristiano says he's not appreciated enough",
+     "url": "https://sports.yahoo.com/articles/im-best-ever-cristiano-says-140300432.html",
+     "pub": "2026-10-12T14:03+00:00"
+    },
+    {
+     "medio": "Planet Football",
+     "titulo": "Can Lionel Messi reach 1000 goals before Cristiano Ronaldo? It’s not impossible…",
+     "url": "https://www.planetfootball.com/stats-tables/cristiano-ronaldo-1000-goals-milestone-lionel-messi-first",
+     "pub": "2026-10-12T15:00+00:00"
     },
     {
      "medio": "Google News AR",
-     "titulo": "Lionel Messi eligió a un argentino entre las máximas promesas del fútbol",
-     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNNzV0cDFWc0JmUTAwWUhaU2JXb1BNTWVGWUFGZExBUjB6aG9TYUxWdWJGV21VcGZTSFltN3RXNDUyTFpvNTN6R2d1WmpPbHF6SkRFTW5MSW9UMG9vUkxLbkFmUDBzNzg4MWZsRzU4c3RjOUdxcFlWZk9taEVLU08yZXNoWjdtQUQ2QmZXdFNYcGZ3aEg1RnFVSTFqMUlWWFNBLVp0V2Y2aG9VcHJ5UzlpSg?oc=5",
-     "pub": "2026-10-11T16:46+00:00"
+     "titulo": "Porqué se hizo viral una vieja entrevista a Cristiano Ronaldo :: Olé - ole.com.ar",
+     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxONDFKZ1lVaXZ2b2xSaV9kWFZFLVg2TnppVTUycmJjSUZ4akF1UGxtQ0tMSnRpOVZYdHN4anZhLTZfXzd0TVY4TGdfX1J1dEhPc3cwaDF5WGpsQmJDTVVQMm4wdnNoRkpTMVFadEFPWFg1aUl0YW9OT1BUWDFQaTd0SXl5VG9vRG5DZ251RFBXVXk3YUZZWTdkbkVzaXh4SExsX0pQZGY2Qlczek00ZlgxczFQVjBsWEpFOU85UksxdWVUMldXcGxxeg?oc=5",
+     "pub": "2026-10-12T11:34+00:00"
+    }
+   ]
+  },
+  {
+   "tema": "Gabriel",
+   "medios": 10,
+   "lista_medios": [
+    "AS",
+    "Foot Mercato",
+    "Google News ES",
+    "L'Equipe",
+    "Mirror",
+    "Mundo Deportivo",
+    "Ole",
+    "Record",
+    "Yahoo",
+    "ge.globo"
+   ],
+   "primera_vez": "2026-10-11T16:00+00:00",
+   "titulares": [
+    {
+     "medio": "Ole",
+     "titulo": "Bautismo de fuego: Kevin Zenón marcó su primer gol en México en un clásico y contra Gabriel Milito",
+     "url": "https://www.ole.com.ar/futbol-internacional/america/kevin-zenon-gabriel-milito-chivas-gol-mexico_0_iwVEoFzZbg.html",
+     "pub": "2026-10-11T15:21+00:00"
+    },
+    {
+     "medio": "ge.globo",
+     "titulo": "Gabriel Jesus tem começo mais eficiente no Barcelona do que em Arsenal e Manchester City",
+     "url": "https://ge.globo.com/futebol/futebol-internacional/futebol-espanhol/noticia/2026/10/11/gabriel-jesus-tem-comeco-mais-eficiente-no-barcelona-do-que-em-arsenal-e-manchester-city.ghtml",
+     "pub": "2026-10-11T07:00+00:00"
+    },
+    {
+     "medio": "Mirror",
+     "titulo": "Man Utd news: JJ Gabriel left in transfer lurch as Michael Carrick told to change plans",
+     "url": "https://www.mirror.co.uk/sport/football/news/manchester-united-transfer-news-gabriel-37759861",
+     "pub": "2026-10-12T03:30+00:00"
+    },
+    {
+     "medio": "AS",
+     "titulo": "El Real Madrid ha hecho todos los deberes con JJ Gabriel",
+     "url": "https://as.com/futbol/primera/el-real-madrid-ha-hecho-todos-los-deberes-con-jj-gabriel-f202610-n/",
+     "pub": "2026-10-11T21:43+00:00"
+    },
+    {
+     "medio": "ge.globo",
+     "titulo": "Gabriel Paulista chora e detona diretoria do Corinthians: \"Vim pelo sonho, estou vivendo pesadelo\"",
+     "url": "https://ge.globo.com/futebol/times/corinthians/noticia/2026/10/11/gabriel-paulista-chora-e-detona-diretoria-do-corinthians-vim-pelo-sonho-estou-vivendo-pesadelo.ghtml",
+     "pub": "2026-10-11T23:52+00:00"
+    },
+    {
+     "medio": "Record",
+     "titulo": "<![CDATA[ Real Madrid já fez proposta a JJ Gabriel: United vê cerco à jovem pérola apertar ]]>",
+     "url": "https://www.record.pt/internacional/paises/espanha/real-madrid/detalhe/real-madrid-ja-fez-proposta-a-jj-gabriel-united-ve-cerco-a-jovem-perola-apertar",
+     "pub": "2026-10-12T07:49+00:00"
+    },
+    {
+     "medio": "Yahoo",
+     "titulo": "Ilkay Gundogan talks Barcelona exit, Xavi, Flick, Lamine, Cubarsi, Fermin, Rodri, Gabriel Jesus",
+     "url": "https://sports.yahoo.com/articles/ilkay-gundogan-talks-barcelona-exit-083400749.html",
+     "pub": "2026-10-12T08:34+00:00"
+    },
+    {
+     "medio": "Yahoo",
+     "titulo": "Real Madrid confident of signing Manchester United prodigy JJ Gabriel",
+     "url": "https://sports.yahoo.com/articles/real-madrid-confident-signing-manchester-080000415.html",
+     "pub": "2026-10-12T08:00+00:00"
+    },
+    {
+     "medio": "Yahoo",
+     "titulo": "Real Madrid have already completed most of their groundwork for JJ Gabriel transfer",
+     "url": "https://sports.yahoo.com/articles/real-madrid-already-completed-most-103000982.html",
+     "pub": "2026-10-12T10:30+00:00"
+    },
+    {
+     "medio": "Foot Mercato",
+     "titulo": "Le Real Madrid et le Barça en pole pour arracher la pépite JJ Gabriel",
+     "url": "https://www.footmercato.net/a6925033544575010385-le-real-madrid-et-le-barca-en-pole-pour-arracher-la-pepite-jj-gabriel",
+     "pub": "2026-10-12T10:52+00:00"
+    },
+    {
+     "medio": "Google News ES",
+     "titulo": "Hansi Flick elogia el papel de Gabriel Jesús tras la baja de Raphinha: \"Fue una sorpresa, para ser honesto\"",
+     "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQXzEzZmZQSHBPb2IzbS1zSkEzZ0JjcWcwbEdRMlNzQ3hXMmxNbnp6dmxjUnlsYlNBZFMwZnp1dDhLeldIX2tOQjl5NXI0dHNjQXlrSkNfckJVbWJCN1VFMlFWZERTOVl4R1hfQWJ2azNxOFBZdm9wZVdQaEFtTngtbms4SmxIRkxEM29Fb3pDNVNxb0MzQl9PMWNUbzRudzRkZF9PMUtZeHQ1ZERILV9vaVhqS2hjVUw3OUFpR211LXA1SmpZQ3FPZGs4RVA1V0ZvODd5Z1lMM2VORjNhLUdDQ2NKUENEc3dnTHU3NA?oc=5",
+     "pub": "2026-10-12T16:38+00:00"
+    },
+    {
+     "medio": "ge.globo",
+     "titulo": "Flick se diz \"muito feliz\" com Gabriel Jesus no Barcelona: \"Foi uma pequena surpresa\"",
+     "url": "https://ge.globo.com/futebol/futebol-internacional/noticia/2026/10/12/flick-se-diz-muito-feliz-com-gabriel-jesus-no-barcelona-foi-uma-pequena-surpresa.ghtml",
+     "pub": "2026-10-12T16:37+00:00"
     }
    ]
   },
@@ -1588,7 +1772,7 @@
    ]
   },
   {
-   "tema": "Hull",
+   "tema": "Everton",
    "medios": 9,
    "lista_medios": [
     "BBC",
@@ -1678,7 +1862,7 @@
    ]
   },
   {
-   "tema": "Everton",
+   "tema": "Hull",
    "medios": 9,
    "lista_medios": [
     "BBC",
@@ -2034,96 +2218,6 @@
      "titulo": "Lazio boss Rino Gattuso believes he deserves more credit as manager",
      "url": "https://sports.yahoo.com/articles/lazio-boss-rino-gattuso-believes-201400412.html",
      "pub": "2026-10-11T20:14+00:00"
-    }
-   ]
-  },
-  {
-   "tema": "Cristiano",
-   "medios": 9,
-   "lista_medios": [
-    "Daily Mail",
-    "Foot Mercato",
-    "Google News AR",
-    "Kicker",
-    "Mundo Deportivo",
-    "Ole",
-    "Planet Football",
-    "Record",
-    "Yahoo"
-   ],
-   "primera_vez": "2026-10-11T16:00+00:00",
-   "titulares": [
-    {
-     "medio": "Foot Mercato",
-     "titulo": "Le Portugal n’en croit pas ses yeux après l’énième comeback de Cristiano Ronaldo",
-     "url": "https://www.footmercato.net/a8037599116133005509-le-portugal-nen-croit-pas-ses-yeux-apres-lenieme-comeback-de-cristiano-ronaldo",
-     "pub": "2026-10-11T11:29+00:00"
-    },
-    {
-     "medio": "Foot Mercato",
-     "titulo": "Les mots forts de Walid Regragui sur la polémique Cristiano Ronaldo !",
-     "url": "https://www.footmercato.net/a5431987571359598492-les-mots-forts-de-walid-regragui-sur-la-polemique-cristiano-ronaldo",
-     "pub": "2026-10-11T18:47+00:00"
-    },
-    {
-     "medio": "Record",
-     "titulo": "<![CDATA[ Cristiano Ronaldo em ação na Champions asiática ]]>",
-     "url": "https://www.record.pt/o-diario-de-cr7/detalhe/cristiano-ronaldo-em-acao-na-champions-asiatica",
-     "pub": "2026-10-12T00:24+00:00"
-    },
-    {
-     "medio": "Kicker",
-     "titulo": "Ist Cristiano Ronaldo der beste Fußballer der Geschichte?",
-     "url": "https://www.kicker.de/ist-cristiano-ronaldo-der-beste-fussballer-der-geschichte-1260566/artikel#omrss",
-     "pub": "2026-10-12T11:16+00:00"
-    },
-    {
-     "medio": "Kicker",
-     "titulo": "\"Bin der Beste der Geschichte\": Cristiano Ronaldo beklagt mangelnde Wertschätzung",
-     "url": "https://www.kicker.de/bin-der-beste-der-geschichte-cristiano-ronaldo-beklagt-mangelnde-wertschaetzung-1260546/artikel#omrss",
-     "pub": "2026-10-12T10:56+00:00"
-    },
-    {
-     "medio": "Ole",
-     "titulo": "Cristiano redobló la apuesta tras su crisis con Portugal: \"Si alguien prefiere a Messi, Pelé o Maradona es cuestión de gustos\"",
-     "url": "https://www.ole.com.ar/futbol-internacional/cristiano-ronaldo-portugal-messi-pele-maradona-crisis-declaraciones_0_r7ZR23ZKji.html",
-     "pub": "2026-10-12T11:34+00:00"
-    },
-    {
-     "medio": "Daily Mail",
-     "titulo": "Cristiano Ronaldo labels himself 'the best footballer of all time' and likens his GOAT battle with Lionel Messi to famous F1 rivalry - accusing anyone who disagrees that he is history's 'most complete player' of LYING",
-     "url": "https://www.dailymail.com/sport/football/article-16202091/Cristiano-Ronaldo-labels-best-footballer-time-accuses-doubters-LYING.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-     "pub": "2026-10-12T12:42+00:00"
-    },
-    {
-     "medio": "Mundo Deportivo",
-     "titulo": "Polémica por una entrevista eliminada de Cristiano Ronaldo: \"El mejor de la historia soy yo\"",
-     "url": "https://www.mundodeportivo.com/futbol/internacional/20261012/1004237749/polemica-entrevista-eliminada-cristiano-ronaldo-mejor-historia.html",
-     "pub": ""
-    },
-    {
-     "medio": "Google News AR",
-     "titulo": "Cristiano Ronaldo opinó de su futuro en Portugal y volvió a autoproclamarse el mejor: “Si alguien prefiere a Messi…”",
-     "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOWnBNc1NLOGJ1b3h1U0ZNZDd3TDZFRmFWeW51bkZTY3pKRk5INjRJTmFMcE96SkhpdVZyZ0RmV0tEanpJVTBDNjkyWjF0Q1FncVB0SThtQUM0Sm82cTRBTjA2QjFhZDhsRHQtQzJnblR1UkEzMWNFaVF1WHRSaVNqZThnVm1RV3VmaW40V3dfLUhCVFI1RmRtb21iT05iRzhOVU9mLXBOSzYyVGt0UjVDMjNoRlBma0VnMjNZQ3ZCdkdrUzhLUzVnRGhlRXI4OHh2LUg3empRLVRaTkRYNGVHbWJIYlEwTFh5TTV6UWJRSVY5U0tSOXJqTw?oc=5",
-     "pub": "2026-10-12T12:54+00:00"
-    },
-    {
-     "medio": "Yahoo",
-     "titulo": "🙄 I'm the best ever: Cristiano says he's not appreciated enough",
-     "url": "https://sports.yahoo.com/articles/im-best-ever-cristiano-says-140300432.html",
-     "pub": "2026-10-12T14:03+00:00"
-    },
-    {
-     "medio": "Planet Football",
-     "titulo": "Can Lionel Messi reach 1000 goals before Cristiano Ronaldo? It’s not impossible…",
-     "url": "https://www.planetfootball.com/stats-tables/cristiano-ronaldo-1000-goals-milestone-lionel-messi-first",
-     "pub": "2026-10-12T15:00+00:00"
-    },
-    {
-     "medio": "Google News AR",
-     "titulo": "Porqué se hizo viral una vieja entrevista a Cristiano Ronaldo :: Olé - ole.com.ar",
-     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxONDFKZ1lVaXZ2b2xSaV9kWFZFLVg2TnppVTUycmJjSUZ4akF1UGxtQ0tMSnRpOVZYdHN4anZhLTZfXzd0TVY4TGdfX1J1dEhPc3cwaDF5WGpsQmJDTVVQMm4wdnNoRkpTMVFadEFPWFg1aUl0YW9OT1BUWDFQaTd0SXl5VG9vRG5DZ251RFBXVXk3YUZZWTdkbkVzaXh4SExsX0pQZGY2Qlczek00ZlgxczFQVjBsWEpFOU85UksxdWVUMldXcGxxeg?oc=5",
-     "pub": "2026-10-12T11:34+00:00"
     }
    ]
   },
@@ -2653,95 +2747,6 @@
      "titulo": "Cagliari 1-1 Juventus ends in headloss as Spalletti and Pisacane see red",
      "url": "https://sports.yahoo.com/articles/cagliari-1-1-juventus-ends-210000850.html",
      "pub": "2026-10-11T21:00+00:00"
-    }
-   ]
-  },
-  {
-   "tema": "Gabriel",
-   "medios": 8,
-   "lista_medios": [
-    "AS",
-    "Foot Mercato",
-    "Google News ES",
-    "Mirror",
-    "Ole",
-    "Record",
-    "Yahoo",
-    "ge.globo"
-   ],
-   "primera_vez": "2026-10-11T16:00+00:00",
-   "titulares": [
-    {
-     "medio": "Ole",
-     "titulo": "Bautismo de fuego: Kevin Zenón marcó su primer gol en México en un clásico y contra Gabriel Milito",
-     "url": "https://www.ole.com.ar/futbol-internacional/america/kevin-zenon-gabriel-milito-chivas-gol-mexico_0_iwVEoFzZbg.html",
-     "pub": "2026-10-11T15:21+00:00"
-    },
-    {
-     "medio": "ge.globo",
-     "titulo": "Gabriel Jesus tem começo mais eficiente no Barcelona do que em Arsenal e Manchester City",
-     "url": "https://ge.globo.com/futebol/futebol-internacional/futebol-espanhol/noticia/2026/10/11/gabriel-jesus-tem-comeco-mais-eficiente-no-barcelona-do-que-em-arsenal-e-manchester-city.ghtml",
-     "pub": "2026-10-11T07:00+00:00"
-    },
-    {
-     "medio": "Mirror",
-     "titulo": "Man Utd news: JJ Gabriel left in transfer lurch as Michael Carrick told to change plans",
-     "url": "https://www.mirror.co.uk/sport/football/news/manchester-united-transfer-news-gabriel-37759861",
-     "pub": "2026-10-12T03:30+00:00"
-    },
-    {
-     "medio": "AS",
-     "titulo": "El Real Madrid ha hecho todos los deberes con JJ Gabriel",
-     "url": "https://as.com/futbol/primera/el-real-madrid-ha-hecho-todos-los-deberes-con-jj-gabriel-f202610-n/",
-     "pub": "2026-10-11T21:43+00:00"
-    },
-    {
-     "medio": "ge.globo",
-     "titulo": "Gabriel Paulista chora e detona diretoria do Corinthians: \"Vim pelo sonho, estou vivendo pesadelo\"",
-     "url": "https://ge.globo.com/futebol/times/corinthians/noticia/2026/10/11/gabriel-paulista-chora-e-detona-diretoria-do-corinthians-vim-pelo-sonho-estou-vivendo-pesadelo.ghtml",
-     "pub": "2026-10-11T23:52+00:00"
-    },
-    {
-     "medio": "Record",
-     "titulo": "<![CDATA[ Real Madrid já fez proposta a JJ Gabriel: United vê cerco à jovem pérola apertar ]]>",
-     "url": "https://www.record.pt/internacional/paises/espanha/real-madrid/detalhe/real-madrid-ja-fez-proposta-a-jj-gabriel-united-ve-cerco-a-jovem-perola-apertar",
-     "pub": "2026-10-12T07:49+00:00"
-    },
-    {
-     "medio": "Yahoo",
-     "titulo": "Ilkay Gundogan talks Barcelona exit, Xavi, Flick, Lamine, Cubarsi, Fermin, Rodri, Gabriel Jesus",
-     "url": "https://sports.yahoo.com/articles/ilkay-gundogan-talks-barcelona-exit-083400749.html",
-     "pub": "2026-10-12T08:34+00:00"
-    },
-    {
-     "medio": "Yahoo",
-     "titulo": "Real Madrid confident of signing Manchester United prodigy JJ Gabriel",
-     "url": "https://sports.yahoo.com/articles/real-madrid-confident-signing-manchester-080000415.html",
-     "pub": "2026-10-12T08:00+00:00"
-    },
-    {
-     "medio": "Yahoo",
-     "titulo": "Real Madrid have already completed most of their groundwork for JJ Gabriel transfer",
-     "url": "https://sports.yahoo.com/articles/real-madrid-already-completed-most-103000982.html",
-     "pub": "2026-10-12T10:30+00:00"
-    },
-    {
-     "medio": "Foot Mercato",
-     "titulo": "Le Real Madrid et le Barça en pole pour arracher la pépite JJ Gabriel",
-     "url": "https://www.footmercato.net/a6925033544575010385-le-real-madrid-et-le-barca-en-pole-pour-arracher-la-pepite-jj-gabriel",
-     "pub": "2026-10-12T10:52+00:00"
-    },
-    {
-     "medio": "Google News ES",
-     "titulo": "Hansi Flick elogia el papel de Gabriel Jesús tras la baja de Raphinha: \"Fue una sorpresa, para ser honesto\"",
-     "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQXzEzZmZQSHBPb2IzbS1zSkEzZ0JjcWcwbEdRMlNzQ3hXMmxNbnp6dmxjUnlsYlNBZFMwZnp1dDhLeldIX2tOQjl5NXI0dHNjQXlrSkNfckJVbWJCN1VFMlFWZERTOVl4R1hfQWJ2azNxOFBZdm9wZVdQaEFtTngtbms4SmxIRkxEM29Fb3pDNVNxb0MzQl9PMWNUbzRudzRkZF9PMUtZeHQ1ZERILV9vaVhqS2hjVUw3OUFpR211LXA1SmpZQ3FPZGs4RVA1V0ZvODd5Z1lMM2VORjNhLUdDQ2NKUENEc3dnTHU3NA?oc=5",
-     "pub": "2026-10-12T16:38+00:00"
-    },
-    {
-     "medio": "ge.globo",
-     "titulo": "Flick se diz \"muito feliz\" com Gabriel Jesus no Barcelona: \"Foi uma pequena surpresa\"",
-     "url": "https://ge.globo.com/futebol/futebol-internacional/noticia/2026/10/12/flick-se-diz-muito-feliz-com-gabriel-jesus-no-barcelona-foi-uma-pequena-surpresa.ghtml",
-     "pub": "2026-10-12T16:37+00:00"
     }
    ]
   }

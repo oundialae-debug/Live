@@ -1,28 +1,26 @@
-# Tendencias de fútbol (2026-10-12 16:49 UTC, Google Trends)
+# Tendencias de fútbol (2026-10-12 17:48 UTC, Google Trends)
 
 Generado por el workflow `tendencias`. Úsalo para elegir temas de memes, curiosos y jugador vs jugador.
 
 | País | Búsqueda | Tráfico | Titular |
 |---|---|---|---|
-| UK | coventry city | 200+ | Matchday Guide: Newcastle United (H) |
-| UK | atalanta vs venezia | 500+ | Atalanta vs Venezia: Italian Serie A stats & head-to-head |
-| Spain | josé mourinho | 500+ | Manu Carreño y su dura crítica a José Mourinho en el Real Madrid |
-| Spain | levante ud | 200+ | Alineaciones probables del Levante - Sevilla de LaLiga EA Sports 2026-2027: onces y banquillo de sup |
-| Spain | tren | 500+ | Un incendio en un AVE de Renfe interrumpe la circulación en la línea de alta velocidad Madrid-Barcel |
-| Spain | emma hayes | 200+ | Women Hayes Soccer |
-| Spain | m-607 | 200+ | Corte total del tráfico en la M-607 entre Colmenar Viejo y Cerceda a partir de este miércoles |
-| Spain | atalanta - venezia | 500+ | Calcio Venezia, a Bergamo per scacciare i fantasmi |
-| Italy | atalanta vs venezia | 500+ | Atalanta vs Venezia: Italian Serie A stats & head-to-head |
-| Italy | atalanta - venezia | 20000+ | LIVE Alle 18.30 Atalanta-Venezia, le ufficiali: Sarri con Krstovic, fuori Scamacca. C'è Yeboah dal 1 |
-| France | tribunal | 200+ | Municipales à Saint-Fons, près de Lyon : la justice annule les élections, remportées par LFI, en rai |
-| France | atalanta – venezia | 1000+ | Calcio Venezia, a Bergamo per scacciare i fantasmi |
-| USA | atalanta - venezia | 500+ | The squad list for Atalanta v Venezia | Serie A Enilive 2026/27 MD6 |
-| USA | atalanta vs venezia | 1000+ | Atalanta vs Venezia: Italian Serie A stats & head-to-head |
-| Argentina | atalanta | 200+ | Monday's Serie A predictions including Atalanta BC vs. Venezia |
-| Argentina | atalanta - venezia | 200+ | Calcio Venezia, a Bergamo per scacciare i fantasmi |
-| Argentina | walter benítez | 200+ | Jugó en la Selección Argentina, se quedó sin Mundial y ahora está en boca de todos en Inglaterra |
-| Brazil | joan laporta | 200+ | El expresidente del Barcelona que fichó a Messi lo fulminó: "¿Quién se ha creído?" |
-| Brazil | granada fc | 100+ | Burgos vs Granada Prediction, Betting Tips, Lineups & Odds | 12 Oct 2026 |
-| Brazil | burgos cf | 100+ | Triunfo de oficio en ‘El Plantío’, 0-1 |
-| Mexico | real oviedo - eibar | 200+ | Real Oviedo - SD Eibar, en directo: LaLiga Hypermotion, hoy en vivo |
-| Mexico | atalanta - venezia | 1000+ | Calcio Venezia, a Bergamo per scacciare i fantasmi |
+| UK | al-nassr vs neftchi fergana | 1000+ | Al Nassr Asian Champions League clash in doubt over Riyadh security situation |
+| UK | man city charges | 2000+ | Man City: Prime Minister Andy Burnham to release details of his meetings with Man City owners |
+| UK | champions league | 1000+ | Arsenal vs Lille: UEFA Champions League stats & head-to-head |
+| Spain | hansi flick | 200+ | Hansi Flick: "Es un privilegio vivir este momento, pero en el fútbol las cosas pueden cambiar muy rá |
+| Spain | josé maría enríquez negreira | 200+ | ‘Caso Negreira’: nueva denuncia ante la Fiscalía por dietas y acompañar a los árbitros |
+| Spain | josé mourinho | 2000+ | El vestuario del Real Madrid se distancia de Mourinho a 13 días del clásico del Camp Nou |
+| Spain | levante ud | 500+ | Levante - Sevilla en directo | Última hora de LALIGA EA Sports en vivo hoy |
+| Italy | società sportiva lazio | 500+ | Gattuso, Frattesi, i ripescati... I 5 segreti della Lazio capolista |
+| Italy | ademola lookman | 200+ | Atletico De Madrid Training Session And Press Conference - UEFA Champions League 2026/27 League Phas |
+| Germany | autohaus könig | 500+ | „Werden Fahrzeug nicht ausliefern können“ – Kunden von „Autohaus König“ bangen um Anzahlungen |
+| Germany | „u” cluj - rapid bucureşti | 200+ | N-a avut loc la Rapid, acum este adversarul giuleștenilor: „Așa abordăm meciurile, așa gândim” |
+| Germany | fc bayern | 20000+ | Manuel Neuer: Slomka fordert eine ehrliche Bewertung |
+| Germany | notarztwagen | 200+ | Notarztwagen ausgebremst – 13.500 Euro Geldstrafe |
+| France | al-nassr fc – neftchi ferghana | 1000+ | Al Nassr Asian Champions League clash in doubt over Riyadh security situation |
+| USA | al-nassr vs neftchi fergana | 2000+ | Al Nassr Asian Champions League clash in doubt over Riyadh security situation |
+| Argentina | sofía martínez | 500+ | Sofi Martínez disfruta de sus vacaciones en el Valle de Uco: Fogata con amigos y un particular recor |
+| Brazil | poatan | 200+ | Poatan responde lutador brasileiro que o desafiou no UFC: 'Correu e ficou com medo' |
+| Portugal | atalanta - venezia | 100+ | [TRASMISSIONE IN DIRETTA¡] Atalanta Venezia risultato in diretta Guarda il calcio in diretta online  |
+| Portugal | rodrigo mora | 100+ | Após arranque fulgurante, Rodrigo Mora perde gás e espaço na Roma |
+| Mexico | champions league 2026 | 100+ | PLANTILLA DE NOTICIAS | Goal.com México |
