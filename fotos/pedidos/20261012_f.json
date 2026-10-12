@@ -1,0 +1,5 @@
+{"web": [
+ {"noticia": "Haaland", "buscar": "Erling Haaland Manchester City", "slug": "haaland_oct26", "n": 10, "dias": 14, "debe": ["haaland"]},
+ {"buscar": "Harry Kane Bayern Munich", "slug": "kane_oct26b", "n": 10, "dias": 14, "debe": ["kane"]},
+ {"noticia": "Kane", "buscar": "Harry Kane", "slug": "kane_news", "n": 10, "dias": 14, "debe": ["kane"]}
+]}
