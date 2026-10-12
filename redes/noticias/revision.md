@@ -63,3 +63,12 @@
 - ge.globo: Vini Jr. deve ficar fora de Barcelona x Real Madrid após expulsão por puxão de cabelo
 - ge.globo: Gabriel Jesus tem começo mais eficiente no Barcelona do que em Arsenal e Manchester City
 
+## 12/10 17:53 · Arsenal hit by double injury blow · revisar
+- Motivo: categoría sensible: injury
+- Temas: Arteta
+- Daily Mail: Declan Rice is worn out - it's time for Mikel Arteta to heed warning signs and give exhausted midfielder a rest, writes ISAAN KHAN
+- Yahoo: Mourinho makes unprompted remark about Arteta & Arsenal
+- Yahoo: Arsenal Are Among The Clubs Showing Interest In This Chelsea Defender: Should Arteta Move In For Him?
+- Mirror: Arsenal news: Mikel Arteta plots Liverpool hijack as Gunners near 'triple deal'
+- Daily Mail: Mikel Arteta confirms double Arsenal injury blow as Martin Zubimendi and Piero Hincapie both miss training after sustaining problems in the WARM-DOWN against Leeds
+

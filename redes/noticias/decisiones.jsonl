@@ -22,3 +22,4 @@
 {"t": "2026-10-12T14:02+00:00", "estado": "publicado", "temas": ["Osasuna"], "clave": "betis-osasuna-goals", "video": "https://raw.githubusercontent.com/oundialae-debug/live/main/media/noticias/2026-10-12_1602_betis-osasuna-goals.mp4"}
 {"t": "2026-10-12T14:02+00:00", "estado": "descartar", "temas": ["Lionel"], "clave": "messi-future-stars", "motivo": "importancia 6 < 7"}
 {"t": "2026-10-12T15:53+00:00", "estado": "publicado", "temas": ["Cristiano"], "clave": "cristiano-goat-claim", "video": "https://raw.githubusercontent.com/oundialae-debug/live/main/media/noticias/2026-10-12_1752_cristiano-goat-claim.mp4"}
+{"t": "2026-10-12T15:53+00:00", "estado": "revisar", "temas": ["Arteta"], "clave": "arteta-injury-blow", "motivo": "categoría sensible: injury"}
