@@ -1,5 +1,5 @@
 {
- "generado": "2026-10-12T10:50+00:00",
+ "generado": "2026-10-12T11:51+00:00",
  "temas": [
   {
    "tema": "Liverpool",
@@ -203,6 +203,101 @@
    ]
   },
   {
+   "tema": "Madrid",
+   "medios": 14,
+   "lista_medios": [
+    "AS",
+    "Daily Mail",
+    "Foot Mercato",
+    "Google News EN",
+    "Google News ES",
+    "Infobae",
+    "Kicker",
+    "L'Equipe",
+    "Mundo Deportivo",
+    "Planet Football",
+    "Record",
+    "Yahoo",
+    "ge.globo",
+    "talkSPORT"
+   ],
+   "primera_vez": "2026-10-11T16:00+00:00",
+   "titulares": [
+    {
+     "medio": "Yahoo",
+     "titulo": "Real Madrid midfielder attracted strong summer interest from multiple Premier League clubs &#8211; Romano",
+     "url": "https://sports.yahoo.com/articles/real-madrid-midfielder-attracted-strong-151200686.html",
+     "pub": "2026-10-11T15:12+00:00"
+    },
+    {
+     "medio": "AS",
+     "titulo": "Aviso de la Roma al Madrid",
+     "url": "https://as.com/futbol/internacional/indestructible-roma-f202610-n/",
+     "pub": "2026-10-11T12:42+00:00"
+    },
+    {
+     "medio": "AS",
+     "titulo": "Real Madrid 1-0 Villarreal: resumen, gol y resultado",
+     "url": "https://as.com/futbol/primera/real-madrid-villarreal-hoy-en-directo-ultima-hora-de-la-laliga-ea-sports-en-el-santiago-bernabeu-en-vivo-f202610-d-2/",
+     "pub": "2026-10-11T08:07+00:00"
+    },
+    {
+     "medio": "Mundo Deportivo",
+     "titulo": "Real Madrid TV aumenta sus críticas a los árbitros",
+     "url": "https://www.mundodeportivo.com/futbol/real-madrid/20261011/1004237395/real-madrid-tv-aumenta-criticas-arbitros.html",
+     "pub": ""
+    },
+    {
+     "medio": "Mundo Deportivo",
+     "titulo": "Real Madrid - Villarreal: las fotos del duelo en el Bernabéu",
+     "url": "https://www.mundodeportivo.com/futbol/laliga/20261011/1004237397/real-madrid-villarreal-fotos-duelo-bernabeu.html",
+     "pub": ""
+    },
+    {
+     "medio": "Mundo Deportivo",
+     "titulo": "El Real Madrid ganó al Villarreal entre quejas arbitrales y poco fútbol",
+     "url": "https://www.mundodeportivo.com/futbol/real-madrid/20261011/1004237360/real-madrid-gano-villarreal-quejas-arbitrales-poco-futbol.html",
+     "pub": ""
+    },
+    {
+     "medio": "Google News ES",
+     "titulo": "El Real Madrid, muchas urgencias y poco fútbol",
+     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOVW90VHNic2pjaV9ERWhrMk0ySW52clhoN3ppOVlJSHFVNVNrb1ZoN210VlZxX0NJeEFWWDY5T2UwVGFtWmRnMjhfVjM2WFpIMDlGR3BISGYxdC1SS3NZdXZGNFJBRzFjRlpwczNJLXpJLTVwd0J1WlZiSmdJa2pDTFdKSThFN2xLQWtvVWRZTjdDWlEzRUxrY0wwbkljbHlKQ1llZFFtcWlHMHlMek52WFRZOGN2Z9IBwwFBVV95cUxNN254VFlZRkpvNUJ4TWhVS25SNVpJSlNpVGRVQWZHak1sbnVkNjFya0hDOG9FMmJKWE1tQVZ3cE1GWHBCeXBCWXVsaFpoZEY1SDlUbXV4SWhmUTV2MFRIdEhod1Uyc1NKTEhVQmc5NS1tNWczSmtBWDdOSC1abWhQVkpLRV9meTlQM0ZFaVUxUm9rOUtDYzVVS2VuZk40UldJVUxnTGpfY0IzR0JBc0ZJZUlQLXBSXzF3eDR0aUVkTnZTT28?oc=5",
+     "pub": "2026-10-11T10:52+00:00"
+    },
+    {
+     "medio": "Foot Mercato",
+     "titulo": "Real Madrid : l’entourage de Vinicius Jr réagit à son expulsion polémique",
+     "url": "https://www.footmercato.net/a3971435971801351262-real-madrid-lentourage-de-vinicius-jr-reagit-a-son-expulsion-polemique",
+     "pub": "2026-10-11T10:05+00:00"
+    },
+    {
+     "medio": "ge.globo",
+     "titulo": "Vini Jr. deve ficar fora de Barcelona x Real Madrid após expulsão por puxão de cabelo",
+     "url": "https://ge.globo.com/futebol/futebol-internacional/noticia/2026/10/11/vini-jr-deve-ficar-fora-de-barcelona-x-real-madrid-apos-expulsao-por-puxao-de-cabelo.ghtml",
+     "pub": "2026-10-11T14:04+00:00"
+    },
+    {
+     "medio": "ge.globo",
+     "titulo": "TV do Real Madrid sobe tom após expulsão de Vini Jr. e nove cartões: \"Se Yamal faz isso, o gol não volta\"",
+     "url": "https://ge.globo.com/futebol/futebol-internacional/noticia/2026/10/11/real-madrid-sobe-tom-apos-expulsao-de-vini-jr-e-nove-cartoes-se-yamal-faz-isso-o-gol-nao-volta.ghtml",
+     "pub": "2026-10-11T11:11+00:00"
+    },
+    {
+     "medio": "ge.globo",
+     "titulo": "Real Madrid sofre, mas vence Villarreal em jogo com gol anulado e expulsão de Vini Jr.",
+     "url": "https://ge.globo.com/futebol/futebol-internacional/futebol-espanhol/jogo/10-10-2026/realmadrid-Villarreal.ghtml",
+     "pub": "2026-10-11T00:34+00:00"
+    },
+    {
+     "medio": "Mundo Deportivo",
+     "titulo": "El Real Madrid recurrirá la amarilla que vio Konaté ante el Villarreal",
+     "url": "https://www.mundodeportivo.com/futbol/real-madrid/20261011/1004237403/real-madrid-recurrira-amarilla-vio-konate-villarreal.html",
+     "pub": ""
+    }
+   ]
+  },
+  {
    "tema": "Palace",
    "medios": 13,
    "lista_medios": [
@@ -386,99 +481,6 @@
      "titulo": "Cherki cracker caps Manchester City win at Liverpool in face of Anfield taunts",
      "url": "https://www.theguardian.com/football/2026/oct/11/liverpool-manchester-city-premier-league-match-report",
      "pub": "2026-10-11T17:42+00:00"
-    }
-   ]
-  },
-  {
-   "tema": "Madrid",
-   "medios": 12,
-   "lista_medios": [
-    "AS",
-    "Daily Mail",
-    "Foot Mercato",
-    "Google News EN",
-    "Google News ES",
-    "Infobae",
-    "Kicker",
-    "L'Equipe",
-    "Mundo Deportivo",
-    "Record",
-    "Yahoo",
-    "ge.globo"
-   ],
-   "primera_vez": "2026-10-11T16:00+00:00",
-   "titulares": [
-    {
-     "medio": "Yahoo",
-     "titulo": "Real Madrid midfielder attracted strong summer interest from multiple Premier League clubs &#8211; Romano",
-     "url": "https://sports.yahoo.com/articles/real-madrid-midfielder-attracted-strong-151200686.html",
-     "pub": "2026-10-11T15:12+00:00"
-    },
-    {
-     "medio": "AS",
-     "titulo": "Aviso de la Roma al Madrid",
-     "url": "https://as.com/futbol/internacional/indestructible-roma-f202610-n/",
-     "pub": "2026-10-11T12:42+00:00"
-    },
-    {
-     "medio": "AS",
-     "titulo": "Real Madrid 1-0 Villarreal: resumen, gol y resultado",
-     "url": "https://as.com/futbol/primera/real-madrid-villarreal-hoy-en-directo-ultima-hora-de-la-laliga-ea-sports-en-el-santiago-bernabeu-en-vivo-f202610-d-2/",
-     "pub": "2026-10-11T08:07+00:00"
-    },
-    {
-     "medio": "Mundo Deportivo",
-     "titulo": "Real Madrid TV aumenta sus críticas a los árbitros",
-     "url": "https://www.mundodeportivo.com/futbol/real-madrid/20261011/1004237395/real-madrid-tv-aumenta-criticas-arbitros.html",
-     "pub": ""
-    },
-    {
-     "medio": "Mundo Deportivo",
-     "titulo": "Real Madrid - Villarreal: las fotos del duelo en el Bernabéu",
-     "url": "https://www.mundodeportivo.com/futbol/laliga/20261011/1004237397/real-madrid-villarreal-fotos-duelo-bernabeu.html",
-     "pub": ""
-    },
-    {
-     "medio": "Mundo Deportivo",
-     "titulo": "El Real Madrid ganó al Villarreal entre quejas arbitrales y poco fútbol",
-     "url": "https://www.mundodeportivo.com/futbol/real-madrid/20261011/1004237360/real-madrid-gano-villarreal-quejas-arbitrales-poco-futbol.html",
-     "pub": ""
-    },
-    {
-     "medio": "Google News ES",
-     "titulo": "El Real Madrid, muchas urgencias y poco fútbol",
-     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOVW90VHNic2pjaV9ERWhrMk0ySW52clhoN3ppOVlJSHFVNVNrb1ZoN210VlZxX0NJeEFWWDY5T2UwVGFtWmRnMjhfVjM2WFpIMDlGR3BISGYxdC1SS3NZdXZGNFJBRzFjRlpwczNJLXpJLTVwd0J1WlZiSmdJa2pDTFdKSThFN2xLQWtvVWRZTjdDWlEzRUxrY0wwbkljbHlKQ1llZFFtcWlHMHlMek52WFRZOGN2Z9IBwwFBVV95cUxNN254VFlZRkpvNUJ4TWhVS25SNVpJSlNpVGRVQWZHak1sbnVkNjFya0hDOG9FMmJKWE1tQVZ3cE1GWHBCeXBCWXVsaFpoZEY1SDlUbXV4SWhmUTV2MFRIdEhod1Uyc1NKTEhVQmc5NS1tNWczSmtBWDdOSC1abWhQVkpLRV9meTlQM0ZFaVUxUm9rOUtDYzVVS2VuZk40UldJVUxnTGpfY0IzR0JBc0ZJZUlQLXBSXzF3eDR0aUVkTnZTT28?oc=5",
-     "pub": "2026-10-11T10:52+00:00"
-    },
-    {
-     "medio": "Foot Mercato",
-     "titulo": "Real Madrid : l’entourage de Vinicius Jr réagit à son expulsion polémique",
-     "url": "https://www.footmercato.net/a3971435971801351262-real-madrid-lentourage-de-vinicius-jr-reagit-a-son-expulsion-polemique",
-     "pub": "2026-10-11T10:05+00:00"
-    },
-    {
-     "medio": "ge.globo",
-     "titulo": "Vini Jr. deve ficar fora de Barcelona x Real Madrid após expulsão por puxão de cabelo",
-     "url": "https://ge.globo.com/futebol/futebol-internacional/noticia/2026/10/11/vini-jr-deve-ficar-fora-de-barcelona-x-real-madrid-apos-expulsao-por-puxao-de-cabelo.ghtml",
-     "pub": "2026-10-11T14:04+00:00"
-    },
-    {
-     "medio": "ge.globo",
-     "titulo": "TV do Real Madrid sobe tom após expulsão de Vini Jr. e nove cartões: \"Se Yamal faz isso, o gol não volta\"",
-     "url": "https://ge.globo.com/futebol/futebol-internacional/noticia/2026/10/11/real-madrid-sobe-tom-apos-expulsao-de-vini-jr-e-nove-cartoes-se-yamal-faz-isso-o-gol-nao-volta.ghtml",
-     "pub": "2026-10-11T11:11+00:00"
-    },
-    {
-     "medio": "ge.globo",
-     "titulo": "Real Madrid sofre, mas vence Villarreal em jogo com gol anulado e expulsão de Vini Jr.",
-     "url": "https://ge.globo.com/futebol/futebol-internacional/futebol-espanhol/jogo/10-10-2026/realmadrid-Villarreal.ghtml",
-     "pub": "2026-10-11T00:34+00:00"
-    },
-    {
-     "medio": "Mundo Deportivo",
-     "titulo": "El Real Madrid recurrirá la amarilla que vio Konaté ante el Villarreal",
-     "url": "https://www.mundodeportivo.com/futbol/real-madrid/20261011/1004237403/real-madrid-recurrira-amarilla-vio-konate-villarreal.html",
-     "pub": ""
     }
    ]
   },
@@ -693,18 +695,6 @@
      "pub": "2026-10-11T05:27+00:00"
     },
     {
-     "medio": "BBC",
-     "titulo": "Man Utd midfield can't control games - Murphy",
-     "url": "https://www.bbc.co.uk/sport/football/videos/c6lye9kmnvpzo?at_medium=RSS&at_campaign=rss",
-     "pub": "2026-10-10T22:58+00:00"
-    },
-    {
-     "medio": "Sky Sports",
-     "titulo": "Carrick must share burden of Man Utd's failings with his players",
-     "url": "https://www.skysports.com/football/news/12040/13597374/man-utd-1-1-spurs-michael-carrick-entering-a-defining-period-and-must-correct-underperformance-quickly",
-     "pub": "2026-10-10T23:30+00:00"
-    },
-    {
      "medio": "Sky Sports",
      "titulo": "Keane asked if Micah should lose his Man City title",
      "url": "https://www.skysports.com/watch/video/13597749/roy-keane-asked-if-micah-richards-should-lose-his-man-city-title",
@@ -757,6 +747,18 @@
      "titulo": "Man City hit by wave of Anfield vitriol as Liverpool fans make feelings fiercely clear",
      "url": "https://www.mirror.co.uk/sport/football/news/man-city-liverpool-fans-charges-37760428",
      "pub": "2026-10-11T15:54+00:00"
+    },
+    {
+     "medio": "Mirror",
+     "titulo": "Why do Man City fans carry inflatable bananas? Reason explained before Liverpool clash",
+     "url": "https://www.mirror.co.uk/sport/football/news/man-city-liverpool-inflatable-bananas-37755356",
+     "pub": "2026-10-11T14:00+00:00"
+    },
+    {
+     "medio": "Mirror",
+     "titulo": "Man City relegation odds: What price are they to drop down to the Championship?",
+     "url": "https://www.mirror.co.uk/sport/football/news/man-city-relegation-odds-punishment-37760134",
+     "pub": "2026-10-11T13:57+00:00"
     }
    ]
   },
@@ -1034,6 +1036,96 @@
    ]
   },
   {
+   "tema": "Hull",
+   "medios": 9,
+   "lista_medios": [
+    "BBC",
+    "Daily Mail",
+    "Foot Mercato",
+    "FourFourTwo",
+    "Google News EN",
+    "Guardian",
+    "Mundo Deportivo",
+    "Sky Sports",
+    "Yahoo"
+   ],
+   "primera_vez": "2026-10-11T16:00+00:00",
+   "titulares": [
+    {
+     "medio": "Guardian",
+     "titulo": "Mohamed Belloumi grabs point for Hull in seesaw draw with Everton",
+     "url": "https://www.theguardian.com/football/2026/oct/11/hull-city-everton-premier-league-match-report",
+     "pub": "2026-10-11T15:13+00:00"
+    },
+    {
+     "medio": "Sky Sports",
+     "titulo": "Belloumi earns Hull draw with Everton after thrilling four-goal second half",
+     "url": "https://www.skysports.com/football/hull-city-vs-everton/report/559499",
+     "pub": "2026-10-11T16:00+00:00"
+    },
+    {
+     "medio": "Sky Sports",
+     "titulo": "Belloumi rescues draw for Hull vs Everton after thrilling second half LIVE!",
+     "url": "https://www.skysports.com/football/hull-city-vs-everton/live/559499",
+     "pub": "2026-10-11T12:30+00:00"
+    },
+    {
+     "medio": "Daily Mail",
+     "titulo": "Hull 2-2 Everton: Toffees' unbeaten start continues two days after owners revealed plan to sell and despite calamitous transfer window as Mohamed Belloumi salvages draw for the Tigers in exhilarating second half",
+     "url": "https://www.dailymail.com/sport/football/article-16195583/Hull-2-2-Everton-Mohamed-Belloumi-salvages-draw-Tigers-exhilarating-second-half-visitors-unbeaten-start-continues-two-days-owners-revealed-plan-sell.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+     "pub": "2026-10-11T15:24+00:00"
+    },
+    {
+     "medio": "FourFourTwo",
+     "titulo": "Hull City vs Everton FREE live streams: How to watch",
+     "url": "https://www.fourfourtwo.com/competition/watch-hull-vs-everton-premier-league-2026-27-free",
+     "pub": "2026-10-11T10:00+00:00"
+    },
+    {
+     "medio": "Yahoo",
+     "titulo": "Tarkowski And Dewsbury-Hall Get 8 | Everton Players Rated In Entertaining Draw Vs Hull City",
+     "url": "https://sports.yahoo.com/articles/tarkowski-dewsbury-hall-8-everton-153000484.html",
+     "pub": "2026-10-11T15:30+00:00"
+    },
+    {
+     "medio": "Mundo Deportivo",
+     "titulo": "2-2: Hull City y Everton se reparten los puntos en una segunda parte de locura",
+     "url": "https://www.mundodeportivo.com/futbol/premier-league/20261011/1004237443/hull-city-everton-reparten-puntos-segunda-parte-locura.html",
+     "pub": ""
+    },
+    {
+     "medio": "Mundo Deportivo",
+     "titulo": "Hull City - Everton, en directo | Premier League",
+     "url": "https://www.mundodeportivo.com/futbol/premier-league/20261011/1004235394/hull-city-everton-directo-premier-league.html",
+     "pub": ""
+    },
+    {
+     "medio": "Foot Mercato",
+     "titulo": "Premier League : Pierre Sage et Crystal Palace se donnent de l’air, Everton accroché par Hull City",
+     "url": "https://www.footmercato.net/a829854825299357934-premier-league-pierre-sage-et-crystal-palace-se-donnent-de-lair-everton-accroche-par-hull-city",
+     "pub": "2026-10-11T15:03+00:00"
+    },
+    {
+     "medio": "Google News EN",
+     "titulo": "Hull City vs Everton LIVE! Premier League score updates, news, prediction, line-ups and how to watch or stream",
+     "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPMV9BakhRLUVyMThjczhya3FEdmtjckFMelIweGFoOVdpd2dVcEd2dE93a0ZZV0czZGQ5dnQxOVN0NWZBcHNLWlA5SUtWODZobUdiMGZaYWlmb3Y2UFlxQ3d2SGU4cXU2VnFabkNxTWI4bXMyb3JlV0UwR0lLSkthZEJDYzIxZE9jeFAxdEF3WlcyamRLamdXYVBtbWFhY3I1aEhJVUNmZnhnM1pfcElIY2dqTnM2R1h3c250aEtUcmllWTQ3YXlLdU43Y2Zad1A5OU9YdW9QOW9Gd2xKdEJlc3dDeVZ5U3c2VGsxeXNnLWtwQQ?oc=5",
+     "pub": "2026-10-11T16:03+00:00"
+    },
+    {
+     "medio": "Yahoo",
+     "titulo": "Hull 2-2 Everton analysis: Toffees rue Barry misses and offside flag",
+     "url": "https://sports.yahoo.com/articles/hull-2-2-everton-analysis-160405654.html",
+     "pub": "2026-10-11T16:04+00:00"
+    },
+    {
+     "medio": "Yahoo",
+     "titulo": "Hull 2-2 Everton analysis: City's strong start continues",
+     "url": "https://sports.yahoo.com/articles/hull-2-2-everton-analysis-160114464.html",
+     "pub": "2026-10-11T16:01+00:00"
+    }
+   ]
+  },
+  {
    "tema": "Everton",
    "medios": 9,
    "lista_medios": [
@@ -1124,92 +1216,92 @@
    ]
   },
   {
-   "tema": "Hull",
+   "tema": "Vinicius",
    "medios": 9,
    "lista_medios": [
-    "BBC",
-    "Daily Mail",
+    "AS",
     "Foot Mercato",
-    "FourFourTwo",
-    "Google News EN",
-    "Guardian",
+    "Google News ES",
+    "L'Equipe",
     "Mundo Deportivo",
-    "Sky Sports",
-    "Yahoo"
+    "Planet Football",
+    "Yahoo",
+    "ge.globo",
+    "talkSPORT"
    ],
    "primera_vez": "2026-10-11T16:00+00:00",
    "titulares": [
     {
-     "medio": "Guardian",
-     "titulo": "Mohamed Belloumi grabs point for Hull in seesaw draw with Everton",
-     "url": "https://www.theguardian.com/football/2026/oct/11/hull-city-everton-premier-league-match-report",
-     "pub": "2026-10-11T15:13+00:00"
+     "medio": "talkSPORT",
+     "titulo": "Jose Mourinho&#8217;s decision to boycott press conference explained after Vinicius Jr red card",
+     "url": "https://talksport.com/football/4636735/jose-mourinho-press-conference-boycott-vinicius-jr-red-card/",
+     "pub": "2026-10-11T09:10+00:00"
     },
     {
-     "medio": "Sky Sports",
-     "titulo": "Belloumi earns Hull draw with Everton after thrilling four-goal second half",
-     "url": "https://www.skysports.com/football/hull-city-vs-everton/report/559499",
-     "pub": "2026-10-11T16:00+00:00"
-    },
-    {
-     "medio": "Sky Sports",
-     "titulo": "Belloumi rescues draw for Hull vs Everton after thrilling second half LIVE!",
-     "url": "https://www.skysports.com/football/hull-city-vs-everton/live/559499",
-     "pub": "2026-10-11T12:30+00:00"
-    },
-    {
-     "medio": "Daily Mail",
-     "titulo": "Hull 2-2 Everton: Toffees' unbeaten start continues two days after owners revealed plan to sell and despite calamitous transfer window as Mohamed Belloumi salvages draw for the Tigers in exhilarating second half",
-     "url": "https://www.dailymail.com/sport/football/article-16195583/Hull-2-2-Everton-Mohamed-Belloumi-salvages-draw-Tigers-exhilarating-second-half-visitors-unbeaten-start-continues-two-days-owners-revealed-plan-sell.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-     "pub": "2026-10-11T15:24+00:00"
-    },
-    {
-     "medio": "FourFourTwo",
-     "titulo": "Hull City vs Everton FREE live streams: How to watch",
-     "url": "https://www.fourfourtwo.com/competition/watch-hull-vs-everton-premier-league-2026-27-free",
-     "pub": "2026-10-11T10:00+00:00"
-    },
-    {
-     "medio": "Yahoo",
-     "titulo": "Tarkowski And Dewsbury-Hall Get 8 | Everton Players Rated In Entertaining Draw Vs Hull City",
-     "url": "https://sports.yahoo.com/articles/tarkowski-dewsbury-hall-8-everton-153000484.html",
-     "pub": "2026-10-11T15:30+00:00"
+     "medio": "AS",
+     "titulo": "Desazón con Vinicius",
+     "url": "https://as.com/futbol/primera/desazon-con-vinicius-f202610-n/",
+     "pub": "2026-10-11T06:27+00:00"
     },
     {
      "medio": "Mundo Deportivo",
-     "titulo": "2-2: Hull City y Everton se reparten los puntos en una segunda parte de locura",
-     "url": "https://www.mundodeportivo.com/futbol/premier-league/20261011/1004237443/hull-city-everton-reparten-puntos-segunda-parte-locura.html",
+     "titulo": "Cifras redondas para Vinicius y Tchouaméni",
+     "url": "https://www.mundodeportivo.com/futbol/real-madrid/20261011/1004237374/cifras-redondas-vinicius-tchouameni.html",
      "pub": ""
     },
     {
-     "medio": "Mundo Deportivo",
-     "titulo": "Hull City - Everton, en directo | Premier League",
-     "url": "https://www.mundodeportivo.com/futbol/premier-league/20261011/1004235394/hull-city-everton-directo-premier-league.html",
-     "pub": ""
+     "medio": "L'Equipe",
+     "titulo": "« Ridicule », « un geste violent »... Vinicius unanimement condamné par les médias espagnols au lendemain de son expulsion",
+     "url": "https://www.lequipe.fr/Football/Actualites/-ridicule-un-geste-violent-vinicius-unanimement-condamne-par-les-medias-espagnols-au-lendemain-de-son-expulsion/1724917#at_medium=RSS_feeds",
+     "pub": "2026-10-11T09:21+00:00"
     },
     {
      "medio": "Foot Mercato",
-     "titulo": "Premier League : Pierre Sage et Crystal Palace se donnent de l’air, Everton accroché par Hull City",
-     "url": "https://www.footmercato.net/a829854825299357934-premier-league-pierre-sage-et-crystal-palace-se-donnent-de-lair-everton-accroche-par-hull-city",
-     "pub": "2026-10-11T15:03+00:00"
+     "titulo": "Real Madrid : l’entourage de Vinicius Jr réagit à son expulsion polémique",
+     "url": "https://www.footmercato.net/a3971435971801351262-real-madrid-lentourage-de-vinicius-jr-reagit-a-son-expulsion-polemique",
+     "pub": "2026-10-11T10:05+00:00"
     },
     {
-     "medio": "Google News EN",
-     "titulo": "Hull City vs Everton LIVE! Premier League score updates, news, prediction, line-ups and how to watch or stream",
-     "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPMV9BakhRLUVyMThjczhya3FEdmtjckFMelIweGFoOVdpd2dVcEd2dE93a0ZZV0czZGQ5dnQxOVN0NWZBcHNLWlA5SUtWODZobUdiMGZaYWlmb3Y2UFlxQ3d2SGU4cXU2VnFabkNxTWI4bXMyb3JlV0UwR0lLSkthZEJDYzIxZE9jeFAxdEF3WlcyamRLamdXYVBtbWFhY3I1aEhJVUNmZnhnM1pfcElIY2dqTnM2R1h3c250aEtUcmllWTQ3YXlLdU43Y2Zad1A5OU9YdW9QOW9Gd2xKdEJlc3dDeVZ5U3c2VGsxeXNnLWtwQQ?oc=5",
-     "pub": "2026-10-11T16:03+00:00"
+     "medio": "Foot Mercato",
+     "titulo": "Yan Diomandé profite des déboires de Vinicius Jr, la presse allemande cartonne Neuer après sa boulette historique",
+     "url": "https://www.footmercato.net/a3575618506492248561-yan-diomande-profite-des-deboires-de-vinicius-jr-la-presse-allemande-cartonne-neuer-apres-sa-boulette-historique",
+     "pub": "2026-10-11T09:04+00:00"
     },
     {
-     "medio": "Yahoo",
-     "titulo": "Hull 2-2 Everton analysis: Toffees rue Barry misses and offside flag",
-     "url": "https://sports.yahoo.com/articles/hull-2-2-everton-analysis-160405654.html",
-     "pub": "2026-10-11T16:04+00:00"
+     "medio": "Foot Mercato",
+     "titulo": "«Un véritable fiasco» : la presse madrilène vole au secours de Vinicius Júnior après son pétage de câble",
+     "url": "https://www.footmercato.net/a2984014693036282798-un-veritable-fiasco-la-presse-madrilene-vole-au-secours-de-vinicius-junior-apres-son-petage-de-cable",
+     "pub": "2026-10-11T07:15+00:00"
     },
     {
-     "medio": "Yahoo",
-     "titulo": "Hull 2-2 Everton analysis: City's strong start continues",
-     "url": "https://sports.yahoo.com/articles/hull-2-2-everton-analysis-160114464.html",
-     "pub": "2026-10-11T16:01+00:00"
+     "medio": "Foot Mercato",
+     "titulo": "Vinicius Jr et l’influenceuse Virginia Fonseca se séparent",
+     "url": "https://www.footmercato.net/a5896446103485072680-vinicius-jr-et-linfluenceuse-virginia-fonseca-se-separent",
+     "pub": "2026-10-11T18:13+00:00"
+    },
+    {
+     "medio": "Google News ES",
+     "titulo": "Vídeo | Cucurella y su reacción tras la expulsión de Vinicius que captaron las cámaras de DAZN",
+     "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQMVlGeldJUDVEUUd6X0laRUluVm1YTGJNYVZLYW5VNWwtVVdHZElVTk8tZ2JzU2FMMW5WXzRlZk1KZ1BMYWp4WGVWUjJSeHdPc2ZySm5Vdmo1SnZyYk5fTGFmN1QteU9PVVc0Y0owQU1yTkhfbG5hTTZLYVV4WVVKekZhMjJpdkpNNnJicGEwRHRFQjkwTzYwa3JFRDNOVklRd0llMkpTNnJuSmpTQVFyUEtrckJaRFlSYVplVUNqYmhCVkZ4Zk9QSlZpUW9yZnVmUjRxWkk0bw?oc=5",
+     "pub": "2026-10-11T20:17+00:00"
+    },
+    {
+     "medio": "AS",
+     "titulo": "La ‘carambola’ que podría ayudar a Vinicius para el Clásico",
+     "url": "https://as.com/futbol/videos/la-carambola-que-podria-ayudar-a-vinicius-para-a-en-el-clasico-f202610-v/",
+     "pub": "2026-10-12T06:47+00:00"
+    },
+    {
+     "medio": "Mundo Deportivo",
+     "titulo": "Alimentar a Vinicius",
+     "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261012/1004237493/alimentar-vinicius.html",
+     "pub": ""
+    },
+    {
+     "medio": "Mundo Deportivo",
+     "titulo": "Cucurella advirtió al árbitro tras la roja de Vinicius: \"Espero que si me tocan un pelo le saquéis la roja\"",
+     "url": "https://www.mundodeportivo.com/futbol/real-madrid/20261011/1004237588/cucurella-advirtio-arbitro-roja-vinicius-espero-me-tocan-pelo-le-saqueis-roja.html",
+     "pub": ""
     }
    ]
   },
@@ -1569,95 +1661,6 @@
      "titulo": "Portsmouth analysis: Southampton defeat 'one that got away'",
      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE44Rlk5YWNHUTgxRXN3M1Axbng2VFFRREVGQmxKREZvLXN0LW5VV1gxSm1JeE1pcGRUMHhVOU1LVUg3M1ZIQk5ibkVma3U2SGROSC0tVGlyZTJPN3c0YjF0eklyR2hKcmdZTjlJ?oc=5",
      "pub": "2026-10-11T15:49+00:00"
-    }
-   ]
-  },
-  {
-   "tema": "Vinicius",
-   "medios": 8,
-   "lista_medios": [
-    "AS",
-    "Foot Mercato",
-    "Google News ES",
-    "L'Equipe",
-    "Mundo Deportivo",
-    "Yahoo",
-    "ge.globo",
-    "talkSPORT"
-   ],
-   "primera_vez": "2026-10-11T16:00+00:00",
-   "titulares": [
-    {
-     "medio": "talkSPORT",
-     "titulo": "Jose Mourinho&#8217;s decision to boycott press conference explained after Vinicius Jr red card",
-     "url": "https://talksport.com/football/4636735/jose-mourinho-press-conference-boycott-vinicius-jr-red-card/",
-     "pub": "2026-10-11T09:10+00:00"
-    },
-    {
-     "medio": "AS",
-     "titulo": "Desazón con Vinicius",
-     "url": "https://as.com/futbol/primera/desazon-con-vinicius-f202610-n/",
-     "pub": "2026-10-11T06:27+00:00"
-    },
-    {
-     "medio": "Mundo Deportivo",
-     "titulo": "Cifras redondas para Vinicius y Tchouaméni",
-     "url": "https://www.mundodeportivo.com/futbol/real-madrid/20261011/1004237374/cifras-redondas-vinicius-tchouameni.html",
-     "pub": ""
-    },
-    {
-     "medio": "L'Equipe",
-     "titulo": "« Ridicule », « un geste violent »... Vinicius unanimement condamné par les médias espagnols au lendemain de son expulsion",
-     "url": "https://www.lequipe.fr/Football/Actualites/-ridicule-un-geste-violent-vinicius-unanimement-condamne-par-les-medias-espagnols-au-lendemain-de-son-expulsion/1724917#at_medium=RSS_feeds",
-     "pub": "2026-10-11T09:21+00:00"
-    },
-    {
-     "medio": "Foot Mercato",
-     "titulo": "Real Madrid : l’entourage de Vinicius Jr réagit à son expulsion polémique",
-     "url": "https://www.footmercato.net/a3971435971801351262-real-madrid-lentourage-de-vinicius-jr-reagit-a-son-expulsion-polemique",
-     "pub": "2026-10-11T10:05+00:00"
-    },
-    {
-     "medio": "Foot Mercato",
-     "titulo": "Yan Diomandé profite des déboires de Vinicius Jr, la presse allemande cartonne Neuer après sa boulette historique",
-     "url": "https://www.footmercato.net/a3575618506492248561-yan-diomande-profite-des-deboires-de-vinicius-jr-la-presse-allemande-cartonne-neuer-apres-sa-boulette-historique",
-     "pub": "2026-10-11T09:04+00:00"
-    },
-    {
-     "medio": "Foot Mercato",
-     "titulo": "«Un véritable fiasco» : la presse madrilène vole au secours de Vinicius Júnior après son pétage de câble",
-     "url": "https://www.footmercato.net/a2984014693036282798-un-veritable-fiasco-la-presse-madrilene-vole-au-secours-de-vinicius-junior-apres-son-petage-de-cable",
-     "pub": "2026-10-11T07:15+00:00"
-    },
-    {
-     "medio": "Foot Mercato",
-     "titulo": "Vinicius Jr et l’influenceuse Virginia Fonseca se séparent",
-     "url": "https://www.footmercato.net/a5896446103485072680-vinicius-jr-et-linfluenceuse-virginia-fonseca-se-separent",
-     "pub": "2026-10-11T18:13+00:00"
-    },
-    {
-     "medio": "Google News ES",
-     "titulo": "Vídeo | Cucurella y su reacción tras la expulsión de Vinicius que captaron las cámaras de DAZN",
-     "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQMVlGeldJUDVEUUd6X0laRUluVm1YTGJNYVZLYW5VNWwtVVdHZElVTk8tZ2JzU2FMMW5WXzRlZk1KZ1BMYWp4WGVWUjJSeHdPc2ZySm5Vdmo1SnZyYk5fTGFmN1QteU9PVVc0Y0owQU1yTkhfbG5hTTZLYVV4WVVKekZhMjJpdkpNNnJicGEwRHRFQjkwTzYwa3JFRDNOVklRd0llMkpTNnJuSmpTQVFyUEtrckJaRFlSYVplVUNqYmhCVkZ4Zk9QSlZpUW9yZnVmUjRxWkk0bw?oc=5",
-     "pub": "2026-10-11T20:17+00:00"
-    },
-    {
-     "medio": "AS",
-     "titulo": "La ‘carambola’ que podría ayudar a Vinicius para el Clásico",
-     "url": "https://as.com/futbol/videos/la-carambola-que-podria-ayudar-a-vinicius-para-a-en-el-clasico-f202610-v/",
-     "pub": "2026-10-12T06:47+00:00"
-    },
-    {
-     "medio": "Mundo Deportivo",
-     "titulo": "Alimentar a Vinicius",
-     "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261012/1004237493/alimentar-vinicius.html",
-     "pub": ""
-    },
-    {
-     "medio": "Mundo Deportivo",
-     "titulo": "Cucurella advirtió al árbitro tras la roja de Vinicius: \"Espero que si me tocan un pelo le saquéis la roja\"",
-     "url": "https://www.mundodeportivo.com/futbol/real-madrid/20261011/1004237588/cucurella-advirtio-arbitro-roja-vinicius-espero-me-tocan-pelo-le-saqueis-roja.html",
-     "pub": ""
     }
    ]
   },
@@ -2095,6 +2098,95 @@
    ]
   },
   {
+   "tema": "Iraola",
+   "medios": 8,
+   "lista_medios": [
+    "BBC",
+    "Daily Mail",
+    "Google News EN",
+    "L'Equipe",
+    "Mirror",
+    "Mundo Deportivo",
+    "Yahoo",
+    "talkSPORT"
+   ],
+   "primera_vez": "2026-10-11T17:45+00:00",
+   "titulares": [
+    {
+     "medio": "Yahoo",
+     "titulo": "Andoni Iraola reaction — What did Liverpool boss say on Gravenberch red card, late implosion vs Man City?",
+     "url": "https://sports.yahoo.com/articles/andoni-iraola-reaction-did-liverpool-172259661.html",
+     "pub": "2026-10-11T17:22+00:00"
+    },
+    {
+     "medio": "Mundo Deportivo",
+     "titulo": "0-3: El Manchester City 'post veredicto' golea al Liverpool de Iraola en Anfield",
+     "url": "https://www.mundodeportivo.com/futbol/premier-league/20261011/1004237497/liverpool.html",
+     "pub": ""
+    },
+    {
+     "medio": "BBC",
+     "titulo": "'I didn't like the refereeing' - Iraola unhappy with Gravenberch red",
+     "url": "https://www.bbc.co.uk/sport/football/videos/cj20v49vd4zro?at_medium=RSS&at_campaign=rss",
+     "pub": "2026-10-11T18:46+00:00"
+    },
+    {
+     "medio": "Daily Mail",
+     "titulo": "Liverpool 0-3 Man City PLAYER RATINGS: Who always made the wrong decision in the big moments? Who will Andoni Iraola be demanding more from? And who could be City's main man but for pending punishments?",
+     "url": "https://www.dailymail.com/sport/football/article-16195643/Liverpool-0-3-Man-City-PLAYER-RATINGS.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+     "pub": "2026-10-11T17:51+00:00"
+    },
+    {
+     "medio": "Mirror",
+     "titulo": "Andoni Iraola slams Ryan Gravenberch red card decision and bemoans Man City 'uncertainty'",
+     "url": "https://www.mirror.co.uk/sport/football/news/andoni-iraola-man-city-liverpool-37760770",
+     "pub": "2026-10-11T18:55+00:00"
+    },
+    {
+     "medio": "Google News EN",
+     "titulo": "Premier League: Liverpool 0-3 Manchester City - Andoni Iraola post match interview",
+     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE05c2FuaDk1X3FsNGhaaUE5bjRkdGowdDNnTkpLdU91WjlPbTUzQ1p5Z3lYYVBxV1FUNTFEYmRBaXNNdFlSTkVELVZhTVVYOUZhekZ0UWw0Mnd3Xy1sZFl6Rk5jNkpEVmFo?oc=5",
+     "pub": "2026-10-11T18:45+00:00"
+    },
+    {
+     "medio": "Mundo Deportivo",
+     "titulo": "Iraola, tras el fin de su sensacional racha: \"Se aprende mucho en partidos así\"",
+     "url": "https://www.mundodeportivo.com/futbol/premier-league/20261011/1004237556/iraola-sensacional-racha-aprende-partidos-asi.html",
+     "pub": ""
+    },
+    {
+     "medio": "L'Equipe",
+     "titulo": "Iraola : « Deux matches différents, avant et après le carton rouge »",
+     "url": "https://www.lequipe.fr/Football/Video/Premier-league-andoni-iraola-frustre-par-le-scenario-face-a-manchester-city-deux-matches-differents-avant-et-apres-le-carton-rouge/20243014#at_medium=RSS_feeds",
+     "pub": "2026-10-11T20:25+00:00"
+    },
+    {
+     "medio": "Mirror",
+     "titulo": "Roy Keane makes brutal Liverpool accusation that cost Andoni Iraola vs Man City",
+     "url": "https://www.mirror.co.uk/sport/football/news/roy-keane-liverpool-man-city-37760924",
+     "pub": "2026-10-11T21:39+00:00"
+    },
+    {
+     "medio": "Yahoo",
+     "titulo": "Carragher urges Iraola to drop Wirtz after Liverpool flop produces another disappointing display vs Man City",
+     "url": "https://sports.yahoo.com/articles/carragher-urges-iraola-drop-wirtz-063000443.html",
+     "pub": "2026-10-12T06:30+00:00"
+    },
+    {
+     "medio": "Yahoo",
+     "titulo": "Andoni Iraola masterminding move for €500m Spain midfielder",
+     "url": "https://sports.yahoo.com/articles/andoni-iraola-masterminding-move-500m-211000031.html",
+     "pub": "2026-10-11T21:10+00:00"
+    },
+    {
+     "medio": "Yahoo",
+     "titulo": "Andoni Iraola claims Liverpool played two different games against rivals",
+     "url": "https://sports.yahoo.com/articles/andoni-iraola-claims-liverpool-played-065000040.html",
+     "pub": "2026-10-12T06:50+00:00"
+    }
+   ]
+  },
+  {
    "tema": "Portsmouth",
    "medios": 7,
    "lista_medios": [
@@ -2243,6 +2335,182 @@
      "titulo": "<![CDATA[ Alarme na direita: Bah apresentou algumas queixas e Banjaqui é pouco provável para o Celtic ]]>",
      "url": "https://www.record.pt/futebol/futebol-nacional/liga-betclic/benfica/detalhe/alarme-na-direita-bah-apresentou-algumas-queixas-e-banjaqui-e-pouco-provavel-para-o-celtic",
      "pub": "2026-10-12T10:39+00:00"
+    }
+   ]
+  },
+  {
+   "tema": "Arsenal",
+   "medios": 7,
+   "lista_medios": [
+    "Football Italia",
+    "Guardian",
+    "L'Equipe",
+    "Mirror",
+    "Yahoo",
+    "ge.globo",
+    "talkSPORT"
+   ],
+   "primera_vez": "2026-10-11T16:00+00:00",
+   "titulares": [
+    {
+     "medio": "talkSPORT",
+     "titulo": "Bukayo Saka told he&#8217;s not justifying contract as Arsenal legend gives key piece of advice",
+     "url": "https://talksport.com/football/4637028/arsenal-bukayo-saka-david-oleary-advice/",
+     "pub": "2026-10-11T12:05+00:00"
+    },
+    {
+     "medio": "Mirror",
+     "titulo": "Ray Parlour accuses Arsenal star of 'not doing his job' in Leeds victory",
+     "url": "https://www.mirror.co.uk/sport/football/news/arsenal-noni-madueke-leeds-parlour-37759772",
+     "pub": "2026-10-11T11:31+00:00"
+    },
+    {
+     "medio": "Yahoo",
+     "titulo": "2nd Arsenal player also picked up injury in post-Leeds warm-down",
+     "url": "https://sports.yahoo.com/articles/2nd-arsenal-player-picked-injury-152000891.html",
+     "pub": "2026-10-11T15:20+00:00"
+    },
+    {
+     "medio": "Yahoo",
+     "titulo": "Arsenal set for breakthrough in contract talks with crucial trio",
+     "url": "https://sports.yahoo.com/articles/arsenal-set-breakthrough-contract-talks-135000039.html",
+     "pub": "2026-10-11T13:50+00:00"
+    },
+    {
+     "medio": "Football Italia",
+     "titulo": "Arsenal trio and Italy defender react as Calafiori scores first Arsenal goal at the Emirates",
+     "url": "https://football-italia.net/arsenal-trio-italy-defender-calafiori-goal/",
+     "pub": "2026-10-11T08:54+00:00"
+    },
+    {
+     "medio": "ge.globo",
+     "titulo": "Gabriel Jesus tem começo mais eficiente no Barcelona do que em Arsenal e Manchester City",
+     "url": "https://ge.globo.com/futebol/futebol-internacional/futebol-espanhol/noticia/2026/10/11/gabriel-jesus-tem-comeco-mais-eficiente-no-barcelona-do-que-em-arsenal-e-manchester-city.ghtml",
+     "pub": "2026-10-11T07:00+00:00"
+    },
+    {
+     "medio": "ge.globo",
+     "titulo": "Bruno Guimarães fala em \"sensação única\" após primeiro gol na casa do Arsenal",
+     "url": "https://ge.globo.com/futebol/futebol-internacional/futebol-ingles/noticia/2026/10/11/bruno-guimaraes-fala-em-sensacao-unica-apos-primeiro-gol-na-casa-do-arsenal.ghtml",
+     "pub": "2026-10-11T06:00+00:00"
+    },
+    {
+     "medio": "Yahoo",
+     "titulo": "Mourinho makes unprompted remark about Arteta & Arsenal",
+     "url": "https://sports.yahoo.com/articles/mourinho-makes-unprompted-remark-arteta-170500002.html",
+     "pub": "2026-10-11T17:05+00:00"
+    },
+    {
+     "medio": "Yahoo",
+     "titulo": "Arsenal dealt injury blow after Leeds United win",
+     "url": "https://sports.yahoo.com/articles/arsenal-dealt-injury-blow-leeds-185000230.html",
+     "pub": "2026-10-11T18:50+00:00"
+    },
+    {
+     "medio": "Yahoo",
+     "titulo": "Arsenal Are Among The Clubs Showing Interest In This Chelsea Defender: Should Arteta Move In For Him?",
+     "url": "https://sports.yahoo.com/articles/arsenal-among-clubs-showing-interest-195000518.html",
+     "pub": "2026-10-11T19:50+00:00"
+    },
+    {
+     "medio": "Mirror",
+     "titulo": "Arsenal news: Mikel Arteta plots Liverpool hijack as Gunners near 'triple deal'",
+     "url": "https://www.mirror.co.uk/sport/football/news/arsenal-transfer-news-gilberto-mora-37760094",
+     "pub": "2026-10-12T03:00+00:00"
+    },
+    {
+     "medio": "L'Equipe",
+     "titulo": "Manchester City se balade, Arsenal et l'Olympiakos sur le fil : les résultats des prochains adversaires des clubs français en Coupe d'Europe",
+     "url": "https://www.lequipe.fr/Football/Actualites/Manchester-city-se-balade-arsenal-et-l-olympiakos-sur-le-fil-les-resultats-des-prochains-adversaires-des-clubs-francais-en-coupe-d-europe/1725099#at_medium=RSS_feeds",
+     "pub": "2026-10-11T22:12+00:00"
+    }
+   ]
+  },
+  {
+   "tema": "Haaland",
+   "medios": 7,
+   "lista_medios": [
+    "Daily Mail",
+    "Foot Mercato",
+    "FourFourTwo",
+    "Google News EN",
+    "Mirror",
+    "Mundo Deportivo",
+    "Yahoo"
+   ],
+   "primera_vez": "2026-10-11T16:00+00:00",
+   "titulares": [
+    {
+     "medio": "Mirror",
+     "titulo": "Erling Haaland 'the most vocal' about Man City charges as true feelings comes to light",
+     "url": "https://www.mirror.co.uk/sport/football/news/erling-haaland-man-city-charges-37759562",
+     "pub": "2026-10-11T11:28+00:00"
+    },
+    {
+     "medio": "Mirror",
+     "titulo": "Erling Haaland buys house in new country just a week after Man City guilty verdict",
+     "url": "https://www.mirror.co.uk/sport/football/news/erling-haaland-house-man-city-37759272",
+     "pub": "2026-10-11T07:25+00:00"
+    },
+    {
+     "medio": "Google News EN",
+     "titulo": "Erling Haaland is facing a career-defining dilemma",
+     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPM21yZTZPMUI2azYxUmY1RTR0UE9zT3IwTWRTNjh6eC1kUEE3NlFaWU5jVlZsMklWNUF3OUw1Wkx3OEZUV1BjbDY0WVJXei1BSUxJalBNYVhaSV9JdVk5ckxERHk0R3k3YkZIVVpvYTR4VnEySzdaZHFRc0RXUDRhN3AwWjRra2Nod3dFSEhFNlcxa2k4aVZ1Qlh4YUZJX3pxdTdqbEctRDh3QQ?oc=5",
+     "pub": "2026-10-11T08:02+00:00"
+    },
+    {
+     "medio": "Foot Mercato",
+     "titulo": "Manchester City : Erling Haaland explique pourquoi il a coupé ses cheveux",
+     "url": "https://www.footmercato.net/a5679713313972710061-manchester-city-erling-haaland-explique-pourquoi-il-a-coupe-ses-cheveux",
+     "pub": "2026-10-11T14:42+00:00"
+    },
+    {
+     "medio": "Yahoo",
+     "titulo": "Premier League all-time goal leaders — Erling Haaland eyes Gerrard, Lukaku, Sterling",
+     "url": "https://sports.yahoo.com/articles/premier-league-time-goal-leaders-062500776.html",
+     "pub": "2026-10-11T17:03+00:00"
+    },
+    {
+     "medio": "Yahoo",
+     "titulo": "Cherki Gets 8, Haaland With 7.5 | Manchester City Players Rated In Impressive Win Vs Liverpool",
+     "url": "https://sports.yahoo.com/articles/cherki-gets-8-haaland-7-180000775.html",
+     "pub": "2026-10-11T18:00+00:00"
+    },
+    {
+     "medio": "Google News EN",
+     "titulo": "Liverpool vs Manchester City: Haaland smashes Man City into the lead at Anfield!",
+     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOOXcwMXdIOTJjRkpHR0NlNVFEMlVSQTFSeFNVQ3g0Z2lRcWRZZFZHa3VOaHBpMzd3MDQ0XzJqZkxMTUl2eFhsR2ppWUZhaDRaaVA0YVBCQkJpUTJyRXo3NnBGc1RhZGxNdG5BR3h1dmdIZ1Ntd3psbWZPWlk4ekktVmVWTWtKVjh0czZ6THVmdjNNNFRQbmd3NkRUS3IzZw?oc=5",
+     "pub": "2026-10-11T17:02+00:00"
+    },
+    {
+     "medio": "Mundo Deportivo",
+     "titulo": "La emoción de Haaland: \"Recordaremos esto mucho tiempo\"",
+     "url": "https://www.mundodeportivo.com/futbol/premier-league/20261011/1004237538/emocion-haaland-recordaremos-esto.html",
+     "pub": ""
+    },
+    {
+     "medio": "Yahoo",
+     "titulo": "Erling Haaland responds after Man City thrash Liverpool under shadow of Premier League sanction",
+     "url": "https://sports.yahoo.com/articles/erling-haaland-responds-man-city-191252697.html",
+     "pub": "2026-10-11T19:12+00:00"
+    },
+    {
+     "medio": "Google News EN",
+     "titulo": "Liverpool vs Manchester City: Haaland misses golden chance!",
+     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOSnFoQm9lUTVaUjVkV05pSzVyZnJKeXRpdVRNYTc4dFh6NTBGekhncVRrNTM2aEQwYkdRNHlnREFkOVJYNGtJTHFjWVppbVJjVDFkWlI5dW1aVlF5Q0llekUzWXBpdGlVS1JGVzgyUDZRVURtQkhUa3RuTGN5eW5HNjRteTlkd0Q3LXlfM0JJY0FPX0E1WkpVVmgzNloyZw?oc=5",
+     "pub": "2026-10-11T16:55+00:00"
+    },
+    {
+     "medio": "Daily Mail",
+     "titulo": "Erling Haaland and his dad buy £7.5m houses in Abu Dhabi, the homeland of Man City's owners, under the shadow of guilty verdict on their rule-breaking investments",
+     "url": "https://www.dailymail.com/sport/football/article-16201713/Erling-Haaland-dad-buy-7-5m-houses-Abu-Dhabi-homeland-Man-Citys-owners-shadow-guilty-verdict-rule-breaking-investments.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+     "pub": "2026-10-12T10:40+00:00"
+    },
+    {
+     "medio": "FourFourTwo",
+     "titulo": "Bayern Munich publicly address Erling Haaland transfer, in wake of Manchester City verdict",
+     "url": "https://www.fourfourtwo.com/transfer/bayern-munich-publicly-address-erling-haaland-transfer-in-wake-of-manchester-city-verdict",
+     "pub": "2026-10-12T11:37+00:00"
     }
    ]
   },
@@ -2419,228 +2687,6 @@
      "titulo": "Milan threw away two points against Sassuolo, says Ruben Amorim",
      "url": "https://sports.yahoo.com/articles/milan-threw-away-two-points-202900377.html",
      "pub": "2026-10-11T20:29+00:00"
-    }
-   ]
-  },
-  {
-   "tema": "Carragher",
-   "medios": 7,
-   "lista_medios": [
-    "AS",
-    "Daily Mail",
-    "Google News EN",
-    "Google News ES",
-    "Mirror",
-    "Planet Football",
-    "Yahoo"
-   ],
-   "primera_vez": "2026-10-11T16:00+00:00",
-   "titulares": [
-    {
-     "medio": "Google News EN",
-     "titulo": "'Dragging football through the gutter!' - Jamie Carragher launches furious attack on Manchester City over financial charges appeal",
-     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNLWdTY0R6alZxTUg2aVFrTWR4dFlIQ2tXOS11UUxJVk9GSlJnX3lUVnNPVFlNNENnZ0tTbU8zMFRaajNzMGdjVGdlUVh4d2RsYjBUaTFkc2ppY2NzNFBhNW1zRkJYZlNEMlBLVWtDYmN0bHlNeWd1bjFlMDJlM0RTNmd4dlVBaFF3T0t5Z0RCNy1tUQ?oc=5",
-     "pub": "2026-10-11T13:00+00:00"
-    },
-    {
-     "medio": "Google News ES",
-     "titulo": "«¡Están arrastrando al fútbol por el fango!»: Jamie Carragher carga duramente contra el Manchester City por su recurso contra las acusaciones de irregularidades financieras",
-     "url": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxQRlBycGpZR1pWVDhwLVJxSDV5TnRwNHVhazJDcXhIekY0Zlp2VFBFaGNlMHV3ZlM1SXJ2QmtucDdIY2x6RThlS3c2NUJjSWs4Y1hNelVKQUgtbF9zbTFLQlZ2TTJ5MGJsS0h6ZHQybWZtQ2Jkd2x2SnVKRTRUeUlwSmNqM0kwSWdtWnY5T3Q4OW5BbFdIbGd5a2V2VlRLRi05X29XajlyRmVYbjN3VDY2R2dLX3g3QjZ2d0l2NFNDUVVZaUJoZ2xzMEhzakl4ZThDM2ozeW9pZ2NETDZXcmFmRFV2NkVSTllJTTFXVHN5bDV0d25WYTB3QlNlSTUxTVZobGhMN29Id0paWUdsYU9ucWFJbkFEWUxtQ0dicnJoaVRULTgxWU1jRDB4WTVxSmkzRDhOeDlQZy15Z1NCRWQzSWhn?oc=5",
-     "pub": "2026-10-11T15:03+00:00"
-    },
-    {
-     "medio": "Mirror",
-     "titulo": "Jamie Carragher and Gary Neville agree on Ryan Gravenberch Liverpool red card vs Man City",
-     "url": "https://www.mirror.co.uk/sport/football/news/neville-carragher-ryan-gravenberch-liverpool-37760608",
-     "pub": "2026-10-11T17:00+00:00"
-    },
-    {
-     "medio": "Daily Mail",
-     "titulo": "Jamie Carragher calls for Liverpool to DROP Florian Wirtz after he offered 'absolutely nothing' in Man City defeat following 'last hope' move from Jurgen Klopp",
-     "url": "https://www.dailymail.com/sport/football/article-16200885/Jamie-Carragher-Liverpool-DROP-Florian-Wirtz.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-     "pub": "2026-10-11T20:23+00:00"
-    },
-    {
-     "medio": "Yahoo",
-     "titulo": "Carragher urges Iraola to drop Wirtz after Liverpool flop produces another disappointing display vs Man City",
-     "url": "https://sports.yahoo.com/articles/carragher-urges-iraola-drop-wirtz-063000443.html",
-     "pub": "2026-10-12T06:30+00:00"
-    },
-    {
-     "medio": "Mirror",
-     "titulo": "Jamie Carragher begs Liverpool to drop Florian Wirtz immediately in latest brutal takedown",
-     "url": "https://www.mirror.co.uk/sport/football/news/jamie-carragher-liverpool-florian-wirtz-37761395",
-     "pub": "2026-10-12T08:27+00:00"
-    },
-    {
-     "medio": "AS",
-     "titulo": "Carragher: “Víctor Muñoz rindió mejor que esos jugadores de 100 millones...”",
-     "url": "https://as.com/futbol/internacional/carragher-victor-munoz-rindio-mejor-que-esos-100-jugadores-de-100-millones-f202610-n/",
-     "pub": "2026-10-12T08:05+00:00"
-    },
-    {
-     "medio": "Planet Football",
-     "titulo": "Jamie Carragher is wrong – £116m Elliot Anderson can never be a ‘bargain’",
-     "url": "https://www.planetfootball.com/manchester-city/elliot-anderson-man-city-stats-against-liverpool-carragher",
-     "pub": "2026-10-12T09:57+00:00"
-    }
-   ]
-  },
-  {
-   "tema": "San",
-   "medios": 7,
-   "lista_medios": [
-    "Google News AR",
-    "Google News EN",
-    "Google News ES",
-    "Infobae",
-    "Kicker",
-    "Ole",
-    "ge.globo"
-   ],
-   "primera_vez": "2026-10-11T16:00+00:00",
-   "titulares": [
-    {
-     "medio": "Kicker",
-     "titulo": "San Sebastian - A Coruna: Tor zum 3:2 durch Yeremay in der 69. Minute",
-     "url": "https://www.kicker.de/san-sebastian-a-coruna-tor-zum-3-2-durch-yeremay-in-der-69-minute-1260252/video#omrss",
-     "pub": "2026-10-11T15:51+00:00"
-    },
-    {
-     "medio": "Kicker",
-     "titulo": "San Sebastian - A Coruna: Rote Karte für Marin in der 66. Minute",
-     "url": "https://www.kicker.de/san-sebastian-a-coruna-rote-karte-fuer-marin-in-der-66-minute-1260248/video#omrss",
-     "pub": "2026-10-11T15:48+00:00"
-    },
-    {
-     "medio": "Kicker",
-     "titulo": "San Sebastian - A Coruna: Tor zum 3:1 durch Soriano in der 61. Minute",
-     "url": "https://www.kicker.de/san-sebastian-a-coruna-tor-zum-3-1-durch-soriano-in-der-61-minute-1260242/video#omrss",
-     "pub": "2026-10-11T15:41+00:00"
-    },
-    {
-     "medio": "Kicker",
-     "titulo": "San Sebastian - A Coruna: Tor zum 3:0 durch Goncalo Guedes in der 54. Minute",
-     "url": "https://www.kicker.de/san-sebastian-a-coruna-tor-zum-3-0-durch-goncalo-guedes-in-der-54-minute-1260239/video#omrss",
-     "pub": "2026-10-11T15:37+00:00"
-    },
-    {
-     "medio": "Kicker",
-     "titulo": "San Sebastian - A Coruna: Tor zum 2:0 durch Zakharyan in der 34. Minute",
-     "url": "https://www.kicker.de/san-sebastian-a-coruna-tor-zum-2-0-durch-zakharyan-in-der-34-minute-1260225/video#omrss",
-     "pub": "2026-10-11T14:54+00:00"
-    },
-    {
-     "medio": "Kicker",
-     "titulo": "San Sebastian - A Coruna: Tor zum 1:0 durch Martin in der 29. Minute",
-     "url": "https://www.kicker.de/san-sebastian-a-coruna-tor-zum-1-0-durch-martin-in-der-29-minute-1260220/video#omrss",
-     "pub": "2026-10-11T14:50+00:00"
-    },
-    {
-     "medio": "Infobae",
-     "titulo": "Con la presentación de San Lorenzo, se abrirá la jornada de domingo por la fecha 12 del Torneo Clausura: la agenda completa",
-     "url": "https://www.infobae.com/deportes/2026/10/11/con-la-presentacion-de-san-lorenzo-se-abrira-la-jornada-de-domingo-por-la-fecha-12-del-torneo-clausura-la-agenda-completa/",
-     "pub": "2026-10-11T12:40+00:00"
-    },
-    {
-     "medio": "Infobae",
-     "titulo": "Es ídolo de San Lorenzo, pasó por Boca y jugó en la Selección: “Cuando dejé el fútbol me agarró una depresión muy grande”",
-     "url": "https://www.infobae.com/deportes/2026/10/11/es-idolo-de-san-lorenzo-paso-por-boca-y-jugo-en-la-seleccion-cuando-deje-el-futbol-me-agarro-una-depresion-muy-grande/",
-     "pub": "2026-10-11T04:12+00:00"
-    },
-    {
-     "medio": "Google News AR",
-     "titulo": "Fútbol/Menores: Buena cosecha de los chicos de San Jorge en La Francia",
-     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPWHNkbWRJVWdBS1N4VkxoNXZXTHI4LU56MWJpdFF0aHlBUkJxMksxY3NrZlVEWjFHVERidTBRZTZfUS03STVoVllBU0owSnRtVkxWTHRpVUJYUnBhQ1VsYl9NTkVfeXZDSVNHVDJRbHR2YjlMUzZxU25wdVl2ZVk5SXo2WWZ1enoza2h6Q2tFQURYcktMU3J5VExGV0FCdzRYQUtub2NMQTlNS0x6SktUMTFR?oc=5",
-     "pub": "2026-10-11T14:00+00:00"
-    },
-    {
-     "medio": "Google News AR",
-     "titulo": "Fútbol argentino: San Lorenzo, Racing e Independiente juegan este domingo y habrá otros dos partidos por la Liga Profesional",
-     "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOdEJ5V1NYZGM4YmVzdVNDYmVqOUIxRXRjOFJibHpuQjg2QjctWmFPMlp1Vm56eEVDcmNrVjdMV2dxRU01bkF0SzRZdTVCQWViM0ZjTzY3MUhMZVpxb2JEbWhLQUwyTF9rR185alIta0x0TVBaekl0bV9yYzlxZHZodnNsQVg3aTFqNHVBYjlvYzE2RE5Sam9VSWE3dkoyNW9EaUpnYzdhaVRCdC1OUlVjQWVyN1VxRlFBa2hUaVd5YjZMV0EyV1NBcVhXYWxnT21sODRfbExjblhVRVQxcy0tTl9kOHhMQTNH?oc=5",
-     "pub": "2026-10-11T11:23+00:00"
-    },
-    {
-     "medio": "Google News AR",
-     "titulo": "Posiciones de San Lorenzo: a cuánto está de clasificarse en la Liga Profesional",
-     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA5c0s5aExTdzJSY3djbVFhWkZRRl9IU2lNUGFsWVBzWXJfN1YyZEZrTU9Nak1ZVm45aDNvQ1QzMDJ0Sy1RZkdfcGZZa3hMYl9ieGtaZW9Ga0hPQ2lqUF9PYnYwLUV5dUEyemVxY1BJcWJRN05JZEt1WE9JcTNRWVE?oc=5",
-     "pub": "2026-10-11T14:24+00:00"
-    },
-    {
-     "medio": "Ole",
-     "titulo": "San Lorenzo vs. Riestra, EN VIVO, por el Torneo Clausura: formaciones y cómo ver",
-     "url": "https://www.ole.com.ar/futbol-primera/san-lorenzo-riestra-vivo-torneo-clausura_0_rIsxBaisxI.html",
-     "pub": "2026-10-11T16:02+00:00"
-    }
-   ]
-  },
-  {
-   "tema": "Cherki",
-   "medios": 7,
-   "lista_medios": [
-    "AS",
-    "BBC",
-    "Foot Mercato",
-    "Guardian",
-    "Infobae",
-    "L'Equipe",
-    "Yahoo"
-   ],
-   "primera_vez": "2026-10-11T16:00+00:00",
-   "titulares": [
-    {
-     "medio": "L'Equipe",
-     "titulo": "Les compositions de Liverpool-Manchester City : Cherki, Barcola et Jacquet débutent, baptême du feu pour Koumas",
-     "url": "https://www.lequipe.fr/Football/Actualites/Les-compositions-de-liverpool-manchester-city-cherki-barcola-et-jacquet-debutent-bapteme-du-feu-pour-koumas/1724964#at_medium=RSS_feeds",
-     "pub": "2026-10-11T14:54+00:00"
-    },
-    {
-     "medio": "BBC",
-     "titulo": "Cherki sparkles but who must do more? - player ratings for Liverpool v Man City",
-     "url": "https://www.bbc.co.uk/sport/football/articles/ck87z1jjynyqo?at_medium=RSS&at_campaign=rss",
-     "pub": "2026-10-11T17:30+00:00"
-    },
-    {
-     "medio": "AS",
-     "titulo": "Cherki firma el mejor gol de la Premier 2026: disfruten de toda la jugada porque es antólogica",
-     "url": "https://as.com/futbol/videos/cherki-firma-el-mejor-gol-de-la-premier-2026-disfruten-de-toda-la-jugada-porque-es-antologica-f202610-v/",
-     "pub": "2026-10-11T17:27+00:00"
-    },
-    {
-     "medio": "L'Equipe",
-     "titulo": "Ballon entre les jambes, crochet... Le sublime but de Rayan Cherki lors du choc de la Premier League entre Manchester City et Liverpool en vidéo",
-     "url": "https://www.lequipe.fr/Football/Actualites/Ballon-entre-les-jambes-crochet-le-sublime-but-de-rayan-cherki-lors-du-choc-de-la-premier-league-entre-manchester-city-et-liverpool-en-video/1725024#at_medium=RSS_feeds",
-     "pub": "2026-10-11T17:21+00:00"
-    },
-    {
-     "medio": "Foot Mercato",
-     "titulo": "Manchester City : le but exceptionnel de Rayan Cherki contre Liverpool",
-     "url": "https://www.footmercato.net/a3865014053492149953-manchester-city-le-but-exceptionnel-de-rayan-cherki-contre-liverpool",
-     "pub": "2026-10-11T17:15+00:00"
-    },
-    {
-     "medio": "Guardian",
-     "titulo": "Cherki cracker caps Manchester City win at Liverpool in face of Anfield taunts",
-     "url": "https://www.theguardian.com/football/2026/oct/11/liverpool-manchester-city-premier-league-match-report",
-     "pub": "2026-10-11T17:42+00:00"
-    },
-    {
-     "medio": "Yahoo",
-     "titulo": "Cherki Gets 8, Haaland With 7.5 | Manchester City Players Rated In Impressive Win Vs Liverpool",
-     "url": "https://sports.yahoo.com/articles/cherki-gets-8-haaland-7-180000775.html",
-     "pub": "2026-10-11T18:00+00:00"
-    },
-    {
-     "medio": "Infobae",
-     "titulo": "Las perlitas del triunfo del Manchester City ante el Liverpool: del chispazo entre Enzo Fernández y Mac Allister al golazo de Cherki",
-     "url": "https://www.infobae.com/deportes/2026/10/11/las-perlitas-del-triunfo-del-manchester-city-ante-el-liverpool-del-chispazo-entre-enzo-fernandez-y-mac-allister-al-golazo-de-cherki/",
-     "pub": "2026-10-11T19:46+00:00"
-    },
-    {
-     "medio": "L'Equipe",
-     "titulo": "Les retours de gagnants de Diaby et Nkunku, le bijou de Cherki",
-     "url": "https://www.lequipe.fr/Football/Article/L-equipe-type-des-francais-du-week-end-les-retours-gagnants-de-moussa-diaby-et-christopher-nkunku-la-trajectoire-folle-de-laurent-mendy/1725090#at_medium=RSS_feeds",
-     "pub": "2026-10-12T06:39+00:00"
     }
    ]
   }
