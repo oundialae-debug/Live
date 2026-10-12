@@ -10,5 +10,8 @@
  ],
  "variante": "hook=pregunta;formato=comparativa;hora=18",
  "notas": "Kicker (Isco 10' y 67', 4-2), Claro Sports 'Betis top 3 doblete Isco', L'Equipe Betis podio aux dépens du Real Madrid; Guardian Vinicius expulsado; jurado r4 7/6/8 = 7,0 (r1 6,0; r3 6,7); foto Isco web actual",
- "recordatorio": true
+ "recordatorio": true,
+ "estado": "enviado",
+ "buffer_id": "6acd0023522c31be0238847d",
+ "dueAt": "2026-10-12T18:00:00+02:00"
 }
