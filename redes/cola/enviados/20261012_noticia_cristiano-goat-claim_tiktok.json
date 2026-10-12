@@ -9,5 +9,8 @@
  "musica": "hh07",
  "variante": "seg=5.0;arranque=s1;hook=pregunta;musica=hh07;formato=auto_noticia;hora=17",
  "notas": "noticia automática (IA + reglas): Foot Mercato: Le Portugal n’en croit pas ses yeux après l’énième comeback de Cristiano Ronaldo; Foot Mercato: Les mots forts de Walid Regragui sur la polémique Cristiano Ronaldo !",
- "titulo": "Ronaldo's bold claim: the GOAT of football?"
+ "titulo": "Ronaldo's bold claim: the GOAT of football?",
+ "estado": "enviado",
+ "buffer_id": "6acd0273522c31be0238ef6d",
+ "dueAt": "2026-10-12T15:56:21+00:00"
 }
