@@ -1,5 +1,5 @@
 {
- "generado": "2026-10-11T20:46+00:00",
+ "generado": "2026-10-12T06:59+00:00",
  "temas": [
   {
    "tema": "Liverpool",
@@ -176,12 +176,6 @@
      "pub": "2026-10-11T09:30+00:00"
     },
     {
-     "medio": "FourFourTwo",
-     "titulo": "Watch Manchester United vs Tottenham Hotspur: FREE streams",
-     "url": "https://www.fourfourtwo.com/competition/watch-manchester-united-vs-tottenham-hotspur-premier-league-2026-27-free",
-     "pub": "2026-10-10T12:00+00:00"
-    },
-    {
      "medio": "Yahoo",
      "titulo": "Six young talents Barcelona are closely monitoring including Manchester United gem",
      "url": "https://sports.yahoo.com/articles/six-young-talents-barcelona-closely-153700227.html",
@@ -198,6 +192,12 @@
      "titulo": "Who is Lewis Koumas? Liverpool youngster gets first Premier League start vs Manchester City",
      "url": "https://sports.yahoo.com/articles/lewis-koumas-liverpool-youngsters-gets-144809179.html",
      "pub": "2026-10-11T14:48+00:00"
+    },
+    {
+     "medio": "Yahoo",
+     "titulo": "How to watch Liverpool v Manchester City as City return to action after guilty verdict",
+     "url": "https://sports.yahoo.com/articles/watch-liverpool-v-manchester-city-081317907.html",
+     "pub": "2026-10-11T14:26+00:00"
     }
    ]
   },
@@ -448,18 +448,6 @@
      "pub": "2026-10-10T19:00+00:00"
     },
     {
-     "medio": "talkSPORT",
-     "titulo": "Premier League managers criticised for soft Man City stance and told to look at EFL boss",
-     "url": "https://talksport.com/football/4636046/premier-league-managers-soft-man-city-stance/",
-     "pub": "2026-10-10T11:06+00:00"
-    },
-    {
-     "medio": "talkSPORT",
-     "titulo": "Tottenham to leave UK immediately after Man United draw in rare decision",
-     "url": "https://talksport.com/football/4636032/tottenham-marbella-trip-man-united/",
-     "pub": "2026-10-10T10:12+00:00"
-    },
-    {
      "medio": "Daily Mail",
      "titulo": "Bruno Fernandes cuts frustrated figure as he makes hasty Old Trafford exit after Man United throw away win against 10-man Spurs",
      "url": "https://www.dailymail.com/sport/football/article-16200131/Bruno-Fernandes-cuts-frustrated-figure-makes-hasty-Old-Trafford-exit-Man-United-throw-away-win-against-10-man-Spurs.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
@@ -476,6 +464,18 @@
      "titulo": "Liverpool's clash with Man City is a ghost game that may as well be played in a circus tent: Grudge match starts slow period of torture for the top flight after guilty verdict - and Anfield's anger is real, writes OLIVER HOLT",
      "url": "https://www.dailymail.com/sport/football/article-16198335/Liverpools-clash-Man-City-ghost-game-played-circus-tent-Grudge-match-starts-slow-period-torture-flight-guilty-verdict-Anfields-anger-real-writes-OLIVER-HOLT.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
      "pub": "2026-10-11T07:46+00:00"
+    },
+    {
+     "medio": "Daily Mail",
+     "titulo": "'Worried' Gary Neville tells struggling Man United stars to 'get a grip' after Spurs draw ahead of tough run - as he warns midfield duo CAN'T play together and calls out lack of fight in Michael Carrick's men",
+     "url": "https://www.dailymail.com/sport/football/article-16199259/Gary-Neville-struggling-Man-United.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+     "pub": "2026-10-10T22:11+00:00"
+    },
+    {
+     "medio": "Daily Mail",
+     "titulo": "'Stupid' Rodrigo Bentancur sparks mass brawl after HEADBUTTING Luke Shaw as Spurs star is sent off in clash with Man United",
+     "url": "https://www.dailymail.com/sport/football/article-16199171/Rodrigo-Bentancur-mass-brawl-HEADBUTTING.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+     "pub": "2026-10-10T20:12+00:00"
     }
    ]
   },
@@ -576,7 +576,7 @@
    "lista_medios": [
     "AS",
     "Foot Mercato",
-    "FourFourTwo",
+    "Google News EN",
     "Google News ES",
     "Infobae",
     "L'Equipe",
@@ -592,12 +592,6 @@
      "titulo": "Vini Jr held back by Real Madrid teammates as superstar explodes at referee after being sent off",
      "url": "https://talksport.com/football/4636641/vinicius-jr-real-madrid-red-card-villarreal/",
      "pub": "2026-10-10T21:18+00:00"
-    },
-    {
-     "medio": "FourFourTwo",
-     "titulo": "How to watch Real Madrid vs Villarreal for FREE: Live stream details for La Liga clash",
-     "url": "https://www.fourfourtwo.com/competition/watch-real-madrid-vs-villarreal-la-liga-free",
-     "pub": "2026-10-10T15:00+00:00"
     },
     {
      "medio": "Yahoo",
@@ -658,6 +652,12 @@
      "titulo": "Vini Jr. deve ficar fora de Barcelona x Real Madrid após expulsão por puxão de cabelo",
      "url": "https://ge.globo.com/futebol/futebol-internacional/noticia/2026/10/11/vini-jr-deve-ficar-fora-de-barcelona-x-real-madrid-apos-expulsao-por-puxao-de-cabelo.ghtml",
      "pub": "2026-10-11T14:04+00:00"
+    },
+    {
+     "medio": "ge.globo",
+     "titulo": "TV do Real Madrid sobe tom após expulsão de Vini Jr. e nove cartões: \"Se Yamal faz isso, o gol não volta\"",
+     "url": "https://ge.globo.com/futebol/futebol-internacional/noticia/2026/10/11/real-madrid-sobe-tom-apos-expulsao-de-vini-jr-e-nove-cartoes-se-yamal-faz-isso-o-gol-nao-volta.ghtml",
+     "pub": "2026-10-11T11:11+00:00"
     }
    ]
   },
@@ -752,92 +752,92 @@
    ]
   },
   {
-   "tema": "Tottenham",
+   "tema": "Everton",
    "medios": 9,
    "lista_medios": [
     "BBC",
+    "Daily Mail",
     "Foot Mercato",
-    "Football Italia",
     "FourFourTwo",
     "Google News EN",
-    "Mirror",
-    "Planet Football",
-    "Yahoo",
-    "talkSPORT"
+    "Guardian",
+    "Mundo Deportivo",
+    "Sky Sports",
+    "Yahoo"
    ],
    "primera_vez": "2026-10-11T16:00+00:00",
    "titulares": [
     {
-     "medio": "BBC",
-     "titulo": "'Tottenham needs this reaction' - De Zerbi defends Bentancur red",
-     "url": "https://www.bbc.co.uk/sport/football/videos/cq39818v0ekzo?at_medium=RSS&at_campaign=rss",
-     "pub": "2026-10-10T19:46+00:00"
+     "medio": "Guardian",
+     "titulo": "Mohamed Belloumi grabs point for Hull in seesaw draw with Everton",
+     "url": "https://www.theguardian.com/football/2026/oct/11/hull-city-everton-premier-league-match-report",
+     "pub": "2026-10-11T15:13+00:00"
     },
     {
-     "medio": "talkSPORT",
-     "titulo": "Tottenham to leave UK immediately after Man United draw in rare decision",
-     "url": "https://talksport.com/football/4636032/tottenham-marbella-trip-man-united/",
-     "pub": "2026-10-10T10:12+00:00"
+     "medio": "Sky Sports",
+     "titulo": "Belloumi earns Hull draw with Everton after thrilling four-goal second half",
+     "url": "https://www.skysports.com/football/hull-city-vs-everton/report/559499",
+     "pub": "2026-10-11T16:00+00:00"
     },
     {
-     "medio": "Mirror",
-     "titulo": "Man Utd star reveals Michael Carrick demand was not met in Tottenham draw",
-     "url": "https://www.mirror.co.uk/sport/football/news/man-utd-spurs-carrick-lammens-37759954",
-     "pub": "2026-10-11T12:56+00:00"
+     "medio": "Sky Sports",
+     "titulo": "Belloumi rescues draw for Hull vs Everton after thrilling second half LIVE!",
+     "url": "https://www.skysports.com/football/hull-city-vs-everton/live/559499",
+     "pub": "2026-10-11T12:30+00:00"
     },
     {
-     "medio": "Planet Football",
-     "titulo": "The iffy Premier League table since Tottenham appointed Roberto De Zerbi",
-     "url": "https://www.planetfootball.com/tottenham-hotspur/premier-league-table-roberto-de-zerbi-spurs",
-     "pub": "2026-10-10T18:49+00:00"
-    },
-    {
-     "medio": "FourFourTwo",
-     "titulo": "Toby Alderweireld on Tottenham Hotspur’s incredible Champions League semi-final win in 2019",
-     "url": "https://www.fourfourtwo.com/person/player/to-kill-the-dream-of-my-former-club-was-a-strange-feeling-ill-always-be-grateful-to-ajax-but-football-is-like-that-toby-alderweireld-on-tottenham-hotspurs-incredible-champions-league-semi-final-win-in-2019",
-     "pub": "2026-10-11T15:00+00:00"
+     "medio": "Daily Mail",
+     "titulo": "Hull 2-2 Everton: Toffees' unbeaten start continues two days after owners revealed plan to sell and despite calamitous transfer window as Mohamed Belloumi salvages draw for the Tigers in exhilarating second half",
+     "url": "https://www.dailymail.com/sport/football/article-16195583/Hull-2-2-Everton-Mohamed-Belloumi-salvages-draw-Tigers-exhilarating-second-half-visitors-unbeaten-start-continues-two-days-owners-revealed-plan-sell.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+     "pub": "2026-10-11T15:24+00:00"
     },
     {
      "medio": "FourFourTwo",
-     "titulo": "Watch Manchester United vs Tottenham Hotspur: FREE streams",
-     "url": "https://www.fourfourtwo.com/competition/watch-manchester-united-vs-tottenham-hotspur-premier-league-2026-27-free",
-     "pub": "2026-10-10T12:00+00:00"
+     "titulo": "Hull City vs Everton FREE live streams: How to watch",
+     "url": "https://www.fourfourtwo.com/competition/watch-hull-vs-everton-premier-league-2026-27-free",
+     "pub": "2026-10-11T10:00+00:00"
     },
     {
      "medio": "Yahoo",
-     "titulo": "Manchester United make Michael Carrick decision after Tottenham Hotspur draw",
-     "url": "https://sports.yahoo.com/articles/manchester-united-michael-carrick-decision-145000830.html",
-     "pub": "2026-10-11T14:50+00:00"
+     "titulo": "Tarkowski And Dewsbury-Hall Get 8 | Everton Players Rated In Entertaining Draw Vs Hull City",
+     "url": "https://sports.yahoo.com/articles/tarkowski-dewsbury-hall-8-everton-153000484.html",
+     "pub": "2026-10-11T15:30+00:00"
     },
     {
-     "medio": "Google News EN",
-     "titulo": "Highlights - Premier League - Manchester United 1-1 Tottenham Hotspur",
-     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBUaHMzd0hTNGYtbTZvTHRlZFRuU25sc3NzMWpCdFh2Mnh3SHdPQ210a2l1eExvOERXTjVfQmpqWjVWdHlPQV9mVndqWm9ha1d1Slo0cDJFTFJteUdCOElmdGhKYllZcVNr?oc=5",
-     "pub": "2026-10-10T19:24+00:00"
+     "medio": "Mundo Deportivo",
+     "titulo": "2-2: Hull City y Everton se reparten los puntos en una segunda parte de locura",
+     "url": "https://www.mundodeportivo.com/futbol/premier-league/20261011/1004237443/hull-city-everton-reparten-puntos-segunda-parte-locura.html",
+     "pub": ""
     },
     {
-     "medio": "Google News EN",
-     "titulo": "Man Utd 1-1 Tottenham: Dominic Solanke rescues dramatic draw for 10-man Spurs at Old Trafford",
-     "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQbkZaaDhrU05wMGVXV1dwaHZkeXZLeEY5bEhiTE5OUXhySGdRU1N4SmtNMC1LVWYtSDFYNnBSVklsbGI5emVFb2s3Y2VlSWk3TVo2bUU2dTQzVVRhS1poRkdTbHJWVzRJWHd2TTJCZFpoLWtJT1VGNHlzTXE3eDNLOE5Xbk8zNjRiMkVhSzBOUkItemFoSU9NUDdyMFRyWllzNURCNnJ0VXl5NW84T0lnSWVvb2RtTlZjLUliY1hLOWxlazdYY254NVdWaUZSRzBrQ1UtQjlRRnM?oc=5",
-     "pub": "2026-10-11T14:31+00:00"
-    },
-    {
-     "medio": "Football Italia",
-     "titulo": "Tonali sends six-word message after assist in Tottenham draw with Man Utd",
-     "url": "https://football-italia.net/tonali-6-words-message-assist-draw-tottenham/",
-     "pub": "2026-10-11T12:03+00:00"
-    },
-    {
-     "medio": "Google News EN",
-     "titulo": "NFL London games 2026 LIVE! Updates, result, highlights from Jacksonville Jaguars vs Philadelphia Eagles at Tottenham Hotspur Stadium",
-     "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxNSVN0QzA5eWFabHpnZ3RDdlJqSlRBNzJvUllOVnYyOGozM2x2d0pHTnlMTHpxeWdIQnFKaTl0U2JFRE85NUlBMXg5aXlxVEljYmZMTXQ5Y0hrblpuTGNwdjAxWTJOZ0hwRC1LRFRQRFJjVEtkX2Npby14Z1BTajZWdmtKYUpYWGxvUC1wTDV4eTFBcDhVZlFZb0E4dWlPaER6c21mTjhxaWs0c3lVRG1XMEQtZU95MUViRTlEdmRib1E5TC1qUHdpV3ItN1NBUUcxdjVlamQ5NEtGMWZDelVOUWpUY2xwTEVnUldEZXlDdEdidEhNcmhSTzkyQkFaXzRLc0Z6ZllBYUlvdlU?oc=5",
-     "pub": "2026-10-11T14:37+00:00"
+     "medio": "Mundo Deportivo",
+     "titulo": "Hull City - Everton, en directo | Premier League",
+     "url": "https://www.mundodeportivo.com/futbol/premier-league/20261011/1004235394/hull-city-everton-directo-premier-league.html",
+     "pub": ""
     },
     {
      "medio": "Foot Mercato",
-     "titulo": "Tottenham : les stages à Marbella de Roberto De Zerbi servent-ils réellement à quelque chose",
-     "url": "https://www.footmercato.net/a1605781767685981346-tottenham-les-stages-a-marbella-de-roberto-de-zerbi-servent-ils-reellement-a-quelque-chose",
-     "pub": "2026-10-11T16:15+00:00"
+     "titulo": "Premier League : Pierre Sage et Crystal Palace se donnent de l’air, Everton accroché par Hull City",
+     "url": "https://www.footmercato.net/a829854825299357934-premier-league-pierre-sage-et-crystal-palace-se-donnent-de-lair-everton-accroche-par-hull-city",
+     "pub": "2026-10-11T15:03+00:00"
+    },
+    {
+     "medio": "Google News EN",
+     "titulo": "Hull City vs Everton LIVE! Premier League score updates, news, prediction, line-ups and how to watch or stream",
+     "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPMV9BakhRLUVyMThjczhya3FEdmtjckFMelIweGFoOVdpd2dVcEd2dE93a0ZZV0czZGQ5dnQxOVN0NWZBcHNLWlA5SUtWODZobUdiMGZaYWlmb3Y2UFlxQ3d2SGU4cXU2VnFabkNxTWI4bXMyb3JlV0UwR0lLSkthZEJDYzIxZE9jeFAxdEF3WlcyamRLamdXYVBtbWFhY3I1aEhJVUNmZnhnM1pfcElIY2dqTnM2R1h3c250aEtUcmllWTQ3YXlLdU43Y2Zad1A5OU9YdW9QOW9Gd2xKdEJlc3dDeVZ5U3c2VGsxeXNnLWtwQQ?oc=5",
+     "pub": "2026-10-11T16:03+00:00"
+    },
+    {
+     "medio": "Yahoo",
+     "titulo": "Hull 2-2 Everton analysis: Toffees rue Barry misses and offside flag",
+     "url": "https://sports.yahoo.com/articles/hull-2-2-everton-analysis-160405654.html",
+     "pub": "2026-10-11T16:04+00:00"
+    },
+    {
+     "medio": "Yahoo",
+     "titulo": "Hull 2-2 Everton analysis: City's strong start continues",
+     "url": "https://sports.yahoo.com/articles/hull-2-2-everton-analysis-160114464.html",
+     "pub": "2026-10-11T16:01+00:00"
     }
    ]
   },
@@ -932,92 +932,272 @@
    ]
   },
   {
-   "tema": "Everton",
+   "tema": "Lazio",
    "medios": 9,
    "lista_medios": [
-    "BBC",
-    "Daily Mail",
     "Foot Mercato",
-    "FourFourTwo",
     "Google News EN",
     "Guardian",
+    "Kicker",
+    "L'Equipe",
     "Mundo Deportivo",
+    "Record",
     "Sky Sports",
     "Yahoo"
    ],
    "primera_vez": "2026-10-11T16:00+00:00",
    "titulares": [
     {
-     "medio": "Guardian",
-     "titulo": "Mohamed Belloumi grabs point for Hull in seesaw draw with Everton",
-     "url": "https://www.theguardian.com/football/2026/oct/11/hull-city-everton-premier-league-match-report",
-     "pub": "2026-10-11T15:13+00:00"
-    },
-    {
-     "medio": "Sky Sports",
-     "titulo": "Belloumi earns Hull draw with Everton after thrilling four-goal second half",
-     "url": "https://www.skysports.com/football/hull-city-vs-everton/report/559499",
-     "pub": "2026-10-11T16:00+00:00"
-    },
-    {
-     "medio": "Sky Sports",
-     "titulo": "Belloumi rescues draw for Hull vs Everton after thrilling second half LIVE!",
-     "url": "https://www.skysports.com/football/hull-city-vs-everton/live/559499",
-     "pub": "2026-10-11T12:30+00:00"
-    },
-    {
-     "medio": "Daily Mail",
-     "titulo": "Hull 2-2 Everton: Toffees' unbeaten start continues two days after owners revealed plan to sell and despite calamitous transfer window as Mohamed Belloumi salvages draw for the Tigers in exhilarating second half",
-     "url": "https://www.dailymail.com/sport/football/article-16195583/Hull-2-2-Everton-Mohamed-Belloumi-salvages-draw-Tigers-exhilarating-second-half-visitors-unbeaten-start-continues-two-days-owners-revealed-plan-sell.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-     "pub": "2026-10-11T15:24+00:00"
-    },
-    {
-     "medio": "FourFourTwo",
-     "titulo": "Hull City vs Everton FREE live streams: How to watch",
-     "url": "https://www.fourfourtwo.com/competition/watch-hull-vs-everton-premier-league-2026-27-free",
-     "pub": "2026-10-11T10:00+00:00"
-    },
-    {
      "medio": "Yahoo",
-     "titulo": "Tarkowski And Dewsbury-Hall Get 8 | Everton Players Rated In Entertaining Draw Vs Hull City",
-     "url": "https://sports.yahoo.com/articles/tarkowski-dewsbury-hall-8-everton-153000484.html",
-     "pub": "2026-10-11T15:30+00:00"
+     "titulo": "Serie A | Lazio 3-1 Monza: Special Nuno Tavares strike keeps Aquile on top",
+     "url": "https://sports.yahoo.com/articles/serie-lazio-3-1-monza-150000173.html",
+     "pub": "2026-10-11T15:00+00:00"
     },
     {
      "medio": "Mundo Deportivo",
-     "titulo": "2-2: Hull City y Everton se reparten los puntos en una segunda parte de locura",
-     "url": "https://www.mundodeportivo.com/futbol/premier-league/20261011/1004237443/hull-city-everton-reparten-puntos-segunda-parte-locura.html",
+     "titulo": "Lazio - Monza, en directo | Serie A",
+     "url": "https://www.mundodeportivo.com/futbol/serie-a/20261011/1004235400/lazio-monza-directo-serie.html",
      "pub": ""
     },
     {
-     "medio": "Mundo Deportivo",
-     "titulo": "Hull City - Everton, en directo | Premier League",
-     "url": "https://www.mundodeportivo.com/futbol/premier-league/20261011/1004235394/hull-city-everton-directo-premier-league.html",
-     "pub": ""
+     "medio": "Kicker",
+     "titulo": "Lazio - Monza: Tor zum 3:1 durch Pinamonti in der 88. Minute",
+     "url": "https://www.kicker.de/lazio-monza-tor-zum-3-1-durch-pinamonti-in-der-88-minute-1260224/video#omrss",
+     "pub": "2026-10-11T14:53+00:00"
+    },
+    {
+     "medio": "L'Equipe",
+     "titulo": "Toujours invaincue, la Lazio de Gennaro Gattuso rejoint l'Inter Milan en tête de la Serie A",
+     "url": "https://www.lequipe.fr/Football/Actualites/Toujours-invaincue-la-lazio-de-gennaro-gattuso-rejoint-l-inter-milan-en-tete-de-la-serie-a/1724978#at_medium=RSS_feeds",
+     "pub": "2026-10-11T15:18+00:00"
     },
     {
      "medio": "Foot Mercato",
-     "titulo": "Premier League : Pierre Sage et Crystal Palace se donnent de l’air, Everton accroché par Hull City",
-     "url": "https://www.footmercato.net/a829854825299357934-premier-league-pierre-sage-et-crystal-palace-se-donnent-de-lair-everton-accroche-par-hull-city",
-     "pub": "2026-10-11T15:03+00:00"
+     "titulo": "Serie A : Gattuso toujours invaincu avec sa Lazio, Bologne retrouve des couleurs à Lecce",
+     "url": "https://www.footmercato.net/a2001255216475979748-serie-a-gattuso-toujours-invaincu-avec-sa-lazio-bologne-retrouve-des-couleurs-a-lecce",
+     "pub": "2026-10-11T14:59+00:00"
+    },
+    {
+     "medio": "Foot Mercato",
+     "titulo": "Lazio : le pétard de Nuno Tavares contre Monza",
+     "url": "https://www.footmercato.net/a5728197747751726109-lazio-le-petard-de-nuno-tavares-contre-monza",
+     "pub": "2026-10-11T13:35+00:00"
+    },
+    {
+     "medio": "Record",
+     "titulo": "<![CDATA[ Golaço de Nuno Tavares abre triunfo da Lazio face ao Monza ]]>",
+     "url": "https://www.record.pt/internacional/paises/italia/detalhe/golaco-de-nuno-tavares-abre-triunfo-da-lazio-face-ao-monza",
+     "pub": "2026-10-11T15:14+00:00"
     },
     {
      "medio": "Google News EN",
-     "titulo": "Hull City vs Everton LIVE! Premier League score updates, news, prediction, line-ups and how to watch or stream",
-     "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPMV9BakhRLUVyMThjczhya3FEdmtjckFMelIweGFoOVdpd2dVcEd2dE93a0ZZV0czZGQ5dnQxOVN0NWZBcHNLWlA5SUtWODZobUdiMGZaYWlmb3Y2UFlxQ3d2SGU4cXU2VnFabkNxTWI4bXMyb3JlV0UwR0lLSkthZEJDYzIxZE9jeFAxdEF3WlcyamRLamdXYVBtbWFhY3I1aEhJVUNmZnhnM1pfcElIY2dqTnM2R1h3c250aEtUcmllWTQ3YXlLdU43Y2Zad1A5OU9YdW9QOW9Gd2xKdEJlc3dDeVZ5U3c2VGsxeXNnLWtwQQ?oc=5",
-     "pub": "2026-10-11T16:03+00:00"
+     "titulo": "European football: Lazio maintain strong start with win over Monza",
+     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOR3MwUWxPdXNhUlZQdEVYR2NKX0pCVDVuaVMzS190OXdseTNLblVMdE1RUXdrYkY1MkVYaE1PNl90LXgzVzBnUWFkeXN5NWVJYXV3RWl1Yi1ZbENMcVVmbnZNMEFBOEx6RnRUbEc2V0xNLTQ5TTRRQ0tMTkVHSjc4UmZ0Tm1Md3FJYlkzX0VHT3pZZ0Z4alo1Sko2TjhnbHplU2lNNU1qM01EY0xvZS0xSy1oTlE?oc=5",
+     "pub": "2026-10-11T16:09+00:00"
+    },
+    {
+     "medio": "Guardian",
+     "titulo": "European football: Lazio join Inter at top of Serie A as Roma held at Como",
+     "url": "https://www.theguardian.com/football/2026/oct/11/european-football-lazio-maintain-strong-start-with-win-over-monza",
+     "pub": "2026-10-11T16:09+00:00"
     },
     {
      "medio": "Yahoo",
-     "titulo": "Hull 2-2 Everton analysis: Toffees rue Barry misses and offside flag",
-     "url": "https://sports.yahoo.com/articles/hull-2-2-everton-analysis-160405654.html",
-     "pub": "2026-10-11T16:04+00:00"
+     "titulo": "Gattuso frustrated with Lazio despite 3-1 Monza win: ‘Like the second half against Milan’",
+     "url": "https://sports.yahoo.com/articles/gattuso-frustrated-lazio-despite-3-162000226.html",
+     "pub": "2026-10-11T16:20+00:00"
+    },
+    {
+     "medio": "Mundo Deportivo",
+     "titulo": "El Lazio de Gattuso sigue el ritmo del Inter con un gran gol de Nuno Tavares",
+     "url": "https://www.mundodeportivo.com/futbol/serie-a/20261011/1004237454/lazio.html",
+     "pub": ""
     },
     {
      "medio": "Yahoo",
-     "titulo": "Hull 2-2 Everton analysis: City's strong start continues",
-     "url": "https://sports.yahoo.com/articles/hull-2-2-everton-analysis-160114464.html",
-     "pub": "2026-10-11T16:01+00:00"
+     "titulo": "Lazio boss Rino Gattuso believes he deserves more credit as manager",
+     "url": "https://sports.yahoo.com/articles/lazio-boss-rino-gattuso-believes-201400412.html",
+     "pub": "2026-10-11T20:14+00:00"
+    }
+   ]
+  },
+  {
+   "tema": "Seedorf",
+   "medios": 9,
+   "lista_medios": [
+    "AS",
+    "Foot Mercato",
+    "Google News AR",
+    "L'Equipe",
+    "Mundo Deportivo",
+    "Planet Football",
+    "Record",
+    "Yahoo",
+    "ge.globo"
+   ],
+   "primera_vez": "2026-10-11T16:00+00:00",
+   "titulares": [
+    {
+     "medio": "Yahoo",
+     "titulo": "Corinthians signing Seedorf shocks social media; see the reactions 🤣",
+     "url": "https://sports.yahoo.com/articles/corinthians-signing-seedorf-shocks-social-143300478.html",
+     "pub": "2026-10-11T14:33+00:00"
+    },
+    {
+     "medio": "AS",
+     "titulo": "Oficial: Seedorf, a Corinthians",
+     "url": "https://as.com/futbol/internacional/oficial-seedorf-a-corinthians-f202610-n/",
+     "pub": "2026-10-11T14:33+00:00"
+    },
+    {
+     "medio": "Foot Mercato",
+     "titulo": "Clarence Seedorf nouvel entraîneur des Corinthians",
+     "url": "https://www.footmercato.net/a7448500962750134282-clarence-seedorf-nouvel-entraineur-des-corinthians",
+     "pub": "2026-10-11T14:36+00:00"
+    },
+    {
+     "medio": "Record",
+     "titulo": "<![CDATA[ Seedorf é o eleito do Corinthians para tentar fugir da descida ]]>",
+     "url": "https://www.record.pt/internacional/paises/brasil/detalhe/seedorf-e-o-eleito-do-corinthians-para-tentar-fugir-da-descida",
+     "pub": "2026-10-11T15:32+00:00"
+    },
+    {
+     "medio": "ge.globo",
+     "titulo": "Contrato de Seedorf com o Corinthians prevê rescisão em caso de rebaixamento à Série B",
+     "url": "https://ge.globo.com/futebol/times/corinthians/noticia/2026/10/11/contrato-de-seedorf-com-o-corinthians-preve-rescisao-em-caso-de-rebaixamento-a-serie-b.ghtml",
+     "pub": "2026-10-11T15:37+00:00"
+    },
+    {
+     "medio": "ge.globo",
+     "titulo": "Empresários detalham indicação de Seedorf a Marcelo Paz e explicam acerto com o Corinthians",
+     "url": "https://ge.globo.com/futebol/times/corinthians/noticia/2026/10/11/empresarios-detalham-indicacao-de-seedorf-a-marcelo-paz-e-explicam-acerto-com-o-corinthians.ghtml",
+     "pub": "2026-10-11T14:49+00:00"
+    },
+    {
+     "medio": "ge.globo",
+     "titulo": "Corinthians contrata Seedorf como novo técnico",
+     "url": "https://ge.globo.com/futebol/times/corinthians/noticia/2026/10/11/corinthians-contrata-seedorf-como-novo-tecnico.ghtml",
+     "pub": "2026-10-11T14:05+00:00"
+    },
+    {
+     "medio": "Mundo Deportivo",
+     "titulo": "Seedorf encuentra equipo",
+     "url": "https://www.mundodeportivo.com/futbol/fichajes/oficial/20261011/1004237453/seedorf-encuentra-equipo.html",
+     "pub": ""
+    },
+    {
+     "medio": "L'Equipe",
+     "titulo": "Clarence Seedorf devient l'entraîneur du Corinthians et s'engage jusqu'à fin 2027 avec le club brésilien",
+     "url": "https://www.lequipe.fr/Football/Actualites/Clarence-seedorf-devient-l-entraineur-du-corinthians-et-s-engage-jusqu-a-fin-2027-avec-le-club-bresilien/1724987#at_medium=RSS_feeds",
+     "pub": "2026-10-11T15:45+00:00"
+    },
+    {
+     "medio": "Google News AR",
+     "titulo": "Clarence Seedorf vuelve al fútbol brasileño: es el nuevo entrenador de Corinthians",
+     "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQcG8yeHc0RVQ3VzZpTlZYYnRjd3k5NHc2RXpOaEZmX2kwZ2lEMGZIVEhFemJydG9kamJuTllHbTM4Y2xOQWd0Vmw1MUllbEpsNl9zRHByV2ZsVTNVWlRSSmFfaGpYZE1QSlRURVB0cXF0VXUzZFkwWWxXN25ObWs5anNPeHJnaGFZMi1XSVlRVXR4ZHozVWRwVktqcnRIOExNWkxMUTZONEN2S0thN0xhT0Y1YkNGRElaVk84blpXakh2SlpuLWZ1cDd4d0R5VFM0YTV2UjJRYk5pVUoxMmVSX0Rn?oc=5",
+     "pub": "2026-10-11T16:39+00:00"
+    },
+    {
+     "medio": "ge.globo",
+     "titulo": "Seedorf pede apoio da torcida do Corinthians e promete \"fazer o melhor\"",
+     "url": "https://ge.globo.com/futebol/times/corinthians/noticia/2026/10/11/seedorf-pede-apoio-da-torcida-do-corinthians-e-promete-fazer-o-melhor.ghtml",
+     "pub": "2026-10-11T17:04+00:00"
+    },
+    {
+     "medio": "ge.globo",
+     "titulo": "Marcelo Paz explica escolha por Seedorf e quer Corinthians pragmático: \"Ganhar de 1 a 0\"",
+     "url": "https://ge.globo.com/futebol/times/corinthians/noticia/2026/10/11/marcelo-paz-explica-escolha-por-seedorf-e-quer-corinthians-pragmatico-ganhar-de-1-a-0.ghtml",
+     "pub": "2026-10-11T20:12+00:00"
+    }
+   ]
+  },
+  {
+   "tema": "Corinthians",
+   "medios": 9,
+   "lista_medios": [
+    "AS",
+    "Foot Mercato",
+    "Google News AR",
+    "Infobae",
+    "L'Equipe",
+    "Ole",
+    "Record",
+    "Yahoo",
+    "ge.globo"
+   ],
+   "primera_vez": "2026-10-11T16:00+00:00",
+   "titulares": [
+    {
+     "medio": "Yahoo",
+     "titulo": "Corinthians signing Seedorf shocks social media; see the reactions 🤣",
+     "url": "https://sports.yahoo.com/articles/corinthians-signing-seedorf-shocks-social-143300478.html",
+     "pub": "2026-10-11T14:33+00:00"
+    },
+    {
+     "medio": "AS",
+     "titulo": "Oficial: Seedorf, a Corinthians",
+     "url": "https://as.com/futbol/internacional/oficial-seedorf-a-corinthians-f202610-n/",
+     "pub": "2026-10-11T14:33+00:00"
+    },
+    {
+     "medio": "Foot Mercato",
+     "titulo": "Clarence Seedorf nouvel entraîneur des Corinthians",
+     "url": "https://www.footmercato.net/a7448500962750134282-clarence-seedorf-nouvel-entraineur-des-corinthians",
+     "pub": "2026-10-11T14:36+00:00"
+    },
+    {
+     "medio": "Record",
+     "titulo": "<![CDATA[ Seedorf é o eleito do Corinthians para tentar fugir da descida ]]>",
+     "url": "https://www.record.pt/internacional/paises/brasil/detalhe/seedorf-e-o-eleito-do-corinthians-para-tentar-fugir-da-descida",
+     "pub": "2026-10-11T15:32+00:00"
+    },
+    {
+     "medio": "Ole",
+     "titulo": "Corinthians presentó a un técnico europeo para salvarse del descenso",
+     "url": "https://www.ole.com.ar/futbol-internacional/america/corinthians-presento-nuevo-tecnico-europeo-clarence-seedorf-brasil_0_vPehzmpgIC.html",
+     "pub": "2026-10-11T15:47+00:00"
+    },
+    {
+     "medio": "ge.globo",
+     "titulo": "Contrato de Seedorf com o Corinthians prevê rescisão em caso de rebaixamento à Série B",
+     "url": "https://ge.globo.com/futebol/times/corinthians/noticia/2026/10/11/contrato-de-seedorf-com-o-corinthians-preve-rescisao-em-caso-de-rebaixamento-a-serie-b.ghtml",
+     "pub": "2026-10-11T15:37+00:00"
+    },
+    {
+     "medio": "ge.globo",
+     "titulo": "Empresários detalham indicação de Seedorf a Marcelo Paz e explicam acerto com o Corinthians",
+     "url": "https://ge.globo.com/futebol/times/corinthians/noticia/2026/10/11/empresarios-detalham-indicacao-de-seedorf-a-marcelo-paz-e-explicam-acerto-com-o-corinthians.ghtml",
+     "pub": "2026-10-11T14:49+00:00"
+    },
+    {
+     "medio": "ge.globo",
+     "titulo": "Corinthians contrata Seedorf como novo técnico",
+     "url": "https://ge.globo.com/futebol/times/corinthians/noticia/2026/10/11/corinthians-contrata-seedorf-como-novo-tecnico.ghtml",
+     "pub": "2026-10-11T14:05+00:00"
+    },
+    {
+     "medio": "ge.globo",
+     "titulo": "Palmeiras vai encarar 11º técnico do Corinthians na era Abel Ferreira; veja os números",
+     "url": "https://ge.globo.com/futebol/times/palmeiras/noticia/2026/10/11/palmeiras-vai-encarar-11o-tecnico-do-corinthians-na-era-abel-ferreira-veja-os-numeros.ghtml",
+     "pub": "2026-10-11T11:00+00:00"
+    },
+    {
+     "medio": "ge.globo",
+     "titulo": "Corinthians chega ao Dérbi com dificuldades para avançar por técnico e sem alvo definido",
+     "url": "https://ge.globo.com/futebol/times/corinthians/noticia/2026/10/11/corinthians-chega-ao-derbi-com-dificuldades-para-avancar-por-tecnico-e-sem-alvo-definido.ghtml",
+     "pub": "2026-10-11T11:00+00:00"
+    },
+    {
+     "medio": "ge.globo",
+     "titulo": "Palmeiras x Corinthians: onde assistir ao vivo, horário e escalações",
+     "url": "https://ge.globo.com/sp/futebol/brasileirao-serie-a/noticia/2026/10/11/palmeiras-x-corinthians-onde-assistir-ao-vivo-horario-e-escalacoes.ghtml",
+     "pub": "2026-10-11T07:00+00:00"
+    },
+    {
+     "medio": "L'Equipe",
+     "titulo": "Clarence Seedorf devient l'entraîneur du Corinthians et s'engage jusqu'à fin 2027 avec le club brésilien",
+     "url": "https://www.lequipe.fr/Football/Actualites/Clarence-seedorf-devient-l-entraineur-du-corinthians-et-s-engage-jusqu-a-fin-2027-avec-le-club-bresilien/1724987#at_medium=RSS_feeds",
+     "pub": "2026-10-11T15:45+00:00"
     }
    ]
   },
@@ -1289,362 +1469,6 @@
    ]
   },
   {
-   "tema": "Messi",
-   "medios": 8,
-   "lista_medios": [
-    "Foot Mercato",
-    "Football Italia",
-    "Google News AR",
-    "Infobae",
-    "L'Equipe",
-    "Ole",
-    "ge.globo",
-    "talkSPORT"
-   ],
-   "primera_vez": "2026-10-11T16:00+00:00",
-   "titulares": [
-    {
-     "medio": "talkSPORT",
-     "titulo": "&#8216;Miracle&#8217; Lionel Messi photo with Lamine Yamal set to spark wild chase",
-     "url": "https://talksport.com/football/4635391/lionel-messi-lamine-yamal-photo-topps-stadium-club-chrome/",
-     "pub": "2026-10-10T09:01+00:00"
-    },
-    {
-     "medio": "Football Italia",
-     "titulo": "Nico Paz: ‘Two amazing weeks with Messi, I don’t know about his no.10 shirt’",
-     "url": "https://football-italia.net/nico-paz-two-amazing-weeks-with-messi/",
-     "pub": "2026-10-11T15:46+00:00"
-    },
-    {
-     "medio": "L'Equipe",
-     "titulo": "Auteur d'un doublé, Lionel Messi jubile encore avec l'Inter Miami",
-     "url": "https://www.lequipe.fr/Football/Actualites/Auteur-d-un-double-lionel-messi-jubile-encore-avec-l-inter-miami/1724902#at_medium=RSS_feeds",
-     "pub": "2026-10-11T06:47+00:00"
-    },
-    {
-     "medio": "Foot Mercato",
-     "titulo": "Inter Miami : le nouveau doublé de Lionel Messi après ses adieux à l’Argentine",
-     "url": "https://www.footmercato.net/a8354376357581106776-inter-miami-le-nouveau-double-de-lionel-messi-apres-ses-adieux-a-largentine",
-     "pub": "2026-10-11T08:05+00:00"
-    },
-    {
-     "medio": "Infobae",
-     "titulo": "La sentida carta para Messi de un integrante del cuerpo técnico de la selección argentina tras su despedida: “El vacío será enorme”",
-     "url": "https://www.infobae.com/deportes/2026/10/11/la-sentida-carta-para-messi-de-un-integrante-del-cuerpo-tecnico-de-la-seleccion-argentina-tras-su-despedida-el-vacio-sera-enorme/",
-     "pub": "2026-10-11T10:42+00:00"
-    },
-    {
-     "medio": "Infobae",
-     "titulo": "Con dos tantos de Lionel Messi, el Inter Miami goleó 4-0 al DC United y volvió a la victoria en la MLS",
-     "url": "https://www.infobae.com/deportes/2026/10/10/tras-su-despedida-con-la-seleccion-argentina-lionel-messi-volvera-a-jugar-con-inter-miami-por-la-mls-hora-tv-y-formaciones/",
-     "pub": "2026-10-11T01:49+00:00"
-    },
-    {
-     "medio": "Infobae",
-     "titulo": "El show de Messi en Inter Miami tras su despedida de la selección argentina: los dos golazos en el triunfo ante DC United",
-     "url": "https://www.infobae.com/deportes/2026/10/11/el-show-de-messi-en-inter-miami-tras-su-despedida-de-la-seleccion-argentina-los-dos-golazos-en-el-triunfo-ante-dc-united/",
-     "pub": "2026-10-11T01:38+00:00"
-    },
-    {
-     "medio": "Infobae",
-     "titulo": "El divertido mensaje de Lionel Messi al equipo de su sobrino que jugará la Copa Potrero que organiza el Kun Agüero",
-     "url": "https://www.infobae.com/deportes/2026/10/10/el-divertido-mensaje-de-lionel-messi-al-equipo-de-su-sobrino-que-jugara-la-copa-potrero-que-organiza-el-kun-aguero/",
-     "pub": "2026-10-10T16:50+00:00"
-    },
-    {
-     "medio": "Google News AR",
-     "titulo": "Messi eligió a 10 promesas del fútbol mundial y hay un argentino",
-     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNcWkxWUpEOG1NblRLLUl0LXNJSzFBRUVZWmVWU0JWcHJUejdyTV9USDVIZzBaQ0ljaWJtZ2xvTEo0a1NEd083MVdrNnBHSGhEeEZlNGM2OW1uNU5jbWV0QzlpYXBENnVCamF3YzYyWWx6LXZEM3NwNzRoWFdySDdwZ2dtUzE4LWlFeUkwOWZIa2hPSm_SAZgBQVVfeXFMTktWSks3ZzFVS1E3RVFIZXpiMk5ELWRfaU5jTDBtREtKYk9rY05LMTJ0d1JrZk1HMUtkMDJSRVNWTURZRTZDcGVRNHhpaGRmd25sZ1kyU3lNQTh4alhqVUFqWUsydlY3eGVncmZlazRmRkM4c3QyT1FpOTUzdldnY040d1BWMHdPRGRMZFhTT3pscE04VEVnTnM?oc=5",
-     "pub": "2026-10-11T14:03+00:00"
-    },
-    {
-     "medio": "Google News AR",
-     "titulo": "Messi presentó a las diez grandes promesas del fútbol mundial: quién es la joya de Boca que aparece entre los elegidos",
-     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNb2gxMXVaYWVrQi1wdk5sMmZia2hSbzBXcXpjRFFvTW02cjBlRVV1MkwwN0YwcGV5NmhSWGNSenhoaWJDWVJGSzc2V3QxeGtaUUpoWjRNd25YeFJJN1dubUJkWGFsZnlvLS1yV1ZmN2R5ei1nNldrV1dvTklfQTNMWUFSRWVvbDNHRFhodzdmZlRkR19PeVJSS3gwTEJOQlhQWjBqelZ3b1lISndnSm9OUExMQXNUVDJoTjlCLW1lMjg?oc=5",
-     "pub": "2026-10-11T13:25+00:00"
-    },
-    {
-     "medio": "Google News AR",
-     "titulo": "Messi eligió a las 10 futuras estrellas del fútbol mundial e incluyó a un juvenil de Boca",
-     "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQMlM5ZGFZX2xId2YxTzRKV3RIWlhNRktoWU5FMk1ENUphZ0VPdk5helpLcmo3SEpwS05HWHAzcnQ2VEI0QkZTWHRqd3pMakhRN3ZZSnNIZGtqZDFTR0xoWHRwQ2R5cC1kZTg2REtjU0w3N2tEWkd6aDlUUHo1U2FqNGlNVDFtUS1ETko4cE4zclVwRE5VcWFpUFFOeXFZOWN3NzIwejdwOG9tYU5CTFpRMUE2U01LcU56UDlOV1NzZVBJZE1Wenk1NDhyNHA0NzVBV2thMmozMXhuS0c5N1pmTNIB5gFBVV95cUxPTlZZUVliNTc2U0JRQ3dzMnV1WFRyLW4zUWlUWmFkYnM3aFVuY0tneEFtcklSSUl1SzRJNXhyakxyRWxabEcxZFU0V0JqdzZOUm1wRmpBaG5ITmJqNFNxY2daUjNRRTdiR2daRW0tOW1Ed3hfYzJFVmlXNGZVOWphZVVLUW9nSlR6Z2hiUEl1REhfMFc5eUhxN3hzOUJyR3A1WUdPVjVHUF9HRlpDa2RUV1NLOXo1c3ZIQ3NMMGNkQkFZVFZ4b2dvUjNjb1YxV3QzRmtudlhweGotUlZkZXN0U3ZYT0NfZw?oc=5",
-     "pub": "2026-10-11T14:19+00:00"
-    },
-    {
-     "medio": "Google News AR",
-     "titulo": "Messi eligió a las próximas diez estrellas del fútbol mundial: incluyó a un jugador de Boca",
-     "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOdlJKTEoxUWdKQTRQbmJiSDgyb0p4VjFIaE9WdWR1UW90RXBrTXJ4TzZhZE9qcnlpeGNoRjBJTGxLVThqMm1zZldNMGdBeG4tVDlzVjlpTnU5cmNDQ1NIRnpEYzVuSG5Dc2YzSm1LTm43cGlfbVhVckloM0JtTG5XdGNDdUJvYkVMcm9WMG10TlZjNW9JdGhFS3F3UjJPUVJoVDl6U0YwcEdSQkR1WEJDVFJPSG11RDNBUk0xelJqcHZ6MjNNdTRrR081aXI4WjhKWjRWSmwtRjctZWZkTVB4U3RiQUphQQ?oc=5",
-     "pub": "2026-10-11T12:47+00:00"
-    }
-   ]
-  },
-  {
-   "tema": "Lazio",
-   "medios": 8,
-   "lista_medios": [
-    "Foot Mercato",
-    "Google News EN",
-    "Guardian",
-    "Kicker",
-    "L'Equipe",
-    "Mundo Deportivo",
-    "Record",
-    "Yahoo"
-   ],
-   "primera_vez": "2026-10-11T16:00+00:00",
-   "titulares": [
-    {
-     "medio": "Yahoo",
-     "titulo": "Serie A | Lazio 3-1 Monza: Special Nuno Tavares strike keeps Aquile on top",
-     "url": "https://sports.yahoo.com/articles/serie-lazio-3-1-monza-150000173.html",
-     "pub": "2026-10-11T15:00+00:00"
-    },
-    {
-     "medio": "Mundo Deportivo",
-     "titulo": "Lazio - Monza, en directo | Serie A",
-     "url": "https://www.mundodeportivo.com/futbol/serie-a/20261011/1004235400/lazio-monza-directo-serie.html",
-     "pub": ""
-    },
-    {
-     "medio": "Kicker",
-     "titulo": "Lazio - Monza: Tor zum 3:1 durch Pinamonti in der 88. Minute",
-     "url": "https://www.kicker.de/lazio-monza-tor-zum-3-1-durch-pinamonti-in-der-88-minute-1260224/video#omrss",
-     "pub": "2026-10-11T14:53+00:00"
-    },
-    {
-     "medio": "L'Equipe",
-     "titulo": "Toujours invaincue, la Lazio de Gennaro Gattuso rejoint l'Inter Milan en tête de la Serie A",
-     "url": "https://www.lequipe.fr/Football/Actualites/Toujours-invaincue-la-lazio-de-gennaro-gattuso-rejoint-l-inter-milan-en-tete-de-la-serie-a/1724978#at_medium=RSS_feeds",
-     "pub": "2026-10-11T15:18+00:00"
-    },
-    {
-     "medio": "Foot Mercato",
-     "titulo": "Serie A : Gattuso toujours invaincu avec sa Lazio, Bologne retrouve des couleurs à Lecce",
-     "url": "https://www.footmercato.net/a2001255216475979748-serie-a-gattuso-toujours-invaincu-avec-sa-lazio-bologne-retrouve-des-couleurs-a-lecce",
-     "pub": "2026-10-11T14:59+00:00"
-    },
-    {
-     "medio": "Foot Mercato",
-     "titulo": "Lazio : le pétard de Nuno Tavares contre Monza",
-     "url": "https://www.footmercato.net/a5728197747751726109-lazio-le-petard-de-nuno-tavares-contre-monza",
-     "pub": "2026-10-11T13:35+00:00"
-    },
-    {
-     "medio": "Record",
-     "titulo": "<![CDATA[ Golaço de Nuno Tavares abre triunfo da Lazio face ao Monza ]]>",
-     "url": "https://www.record.pt/internacional/paises/italia/detalhe/golaco-de-nuno-tavares-abre-triunfo-da-lazio-face-ao-monza",
-     "pub": "2026-10-11T15:14+00:00"
-    },
-    {
-     "medio": "Google News EN",
-     "titulo": "European football: Lazio maintain strong start with win over Monza",
-     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOR3MwUWxPdXNhUlZQdEVYR2NKX0pCVDVuaVMzS190OXdseTNLblVMdE1RUXdrYkY1MkVYaE1PNl90LXgzVzBnUWFkeXN5NWVJYXV3RWl1Yi1ZbENMcVVmbnZNMEFBOEx6RnRUbEc2V0xNLTQ5TTRRQ0tMTkVHSjc4UmZ0Tm1Md3FJYlkzX0VHT3pZZ0Z4alo1Sko2TjhnbHplU2lNNU1qM01EY0xvZS0xSy1oTlE?oc=5",
-     "pub": "2026-10-11T16:09+00:00"
-    },
-    {
-     "medio": "Guardian",
-     "titulo": "European football: Lazio join Inter at top of Serie A as Roma held at Como",
-     "url": "https://www.theguardian.com/football/2026/oct/11/european-football-lazio-maintain-strong-start-with-win-over-monza",
-     "pub": "2026-10-11T16:09+00:00"
-    },
-    {
-     "medio": "Yahoo",
-     "titulo": "Gattuso frustrated with Lazio despite 3-1 Monza win: ‘Like the second half against Milan’",
-     "url": "https://sports.yahoo.com/articles/gattuso-frustrated-lazio-despite-3-162000226.html",
-     "pub": "2026-10-11T16:20+00:00"
-    },
-    {
-     "medio": "Mundo Deportivo",
-     "titulo": "El Lazio de Gattuso sigue el ritmo del Inter con un gran gol de Nuno Tavares",
-     "url": "https://www.mundodeportivo.com/futbol/serie-a/20261011/1004237454/lazio.html",
-     "pub": ""
-    },
-    {
-     "medio": "Yahoo",
-     "titulo": "Lazio boss Rino Gattuso believes he deserves more credit as manager",
-     "url": "https://sports.yahoo.com/articles/lazio-boss-rino-gattuso-believes-201400412.html",
-     "pub": "2026-10-11T20:14+00:00"
-    }
-   ]
-  },
-  {
-   "tema": "Seedorf",
-   "medios": 8,
-   "lista_medios": [
-    "AS",
-    "Foot Mercato",
-    "Google News AR",
-    "L'Equipe",
-    "Mundo Deportivo",
-    "Record",
-    "Yahoo",
-    "ge.globo"
-   ],
-   "primera_vez": "2026-10-11T16:00+00:00",
-   "titulares": [
-    {
-     "medio": "Yahoo",
-     "titulo": "Corinthians signing Seedorf shocks social media; see the reactions 🤣",
-     "url": "https://sports.yahoo.com/articles/corinthians-signing-seedorf-shocks-social-143300478.html",
-     "pub": "2026-10-11T14:33+00:00"
-    },
-    {
-     "medio": "AS",
-     "titulo": "Oficial: Seedorf, a Corinthians",
-     "url": "https://as.com/futbol/internacional/oficial-seedorf-a-corinthians-f202610-n/",
-     "pub": "2026-10-11T14:33+00:00"
-    },
-    {
-     "medio": "Foot Mercato",
-     "titulo": "Clarence Seedorf nouvel entraîneur des Corinthians",
-     "url": "https://www.footmercato.net/a7448500962750134282-clarence-seedorf-nouvel-entraineur-des-corinthians",
-     "pub": "2026-10-11T14:36+00:00"
-    },
-    {
-     "medio": "Record",
-     "titulo": "<![CDATA[ Seedorf é o eleito do Corinthians para tentar fugir da descida ]]>",
-     "url": "https://www.record.pt/internacional/paises/brasil/detalhe/seedorf-e-o-eleito-do-corinthians-para-tentar-fugir-da-descida",
-     "pub": "2026-10-11T15:32+00:00"
-    },
-    {
-     "medio": "ge.globo",
-     "titulo": "Contrato de Seedorf com o Corinthians prevê rescisão em caso de rebaixamento à Série B",
-     "url": "https://ge.globo.com/futebol/times/corinthians/noticia/2026/10/11/contrato-de-seedorf-com-o-corinthians-preve-rescisao-em-caso-de-rebaixamento-a-serie-b.ghtml",
-     "pub": "2026-10-11T15:37+00:00"
-    },
-    {
-     "medio": "ge.globo",
-     "titulo": "Empresários detalham indicação de Seedorf a Marcelo Paz e explicam acerto com o Corinthians",
-     "url": "https://ge.globo.com/futebol/times/corinthians/noticia/2026/10/11/empresarios-detalham-indicacao-de-seedorf-a-marcelo-paz-e-explicam-acerto-com-o-corinthians.ghtml",
-     "pub": "2026-10-11T14:49+00:00"
-    },
-    {
-     "medio": "ge.globo",
-     "titulo": "Corinthians contrata Seedorf como novo técnico",
-     "url": "https://ge.globo.com/futebol/times/corinthians/noticia/2026/10/11/corinthians-contrata-seedorf-como-novo-tecnico.ghtml",
-     "pub": "2026-10-11T14:05+00:00"
-    },
-    {
-     "medio": "Mundo Deportivo",
-     "titulo": "Seedorf encuentra equipo",
-     "url": "https://www.mundodeportivo.com/futbol/fichajes/oficial/20261011/1004237453/seedorf-encuentra-equipo.html",
-     "pub": ""
-    },
-    {
-     "medio": "L'Equipe",
-     "titulo": "Clarence Seedorf devient l'entraîneur du Corinthians et s'engage jusqu'à fin 2027 avec le club brésilien",
-     "url": "https://www.lequipe.fr/Football/Actualites/Clarence-seedorf-devient-l-entraineur-du-corinthians-et-s-engage-jusqu-a-fin-2027-avec-le-club-bresilien/1724987#at_medium=RSS_feeds",
-     "pub": "2026-10-11T15:45+00:00"
-    },
-    {
-     "medio": "Google News AR",
-     "titulo": "Clarence Seedorf vuelve al fútbol brasileño: es el nuevo entrenador de Corinthians",
-     "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQcG8yeHc0RVQ3VzZpTlZYYnRjd3k5NHc2RXpOaEZmX2kwZ2lEMGZIVEhFemJydG9kamJuTllHbTM4Y2xOQWd0Vmw1MUllbEpsNl9zRHByV2ZsVTNVWlRSSmFfaGpYZE1QSlRURVB0cXF0VXUzZFkwWWxXN25ObWs5anNPeHJnaGFZMi1XSVlRVXR4ZHozVWRwVktqcnRIOExNWkxMUTZONEN2S0thN0xhT0Y1YkNGRElaVk84blpXakh2SlpuLWZ1cDd4d0R5VFM0YTV2UjJRYk5pVUoxMmVSX0Rn?oc=5",
-     "pub": "2026-10-11T16:39+00:00"
-    },
-    {
-     "medio": "ge.globo",
-     "titulo": "Seedorf pede apoio da torcida do Corinthians e promete \"fazer o melhor\"",
-     "url": "https://ge.globo.com/futebol/times/corinthians/noticia/2026/10/11/seedorf-pede-apoio-da-torcida-do-corinthians-e-promete-fazer-o-melhor.ghtml",
-     "pub": "2026-10-11T17:04+00:00"
-    },
-    {
-     "medio": "ge.globo",
-     "titulo": "Marcelo Paz explica escolha por Seedorf e quer Corinthians pragmático: \"Ganhar de 1 a 0\"",
-     "url": "https://ge.globo.com/futebol/times/corinthians/noticia/2026/10/11/marcelo-paz-explica-escolha-por-seedorf-e-quer-corinthians-pragmatico-ganhar-de-1-a-0.ghtml",
-     "pub": "2026-10-11T20:12+00:00"
-    }
-   ]
-  },
-  {
-   "tema": "Corinthians",
-   "medios": 8,
-   "lista_medios": [
-    "AS",
-    "Foot Mercato",
-    "Google News AR",
-    "L'Equipe",
-    "Ole",
-    "Record",
-    "Yahoo",
-    "ge.globo"
-   ],
-   "primera_vez": "2026-10-11T16:00+00:00",
-   "titulares": [
-    {
-     "medio": "Yahoo",
-     "titulo": "Corinthians signing Seedorf shocks social media; see the reactions 🤣",
-     "url": "https://sports.yahoo.com/articles/corinthians-signing-seedorf-shocks-social-143300478.html",
-     "pub": "2026-10-11T14:33+00:00"
-    },
-    {
-     "medio": "AS",
-     "titulo": "Oficial: Seedorf, a Corinthians",
-     "url": "https://as.com/futbol/internacional/oficial-seedorf-a-corinthians-f202610-n/",
-     "pub": "2026-10-11T14:33+00:00"
-    },
-    {
-     "medio": "Foot Mercato",
-     "titulo": "Clarence Seedorf nouvel entraîneur des Corinthians",
-     "url": "https://www.footmercato.net/a7448500962750134282-clarence-seedorf-nouvel-entraineur-des-corinthians",
-     "pub": "2026-10-11T14:36+00:00"
-    },
-    {
-     "medio": "Record",
-     "titulo": "<![CDATA[ Seedorf é o eleito do Corinthians para tentar fugir da descida ]]>",
-     "url": "https://www.record.pt/internacional/paises/brasil/detalhe/seedorf-e-o-eleito-do-corinthians-para-tentar-fugir-da-descida",
-     "pub": "2026-10-11T15:32+00:00"
-    },
-    {
-     "medio": "Ole",
-     "titulo": "Corinthians presentó a un técnico europeo para salvarse del descenso",
-     "url": "https://www.ole.com.ar/futbol-internacional/america/corinthians-presento-nuevo-tecnico-europeo-clarence-seedorf-brasil_0_vPehzmpgIC.html",
-     "pub": "2026-10-11T15:47+00:00"
-    },
-    {
-     "medio": "ge.globo",
-     "titulo": "Contrato de Seedorf com o Corinthians prevê rescisão em caso de rebaixamento à Série B",
-     "url": "https://ge.globo.com/futebol/times/corinthians/noticia/2026/10/11/contrato-de-seedorf-com-o-corinthians-preve-rescisao-em-caso-de-rebaixamento-a-serie-b.ghtml",
-     "pub": "2026-10-11T15:37+00:00"
-    },
-    {
-     "medio": "ge.globo",
-     "titulo": "Empresários detalham indicação de Seedorf a Marcelo Paz e explicam acerto com o Corinthians",
-     "url": "https://ge.globo.com/futebol/times/corinthians/noticia/2026/10/11/empresarios-detalham-indicacao-de-seedorf-a-marcelo-paz-e-explicam-acerto-com-o-corinthians.ghtml",
-     "pub": "2026-10-11T14:49+00:00"
-    },
-    {
-     "medio": "ge.globo",
-     "titulo": "Corinthians contrata Seedorf como novo técnico",
-     "url": "https://ge.globo.com/futebol/times/corinthians/noticia/2026/10/11/corinthians-contrata-seedorf-como-novo-tecnico.ghtml",
-     "pub": "2026-10-11T14:05+00:00"
-    },
-    {
-     "medio": "ge.globo",
-     "titulo": "Palmeiras vai encarar 11º técnico do Corinthians na era Abel Ferreira; veja os números",
-     "url": "https://ge.globo.com/futebol/times/palmeiras/noticia/2026/10/11/palmeiras-vai-encarar-11o-tecnico-do-corinthians-na-era-abel-ferreira-veja-os-numeros.ghtml",
-     "pub": "2026-10-11T11:00+00:00"
-    },
-    {
-     "medio": "ge.globo",
-     "titulo": "Corinthians chega ao Dérbi com dificuldades para avançar por técnico e sem alvo definido",
-     "url": "https://ge.globo.com/futebol/times/corinthians/noticia/2026/10/11/corinthians-chega-ao-derbi-com-dificuldades-para-avancar-por-tecnico-e-sem-alvo-definido.ghtml",
-     "pub": "2026-10-11T11:00+00:00"
-    },
-    {
-     "medio": "ge.globo",
-     "titulo": "Palmeiras x Corinthians: onde assistir ao vivo, horário e escalações",
-     "url": "https://ge.globo.com/sp/futebol/brasileirao-serie-a/noticia/2026/10/11/palmeiras-x-corinthians-onde-assistir-ao-vivo-horario-e-escalacoes.ghtml",
-     "pub": "2026-10-11T07:00+00:00"
-    },
-    {
-     "medio": "L'Equipe",
-     "titulo": "Clarence Seedorf devient l'entraîneur du Corinthians et s'engage jusqu'à fin 2027 avec le club brésilien",
-     "url": "https://www.lequipe.fr/Football/Actualites/Clarence-seedorf-devient-l-entraineur-du-corinthians-et-s-engage-jusqu-a-fin-2027-avec-le-club-bresilien/1724987#at_medium=RSS_feeds",
-     "pub": "2026-10-11T15:45+00:00"
-    }
-   ]
-  },
-  {
    "tema": "Inter",
    "medios": 8,
    "lista_medios": [
@@ -1718,94 +1542,279 @@
      "titulo": "Messi volvió con todo a Inter Miami: doblete en la goleada sobre DC United",
      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPNWUzWlIyeUlydVRld2RJdTMtV0djTzRiNmEtM2ZNTUFwWXIzTFVrZDJ3VjVPNWlsbzN4MmtjYjdlY2Q0T1NXTnVLajlPczZZV3NYVVpvUHlCSEZRMkRsczhVa2I0UUR2ZF84blpab3drS3hiNEU3NU1IU3k5UjBlTG1OQmh4WFIwcVVDWmdrRmh6RGpOaFAzQlZlRDhuVXZVeGtnX3FtUGlrS28?oc=5",
      "pub": "2026-10-11T13:43+00:00"
+    },
+    {
+     "medio": "Infobae",
+     "titulo": "La contundente respuesta del Kily González cuando le consultaron sobre la chance de que el Inter Miami de Messi juegue la Libertadores",
+     "url": "https://www.infobae.com/deportes/2026/10/12/la-contundente-respuesta-del-kily-gonzalez-cuando-le-consultaron-sobre-la-chance-de-que-el-inter-miami-de-messi-juegue-la-libertadores/",
+     "pub": "2026-10-12T00:07+00:00"
     }
    ]
   },
   {
-   "tema": "Carrick",
-   "medios": 7,
+   "tema": "Betis",
+   "medios": 8,
    "lista_medios": [
-    "BBC",
-    "Daily Mail",
-    "Mirror",
-    "Planet Football",
+    "AS",
+    "Google News ES",
+    "Kicker",
+    "L'Equipe",
+    "Mundo Deportivo",
+    "Record",
     "Sky Sports",
-    "Yahoo",
-    "talkSPORT"
+    "Yahoo"
    ],
    "primera_vez": "2026-10-11T16:00+00:00",
    "titulares": [
     {
-     "medio": "BBC",
-     "titulo": "Boos, anguish & fading belief - 'worrying day' for under-pressure Carrick",
-     "url": "https://www.bbc.co.uk/sport/football/articles/c62e9g09e781o?at_medium=RSS&at_campaign=rss",
-     "pub": "2026-10-10T20:54+00:00"
+     "medio": "AS",
+     "titulo": "Betis - Osasuna en directo: LaLiga EA Sports hoy, en vivo",
+     "url": "https://as.com/futbol/primera/betis-osasuna-en-directo-laliga-ea-sports-hoy-en-vivo-f202610-d/",
+     "pub": "2026-10-11T15:55+00:00"
     },
     {
-     "medio": "BBC",
-     "titulo": "'It hurts a lot' - Carrick 'understands' Man Utd boos after draw",
-     "url": "https://www.bbc.co.uk/sport/football/videos/cqlye9evnm7lo?at_medium=RSS&at_campaign=rss",
-     "pub": "2026-10-10T19:35+00:00"
+     "medio": "Mundo Deportivo",
+     "titulo": "Real Betis - Osasuna, en directo | Sigue el partido de LaLiga EA Sports, en vivo",
+     "url": "https://www.mundodeportivo.com/futbol/laliga/20261011/1004237467/real-betis-osasuna-partido-futbol-hoy-en-directo-laliga-ea-sports-ext-pau.html",
+     "pub": ""
     },
     {
-     "medio": "Sky Sports",
-     "titulo": "Carrick must share burden of Man Utd's failings with his players",
-     "url": "https://www.skysports.com/football/news/12040/13597374/man-utd-1-1-spurs-michael-carrick-entering-a-defining-period-and-must-correct-underperformance-quickly",
-     "pub": "2026-10-10T23:30+00:00"
+     "medio": "Kicker",
+     "titulo": "Betis - Osasuna: Tor zum 2:0 durch Abde in der 31. Minute",
+     "url": "https://www.kicker.de/betis-osasuna-tor-zum-2-0-durch-abde-in-der-31-minute-1260286/video#omrss",
+     "pub": "2026-10-11T17:10+00:00"
     },
     {
-     "medio": "talkSPORT",
-     "titulo": "Michael Carrick warned he&#8217;s &#8216;in trouble&#8217; as Manchester United sink to 40-year low against 10-man Spurs",
-     "url": "https://talksport.com/football/4636576/michael-carrick-man-united-future-warning-spurs/",
-     "pub": "2026-10-10T19:11+00:00"
+     "medio": "Kicker",
+     "titulo": "Betis - Osasuna: Tor zum 1:0 durch Isco in der 10. Minute",
+     "url": "https://www.kicker.de/betis-osasuna-tor-zum-1-0-durch-isco-in-der-10-minute-1260276/video#omrss",
+     "pub": "2026-10-11T16:49+00:00"
     },
     {
-     "medio": "Daily Mail",
-     "titulo": "It's time for Man United's undependable stars to show some backbone for Michael Carrick, writes CHRIS WHEELER - and why club chiefs will rue letting Casemiro go",
-     "url": "https://www.dailymail.com/sport/football/article-16195573/man-united-stars-fail-michael-carrick.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-     "pub": "2026-10-11T12:37+00:00"
+     "medio": "Kicker",
+     "titulo": "Betis - Osasuna: Tor zum 4:2 durch Isco in der 67. Minute",
+     "url": "https://www.kicker.de/betis-osasuna-tor-zum-4-2-durch-isco-in-der-67-minute-1260317/video#omrss",
+     "pub": "2026-10-11T18:07+00:00"
     },
     {
-     "medio": "Daily Mail",
-     "titulo": "Feckless Man United were dreadful and embarrassing at times in Spurs draw: Play like this in a week of reckoning and Michael Carrick will be clinging to his job, writes IAN LADYMAN",
-     "url": "https://www.dailymail.com/sport/football/article-16195543/Feckless-Man-United-dreadful-embarrassing-Michael-Carrick.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-     "pub": "2026-10-10T20:44+00:00"
+     "medio": "Kicker",
+     "titulo": "Betis - Osasuna: Tor zum 3:2 durch Raul in der 56. Minute",
+     "url": "https://www.kicker.de/betis-osasuna-tor-zum-3-2-durch-raul-in-der-56-minute-1260312/video#omrss",
+     "pub": "2026-10-11T17:58+00:00"
     },
     {
-     "medio": "Mirror",
-     "titulo": "Man Utd star reveals Michael Carrick demand was not met in Tottenham draw",
-     "url": "https://www.mirror.co.uk/sport/football/news/man-utd-spurs-carrick-lammens-37759954",
-     "pub": "2026-10-11T12:56+00:00"
+     "medio": "Kicker",
+     "titulo": "Betis - Osasuna: Tor zum 3:1 durch Budimir in der 51. Minute",
+     "url": "https://www.kicker.de/betis-osasuna-tor-zum-3-1-durch-budimir-in-der-51-minute-1260309/video#omrss",
+     "pub": "2026-10-11T17:55+00:00"
     },
     {
-     "medio": "Mirror",
-     "titulo": "Gary Neville picks out two Man Utd players and tells Michael Carrick he's 'seen enough'",
-     "url": "https://www.mirror.co.uk/sport/football/news/gary-neville-man-united-spurs-37759719",
-     "pub": "2026-10-11T10:55+00:00"
+     "medio": "Mundo Deportivo",
+     "titulo": "Betis - Osasuna, en imágenes",
+     "url": "https://www.mundodeportivo.com/futbol/laliga/20261011/1004237532/betis-osasuna-imagenes.html",
+     "pub": ""
     },
     {
-     "medio": "Mirror",
-     "titulo": "Michael Carrick told £35m summer signing caused 'impossible' Man Utd issue vs Spurs",
-     "url": "https://www.mirror.co.uk/sport/football/news/man-utd-spurs-carrick-tielemans-37759461",
-     "pub": "2026-10-11T08:49+00:00"
+     "medio": "Mundo Deportivo",
+     "titulo": "5-2: El Betis golea a Osasuna y no se baja del podio liguero antes de recibir al Barça",
+     "url": "https://www.mundodeportivo.com/futbol/laliga/20261011/1004237547/betis-golea-osasuna-no-baja-podio-liguero-recibir-barca.html",
+     "pub": ""
     },
     {
-     "medio": "Planet Football",
-     "titulo": "The still impressive Premier League table since Michael Carrick took charge of Man Utd",
-     "url": "https://www.planetfootball.com/manchester-united/amazing-premier-league-table-carrick-manager",
-     "pub": "2026-10-10T18:54+00:00"
+     "medio": "L'Equipe",
+     "titulo": "Le Betis régale contre Osasuna et retrouve le podium de la Liga aux dépens du Real Madrid",
+     "url": "https://www.lequipe.fr/Football/Actualites/Le-betis-regale-contre-osasuna-et-retrouve-le-podium-de-la-liga-aux-depens-du-real-madrid/1725052#at_medium=RSS_feeds",
+     "pub": "2026-10-11T18:57+00:00"
+    },
+    {
+     "medio": "Mundo Deportivo",
+     "titulo": "Antony, con problemas físicos en una semana clave para el Betis",
+     "url": "https://www.mundodeportivo.com/futbol/betis/20261011/1004237583/antony-problemas-fisicas-semana-clave-betis.html",
+     "pub": ""
+    },
+    {
+     "medio": "Mundo Deportivo",
+     "titulo": "Morante Jr debuta con el Betis con gol",
+     "url": "https://www.mundodeportivo.com/futbol/betis/20261011/1004237560/morante-jr-debuta-betis-gol.html",
+     "pub": ""
+    }
+   ]
+  },
+  {
+   "tema": "Cagliari",
+   "medios": 8,
+   "lista_medios": [
+    "Foot Mercato",
+    "Football Italia",
+    "Google News ES",
+    "Kicker",
+    "L'Equipe",
+    "Mundo Deportivo",
+    "Ole",
+    "Yahoo"
+   ],
+   "primera_vez": "2026-10-11T16:00+00:00",
+   "titulares": [
+    {
+     "medio": "Google News ES",
+     "titulo": "Cagliari vs Juventus de Serie A 2026/2027: horario y dónde ver hoy por TV y online el partido de la liga italiana a través de DAZN",
+     "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNNy1aaFdZdnhMaVlsRnppeGZzRGxYWW9DcnVTamRjXzRCem5HNlpnX2JSekZqX2t2S3ZfRE5LMW40MXhrVi1MemZra3dPLUJEbl80RzVJLW5IYzhWVExOM1NhcUp6bWRqQXpkam1FYzJxeFN0cmRMSHBiR0std1UwczBqTzJuQmxRRHpSMEdDOXVyQ08wU1d2ZTVuOE5WRXVzNDVpUlgyTTFpb09LNnBUN0Q4R2JtZS1xSG03ZXF3WV9SNnRyLWlaSU1KOGNBM3N4dkJOaGZHZHBKUjRXUVNqOTFkZDJRV3BKUGFpa3h1M21lREVLWXVSb2loZw?oc=5",
+     "pub": "2026-10-11T12:40+00:00"
+    },
+    {
+     "medio": "Football Italia",
+     "titulo": "Official: Juventus squad list for Cagliari clash as eight still unavailable",
+     "url": "https://football-italia.net/juventus-squad-list-cagliari-clash-8-out/",
+     "pub": "2026-10-11T11:11+00:00"
+    },
+    {
+     "medio": "Football Italia",
+     "titulo": "Serie A: Cagliari vs. Juventus: Confirmed line-ups",
+     "url": "https://football-italia.net/serie-a-cagliari-vs-juventus-official-line-ups/",
+     "pub": "2026-10-11T17:35+00:00"
+    },
+    {
+     "medio": "Mundo Deportivo",
+     "titulo": "Cagliari - Juventus, en directo | Serie A",
+     "url": "https://www.mundodeportivo.com/futbol/serie-a/20261011/1004235608/cagliari-juventus-directo-serie.html",
+     "pub": ""
+    },
+    {
+     "medio": "Kicker",
+     "titulo": "Cagliari - Juventus: Tor zum 1:0 durch Maldini in der 20. Minute",
+     "url": "https://www.kicker.de/cagliari-juventus-tor-zum-1-0-durch-maldini-in-der-20-minute-1260339/video#omrss",
+     "pub": "2026-10-11T19:12+00:00"
+    },
+    {
+     "medio": "Ole",
+     "titulo": "Insólito momento en Italia: una pareja festejó su casamiento en el estadio del Cagliari",
+     "url": "https://www.ole.com.ar/futbol-internacional/italia/cagliari-juventus-matrimonio-festejo-casamiento-serie-ax_0_VcWesLutVU.html",
+     "pub": "2026-10-11T19:19+00:00"
     },
     {
      "medio": "Yahoo",
-     "titulo": "Manchester United make Michael Carrick decision after Tottenham Hotspur draw",
-     "url": "https://sports.yahoo.com/articles/manchester-united-michael-carrick-decision-145000830.html",
-     "pub": "2026-10-11T14:50+00:00"
+     "titulo": "Serie A | Cagliari 1-1 Juventus: Kolo Muani first goal to rescue a point",
+     "url": "https://sports.yahoo.com/articles/serie-cagliari-1-1-juventus-204000299.html",
+     "pub": "2026-10-11T20:40+00:00"
+    },
+    {
+     "medio": "Kicker",
+     "titulo": "Cagliari - Juventus: Tor zum 1:1 durch Kolo Muani in der 81. Minute",
+     "url": "https://www.kicker.de/cagliari-juventus-tor-zum-1-1-durch-kolo-muani-in-der-81-minute-1260360/video#omrss",
+     "pub": "2026-10-11T20:29+00:00"
+    },
+    {
+     "medio": "Foot Mercato",
+     "titulo": "Serie A : Randal Kolo Muani sauve la Juve contre Cagliari",
+     "url": "https://www.footmercato.net/a2358596021589016777-serie-a-randal-kolo-muani-sauve-la-juve-contre-cagliari",
+     "pub": "2026-10-11T20:42+00:00"
     },
     {
      "medio": "Yahoo",
-     "titulo": "Manchester United Are In The Mix To Sign This Atletico Madrid Winger: Good Fit For Carrick?",
-     "url": "https://sports.yahoo.com/articles/manchester-united-mix-sign-atletico-193500461.html",
-     "pub": "2026-10-11T19:35+00:00"
+     "titulo": "Pisacane: ‘If Juventus are worried about playing us, Cagliari are on the right track’",
+     "url": "https://sports.yahoo.com/articles/pisacane-juventus-worried-playing-us-214000188.html",
+     "pub": "2026-10-11T21:40+00:00"
+    },
+    {
+     "medio": "Yahoo",
+     "titulo": "Spalletti: ‘Juventus must seek victory, Cagliari good at wasting time’",
+     "url": "https://sports.yahoo.com/articles/spalletti-juventus-must-seek-victory-212000912.html",
+     "pub": "2026-10-11T21:20+00:00"
+    },
+    {
+     "medio": "Yahoo",
+     "titulo": "Cagliari 1-1 Juventus ends in headloss as Spalletti and Pisacane see red",
+     "url": "https://sports.yahoo.com/articles/cagliari-1-1-juventus-ends-210000850.html",
+     "pub": "2026-10-11T21:00+00:00"
+    }
+   ]
+  },
+  {
+   "tema": "Messi",
+   "medios": 8,
+   "lista_medios": [
+    "Foot Mercato",
+    "Football Italia",
+    "Google News AR",
+    "Infobae",
+    "L'Equipe",
+    "Mundo Deportivo",
+    "Ole",
+    "ge.globo"
+   ],
+   "primera_vez": "2026-10-11T16:00+00:00",
+   "titulares": [
+    {
+     "medio": "Football Italia",
+     "titulo": "Nico Paz: ‘Two amazing weeks with Messi, I don’t know about his no.10 shirt’",
+     "url": "https://football-italia.net/nico-paz-two-amazing-weeks-with-messi/",
+     "pub": "2026-10-11T15:46+00:00"
+    },
+    {
+     "medio": "L'Equipe",
+     "titulo": "Auteur d'un doublé, Lionel Messi jubile encore avec l'Inter Miami",
+     "url": "https://www.lequipe.fr/Football/Actualites/Auteur-d-un-double-lionel-messi-jubile-encore-avec-l-inter-miami/1724902#at_medium=RSS_feeds",
+     "pub": "2026-10-11T06:47+00:00"
+    },
+    {
+     "medio": "Foot Mercato",
+     "titulo": "Inter Miami : le nouveau doublé de Lionel Messi après ses adieux à l’Argentine",
+     "url": "https://www.footmercato.net/a8354376357581106776-inter-miami-le-nouveau-double-de-lionel-messi-apres-ses-adieux-a-largentine",
+     "pub": "2026-10-11T08:05+00:00"
+    },
+    {
+     "medio": "Infobae",
+     "titulo": "La sentida carta para Messi de un integrante del cuerpo técnico de la selección argentina tras su despedida: “El vacío será enorme”",
+     "url": "https://www.infobae.com/deportes/2026/10/11/la-sentida-carta-para-messi-de-un-integrante-del-cuerpo-tecnico-de-la-seleccion-argentina-tras-su-despedida-el-vacio-sera-enorme/",
+     "pub": "2026-10-11T10:42+00:00"
+    },
+    {
+     "medio": "Infobae",
+     "titulo": "Con dos tantos de Lionel Messi, el Inter Miami goleó 4-0 al DC United y volvió a la victoria en la MLS",
+     "url": "https://www.infobae.com/deportes/2026/10/10/tras-su-despedida-con-la-seleccion-argentina-lionel-messi-volvera-a-jugar-con-inter-miami-por-la-mls-hora-tv-y-formaciones/",
+     "pub": "2026-10-11T01:49+00:00"
+    },
+    {
+     "medio": "Infobae",
+     "titulo": "El show de Messi en Inter Miami tras su despedida de la selección argentina: los dos golazos en el triunfo ante DC United",
+     "url": "https://www.infobae.com/deportes/2026/10/11/el-show-de-messi-en-inter-miami-tras-su-despedida-de-la-seleccion-argentina-los-dos-golazos-en-el-triunfo-ante-dc-united/",
+     "pub": "2026-10-11T01:38+00:00"
+    },
+    {
+     "medio": "Google News AR",
+     "titulo": "Messi eligió a 10 promesas del fútbol mundial y hay un argentino",
+     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNcWkxWUpEOG1NblRLLUl0LXNJSzFBRUVZWmVWU0JWcHJUejdyTV9USDVIZzBaQ0ljaWJtZ2xvTEo0a1NEd083MVdrNnBHSGhEeEZlNGM2OW1uNU5jbWV0QzlpYXBENnVCamF3YzYyWWx6LXZEM3NwNzRoWFdySDdwZ2dtUzE4LWlFeUkwOWZIa2hPSm_SAZgBQVVfeXFMTktWSks3ZzFVS1E3RVFIZXpiMk5ELWRfaU5jTDBtREtKYk9rY05LMTJ0d1JrZk1HMUtkMDJSRVNWTURZRTZDcGVRNHhpaGRmd25sZ1kyU3lNQTh4alhqVUFqWUsydlY3eGVncmZlazRmRkM4c3QyT1FpOTUzdldnY040d1BWMHdPRGRMZFhTT3pscE04VEVnTnM?oc=5",
+     "pub": "2026-10-11T14:03+00:00"
+    },
+    {
+     "medio": "Google News AR",
+     "titulo": "Messi presentó a las diez grandes promesas del fútbol mundial: quién es la joya de Boca que aparece entre los elegidos",
+     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNb2gxMXVaYWVrQi1wdk5sMmZia2hSbzBXcXpjRFFvTW02cjBlRVV1MkwwN0YwcGV5NmhSWGNSenhoaWJDWVJGSzc2V3QxeGtaUUpoWjRNd25YeFJJN1dubUJkWGFsZnlvLS1yV1ZmN2R5ei1nNldrV1dvTklfQTNMWUFSRWVvbDNHRFhodzdmZlRkR19PeVJSS3gwTEJOQlhQWjBqelZ3b1lISndnSm9OUExMQXNUVDJoTjlCLW1lMjg?oc=5",
+     "pub": "2026-10-11T13:25+00:00"
+    },
+    {
+     "medio": "Google News AR",
+     "titulo": "Messi eligió a las 10 futuras estrellas del fútbol mundial e incluyó a un juvenil de Boca",
+     "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQMlM5ZGFZX2xId2YxTzRKV3RIWlhNRktoWU5FMk1ENUphZ0VPdk5helpLcmo3SEpwS05HWHAzcnQ2VEI0QkZTWHRqd3pMakhRN3ZZSnNIZGtqZDFTR0xoWHRwQ2R5cC1kZTg2REtjU0w3N2tEWkd6aDlUUHo1U2FqNGlNVDFtUS1ETko4cE4zclVwRE5VcWFpUFFOeXFZOWN3NzIwejdwOG9tYU5CTFpRMUE2U01LcU56UDlOV1NzZVBJZE1Wenk1NDhyNHA0NzVBV2thMmozMXhuS0c5N1pmTNIB5gFBVV95cUxPTlZZUVliNTc2U0JRQ3dzMnV1WFRyLW4zUWlUWmFkYnM3aFVuY0tneEFtcklSSUl1SzRJNXhyakxyRWxabEcxZFU0V0JqdzZOUm1wRmpBaG5ITmJqNFNxY2daUjNRRTdiR2daRW0tOW1Ed3hfYzJFVmlXNGZVOWphZVVLUW9nSlR6Z2hiUEl1REhfMFc5eUhxN3hzOUJyR3A1WUdPVjVHUF9HRlpDa2RUV1NLOXo1c3ZIQ3NMMGNkQkFZVFZ4b2dvUjNjb1YxV3QzRmtudlhweGotUlZkZXN0U3ZYT0NfZw?oc=5",
+     "pub": "2026-10-11T14:19+00:00"
+    },
+    {
+     "medio": "Google News AR",
+     "titulo": "Messi eligió a las próximas diez estrellas del fútbol mundial: incluyó a un jugador de Boca",
+     "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOdlJKTEoxUWdKQTRQbmJiSDgyb0p4VjFIaE9WdWR1UW90RXBrTXJ4TzZhZE9qcnlpeGNoRjBJTGxLVThqMm1zZldNMGdBeG4tVDlzVjlpTnU5cmNDQ1NIRnpEYzVuSG5Dc2YzSm1LTm43cGlfbVhVckloM0JtTG5XdGNDdUJvYkVMcm9WMG10TlZjNW9JdGhFS3F3UjJPUVJoVDl6U0YwcEdSQkR1WEJDVFJPSG11RDNBUk0xelJqcHZ6MjNNdTRrR081aXI4WjhKWjRWSmwtRjctZWZkTVB4U3RiQUphQQ?oc=5",
+     "pub": "2026-10-11T12:47+00:00"
+    },
+    {
+     "medio": "Google News AR",
+     "titulo": "Lionel Messi eligió a las promesas del fútbol mundial e incluyó a una joya del fútbol argentino",
+     "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNQnVCeGtBR0NLelowUV9tOW0wQmJ0dFNVZGdyZ2FBdTRoN0ktb3h4d3JITkp2Wi1vRkhhY2tQY1NwekY4TFV4U1FJNGhfRkJUNXZCWHRGdGRhQmpHbVB6U2JwSkZHX2RPX2x4a3VSVTE5SkVuSWZRMTNMdm5rVV9UWS1NVFoyTFY5TjBsd2duS3Uwb0MwX0RoOUx3OUFqMVo4TDlZdHNkQ05GQ2RkMHJVTFpteDRtMGxXOENadXAyZXpXSVBpRUpDYkJvWVFRZmtv0gHQAUFVX3lxTE1CdUJ4a0FHQ0t6WjBRX205bTBCYnR0U1VkZ3JnYUF1NGg3SS1veHh3ckhOSnZaLW9GSGFja1BjU3B6RjhMVXhTUUk0aF9GQlQ1dkJYdEZ0ZGFCakdtUHpTYnBKRkdfZE9fbHhrdVJVMTlKRW5JZlExM0x2bmtVX1RZLU1UWjJMVjlOMGx3Z25LdTBvQzBfRGg5THc5QWoxWjhMOVl0c2RDTkZDZGQwclVMWm14NG0wbFc4Q1p1cDJleldJUGlFSkNiQm9ZUVFma28?oc=5",
+     "pub": "2026-10-11T12:46+00:00"
+    },
+    {
+     "medio": "Google News AR",
+     "titulo": "Lionel Messi seleccionó a las 10 promesas del fútbol mundial e incluyó a una joya de Boca Juniors",
+     "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOdW5IX2JYREhsV194UnEtd09Nd0pfT05PTVFIemhhN1RibjctWW5GOTJQTkxXQjJ3eXZEelY3dk1XSmdBODZoTWFfNm0zeHBOQWFQbUlJaXlkazNZWnhINFVtTy1abUl3LWZxdHRtZEo0M2t4dC01R09lT1VrNW5FUEdMdTZiMzdCUFFoVFItUS1Tb3h3TnpJcFNPdDhPT0hlVVJCR3lWLUVjSkJJNElhZ1UtMW12dGZMSW8xV1hqbFkweDJZN2JQRkxVbkV6RnpmSmVvMzVaYmhrSlEzcVHSAecBQVVfeXFMUHZKajdVT3B1dGdfbWx0RnFaQjE2UzhPY2I4N0RrU0VIZFBTZTI1OGZ2djVBbWJsMTlsTjBmZF9vUl9KckMzUk1jbElwVnJMbjZYbFBxdnRJcmZuRC1wajZBNXA3M0NKaV9henZFcEIzVjdkZTRrQ29zamtwZEFpX2QySE16VU9pZFZtVmpJcFVKcExySHljTFJvQjdxLTVGX1FuRjVxdGtCdW5yckhOdURCRm85eG5rbVBsdE5xSVhMSU5UV0x4bnRnRHJyUHhWQV9kR3NJa0E0ZUpHc1ZVc0lhTWwzbktR?oc=5",
+     "pub": "2026-10-11T15:07+00:00"
     }
    ]
   },
@@ -1815,7 +1824,7 @@
    "lista_medios": [
     "BBC",
     "Football Italia",
-    "Guardian",
+    "L'Equipe",
     "Mirror",
     "Yahoo",
     "ge.globo",
@@ -1825,39 +1834,15 @@
    "titulares": [
     {
      "medio": "BBC",
-     "titulo": "Hincapie injury adds to Arsenal issues after Guimaraes rescue act",
-     "url": "https://www.bbc.co.uk/sport/football/articles/c63r5w20ez3do?at_medium=RSS&at_campaign=rss",
-     "pub": "2026-10-10T15:44+00:00"
-    },
-    {
-     "medio": "BBC",
      "titulo": "Brilliant Guimaraes goal helps Arsenal fight back to beat Leeds",
      "url": "https://www.bbc.co.uk/sport/football/videos/c6y4z9lnkz30o?at_medium=RSS&at_campaign=rss",
      "pub": "2026-10-10T19:00+00:00"
-    },
-    {
-     "medio": "Guardian",
-     "titulo": "Bruno Guimarães completes Arsenal comeback to end Leeds’ unbeaten run",
-     "url": "https://www.theguardian.com/football/2026/oct/10/arsenal-leeds-premier-league-match-report",
-     "pub": "2026-10-10T13:41+00:00"
     },
     {
      "medio": "talkSPORT",
      "titulo": "Bukayo Saka told he&#8217;s not justifying contract as Arsenal legend gives key piece of advice",
      "url": "https://talksport.com/football/4637028/arsenal-bukayo-saka-david-oleary-advice/",
      "pub": "2026-10-11T12:05+00:00"
-    },
-    {
-     "medio": "talkSPORT",
-     "titulo": "Arsenal given major injury scare as star carried off during warm down after Leeds win",
-     "url": "https://talksport.com/football/4636492/arsenal-injury-leeds-piero-hincapie/",
-     "pub": "2026-10-10T16:42+00:00"
-    },
-    {
-     "medio": "talkSPORT",
-     "titulo": "Arsenal make 27-year history during Leeds comeback win",
-     "url": "https://talksport.com/football/4636236/arsenal-make-27-year-history-during-leeds-comeback-win/",
-     "pub": "2026-10-10T14:20+00:00"
     },
     {
      "medio": "Mirror",
@@ -1894,82 +1879,118 @@
      "titulo": "Bruno Guimarães fala em \"sensação única\" após primeiro gol na casa do Arsenal",
      "url": "https://ge.globo.com/futebol/futebol-internacional/futebol-ingles/noticia/2026/10/11/bruno-guimaraes-fala-em-sensacao-unica-apos-primeiro-gol-na-casa-do-arsenal.ghtml",
      "pub": "2026-10-11T06:00+00:00"
-    }
-   ]
-  },
-  {
-   "tema": "Chelsea",
-   "medios": 7,
-   "lista_medios": [
-    "BBC",
-    "Daily Mail",
-    "FourFourTwo",
-    "Google News EN",
-    "Guardian",
-    "Infobae",
-    "Yahoo"
-   ],
-   "primera_vez": "2026-10-11T16:00+00:00",
-   "titulares": [
-    {
-     "medio": "BBC",
-     "titulo": "Henderson scores twice as five-star Chelsea thrash Bournemouth",
-     "url": "https://www.bbc.co.uk/sport/football/videos/cjy5zxv9qq1po?at_medium=RSS&at_campaign=rss",
-     "pub": "2026-10-10T19:00+00:00"
-    },
-    {
-     "medio": "BBC",
-     "titulo": "'Absolutely superb' - How Caicedo proved pivotal in Chelsea win",
-     "url": "https://www.bbc.co.uk/sport/football/videos/cmx2dp7xgew6o?at_medium=RSS&at_campaign=rss",
-     "pub": "2026-10-10T23:00+00:00"
-    },
-    {
-     "medio": "Guardian",
-     "titulo": "Henderson and João Pedro lead Chelsea charge against Bournemouth",
-     "url": "https://www.theguardian.com/football/2026/oct/10/chelsea-bournemouth-premier-league-match-report",
-     "pub": "2026-10-10T16:18+00:00"
-    },
-    {
-     "medio": "Daily Mail",
-     "titulo": "Practice makes perfect! Chelsea reveal unseen footage of Jordan Henderson scoring carbon copy of Bournemouth free kick in training - as veteran finally arrives at Stamford Bridge",
-     "url": "https://www.dailymail.com/sport/football/article-16200125/chelsea-jordan-henderson-bournemouth-free-kick.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-     "pub": "2026-10-11T09:19+00:00"
-    },
-    {
-     "medio": "Daily Mail",
-     "titulo": "Cole Palmer casually announces his new Chelsea contract on awkward mock livestream just HOURS before clash with Bournemouth - as Blues star returns to Twitch after being banned for streaming EA FC27 too early",
-     "url": "https://www.dailymail.com/sport/football/article-16198395/Cole-Palmer-signs-new-Chelsea-deal-ties-future-Stamford-Bridge-2034-improved-terms-boast-joint-longest-contract-Premier-League.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-     "pub": "2026-10-10T23:18+00:00"
-    },
-    {
-     "medio": "FourFourTwo",
-     "titulo": "Watch Chelsea vs Bournemouth: FREE Streams and TV Channels",
-     "url": "https://www.fourfourtwo.com/competition/watch-chelsea-vs-bournemouth-premier-league-2026-27-free",
-     "pub": "2026-10-10T11:00+00:00"
-    },
-    {
-     "medio": "Google News EN",
-     "titulo": "Chelsea 5-1 Bournemouth: Jordan Henderson's stunning strikes help fast-starting Blues to bounce-back win",
-     "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQbzlzOVJweW9aNl81VFFQVk4ybnh4RWNTRGVGWGxNaHJ4eEdRV0tVOWdUaTcwdGFYN2NoN0hIbzc4NWdEZVBIc1k2ZUJFVUt4dzdFZzRNbHMyOWRuY2xvQmpJWUh2Z1B3QnpTQUNXWEtjV3lEOF9rSlRWcUczc2Rla3pPWVZaS0RQaEhJTWhzc3FSdl90XzJWaWhJdVdWNTJiX21Uc0JWeTNENk83M09UM1VjdFg0WUFBSHREWFFhZHpfUDlhdVg0UUstdklfY21NRFpjVkZodFAtT0xXOXg4cThsdW8ydw?oc=5",
-     "pub": "2026-10-11T13:32+00:00"
-    },
-    {
-     "medio": "Infobae",
-     "titulo": "El partido del Dibu Martínez en la goleada del Chelsea: una doble atajada espectacular y un blooper que lo perjudicó en el gol rival",
-     "url": "https://www.infobae.com/deportes/2026/10/10/el-partido-del-dibu-martinez-en-la-goleada-del-chelsea-una-doble-atajada-espectacular-y-un-blooper-que-lo-perjudico-en-el-gol-rival/",
-     "pub": "2026-10-10T16:52+00:00"
     },
     {
      "medio": "Yahoo",
-     "titulo": "‘I just want to focus on myself’ – Dario Essugo not trying to prove a point to Chelsea after opening his Strasbourg account",
-     "url": "https://sports.yahoo.com/articles/just-want-focus-myself-dario-170500204.html",
+     "titulo": "Mourinho makes unprompted remark about Arteta & Arsenal",
+     "url": "https://sports.yahoo.com/articles/mourinho-makes-unprompted-remark-arteta-170500002.html",
      "pub": "2026-10-11T17:05+00:00"
+    },
+    {
+     "medio": "Yahoo",
+     "titulo": "Arsenal dealt injury blow after Leeds United win",
+     "url": "https://sports.yahoo.com/articles/arsenal-dealt-injury-blow-leeds-185000230.html",
+     "pub": "2026-10-11T18:50+00:00"
     },
     {
      "medio": "Yahoo",
      "titulo": "Arsenal Are Among The Clubs Showing Interest In This Chelsea Defender: Should Arteta Move In For Him?",
      "url": "https://sports.yahoo.com/articles/arsenal-among-clubs-showing-interest-195000518.html",
      "pub": "2026-10-11T19:50+00:00"
+    },
+    {
+     "medio": "Mirror",
+     "titulo": "Arsenal news: Mikel Arteta plots Liverpool hijack as Gunners near 'triple deal'",
+     "url": "https://www.mirror.co.uk/sport/football/news/arsenal-transfer-news-gilberto-mora-37760094",
+     "pub": "2026-10-12T03:00+00:00"
+    }
+   ]
+  },
+  {
+   "tema": "Tottenham",
+   "medios": 7,
+   "lista_medios": [
+    "BBC",
+    "Foot Mercato",
+    "Football Italia",
+    "FourFourTwo",
+    "Google News EN",
+    "Mirror",
+    "Yahoo"
+   ],
+   "primera_vez": "2026-10-11T16:00+00:00",
+   "titulares": [
+    {
+     "medio": "BBC",
+     "titulo": "'Tottenham needs this reaction' - De Zerbi defends Bentancur red",
+     "url": "https://www.bbc.co.uk/sport/football/videos/cq39818v0ekzo?at_medium=RSS&at_campaign=rss",
+     "pub": "2026-10-10T19:46+00:00"
+    },
+    {
+     "medio": "Mirror",
+     "titulo": "Man Utd star reveals Michael Carrick demand was not met in Tottenham draw",
+     "url": "https://www.mirror.co.uk/sport/football/news/man-utd-spurs-carrick-lammens-37759954",
+     "pub": "2026-10-11T12:56+00:00"
+    },
+    {
+     "medio": "FourFourTwo",
+     "titulo": "Toby Alderweireld on Tottenham Hotspur’s incredible Champions League semi-final win in 2019",
+     "url": "https://www.fourfourtwo.com/person/player/to-kill-the-dream-of-my-former-club-was-a-strange-feeling-ill-always-be-grateful-to-ajax-but-football-is-like-that-toby-alderweireld-on-tottenham-hotspurs-incredible-champions-league-semi-final-win-in-2019",
+     "pub": "2026-10-11T15:00+00:00"
+    },
+    {
+     "medio": "Yahoo",
+     "titulo": "Manchester United make Michael Carrick decision after Tottenham Hotspur draw",
+     "url": "https://sports.yahoo.com/articles/manchester-united-michael-carrick-decision-145000830.html",
+     "pub": "2026-10-11T14:50+00:00"
+    },
+    {
+     "medio": "Google News EN",
+     "titulo": "Highlights - Premier League - Manchester United 1-1 Tottenham Hotspur",
+     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBUaHMzd0hTNGYtbTZvTHRlZFRuU25sc3NzMWpCdFh2Mnh3SHdPQ210a2l1eExvOERXTjVfQmpqWjVWdHlPQV9mVndqWm9ha1d1Slo0cDJFTFJteUdCOElmdGhKYllZcVNr?oc=5",
+     "pub": "2026-10-10T19:24+00:00"
+    },
+    {
+     "medio": "Google News EN",
+     "titulo": "Man Utd 1-1 Tottenham: Dominic Solanke rescues dramatic draw for 10-man Spurs at Old Trafford",
+     "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQbkZaaDhrU05wMGVXV1dwaHZkeXZLeEY5bEhiTE5OUXhySGdRU1N4SmtNMC1LVWYtSDFYNnBSVklsbGI5emVFb2s3Y2VlSWk3TVo2bUU2dTQzVVRhS1poRkdTbHJWVzRJWHd2TTJCZFpoLWtJT1VGNHlzTXE3eDNLOE5Xbk8zNjRiMkVhSzBOUkItemFoSU9NUDdyMFRyWllzNURCNnJ0VXl5NW84T0lnSWVvb2RtTlZjLUliY1hLOWxlazdYY254NVdWaUZSRzBrQ1UtQjlRRnM?oc=5",
+     "pub": "2026-10-11T14:31+00:00"
+    },
+    {
+     "medio": "Football Italia",
+     "titulo": "Tonali sends six-word message after assist in Tottenham draw with Man Utd",
+     "url": "https://football-italia.net/tonali-6-words-message-assist-draw-tottenham/",
+     "pub": "2026-10-11T12:03+00:00"
+    },
+    {
+     "medio": "Google News EN",
+     "titulo": "NFL London games 2026 LIVE! Updates, result, highlights from Jacksonville Jaguars vs Philadelphia Eagles at Tottenham Hotspur Stadium",
+     "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxNSVN0QzA5eWFabHpnZ3RDdlJqSlRBNzJvUllOVnYyOGozM2x2d0pHTnlMTHpxeWdIQnFKaTl0U2JFRE85NUlBMXg5aXlxVEljYmZMTXQ5Y0hrblpuTGNwdjAxWTJOZ0hwRC1LRFRQRFJjVEtkX2Npby14Z1BTajZWdmtKYUpYWGxvUC1wTDV4eTFBcDhVZlFZb0E4dWlPaER6c21mTjhxaWs0c3lVRG1XMEQtZU95MUViRTlEdmRib1E5TC1qUHdpV3ItN1NBUUcxdjVlamQ5NEtGMWZDelVOUWpUY2xwTEVnUldEZXlDdEdidEhNcmhSTzkyQkFaXzRLc0Z6ZllBYUlvdlU?oc=5",
+     "pub": "2026-10-11T14:37+00:00"
+    },
+    {
+     "medio": "Foot Mercato",
+     "titulo": "Tottenham : les stages à Marbella de Roberto De Zerbi servent-ils réellement à quelque chose",
+     "url": "https://www.footmercato.net/a1605781767685981346-tottenham-les-stages-a-marbella-de-roberto-de-zerbi-servent-ils-reellement-a-quelque-chose",
+     "pub": "2026-10-11T16:15+00:00"
+    },
+    {
+     "medio": "Foot Mercato",
+     "titulo": "MU : Bruno Fernandes dépité après le nouveau fiasco contre Tottenham",
+     "url": "https://www.footmercato.net/a578664916989954370-mu-bruno-fernandes-depite-apres-le-nouveau-fiasco-contre-tottenham",
+     "pub": "2026-10-11T16:52+00:00"
+    },
+    {
+     "medio": "Yahoo",
+     "titulo": "Tottenham Hotspur Are Keeping Tabs On This Serie A Full-Back: Should De Zerbi Get Him On Board?",
+     "url": "https://sports.yahoo.com/articles/tottenham-hotspur-keeping-tabs-serie-202000736.html",
+     "pub": "2026-10-11T20:20+00:00"
+    },
+    {
+     "medio": "Yahoo",
+     "titulo": "Tottenham Hotspur star makes personal admission after Man United draw",
+     "url": "https://sports.yahoo.com/articles/tottenham-hotspur-star-makes-personal-205000048.html",
+     "pub": "2026-10-11T20:50+00:00"
     }
    ]
   },
@@ -2040,6 +2061,182 @@
      "titulo": "Portsmouth analysis: Southampton defeat 'one that got away'",
      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE44Rlk5YWNHUTgxRXN3M1Axbng2VFFRREVGQmxKREZvLXN0LW5VV1gxSm1JeE1pcGRUMHhVOU1LVUg3M1ZIQk5ibkVma3U2SGROSC0tVGlyZTJPN3c0YjF0eklyR2hKcmdZTjlJ?oc=5",
      "pub": "2026-10-11T15:49+00:00"
+    }
+   ]
+  },
+  {
+   "tema": "Vinicius",
+   "medios": 7,
+   "lista_medios": [
+    "AS",
+    "Foot Mercato",
+    "Google News ES",
+    "L'Equipe",
+    "Mundo Deportivo",
+    "ge.globo",
+    "talkSPORT"
+   ],
+   "primera_vez": "2026-10-11T16:00+00:00",
+   "titulares": [
+    {
+     "medio": "talkSPORT",
+     "titulo": "Jose Mourinho&#8217;s decision to boycott press conference explained after Vinicius Jr red card",
+     "url": "https://talksport.com/football/4636735/jose-mourinho-press-conference-boycott-vinicius-jr-red-card/",
+     "pub": "2026-10-11T09:10+00:00"
+    },
+    {
+     "medio": "AS",
+     "titulo": "Desazón con Vinicius",
+     "url": "https://as.com/futbol/primera/desazon-con-vinicius-f202610-n/",
+     "pub": "2026-10-11T06:27+00:00"
+    },
+    {
+     "medio": "Mundo Deportivo",
+     "titulo": "Cifras redondas para Vinicius y Tchouaméni",
+     "url": "https://www.mundodeportivo.com/futbol/real-madrid/20261011/1004237374/cifras-redondas-vinicius-tchouameni.html",
+     "pub": ""
+    },
+    {
+     "medio": "L'Equipe",
+     "titulo": "« Ridicule », « un geste violent »... Vinicius unanimement condamné par les médias espagnols au lendemain de son expulsion",
+     "url": "https://www.lequipe.fr/Football/Actualites/-ridicule-un-geste-violent-vinicius-unanimement-condamne-par-les-medias-espagnols-au-lendemain-de-son-expulsion/1724917#at_medium=RSS_feeds",
+     "pub": "2026-10-11T09:21+00:00"
+    },
+    {
+     "medio": "Foot Mercato",
+     "titulo": "Real Madrid : l’entourage de Vinicius Jr réagit à son expulsion polémique",
+     "url": "https://www.footmercato.net/a3971435971801351262-real-madrid-lentourage-de-vinicius-jr-reagit-a-son-expulsion-polemique",
+     "pub": "2026-10-11T10:05+00:00"
+    },
+    {
+     "medio": "Foot Mercato",
+     "titulo": "Yan Diomandé profite des déboires de Vinicius Jr, la presse allemande cartonne Neuer après sa boulette historique",
+     "url": "https://www.footmercato.net/a3575618506492248561-yan-diomande-profite-des-deboires-de-vinicius-jr-la-presse-allemande-cartonne-neuer-apres-sa-boulette-historique",
+     "pub": "2026-10-11T09:04+00:00"
+    },
+    {
+     "medio": "Foot Mercato",
+     "titulo": "«Un véritable fiasco» : la presse madrilène vole au secours de Vinicius Júnior après son pétage de câble",
+     "url": "https://www.footmercato.net/a2984014693036282798-un-veritable-fiasco-la-presse-madrilene-vole-au-secours-de-vinicius-junior-apres-son-petage-de-cable",
+     "pub": "2026-10-11T07:15+00:00"
+    },
+    {
+     "medio": "Foot Mercato",
+     "titulo": "Vinicius Jr et l’influenceuse Virginia Fonseca se séparent",
+     "url": "https://www.footmercato.net/a5896446103485072680-vinicius-jr-et-linfluenceuse-virginia-fonseca-se-separent",
+     "pub": "2026-10-11T18:13+00:00"
+    },
+    {
+     "medio": "Google News ES",
+     "titulo": "Vídeo | Cucurella y su reacción tras la expulsión de Vinicius que captaron las cámaras de DAZN",
+     "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQMVlGeldJUDVEUUd6X0laRUluVm1YTGJNYVZLYW5VNWwtVVdHZElVTk8tZ2JzU2FMMW5WXzRlZk1KZ1BMYWp4WGVWUjJSeHdPc2ZySm5Vdmo1SnZyYk5fTGFmN1QteU9PVVc0Y0owQU1yTkhfbG5hTTZLYVV4WVVKekZhMjJpdkpNNnJicGEwRHRFQjkwTzYwa3JFRDNOVklRd0llMkpTNnJuSmpTQVFyUEtrckJaRFlSYVplVUNqYmhCVkZ4Zk9QSlZpUW9yZnVmUjRxWkk0bw?oc=5",
+     "pub": "2026-10-11T20:17+00:00"
+    },
+    {
+     "medio": "AS",
+     "titulo": "La ‘carambola’ que podría ayudar a Vinicius para el Clásico",
+     "url": "https://as.com/futbol/videos/la-carambola-que-podria-ayudar-a-vinicius-para-a-en-el-clasico-f202610-v/",
+     "pub": "2026-10-12T06:47+00:00"
+    },
+    {
+     "medio": "Mundo Deportivo",
+     "titulo": "Alimentar a Vinicius",
+     "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261012/1004237493/alimentar-vinicius.html",
+     "pub": ""
+    },
+    {
+     "medio": "Mundo Deportivo",
+     "titulo": "Cucurella advirtió al árbitro tras la roja de Vinicius: \"Espero que si me tocan un pelo le saquéis la roja\"",
+     "url": "https://www.mundodeportivo.com/futbol/real-madrid/20261011/1004237588/cucurella-advirtio-arbitro-roja-vinicius-espero-me-tocan-pelo-le-saqueis-roja.html",
+     "pub": ""
+    }
+   ]
+  },
+  {
+   "tema": "Enzo",
+   "medios": 7,
+   "lista_medios": [
+    "Daily Mail",
+    "Google News EN",
+    "Infobae",
+    "Mirror",
+    "Mundo Deportivo",
+    "Yahoo",
+    "ge.globo"
+   ],
+   "primera_vez": "2026-10-11T16:00+00:00",
+   "titulares": [
+    {
+     "medio": "Daily Mail",
+     "titulo": "Liverpool vs Manchester City - Premier League LIVE: Enzo Maresca's side BOOED by hostile Anfield crowd at kick-off in their first game since guilty verdict, before tension boils over on pitch",
+     "url": "https://www.dailymail.com/sport/football/article-16195521/Liverpool-vs-Manchester-City-Premier-League-LIVE-Follow-build-action-reaction-Anfield-visitors-play-match-guilty-verdict.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+     "pub": "2026-10-11T15:53+00:00"
+    },
+    {
+     "medio": "Daily Mail",
+     "titulo": "Man City give Liverpool fans the slip: Enzo Maresca's side dodge baying home fans en route to Anfield before being taunted by banners and facing hostile reception after guilty verdict",
+     "url": "https://www.dailymail.com/sport/football/article-16200431/Man-City-Liverpool-fans-slip-Enzo-Marescas-dodge-baying-home-fans-en-route-Anfield-Premier-League-leaders-braced-hostile-reception-guilty-verdict.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+     "pub": "2026-10-11T15:50+00:00"
+    },
+    {
+     "medio": "Daily Mail",
+     "titulo": "Inside Man City's dressing room after guilty verdict: We reveal Enzo Maresca's inspiring words which left squad 'ready to go to war' - plus the two most 'vocal and calming' stars",
+     "url": "https://www.dailymail.com/sport/football/article-16198631/Inside-Man-Citys-dressing-room-guilty-verdict-reveal-Enzo-Marescas-inspiring-words-left-squad-ready-war-plus-two-vocal-calming-stars.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+     "pub": "2026-10-11T14:53+00:00"
+    },
+    {
+     "medio": "Mirror",
+     "titulo": "Enzo Maresca's private message to Man City players leaked before Liverpool showdown",
+     "url": "https://www.mirror.co.uk/sport/football/news/enzo-maresca-message-man-city-37759831",
+     "pub": "2026-10-11T11:48+00:00"
+    },
+    {
+     "medio": "Yahoo",
+     "titulo": "Enzo Maresca, Man City player reaction to Liverpool match, reception at Anfield",
+     "url": "https://sports.yahoo.com/articles/enzo-maresca-man-city-player-172300565.html",
+     "pub": "2026-10-11T17:23+00:00"
+    },
+    {
+     "medio": "Yahoo",
+     "titulo": "Liverpool vs Manchester City player ratings: Enzo delivers for Enzo, Doku shines off the bench",
+     "url": "https://sports.yahoo.com/articles/liverpool-vs-manchester-city-player-174046475.html",
+     "pub": "2026-10-11T17:40+00:00"
+    },
+    {
+     "medio": "Google News EN",
+     "titulo": "Premier League: Liverpool 0-3 Manchester City - Enzo Maresca post match interview",
+     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1wWElXRjBUcnhVTW5sX1EzQ2EzelhNdXp6SXRkbW0zM0RKeUMwalBHTlJQV3dEajRwSG85ZXdsQk13elpyR0Jzcm4zZmllOHB5MTRKelpEOTVKQzh4OV9VWXQ5blY1TXpk?oc=5",
+     "pub": "2026-10-11T18:38+00:00"
+    },
+    {
+     "medio": "Yahoo",
+     "titulo": "‘Our noise is to win games’; Enzo Maresca challenges Man City to continue winning mentality",
+     "url": "https://sports.yahoo.com/articles/noise-win-games-enzo-maresca-184505124.html",
+     "pub": "2026-10-11T18:45+00:00"
+    },
+    {
+     "medio": "Mundo Deportivo",
+     "titulo": "Enzo Maresca: \"Tenemos que aprender a lidiar con el ruido\"",
+     "url": "https://www.mundodeportivo.com/futbol/premier-league/20261011/1004237558/enzo-maresca-aprender-lidiar-ruido.html",
+     "pub": ""
+    },
+    {
+     "medio": "Daily Mail",
+     "titulo": "Gary Neville claims the wait for sanctions against Man City is 'really bad for the Premier League' as Piers Morgan labels it a 'total farce' after Enzo Maresca's side extend lead at top",
+     "url": "https://www.dailymail.com/sport/football/article-16200833/Gary-Neville-sanctions-Man-City-bad-Premier-League-Piers-Morgan-farce-Enzo-Maresa-extend-lead-top.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+     "pub": "2026-10-11T20:39+00:00"
+    },
+    {
+     "medio": "Daily Mail",
+     "titulo": "Enzo Maresca insists he doesn't care how long Man City's appeal against guilty verdict takes as he shrugs off the 'noise' after thumping win at Liverpool",
+     "url": "https://www.dailymail.com/sport/football/article-16200897/Enzo-Maresca-insists-doesnt-care-long-Man-Citys-appeal-against-guilty-verdict-takes-shrugs-noise-thumping-win-Liverpool.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+     "pub": "2026-10-11T20:30+00:00"
+    },
+    {
+     "medio": "Infobae",
+     "titulo": "Las perlitas del triunfo del Manchester City ante el Liverpool: del chispazo entre Enzo Fernández y Mac Allister al golazo de Cherki",
+     "url": "https://www.infobae.com/deportes/2026/10/11/las-perlitas-del-triunfo-del-manchester-city-ante-el-liverpool-del-chispazo-entre-enzo-fernandez-y-mac-allister-al-golazo-de-cherki/",
+     "pub": "2026-10-11T19:46+00:00"
     }
    ]
   },
@@ -2132,72 +2329,90 @@
    ]
   },
   {
-   "tema": "Cagliari",
+   "tema": "San",
    "medios": 7,
    "lista_medios": [
-    "Foot Mercato",
-    "Football Italia",
+    "Google News AR",
+    "Google News EN",
     "Google News ES",
+    "Infobae",
     "Kicker",
-    "Mundo Deportivo",
     "Ole",
-    "Yahoo"
+    "ge.globo"
    ],
    "primera_vez": "2026-10-11T16:00+00:00",
    "titulares": [
     {
-     "medio": "Google News ES",
-     "titulo": "Cagliari vs Juventus de Serie A 2026/2027: horario y dónde ver hoy por TV y online el partido de la liga italiana a través de DAZN",
-     "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNNy1aaFdZdnhMaVlsRnppeGZzRGxYWW9DcnVTamRjXzRCem5HNlpnX2JSekZqX2t2S3ZfRE5LMW40MXhrVi1MemZra3dPLUJEbl80RzVJLW5IYzhWVExOM1NhcUp6bWRqQXpkam1FYzJxeFN0cmRMSHBiR0std1UwczBqTzJuQmxRRHpSMEdDOXVyQ08wU1d2ZTVuOE5WRXVzNDVpUlgyTTFpb09LNnBUN0Q4R2JtZS1xSG03ZXF3WV9SNnRyLWlaSU1KOGNBM3N4dkJOaGZHZHBKUjRXUVNqOTFkZDJRV3BKUGFpa3h1M21lREVLWXVSb2loZw?oc=5",
+     "medio": "Kicker",
+     "titulo": "San Sebastian - A Coruna: Tor zum 3:2 durch Yeremay in der 69. Minute",
+     "url": "https://www.kicker.de/san-sebastian-a-coruna-tor-zum-3-2-durch-yeremay-in-der-69-minute-1260252/video#omrss",
+     "pub": "2026-10-11T15:51+00:00"
+    },
+    {
+     "medio": "Kicker",
+     "titulo": "San Sebastian - A Coruna: Rote Karte für Marin in der 66. Minute",
+     "url": "https://www.kicker.de/san-sebastian-a-coruna-rote-karte-fuer-marin-in-der-66-minute-1260248/video#omrss",
+     "pub": "2026-10-11T15:48+00:00"
+    },
+    {
+     "medio": "Kicker",
+     "titulo": "San Sebastian - A Coruna: Tor zum 3:1 durch Soriano in der 61. Minute",
+     "url": "https://www.kicker.de/san-sebastian-a-coruna-tor-zum-3-1-durch-soriano-in-der-61-minute-1260242/video#omrss",
+     "pub": "2026-10-11T15:41+00:00"
+    },
+    {
+     "medio": "Kicker",
+     "titulo": "San Sebastian - A Coruna: Tor zum 3:0 durch Goncalo Guedes in der 54. Minute",
+     "url": "https://www.kicker.de/san-sebastian-a-coruna-tor-zum-3-0-durch-goncalo-guedes-in-der-54-minute-1260239/video#omrss",
+     "pub": "2026-10-11T15:37+00:00"
+    },
+    {
+     "medio": "Kicker",
+     "titulo": "San Sebastian - A Coruna: Tor zum 2:0 durch Zakharyan in der 34. Minute",
+     "url": "https://www.kicker.de/san-sebastian-a-coruna-tor-zum-2-0-durch-zakharyan-in-der-34-minute-1260225/video#omrss",
+     "pub": "2026-10-11T14:54+00:00"
+    },
+    {
+     "medio": "Kicker",
+     "titulo": "San Sebastian - A Coruna: Tor zum 1:0 durch Martin in der 29. Minute",
+     "url": "https://www.kicker.de/san-sebastian-a-coruna-tor-zum-1-0-durch-martin-in-der-29-minute-1260220/video#omrss",
+     "pub": "2026-10-11T14:50+00:00"
+    },
+    {
+     "medio": "Infobae",
+     "titulo": "Con la presentación de San Lorenzo, se abrirá la jornada de domingo por la fecha 12 del Torneo Clausura: la agenda completa",
+     "url": "https://www.infobae.com/deportes/2026/10/11/con-la-presentacion-de-san-lorenzo-se-abrira-la-jornada-de-domingo-por-la-fecha-12-del-torneo-clausura-la-agenda-completa/",
      "pub": "2026-10-11T12:40+00:00"
     },
     {
-     "medio": "Football Italia",
-     "titulo": "Official: Juventus squad list for Cagliari clash as eight still unavailable",
-     "url": "https://football-italia.net/juventus-squad-list-cagliari-clash-8-out/",
-     "pub": "2026-10-11T11:11+00:00"
+     "medio": "Infobae",
+     "titulo": "Es ídolo de San Lorenzo, pasó por Boca y jugó en la Selección: “Cuando dejé el fútbol me agarró una depresión muy grande”",
+     "url": "https://www.infobae.com/deportes/2026/10/11/es-idolo-de-san-lorenzo-paso-por-boca-y-jugo-en-la-seleccion-cuando-deje-el-futbol-me-agarro-una-depresion-muy-grande/",
+     "pub": "2026-10-11T04:12+00:00"
     },
     {
-     "medio": "Football Italia",
-     "titulo": "Serie A: Cagliari vs. Juventus: Confirmed line-ups",
-     "url": "https://football-italia.net/serie-a-cagliari-vs-juventus-official-line-ups/",
-     "pub": "2026-10-11T17:35+00:00"
+     "medio": "Infobae",
+     "titulo": "Jugó en cinco países de Europa, sorprendió a los Lakers y debutó en la NBA a los 30 años con San Antonio Spurs",
+     "url": "https://www.infobae.com/deportes/2026/10/10/jugo-en-cinco-paises-de-europa-sorprendio-a-los-lakers-y-debuto-en-la-nba-a-los-30-anos-con-san-antonio-spurs/",
+     "pub": "2026-10-10T21:28+00:00"
     },
     {
-     "medio": "Mundo Deportivo",
-     "titulo": "Cagliari - Juventus, en directo | Serie A",
-     "url": "https://www.mundodeportivo.com/futbol/serie-a/20261011/1004235608/cagliari-juventus-directo-serie.html",
-     "pub": ""
+     "medio": "Google News AR",
+     "titulo": "Fútbol/Menores: Buena cosecha de los chicos de San Jorge en La Francia",
+     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPWHNkbWRJVWdBS1N4VkxoNXZXTHI4LU56MWJpdFF0aHlBUkJxMksxY3NrZlVEWjFHVERidTBRZTZfUS03STVoVllBU0owSnRtVkxWTHRpVUJYUnBhQ1VsYl9NTkVfeXZDSVNHVDJRbHR2YjlMUzZxU25wdVl2ZVk5SXo2WWZ1enoza2h6Q2tFQURYcktMU3J5VExGV0FCdzRYQUtub2NMQTlNS0x6SktUMTFR?oc=5",
+     "pub": "2026-10-11T14:00+00:00"
     },
     {
-     "medio": "Kicker",
-     "titulo": "Cagliari - Juventus: Tor zum 1:0 durch Maldini in der 20. Minute",
-     "url": "https://www.kicker.de/cagliari-juventus-tor-zum-1-0-durch-maldini-in-der-20-minute-1260339/video#omrss",
-     "pub": "2026-10-11T19:12+00:00"
+     "medio": "Google News AR",
+     "titulo": "Fútbol argentino: San Lorenzo, Racing e Independiente juegan este domingo y habrá otros dos partidos por la Liga Profesional",
+     "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOdEJ5V1NYZGM4YmVzdVNDYmVqOUIxRXRjOFJibHpuQjg2QjctWmFPMlp1Vm56eEVDcmNrVjdMV2dxRU01bkF0SzRZdTVCQWViM0ZjTzY3MUhMZVpxb2JEbWhLQUwyTF9rR185alIta0x0TVBaekl0bV9yYzlxZHZodnNsQVg3aTFqNHVBYjlvYzE2RE5Sam9VSWE3dkoyNW9EaUpnYzdhaVRCdC1OUlVjQWVyN1VxRlFBa2hUaVd5YjZMV0EyV1NBcVhXYWxnT21sODRfbExjblhVRVQxcy0tTl9kOHhMQTNH?oc=5",
+     "pub": "2026-10-11T11:23+00:00"
     },
     {
-     "medio": "Ole",
-     "titulo": "Insólito momento en Italia: una pareja festejó su casamiento en el estadio del Cagliari",
-     "url": "https://www.ole.com.ar/futbol-internacional/italia/cagliari-juventus-matrimonio-festejo-casamiento-serie-ax_0_VcWesLutVU.html",
-     "pub": "2026-10-11T19:19+00:00"
-    },
-    {
-     "medio": "Yahoo",
-     "titulo": "Serie A | Cagliari 1-1 Juventus: Kolo Muani first goal to rescue a point",
-     "url": "https://sports.yahoo.com/articles/serie-cagliari-1-1-juventus-204000299.html",
-     "pub": "2026-10-11T20:40+00:00"
-    },
-    {
-     "medio": "Kicker",
-     "titulo": "Cagliari - Juventus: Tor zum 1:1 durch Kolo Muani in der 81. Minute",
-     "url": "https://www.kicker.de/cagliari-juventus-tor-zum-1-1-durch-kolo-muani-in-der-81-minute-1260360/video#omrss",
-     "pub": "2026-10-11T20:29+00:00"
-    },
-    {
-     "medio": "Foot Mercato",
-     "titulo": "Serie A : Randal Kolo Muani sauve la Juve contre Cagliari",
-     "url": "https://www.footmercato.net/a2358596021589016777-serie-a-randal-kolo-muani-sauve-la-juve-contre-cagliari",
-     "pub": "2026-10-11T20:42+00:00"
+     "medio": "Google News AR",
+     "titulo": "Posiciones de San Lorenzo: a cuánto está de clasificarse en la Liga Profesional",
+     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA5c0s5aExTdzJSY3djbVFhWkZRRl9IU2lNUGFsWVBzWXJfN1YyZEZrTU9Nak1ZVm45aDNvQ1QzMDJ0Sy1RZkdfcGZZa3hMYl9ieGtaZW9Ga0hPQ2lqUF9PYnYwLUV5dUEyemVxY1BJcWJRN05JZEt1WE9JcTNRWVE?oc=5",
+     "pub": "2026-10-11T14:24+00:00"
     }
    ]
   },
@@ -2266,6 +2481,70 @@
    ]
   },
   {
+   "tema": "Maresca",
+   "medios": 7,
+   "lista_medios": [
+    "BBC",
+    "Daily Mail",
+    "Google News EN",
+    "Guardian",
+    "Mundo Deportivo",
+    "Yahoo",
+    "ge.globo"
+   ],
+   "primera_vez": "2026-10-11T17:45+00:00",
+   "titulares": [
+    {
+     "medio": "Yahoo",
+     "titulo": "Enzo Maresca, Man City player reaction to Liverpool match, reception at Anfield",
+     "url": "https://sports.yahoo.com/articles/enzo-maresca-man-city-player-172300565.html",
+     "pub": "2026-10-11T17:23+00:00"
+    },
+    {
+     "medio": "BBC",
+     "titulo": "'We deal with the noise' - Maresca 'proud' after Man City win",
+     "url": "https://www.bbc.co.uk/sport/football/videos/cm62yzw2175yo?at_medium=RSS&at_campaign=rss",
+     "pub": "2026-10-11T18:38+00:00"
+    },
+    {
+     "medio": "Google News EN",
+     "titulo": "Premier League: Liverpool 0-3 Manchester City - Enzo Maresca post match interview",
+     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1wWElXRjBUcnhVTW5sX1EzQ2EzelhNdXp6SXRkbW0zM0RKeUMwalBHTlJQV3dEajRwSG85ZXdsQk13elpyR0Jzcm4zZmllOHB5MTRKelpEOTVKQzh4OV9VWXQ5blY1TXpk?oc=5",
+     "pub": "2026-10-11T18:38+00:00"
+    },
+    {
+     "medio": "Yahoo",
+     "titulo": "‘Our noise is to win games’; Enzo Maresca challenges Man City to continue winning mentality",
+     "url": "https://sports.yahoo.com/articles/noise-win-games-enzo-maresca-184505124.html",
+     "pub": "2026-10-11T18:45+00:00"
+    },
+    {
+     "medio": "Mundo Deportivo",
+     "titulo": "Enzo Maresca: \"Tenemos que aprender a lidiar con el ruido\"",
+     "url": "https://www.mundodeportivo.com/futbol/premier-league/20261011/1004237558/enzo-maresca-aprender-lidiar-ruido.html",
+     "pub": ""
+    },
+    {
+     "medio": "Guardian",
+     "titulo": "‘We make our own noise’: Maresca hails Manchester City after Liverpool triumph",
+     "url": "https://www.theguardian.com/football/2026/oct/11/enzo-maresca-manchester-city-liverpool-premier-league",
+     "pub": "2026-10-11T19:43+00:00"
+    },
+    {
+     "medio": "Daily Mail",
+     "titulo": "Enzo Maresca insists he doesn't care how long Man City's appeal against guilty verdict takes as he shrugs off the 'noise' after thumping win at Liverpool",
+     "url": "https://www.dailymail.com/sport/football/article-16200897/Enzo-Maresca-insists-doesnt-care-long-Man-Citys-appeal-against-guilty-verdict-takes-shrugs-noise-thumping-win-Liverpool.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+     "pub": "2026-10-11T20:30+00:00"
+    },
+    {
+     "medio": "ge.globo",
+     "titulo": "Manchester City de Enzo Maresca atinge melhor início de um técnico estreante na Premier League",
+     "url": "https://ge.globo.com/futebol/futebol-internacional/futebol-ingles/noticia/2026/10/12/manchester-city-de-enzo-maresca-atinge-melhor-inicio-de-um-tecnico-estreante-na-premier-league.ghtml",
+     "pub": "2026-10-12T06:00+00:00"
+    }
+   ]
+  },
+  {
    "tema": "Iraola",
    "medios": 7,
    "lista_medios": [
@@ -2326,231 +2605,24 @@
      "titulo": "Iraola : « Deux matches différents, avant et après le carton rouge »",
      "url": "https://www.lequipe.fr/Football/Video/Premier-league-andoni-iraola-frustre-par-le-scenario-face-a-manchester-city-deux-matches-differents-avant-et-apres-le-carton-rouge/20243014#at_medium=RSS_feeds",
      "pub": "2026-10-11T20:25+00:00"
-    }
-   ]
-  },
-  {
-   "tema": "Zerbi",
-   "medios": 6,
-   "lista_medios": [
-    "BBC",
-    "Daily Mail",
-    "Foot Mercato",
-    "L'Equipe",
-    "Planet Football",
-    "Yahoo"
-   ],
-   "primera_vez": "2026-10-11T16:00+00:00",
-   "titulares": [
-    {
-     "medio": "BBC",
-     "titulo": "'I kissed Rodrigo and said thanks' - De Zerbi 'liked' Spurs red card",
-     "url": "https://www.bbc.co.uk/sport/football/articles/cqn73g3pvezdo?at_medium=RSS&at_campaign=rss",
-     "pub": "2026-10-10T20:58+00:00"
     },
     {
-     "medio": "BBC",
-     "titulo": "'Tottenham needs this reaction' - De Zerbi defends Bentancur red",
-     "url": "https://www.bbc.co.uk/sport/football/videos/cq39818v0ekzo?at_medium=RSS&at_campaign=rss",
-     "pub": "2026-10-10T19:46+00:00"
-    },
-    {
-     "medio": "Daily Mail",
-     "titulo": "Dominic Solanke led the line expertly and repaid Roberto De Zerbi for his show of faith - his rescue act needs to be the catalyst to kick-start Spurs' season, writes MATT BARLOW",
-     "url": "https://www.dailymail.com/sport/football/article-16195575/Tottenham-analysis-Solanke-Zerbi-Barlow.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-     "pub": "2026-10-11T14:55+00:00"
-    },
-    {
-     "medio": "Planet Football",
-     "titulo": "The iffy Premier League table since Tottenham appointed Roberto De Zerbi",
-     "url": "https://www.planetfootball.com/tottenham-hotspur/premier-league-table-roberto-de-zerbi-spurs",
-     "pub": "2026-10-10T18:49+00:00"
-    },
-    {
-     "medio": "L'Equipe",
-     "titulo": "De Zerbi : « Je veux voir ce caractère à chaque match »",
-     "url": "https://www.lequipe.fr/Football/Video/Premier-league-tottenham-roberto-de-zerbi-apres-manchester-united-tottenham-je-veux-voir-ce-caractere-a-chaque-match/20242988#at_medium=RSS_feeds",
-     "pub": "2026-10-11T09:34+00:00"
-    },
-    {
-     "medio": "Foot Mercato",
-     "titulo": "Tottenham : les stages à Marbella de Roberto De Zerbi servent-ils réellement à quelque chose",
-     "url": "https://www.footmercato.net/a1605781767685981346-tottenham-les-stages-a-marbella-de-roberto-de-zerbi-servent-ils-reellement-a-quelque-chose",
-     "pub": "2026-10-11T16:15+00:00"
+     "medio": "Mirror",
+     "titulo": "Roy Keane makes brutal Liverpool accusation that cost Andoni Iraola vs Man City",
+     "url": "https://www.mirror.co.uk/sport/football/news/roy-keane-liverpool-man-city-37760924",
+     "pub": "2026-10-11T21:39+00:00"
     },
     {
      "medio": "Yahoo",
-     "titulo": "Tottenham Hotspur Are Keeping Tabs On This Serie A Full-Back: Should De Zerbi Get Him On Board?",
-     "url": "https://sports.yahoo.com/articles/tottenham-hotspur-keeping-tabs-serie-202000736.html",
-     "pub": "2026-10-11T20:20+00:00"
+     "titulo": "Carragher urges Iraola to drop Wirtz after Liverpool flop produces another disappointing display vs Man City",
+     "url": "https://sports.yahoo.com/articles/carragher-urges-iraola-drop-wirtz-063000443.html",
+     "pub": "2026-10-12T06:30+00:00"
     },
     {
      "medio": "Yahoo",
-     "titulo": "Roberto De Zerbi defends Spurs star after Man United controversy",
-     "url": "https://sports.yahoo.com/articles/roberto-zerbi-defends-spurs-star-195000729.html",
-     "pub": "2026-10-11T19:50+00:00"
-    }
-   ]
-  },
-  {
-   "tema": "Utd",
-   "medios": 6,
-   "lista_medios": [
-    "BBC",
-    "Football Italia",
-    "Google News EN",
-    "Mirror",
-    "Planet Football",
-    "Telegraph"
-   ],
-   "primera_vez": "2026-10-11T16:00+00:00",
-   "titulares": [
-    {
-     "medio": "BBC",
-     "titulo": "Solanke scores in added time as 10-man Spurs draw with Man Utd",
-     "url": "https://www.bbc.co.uk/sport/football/videos/crz9zdl0g04zo?at_medium=RSS&at_campaign=rss",
-     "pub": "2026-10-10T19:24+00:00"
-    },
-    {
-     "medio": "BBC",
-     "titulo": "Man Utd midfield can't control games - Murphy",
-     "url": "https://www.bbc.co.uk/sport/football/videos/c6lye9kmnvpzo?at_medium=RSS&at_campaign=rss",
-     "pub": "2026-10-10T22:58+00:00"
-    },
-    {
-     "medio": "BBC",
-     "titulo": "'It hurts a lot' - Carrick 'understands' Man Utd boos after draw",
-     "url": "https://www.bbc.co.uk/sport/football/videos/cqlye9evnm7lo?at_medium=RSS&at_campaign=rss",
-     "pub": "2026-10-10T19:35+00:00"
-    },
-    {
-     "medio": "Mirror",
-     "titulo": "Man Utd star reveals Michael Carrick demand was not met in Tottenham draw",
-     "url": "https://www.mirror.co.uk/sport/football/news/man-utd-spurs-carrick-lammens-37759954",
-     "pub": "2026-10-11T12:56+00:00"
-    },
-    {
-     "medio": "Mirror",
-     "titulo": "Gary Neville picks out two Man Utd players and tells Michael Carrick he's 'seen enough'",
-     "url": "https://www.mirror.co.uk/sport/football/news/gary-neville-man-united-spurs-37759719",
-     "pub": "2026-10-11T10:55+00:00"
-    },
-    {
-     "medio": "Mirror",
-     "titulo": "Michael Carrick told £35m summer signing caused 'impossible' Man Utd issue vs Spurs",
-     "url": "https://www.mirror.co.uk/sport/football/news/man-utd-spurs-carrick-tielemans-37759461",
-     "pub": "2026-10-11T08:49+00:00"
-    },
-    {
-     "medio": "Mirror",
-     "titulo": "Gary Neville reveals in-game text from daughter that sums up state of Man Utd",
-     "url": "https://www.mirror.co.uk/sport/football/news/gary-neville-man-utd-carrick-37759346",
-     "pub": "2026-10-11T07:49+00:00"
-    },
-    {
-     "medio": "Telegraph",
-     "titulo": "Man Utd make worst start in 40 years after being hauled back by 10-man Spurs",
-     "url": "https://www.telegraph.co.uk/football/2026/10/10/manchester-united-vs-tottenham-team-news-and-latest-premier/",
-     "pub": "2026-10-10T20:54+00:00"
-    },
-    {
-     "medio": "Planet Football",
-     "titulo": "The still impressive Premier League table since Michael Carrick took charge of Man Utd",
-     "url": "https://www.planetfootball.com/manchester-united/amazing-premier-league-table-carrick-manager",
-     "pub": "2026-10-10T18:54+00:00"
-    },
-    {
-     "medio": "Google News EN",
-     "titulo": "Man Utd 1-1 Tottenham: Dominic Solanke rescues dramatic draw for 10-man Spurs at Old Trafford",
-     "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQbkZaaDhrU05wMGVXV1dwaHZkeXZLeEY5bEhiTE5OUXhySGdRU1N4SmtNMC1LVWYtSDFYNnBSVklsbGI5emVFb2s3Y2VlSWk3TVo2bUU2dTQzVVRhS1poRkdTbHJWVzRJWHd2TTJCZFpoLWtJT1VGNHlzTXE3eDNLOE5Xbk8zNjRiMkVhSzBOUkItemFoSU9NUDdyMFRyWllzNURCNnJ0VXl5NW84T0lnSWVvb2RtTlZjLUliY1hLOWxlazdYY254NVdWaUZSRzBrQ1UtQjlRRnM?oc=5",
-     "pub": "2026-10-11T14:31+00:00"
-    },
-    {
-     "medio": "Football Italia",
-     "titulo": "Tonali sends six-word message after assist in Tottenham draw with Man Utd",
-     "url": "https://football-italia.net/tonali-6-words-message-assist-draw-tottenham/",
-     "pub": "2026-10-11T12:03+00:00"
-    }
-   ]
-  },
-  {
-   "tema": "Nottingham",
-   "medios": 6,
-   "lista_medios": [
-    "Daily Mail",
-    "FourFourTwo",
-    "Google News EN",
-    "Guardian",
-    "L'Equipe",
-    "Mundo Deportivo"
-   ],
-   "primera_vez": "2026-10-11T16:00+00:00",
-   "titulares": [
-    {
-     "medio": "Guardian",
-     "titulo": "Pino finishes off Nottingham Forest on Glasner’s unhappy Crystal Palace return",
-     "url": "https://www.theguardian.com/football/2026/oct/11/crystal-palace-nottingham-forest-premier-league-match-report",
-     "pub": "2026-10-11T15:28+00:00"
-    },
-    {
-     "medio": "Daily Mail",
-     "titulo": "Crystal Palace 3-1 Nottingham Forest: Oliver Glasner brutally mocked on nightmare return with Pierre Sage's side gifted first win of the season as £50m man Liam Delap lacks clinical touch",
-     "url": "https://www.dailymail.com/sport/football/article-16195581/crystal-palace-nottingham-forest-glasner-selhurst.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-     "pub": "2026-10-11T15:52+00:00"
-    },
-    {
-     "medio": "FourFourTwo",
-     "titulo": "How to watch Crystal Palace vs Nottingham Forest for FREE",
-     "url": "https://www.fourfourtwo.com/competition/watch-crystal-palace-vs-nottingham-forest-free",
-     "pub": "2026-10-11T10:00+00:00"
-    },
-    {
-     "medio": "Google News EN",
-     "titulo": "Premier League - Crystal Palace 3-1 Nottingham Forest - Oliver Glasner post match interview",
-     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE0tNFpwRzYtTWdXNTJmYVNZTFdNOEJSZnVCRDZqeG1Va2gtY1ltR3gzbElGTW4xbzVZbTRfczl4N2pJTHhtemFYZVlQT3lQdFdPay0wS0NKd29mc3BLSmlDdWdjaWRuRXB4?oc=5",
-     "pub": "2026-10-11T15:54+00:00"
-    },
-    {
-     "medio": "Mundo Deportivo",
-     "titulo": "Crystal Palace - Nottingham Forest, en directo | Premier League",
-     "url": "https://www.mundodeportivo.com/futbol/premier-league/20261011/1004235391/crystal-palace-nottingham-forest-directo-premier-league.html",
-     "pub": ""
-    },
-    {
-     "medio": "L'Equipe",
-     "titulo": "L'incroyable parade du gardien Walter Benitez contre Nottingham Forest en Premier League",
-     "url": "https://www.lequipe.fr/Football/Actualites/L-incroyable-parade-du-gardien-walter-benitez-contre-nottingham-forest-en-premier-league/1724953#at_medium=RSS_feeds",
-     "pub": "2026-10-11T14:24+00:00"
-    },
-    {
-     "medio": "L'Equipe",
-     "titulo": "Mené au score face à Nottingham Forest, Crystal Palace s'en sort bien et offre un répit à Pierre Sage",
-     "url": "https://www.lequipe.fr/Football/Actualites/Mene-au-score-face-a-nottingham-forest-crystal-palace-s-en-sort-bien-et-offre-un-repit-a-pierre-sage/1724985#at_medium=RSS_feeds",
-     "pub": "2026-10-11T15:34+00:00"
-    },
-    {
-     "medio": "Google News EN",
-     "titulo": "Crystal Palace 3-1 Nottingham Forest | Premier League highlights",
-     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPME5kcGd5RjJ1VWYwdDRlU0twc3Q5eWpjNHMxbkhlYVJNRkNDVlROYmRSaW4wS2ZNZGg5YUpBalVWQTNpOFBsby1aWmEwa08zNnV0NlBqZy1WaGJ1UXRyNnI4aVJIZHlwYnFfdENGNnh4TDJ1VU10LUY1NFpHM2VPV1dXQmFodElTOFdUYy1uZHNTY2V5eHhwQ0tBNzBVZHZKMHB5RW8wU1Ftb3VESmFsOHNR?oc=5",
-     "pub": "2026-10-11T15:15+00:00"
-    },
-    {
-     "medio": "Google News EN",
-     "titulo": "Premier League: Crystal Palace 3-1 Nottingham Forest - Pierre Sage post-match interview",
-     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9SX2tSeDRZbGZVaTNCRUVLc3c2Q3M2c1A2a3E1T0J0ZnRYaFIwNDFna1lRZ250VjVYU2xxbzlDSnJIXzlkeGEyUWFqdElDT09iR290ZTd0NzZ0OTYzN2hPdGV6R0pkaHM3?oc=5",
-     "pub": "2026-10-11T16:05+00:00"
-    },
-    {
-     "medio": "Google News EN",
-     "titulo": "Crystal Palace 3-1 Nottingham Forest: Oliver Glasner's Selhurst Park return ends in defeat as Eagles complete remarkable comeback",
-     "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPUVlKWHhYeWU2eTVPa09za2R5RUpib0IyWW9kWnhuV1Y5SVR4aGpZdVJabVM0WUp3OUo3bTZyVmZnYnZjbUdTZWM0S3F5dWdaVlRjM2lxOEM2YkhHR0RSZzgzV1hiaXlSYjlvdTlvTnJ6ajFGeDNvWWZMMlY1X3JFaE1ma0lVMzZQWVhiYVVOQXViNnI1ODVNZXBsT2s2N2puRVcyN1RjaVFiQ0doTy1rcnpSNjRqcUl5bGs3Ny1rLUFNcFB0anVOVmI4cVEwTlRNZWZ6Y3JmVEFMZUFPYS0xWFdpcV8zaVF2Q19nc2hDLXl5QnFqQUVMVk5yUXJBUjVpU2JQUWNtTQ?oc=5",
-     "pub": "2026-10-11T15:23+00:00"
-    },
-    {
-     "medio": "Google News EN",
-     "titulo": "Premier League: Crystal Palace 3-1 Nottingham Forest - Adam Wharton post match interview",
-     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5kNUN2QV8xbmlHUDBicEVnNGtaanNHRllWbklxQW9BOVFqcVRnNGRNeHFvMnNtaUdCMU1hVXVyTWZqNEhKNUtYRThvVEs4WnhpeTVYck1ReU9yT29ndEw1V0ZIM0owNlVH?oc=5",
-     "pub": "2026-10-11T16:46+00:00"
+     "titulo": "Andoni Iraola masterminding move for €500m Spain midfielder",
+     "url": "https://sports.yahoo.com/articles/andoni-iraola-masterminding-move-500m-211000031.html",
+     "pub": "2026-10-11T21:10+00:00"
     }
    ]
   }
