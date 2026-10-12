@@ -1,22 +1,21 @@
-# Tendencias de fútbol (2026-10-12 14:53 UTC, Google Trends)
+# Tendencias de fútbol (2026-10-12 15:51 UTC, Google Trends)
 
 Generado por el workflow `tendencias`. Úsalo para elegir temas de memes, curiosos y jugador vs jugador.
 
 | País | Búsqueda | Tráfico | Titular |
 |---|---|---|---|
-| UK | premier league manchester city case appeal | 1000+ | Premier League returns in shadow of Manchester City’s judgment day | Jonathan Wilson |
-| Spain | levante unión deportiva | 1000+ | LA PREVIA DEL LEVANTE UD VS SEVILLA FC DE LALIGA 26/27 |
-| Spain | toros hoy | 1000+ | Corrida de la Hispanidad: Morante de la Puebla, Héctor Gutiérrez y Aarón Palacio |
-| Spain | thibaut courtois | 200+ | Thibaut Courtois set to extend Real Madrid contract through to 2028 |
-| Spain | burgos - granada | 5000+ | Burgos - Granada, en directo: LaLiga Hypermotion hoy en vivo |
-| Italy | garbatella | 500+ | Rapina alle poste alla Garbatella: spuntano dal buco nel muro con le maschere di Halloween, via con  |
-| Germany | paok – fc kalamata | 200+ | PAOK vs Kalamata: Greek Super League stats & head-to-head |
-| Germany | mario basler | 200+ | Basler mit Knallhart-Prognose zu Karls Zukunft bei Bayern |
-| France | quotidienne star academy | 500+ | Star Academy 2026 : la fille d’un célèbre commentateur de football au casting, sa prestation déclenc |
-| Argentina | selección de fútbol de nueva zelanda | 200+ | Nació en Nueva Zelanda, llegó a Argentina sin hablar español, eligió Vélez por sobre River y Boca y  |
-| Brazil | liga dos campeões da afc | 100+ | Como comprar ingressos para Al Nassr FC x Neftchi Fargona: preços da Liga dos Campeões da AFC Elite, |
-| Portugal | nos | 200+ | Haaland compra casa aos patrões num megaprojeto nos Emirados |
-| Portugal | madeira | 500+ | FC Porto: mais um feito de Farioli no campeonato |
-| Portugal | al-nassr football club | 2000+ | Al Hilal escaped it: the AFC puts Al Nassr, Al Ahli and Al Ittihad in real trouble |
-| Mexico | al qadisiya | 200+ | Partidos de hoy lunes 12 de octubre: CR7 y mexicanos en el extranjero |
-| Mexico | newcastle vs | 100+ | Two dilemmas for Matthias Jaissle as Newcastle head to Coventry |
+| UK | gary neville | 500+ | Manchester City: Gary Neville and Jamie Carragher warn of Premier League 'stain' if resolution on fi |
+| UK | doug loft | 2000+ | Former Gillingham captain Doug Loft dies aged 39 |
+| UK | river wear | 1000+ | River car teens most likely drowned, inquest hears |
+| Spain | real oviedo - eibar | 1000+ | Oviedo-Eibar: Los veteranos marcan el duelo del Tartiere |
+| Spain | cultural leonesa | 200+ | Sigue en directo el partido Cultural Leonesa-Arenas Club |
+| Spain | levante unión deportiva | 1000+ | Levante - Sevilla FC, en directo: última hora del partido de LaLiga EA Sports hoy en vivo |
+| Italy | atalanta venezia formazioni | 500+ | Le partite di oggi: Atalanta-Venezia e Torino-Udinese. In campo anche Premier e Liga |
+| France | jean-louis borloo | 10000+ | Présidentielle 2027 : Jean-Louis Borloo propose de rapprocher Gabriel Attal et Édouard Philippe |
+| USA | ucl | 500+ | Champions League predicted line-ups: Matchday 2 team news, injuries, suspensions |
+| Brazil | al wasl x al-ahli saudi | 1000+ | Como comprar ingressos para Al-Wasl x Al Ahli: preços, informações sobre o jogo da Liga dos Campeões |
+| Portugal | mls | 100+ | MLS: ex-Benfica Petar Musa fixa novo recorde de golos pelo FC Dallas |
+| Mexico | telemadrid | 200+ | Corrida de la Hispanidad: Morante de la Puebla, Héctor Gutiérrez y Aarón Palacio |
+| Mexico | newcastle | 200+ | Two dilemmas for Matthias Jaissle as Newcastle head to Coventry |
+| Mexico | joan gaspart | 100+ | La fuerte recriminación a Messi de un expresidente de Barcelona por su regreso |
+| Mexico | torino vs | 100+ | Torino vs Udinese - Where to Watch, Stream Info, TV Channel, and Live Updates (October 12, 2026) |
