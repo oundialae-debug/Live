@@ -1,5 +1,5 @@
 {
- "red": "instagram",
+ "red": "tiktok",
  "hora": "2026-10-12T15:45:00+02:00",
  "tipo": "previo",
  "partido": "Torino vs Udinese",
@@ -8,5 +8,8 @@
  "video": "https://raw.githubusercontent.com/oundialae-debug/live/main/videos/pre_20261012_tor_udi.mp4",
  "variante": "primera=goals;seg=2.3;arranque=s1;hook=pregunta;ante=5;formato=video;musica=boom",
  "notas": "modelo poisson propio (datos_clubes.py pre); marco comprobado",
- "recordatorio": false
+ "recordatorio": false,
+ "estado": "enviado",
+ "buffer_id": "6acce5d516ed22750bc76893",
+ "dueAt": "2026-10-12T13:54:16+00:00"
 }
