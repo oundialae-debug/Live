@@ -1,0 +1,5 @@
+{"web": [
+ {"noticia": "Isco", "buscar": "Isco Alarcon Real Betis doblete Osasuna celebration", "slug": "isco_doblete", "n": 8, "dias": 3, "debe": ["isco"]},
+ {"noticia": "Betis", "buscar": "Isco Betis La Cartuja Osasuna gol", "slug": "betis_isco2", "n": 8, "dias": 3, "debe": ["isco","betis"]},
+ {"noticia": "Glasner", "buscar": "Oliver Glasner Nottingham Forest manager Selhurst Park Palace 2026", "slug": "glasner_forest", "n": 8, "dias": 5, "debe": ["glasner"]}
+]}
