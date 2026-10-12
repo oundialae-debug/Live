@@ -1,5 +1,5 @@
 {
- "generado": "2026-10-12T09:52+00:00",
+ "generado": "2026-10-12T10:50+00:00",
  "temas": [
   {
    "tema": "Liverpool",
@@ -105,7 +105,7 @@
   },
   {
    "tema": "Manchester",
-   "medios": 17,
+   "medios": 18,
    "lista_medios": [
     "AS",
     "BBC",
@@ -121,6 +121,7 @@
     "Mundo Deportivo",
     "Ole",
     "Planet Football",
+    "Record",
     "Yahoo",
     "ge.globo",
     "talkSPORT"
@@ -203,7 +204,7 @@
   },
   {
    "tema": "Palace",
-   "medios": 12,
+   "medios": 13,
    "lista_medios": [
     "BBC",
     "Daily Mail",
@@ -214,6 +215,7 @@
     "L'Equipe",
     "Mundo Deportivo",
     "Ole",
+    "Planet Football",
     "Sky Sports",
     "Yahoo",
     "talkSPORT"
@@ -388,18 +390,18 @@
    ]
   },
   {
-   "tema": "Corinthians",
+   "tema": "Madrid",
    "medios": 12,
    "lista_medios": [
     "AS",
-    "BBC",
+    "Daily Mail",
     "Foot Mercato",
-    "Google News AR",
     "Google News EN",
+    "Google News ES",
     "Infobae",
     "Kicker",
     "L'Equipe",
-    "Ole",
+    "Mundo Deportivo",
     "Record",
     "Yahoo",
     "ge.globo"
@@ -408,75 +410,75 @@
    "titulares": [
     {
      "medio": "Yahoo",
-     "titulo": "Corinthians signing Seedorf shocks social media; see the reactions 🤣",
-     "url": "https://sports.yahoo.com/articles/corinthians-signing-seedorf-shocks-social-143300478.html",
-     "pub": "2026-10-11T14:33+00:00"
+     "titulo": "Real Madrid midfielder attracted strong summer interest from multiple Premier League clubs &#8211; Romano",
+     "url": "https://sports.yahoo.com/articles/real-madrid-midfielder-attracted-strong-151200686.html",
+     "pub": "2026-10-11T15:12+00:00"
     },
     {
      "medio": "AS",
-     "titulo": "Oficial: Seedorf, a Corinthians",
-     "url": "https://as.com/futbol/internacional/oficial-seedorf-a-corinthians-f202610-n/",
-     "pub": "2026-10-11T14:33+00:00"
+     "titulo": "Aviso de la Roma al Madrid",
+     "url": "https://as.com/futbol/internacional/indestructible-roma-f202610-n/",
+     "pub": "2026-10-11T12:42+00:00"
+    },
+    {
+     "medio": "AS",
+     "titulo": "Real Madrid 1-0 Villarreal: resumen, gol y resultado",
+     "url": "https://as.com/futbol/primera/real-madrid-villarreal-hoy-en-directo-ultima-hora-de-la-laliga-ea-sports-en-el-santiago-bernabeu-en-vivo-f202610-d-2/",
+     "pub": "2026-10-11T08:07+00:00"
+    },
+    {
+     "medio": "Mundo Deportivo",
+     "titulo": "Real Madrid TV aumenta sus críticas a los árbitros",
+     "url": "https://www.mundodeportivo.com/futbol/real-madrid/20261011/1004237395/real-madrid-tv-aumenta-criticas-arbitros.html",
+     "pub": ""
+    },
+    {
+     "medio": "Mundo Deportivo",
+     "titulo": "Real Madrid - Villarreal: las fotos del duelo en el Bernabéu",
+     "url": "https://www.mundodeportivo.com/futbol/laliga/20261011/1004237397/real-madrid-villarreal-fotos-duelo-bernabeu.html",
+     "pub": ""
+    },
+    {
+     "medio": "Mundo Deportivo",
+     "titulo": "El Real Madrid ganó al Villarreal entre quejas arbitrales y poco fútbol",
+     "url": "https://www.mundodeportivo.com/futbol/real-madrid/20261011/1004237360/real-madrid-gano-villarreal-quejas-arbitrales-poco-futbol.html",
+     "pub": ""
+    },
+    {
+     "medio": "Google News ES",
+     "titulo": "El Real Madrid, muchas urgencias y poco fútbol",
+     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOVW90VHNic2pjaV9ERWhrMk0ySW52clhoN3ppOVlJSHFVNVNrb1ZoN210VlZxX0NJeEFWWDY5T2UwVGFtWmRnMjhfVjM2WFpIMDlGR3BISGYxdC1SS3NZdXZGNFJBRzFjRlpwczNJLXpJLTVwd0J1WlZiSmdJa2pDTFdKSThFN2xLQWtvVWRZTjdDWlEzRUxrY0wwbkljbHlKQ1llZFFtcWlHMHlMek52WFRZOGN2Z9IBwwFBVV95cUxNN254VFlZRkpvNUJ4TWhVS25SNVpJSlNpVGRVQWZHak1sbnVkNjFya0hDOG9FMmJKWE1tQVZ3cE1GWHBCeXBCWXVsaFpoZEY1SDlUbXV4SWhmUTV2MFRIdEhod1Uyc1NKTEhVQmc5NS1tNWczSmtBWDdOSC1abWhQVkpLRV9meTlQM0ZFaVUxUm9rOUtDYzVVS2VuZk40UldJVUxnTGpfY0IzR0JBc0ZJZUlQLXBSXzF3eDR0aUVkTnZTT28?oc=5",
+     "pub": "2026-10-11T10:52+00:00"
     },
     {
      "medio": "Foot Mercato",
-     "titulo": "Clarence Seedorf nouvel entraîneur des Corinthians",
-     "url": "https://www.footmercato.net/a7448500962750134282-clarence-seedorf-nouvel-entraineur-des-corinthians",
-     "pub": "2026-10-11T14:36+00:00"
-    },
-    {
-     "medio": "Record",
-     "titulo": "<![CDATA[ Seedorf é o eleito do Corinthians para tentar fugir da descida ]]>",
-     "url": "https://www.record.pt/internacional/paises/brasil/detalhe/seedorf-e-o-eleito-do-corinthians-para-tentar-fugir-da-descida",
-     "pub": "2026-10-11T15:32+00:00"
-    },
-    {
-     "medio": "Ole",
-     "titulo": "Corinthians presentó a un técnico europeo para salvarse del descenso",
-     "url": "https://www.ole.com.ar/futbol-internacional/america/corinthians-presento-nuevo-tecnico-europeo-clarence-seedorf-brasil_0_vPehzmpgIC.html",
-     "pub": "2026-10-11T15:47+00:00"
+     "titulo": "Real Madrid : l’entourage de Vinicius Jr réagit à son expulsion polémique",
+     "url": "https://www.footmercato.net/a3971435971801351262-real-madrid-lentourage-de-vinicius-jr-reagit-a-son-expulsion-polemique",
+     "pub": "2026-10-11T10:05+00:00"
     },
     {
      "medio": "ge.globo",
-     "titulo": "Contrato de Seedorf com o Corinthians prevê rescisão em caso de rebaixamento à Série B",
-     "url": "https://ge.globo.com/futebol/times/corinthians/noticia/2026/10/11/contrato-de-seedorf-com-o-corinthians-preve-rescisao-em-caso-de-rebaixamento-a-serie-b.ghtml",
-     "pub": "2026-10-11T15:37+00:00"
+     "titulo": "Vini Jr. deve ficar fora de Barcelona x Real Madrid após expulsão por puxão de cabelo",
+     "url": "https://ge.globo.com/futebol/futebol-internacional/noticia/2026/10/11/vini-jr-deve-ficar-fora-de-barcelona-x-real-madrid-apos-expulsao-por-puxao-de-cabelo.ghtml",
+     "pub": "2026-10-11T14:04+00:00"
     },
     {
      "medio": "ge.globo",
-     "titulo": "Empresários detalham indicação de Seedorf a Marcelo Paz e explicam acerto com o Corinthians",
-     "url": "https://ge.globo.com/futebol/times/corinthians/noticia/2026/10/11/empresarios-detalham-indicacao-de-seedorf-a-marcelo-paz-e-explicam-acerto-com-o-corinthians.ghtml",
-     "pub": "2026-10-11T14:49+00:00"
+     "titulo": "TV do Real Madrid sobe tom após expulsão de Vini Jr. e nove cartões: \"Se Yamal faz isso, o gol não volta\"",
+     "url": "https://ge.globo.com/futebol/futebol-internacional/noticia/2026/10/11/real-madrid-sobe-tom-apos-expulsao-de-vini-jr-e-nove-cartoes-se-yamal-faz-isso-o-gol-nao-volta.ghtml",
+     "pub": "2026-10-11T11:11+00:00"
     },
     {
      "medio": "ge.globo",
-     "titulo": "Corinthians contrata Seedorf como novo técnico",
-     "url": "https://ge.globo.com/futebol/times/corinthians/noticia/2026/10/11/corinthians-contrata-seedorf-como-novo-tecnico.ghtml",
-     "pub": "2026-10-11T14:05+00:00"
+     "titulo": "Real Madrid sofre, mas vence Villarreal em jogo com gol anulado e expulsão de Vini Jr.",
+     "url": "https://ge.globo.com/futebol/futebol-internacional/futebol-espanhol/jogo/10-10-2026/realmadrid-Villarreal.ghtml",
+     "pub": "2026-10-11T00:34+00:00"
     },
     {
-     "medio": "ge.globo",
-     "titulo": "Palmeiras vai encarar 11º técnico do Corinthians na era Abel Ferreira; veja os números",
-     "url": "https://ge.globo.com/futebol/times/palmeiras/noticia/2026/10/11/palmeiras-vai-encarar-11o-tecnico-do-corinthians-na-era-abel-ferreira-veja-os-numeros.ghtml",
-     "pub": "2026-10-11T11:00+00:00"
-    },
-    {
-     "medio": "ge.globo",
-     "titulo": "Corinthians chega ao Dérbi com dificuldades para avançar por técnico e sem alvo definido",
-     "url": "https://ge.globo.com/futebol/times/corinthians/noticia/2026/10/11/corinthians-chega-ao-derbi-com-dificuldades-para-avancar-por-tecnico-e-sem-alvo-definido.ghtml",
-     "pub": "2026-10-11T11:00+00:00"
-    },
-    {
-     "medio": "ge.globo",
-     "titulo": "Palmeiras x Corinthians: onde assistir ao vivo, horário e escalações",
-     "url": "https://ge.globo.com/sp/futebol/brasileirao-serie-a/noticia/2026/10/11/palmeiras-x-corinthians-onde-assistir-ao-vivo-horario-e-escalacoes.ghtml",
-     "pub": "2026-10-11T07:00+00:00"
-    },
-    {
-     "medio": "L'Equipe",
-     "titulo": "Clarence Seedorf devient l'entraîneur du Corinthians et s'engage jusqu'à fin 2027 avec le club brésilien",
-     "url": "https://www.lequipe.fr/Football/Actualites/Clarence-seedorf-devient-l-entraineur-du-corinthians-et-s-engage-jusqu-a-fin-2027-avec-le-club-bresilien/1724987#at_medium=RSS_feeds",
-     "pub": "2026-10-11T15:45+00:00"
+     "medio": "Mundo Deportivo",
+     "titulo": "El Real Madrid recurrirá la amarilla que vio Konaté ante el Villarreal",
+     "url": "https://www.mundodeportivo.com/futbol/real-madrid/20261011/1004237403/real-madrid-recurrira-amarilla-vio-konate-villarreal.html",
+     "pub": ""
     }
    ]
   },
@@ -574,6 +576,99 @@
    ]
   },
   {
+   "tema": "Corinthians",
+   "medios": 12,
+   "lista_medios": [
+    "AS",
+    "BBC",
+    "Foot Mercato",
+    "Google News AR",
+    "Google News EN",
+    "Infobae",
+    "Kicker",
+    "L'Equipe",
+    "Ole",
+    "Record",
+    "Yahoo",
+    "ge.globo"
+   ],
+   "primera_vez": "2026-10-11T16:00+00:00",
+   "titulares": [
+    {
+     "medio": "Yahoo",
+     "titulo": "Corinthians signing Seedorf shocks social media; see the reactions 🤣",
+     "url": "https://sports.yahoo.com/articles/corinthians-signing-seedorf-shocks-social-143300478.html",
+     "pub": "2026-10-11T14:33+00:00"
+    },
+    {
+     "medio": "AS",
+     "titulo": "Oficial: Seedorf, a Corinthians",
+     "url": "https://as.com/futbol/internacional/oficial-seedorf-a-corinthians-f202610-n/",
+     "pub": "2026-10-11T14:33+00:00"
+    },
+    {
+     "medio": "Foot Mercato",
+     "titulo": "Clarence Seedorf nouvel entraîneur des Corinthians",
+     "url": "https://www.footmercato.net/a7448500962750134282-clarence-seedorf-nouvel-entraineur-des-corinthians",
+     "pub": "2026-10-11T14:36+00:00"
+    },
+    {
+     "medio": "Record",
+     "titulo": "<![CDATA[ Seedorf é o eleito do Corinthians para tentar fugir da descida ]]>",
+     "url": "https://www.record.pt/internacional/paises/brasil/detalhe/seedorf-e-o-eleito-do-corinthians-para-tentar-fugir-da-descida",
+     "pub": "2026-10-11T15:32+00:00"
+    },
+    {
+     "medio": "Ole",
+     "titulo": "Corinthians presentó a un técnico europeo para salvarse del descenso",
+     "url": "https://www.ole.com.ar/futbol-internacional/america/corinthians-presento-nuevo-tecnico-europeo-clarence-seedorf-brasil_0_vPehzmpgIC.html",
+     "pub": "2026-10-11T15:47+00:00"
+    },
+    {
+     "medio": "ge.globo",
+     "titulo": "Contrato de Seedorf com o Corinthians prevê rescisão em caso de rebaixamento à Série B",
+     "url": "https://ge.globo.com/futebol/times/corinthians/noticia/2026/10/11/contrato-de-seedorf-com-o-corinthians-preve-rescisao-em-caso-de-rebaixamento-a-serie-b.ghtml",
+     "pub": "2026-10-11T15:37+00:00"
+    },
+    {
+     "medio": "ge.globo",
+     "titulo": "Empresários detalham indicação de Seedorf a Marcelo Paz e explicam acerto com o Corinthians",
+     "url": "https://ge.globo.com/futebol/times/corinthians/noticia/2026/10/11/empresarios-detalham-indicacao-de-seedorf-a-marcelo-paz-e-explicam-acerto-com-o-corinthians.ghtml",
+     "pub": "2026-10-11T14:49+00:00"
+    },
+    {
+     "medio": "ge.globo",
+     "titulo": "Corinthians contrata Seedorf como novo técnico",
+     "url": "https://ge.globo.com/futebol/times/corinthians/noticia/2026/10/11/corinthians-contrata-seedorf-como-novo-tecnico.ghtml",
+     "pub": "2026-10-11T14:05+00:00"
+    },
+    {
+     "medio": "ge.globo",
+     "titulo": "Palmeiras vai encarar 11º técnico do Corinthians na era Abel Ferreira; veja os números",
+     "url": "https://ge.globo.com/futebol/times/palmeiras/noticia/2026/10/11/palmeiras-vai-encarar-11o-tecnico-do-corinthians-na-era-abel-ferreira-veja-os-numeros.ghtml",
+     "pub": "2026-10-11T11:00+00:00"
+    },
+    {
+     "medio": "ge.globo",
+     "titulo": "Corinthians chega ao Dérbi com dificuldades para avançar por técnico e sem alvo definido",
+     "url": "https://ge.globo.com/futebol/times/corinthians/noticia/2026/10/11/corinthians-chega-ao-derbi-com-dificuldades-para-avancar-por-tecnico-e-sem-alvo-definido.ghtml",
+     "pub": "2026-10-11T11:00+00:00"
+    },
+    {
+     "medio": "ge.globo",
+     "titulo": "Palmeiras x Corinthians: onde assistir ao vivo, horário e escalações",
+     "url": "https://ge.globo.com/sp/futebol/brasileirao-serie-a/noticia/2026/10/11/palmeiras-x-corinthians-onde-assistir-ao-vivo-horario-e-escalacoes.ghtml",
+     "pub": "2026-10-11T07:00+00:00"
+    },
+    {
+     "medio": "L'Equipe",
+     "titulo": "Clarence Seedorf devient l'entraîneur du Corinthians et s'engage jusqu'à fin 2027 avec le club brésilien",
+     "url": "https://www.lequipe.fr/Football/Actualites/Clarence-seedorf-devient-l-entraineur-du-corinthians-et-s-engage-jusqu-a-fin-2027-avec-le-club-bresilien/1724987#at_medium=RSS_feeds",
+     "pub": "2026-10-11T15:45+00:00"
+    }
+   ]
+  },
+  {
    "tema": "Man",
    "medios": 11,
    "lista_medios": [
@@ -635,12 +730,6 @@
     },
     {
      "medio": "Daily Mail",
-     "titulo": "'Worried' Gary Neville tells struggling Man United stars to 'get a grip' after Spurs draw ahead of tough run - as he warns midfield duo CAN'T play together and calls out lack of fight in Michael Carrick's men",
-     "url": "https://www.dailymail.com/sport/football/article-16199259/Gary-Neville-struggling-Man-United.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-     "pub": "2026-10-10T22:11+00:00"
-    },
-    {
-     "medio": "Daily Mail",
      "titulo": "Man City give Liverpool fans the slip: Enzo Maresca's side dodge baying home fans en route to Anfield before being taunted by banners and facing hostile reception after guilty verdict",
      "url": "https://www.dailymail.com/sport/football/article-16200431/Man-City-Liverpool-fans-slip-Enzo-Marescas-dodge-baying-home-fans-en-route-Anfield-Premier-League-leaders-braced-hostile-reception-guilty-verdict.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
      "pub": "2026-10-11T15:50+00:00"
@@ -662,104 +751,18 @@
      "titulo": "Liverpool vs Man City LIVE: Tempers high as hostile Anfield taunts City players after 115 charges verdict",
      "url": "https://www.mirror.co.uk/sport/football/news/liverpool-man-city-live-score-37759400",
      "pub": "2026-10-11T15:56+00:00"
-    }
-   ]
-  },
-  {
-   "tema": "Madrid",
-   "medios": 11,
-   "lista_medios": [
-    "AS",
-    "Foot Mercato",
-    "Google News EN",
-    "Google News ES",
-    "Infobae",
-    "Kicker",
-    "L'Equipe",
-    "Mundo Deportivo",
-    "Record",
-    "Yahoo",
-    "ge.globo"
-   ],
-   "primera_vez": "2026-10-11T16:00+00:00",
-   "titulares": [
-    {
-     "medio": "Yahoo",
-     "titulo": "Real Madrid midfielder attracted strong summer interest from multiple Premier League clubs &#8211; Romano",
-     "url": "https://sports.yahoo.com/articles/real-madrid-midfielder-attracted-strong-151200686.html",
-     "pub": "2026-10-11T15:12+00:00"
     },
     {
-     "medio": "AS",
-     "titulo": "Aviso de la Roma al Madrid",
-     "url": "https://as.com/futbol/internacional/indestructible-roma-f202610-n/",
-     "pub": "2026-10-11T12:42+00:00"
-    },
-    {
-     "medio": "AS",
-     "titulo": "Real Madrid 1-0 Villarreal: resumen, gol y resultado",
-     "url": "https://as.com/futbol/primera/real-madrid-villarreal-hoy-en-directo-ultima-hora-de-la-laliga-ea-sports-en-el-santiago-bernabeu-en-vivo-f202610-d-2/",
-     "pub": "2026-10-11T08:07+00:00"
-    },
-    {
-     "medio": "Mundo Deportivo",
-     "titulo": "Real Madrid TV aumenta sus críticas a los árbitros",
-     "url": "https://www.mundodeportivo.com/futbol/real-madrid/20261011/1004237395/real-madrid-tv-aumenta-criticas-arbitros.html",
-     "pub": ""
-    },
-    {
-     "medio": "Mundo Deportivo",
-     "titulo": "Real Madrid - Villarreal: las fotos del duelo en el Bernabéu",
-     "url": "https://www.mundodeportivo.com/futbol/laliga/20261011/1004237397/real-madrid-villarreal-fotos-duelo-bernabeu.html",
-     "pub": ""
-    },
-    {
-     "medio": "Mundo Deportivo",
-     "titulo": "El Real Madrid ganó al Villarreal entre quejas arbitrales y poco fútbol",
-     "url": "https://www.mundodeportivo.com/futbol/real-madrid/20261011/1004237360/real-madrid-gano-villarreal-quejas-arbitrales-poco-futbol.html",
-     "pub": ""
-    },
-    {
-     "medio": "Google News ES",
-     "titulo": "El Real Madrid, muchas urgencias y poco fútbol",
-     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOVW90VHNic2pjaV9ERWhrMk0ySW52clhoN3ppOVlJSHFVNVNrb1ZoN210VlZxX0NJeEFWWDY5T2UwVGFtWmRnMjhfVjM2WFpIMDlGR3BISGYxdC1SS3NZdXZGNFJBRzFjRlpwczNJLXpJLTVwd0J1WlZiSmdJa2pDTFdKSThFN2xLQWtvVWRZTjdDWlEzRUxrY0wwbkljbHlKQ1llZFFtcWlHMHlMek52WFRZOGN2Z9IBwwFBVV95cUxNN254VFlZRkpvNUJ4TWhVS25SNVpJSlNpVGRVQWZHak1sbnVkNjFya0hDOG9FMmJKWE1tQVZ3cE1GWHBCeXBCWXVsaFpoZEY1SDlUbXV4SWhmUTV2MFRIdEhod1Uyc1NKTEhVQmc5NS1tNWczSmtBWDdOSC1abWhQVkpLRV9meTlQM0ZFaVUxUm9rOUtDYzVVS2VuZk40UldJVUxnTGpfY0IzR0JBc0ZJZUlQLXBSXzF3eDR0aUVkTnZTT28?oc=5",
-     "pub": "2026-10-11T10:52+00:00"
-    },
-    {
-     "medio": "Foot Mercato",
-     "titulo": "Real Madrid : l’entourage de Vinicius Jr réagit à son expulsion polémique",
-     "url": "https://www.footmercato.net/a3971435971801351262-real-madrid-lentourage-de-vinicius-jr-reagit-a-son-expulsion-polemique",
-     "pub": "2026-10-11T10:05+00:00"
-    },
-    {
-     "medio": "ge.globo",
-     "titulo": "Vini Jr. deve ficar fora de Barcelona x Real Madrid após expulsão por puxão de cabelo",
-     "url": "https://ge.globo.com/futebol/futebol-internacional/noticia/2026/10/11/vini-jr-deve-ficar-fora-de-barcelona-x-real-madrid-apos-expulsao-por-puxao-de-cabelo.ghtml",
-     "pub": "2026-10-11T14:04+00:00"
-    },
-    {
-     "medio": "ge.globo",
-     "titulo": "TV do Real Madrid sobe tom após expulsão de Vini Jr. e nove cartões: \"Se Yamal faz isso, o gol não volta\"",
-     "url": "https://ge.globo.com/futebol/futebol-internacional/noticia/2026/10/11/real-madrid-sobe-tom-apos-expulsao-de-vini-jr-e-nove-cartoes-se-yamal-faz-isso-o-gol-nao-volta.ghtml",
-     "pub": "2026-10-11T11:11+00:00"
-    },
-    {
-     "medio": "ge.globo",
-     "titulo": "Real Madrid sofre, mas vence Villarreal em jogo com gol anulado e expulsão de Vini Jr.",
-     "url": "https://ge.globo.com/futebol/futebol-internacional/futebol-espanhol/jogo/10-10-2026/realmadrid-Villarreal.ghtml",
-     "pub": "2026-10-11T00:34+00:00"
-    },
-    {
-     "medio": "Mundo Deportivo",
-     "titulo": "El Real Madrid recurrirá la amarilla que vio Konaté ante el Villarreal",
-     "url": "https://www.mundodeportivo.com/futbol/real-madrid/20261011/1004237403/real-madrid-recurrira-amarilla-vio-konate-villarreal.html",
-     "pub": ""
+     "medio": "Mirror",
+     "titulo": "Man City hit by wave of Anfield vitriol as Liverpool fans make feelings fiercely clear",
+     "url": "https://www.mirror.co.uk/sport/football/news/man-city-liverpool-fans-charges-37760428",
+     "pub": "2026-10-11T15:54+00:00"
     }
    ]
   },
   {
    "tema": "Crystal",
-   "medios": 10,
+   "medios": 11,
    "lista_medios": [
     "Daily Mail",
     "Foot Mercato",
@@ -769,6 +772,7 @@
     "L'Equipe",
     "Mundo Deportivo",
     "Ole",
+    "Planet Football",
     "Yahoo",
     "talkSPORT"
    ],
@@ -940,96 +944,6 @@
    ]
   },
   {
-   "tema": "Milan",
-   "medios": 9,
-   "lista_medios": [
-    "AS",
-    "BBC",
-    "Foot Mercato",
-    "Football Italia",
-    "Kicker",
-    "L'Equipe",
-    "Mundo Deportivo",
-    "Record",
-    "Yahoo"
-   ],
-   "primera_vez": "2026-10-11T16:00+00:00",
-   "titulares": [
-    {
-     "medio": "BBC",
-     "titulo": "AC Milan keen on Scott - Sunday's gossip",
-     "url": "https://www.bbc.co.uk/sport/football/articles/cmy0rp2r516po?at_medium=RSS&at_campaign=rss",
-     "pub": "2026-10-10T22:01+00:00"
-    },
-    {
-     "medio": "Yahoo",
-     "titulo": "Amorim: ‘Milan system doesn’t matter as much as being aggressive’",
-     "url": "https://sports.yahoo.com/articles/amorim-milan-system-doesn-t-154000703.html",
-     "pub": "2026-10-11T15:40+00:00"
-    },
-    {
-     "medio": "Yahoo",
-     "titulo": "🚨XI confirmed: Milan face a tough trip to Sassuolo",
-     "url": "https://sports.yahoo.com/articles/xi-confirmed-milan-face-tough-150800429.html",
-     "pub": "2026-10-11T15:08+00:00"
-    },
-    {
-     "medio": "Yahoo",
-     "titulo": "Serie A: Sassuolo vs. Milan – Confirmed line-ups",
-     "url": "https://sports.yahoo.com/articles/serie-sassuolo-vs-milan-confirmed-145500149.html",
-     "pub": "2026-10-11T14:55+00:00"
-    },
-    {
-     "medio": "Mundo Deportivo",
-     "titulo": "Sassuolo - AC Milan, en directo | Serie A",
-     "url": "https://www.mundodeportivo.com/futbol/serie-a/20261011/1004235605/sassuolo-ac-milan-directo-serie.html",
-     "pub": ""
-    },
-    {
-     "medio": "L'Equipe",
-     "titulo": "Toujours invaincue, la Lazio de Gennaro Gattuso rejoint l'Inter Milan en tête de la Serie A",
-     "url": "https://www.lequipe.fr/Football/Actualites/Toujours-invaincue-la-lazio-de-gennaro-gattuso-rejoint-l-inter-milan-en-tete-de-la-serie-a/1724978#at_medium=RSS_feeds",
-     "pub": "2026-10-11T15:18+00:00"
-    },
-    {
-     "medio": "Foot Mercato",
-     "titulo": "AC Milan : Medhi Benatia a déjà quatre gros concurrents !",
-     "url": "https://www.footmercato.net/a6606005491836601491-ac-milan-medhi-benatia-a-deja-quatre-gros-concurrents",
-     "pub": "2026-10-11T08:18+00:00"
-    },
-    {
-     "medio": "Yahoo",
-     "titulo": "Gattuso frustrated with Lazio despite 3-1 Monza win: ‘Like the second half against Milan’",
-     "url": "https://sports.yahoo.com/articles/gattuso-frustrated-lazio-despite-3-162000226.html",
-     "pub": "2026-10-11T16:20+00:00"
-    },
-    {
-     "medio": "AS",
-     "titulo": "Sassuolo - Milan, en directo: Serie A, hoy en vivo",
-     "url": "https://as.com/futbol/internacional/sassuolo-milan-en-directo-serie-a-hoy-en-vivo-f202610-n/",
-     "pub": "2026-10-11T15:52+00:00"
-    },
-    {
-     "medio": "Football Italia",
-     "titulo": "Milan forced into early change against Sassuolo as Gabbia stretchered off in tears",
-     "url": "https://football-italia.net/milan-forced-early-change-vs-sassuolo-gabbia/",
-     "pub": "2026-10-11T16:32+00:00"
-    },
-    {
-     "medio": "Kicker",
-     "titulo": "Sassuolo - Milan: Tor zum 1:1 durch Odenthal in der 68. Minute",
-     "url": "https://www.kicker.de/sassuolo-milan-tor-zum-1-1-durch-odenthal-in-der-68-minute-1260300/video#omrss",
-     "pub": "2026-10-11T17:38+00:00"
-    },
-    {
-     "medio": "Kicker",
-     "titulo": "Rabiot-Knaller aus spitzen Winkel: Milan führt mit 1:0",
-     "url": "https://www.kicker.de/rabiot-knaller-aus-spitzen-winkel-milan-fuehrt-mit-1-0-1260297/video#omrss",
-     "pub": "2026-10-11T17:33+00:00"
-    }
-   ]
-  },
-  {
    "tema": "Forest",
    "medios": 9,
    "lista_medios": [
@@ -1120,7 +1034,7 @@
    ]
   },
   {
-   "tema": "Hull",
+   "tema": "Everton",
    "medios": 9,
    "lista_medios": [
     "BBC",
@@ -1210,7 +1124,7 @@
    ]
   },
   {
-   "tema": "Everton",
+   "tema": "Hull",
    "medios": 9,
    "lista_medios": [
     "BBC",
@@ -1748,6 +1662,184 @@
    ]
   },
   {
+   "tema": "Enzo",
+   "medios": 8,
+   "lista_medios": [
+    "Daily Mail",
+    "FourFourTwo",
+    "Google News EN",
+    "Infobae",
+    "Mirror",
+    "Mundo Deportivo",
+    "Yahoo",
+    "ge.globo"
+   ],
+   "primera_vez": "2026-10-11T16:00+00:00",
+   "titulares": [
+    {
+     "medio": "Daily Mail",
+     "titulo": "Liverpool vs Manchester City - Premier League LIVE: Enzo Maresca's side BOOED by hostile Anfield crowd at kick-off in their first game since guilty verdict, before tension boils over on pitch",
+     "url": "https://www.dailymail.com/sport/football/article-16195521/Liverpool-vs-Manchester-City-Premier-League-LIVE-Follow-build-action-reaction-Anfield-visitors-play-match-guilty-verdict.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+     "pub": "2026-10-11T15:53+00:00"
+    },
+    {
+     "medio": "Daily Mail",
+     "titulo": "Man City give Liverpool fans the slip: Enzo Maresca's side dodge baying home fans en route to Anfield before being taunted by banners and facing hostile reception after guilty verdict",
+     "url": "https://www.dailymail.com/sport/football/article-16200431/Man-City-Liverpool-fans-slip-Enzo-Marescas-dodge-baying-home-fans-en-route-Anfield-Premier-League-leaders-braced-hostile-reception-guilty-verdict.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+     "pub": "2026-10-11T15:50+00:00"
+    },
+    {
+     "medio": "Daily Mail",
+     "titulo": "Inside Man City's dressing room after guilty verdict: We reveal Enzo Maresca's inspiring words which left squad 'ready to go to war' - plus the two most 'vocal and calming' stars",
+     "url": "https://www.dailymail.com/sport/football/article-16198631/Inside-Man-Citys-dressing-room-guilty-verdict-reveal-Enzo-Marescas-inspiring-words-left-squad-ready-war-plus-two-vocal-calming-stars.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+     "pub": "2026-10-11T14:53+00:00"
+    },
+    {
+     "medio": "Mirror",
+     "titulo": "Enzo Maresca's private message to Man City players leaked before Liverpool showdown",
+     "url": "https://www.mirror.co.uk/sport/football/news/enzo-maresca-message-man-city-37759831",
+     "pub": "2026-10-11T11:48+00:00"
+    },
+    {
+     "medio": "Yahoo",
+     "titulo": "Enzo Maresca, Man City player reaction to Liverpool match, reception at Anfield",
+     "url": "https://sports.yahoo.com/articles/enzo-maresca-man-city-player-172300565.html",
+     "pub": "2026-10-11T17:23+00:00"
+    },
+    {
+     "medio": "Yahoo",
+     "titulo": "Liverpool vs Manchester City player ratings: Enzo delivers for Enzo, Doku shines off the bench",
+     "url": "https://sports.yahoo.com/articles/liverpool-vs-manchester-city-player-174046475.html",
+     "pub": "2026-10-11T17:40+00:00"
+    },
+    {
+     "medio": "Google News EN",
+     "titulo": "Premier League: Liverpool 0-3 Manchester City - Enzo Maresca post match interview",
+     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1wWElXRjBUcnhVTW5sX1EzQ2EzelhNdXp6SXRkbW0zM0RKeUMwalBHTlJQV3dEajRwSG85ZXdsQk13elpyR0Jzcm4zZmllOHB5MTRKelpEOTVKQzh4OV9VWXQ5blY1TXpk?oc=5",
+     "pub": "2026-10-11T18:38+00:00"
+    },
+    {
+     "medio": "Yahoo",
+     "titulo": "‘Our noise is to win games’; Enzo Maresca challenges Man City to continue winning mentality",
+     "url": "https://sports.yahoo.com/articles/noise-win-games-enzo-maresca-184505124.html",
+     "pub": "2026-10-11T18:45+00:00"
+    },
+    {
+     "medio": "Mundo Deportivo",
+     "titulo": "Enzo Maresca: \"Tenemos que aprender a lidiar con el ruido\"",
+     "url": "https://www.mundodeportivo.com/futbol/premier-league/20261011/1004237558/enzo-maresca-aprender-lidiar-ruido.html",
+     "pub": ""
+    },
+    {
+     "medio": "Daily Mail",
+     "titulo": "Gary Neville claims the wait for sanctions against Man City is 'really bad for the Premier League' as Piers Morgan labels it a 'total farce' after Enzo Maresca's side extend lead at top",
+     "url": "https://www.dailymail.com/sport/football/article-16200833/Gary-Neville-sanctions-Man-City-bad-Premier-League-Piers-Morgan-farce-Enzo-Maresa-extend-lead-top.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+     "pub": "2026-10-11T20:39+00:00"
+    },
+    {
+     "medio": "Daily Mail",
+     "titulo": "Enzo Maresca insists he doesn't care how long Man City's appeal against guilty verdict takes as he shrugs off the 'noise' after thumping win at Liverpool",
+     "url": "https://www.dailymail.com/sport/football/article-16200897/Enzo-Maresca-insists-doesnt-care-long-Man-Citys-appeal-against-guilty-verdict-takes-shrugs-noise-thumping-win-Liverpool.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+     "pub": "2026-10-11T20:30+00:00"
+    },
+    {
+     "medio": "Infobae",
+     "titulo": "Las perlitas del triunfo del Manchester City ante el Liverpool: del chispazo entre Enzo Fernández y Mac Allister al golazo de Cherki",
+     "url": "https://www.infobae.com/deportes/2026/10/11/las-perlitas-del-triunfo-del-manchester-city-ante-el-liverpool-del-chispazo-entre-enzo-fernandez-y-mac-allister-al-golazo-de-cherki/",
+     "pub": "2026-10-11T19:46+00:00"
+    }
+   ]
+  },
+  {
+   "tema": "Milan",
+   "medios": 8,
+   "lista_medios": [
+    "AS",
+    "Foot Mercato",
+    "Football Italia",
+    "Kicker",
+    "L'Equipe",
+    "Mundo Deportivo",
+    "Record",
+    "Yahoo"
+   ],
+   "primera_vez": "2026-10-11T16:00+00:00",
+   "titulares": [
+    {
+     "medio": "Yahoo",
+     "titulo": "Amorim: ‘Milan system doesn’t matter as much as being aggressive’",
+     "url": "https://sports.yahoo.com/articles/amorim-milan-system-doesn-t-154000703.html",
+     "pub": "2026-10-11T15:40+00:00"
+    },
+    {
+     "medio": "Yahoo",
+     "titulo": "🚨XI confirmed: Milan face a tough trip to Sassuolo",
+     "url": "https://sports.yahoo.com/articles/xi-confirmed-milan-face-tough-150800429.html",
+     "pub": "2026-10-11T15:08+00:00"
+    },
+    {
+     "medio": "Yahoo",
+     "titulo": "Serie A: Sassuolo vs. Milan – Confirmed line-ups",
+     "url": "https://sports.yahoo.com/articles/serie-sassuolo-vs-milan-confirmed-145500149.html",
+     "pub": "2026-10-11T14:55+00:00"
+    },
+    {
+     "medio": "Mundo Deportivo",
+     "titulo": "Sassuolo - AC Milan, en directo | Serie A",
+     "url": "https://www.mundodeportivo.com/futbol/serie-a/20261011/1004235605/sassuolo-ac-milan-directo-serie.html",
+     "pub": ""
+    },
+    {
+     "medio": "L'Equipe",
+     "titulo": "Toujours invaincue, la Lazio de Gennaro Gattuso rejoint l'Inter Milan en tête de la Serie A",
+     "url": "https://www.lequipe.fr/Football/Actualites/Toujours-invaincue-la-lazio-de-gennaro-gattuso-rejoint-l-inter-milan-en-tete-de-la-serie-a/1724978#at_medium=RSS_feeds",
+     "pub": "2026-10-11T15:18+00:00"
+    },
+    {
+     "medio": "Foot Mercato",
+     "titulo": "AC Milan : Medhi Benatia a déjà quatre gros concurrents !",
+     "url": "https://www.footmercato.net/a6606005491836601491-ac-milan-medhi-benatia-a-deja-quatre-gros-concurrents",
+     "pub": "2026-10-11T08:18+00:00"
+    },
+    {
+     "medio": "Yahoo",
+     "titulo": "Gattuso frustrated with Lazio despite 3-1 Monza win: ‘Like the second half against Milan’",
+     "url": "https://sports.yahoo.com/articles/gattuso-frustrated-lazio-despite-3-162000226.html",
+     "pub": "2026-10-11T16:20+00:00"
+    },
+    {
+     "medio": "AS",
+     "titulo": "Sassuolo - Milan, en directo: Serie A, hoy en vivo",
+     "url": "https://as.com/futbol/internacional/sassuolo-milan-en-directo-serie-a-hoy-en-vivo-f202610-n/",
+     "pub": "2026-10-11T15:52+00:00"
+    },
+    {
+     "medio": "Football Italia",
+     "titulo": "Milan forced into early change against Sassuolo as Gabbia stretchered off in tears",
+     "url": "https://football-italia.net/milan-forced-early-change-vs-sassuolo-gabbia/",
+     "pub": "2026-10-11T16:32+00:00"
+    },
+    {
+     "medio": "Kicker",
+     "titulo": "Sassuolo - Milan: Tor zum 1:1 durch Odenthal in der 68. Minute",
+     "url": "https://www.kicker.de/sassuolo-milan-tor-zum-1-1-durch-odenthal-in-der-68-minute-1260300/video#omrss",
+     "pub": "2026-10-11T17:38+00:00"
+    },
+    {
+     "medio": "Kicker",
+     "titulo": "Rabiot-Knaller aus spitzen Winkel: Milan führt mit 1:0",
+     "url": "https://www.kicker.de/rabiot-knaller-aus-spitzen-winkel-milan-fuehrt-mit-1-0-1260297/video#omrss",
+     "pub": "2026-10-11T17:33+00:00"
+    },
+    {
+     "medio": "Yahoo",
+     "titulo": "Aquilani impressed with Sassuolo ‘maturity’ in Milan draw",
+     "url": "https://sports.yahoo.com/articles/aquilani-impressed-sassuolo-maturity-milan-183000559.html",
+     "pub": "2026-10-11T18:30+00:00"
+    }
+   ]
+  },
+  {
    "tema": "Betis",
    "medios": 8,
    "lista_medios": [
@@ -1926,6 +2018,83 @@
    ]
   },
   {
+   "tema": "Maresca",
+   "medios": 8,
+   "lista_medios": [
+    "BBC",
+    "Daily Mail",
+    "FourFourTwo",
+    "Google News EN",
+    "Guardian",
+    "Mundo Deportivo",
+    "Yahoo",
+    "ge.globo"
+   ],
+   "primera_vez": "2026-10-11T17:45+00:00",
+   "titulares": [
+    {
+     "medio": "Yahoo",
+     "titulo": "Enzo Maresca, Man City player reaction to Liverpool match, reception at Anfield",
+     "url": "https://sports.yahoo.com/articles/enzo-maresca-man-city-player-172300565.html",
+     "pub": "2026-10-11T17:23+00:00"
+    },
+    {
+     "medio": "BBC",
+     "titulo": "'We deal with the noise' - Maresca 'proud' after Man City win",
+     "url": "https://www.bbc.co.uk/sport/football/videos/cm62yzw2175yo?at_medium=RSS&at_campaign=rss",
+     "pub": "2026-10-11T18:38+00:00"
+    },
+    {
+     "medio": "Google News EN",
+     "titulo": "Premier League: Liverpool 0-3 Manchester City - Enzo Maresca post match interview",
+     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1wWElXRjBUcnhVTW5sX1EzQ2EzelhNdXp6SXRkbW0zM0RKeUMwalBHTlJQV3dEajRwSG85ZXdsQk13elpyR0Jzcm4zZmllOHB5MTRKelpEOTVKQzh4OV9VWXQ5blY1TXpk?oc=5",
+     "pub": "2026-10-11T18:38+00:00"
+    },
+    {
+     "medio": "Yahoo",
+     "titulo": "‘Our noise is to win games’; Enzo Maresca challenges Man City to continue winning mentality",
+     "url": "https://sports.yahoo.com/articles/noise-win-games-enzo-maresca-184505124.html",
+     "pub": "2026-10-11T18:45+00:00"
+    },
+    {
+     "medio": "Mundo Deportivo",
+     "titulo": "Enzo Maresca: \"Tenemos que aprender a lidiar con el ruido\"",
+     "url": "https://www.mundodeportivo.com/futbol/premier-league/20261011/1004237558/enzo-maresca-aprender-lidiar-ruido.html",
+     "pub": ""
+    },
+    {
+     "medio": "Guardian",
+     "titulo": "‘We make our own noise’: Maresca hails Manchester City after Liverpool triumph",
+     "url": "https://www.theguardian.com/football/2026/oct/11/enzo-maresca-manchester-city-liverpool-premier-league",
+     "pub": "2026-10-11T19:43+00:00"
+    },
+    {
+     "medio": "Daily Mail",
+     "titulo": "Enzo Maresca insists he doesn't care how long Man City's appeal against guilty verdict takes as he shrugs off the 'noise' after thumping win at Liverpool",
+     "url": "https://www.dailymail.com/sport/football/article-16200897/Enzo-Maresca-insists-doesnt-care-long-Man-Citys-appeal-against-guilty-verdict-takes-shrugs-noise-thumping-win-Liverpool.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+     "pub": "2026-10-11T20:30+00:00"
+    },
+    {
+     "medio": "ge.globo",
+     "titulo": "Manchester City de Enzo Maresca atinge melhor início de um técnico estreante na Premier League",
+     "url": "https://ge.globo.com/futebol/futebol-internacional/futebol-ingles/noticia/2026/10/12/manchester-city-de-enzo-maresca-atinge-melhor-inicio-de-um-tecnico-estreante-na-premier-league.ghtml",
+     "pub": "2026-10-12T06:00+00:00"
+    },
+    {
+     "medio": "FourFourTwo",
+     "titulo": "Tactics: How Manchester City boss Enzo Maresca turned the noise to his advantage to thump Liverpool 3-0",
+     "url": "https://www.fourfourtwo.com/tactic/tactics-how-manchester-city-boss-enzo-maresca-turned-the-noise-to-his-advantage-to-thump-liverpool-3-0",
+     "pub": "2026-10-12T10:30+00:00"
+    },
+    {
+     "medio": "Mundo Deportivo",
+     "titulo": "El día que Maresca desactivó al PSG de Luis Enrique",
+     "url": "https://www.mundodeportivo.com/futbol/champions-league/20261012/1004237701/dia-maresca-desactivo-psg-luis-enrique.html",
+     "pub": ""
+    }
+   ]
+  },
+  {
    "tema": "Portsmouth",
    "medios": 7,
    "lista_medios": [
@@ -1996,90 +2165,84 @@
    ]
   },
   {
-   "tema": "Enzo",
+   "tema": "Celtic",
    "medios": 7,
    "lista_medios": [
+    "BBC",
     "Daily Mail",
     "Google News EN",
-    "Infobae",
-    "Mirror",
-    "Mundo Deportivo",
-    "Yahoo",
-    "ge.globo"
+    "Guardian",
+    "Record",
+    "Sky Sports",
+    "Yahoo"
    ],
    "primera_vez": "2026-10-11T16:00+00:00",
    "titulares": [
     {
-     "medio": "Daily Mail",
-     "titulo": "Liverpool vs Manchester City - Premier League LIVE: Enzo Maresca's side BOOED by hostile Anfield crowd at kick-off in their first game since guilty verdict, before tension boils over on pitch",
-     "url": "https://www.dailymail.com/sport/football/article-16195521/Liverpool-vs-Manchester-City-Premier-League-LIVE-Follow-build-action-reaction-Anfield-visitors-play-match-guilty-verdict.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-     "pub": "2026-10-11T15:53+00:00"
+     "medio": "Guardian",
+     "titulo": "Scottish Premiership: Celtic end losing skid and take top spot back from Rangers",
+     "url": "https://www.theguardian.com/football/2026/oct/10/scottish-premiership-rangers-hearts-celtic",
+     "pub": "2026-10-11T13:16+00:00"
     },
     {
      "medio": "Daily Mail",
-     "titulo": "Man City give Liverpool fans the slip: Enzo Maresca's side dodge baying home fans en route to Anfield before being taunted by banners and facing hostile reception after guilty verdict",
-     "url": "https://www.dailymail.com/sport/football/article-16200431/Man-City-Liverpool-fans-slip-Enzo-Marescas-dodge-baying-home-fans-en-route-Anfield-Premier-League-leaders-braced-hostile-reception-guilty-verdict.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-     "pub": "2026-10-11T15:50+00:00"
-    },
-    {
-     "medio": "Daily Mail",
-     "titulo": "Inside Man City's dressing room after guilty verdict: We reveal Enzo Maresca's inspiring words which left squad 'ready to go to war' - plus the two most 'vocal and calming' stars",
-     "url": "https://www.dailymail.com/sport/football/article-16198631/Inside-Man-Citys-dressing-room-guilty-verdict-reveal-Enzo-Marescas-inspiring-words-left-squad-ready-war-plus-two-vocal-calming-stars.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-     "pub": "2026-10-11T14:53+00:00"
-    },
-    {
-     "medio": "Mirror",
-     "titulo": "Enzo Maresca's private message to Man City players leaked before Liverpool showdown",
-     "url": "https://www.mirror.co.uk/sport/football/news/enzo-maresca-message-man-city-37759831",
-     "pub": "2026-10-11T11:48+00:00"
+     "titulo": "Motherwell 0 Celtic 2: Civil war is put on the back burner as Bhoys rediscover their identity in dominant victory",
+     "url": "https://www.dailymail.com/sport/football/article-16200463/Celtic-Motherwell-Duran-Nygren.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+     "pub": "2026-10-11T14:14+00:00"
     },
     {
      "medio": "Yahoo",
-     "titulo": "Enzo Maresca, Man City player reaction to Liverpool match, reception at Anfield",
-     "url": "https://sports.yahoo.com/articles/enzo-maresca-man-city-player-172300565.html",
-     "pub": "2026-10-11T17:23+00:00"
-    },
-    {
-     "medio": "Yahoo",
-     "titulo": "Liverpool vs Manchester City player ratings: Enzo delivers for Enzo, Doku shines off the bench",
-     "url": "https://sports.yahoo.com/articles/liverpool-vs-manchester-city-player-174046475.html",
-     "pub": "2026-10-11T17:40+00:00"
+     "titulo": "Celtic Return To Summit With Convincing Fir Park Victory As Jota Makes Emotional Return",
+     "url": "https://sports.yahoo.com/articles/celtic-return-summit-convincing-fir-142000788.html",
+     "pub": "2026-10-11T14:20+00:00"
     },
     {
      "medio": "Google News EN",
-     "titulo": "Premier League: Liverpool 0-3 Manchester City - Enzo Maresca post match interview",
-     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1wWElXRjBUcnhVTW5sX1EzQ2EzelhNdXp6SXRkbW0zM0RKeUMwalBHTlJQV3dEajRwSG85ZXdsQk13elpyR0Jzcm4zZmllOHB5MTRKelpEOTVKQzh4OV9VWXQ5blY1TXpk?oc=5",
-     "pub": "2026-10-11T18:38+00:00"
+     "titulo": "Motherwell 0-2 Celtic commentary & highlights",
+     "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNbUhza3RzMHVtRkZoeWgtRU1tbXZnRUlNemU3alk2VlFCWU5vTmlRRjZYN09OZ2JZdnFFWnA5dVVqVW9ET2NhWmhrTjVyZDFqeUQteFp6OWVvWXdKdTNINWVqQy1udy1qOU44a2dxRi10aTFOMXF6NTMzNWFObnVTNi1LaHowbFFHUWRHYTJBSFB0UUVacHdFcjBSM0tKdHVxcVMyZVFReDQ4MzI4OU4xaHF5Q05acjFZSWJBN2hIYkQ5ZFJsZWJjTHlqb05TbUFhcVhNbFhTT3M5MTBlNFhMQnNiQ1NXZ2pPVkpMaUYyV1NHS2VvclEwVA?oc=5",
+     "pub": "2026-10-11T13:08+00:00"
+    },
+    {
+     "medio": "Google News EN",
+     "titulo": "Motherwell 0-2 Celtic: Hoops secure first win in four games to ease pressure on Martin O'Neill and go top in Scottish Premiership",
+     "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNUGRqSzRZUVJxdUN2UnR2NnNwVm9oUldudEQxUmItbmt0bjNKVW9rTDRwWmNQWnhqbW04RjVkMGs0VERhZVhjemlqc2hpVlQ0enp1c19ybnpyNGt0YVpaZ1VQRkZySDNXOGFvZWdjS3hpaVNtaXVFMkhoMWpDa3VQRDR3RWFtOS00Y1FBalo0WEUxYjdLMlZhZjNkMENabF9UTGcwc0szcjg2dW4zUFoyQ1VWam1aUS1qLTlGbU9oQU5TZzdjNWtCclZTZUZhSzhjMDFGa0JENS1DWGhITW04NWNVcjZUS19rWUV1OFdGMFFmRy1iSjZwNzVtVUhrcVIzcDZXVTZtRQ?oc=5",
+     "pub": "2026-10-11T14:26+00:00"
+    },
+    {
+     "medio": "BBC",
+     "titulo": "Jota comeback helps Celtic lift gloom in strong response",
+     "url": "https://www.bbc.co.uk/sport/football/articles/cqwy7nr5lry0o?at_medium=RSS&at_campaign=rss",
+     "pub": "2026-10-11T16:55+00:00"
     },
     {
      "medio": "Yahoo",
-     "titulo": "‘Our noise is to win games’; Enzo Maresca challenges Man City to continue winning mentality",
-     "url": "https://sports.yahoo.com/articles/noise-win-games-enzo-maresca-184505124.html",
-     "pub": "2026-10-11T18:45+00:00"
-    },
-    {
-     "medio": "Mundo Deportivo",
-     "titulo": "Enzo Maresca: \"Tenemos que aprender a lidiar con el ruido\"",
-     "url": "https://www.mundodeportivo.com/futbol/premier-league/20261011/1004237558/enzo-maresca-aprender-lidiar-ruido.html",
-     "pub": ""
+     "titulo": "Duran Gets 8.5, Baur With 8 | Celtic Players Rated In Their Win Against Motherwell",
+     "url": "https://sports.yahoo.com/articles/duran-gets-8-5-baur-163500469.html",
+     "pub": "2026-10-11T16:35+00:00"
     },
     {
      "medio": "Daily Mail",
-     "titulo": "Gary Neville claims the wait for sanctions against Man City is 'really bad for the Premier League' as Piers Morgan labels it a 'total farce' after Enzo Maresca's side extend lead at top",
-     "url": "https://www.dailymail.com/sport/football/article-16200833/Gary-Neville-sanctions-Man-City-bad-Premier-League-Piers-Morgan-farce-Enzo-Maresa-extend-lead-top.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-     "pub": "2026-10-11T20:39+00:00"
+     "titulo": "Martin O'Neill motors to 250th victory as Celtic manager after team bus breaks down",
+     "url": "https://www.dailymail.com/sport/football/article-16200547/Martin-ONeill-motors-250th-victory-Celtic-manager-team-bus-breaks-down.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+     "pub": "2026-10-11T18:32+00:00"
     },
     {
-     "medio": "Daily Mail",
-     "titulo": "Enzo Maresca insists he doesn't care how long Man City's appeal against guilty verdict takes as he shrugs off the 'noise' after thumping win at Liverpool",
-     "url": "https://www.dailymail.com/sport/football/article-16200897/Enzo-Maresca-insists-doesnt-care-long-Man-Citys-appeal-against-guilty-verdict-takes-shrugs-noise-thumping-win-Liverpool.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-     "pub": "2026-10-11T20:30+00:00"
+     "medio": "Sky Sports",
+     "titulo": "Motherwell 0-2 Celtic",
+     "url": "https://www.skysports.com/watch/video/13597820/motherwell-0-2-celtic-scottish-premiership-highlights",
+     "pub": "2026-10-11T20:00+00:00"
     },
     {
-     "medio": "Infobae",
-     "titulo": "Las perlitas del triunfo del Manchester City ante el Liverpool: del chispazo entre Enzo Fernández y Mac Allister al golazo de Cherki",
-     "url": "https://www.infobae.com/deportes/2026/10/11/las-perlitas-del-triunfo-del-manchester-city-ante-el-liverpool-del-chispazo-entre-enzo-fernandez-y-mac-allister-al-golazo-de-cherki/",
-     "pub": "2026-10-11T19:46+00:00"
+     "medio": "Yahoo",
+     "titulo": "Moyes may offer Celtic solution next summer - gossip",
+     "url": "https://sports.yahoo.com/articles/moyes-may-offer-celtic-solution-073321819.html",
+     "pub": "2026-10-12T07:33+00:00"
+    },
+    {
+     "medio": "Record",
+     "titulo": "<![CDATA[ Alarme na direita: Bah apresentou algumas queixas e Banjaqui é pouco provável para o Celtic ]]>",
+     "url": "https://www.record.pt/futebol/futebol-nacional/liga-betclic/benfica/detalhe/alarme-na-direita-bah-apresentou-algumas-queixas-e-banjaqui-e-pouco-provavel-para-o-celtic",
+     "pub": "2026-10-12T10:39+00:00"
     }
    ]
   },
@@ -2114,12 +2277,6 @@
      "titulo": "Barcelona head of scouting all but confirms interest in Brazilian defender: &#8216;Looking for a profile like his&#8217;",
      "url": "https://sports.yahoo.com/articles/barcelona-head-scouting-confirms-interest-134000385.html",
      "pub": "2026-10-11T13:40+00:00"
-    },
-    {
-     "medio": "Infobae",
-     "titulo": "Javier Frana contó una anécdota con Maradona tras ganar el bronce en los Juegos Olímpicos de Barcelona 92: “Entrenamos en los Lagos de Palermo”",
-     "url": "https://www.infobae.com/deportes/2026/10/10/javier-frana-conto-una-anecdota-con-maradona-tras-ganar-el-bronce-en-los-juegos-olimpicos-de-barcelona-92-entrenamos-en-los-lagos-de-palermo/",
-     "pub": "2026-10-10T22:17+00:00"
     },
     {
      "medio": "ge.globo",
@@ -2168,6 +2325,12 @@
      "titulo": "Rival watch: Real Betis attacking ace could miss Barcelona clash with muscle problem",
      "url": "https://sports.yahoo.com/articles/rival-watch-real-betis-attacking-062000715.html",
      "pub": "2026-10-12T06:20+00:00"
+    },
+    {
+     "medio": "Infobae",
+     "titulo": "“¿Quién se ha creído?“: las razones detrás del inesperado dardo de un ex presidente del Barcelona a Messi",
+     "url": "https://www.infobae.com/deportes/2026/10/11/quien-se-ha-creido-las-razones-detras-del-inesperado-dardo-de-un-ex-presidente-del-barcelona-a-messi/",
+     "pub": "2026-10-11T21:10+00:00"
     }
    ]
   },
@@ -2256,6 +2419,70 @@
      "titulo": "Milan threw away two points against Sassuolo, says Ruben Amorim",
      "url": "https://sports.yahoo.com/articles/milan-threw-away-two-points-202900377.html",
      "pub": "2026-10-11T20:29+00:00"
+    }
+   ]
+  },
+  {
+   "tema": "Carragher",
+   "medios": 7,
+   "lista_medios": [
+    "AS",
+    "Daily Mail",
+    "Google News EN",
+    "Google News ES",
+    "Mirror",
+    "Planet Football",
+    "Yahoo"
+   ],
+   "primera_vez": "2026-10-11T16:00+00:00",
+   "titulares": [
+    {
+     "medio": "Google News EN",
+     "titulo": "'Dragging football through the gutter!' - Jamie Carragher launches furious attack on Manchester City over financial charges appeal",
+     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNLWdTY0R6alZxTUg2aVFrTWR4dFlIQ2tXOS11UUxJVk9GSlJnX3lUVnNPVFlNNENnZ0tTbU8zMFRaajNzMGdjVGdlUVh4d2RsYjBUaTFkc2ppY2NzNFBhNW1zRkJYZlNEMlBLVWtDYmN0bHlNeWd1bjFlMDJlM0RTNmd4dlVBaFF3T0t5Z0RCNy1tUQ?oc=5",
+     "pub": "2026-10-11T13:00+00:00"
+    },
+    {
+     "medio": "Google News ES",
+     "titulo": "«¡Están arrastrando al fútbol por el fango!»: Jamie Carragher carga duramente contra el Manchester City por su recurso contra las acusaciones de irregularidades financieras",
+     "url": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxQRlBycGpZR1pWVDhwLVJxSDV5TnRwNHVhazJDcXhIekY0Zlp2VFBFaGNlMHV3ZlM1SXJ2QmtucDdIY2x6RThlS3c2NUJjSWs4Y1hNelVKQUgtbF9zbTFLQlZ2TTJ5MGJsS0h6ZHQybWZtQ2Jkd2x2SnVKRTRUeUlwSmNqM0kwSWdtWnY5T3Q4OW5BbFdIbGd5a2V2VlRLRi05X29XajlyRmVYbjN3VDY2R2dLX3g3QjZ2d0l2NFNDUVVZaUJoZ2xzMEhzakl4ZThDM2ozeW9pZ2NETDZXcmFmRFV2NkVSTllJTTFXVHN5bDV0d25WYTB3QlNlSTUxTVZobGhMN29Id0paWUdsYU9ucWFJbkFEWUxtQ0dicnJoaVRULTgxWU1jRDB4WTVxSmkzRDhOeDlQZy15Z1NCRWQzSWhn?oc=5",
+     "pub": "2026-10-11T15:03+00:00"
+    },
+    {
+     "medio": "Mirror",
+     "titulo": "Jamie Carragher and Gary Neville agree on Ryan Gravenberch Liverpool red card vs Man City",
+     "url": "https://www.mirror.co.uk/sport/football/news/neville-carragher-ryan-gravenberch-liverpool-37760608",
+     "pub": "2026-10-11T17:00+00:00"
+    },
+    {
+     "medio": "Daily Mail",
+     "titulo": "Jamie Carragher calls for Liverpool to DROP Florian Wirtz after he offered 'absolutely nothing' in Man City defeat following 'last hope' move from Jurgen Klopp",
+     "url": "https://www.dailymail.com/sport/football/article-16200885/Jamie-Carragher-Liverpool-DROP-Florian-Wirtz.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+     "pub": "2026-10-11T20:23+00:00"
+    },
+    {
+     "medio": "Yahoo",
+     "titulo": "Carragher urges Iraola to drop Wirtz after Liverpool flop produces another disappointing display vs Man City",
+     "url": "https://sports.yahoo.com/articles/carragher-urges-iraola-drop-wirtz-063000443.html",
+     "pub": "2026-10-12T06:30+00:00"
+    },
+    {
+     "medio": "Mirror",
+     "titulo": "Jamie Carragher begs Liverpool to drop Florian Wirtz immediately in latest brutal takedown",
+     "url": "https://www.mirror.co.uk/sport/football/news/jamie-carragher-liverpool-florian-wirtz-37761395",
+     "pub": "2026-10-12T08:27+00:00"
+    },
+    {
+     "medio": "AS",
+     "titulo": "Carragher: “Víctor Muñoz rindió mejor que esos jugadores de 100 millones...”",
+     "url": "https://as.com/futbol/internacional/carragher-victor-munoz-rindio-mejor-que-esos-100-jugadores-de-100-millones-f202610-n/",
+     "pub": "2026-10-12T08:05+00:00"
+    },
+    {
+     "medio": "Planet Football",
+     "titulo": "Jamie Carragher is wrong – £116m Elliot Anderson can never be a ‘bargain’",
+     "url": "https://www.planetfootball.com/manchester-city/elliot-anderson-man-city-stats-against-liverpool-carragher",
+     "pub": "2026-10-12T09:57+00:00"
     }
    ]
   },
@@ -2414,227 +2641,6 @@
      "titulo": "Les retours de gagnants de Diaby et Nkunku, le bijou de Cherki",
      "url": "https://www.lequipe.fr/Football/Article/L-equipe-type-des-francais-du-week-end-les-retours-gagnants-de-moussa-diaby-et-christopher-nkunku-la-trajectoire-folle-de-laurent-mendy/1725090#at_medium=RSS_feeds",
      "pub": "2026-10-12T06:39+00:00"
-    }
-   ]
-  },
-  {
-   "tema": "Maresca",
-   "medios": 7,
-   "lista_medios": [
-    "BBC",
-    "Daily Mail",
-    "Google News EN",
-    "Guardian",
-    "Mundo Deportivo",
-    "Yahoo",
-    "ge.globo"
-   ],
-   "primera_vez": "2026-10-11T17:45+00:00",
-   "titulares": [
-    {
-     "medio": "Yahoo",
-     "titulo": "Enzo Maresca, Man City player reaction to Liverpool match, reception at Anfield",
-     "url": "https://sports.yahoo.com/articles/enzo-maresca-man-city-player-172300565.html",
-     "pub": "2026-10-11T17:23+00:00"
-    },
-    {
-     "medio": "BBC",
-     "titulo": "'We deal with the noise' - Maresca 'proud' after Man City win",
-     "url": "https://www.bbc.co.uk/sport/football/videos/cm62yzw2175yo?at_medium=RSS&at_campaign=rss",
-     "pub": "2026-10-11T18:38+00:00"
-    },
-    {
-     "medio": "Google News EN",
-     "titulo": "Premier League: Liverpool 0-3 Manchester City - Enzo Maresca post match interview",
-     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1wWElXRjBUcnhVTW5sX1EzQ2EzelhNdXp6SXRkbW0zM0RKeUMwalBHTlJQV3dEajRwSG85ZXdsQk13elpyR0Jzcm4zZmllOHB5MTRKelpEOTVKQzh4OV9VWXQ5blY1TXpk?oc=5",
-     "pub": "2026-10-11T18:38+00:00"
-    },
-    {
-     "medio": "Yahoo",
-     "titulo": "‘Our noise is to win games’; Enzo Maresca challenges Man City to continue winning mentality",
-     "url": "https://sports.yahoo.com/articles/noise-win-games-enzo-maresca-184505124.html",
-     "pub": "2026-10-11T18:45+00:00"
-    },
-    {
-     "medio": "Mundo Deportivo",
-     "titulo": "Enzo Maresca: \"Tenemos que aprender a lidiar con el ruido\"",
-     "url": "https://www.mundodeportivo.com/futbol/premier-league/20261011/1004237558/enzo-maresca-aprender-lidiar-ruido.html",
-     "pub": ""
-    },
-    {
-     "medio": "Guardian",
-     "titulo": "‘We make our own noise’: Maresca hails Manchester City after Liverpool triumph",
-     "url": "https://www.theguardian.com/football/2026/oct/11/enzo-maresca-manchester-city-liverpool-premier-league",
-     "pub": "2026-10-11T19:43+00:00"
-    },
-    {
-     "medio": "Daily Mail",
-     "titulo": "Enzo Maresca insists he doesn't care how long Man City's appeal against guilty verdict takes as he shrugs off the 'noise' after thumping win at Liverpool",
-     "url": "https://www.dailymail.com/sport/football/article-16200897/Enzo-Maresca-insists-doesnt-care-long-Man-Citys-appeal-against-guilty-verdict-takes-shrugs-noise-thumping-win-Liverpool.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-     "pub": "2026-10-11T20:30+00:00"
-    },
-    {
-     "medio": "ge.globo",
-     "titulo": "Manchester City de Enzo Maresca atinge melhor início de um técnico estreante na Premier League",
-     "url": "https://ge.globo.com/futebol/futebol-internacional/futebol-ingles/noticia/2026/10/12/manchester-city-de-enzo-maresca-atinge-melhor-inicio-de-um-tecnico-estreante-na-premier-league.ghtml",
-     "pub": "2026-10-12T06:00+00:00"
-    }
-   ]
-  },
-  {
-   "tema": "Iraola",
-   "medios": 7,
-   "lista_medios": [
-    "BBC",
-    "Daily Mail",
-    "Google News EN",
-    "L'Equipe",
-    "Mirror",
-    "Mundo Deportivo",
-    "Yahoo"
-   ],
-   "primera_vez": "2026-10-11T17:45+00:00",
-   "titulares": [
-    {
-     "medio": "Yahoo",
-     "titulo": "Andoni Iraola reaction — What did Liverpool boss say on Gravenberch red card, late implosion vs Man City?",
-     "url": "https://sports.yahoo.com/articles/andoni-iraola-reaction-did-liverpool-172259661.html",
-     "pub": "2026-10-11T17:22+00:00"
-    },
-    {
-     "medio": "Mundo Deportivo",
-     "titulo": "0-3: El Manchester City 'post veredicto' golea al Liverpool de Iraola en Anfield",
-     "url": "https://www.mundodeportivo.com/futbol/premier-league/20261011/1004237497/liverpool.html",
-     "pub": ""
-    },
-    {
-     "medio": "BBC",
-     "titulo": "'I didn't like the refereeing' - Iraola unhappy with Gravenberch red",
-     "url": "https://www.bbc.co.uk/sport/football/videos/cj20v49vd4zro?at_medium=RSS&at_campaign=rss",
-     "pub": "2026-10-11T18:46+00:00"
-    },
-    {
-     "medio": "Daily Mail",
-     "titulo": "Liverpool 0-3 Man City PLAYER RATINGS: Who always made the wrong decision in the big moments? Who will Andoni Iraola be demanding more from? And who could be City's main man but for pending punishments?",
-     "url": "https://www.dailymail.com/sport/football/article-16195643/Liverpool-0-3-Man-City-PLAYER-RATINGS.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-     "pub": "2026-10-11T17:51+00:00"
-    },
-    {
-     "medio": "Mirror",
-     "titulo": "Andoni Iraola slams Ryan Gravenberch red card decision and bemoans Man City 'uncertainty'",
-     "url": "https://www.mirror.co.uk/sport/football/news/andoni-iraola-man-city-liverpool-37760770",
-     "pub": "2026-10-11T18:55+00:00"
-    },
-    {
-     "medio": "Google News EN",
-     "titulo": "Premier League: Liverpool 0-3 Manchester City - Andoni Iraola post match interview",
-     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE05c2FuaDk1X3FsNGhaaUE5bjRkdGowdDNnTkpLdU91WjlPbTUzQ1p5Z3lYYVBxV1FUNTFEYmRBaXNNdFlSTkVELVZhTVVYOUZhekZ0UWw0Mnd3Xy1sZFl6Rk5jNkpEVmFo?oc=5",
-     "pub": "2026-10-11T18:45+00:00"
-    },
-    {
-     "medio": "Mundo Deportivo",
-     "titulo": "Iraola, tras el fin de su sensacional racha: \"Se aprende mucho en partidos así\"",
-     "url": "https://www.mundodeportivo.com/futbol/premier-league/20261011/1004237556/iraola-sensacional-racha-aprende-partidos-asi.html",
-     "pub": ""
-    },
-    {
-     "medio": "L'Equipe",
-     "titulo": "Iraola : « Deux matches différents, avant et après le carton rouge »",
-     "url": "https://www.lequipe.fr/Football/Video/Premier-league-andoni-iraola-frustre-par-le-scenario-face-a-manchester-city-deux-matches-differents-avant-et-apres-le-carton-rouge/20243014#at_medium=RSS_feeds",
-     "pub": "2026-10-11T20:25+00:00"
-    },
-    {
-     "medio": "Mirror",
-     "titulo": "Roy Keane makes brutal Liverpool accusation that cost Andoni Iraola vs Man City",
-     "url": "https://www.mirror.co.uk/sport/football/news/roy-keane-liverpool-man-city-37760924",
-     "pub": "2026-10-11T21:39+00:00"
-    },
-    {
-     "medio": "Yahoo",
-     "titulo": "Carragher urges Iraola to drop Wirtz after Liverpool flop produces another disappointing display vs Man City",
-     "url": "https://sports.yahoo.com/articles/carragher-urges-iraola-drop-wirtz-063000443.html",
-     "pub": "2026-10-12T06:30+00:00"
-    },
-    {
-     "medio": "Yahoo",
-     "titulo": "Andoni Iraola masterminding move for €500m Spain midfielder",
-     "url": "https://sports.yahoo.com/articles/andoni-iraola-masterminding-move-500m-211000031.html",
-     "pub": "2026-10-11T21:10+00:00"
-    },
-    {
-     "medio": "Yahoo",
-     "titulo": "Andoni Iraola claims Liverpool played two different games against rivals",
-     "url": "https://sports.yahoo.com/articles/andoni-iraola-claims-liverpool-played-065000040.html",
-     "pub": "2026-10-12T06:50+00:00"
-    }
-   ]
-  },
-  {
-   "tema": "Chelsea",
-   "medios": 6,
-   "lista_medios": [
-    "BBC",
-    "Daily Mail",
-    "Google News EN",
-    "Kicker",
-    "Mirror",
-    "Yahoo"
-   ],
-   "primera_vez": "2026-10-11T16:00+00:00",
-   "titulares": [
-    {
-     "medio": "BBC",
-     "titulo": "'Absolutely superb' - How Caicedo proved pivotal in Chelsea win",
-     "url": "https://www.bbc.co.uk/sport/football/videos/cmx2dp7xgew6o?at_medium=RSS&at_campaign=rss",
-     "pub": "2026-10-10T23:00+00:00"
-    },
-    {
-     "medio": "Daily Mail",
-     "titulo": "Practice makes perfect! Chelsea reveal unseen footage of Jordan Henderson scoring carbon copy of Bournemouth free kick in training - as veteran finally arrives at Stamford Bridge",
-     "url": "https://www.dailymail.com/sport/football/article-16200125/chelsea-jordan-henderson-bournemouth-free-kick.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-     "pub": "2026-10-11T09:19+00:00"
-    },
-    {
-     "medio": "Daily Mail",
-     "titulo": "Cole Palmer casually announces his new Chelsea contract on awkward mock livestream just HOURS before clash with Bournemouth - as Blues star returns to Twitch after being banned for streaming EA FC27 too early",
-     "url": "https://www.dailymail.com/sport/football/article-16198395/Cole-Palmer-signs-new-Chelsea-deal-ties-future-Stamford-Bridge-2034-improved-terms-boast-joint-longest-contract-Premier-League.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-     "pub": "2026-10-10T23:18+00:00"
-    },
-    {
-     "medio": "Google News EN",
-     "titulo": "Chelsea 5-1 Bournemouth: Jordan Henderson's stunning strikes help fast-starting Blues to bounce-back win",
-     "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQbzlzOVJweW9aNl81VFFQVk4ybnh4RWNTRGVGWGxNaHJ4eEdRV0tVOWdUaTcwdGFYN2NoN0hIbzc4NWdEZVBIc1k2ZUJFVUt4dzdFZzRNbHMyOWRuY2xvQmpJWUh2Z1B3QnpTQUNXWEtjV3lEOF9rSlRWcUczc2Rla3pPWVZaS0RQaEhJTWhzc3FSdl90XzJWaWhJdVdWNTJiX21Uc0JWeTNENk83M09UM1VjdFg0WUFBSHREWFFhZHpfUDlhdVg0UUstdklfY21NRFpjVkZodFAtT0xXOXg4cThsdW8ydw?oc=5",
-     "pub": "2026-10-11T13:32+00:00"
-    },
-    {
-     "medio": "Yahoo",
-     "titulo": "‘I just want to focus on myself’ – Dario Essugo not trying to prove a point to Chelsea after opening his Strasbourg account",
-     "url": "https://sports.yahoo.com/articles/just-want-focus-myself-dario-170500204.html",
-     "pub": "2026-10-11T17:05+00:00"
-    },
-    {
-     "medio": "Yahoo",
-     "titulo": "Arsenal Are Among The Clubs Showing Interest In This Chelsea Defender: Should Arteta Move In For Him?",
-     "url": "https://sports.yahoo.com/articles/arsenal-among-clubs-showing-interest-195000518.html",
-     "pub": "2026-10-11T19:50+00:00"
-    },
-    {
-     "medio": "Mirror",
-     "titulo": "Jordan Henderson scores another own goal with nonsense gesture after Chelsea heroics",
-     "url": "https://www.mirror.co.uk/sport/football/news/jordan-henderson-chelsea-badge-liverpool-37759912",
-     "pub": "2026-10-12T05:30+00:00"
-    },
-    {
-     "medio": "Daily Mail",
-     "titulo": "Chelsea star Cole Palmer under fire as he 'can't even be bothered to say hello' to desperate young fans swarming him and his girlfriend as they walk home",
-     "url": "https://www.dailymail.com/sport/football/article-16201731/Chelseas-Cole-Palmer-fire-bothered-say-hello-desperate-young-fans.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-     "pub": "2026-10-12T08:42+00:00"
-    },
-    {
-     "medio": "Kicker",
-     "titulo": "Seedorf übernimmt Corinthians - Palmer bindet sich acht Jahre an Chelsea",
-     "url": "https://www.kicker.de/transferticker-953155/artikel#omrss",
-     "pub": "2026-10-12T08:19+00:00"
     }
    ]
   }
