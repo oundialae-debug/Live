@@ -8,5 +8,8 @@
  "recordatorio": false,
  "musica": "hh05",
  "variante": "seg=5.0;arranque=s1;hook=pregunta;musica=hh05;formato=auto_noticia;hora=16",
- "notas": "noticia automática (IA + reglas): AS: Betis - Osasuna en directo: LaLiga EA Sports hoy, en vivo; Mundo Deportivo: Real Betis - Osasuna, en directo | Sigue el partido de LaLiga EA Sports, en vivo"
+ "notas": "noticia automática (IA + reglas): AS: Betis - Osasuna en directo: LaLiga EA Sports hoy, en vivo; Mundo Deportivo: Real Betis - Osasuna, en directo | Sigue el partido de LaLiga EA Sports, en vivo",
+ "estado": "enviado",
+ "buffer_id": "6acce89b0728a43e9781ee9f",
+ "dueAt": "2026-10-12T14:06:07+00:00"
 }
