@@ -8,7 +8,7 @@ Revisar y ampliar este calendario cada lunes (WebSearch: fechas oficiales). Fech
 | Fecha | Momento | Qué publicar (con nuestros datos) |
 |---|---|---|
 | 09-12/10 | Vuelven las ligas tras el parón | Previos de clubes; jugador vs jugador de la jornada |
-| 13-14/10 | Champions, jornada 2 | Previo del partido grande; post con "stat of the night" |
+| 13-14/10 (SIN VERIFICAR 12/10: el calendario de ligas no trae Champions esta semana; comprobar fecha oficial) | Champions, jornada 2 | Previo del partido grande; post con "stat of the night" |
 | 19-25/10 | Semana del Balón de Oro (gala lun 26/10, Londres, 20:00) | Serie diaria: `datos_rankings.py balon_oro_indice` (índice 2yellow con los 3 criterios oficiales: individual, títulos, juego limpio) como pieza central; `nominados <métrica>` solo como "one stat only", nunca como ranking del premio; duelos entre nominados (Yamal vs Mbappé, Kane vs Haaland, Olise vs Dembélé). Pregunta: "Who's your Ballon d'Or?" |
 | 20-21/10 | Champions, jornada 3 | Igual que J2 |
 | dom 25/10, 21:00 | El Clásico (Barça-Madrid, Camp Nou, LaLiga J10) | Semana de Clásico: duelos Yamal vs Vinícius/Mbappé, previo ≥4 h antes, post-partido rápido. Coincide con la víspera del Balón de Oro: doble gancho |
@@ -23,3 +23,6 @@ Revisar y ampliar este calendario cada lunes (WebSearch: fechas oficiales). Fech
 
 Ideas recurrentes por momento: semana de derbi → duelo de las estrellas; premio/gala → ranking de nominados; mercado → datos del fichaje;
 jornada de Champions → "stat of the night"; récord o polémica en tendencia → meme o curioso del día sobre ello.
+
+
+Revisión lunes 12/10: jueves 15/10 Europa League/Conference (L'Equipe: Lyon-Crystal Palace, Monaco-CSKA Sofia). Vienes de: Man City condenado/apelando y 0-3 en Anfield (11/10), Vinícius expulsado (10/10, posible baja en el Clásico del 25/10), Ronaldo suspendido por Portugal. Antes del Clásico: duelos Mbappé/Vinícius/Yamal/Raphinha (sin repetir protagonista en 7 días).
