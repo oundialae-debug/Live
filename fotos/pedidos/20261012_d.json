@@ -1,7 +1,0 @@
-{"web": [
- {"noticia": "Iscolosal", "buscar": "Isco Betis", "slug": "isco_as", "n": 4, "dias": 3, "debe": ["isco"]},
- {"noticia": "mejor Isco", "buscar": "Isco Betis", "slug": "isco_md", "n": 4, "dias": 3, "debe": ["isco"]},
- {"noticia": "Isco desata", "buscar": "Isco Betis", "slug": "isco_pespunte", "n": 4, "dias": 3, "debe": ["isco"]},
- {"noticia": "regreso de Oliver Glasner", "buscar": "Glasner", "slug": "glasner_md", "n": 4, "dias": 3, "debe": ["glasner"]},
- {"noticia": "karma", "buscar": "Glasner", "slug": "glasner_record", "n": 4, "dias": 3, "debe": ["glasner"]}
-]}
