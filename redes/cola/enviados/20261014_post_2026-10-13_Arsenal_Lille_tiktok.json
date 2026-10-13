@@ -1,5 +1,5 @@
 {
- "red": "instagram",
+ "red": "tiktok",
  "hora": "2026-10-14T00:45:03+02:00",
  "tipo": "post",
  "partido": "Arsenal-Lille",
@@ -8,5 +8,9 @@
  "recordatorio": false,
  "musica": "hh06",
  "variante": "seg=2.8;arranque=s0;hook=dato;musica=hh06;formato=auto_post",
- "notas": "post-partido automático (futbol-pipeline -6106260, 6 tarjetas)"
+ "notas": "post-partido automático (futbol-pipeline -6106260, 6 tarjetas)",
+ "titulo": "Arsenal 3-0 Lille | Expected goals: 1.9 vs 0.4, Arsenal created more.",
+ "estado": "enviado",
+ "buffer_id": "6aceb3ce2cd196ed6fd15271",
+ "dueAt": "2026-10-13T22:45:21+00:00"
 }

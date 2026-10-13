@@ -9,5 +9,8 @@
  "musica": "hh01",
  "variante": "seg=2.8;arranque=s1;hook=dato;musica=hh01;formato=auto_post",
  "notas": "post-partido automático (futbol-pipeline -6106328, 6 tarjetas)",
- "titulo": "Villarreal 3-1 Napoli | Expected goals: 1.3 vs 1.9, Napoli created more."
+ "titulo": "Villarreal 3-1 Napoli | Expected goals: 1.3 vs 1.9, Napoli created more.",
+ "estado": "enviado",
+ "buffer_id": "6aceb3cf56d9442508d46013",
+ "dueAt": "2026-10-13T22:45:21+00:00"
 }
