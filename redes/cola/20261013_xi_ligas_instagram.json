@@ -1,0 +1,14 @@
+{
+ "red": "instagram",
+ "hora": "2026-10-13T19:00:00+02:00",
+ "tipo": "formato",
+ "partido": "2yellow XI Top 5 leagues 09-12/10",
+ "text": "Our 2yellow XI of the weekend across the top 5 leagues, picked by the 2yellow Index by role. Who did we leave out? 👇\n#Football #PremierLeague #LaLiga #SerieA #Bundesliga #Ligue1",
+ "titulo": "2yellow XI: Team of the week, top 5 leagues",
+ "imagenes": [
+  "https://raw.githubusercontent.com/oundialae-debug/live/main/media/20261013_xi_ligas_ig.jpg"
+ ],
+ "variante": "formato=xi_semana;hora=19;datos=fotmob_sin_cuota",
+ "recordatorio": true,
+ "notas": "XI del 09-12/10 (5 ligas) con box-score de Highlightly + FotMob para los partidos que la API ya no trae (cuota 100/día); Soriano (Deportivo) juega en La Liga 26/27"
+}
