@@ -1,18 +1,21 @@
-# Tendencias de fútbol (2026-10-13 05:49 UTC, Google Trends)
+# Tendencias de fútbol (2026-10-13 14:30 UTC, Google Trends)
 
 Generado por el workflow `tendencias`. Úsalo para elegir temas de memes, curiosos y jugador vs jugador.
 
 | País | Búsqueda | Tráfico | Titular |
 |---|---|---|---|
-| UK | peter schmeichel | 5000+ | Premier League returns in shadow of Manchester City’s judgment day | Jonathan Wilson |
-| Spain | los 40 | 100+ | Espectáculo piromusical Hispanidad |
-| Italy | secolo d'italia | 200+ | «Idee per Roma», il centrodestra scalda i motori per la sfida al Campidoglio |
-| Germany | vincent wagner | 200+ | Bundesliga: Burcu-Tor stoppt Unions Sieglosserie gegen Elversberg |
-| France | ballon d'or 2026 | 500+ | Ballon d'Or - Espagne - Pourquoi les prouesses de Lamine Yamal en Ligue des nations n'auront pas d'i |
-| USA | galatasaray | 200+ | Galatasaray - Barcelona maçı ne zaman, saat kaçta, hangi kanalda? UEFA Şampiyonlar Ligi Galatasaray  |
-| Portugal | classificações de coventry city x newcastle | 200+ | Coventry 4-1 Newcastle: Frank Lampard's Sky Blues out of Premier League drop zone |
-| Mexico | all boys vs godoy cruz | 100+ | Algunas de las filmaciones muestran a los efectivos avanzando en formación y a hinchas de All Boys l |
-| Mexico | viking fk | 100+ | Preview: Viking FK vs Bayern Munich - prediction, team news, lineups |
-| Mexico | villarreal vs napoli | 100+ | Villarreal vs Napoli: previa | UEFA Champions League Temporada 2026/27 |
-| Mexico | david otorbi | 200+ | Otorbi shines at El Sardinero with equaliser and stoppage-time cut-back |
-| Mexico | uefa champions league | 500+ | Americans Abroad: U.S. players aim for first UEFA Champions League wins |
+| UK | chelsea transfer interest florian wirtz | 200+ | Chelsea ‘interested’ in rescuing Florian Wirtz after Liverpool teammates give up |
+| UK | dermot desmond | 500+ | Dermot Desmond Celtic smile must be back as Hotline pokes fun with Rangers contrast clear to see |
+| Spain | stellantis | 200+ | Antonio Filosa, patrón de Stellantis: «La producción de Vigo se enfocará al mercado europeo» |
+| Italy | juventus next gen - lumezzane | 2000+ | Serie C | Dove vedere Juventus Next Gen-Lumezzane |
+| Italy | zlatan ibrahimović | 500+ | Reports: Ibrahimovic’s ‘managerial career has ended’ – Swede no longer part of Milan’s ecosystem |
+| Italy | inter u-20 - club brugge u-19 | 2000+ | Stankovic: Inter fans already in love, and tonight he could make his starting debut against his form |
+| France | jorge jesus | 500+ | Luís Miguel Henrique: «Estou do lado de Jorge Jesus porque é o lado da razão» |
+| Argentina | paulo dybala | 200+ | Paulo Dybala ¿entre Roma y Boca?: “Espero que pueda haber un final” |
+| Portugal | football leaks | 100+ | Football Leaks: PJ reconhece como verídico documento a mencionar escuta, mas continua a negá-la |
+| Portugal | boeing 787 | 200+ | Percevejos obrigam companhia aérea a retirar Boeing 787 de circulação à chegada a Roma |
+| Portugal | duarte martins 13 anos | 2000+ | Jovem de 13 anos morre em queda de oitavo andar de prédio em Corroios |
+| Mexico | partidos de champions league | 100+ | Difícil noche para Luis Díaz en Noruega antes del partido de Champions League: hinchas rivales llega |
+| Mexico | tenerife - girona | 500+ | Tenerife vs. Girona FC |
+| Mexico | selección femenina de fútbol de méxico | 100+ | México Femenil: Pedro López ya tiene definidas a sus delanteras |
+| Mexico | uefa champions | 2000+ | CDU/CSU Fraktionschef Thorsten Frei und Alexander Hoffmann kommen zur Fraktionssitzung im Bundestag |
