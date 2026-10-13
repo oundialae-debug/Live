@@ -1,5 +1,5 @@
 {
- "red": "tiktok",
+ "red": "instagram",
  "hora": "2026-10-13T12:00:00+02:00",
  "tipo": "meme",
  "partido": "Newcastle 4-1 Leeds / 4-1 Coventry (Jaissle disculpa)",
@@ -10,5 +10,8 @@
  ],
  "variante": "hook=pregunta;formato=meme_comparativa;hora=12;momento=noticia_dia",
  "notas": "Sky (Coventry 4-1 Newcastle, 'second consecutive away defeat 4-1', cita Jaissle literal) + Al Jazeera/Malay Mail (Leeds 4-1 Newcastle 14/09); jurado r3 8/7/6 = 7,0 (r1-2 como noticia Coventry 6,3 y 5,7: descartada); fotos Sky sin logo",
- "recordatorio": true
+ "recordatorio": true,
+ "estado": "enviado",
+ "buffer_id": "6ace1731a7708f54d81eab42",
+ "dueAt": "2026-10-13T11:37:08+00:00"
 }

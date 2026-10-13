@@ -1,5 +1,5 @@
 {
- "red": "tiktok",
+ "red": "instagram",
  "hora": "2026-10-13T10:00:00+02:00",
  "tipo": "previo",
  "partido": "Picks del dia 13/10 (2 partidos)",
@@ -10,5 +10,6 @@
  ],
  "variante": "formato=lista_picks;hora=10;promesa_perfil_previos",
  "recordatorio": false,
- "notas": "lista desbloqueada que prometen los previos/pre6; poisson propio entre ligas (ucl); datos_clubes.lista_hoy [cola]"
+ "notas": "lista desbloqueada que prometen los previos/pre6; poisson propio entre ligas (ucl); datos_clubes.lista_hoy [cola]",
+ "estado": "caducado"
 }
