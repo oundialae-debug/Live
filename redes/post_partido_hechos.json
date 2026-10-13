@@ -1,5 +1,11 @@
 {
- "en_curso": {},
+ "en_curso": {
+  "-6106328": {
+   "arranque": "s1",
+   "musica": "hh01",
+   "tarjetas": 6
+  }
+ },
  "partidos": {
   "-6106260": {
    "arranque": "s0",
