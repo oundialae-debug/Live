@@ -1,0 +1,12 @@
+{
+ "red": "tiktok",
+ "hora": "2026-10-13T16:30:00+02:00",
+ "tipo": "previo",
+ "partido": "Atlético vs Man United",
+ "text": "Atlético Madrid vs Man United (Champions League, today 21:00 CEST): our model gives Atlético 54%, Man United 24%, draw 22%. Do you agree? 👇\n#Atletico #ManUtd #ChampionsLeague #ATMMUN #Football",
+ "titulo": "Atlético vs Man United prediction: our model",
+ "video": "https://raw.githubusercontent.com/oundialae-debug/live/main/videos/pre_20261013_atm_mun.mp4",
+ "variante": "primera=goals;seg=1.8;arranque=s1;hook=reto;ante=4.5;formato=video;musica=hh02",
+ "recordatorio": false,
+ "notas": "modelo poisson propio entre ligas (datos_clubes.py pre, Champions); marco comprobado"
+}

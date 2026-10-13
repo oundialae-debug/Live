@@ -1,0 +1,14 @@
+{
+ "red": "instagram",
+ "hora": "2026-10-13T10:00:00+02:00",
+ "tipo": "previo",
+ "partido": "Picks del dia 13/10 (2 partidos)",
+ "text": "Our model's calls for tonight's 2 biggest Champions League games: Arsenal-Lille Under 2.5 goals 63%, Atlético-Man United Over 2.5 goals 61%. Which call is wrong? 👇\n#Football #ChampionsLeague #UCL #Arsenal #Atletico",
+ "titulo": "Our model's calls for tonight's Champions League games",
+ "imagenes": [
+  "https://raw.githubusercontent.com/oundialae-debug/live/main/media/20261013_picks_hoy.jpg"
+ ],
+ "variante": "formato=lista_picks;hora=10;promesa_perfil_previos",
+ "recordatorio": false,
+ "notas": "lista desbloqueada que prometen los previos/pre6; poisson propio entre ligas (ucl); datos_clubes.lista_hoy [cola]"
+}
