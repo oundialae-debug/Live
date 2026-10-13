@@ -1,18 +1,19 @@
 {
- "generado": "2026-10-13T14:30+00:00",
+ "generado": "2026-10-13T20:20+00:00",
  "temas": [
   {
    "tema": "Madrid",
-   "medios": 16,
+   "medios": 17,
    "lista_medios": [
     "AS",
     "BBC",
     "Daily Mail",
     "Foot Mercato",
+    "Football Italia",
     "FourFourTwo",
     "Google News EN",
     "Google News ES",
-    "Kicker",
+    "Guardian",
     "L'Equipe",
     "Mirror",
     "Mundo Deportivo",
@@ -22,87 +23,88 @@
     "ge.globo",
     "talkSPORT"
    ],
-   "primera_vez": "2026-10-12T06:59+00:00",
+   "primera_vez": "2026-10-12T08:52+00:00",
    "titulares": [
     {
-     "medio": "Yahoo",
-     "titulo": "Real Madrid veteran starts new business venture that links him with his grassroots",
-     "url": "https://sports.yahoo.com/articles/real-madrid-veteran-starts-business-064000850.html",
-     "pub": "2026-10-12T06:40+00:00"
-    },
-    {
-     "medio": "Yahoo",
-     "titulo": "🗞️ Madrid tension, Barça firepower and Betis joy: Monday's front pages",
-     "url": "https://sports.yahoo.com/articles/madrid-tension-bar-firepower-betis-063000876.html",
-     "pub": "2026-10-12T06:30+00:00"
-    },
-    {
-     "medio": "Yahoo",
-     "titulo": "Real Madrid confident of signing Manchester United prodigy after submitting official offer",
-     "url": "https://sports.yahoo.com/articles/real-madrid-confident-signing-manchester-060000268.html",
-     "pub": "2026-10-12T06:00+00:00"
-    },
-    {
-     "medio": "Google News EN",
-     "titulo": "Diego Simeone’s Atletico Madrid are the most ‘South American’ side European football has seen",
-     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQUkVIcHRuanpDemdJODlWd1dFT2tuUG4tSjhibFhPWmlTdExVMWNrb3JROUJScUJvNmJaTGJNS1NQZUpHUzFUNnYweUxiNnQwaFVWWnZHWkNIUVVLUWZvSEc2TGU3ejFtNmtlM2hQc212am9MN3VfYmVWTk9ZZ0ctYmRfM0lpb0RFMEQtdTBlaFdicGRI?oc=5",
-     "pub": "2026-10-12T04:12+00:00"
-    },
-    {
-     "medio": "AS",
-     "titulo": "Olise sabe lo que hace con Madrid y Bayern",
-     "url": "https://as.com/futbol/internacional/olise-sabe-lo-que-hace-con-madrid-y-bayern-f202610-n/",
-     "pub": "2026-10-12T05:59+00:00"
-    },
-    {
      "medio": "Mundo Deportivo",
-     "titulo": "El Real Madrid se pone en 'modo Champions'",
-     "url": "https://www.mundodeportivo.com/futbol/real-madrid/20261012/1004237466/real-madrid-pone-champions.html",
+     "titulo": "El árbitro que expulsó a Mourinho pitará el Roma-Real Madrid",
+     "url": "https://www.mundodeportivo.com/futbol/real-madrid/20261012/1004237663/arbitro-expulso-mourinho-pitara-roma-real-madrid.html",
      "pub": ""
     },
     {
-     "medio": "Foot Mercato",
-     "titulo": "Real Madrid : nouvelles révélations accablantes sur le craquage de Vinicius Jr",
-     "url": "https://www.footmercato.net/a6230152383760773133-real-madrid-nouvelles-revelations-accablantes-sur-le-craquage-de-vinicius-jr",
-     "pub": "2026-10-12T06:45+00:00"
+     "medio": "Yahoo",
+     "titulo": "English legend backs Real Madrid star to become one of the all-time greats: ‘He’s got everything’",
+     "url": "https://sports.yahoo.com/articles/english-legend-backs-real-madrid-090500481.html",
+     "pub": "2026-10-12T09:05+00:00"
+    },
+    {
+     "medio": "AS",
+     "titulo": "Los franceses Letexier y Turpin dirigirán al Real Madrid y al Betis",
+     "url": "https://as.com/futbol/champions/los-franceses-letexier-y-turpin-dirigiran-al-real-madrid-y-al-betis-f202610-n/",
+     "pub": "2026-10-12T09:29+00:00"
+    },
+    {
+     "medio": "Mundo Deportivo",
+     "titulo": "Guti vaticina: \"Evidentemente, el Barça no va a golear al Madrid\"",
+     "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261012/1004237662/guti-vaticina-evidentemente-barca-no-golear-madrid.html",
+     "pub": ""
+    },
+    {
+     "medio": "Google News ES",
+     "titulo": "El vestuario del Real Madrid se distancia de Mourinho a 13 días del clásico del Camp Nou",
+     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOMUttWXZkTUxFTWpTRUhrRVNfdmJxc3Z3ai1ZME1XVzFZNXRnem42MDVEYVFYNWxzSUhyZV8xaTJCMTRScUNCNnNveTNmSXBTNDByZEhXLXNLcEdwUjFHRWFNQnkyU3hwcHRCbFdoX2JtVDM2TzlTYkNaZ0g0TFN0LVB6MVBVaTQyUS1nVWNTMnlMZHVQY0ZrdzVHcEhheVRU0gGgAUFVX3lxTE1zTTZTTzBQYnVuWXpDRGw3a21DRHNZWnZKQWZqb3lFeHJQdXRJNG9yQjJlc0JETk9RUnFRWTlUVl8tX19TQkpZU1ZnMXM3Snl2aGI2TWtGbndjOXFtMXFJb1lDZk96YmQ4dWZqeGN5aXdZeXFWOVliR2dvdnZOUEcyNXVBWHc3NURvZ0xIWVJpZWJrNVZGZ09MSEsyQWdKY0M?oc=5",
+     "pub": "2026-10-12T08:53+00:00"
     },
     {
      "medio": "ge.globo",
-     "titulo": "Vinicius Junior soma só três expulsões diretas em nove anos de Real Madrid; confira detalhes",
-     "url": "https://ge.globo.com/futebol/futebol-internacional/futebol-espanhol/noticia/2026/10/12/vinicius-junior-soma-so-tres-expulsoes-diretas-em-nove-anos-de-real-madrid-confira-detalhes.ghtml",
-     "pub": "2026-10-12T05:00+00:00"
+     "titulo": "Real Madrid faz oferta por joia do United que pede R$ 5,58 milhões de salário por ano, diz jornal",
+     "url": "https://ge.globo.com/futebol/futebol-internacional/noticia/2026/10/12/real-madrid-faz-oferta-por-joia-de-16-anos-do-united-que-pede-r-558-milhoes-por-ano-diz-jornal.ghtml",
+     "pub": "2026-10-12T09:30+00:00"
     },
     {
-     "medio": "Record",
-     "titulo": "<![CDATA[ Real Madrid já fez proposta a JJ Gabriel: United vê cerco à jovem pérola apertar ]]>",
-     "url": "https://www.record.pt/internacional/paises/espanha/real-madrid/detalhe/real-madrid-ja-fez-proposta-a-jj-gabriel-united-ve-cerco-a-jovem-perola-apertar",
-     "pub": "2026-10-12T07:49+00:00"
-    },
-    {
-     "medio": "Yahoo",
-     "titulo": "Real Madrid identify €60m-rated Brighton defender as potential 2027 transfer target – report",
-     "url": "https://sports.yahoo.com/articles/real-madrid-identify-60m-rated-081800240.html",
-     "pub": "2026-10-12T08:18+00:00"
+     "medio": "Daily Mail",
+     "titulo": "Kobbie Mainoo and Luke Shaw could miss Man United's trip to Atletico Madrid in another blow to Michael Carrick",
+     "url": "https://www.dailymail.com/sport/football/article-16202245/Kobbie-Mainoo-Luke-Shaw-miss-Man-Uniteds-trip-Atletico-Madrid-blow-Michael-Carrick.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+     "pub": "2026-10-12T10:46+00:00"
     },
     {
      "medio": "Yahoo",
-     "titulo": "Matias Soule tipped to start against Real Madrid",
-     "url": "https://sports.yahoo.com/articles/matias-soule-tipped-start-against-081400453.html",
-     "pub": "2026-10-12T08:14+00:00"
+     "titulo": "Real Madrid have already completed most of their groundwork for JJ Gabriel transfer",
+     "url": "https://sports.yahoo.com/articles/real-madrid-already-completed-most-103000982.html",
+     "pub": "2026-10-12T10:30+00:00"
     },
     {
      "medio": "Yahoo",
-     "titulo": "Real Madrid confident of signing Manchester United prodigy JJ Gabriel",
-     "url": "https://sports.yahoo.com/articles/real-madrid-confident-signing-manchester-080000415.html",
-     "pub": "2026-10-12T08:00+00:00"
+     "titulo": "Rafa Marin talks La Fabrica, Real Madrid vs AS Roma, La Liga title race: ‘The best youth academy in the world’",
+     "url": "https://sports.yahoo.com/articles/rafa-marin-talks-la-fabrica-103000780.html",
+     "pub": "2026-10-12T10:30+00:00"
+    },
+    {
+     "medio": "Yahoo",
+     "titulo": "Dybala previews Real Madrid clash: “The Olimpico will help us.”",
+     "url": "https://sports.yahoo.com/articles/dybala-previews-real-madrid-clash-094900701.html",
+     "pub": "2026-10-12T09:49+00:00"
+    },
+    {
+     "medio": "Mundo Deportivo",
+     "titulo": "Ya hay día y hora para la visita del Real Madrid a Valencia",
+     "url": "https://www.mundodeportivo.com/futbol/real-madrid/20261012/1004237705/hay-dia-hora-visita-real-madrid-valencia.html",
+     "pub": ""
+    },
+    {
+     "medio": "Mundo Deportivo",
+     "titulo": "Gollini, el rapero que quiere silenciar al Real Madrid",
+     "url": "https://www.mundodeportivo.com/futbol/serie-a/20261012/1004237692/gollini-rapero-quiere-silenciar-real-madrid.html",
+     "pub": ""
     }
    ]
   },
   {
    "tema": "Manchester",
-   "medios": 14,
+   "medios": 15,
    "lista_medios": [
     "AS",
+    "Daily Mail",
     "Foot Mercato",
     "Football Italia",
     "FourFourTwo",
@@ -117,44 +119,8 @@
     "ge.globo",
     "talkSPORT"
    ],
-   "primera_vez": "2026-10-12T06:59+00:00",
+   "primera_vez": "2026-10-12T08:52+00:00",
    "titulares": [
-    {
-     "medio": "Yahoo",
-     "titulo": "Real Madrid confident of signing Manchester United prodigy after submitting official offer",
-     "url": "https://sports.yahoo.com/articles/real-madrid-confident-signing-manchester-060000268.html",
-     "pub": "2026-10-12T06:00+00:00"
-    },
-    {
-     "medio": "Yahoo",
-     "titulo": "Amidst the storm, a Manchester City midfielder stood up and set the tone at Anfield",
-     "url": "https://sports.yahoo.com/articles/amidst-storm-manchester-city-midfielder-052000590.html",
-     "pub": "2026-10-12T05:20+00:00"
-    },
-    {
-     "medio": "Mundo Deportivo",
-     "titulo": "De Futre y Manolo a Lodi, la pesadilla rojiblanca del Manchester United",
-     "url": "https://www.mundodeportivo.com/futbol/atletico-madrid/20261012/1004237593/futre-manolo-lodi-pesadilla-rojiblanca-manchester-united.html",
-     "pub": ""
-    },
-    {
-     "medio": "ge.globo",
-     "titulo": "Manchester City de Enzo Maresca atinge melhor início de um técnico estreante na Premier League",
-     "url": "https://ge.globo.com/futebol/futebol-internacional/futebol-ingles/noticia/2026/10/12/manchester-city-de-enzo-maresca-atinge-melhor-inicio-de-um-tecnico-estreante-na-premier-league.ghtml",
-     "pub": "2026-10-12T06:00+00:00"
-    },
-    {
-     "medio": "Yahoo",
-     "titulo": "The response on the pitch from Manchester City at Anfield was ruthless",
-     "url": "https://sports.yahoo.com/articles/response-pitch-manchester-city-anfield-080900680.html",
-     "pub": "2026-10-12T08:09+00:00"
-    },
-    {
-     "medio": "Yahoo",
-     "titulo": "Real Madrid confident of signing Manchester United prodigy JJ Gabriel",
-     "url": "https://sports.yahoo.com/articles/real-madrid-confident-signing-manchester-080000415.html",
-     "pub": "2026-10-12T08:00+00:00"
-    },
     {
      "medio": "Mundo Deportivo",
      "titulo": "El Manchester United aprovechará para 'espiar' en directo a Giuliano Simeone",
@@ -166,12 +132,6 @@
      "titulo": "LdC : l’arbitre de Manchester City-PSG est connu",
      "url": "https://www.footmercato.net/a4352291809822416729-ldc-larbitre-de-manchester-city-psg-est-connu",
      "pub": "2026-10-12T08:49+00:00"
-    },
-    {
-     "medio": "Foot Mercato",
-     "titulo": "La presse anglaise ne lâche pas Manchester City, le cas Dembélé fait toujours débat au PSG",
-     "url": "https://www.footmercato.net/a7004766005074318228-la-presse-anglaise-ne-lache-pas-manchester-city-le-cas-dembele-fait-toujours-debat-au-psg",
-     "pub": "2026-10-12T08:15+00:00"
     },
     {
      "medio": "FourFourTwo",
@@ -190,13 +150,248 @@
      "titulo": "Gary Neville ne veut plus commenter les matches de Manchester City",
      "url": "https://www.footmercato.net/a4584243173476090616-gary-neville-ne-veut-plus-commenter-les-matches-de-manchester-city",
      "pub": "2026-10-12T09:20+00:00"
+    },
+    {
+     "medio": "FourFourTwo",
+     "titulo": "Tactics: How Manchester City boss Enzo Maresca turned the noise to his advantage to thump Liverpool 3-0",
+     "url": "https://www.fourfourtwo.com/tactic/tactics-how-manchester-city-boss-enzo-maresca-turned-the-noise-to-his-advantage-to-thump-liverpool-3-0",
+     "pub": "2026-10-12T10:30+00:00"
+    },
+    {
+     "medio": "Mundo Deportivo",
+     "titulo": "Simeone, con todo el equipo apto, para medirse al Manchester United",
+     "url": "https://www.mundodeportivo.com/futbol/atletico-madrid/20261012/1004237699/simeone-equipo-apto-medirse-manchester-united.html",
+     "pub": ""
+    },
+    {
+     "medio": "L'Equipe",
+     "titulo": "« La Premier League est-elle une farce ? » : victorieux à Liverpool mais coupable, Manchester City suscite toujours un sentiment de malaise au sein de la presse anglaise",
+     "url": "https://www.lequipe.fr/Football/Actualites/-la-premier-league-est-elle-une-farce-victorieux-a-liverpool-mais-coupable-manchester-city-suscite-toujours-un-sentiment-de-malaise-au-sein-de-la-presse-anglaise/1725151#at_medium=RSS_feeds",
+     "pub": "2026-10-12T10:25+00:00"
+    },
+    {
+     "medio": "Record",
+     "titulo": "<![CDATA[ Pogba de olho no castigo do Manchester City: «Que possamos receber dois títulos» ]]>",
+     "url": "https://www.record.pt/internacional/paises/inglaterra/detalhe/pogba-de-olho-no-castigo-do-manchester-city-que-possamos-receber-dois-titulos",
+     "pub": "2026-10-12T09:56+00:00"
+    },
+    {
+     "medio": "Guardian",
+     "titulo": "Virgil van Dijk warns Manchester City players to get used to hostile atmospheres",
+     "url": "https://www.theguardian.com/football/2026/oct/12/virgil-van-dijk-warns-manchester-city-players-to-get-used-to-hostile-atmospheres",
+     "pub": "2026-10-12T11:00+00:00"
+    },
+    {
+     "medio": "FourFourTwo",
+     "titulo": "Bayern Munich publicly address Erling Haaland transfer, in wake of Manchester City verdict",
+     "url": "https://www.fourfourtwo.com/transfer/bayern-munich-publicly-address-erling-haaland-transfer-in-wake-of-manchester-city-verdict",
+     "pub": "2026-10-12T11:37+00:00"
+    },
+    {
+     "medio": "Yahoo",
+     "titulo": "Manchester City auditors under pressure over club’s guilty verdicts",
+     "url": "https://sports.yahoo.com/articles/manchester-city-auditors-under-pressure-110500474.html",
+     "pub": "2026-10-12T11:05+00:00"
     }
    ]
   },
   {
-   "tema": "Liverpool",
-   "medios": 13,
+   "tema": "Lille",
+   "medios": 15,
    "lista_medios": [
+    "AS",
+    "BBC",
+    "Daily Mail",
+    "Foot Mercato",
+    "FourFourTwo",
+    "Google News EN",
+    "Guardian",
+    "L'Equipe",
+    "Mirror",
+    "Mundo Deportivo",
+    "Record",
+    "Sky Sports",
+    "Yahoo",
+    "ge.globo",
+    "talkSPORT"
+   ],
+   "primera_vez": "2026-10-12T09:52+00:00",
+   "titulares": [
+    {
+     "medio": "talkSPORT",
+     "titulo": "Arsenal v Lille LIVE commentary: Key player to miss Champions League tie after warm down injury",
+     "url": "https://talksport.com/football/4638699/arsenal-v-lille-live-commentary-time-date-score-teams-channel/",
+     "pub": "2026-10-12T09:51+00:00"
+    },
+    {
+     "medio": "Mirror",
+     "titulo": "Mikel Arteta rules two Arsenal players out of Lille clash as injury blows confirmed",
+     "url": "https://www.mirror.co.uk/sport/football/news/arsenal-injury-news-champions-league-37763158",
+     "pub": "2026-10-12T12:54+00:00"
+    },
+    {
+     "medio": "L'Equipe",
+     "titulo": "Arsenal privé de Hincapie et Zubimendi face à Lille en Ligue des champions",
+     "url": "https://www.lequipe.fr/Football/Actualites/Arsenal-prive-de-hincapie-et-zubimendi-face-a-lille-en-ligue-des-champions/1725173#at_medium=RSS_feeds",
+     "pub": "2026-10-12T13:17+00:00"
+    },
+    {
+     "medio": "Yahoo",
+     "titulo": "Ligue 1 Review | Good results mask poor performances for Lille ahead of Arsenal trip",
+     "url": "https://sports.yahoo.com/articles/ligue-1-review-good-results-143200383.html",
+     "pub": "2026-10-12T14:32+00:00"
+    },
+    {
+     "medio": "Yahoo",
+     "titulo": "Official | Lille right-back Tiago Santos sustains ACL injury",
+     "url": "https://sports.yahoo.com/articles/official-lille-back-tiago-santos-142200487.html",
+     "pub": "2026-10-12T14:22+00:00"
+    },
+    {
+     "medio": "L'Equipe",
+     "titulo": "Tiago Santos souffre d'une rupture totale du ligament croisé antérieur du genou droit, Lille saisit la FFF et la LFP",
+     "url": "https://www.lequipe.fr/Football/Actualites/Tiago-santos-souffre-d-une-rupture-totale-du-ligament-croise-anterieur-du-genou-droit-lille-saisit-la-fff-et-la-lfp/1725203#at_medium=RSS_feeds",
+     "pub": "2026-10-12T14:31+00:00"
+    },
+    {
+     "medio": "Record",
+     "titulo": "<![CDATA[ Lille anuncia que Tiago Santos sofreu nova rotura total do ligamento cruzado anterior ]]>",
+     "url": "https://www.record.pt/internacional/paises/franca/lille/detalhe/lille-anuncia-que-tiago-santos-sofreu-nova-rotura-total-do-ligamento-cruzado-anterior",
+     "pub": "2026-10-12T15:17+00:00"
+    },
+    {
+     "medio": "L'Equipe",
+     "titulo": "Avant le match de Ligue des champions contre Lille, Mikel Arteta, l'entraîneur d'Arsenal, a perdu Piero Hincapié et Martin Zubimendi sur blessure",
+     "url": "https://www.lequipe.fr/Football/Actualites/Avant-le-match-de-ligue-des-champions-contre-lille-mikel-arteta-l-entraineur-d-arsenal-a-perdu-piero-hincapie-et-martin-zubimendi-sur-blessure/1725236#at_medium=RSS_feeds",
+     "pub": "2026-10-12T16:14+00:00"
+    },
+    {
+     "medio": "L'Equipe",
+     "titulo": "Davide Ancelotti (Lille), à la veille du match de Lille sur la pelouse d'Arsenal en Ligue des champions : « Jouer sans perdre notre identité »",
+     "url": "https://www.lequipe.fr/Football/Actualites/Davide-ancelotti-lille-a-la-veille-du-match-de-lille-sur-la-pelouse-d-arsenal-en-ligue-des-champions-jouer-sans-perdre-notre-identite/1725250#at_medium=RSS_feeds",
+     "pub": "2026-10-12T16:53+00:00"
+    },
+    {
+     "medio": "BBC",
+     "titulo": "Lille considering legal action after Santos injury",
+     "url": "https://www.bbc.co.uk/sport/football/articles/c623d0mmym4xo?at_medium=RSS&at_campaign=rss",
+     "pub": "2026-10-13T07:30+00:00"
+    },
+    {
+     "medio": "Daily Mail",
+     "titulo": "How Carlo Ancelotti's son became more than a 'nepo-baby' manager: Lille boss Davide recites Greek mythology, bonded with Duncan Ferguson and was caught in Neymar controversy - now, he is looking to spring a shock on Arsenal",
+     "url": "https://www.dailymail.com/sport/football/article-16202707/davide-ancelotti-carlo-lille-arsenal.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+     "pub": "2026-10-13T09:26+00:00"
+    },
+    {
+     "medio": "Mirror",
+     "titulo": "'I had to choose between Arsenal or Lille – I snuck out of my room after change of heart'",
+     "url": "https://www.mirror.co.uk/sport/football/news/arsenal-lille-transfer-champions-league-37761251",
+     "pub": "2026-10-13T06:00+00:00"
+    }
+   ]
+  },
+  {
+   "tema": "Arsenal",
+   "medios": 15,
+   "lista_medios": [
+    "AS",
+    "Daily Mail",
+    "Foot Mercato",
+    "FourFourTwo",
+    "Google News EN",
+    "Google News ES",
+    "Guardian",
+    "L'Equipe",
+    "Mirror",
+    "Mundo Deportivo",
+    "Planet Football",
+    "Sky Sports",
+    "Yahoo",
+    "ge.globo",
+    "talkSPORT"
+   ],
+   "primera_vez": "2026-10-12T09:52+00:00",
+   "titulares": [
+    {
+     "medio": "talkSPORT",
+     "titulo": "Arsenal v Lille LIVE commentary: Key player to miss Champions League tie after warm down injury",
+     "url": "https://talksport.com/football/4638699/arsenal-v-lille-live-commentary-time-date-score-teams-channel/",
+     "pub": "2026-10-12T09:51+00:00"
+    },
+    {
+     "medio": "Yahoo",
+     "titulo": "Arsenal could move ahead of Bundesliga giants in chase for €150m attacker",
+     "url": "https://sports.yahoo.com/articles/arsenal-could-move-ahead-bundesliga-085000379.html",
+     "pub": "2026-10-12T08:50+00:00"
+    },
+    {
+     "medio": "Yahoo",
+     "titulo": "Arsenal midfielder wins Player of the Round award",
+     "url": "https://sports.yahoo.com/articles/arsenal-midfielder-wins-player-round-103500119.html",
+     "pub": "2026-10-12T10:35+00:00"
+    },
+    {
+     "medio": "Yahoo",
+     "titulo": "Arsenal loanee denied bicycle-kick goal by referee",
+     "url": "https://sports.yahoo.com/articles/arsenal-loanee-denied-bicycle-kick-100500413.html",
+     "pub": "2026-10-12T10:05+00:00"
+    },
+    {
+     "medio": "Guardian",
+     "titulo": "The Hotspot | Alexéi Rojas: ‘I’m passionate about sustainability – I told Arsenal: we need to fix this’",
+     "url": "https://www.theguardian.com/sport/2026/oct/12/alexei-rojas-sustainability-arsenal-environment-hotspot",
+     "pub": "2026-10-12T09:57+00:00"
+    },
+    {
+     "medio": "Daily Mail",
+     "titulo": "Mikel Arteta confirms double Arsenal injury blow as Martin Zubimendi and Piero Hincapie both miss training after sustaining problems in the WARM-DOWN against Leeds",
+     "url": "https://www.dailymail.com/sport/football/article-16202555/Arsenal-suffer-double-injury-blow-Martin-Zubimendi-Piero-Hincapie-miss-training.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+     "pub": "2026-10-12T13:05+00:00"
+    },
+    {
+     "medio": "Mirror",
+     "titulo": "Mikel Arteta rules two Arsenal players out of Lille clash as injury blows confirmed",
+     "url": "https://www.mirror.co.uk/sport/football/news/arsenal-injury-news-champions-league-37763158",
+     "pub": "2026-10-12T12:54+00:00"
+    },
+    {
+     "medio": "Yahoo",
+     "titulo": "Arsenal loanee keeps 1st clean sheet for new club",
+     "url": "https://sports.yahoo.com/articles/arsenal-loanee-keeps-1st-clean-120500567.html",
+     "pub": "2026-10-12T12:05+00:00"
+    },
+    {
+     "medio": "Yahoo",
+     "titulo": "Saliba now training on grass but Arsenal have 2 new injury absentees",
+     "url": "https://sports.yahoo.com/articles/saliba-now-training-grass-arsenal-114000746.html",
+     "pub": "2026-10-12T11:40+00:00"
+    },
+    {
+     "medio": "talkSPORT",
+     "titulo": "Arsenal legend gives ruthless opinion on Michael Carrick’s Manchester United future",
+     "url": "https://talksport.com/football/4639495/michael-carrick-manchester-united-future-reaction-emmanuel-petit/",
+     "pub": "2026-10-12T13:49+00:00"
+    },
+    {
+     "medio": "Yahoo",
+     "titulo": "‘Never happened in seven years’: Arsenal hit with two freak injuries in post-match cool-down",
+     "url": "https://sports.yahoo.com/articles/never-happened-seven-years-arsenal-133226087.html",
+     "pub": "2026-10-12T13:32+00:00"
+    },
+    {
+     "medio": "L'Equipe",
+     "titulo": "Arsenal privé de Hincapie et Zubimendi face à Lille en Ligue des champions",
+     "url": "https://www.lequipe.fr/Football/Actualites/Arsenal-prive-de-hincapie-et-zubimendi-face-a-lille-en-ligue-des-champions/1725173#at_medium=RSS_feeds",
+     "pub": "2026-10-12T13:17+00:00"
+    }
+   ]
+  },
+  {
+   "tema": "Maresca",
+   "medios": 14,
+   "lista_medios": [
+    "BBC",
     "Daily Mail",
     "Foot Mercato",
     "FourFourTwo",
@@ -206,113 +401,13 @@
     "L'Equipe",
     "Mirror",
     "Mundo Deportivo",
-    "Ole",
-    "Planet Football",
-    "Yahoo",
-    "talkSPORT"
-   ],
-   "primera_vez": "2026-10-12T06:59+00:00",
-   "titulares": [
-    {
-     "medio": "Mirror",
-     "titulo": "Man City charges LIVE: Premier League punishment agreement as Liverpool response sent",
-     "url": "https://www.mirror.co.uk/sport/football/news/man-city-charges-live-news-37761104",
-     "pub": "2026-10-12T06:42+00:00"
-    },
-    {
-     "medio": "Mirror",
-     "titulo": "Liverpool news: Gerrard picks Van Dijk replacement as Salah continues setting new records",
-     "url": "https://www.mirror.co.uk/sport/football/news/liverpool-gerrard-van-dijk-salah-37760197",
-     "pub": "2026-10-12T04:00+00:00"
-    },
-    {
-     "medio": "Mirror",
-     "titulo": "Arsenal news: Mikel Arteta plots Liverpool hijack as Gunners near 'triple deal'",
-     "url": "https://www.mirror.co.uk/sport/football/news/arsenal-transfer-news-gilberto-mora-37760094",
-     "pub": "2026-10-12T03:00+00:00"
-    },
-    {
-     "medio": "Yahoo",
-     "titulo": "Liverpool keen on move for La Liga giant’s midfielder",
-     "url": "https://sports.yahoo.com/articles/liverpool-keen-move-la-liga-065000730.html",
-     "pub": "2026-10-12T06:50+00:00"
-    },
-    {
-     "medio": "Yahoo",
-     "titulo": "Carragher urges Iraola to drop Wirtz after Liverpool flop produces another disappointing display vs Man City",
-     "url": "https://sports.yahoo.com/articles/carragher-urges-iraola-drop-wirtz-063000443.html",
-     "pub": "2026-10-12T06:30+00:00"
-    },
-    {
-     "medio": "Yahoo",
-     "titulo": "Wayne Rooney slams Ryan Gravenberch for ‘naive and stupid’ red card in Liverpool defeat to Man City",
-     "url": "https://sports.yahoo.com/articles/wayne-rooney-slams-ryan-gravenberch-061000356.html",
-     "pub": "2026-10-12T06:10+00:00"
-    },
-    {
-     "medio": "Yahoo",
-     "titulo": "£47m Liverpool defender deal moves one step closer",
-     "url": "https://sports.yahoo.com/articles/47m-liverpool-defender-deal-moves-060500564.html",
-     "pub": "2026-10-12T06:05+00:00"
-    },
-    {
-     "medio": "Yahoo",
-     "titulo": "Liverpool must act fast if they want £21m sensation as major news emerges",
-     "url": "https://sports.yahoo.com/articles/liverpool-must-act-fast-want-053500918.html",
-     "pub": "2026-10-12T05:35+00:00"
-    },
-    {
-     "medio": "Yahoo",
-     "titulo": "Premier League star eyed by Liverpool as their next Virgil van Dijk",
-     "url": "https://sports.yahoo.com/articles/premier-league-star-eyed-liverpool-070500494.html",
-     "pub": "2026-10-12T07:05+00:00"
-    },
-    {
-     "medio": "Yahoo",
-     "titulo": "Andoni Iraola claims Liverpool played two different games against rivals",
-     "url": "https://sports.yahoo.com/articles/andoni-iraola-claims-liverpool-played-065000040.html",
-     "pub": "2026-10-12T06:50+00:00"
-    },
-    {
-     "medio": "Foot Mercato",
-     "titulo": "Liverpool en a marre de Florian Wirtz !",
-     "url": "https://www.footmercato.net/a7071901618450262316-liverpool-en-a-marre-de-florian-wirtz",
-     "pub": "2026-10-12T07:22+00:00"
-    },
-    {
-     "medio": "talkSPORT",
-     "titulo": "Heroes and Villains: Alvaro Arbeloa on borrowed time and Liverpool PA announcer’s unseen act gets applause",
-     "url": "https://talksport.com/football/4638552/premier-league-heroes-villains-analysis-reaction/",
-     "pub": "2026-10-12T07:51+00:00"
-    }
-   ]
-  },
-  {
-   "tema": "Maresca",
-   "medios": 13,
-   "lista_medios": [
-    "BBC",
-    "Daily Mail",
-    "Foot Mercato",
-    "FourFourTwo",
-    "Google News EN",
-    "Kicker",
-    "L'Equipe",
-    "Mirror",
-    "Mundo Deportivo",
     "Sky Sports",
     "Yahoo",
     "ge.globo",
     "talkSPORT"
    ],
-   "primera_vez": "2026-10-12T06:59+00:00",
+   "primera_vez": "2026-10-12T10:50+00:00",
    "titulares": [
-    {
-     "medio": "ge.globo",
-     "titulo": "Manchester City de Enzo Maresca atinge melhor início de um técnico estreante na Premier League",
-     "url": "https://ge.globo.com/futebol/futebol-internacional/futebol-ingles/noticia/2026/10/12/manchester-city-de-enzo-maresca-atinge-melhor-inicio-de-um-tecnico-estreante-na-premier-league.ghtml",
-     "pub": "2026-10-12T06:00+00:00"
-    },
     {
      "medio": "FourFourTwo",
      "titulo": "Tactics: How Manchester City boss Enzo Maresca turned the noise to his advantage to thump Liverpool 3-0",
@@ -378,6 +473,291 @@
      "titulo": "Enzo Maresca hits back at critics of Man City’s celebrations after Liverpool win: ‘Criticised for what?’",
      "url": "https://sports.yahoo.com/articles/enzo-maresca-hits-back-critics-120029399.html",
      "pub": "2026-10-13T12:11+00:00"
+    },
+    {
+     "medio": "Google News EN",
+     "titulo": "Man City: Enzo Maresca defends Anfield celebrations",
+     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQUDlJaUlOakthNzdrVzFuSVQzOWpPUF9vWndsaW93N1I4QnNkd2l3WURsbTN5UEx4djdJdFM5X2FOX1NxWTZOQ3JhZ1l0MUxBOV9Qb2dEY2RnbjBlYUphbWlCMnNmZXptSzdkcE95dVhSelJVSnZ4Z3Z6b0ZTZ1FxUG91TkpKM2tsUHpWaHc0UERnd0kxT3ZnR3NHQWhWc0d5dFE?oc=5",
+     "pub": "2026-10-13T11:29+00:00"
+    }
+   ]
+  },
+  {
+   "tema": "Liverpool",
+   "medios": 12,
+   "lista_medios": [
+    "Daily Mail",
+    "Foot Mercato",
+    "FourFourTwo",
+    "Google News EN",
+    "Guardian",
+    "Kicker",
+    "L'Equipe",
+    "Mirror",
+    "Mundo Deportivo",
+    "Ole",
+    "Yahoo",
+    "talkSPORT"
+   ],
+   "primera_vez": "2026-10-12T08:52+00:00",
+   "titulares": [
+    {
+     "medio": "Mirror",
+     "titulo": "Jamie Carragher begs Liverpool to drop Florian Wirtz immediately in latest brutal takedown",
+     "url": "https://www.mirror.co.uk/sport/football/news/jamie-carragher-liverpool-florian-wirtz-37761395",
+     "pub": "2026-10-12T08:27+00:00"
+    },
+    {
+     "medio": "Mirror",
+     "titulo": "Gianluigi Donnarumma pulled away as furious Man City star clashes with Liverpool fans",
+     "url": "https://www.mirror.co.uk/sport/football/news/donnarumma-man-city-liverpool-charges-37761691",
+     "pub": "2026-10-12T09:25+00:00"
+    },
+    {
+     "medio": "Yahoo",
+     "titulo": "Liverpool star could leave Anfield for less than €10m",
+     "url": "https://sports.yahoo.com/articles/liverpool-star-could-leave-anfield-092500727.html",
+     "pub": "2026-10-12T09:25+00:00"
+    },
+    {
+     "medio": "Yahoo",
+     "titulo": "Liverpool face big question after Man City ruthlessly expose major flaw",
+     "url": "https://sports.yahoo.com/articles/liverpool-face-big-man-city-084012155.html",
+     "pub": "2026-10-12T08:40+00:00"
+    },
+    {
+     "medio": "talkSPORT",
+     "titulo": "Liverpool told which position is a worry as transfer strategy questioned",
+     "url": "https://talksport.com/football/4638610/liverpool-defence-worry-transfer-strategy-manchester-city/",
+     "pub": "2026-10-12T10:08+00:00"
+    },
+    {
+     "medio": "FourFourTwo",
+     "titulo": "Tactics: How Manchester City boss Enzo Maresca turned the noise to his advantage to thump Liverpool 3-0",
+     "url": "https://www.fourfourtwo.com/tactic/tactics-how-manchester-city-boss-enzo-maresca-turned-the-noise-to-his-advantage-to-thump-liverpool-3-0",
+     "pub": "2026-10-12T10:30+00:00"
+    },
+    {
+     "medio": "Yahoo",
+     "titulo": "Former Liverpool star takes aim at duo after Man City defeat",
+     "url": "https://sports.yahoo.com/articles/former-liverpool-star-takes-aim-095000820.html",
+     "pub": "2026-10-12T09:50+00:00"
+    },
+    {
+     "medio": "L'Equipe",
+     "titulo": "« La Premier League est-elle une farce ? » : victorieux à Liverpool mais coupable, Manchester City suscite toujours un sentiment de malaise au sein de la presse anglaise",
+     "url": "https://www.lequipe.fr/Football/Actualites/-la-premier-league-est-elle-une-farce-victorieux-a-liverpool-mais-coupable-manchester-city-suscite-toujours-un-sentiment-de-malaise-au-sein-de-la-presse-anglaise/1725151#at_medium=RSS_feeds",
+     "pub": "2026-10-12T10:25+00:00"
+    },
+    {
+     "medio": "Foot Mercato",
+     "titulo": "Liverpool : Bradley Barcola compare la Ligue 1 et la Premier League",
+     "url": "https://www.footmercato.net/a832182935876277373-liverpool-bradley-barcola-compare-la-ligue-1-et-la-premier-league",
+     "pub": "2026-10-12T10:14+00:00"
+    },
+    {
+     "medio": "Daily Mail",
+     "titulo": "Police officer sustains 'serious facial injury' as ten arrests are made at Liverpool v Man City... including five over tragedy chanting",
+     "url": "https://www.dailymail.com/sport/football/article-16202317/Police-officer-sustains-facial-injury-ten-arrests-Liverpool-v-Man-City-including-five-tragedy-chanting.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+     "pub": "2026-10-12T11:24+00:00"
+    },
+    {
+     "medio": "Mirror",
+     "titulo": "Florian Wirtz has had long enough - now Liverpool must consider biting the bullet",
+     "url": "https://www.mirror.co.uk/sport/football/news/florian-wirtz-long-enough-now-37762301",
+     "pub": "2026-10-12T11:31+00:00"
+    },
+    {
+     "medio": "Mirror",
+     "titulo": "Ryan Gravenberch red card agreement as Liverpool get unanimous verdict",
+     "url": "https://www.mirror.co.uk/sport/football/news/gravenberch-red-card-liverpool-city-37762437",
+     "pub": "2026-10-12T11:06+00:00"
+    }
+   ]
+  },
+  {
+   "tema": "Messi",
+   "medios": 12,
+   "lista_medios": [
+    "Daily Mail",
+    "Foot Mercato",
+    "Google News AR",
+    "Google News ES",
+    "Infobae",
+    "Kicker",
+    "Mundo Deportivo",
+    "Ole",
+    "Planet Football",
+    "Record",
+    "ge.globo",
+    "talkSPORT"
+   ],
+   "primera_vez": "2026-10-12T09:52+00:00",
+   "titulares": [
+    {
+     "medio": "Mundo Deportivo",
+     "titulo": "Messi elige a los 10 cracks del futuro: ni Mastantuono ni Nico Paz y alguna sorpresa",
+     "url": "https://www.mundodeportivo.com/futbol/internacional/20261012/1004237665/messi-elige-10-cracks-futuro-mastantuono-nico-paz-sorpresa.html",
+     "pub": ""
+    },
+    {
+     "medio": "Google News AR",
+     "titulo": "Quiénes son y de qué juegan las diez estrellas del fútbol mundial que eligió Messi",
+     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPQUdTWk16MTNYa3BjRnJJMmlySlRESWoyNVRBYVYteVlVeElGZkdxWGkzXzJUSzdhMmVSdjZwWklhUW42RTV1UkkxeVhocWNENVY5MkRkSU9jbjYxa2hDdHZmcS1kNmJlMHk3c2lFZGtfRTJHb0RtSzVZcXpOU3p6V3UyS0E5OVp0M2RhNU96SVZkdU5Pb0VMbFFoRExCTmswcFN2UkVsWUp3ZzZKb2RhQ3d2d1dwcDA?oc=5",
+     "pub": "2026-10-12T10:07+00:00"
+    },
+    {
+     "medio": "Google News AR",
+     "titulo": "Messi armó la lista de las 10 mayores promesas del fútbol mundial",
+     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOTlhJdkFLRG0zdUxZSHlLb0hXNl9lMlpqR3huTWxOLTBoV0V1VVFMMEVuckVzcnRBMFJ1LUQzTmZuZ2h4SXdVMUJsNzdnTEIwQ29hV2ppVDZDdlFSTGlGMEI0Um5aZVE0dU5wX0cydlpVLWhpSUVDOE9iUnF3bHNHZmNNMGFkRUhHZnVTdmJUMk0yQjVHWXZLOXc5TTB6WlNMZUFxdmJR?oc=5",
+     "pub": "2026-10-12T09:16+00:00"
+    },
+    {
+     "medio": "Record",
+     "titulo": "<![CDATA[ 'Fala Barato' com Eduardo Madeira | \"O que achou da despedida de Lionel Messi?\" ]]>",
+     "url": "https://www.record.pt/multimedia/videos/detalhe/fala-barato-com-eduardo-madeira-o-que-achou-da-despedida-de-lionel-messi",
+     "pub": "2026-10-12T11:30+00:00"
+    },
+    {
+     "medio": "Ole",
+     "titulo": "Cristiano redobló la apuesta tras su crisis con Portugal: \"Si alguien prefiere a Messi, Pelé o Maradona es cuestión de gustos\"",
+     "url": "https://www.ole.com.ar/futbol-internacional/cristiano-ronaldo-portugal-messi-pele-maradona-crisis-declaraciones_0_r7ZR23ZKji.html",
+     "pub": "2026-10-12T11:34+00:00"
+    },
+    {
+     "medio": "Daily Mail",
+     "titulo": "Cristiano Ronaldo labels himself 'the best footballer of all time' and likens his GOAT battle with Lionel Messi to famous F1 rivalry - accusing anyone who disagrees that he is history's 'most complete player' of LYING",
+     "url": "https://www.dailymail.com/sport/football/article-16202091/Cristiano-Ronaldo-labels-best-footballer-time-accuses-doubters-LYING.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+     "pub": "2026-10-12T12:42+00:00"
+    },
+    {
+     "medio": "Mundo Deportivo",
+     "titulo": "El Messi más íntimo: \"No sé si soy consciente de todo lo que logré\"",
+     "url": "https://www.mundodeportivo.com/futbol/internacional/20261012/1004237754/messi-intimo-no-consciente-logre.html",
+     "pub": ""
+    },
+    {
+     "medio": "Foot Mercato",
+     "titulo": "Les révélations d’un membre du staff du Bénin sur l’attitude méprisante des Argentins et de Lionel Messi",
+     "url": "https://www.footmercato.net/a8589259139070585852-les-revelations-dun-membre-du-staff-du-benin-sur-lattitude-meprisante-des-argentins-et-de-lionel-messi",
+     "pub": "2026-10-12T13:06+00:00"
+    },
+    {
+     "medio": "Foot Mercato",
+     "titulo": "La liste surprenante de Lionel Messi avec 10 jeunes talents à suivre",
+     "url": "https://www.footmercato.net/a5352343044016673091-la-liste-surprenante-de-lionel-messi-avec-10-jeunes-talents-a-suivre",
+     "pub": "2026-10-12T12:02+00:00"
+    },
+    {
+     "medio": "Google News AR",
+     "titulo": "Messi eligió “10 joyas” del fútbol mundial",
+     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxONmJySmVMV0U1YW9XdWlPRmFLRk1TQjBpTE1BSnBzLUVuSlVwU29Tb2hyd2Z4SkdMaDRnaGJTSnEyYmZtVW5EN1loYkhiekNHVlNpOHRDUGxBQ1Q2QV9BVF9FRUVtdEdIUmdlZEJfeFhlRkF5NUl6Z2JCTHJQcU5iSFZpYVhDdnAy0gGOAUFVX3lxTE5HbUxCbFl3ZnVDblBSY0czX0dtSTRBZThsRF9Scm05STJHdTVzNTJGZkNqeXpTSEZOaXlINkM0WTNqc05ySU1PbHkyN21FMFpUZk1Gb3ZyUGtqbGxwVE1GRmhob3JUb01RTjVpcTBYTVNWNnZVd1RrblY4UkY5QUxQY2JCUlhNbl9rUGJZREE?oc=5",
+     "pub": "2026-10-12T12:16+00:00"
+    },
+    {
+     "medio": "Google News AR",
+     "titulo": "Cristiano Ronaldo opinó de su futuro en Portugal y volvió a autoproclamarse el mejor: “Si alguien prefiere a Messi…”",
+     "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOWnBNc1NLOGJ1b3h1U0ZNZDd3TDZFRmFWeW51bkZTY3pKRk5INjRJTmFMcE96SkhpdVZyZ0RmV0tEanpJVTBDNjkyWjF0Q1FncVB0SThtQUM0Sm82cTRBTjA2QjFhZDhsRHQtQzJnblR1UkEzMWNFaVF1WHRSaVNqZThnVm1RV3VmaW40V3dfLUhCVFI1RmRtb21iT05iRzhOVU9mLXBOSzYyVGt0UjVDMjNoRlBma0VnMjNZQ3ZCdkdrUzhLUzVnRGhlRXI4OHh2LUg3empRLVRaTkRYNGVHbWJIYlEwTFh5TTV6UWJRSVY5U0tSOXJqTw?oc=5",
+     "pub": "2026-10-12T12:54+00:00"
+    },
+    {
+     "medio": "Google News ES",
+     "titulo": "Lionel Messi pone la mira en Gilberto Mora y lo señala como una de las promesas del fútbol mundial",
+     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNMmRxa3E1aTFzVk9TSXExTUR4YkwwbUs4UzBRMHNEQ216b05GNGgtZ0xSYUlSRnhrU3JVLXVKWjQxNjNmcHJQeHhfY1JMU3A4RWhLQzhGSnEyRnY0X0YtZDdQd2tKZ1dVYUE2U09TRVQzMXRMb0NNblZHSmRGTW45eDdsMzI5amh1b3JvVmN5ZzdTeU0wd3pXalM5c1k2S0RGd2pkbTlNWEYyem1rYzkyeG9Tb3BKUdIBuwFBVV95cUxOcUZadnRoM3E3OVVRd3c3QUhrTUlOSlY4c25uT2JJNnoyN1V1RHdSazF4TkJwVjdUYTFGSG13NWUzSmtlM0lCZU53b1pUZS1pajlvei1Tc05PbE50bENBZ2xwN1JMbXlGa213ZUJzVl9sMHhfR3FpSzl4dHpJZ21QNTQ5QVUtWXRYekdrNXA5OVQwWW8tS2FaRXlPZnNOQlYxZEl3cHBtZXRNVm9WRkk2Qmlrem5MQ2w0dkVj?oc=5",
+     "pub": "2026-10-12T13:07+00:00"
+    }
+   ]
+  },
+  {
+   "tema": "Atlético",
+   "medios": 12,
+   "lista_medios": [
+    "AS",
+    "Foot Mercato",
+    "Google News AR",
+    "Google News ES",
+    "Guardian",
+    "Infobae",
+    "L'Equipe",
+    "Mundo Deportivo",
+    "Ole",
+    "Record",
+    "Yahoo",
+    "ge.globo"
+   ],
+   "primera_vez": "2026-10-12T10:50+00:00",
+   "titulares": [
+    {
+     "medio": "Mundo Deportivo",
+     "titulo": "El caliente Atlético de Madrid-Barça ya tiene horario de 'prime time'",
+     "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261012/1004237693/atletico-madrid-barca-horario-prime-time.html",
+     "pub": ""
+    },
+    {
+     "medio": "AS",
+     "titulo": "Sigue en directo la rueda de prensa de Simeone antes del Atlético vs Manchester United",
+     "url": "https://as.com/futbol/videos/sigue-en-directo-la-rueda-de-prensa-de-simeone-antes-del-atletico-vs-manchester-united-f202610-v/",
+     "pub": "2026-10-12T11:48+00:00"
+    },
+    {
+     "medio": "AS",
+     "titulo": "Baleba, un problema para el Atlético",
+     "url": "https://as.com/futbol/internacional/baleba-un-problema-para-el-cholo-f202610-n/",
+     "pub": "2026-10-12T10:09+00:00"
+    },
+    {
+     "medio": "ge.globo",
+     "titulo": "Atlético de Madrid x Manchester United na Champions League: onde assistir ao vivo e horário",
+     "url": "https://ge.globo.com/futebol/futebol-internacional/liga-dos-campeoes/noticia/2026/10/12/atletico-de-madrid-x-manchester-united-na-champions-league-onde-assistir-ao-vivo-e-horario.ghtml",
+     "pub": "2026-10-12T15:22+00:00"
+    },
+    {
+     "medio": "Google News ES",
+     "titulo": "El Gasifred Atlético conquista el V Memorial Marcelino Hernández",
+     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQc2p5d0c0cTVJMXpLT1E0TG81OWdnV21ITjFnZlVhelJSZ2pFcDR2by1SZW9zeXBlZlRfcXptTGFPQjNhb1EwRVF1Z3hocjVEaDk5ODVVT3JxUlZaQVJTdS05YjZuMFpZLXMzc29hd3ZYVExkNWlNYWJVeFY2YTRnd3Nna3dval9qR3ZMdklYNkNhR2tuM3B3Vm9oczFPLUJNMzlJZ2xxZUZqOGNCVk50R0RkZ9IBuAFBVV95cUxQS0hxaExnOWhQbGF1LVEtWjU5ekJyZF83ZmhtRk9SVVRpaVl1NVZWTlNWMkJuSzFaemJtdTJDN2VqSE41bGxQSnpDQURfUXItQzZYdTdVUGVkQkYybWFoTTJPNm9oX2lYVl94VS00eWFoMmR6and3UTR5RTlHSGZlWnNHM0tDZ3FHOV84aHNONk41dzRvc0RiVzNuM19sTDAtZkF3Vi1zZ2IzbnJVV21MbnFhN2FMX1Uz?oc=5",
+     "pub": "2026-10-12T17:08+00:00"
+    },
+    {
+     "medio": "AS",
+     "titulo": "Atlético - Manchester United, en directo: última hora de la Champions League, hoy en vivo",
+     "url": "https://as.com/futbol/champions/atletico-manchester-united-en-directo-ultima-hora-de-la-champions-league-hoy-en-vivo-f202610-d/",
+     "pub": "2026-10-13T14:25+00:00"
+    },
+    {
+     "medio": "AS",
+     "titulo": "Posible alineación del Atlético ante el Manchester United en Champions League",
+     "url": "https://as.com/futbol/champions/posible-once-del-atletico-ante-el-liverpool-en-champions-f202610-n/",
+     "pub": "2026-10-12T22:09+00:00"
+    },
+    {
+     "medio": "AS",
+     "titulo": "Ricardo López: “El Atlético es muy favorito frente al Manchester United actual”",
+     "url": "https://as.com/futbol/champions/ricardo-lopez-el-atletico-es-muy-favorito-frente-al-manchester-united-actual-f202610-n/",
+     "pub": "2026-10-13T09:10+00:00"
+    },
+    {
+     "medio": "L'Equipe",
+     "titulo": "Michael Carrick : « Nous respectons l’Atlético de Madrid comme l’un des meilleurs clubs »",
+     "url": "https://www.lequipe.fr/Football/Video/Ligue-des-champions-manchester-united-michael-carrick-nous-respectons-l-atletico-de-madrid-comme-l-un-des-meilleurs-clubs/20243092#at_medium=RSS_feeds",
+     "pub": "2026-10-13T05:54+00:00"
+    },
+    {
+     "medio": "Foot Mercato",
+     "titulo": "Atlético de Madrid : Koke forfait face à Manchester United après le décès de sa mère",
+     "url": "https://www.footmercato.net/a5091459054079562302-atletico-de-madrid-koke-forfait-face-a-manchester-united-apres-le-deces-de-sa-mere",
+     "pub": "2026-10-13T13:11+00:00"
+    },
+    {
+     "medio": "Foot Mercato",
+     "titulo": "LdC, MU : deux cadres forfaits pour le choc face à l’Atlético",
+     "url": "https://www.footmercato.net/a2322457888151966423-ldc-mu-deux-cadres-forfaits-pour-le-choc-face-a-latletico",
+     "pub": "2026-10-13T09:46+00:00"
+    },
+    {
+     "medio": "Ole",
+     "titulo": "Valdano sobre la suplencia de Julián en el Atlético: \"No se puede prescindir del mejor\"",
+     "url": "https://www.ole.com.ar/futbol-internacional/espana/julian-alvarez-valdano-atletico-madrid_0_MeGkj3h0OT.html",
+     "pub": "2026-10-13T13:16+00:00"
     }
    ]
   },
@@ -568,94 +948,94 @@
    ]
   },
   {
-   "tema": "Arsenal",
+   "tema": "Man",
    "medios": 11,
    "lista_medios": [
+    "BBC",
     "Daily Mail",
     "Foot Mercato",
-    "FourFourTwo",
+    "Football Italia",
     "Google News EN",
     "Google News ES",
-    "Guardian",
-    "L'Equipe",
     "Mirror",
     "Planet Football",
+    "Sky Sports",
     "Yahoo",
     "talkSPORT"
    ],
-   "primera_vez": "2026-10-12T06:59+00:00",
+   "primera_vez": "2026-10-12T08:52+00:00",
    "titulares": [
     {
-     "medio": "Mirror",
-     "titulo": "Arsenal news: Mikel Arteta plots Liverpool hijack as Gunners near 'triple deal'",
-     "url": "https://www.mirror.co.uk/sport/football/news/arsenal-transfer-news-gilberto-mora-37760094",
-     "pub": "2026-10-12T03:00+00:00"
+     "medio": "Sky Sports",
+     "titulo": "Neville and Carra: ‘Stain’ hangs over Man City until financial charges resolved",
+     "url": "https://www.skysports.com/football/news/12040/13598057/manchester-city-gary-neville-and-jamie-carragher-warn-of-premier-league-stain-if-resolution-on-financial-charges-is-not-found",
+     "pub": "2026-10-12T09:09+00:00"
     },
     {
-     "medio": "talkSPORT",
-     "titulo": "Arsenal v Lille LIVE commentary: Key player to miss Champions League tie after warm down injury",
-     "url": "https://talksport.com/football/4638699/arsenal-v-lille-live-commentary-time-date-score-teams-channel/",
-     "pub": "2026-10-12T09:51+00:00"
+     "medio": "Mirror",
+     "titulo": "Gianluigi Donnarumma pulled away as furious Man City star clashes with Liverpool fans",
+     "url": "https://www.mirror.co.uk/sport/football/news/donnarumma-man-city-liverpool-charges-37761691",
+     "pub": "2026-10-12T09:25+00:00"
+    },
+    {
+     "medio": "Planet Football",
+     "titulo": "What would the Premier League table look like if Man City get kicked out?",
+     "url": "https://www.planetfootball.com/premier-league/man-city-charges-premier-league-table-kicked-out-2026-27",
+     "pub": "2026-10-12T08:47+00:00"
     },
     {
      "medio": "Yahoo",
-     "titulo": "Arsenal could move ahead of Bundesliga giants in chase for €150m attacker",
-     "url": "https://sports.yahoo.com/articles/arsenal-could-move-ahead-bundesliga-085000379.html",
+     "titulo": "Virgil van Dijk raises questions over refereeing performance in Liverpool’s defeat to Man City",
+     "url": "https://sports.yahoo.com/articles/virgil-van-dijk-raises-questions-085000736.html",
      "pub": "2026-10-12T08:50+00:00"
     },
     {
      "medio": "Yahoo",
-     "titulo": "Arsenal midfielder wins Player of the Round award",
-     "url": "https://sports.yahoo.com/articles/arsenal-midfielder-wins-player-round-103500119.html",
-     "pub": "2026-10-12T10:35+00:00"
+     "titulo": "Liverpool face big question after Man City ruthlessly expose major flaw",
+     "url": "https://sports.yahoo.com/articles/liverpool-face-big-man-city-084012155.html",
+     "pub": "2026-10-12T08:40+00:00"
     },
     {
-     "medio": "Yahoo",
-     "titulo": "Arsenal loanee denied bicycle-kick goal by referee",
-     "url": "https://sports.yahoo.com/articles/arsenal-loanee-denied-bicycle-kick-100500413.html",
-     "pub": "2026-10-12T10:05+00:00"
-    },
-    {
-     "medio": "Guardian",
-     "titulo": "The Hotspot | Alexéi Rojas: ‘I’m passionate about sustainability – I told Arsenal: we need to fix this’",
-     "url": "https://www.theguardian.com/sport/2026/oct/12/alexei-rojas-sustainability-arsenal-environment-hotspot",
-     "pub": "2026-10-12T09:57+00:00"
+     "medio": "Sky Sports",
+     "titulo": "Pressing problems for Man Utd? How viral clip exposes issues for Carrick",
+     "url": "https://www.skysports.com/football/news/12040/13598084/manchester-united-viral-clip-shows-spurs-beat-the-press-at-old-trafford-and-exposes-other-issues",
+     "pub": "2026-10-12T09:59+00:00"
     },
     {
      "medio": "Daily Mail",
-     "titulo": "Mikel Arteta confirms double Arsenal injury blow as Martin Zubimendi and Piero Hincapie both miss training after sustaining problems in the WARM-DOWN against Leeds",
-     "url": "https://www.dailymail.com/sport/football/article-16202555/Arsenal-suffer-double-injury-blow-Martin-Zubimendi-Piero-Hincapie-miss-training.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-     "pub": "2026-10-12T13:05+00:00"
+     "titulo": "Erling Haaland and his dad buy £7.5m houses in Abu Dhabi, the homeland of Man City's owners, under the shadow of guilty verdict on their rule-breaking investments",
+     "url": "https://www.dailymail.com/sport/football/article-16201713/Erling-Haaland-dad-buy-7-5m-houses-Abu-Dhabi-homeland-Man-Citys-owners-shadow-guilty-verdict-rule-breaking-investments.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+     "pub": "2026-10-12T10:40+00:00"
+    },
+    {
+     "medio": "Daily Mail",
+     "titulo": "Kobbie Mainoo and Luke Shaw could miss Man United's trip to Atletico Madrid in another blow to Michael Carrick",
+     "url": "https://www.dailymail.com/sport/football/article-16202245/Kobbie-Mainoo-Luke-Shaw-miss-Man-Uniteds-trip-Atletico-Madrid-blow-Michael-Carrick.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+     "pub": "2026-10-12T10:46+00:00"
     },
     {
      "medio": "Mirror",
-     "titulo": "Mikel Arteta rules two Arsenal players out of Lille clash as injury blows confirmed",
-     "url": "https://www.mirror.co.uk/sport/football/news/arsenal-injury-news-champions-league-37763158",
-     "pub": "2026-10-12T12:54+00:00"
+     "titulo": "Man City have to be punished now before the Premier League is damaged beyond repair",
+     "url": "https://www.mirror.co.uk/sport/football/news/premier-league-man-city-punishments-37761969",
+     "pub": "2026-10-12T10:40+00:00"
+    },
+    {
+     "medio": "Planet Football",
+     "titulo": "Newcastle & Crystal Palace dire in 2026-27 xG tables, with Man Utd still surprisingly decent",
+     "url": "https://www.planetfootball.com/premier-league/2026-27-premier-league-xg-tables-man-utd-3rd-chelsea-12th-newcastle-bottom",
+     "pub": "2026-10-12T10:17+00:00"
     },
     {
      "medio": "Yahoo",
-     "titulo": "Arsenal loanee keeps 1st clean sheet for new club",
-     "url": "https://sports.yahoo.com/articles/arsenal-loanee-keeps-1st-clean-120500567.html",
-     "pub": "2026-10-12T12:05+00:00"
-    },
-    {
-     "medio": "Yahoo",
-     "titulo": "Saliba now training on grass but Arsenal have 2 new injury absentees",
-     "url": "https://sports.yahoo.com/articles/saliba-now-training-grass-arsenal-114000746.html",
-     "pub": "2026-10-12T11:40+00:00"
+     "titulo": "Former Liverpool star takes aim at duo after Man City defeat",
+     "url": "https://sports.yahoo.com/articles/former-liverpool-star-takes-aim-095000820.html",
+     "pub": "2026-10-12T09:50+00:00"
     },
     {
      "medio": "talkSPORT",
-     "titulo": "Arsenal legend gives ruthless opinion on Michael Carrick’s Manchester United future",
-     "url": "https://talksport.com/football/4639495/michael-carrick-manchester-united-future-reaction-emmanuel-petit/",
-     "pub": "2026-10-12T13:49+00:00"
-    },
-    {
-     "medio": "Yahoo",
-     "titulo": "‘Never happened in seven years’: Arsenal hit with two freak injuries in post-match cool-down",
-     "url": "https://sports.yahoo.com/articles/never-happened-seven-years-arsenal-133226087.html",
-     "pub": "2026-10-12T13:32+00:00"
+     "titulo": "Why Man City fans are waving inflatable bananas amid club chaos",
+     "url": "https://talksport.com/football/4638983/man-city-fans-inflatable-bananas/",
+     "pub": "2026-10-12T11:11+00:00"
     }
    ]
   },
@@ -665,7 +1045,7 @@
    "lista_medios": [
     "AS",
     "Daily Mail",
-    "Google News EN",
+    "FourFourTwo",
     "Google News ES",
     "Infobae",
     "Ole",
@@ -675,55 +1055,13 @@
     "ge.globo",
     "talkSPORT"
    ],
-   "primera_vez": "2026-10-12T06:59+00:00",
+   "primera_vez": "2026-10-12T08:52+00:00",
    "titulares": [
-    {
-     "medio": "Yahoo",
-     "titulo": "22 games without a goal: Barcelona attacking midfielder’s drought continues under Flick",
-     "url": "https://sports.yahoo.com/articles/22-games-without-goal-barcelona-064000334.html",
-     "pub": "2026-10-12T06:40+00:00"
-    },
-    {
-     "medio": "Yahoo",
-     "titulo": "Rival watch: Real Betis attacking ace could miss Barcelona clash with muscle problem",
-     "url": "https://sports.yahoo.com/articles/rival-watch-real-betis-attacking-062000715.html",
-     "pub": "2026-10-12T06:20+00:00"
-    },
-    {
-     "medio": "Yahoo",
-     "titulo": "Barcelona reach agreement with homegrown star over contract extension until 2031; announcement imminent",
-     "url": "https://sports.yahoo.com/articles/barcelona-reach-agreement-homegrown-star-072100658.html",
-     "pub": "2026-10-12T07:21+00:00"
-    },
     {
      "medio": "Yahoo",
      "titulo": "Ilkay Gundogan talks Barcelona exit, Xavi, Flick, Lamine, Cubarsi, Fermin, Rodri, Gabriel Jesus",
      "url": "https://sports.yahoo.com/articles/ilkay-gundogan-talks-barcelona-exit-083400749.html",
      "pub": "2026-10-12T08:34+00:00"
-    },
-    {
-     "medio": "Yahoo",
-     "titulo": "Barcelona superstar Lamine Yamal one goal away from matching Mbappe’s Champions League record",
-     "url": "https://sports.yahoo.com/articles/barcelona-superstar-lamine-yamal-one-080700823.html",
-     "pub": "2026-10-12T08:07+00:00"
-    },
-    {
-     "medio": "Yahoo",
-     "titulo": "Confirmed: Barcelona squad list to face Galatasaray; Raphinha and two other key players ruled out",
-     "url": "https://sports.yahoo.com/articles/confirmed-barcelona-squad-list-face-074100744.html",
-     "pub": "2026-10-12T07:41+00:00"
-    },
-    {
-     "medio": "Google News EN",
-     "titulo": "Anthony Gordon's first Barcelona goal, Manuel Neuer's mistake and Djed Spence's Inter debut in the Euro Debrief",
-     "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPRU5VeV93VDdNWWxsNnJyQUdhQy1VNFBWNXh0OS1TaGNPbUZGd1FOQVB3SklzcXhNWEJBRHlsSXJLWnI4YWg2WTFsWmFqYVV3ZnBPdFBaY0h3Z09MdTV0VEdoNUVBb0N2M3pEWEY4VnZmcko4S1FJRU0tM29LTUVCR0Z5MjRxMlV0ME9BNXVWc25oWklSVmpKV0Vldi1zSkthc2NNd3JOeC1CcFdZWHNiS2JqbmNxVmhpbHF0aXd2em9INmRsZzZzbjFSR0h2bUE2eUV0Q1VQVDVsYUpZVEdjNzVmSU9xZlRqLVlBbA?oc=5",
-     "pub": "2026-10-12T07:56+00:00"
-    },
-    {
-     "medio": "Record",
-     "titulo": "<![CDATA[ Antigo presidente do Barcelona deixa aviso a Messi: «Quem é que ele pensa que é? Que tenha cuidado» ]]>",
-     "url": "https://www.record.pt/internacional/paises/espanha/barcelona/detalhe/antigo-presidente-do-barcelona-deixa-aviso-a-messi-quem-e-que-ele-pensa-que-e-que-tenha-cuidado",
-     "pub": "2026-10-12T07:59+00:00"
     },
     {
      "medio": "Yahoo",
@@ -748,469 +1086,54 @@
      "titulo": "Galatasaray manager sends strong message to Barcelona ahead of Champions League clash: ‘We won’t just defend’",
      "url": "https://sports.yahoo.com/articles/galatasaray-manager-sends-strong-message-122800330.html",
      "pub": "2026-10-12T12:28+00:00"
-    }
-   ]
-  },
-  {
-   "tema": "Messi",
-   "medios": 11,
-   "lista_medios": [
-    "Daily Mail",
-    "Foot Mercato",
-    "Google News AR",
-    "Google News ES",
-    "Infobae",
-    "Kicker",
-    "Mundo Deportivo",
-    "Ole",
-    "Planet Football",
-    "Record",
-    "talkSPORT"
-   ],
-   "primera_vez": "2026-10-12T06:59+00:00",
-   "titulares": [
-    {
-     "medio": "Mundo Deportivo",
-     "titulo": "\"Messi se despidió a lo grande\"",
-     "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261012/1004237546/notas-julio-salinas-messi-despidio-grande.html",
-     "pub": ""
     },
     {
-     "medio": "Infobae",
-     "titulo": "Nació en Nueva Zelanda, llegó a Argentina sin hablar español, eligió Vélez por sobre River y Boca y fue citado a la Selección: “Mi ídolo es Messi”",
-     "url": "https://www.infobae.com/deportes/2026/10/12/nacio-en-nueva-zelanda-llego-a-argentina-sin-hablar-espanol-eligio-velez-por-sobre-river-y-boca-y-fue-citado-a-la-seleccion-mi-idolo-es-messi/",
-     "pub": "2026-10-12T05:58+00:00"
+     "medio": "Yahoo",
+     "titulo": "Hansi Flick tests veteran Barcelona midfielder at centre-back – report",
+     "url": "https://sports.yahoo.com/articles/hansi-flick-tests-veteran-barcelona-120500211.html",
+     "pub": "2026-10-12T12:05+00:00"
     },
     {
-     "medio": "Record",
-     "titulo": "<![CDATA[ Antigo presidente do Barcelona deixa aviso a Messi: «Quem é que ele pensa que é? Que tenha cuidado» ]]>",
-     "url": "https://www.record.pt/internacional/paises/espanha/barcelona/detalhe/antigo-presidente-do-barcelona-deixa-aviso-a-messi-quem-e-que-ele-pensa-que-e-que-tenha-cuidado",
-     "pub": "2026-10-12T07:59+00:00"
+     "medio": "Yahoo",
+     "titulo": "Barcelona ace takes next step in recovery but will still miss Galatasaray clash",
+     "url": "https://sports.yahoo.com/articles/barcelona-ace-takes-next-step-114200327.html",
+     "pub": "2026-10-12T11:42+00:00"
     },
     {
-     "medio": "Mundo Deportivo",
-     "titulo": "Messi elige a los 10 cracks del futuro: ni Mastantuono ni Nico Paz y alguna sorpresa",
-     "url": "https://www.mundodeportivo.com/futbol/internacional/20261012/1004237665/messi-elige-10-cracks-futuro-mastantuono-nico-paz-sorpresa.html",
-     "pub": ""
+     "medio": "Yahoo",
+     "titulo": "Real Madrid icon issues Champions League challenge to Barcelona: ‘Let’s see if they fight for it’",
+     "url": "https://sports.yahoo.com/articles/real-madrid-icon-issues-champions-131500731.html",
+     "pub": "2026-10-12T13:15+00:00"
     },
     {
-     "medio": "Google News AR",
-     "titulo": "Quiénes son y de qué juegan las diez estrellas del fútbol mundial que eligió Messi",
-     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPQUdTWk16MTNYa3BjRnJJMmlySlRESWoyNVRBYVYteVlVeElGZkdxWGkzXzJUSzdhMmVSdjZwWklhUW42RTV1UkkxeVhocWNENVY5MkRkSU9jbjYxa2hDdHZmcS1kNmJlMHk3c2lFZGtfRTJHb0RtSzVZcXpOU3p6V3UyS0E5OVp0M2RhNU96SVZkdU5Pb0VMbFFoRExCTmswcFN2UkVsWUp3ZzZKb2RhQ3d2d1dwcDA?oc=5",
-     "pub": "2026-10-12T10:07+00:00"
+     "medio": "Yahoo",
+     "titulo": "Stat attack: Barcelona are the only team with a 100% winning record in Europe",
+     "url": "https://sports.yahoo.com/articles/stat-attack-barcelona-only-team-142000078.html",
+     "pub": "2026-10-12T14:20+00:00"
     },
     {
-     "medio": "Google News AR",
-     "titulo": "Messi armó la lista de las 10 mayores promesas del fútbol mundial",
-     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOTlhJdkFLRG0zdUxZSHlLb0hXNl9lMlpqR3huTWxOLTBoV0V1VVFMMEVuckVzcnRBMFJ1LUQzTmZuZ2h4SXdVMUJsNzdnTEIwQ29hV2ppVDZDdlFSTGlGMEI0Um5aZVE0dU5wX0cydlpVLWhpSUVDOE9iUnF3bHNHZmNNMGFkRUhHZnVTdmJUMk0yQjVHWXZLOXc5TTB6WlNMZUFxdmJR?oc=5",
-     "pub": "2026-10-12T09:16+00:00"
+     "medio": "Yahoo",
+     "titulo": "Hansi Flick’s selection dilemma in Barcelona attack ahead of Galatasaray clash",
+     "url": "https://sports.yahoo.com/articles/hansi-flick-selection-dilemma-barcelona-135900781.html",
+     "pub": "2026-10-12T13:59+00:00"
     },
     {
-     "medio": "Record",
-     "titulo": "<![CDATA[ 'Fala Barato' com Eduardo Madeira | \"O que achou da despedida de Lionel Messi?\" ]]>",
-     "url": "https://www.record.pt/multimedia/videos/detalhe/fala-barato-com-eduardo-madeira-o-que-achou-da-despedida-de-lionel-messi",
-     "pub": "2026-10-12T11:30+00:00"
+     "medio": "AS",
+     "titulo": "Rueda de prensa de Hansi Flick, en directo: declaraciones previas al Galatasaray - Barcelona de Champions",
+     "url": "https://as.com/futbol/champions/rueda-de-prensa-de-hansi-flick-en-directo-declaraciones-previas-al-galatasaray-barcelona-de-champions-f202610-d/",
+     "pub": "2026-10-12T14:40+00:00"
     },
-    {
-     "medio": "Ole",
-     "titulo": "Cristiano redobló la apuesta tras su crisis con Portugal: \"Si alguien prefiere a Messi, Pelé o Maradona es cuestión de gustos\"",
-     "url": "https://www.ole.com.ar/futbol-internacional/cristiano-ronaldo-portugal-messi-pele-maradona-crisis-declaraciones_0_r7ZR23ZKji.html",
-     "pub": "2026-10-12T11:34+00:00"
-    },
-    {
-     "medio": "Daily Mail",
-     "titulo": "Cristiano Ronaldo labels himself 'the best footballer of all time' and likens his GOAT battle with Lionel Messi to famous F1 rivalry - accusing anyone who disagrees that he is history's 'most complete player' of LYING",
-     "url": "https://www.dailymail.com/sport/football/article-16202091/Cristiano-Ronaldo-labels-best-footballer-time-accuses-doubters-LYING.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-     "pub": "2026-10-12T12:42+00:00"
-    },
-    {
-     "medio": "Mundo Deportivo",
-     "titulo": "El Messi más íntimo: \"No sé si soy consciente de todo lo que logré\"",
-     "url": "https://www.mundodeportivo.com/futbol/internacional/20261012/1004237754/messi-intimo-no-consciente-logre.html",
-     "pub": ""
-    },
-    {
-     "medio": "Foot Mercato",
-     "titulo": "Les révélations d’un membre du staff du Bénin sur l’attitude méprisante des Argentins et de Lionel Messi",
-     "url": "https://www.footmercato.net/a8589259139070585852-les-revelations-dun-membre-du-staff-du-benin-sur-lattitude-meprisante-des-argentins-et-de-lionel-messi",
-     "pub": "2026-10-12T13:06+00:00"
-    },
-    {
-     "medio": "Foot Mercato",
-     "titulo": "La liste surprenante de Lionel Messi avec 10 jeunes talents à suivre",
-     "url": "https://www.footmercato.net/a5352343044016673091-la-liste-surprenante-de-lionel-messi-avec-10-jeunes-talents-a-suivre",
-     "pub": "2026-10-12T12:02+00:00"
-    }
-   ]
-  },
-  {
-   "tema": "Enzo",
-   "medios": 11,
-   "lista_medios": [
-    "Daily Mail",
-    "Foot Mercato",
-    "FourFourTwo",
-    "Google News EN",
-    "Infobae",
-    "L'Equipe",
-    "Mirror",
-    "Ole",
-    "Yahoo",
-    "ge.globo",
-    "talkSPORT"
-   ],
-   "primera_vez": "2026-10-12T06:59+00:00",
-   "titulares": [
     {
      "medio": "ge.globo",
-     "titulo": "Manchester City de Enzo Maresca atinge melhor início de um técnico estreante na Premier League",
-     "url": "https://ge.globo.com/futebol/futebol-internacional/futebol-ingles/noticia/2026/10/12/manchester-city-de-enzo-maresca-atinge-melhor-inicio-de-um-tecnico-estreante-na-premier-league.ghtml",
-     "pub": "2026-10-12T06:00+00:00"
-    },
-    {
-     "medio": "FourFourTwo",
-     "titulo": "Tactics: How Manchester City boss Enzo Maresca turned the noise to his advantage to thump Liverpool 3-0",
-     "url": "https://www.fourfourtwo.com/tactic/tactics-how-manchester-city-boss-enzo-maresca-turned-the-noise-to-his-advantage-to-thump-liverpool-3-0",
-     "pub": "2026-10-12T10:30+00:00"
-    },
-    {
-     "medio": "Ole",
-     "titulo": "El picante posteo que hizo Enzo Fernández tras la goleada del City ante Liverpool",
-     "url": "https://www.ole.com.ar/futbol-internacional/inglaterra/enzo-fernandez-posteo-picante-clasico-liverpool-city-goleada_0_zhKkC7mK4y.html",
-     "pub": "2026-10-12T12:28+00:00"
-    },
-    {
-     "medio": "Foot Mercato",
-     "titulo": "Man City : la déclaration énigmatique d’Enzo Maresca sur l’affaire des 115 infractions financières",
-     "url": "https://www.footmercato.net/a1085803625955996560-man-city-la-declaration-enigmatique-denzo-maresca-sur-laffaire-des-115-infractions-financieres",
-     "pub": "2026-10-12T14:00+00:00"
-    },
-    {
-     "medio": "talkSPORT",
-     "titulo": "Liverpool players orchestrated deliberate playlist for Man City before Enzo Maresca revenge",
-     "url": "https://talksport.com/football/4640748/liverpool-anfield-playlist-manchester-city-enzo-maresca/",
-     "pub": "2026-10-13T09:31+00:00"
-    },
-    {
-     "medio": "Daily Mail",
-     "titulo": "Enzo Maresca hits back at critics of Man City's wild celebrations after beating Liverpool amid appeal against guilty verdict: 'What do you want us to do?'",
-     "url": "https://www.dailymail.com/sport/football/article-16205333/Enzo-Maresca-hits-critics-Man-Citys-wild-celebrations-beating-Liverpool-amid-appeal-against-guilty-verdict-you-want-do.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-     "pub": "2026-10-13T12:03+00:00"
-    },
-    {
-     "medio": "Mirror",
-     "titulo": "Enzo Maresca shares his true feelings on Pep Guardiola returning to Man City",
-     "url": "https://www.mirror.co.uk/sport/football/news/enzo-maresca-pep-guardiola-city-37766722",
-     "pub": "2026-10-13T12:09+00:00"
-    },
-    {
-     "medio": "Yahoo",
-     "titulo": "Enzo Maresca hits back at critics of Man City’s celebrations after Liverpool win: ‘Criticised for what?’",
-     "url": "https://sports.yahoo.com/articles/enzo-maresca-hits-back-critics-120029399.html",
-     "pub": "2026-10-13T12:11+00:00"
-    },
-    {
-     "medio": "Google News EN",
-     "titulo": "Man City: Enzo Maresca defends Anfield celebrations",
-     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQUDlJaUlOakthNzdrVzFuSVQzOWpPUF9vWndsaW93N1I4QnNkd2l3WURsbTN5UEx4djdJdFM5X2FOX1NxWTZOQ3JhZ1l0MUxBOV9Qb2dEY2RnbjBlYUphbWlCMnNmZXptSzdkcE95dVhSelJVSnZ4Z3Z6b0ZTZ1FxUG91TkpKM2tsUHpWaHc0UERnd0kxT3ZnR3NHQWhWc0d5dFE?oc=5",
-     "pub": "2026-10-13T11:29+00:00"
-    },
-    {
-     "medio": "L'Equipe",
-     "titulo": "« La meilleure équipe d'Europe en ce moment » : l'entraîneur de Manchester City, Enzo Maresca, fait l'éloge du PSG et demande à ses joueurs « un match parfait »",
-     "url": "https://www.lequipe.fr/Football/Actualites/-la-meilleure-equipe-d-europe-en-ce-moment-l-entraineur-de-manchester-city-enzo-maresca-fait-l-eloge-du-psg-et-demande-a-ses-joueurs-un-match-parfait/1725454#at_medium=RSS_feeds",
-     "pub": "2026-10-13T13:06+00:00"
-    },
-    {
-     "medio": "Foot Mercato",
-     "titulo": "LdC, Manchester City : Enzo Maresca rend hommage au PSG",
-     "url": "https://www.footmercato.net/a8862231521994439786-ldc-manchester-city-enzo-maresca-rend-hommage-au-psg",
-     "pub": "2026-10-13T11:45+00:00"
-    },
-    {
-     "medio": "Infobae",
-     "titulo": "El llamativo apodo que una figura del Manchester City le puso a Enzo Fernández",
-     "url": "https://www.infobae.com/deportes/2026/10/13/el-llamativo-apodo-que-una-figura-del-manchester-city-le-puso-a-enzo-fernandez/",
-     "pub": "2026-10-13T01:10+00:00"
-    }
-   ]
-  },
-  {
-   "tema": "Man",
-   "medios": 10,
-   "lista_medios": [
-    "BBC",
-    "Daily Mail",
-    "Foot Mercato",
-    "Football Italia",
-    "Google News EN",
-    "Mirror",
-    "Planet Football",
-    "Sky Sports",
-    "Yahoo",
-    "talkSPORT"
-   ],
-   "primera_vez": "2026-10-12T06:59+00:00",
-   "titulares": [
-    {
-     "medio": "Mirror",
-     "titulo": "Man City charges LIVE: Premier League punishment agreement as Liverpool response sent",
-     "url": "https://www.mirror.co.uk/sport/football/news/man-city-charges-live-news-37761104",
-     "pub": "2026-10-12T06:42+00:00"
-    },
-    {
-     "medio": "Mirror",
-     "titulo": "Man Utd news: JJ Gabriel left in transfer lurch as Michael Carrick told to change plans",
-     "url": "https://www.mirror.co.uk/sport/football/news/manchester-united-transfer-news-gabriel-37759861",
-     "pub": "2026-10-12T03:30+00:00"
-    },
-    {
-     "medio": "Planet Football",
-     "titulo": "Can you name Man City’s top 30 Premier League goalscorers?",
-     "url": "https://www.planetfootball.com/quizzes/can-name-manchester-citys-top-30-goalscorers-pl-era",
-     "pub": "2026-10-12T06:55+00:00"
-    },
-    {
-     "medio": "Yahoo",
-     "titulo": "Carragher urges Iraola to drop Wirtz after Liverpool flop produces another disappointing display vs Man City",
-     "url": "https://sports.yahoo.com/articles/carragher-urges-iraola-drop-wirtz-063000443.html",
-     "pub": "2026-10-12T06:30+00:00"
-    },
-    {
-     "medio": "Yahoo",
-     "titulo": "Andy Burnham vows to reveal all Man City dealings after being challenged by opposition",
-     "url": "https://www.yahoo.com/news/politics/articles/andy-burnham-vows-reveal-man-061000264.html",
-     "pub": "2026-10-12T06:10+00:00"
-    },
-    {
-     "medio": "Yahoo",
-     "titulo": "Wayne Rooney slams Ryan Gravenberch for ‘naive and stupid’ red card in Liverpool defeat to Man City",
-     "url": "https://sports.yahoo.com/articles/wayne-rooney-slams-ryan-gravenberch-061000356.html",
-     "pub": "2026-10-12T06:10+00:00"
-    },
-    {
-     "medio": "Mirror",
-     "titulo": "Wayne Rooney sticks to his word on Man City being stripped of titles in punishment verdict",
-     "url": "https://www.mirror.co.uk/sport/football/news/wayne-rooney-man-city-titles-37761184",
-     "pub": "2026-10-12T07:12+00:00"
-    },
-    {
-     "medio": "Yahoo",
-     "titulo": "The Man City mess is unsustainable for the Premier League",
-     "url": "https://sports.yahoo.com/articles/man-city-mess-unsustainable-premier-072248098.html",
-     "pub": "2026-10-12T07:24+00:00"
-    },
-    {
-     "medio": "Sky Sports",
-     "titulo": "Neville and Carra: ‘Stain’ hangs over Man City until financial charges resolved",
-     "url": "https://www.skysports.com/football/news/12040/13598057/manchester-city-gary-neville-and-jamie-carragher-warn-of-premier-league-stain-if-resolution-on-financial-charges-is-not-found",
-     "pub": "2026-10-12T09:09+00:00"
-    },
-    {
-     "medio": "Yahoo",
-     "titulo": "Premier League review: Man City maintain perfect record but will it matter?",
-     "url": "https://sports.yahoo.com/articles/premier-league-review-man-city-075222242.html",
-     "pub": "2026-10-12T08:14+00:00"
-    },
-    {
-     "medio": "Mirror",
-     "titulo": "Gianluigi Donnarumma pulled away as furious Man City star clashes with Liverpool fans",
-     "url": "https://www.mirror.co.uk/sport/football/news/donnarumma-man-city-liverpool-charges-37761691",
-     "pub": "2026-10-12T09:25+00:00"
-    },
-    {
-     "medio": "Planet Football",
-     "titulo": "What would the Premier League table look like if Man City get kicked out?",
-     "url": "https://www.planetfootball.com/premier-league/man-city-charges-premier-league-table-kicked-out-2026-27",
-     "pub": "2026-10-12T08:47+00:00"
-    }
-   ]
-  },
-  {
-   "tema": "Arteta",
-   "medios": 10,
-   "lista_medios": [
-    "Daily Mail",
-    "Foot Mercato",
-    "Google News EN",
-    "L'Equipe",
-    "Mirror",
-    "Mundo Deportivo",
-    "Planet Football",
-    "Record",
-    "Yahoo",
-    "talkSPORT"
-   ],
-   "primera_vez": "2026-10-12T06:59+00:00",
-   "titulares": [
-    {
-     "medio": "Mirror",
-     "titulo": "Arsenal news: Mikel Arteta plots Liverpool hijack as Gunners near 'triple deal'",
-     "url": "https://www.mirror.co.uk/sport/football/news/arsenal-transfer-news-gilberto-mora-37760094",
-     "pub": "2026-10-12T03:00+00:00"
-    },
-    {
-     "medio": "Daily Mail",
-     "titulo": "Mikel Arteta confirms double Arsenal injury blow as Martin Zubimendi and Piero Hincapie both miss training after sustaining problems in the WARM-DOWN against Leeds",
-     "url": "https://www.dailymail.com/sport/football/article-16202555/Arsenal-suffer-double-injury-blow-Martin-Zubimendi-Piero-Hincapie-miss-training.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-     "pub": "2026-10-12T13:05+00:00"
-    },
-    {
-     "medio": "Mirror",
-     "titulo": "Mikel Arteta rules two Arsenal players out of Lille clash as injury blows confirmed",
-     "url": "https://www.mirror.co.uk/sport/football/news/arsenal-injury-news-champions-league-37763158",
-     "pub": "2026-10-12T12:54+00:00"
-    },
-    {
-     "medio": "Foot Mercato",
-     "titulo": "LdC, Arsenal : Mikel Arteta annonce deux forfaits face au LOSC",
-     "url": "https://www.footmercato.net/a5126064728700036181-ldc-arsenal-mikel-arteta-annonce-deux-forfaits-face-au-losc",
-     "pub": "2026-10-12T13:33+00:00"
-    },
-    {
-     "medio": "Planet Football",
-     "titulo": "Arteta shows what happens when you ‘touch’ Arsenal’s ‘identity’ – they go back three years",
-     "url": "https://www.planetfootball.com/arsenal/mikel-arteta-arsenal-identity-back-three-years-leeds",
-     "pub": "2026-10-12T14:43+00:00"
-    },
-    {
-     "medio": "Google News EN",
-     "titulo": "Arsenal: Arteta says there's no 'crystal ball' to stop Zubimendi and Hincapie injuries",
-     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9uejZockZ0Um94eGRGNWZqT2d4WnctRFV0OHR6TzNLdzFPbTJ3ekJGYzZ2UGU1MGhCUnV4dmo0MHg3RUJtaXg0TWphQW1hSGpoVjRMb09uc2xyV3lHVHJTamVMc2hiSEhz?oc=5",
-     "pub": "2026-10-12T14:37+00:00"
-    },
-    {
-     "medio": "Mundo Deportivo",
-     "titulo": "Arteta, afectado por dos surrealistas e inesperadas lesiones",
-     "url": "https://www.mundodeportivo.com/futbol/champions-league/20261012/1004237789/surrealistas-lesiones-zubimendi-e-hincapie.html",
-     "pub": ""
-    },
-    {
-     "medio": "talkSPORT",
-     "titulo": "‘Bit more serious’ – Mikel Arteta gives worrying Arsenal injury update",
-     "url": "https://talksport.com/football/4639737/mikel-arteta-arsenal-injury-update-hincapie-zubimendi/",
-     "pub": "2026-10-12T15:16+00:00"
-    },
-    {
-     "medio": "L'Equipe",
-     "titulo": "Arteta : «Giroud ? Une personnalité formidable»",
-     "url": "https://www.lequipe.fr/Football/Video/Ligue-des-champions-arsenal-le-bel-hommage-de-mikel-arteta-a-olivier-giroud-avant-arsenal-losc-une-personnalite-formidable/20243060#at_medium=RSS_feeds",
-     "pub": "2026-10-12T15:19+00:00"
-    },
-    {
-     "medio": "L'Equipe",
-     "titulo": "Avant le match de Ligue des champions contre Lille, Mikel Arteta, l'entraîneur d'Arsenal, a perdu Piero Hincapié et Martin Zubimendi sur blessure",
-     "url": "https://www.lequipe.fr/Football/Actualites/Avant-le-match-de-ligue-des-champions-contre-lille-mikel-arteta-l-entraineur-d-arsenal-a-perdu-piero-hincapie-et-martin-zubimendi-sur-blessure/1725236#at_medium=RSS_feeds",
-     "pub": "2026-10-12T16:14+00:00"
-    },
-    {
-     "medio": "Record",
-     "titulo": "<![CDATA[ Lesões em treino de recuperação deixam Arteta perplexo: «Se soubesse tinha mandado todos para o jacuzzi» ]]>",
-     "url": "https://www.record.pt/internacional/paises/inglaterra/arsenal/detalhe/lesoes-em-treino-de-recuperacao-deixam-arteta-perplexo-se-soubesse-tinha-mandado-todos-para-o-jacuzzi",
-     "pub": "2026-10-12T16:11+00:00"
-    },
-    {
-     "medio": "Yahoo",
-     "titulo": "Mikel Arteta sends message to Bukayo Saka after recent performances",
-     "url": "https://sports.yahoo.com/articles/mikel-arteta-sends-message-bukayo-115000156.html",
-     "pub": "2026-10-13T11:50+00:00"
-    }
-   ]
-  },
-  {
-   "tema": "Newcastle",
-   "medios": 10,
-   "lista_medios": [
-    "BBC",
-    "Daily Mail",
-    "FourFourTwo",
-    "Google News EN",
-    "Google News ES",
-    "Guardian",
-    "Planet Football",
-    "Sky Sports",
-    "Telegraph",
-    "talkSPORT"
-   ],
-   "primera_vez": "2026-10-12T06:59+00:00",
-   "titulares": [
-    {
-     "medio": "Google News EN",
-     "titulo": "Newcastle transfer rumours: Antonio Nusa",
-     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5YeE9NXzZlOFZrTkNOb3lMM1I5Q0Q5WmY4aURfS0REUlR6YmE1WVNOZ0pNSi1WRW00eFdZWC1kX2lXd0NoaVFMQkxWb2FEWURpTmh1Z2tkSU5CSGdzeloxRlowbEZGYTV0S2Vr?oc=5",
-     "pub": "2026-10-12T06:18+00:00"
-    },
-    {
-     "medio": "Google News ES",
-     "titulo": "Coventry City – Newcastle: horario y dónde ver hoy por TV el partido de fútbol de la Premier League",
-     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNM1I5UmtRXzhZRkhLMGtJUm94R2h0RVUzSWFhRXZ4THN0ZG5Pa1I0OFdDNktOOF9rSjlvV1dwMkt4cGIxczZWWVBXazJEVFBVZUx4Z01UUTl0WlNxLXY5anV6RVJRZ2dXbkFpM3JCbGlMZ3RvTnI0RjNUbXdCZlBYblJ1SGdpVWlTQzB0OFd4aTdvVk5lRmxsdHRlQ013N2lVUkZFbWVRWG5lbnBYOURBU9IBtgFBVV95cUxObXMzWkh1VERzeHk3a3RmUXdxWU9yeEhBTExGSndwSDBlUWVjTUlPa3dpalVLSVhkSWJpNXMxR0kxSVVMRVNwRkZnRGpfM3dGYW9NdUo4V01rZjVZVEtNTm9NSkwtVGJGcFJXWVBZaTdmUG5xQkNaVWJCSnBnREVXclRlZXctVjJNZ001MXhZY0dMSVFLM1NhblFRTW8wR1B4ODA0VUVzYWNFZTN0YVBfakRxUXVyUQ?oc=5",
-     "pub": "2026-10-12T04:00+00:00"
-    },
-    {
-     "medio": "Google News EN",
-     "titulo": "Coventry vs Newcastle predictions: Chris Sutton on Premier League game",
-     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE81MTZxeGt1akRzUWVrTXhTSGx2NGJwb1d1OC1ORUxVRmNvVEo5b2tVbTREb3dOS2J6Vm5nSHNfbTFBZUJfZVdWVm96aFFPdUxCTVp6RmYwY2h2aUl4ZVhwNDBZS2RxLW9X?oc=5",
-     "pub": "2026-10-12T07:05+00:00"
-    },
-    {
-     "medio": "talkSPORT",
-     "titulo": "Matthias Jaissle issues hands-off warning to club regarding potential Newcastle sale",
-     "url": "https://talksport.com/football/4638590/joe-willock-besiktas-transfer-rumour-newcastle-contract-extension/",
-     "pub": "2026-10-12T08:36+00:00"
-    },
-    {
-     "medio": "Planet Football",
-     "titulo": "Newcastle & Crystal Palace dire in 2026-27 xG tables, with Man Utd still surprisingly decent",
-     "url": "https://www.planetfootball.com/premier-league/2026-27-premier-league-xg-tables-man-utd-3rd-chelsea-12th-newcastle-bottom",
-     "pub": "2026-10-12T10:17+00:00"
-    },
-    {
-     "medio": "FourFourTwo",
-     "titulo": "How to watch Coventry City vs Newcastle United for FREE",
-     "url": "https://www.fourfourtwo.com/competition/how-to-watch-coventry-city-vs-newcastle-united-free",
-     "pub": "2026-10-12T16:00+00:00"
-    },
-    {
-     "medio": "Guardian",
-     "titulo": "Coventry City v Newcastle United: Premier League – live",
-     "url": "https://www.theguardian.com/football/live/2026/oct/12/coventry-city-newcastle-united-premier-league-live-score-updates",
-     "pub": "2026-10-12T17:30+00:00"
-    },
-    {
-     "medio": "Sky Sports",
-     "titulo": "Gonzalez starts for Newcastle at Coventry as duo return from injury LIVE!",
-     "url": "https://www.skysports.com/football/coventry-city-vs-newcastle-united/live/559497",
-     "pub": "2026-10-12T18:30+00:00"
-    },
-    {
-     "medio": "BBC",
-     "titulo": "Coventry thrash Newcastle to claim first home win of season",
-     "url": "https://www.bbc.co.uk/sport/football/videos/c65y71z4rjj2o?at_medium=RSS&at_campaign=rss",
-     "pub": "2026-10-12T21:35+00:00"
-    },
-    {
-     "medio": "BBC",
-     "titulo": "Lampard keeping 'feet on ground' following big win over Newcastle",
-     "url": "https://www.bbc.co.uk/sport/football/videos/cqvgrp5225z7o?at_medium=RSS&at_campaign=rss",
-     "pub": "2026-10-12T21:43+00:00"
-    },
-    {
-     "medio": "Guardian",
-     "titulo": "Coventry land long-awaited home win as Mfuni seals rout of Newcastle",
-     "url": "https://www.theguardian.com/football/2026/oct/12/coventry-newcastle-premier-league-match-report",
-     "pub": "2026-10-12T21:09+00:00"
-    },
-    {
-     "medio": "Sky Sports",
-     "titulo": "Jaissle sorry for Coventry loss as Carra says Newcastle 'beaten up' again",
-     "url": "https://www.skysports.com/football/news/12040/13598360/matthias-jaissle-newcastle-boss-apologises-for-coventry-loss-as-jamie-carragher-says-they-were-beaten-up",
-     "pub": "2026-10-12T23:25+00:00"
+     "titulo": "Galatasaray x Barcelona na Champions League: onde assistir ao vivo e horário",
+     "url": "https://ge.globo.com/futebol/futebol-internacional/liga-dos-campeoes/noticia/2026/10/12/galatasaray-x-barcelona-na-champions-league-onde-assistir-ao-vivo-e-horario.ghtml",
+     "pub": "2026-10-12T14:03+00:00"
     }
    ]
   },
   {
    "tema": "Simeone",
-   "medios": 10,
+   "medios": 11,
    "lista_medios": [
     "AS",
     "BBC",
@@ -1221,6 +1144,7 @@
     "L'Equipe",
     "Mundo Deportivo",
     "Ole",
+    "Planet Football",
     "Yahoo"
    ],
    "primera_vez": "2026-10-12T08:52+00:00",
@@ -1300,6 +1224,546 @@
    ]
   },
   {
+   "tema": "Enzo",
+   "medios": 11,
+   "lista_medios": [
+    "Daily Mail",
+    "Foot Mercato",
+    "FourFourTwo",
+    "Google News EN",
+    "Infobae",
+    "L'Equipe",
+    "Mirror",
+    "Ole",
+    "Yahoo",
+    "ge.globo",
+    "talkSPORT"
+   ],
+   "primera_vez": "2026-10-12T10:50+00:00",
+   "titulares": [
+    {
+     "medio": "FourFourTwo",
+     "titulo": "Tactics: How Manchester City boss Enzo Maresca turned the noise to his advantage to thump Liverpool 3-0",
+     "url": "https://www.fourfourtwo.com/tactic/tactics-how-manchester-city-boss-enzo-maresca-turned-the-noise-to-his-advantage-to-thump-liverpool-3-0",
+     "pub": "2026-10-12T10:30+00:00"
+    },
+    {
+     "medio": "Ole",
+     "titulo": "El picante posteo que hizo Enzo Fernández tras la goleada del City ante Liverpool",
+     "url": "https://www.ole.com.ar/futbol-internacional/inglaterra/enzo-fernandez-posteo-picante-clasico-liverpool-city-goleada_0_zhKkC7mK4y.html",
+     "pub": "2026-10-12T12:28+00:00"
+    },
+    {
+     "medio": "Foot Mercato",
+     "titulo": "Man City : la déclaration énigmatique d’Enzo Maresca sur l’affaire des 115 infractions financières",
+     "url": "https://www.footmercato.net/a1085803625955996560-man-city-la-declaration-enigmatique-denzo-maresca-sur-laffaire-des-115-infractions-financieres",
+     "pub": "2026-10-12T14:00+00:00"
+    },
+    {
+     "medio": "talkSPORT",
+     "titulo": "Liverpool players orchestrated deliberate playlist for Man City before Enzo Maresca revenge",
+     "url": "https://talksport.com/football/4640748/liverpool-anfield-playlist-manchester-city-enzo-maresca/",
+     "pub": "2026-10-13T09:31+00:00"
+    },
+    {
+     "medio": "Daily Mail",
+     "titulo": "Enzo Maresca hits back at critics of Man City's wild celebrations after beating Liverpool amid appeal against guilty verdict: 'What do you want us to do?'",
+     "url": "https://www.dailymail.com/sport/football/article-16205333/Enzo-Maresca-hits-critics-Man-Citys-wild-celebrations-beating-Liverpool-amid-appeal-against-guilty-verdict-you-want-do.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+     "pub": "2026-10-13T12:03+00:00"
+    },
+    {
+     "medio": "Mirror",
+     "titulo": "Enzo Maresca shares his true feelings on Pep Guardiola returning to Man City",
+     "url": "https://www.mirror.co.uk/sport/football/news/enzo-maresca-pep-guardiola-city-37766722",
+     "pub": "2026-10-13T12:09+00:00"
+    },
+    {
+     "medio": "Yahoo",
+     "titulo": "Enzo Maresca hits back at critics of Man City’s celebrations after Liverpool win: ‘Criticised for what?’",
+     "url": "https://sports.yahoo.com/articles/enzo-maresca-hits-back-critics-120029399.html",
+     "pub": "2026-10-13T12:11+00:00"
+    },
+    {
+     "medio": "Google News EN",
+     "titulo": "Man City: Enzo Maresca defends Anfield celebrations",
+     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQUDlJaUlOakthNzdrVzFuSVQzOWpPUF9vWndsaW93N1I4QnNkd2l3WURsbTN5UEx4djdJdFM5X2FOX1NxWTZOQ3JhZ1l0MUxBOV9Qb2dEY2RnbjBlYUphbWlCMnNmZXptSzdkcE95dVhSelJVSnZ4Z3Z6b0ZTZ1FxUG91TkpKM2tsUHpWaHc0UERnd0kxT3ZnR3NHQWhWc0d5dFE?oc=5",
+     "pub": "2026-10-13T11:29+00:00"
+    },
+    {
+     "medio": "L'Equipe",
+     "titulo": "« La meilleure équipe d'Europe en ce moment » : l'entraîneur de Manchester City, Enzo Maresca, fait l'éloge du PSG et demande à ses joueurs « un match parfait »",
+     "url": "https://www.lequipe.fr/Football/Actualites/-la-meilleure-equipe-d-europe-en-ce-moment-l-entraineur-de-manchester-city-enzo-maresca-fait-l-eloge-du-psg-et-demande-a-ses-joueurs-un-match-parfait/1725454#at_medium=RSS_feeds",
+     "pub": "2026-10-13T13:06+00:00"
+    },
+    {
+     "medio": "Foot Mercato",
+     "titulo": "LdC, Manchester City : Enzo Maresca rend hommage au PSG",
+     "url": "https://www.footmercato.net/a8862231521994439786-ldc-manchester-city-enzo-maresca-rend-hommage-au-psg",
+     "pub": "2026-10-13T11:45+00:00"
+    },
+    {
+     "medio": "Infobae",
+     "titulo": "El llamativo apodo que una figura del Manchester City le puso a Enzo Fernández",
+     "url": "https://www.infobae.com/deportes/2026/10/13/el-llamativo-apodo-que-una-figura-del-manchester-city-le-puso-a-enzo-fernandez/",
+     "pub": "2026-10-13T01:10+00:00"
+    },
+    {
+     "medio": "Yahoo",
+     "titulo": "Enzo Maresca reveals what Man City need to beat PSG",
+     "url": "https://sports.yahoo.com/articles/enzo-maresca-reveals-man-city-200500960.html",
+     "pub": "2026-10-13T20:05+00:00"
+    }
+   ]
+  },
+  {
+   "tema": "Wirtz",
+   "medios": 10,
+   "lista_medios": [
+    "BBC",
+    "Foot Mercato",
+    "Google News EN",
+    "Guardian",
+    "Kicker",
+    "Mirror",
+    "Mundo Deportivo",
+    "Planet Football",
+    "Sky Sports",
+    "talkSPORT"
+   ],
+   "primera_vez": "2026-10-12T08:52+00:00",
+   "titulares": [
+    {
+     "medio": "Mirror",
+     "titulo": "Jamie Carragher begs Liverpool to drop Florian Wirtz immediately in latest brutal takedown",
+     "url": "https://www.mirror.co.uk/sport/football/news/jamie-carragher-liverpool-florian-wirtz-37761395",
+     "pub": "2026-10-12T08:27+00:00"
+    },
+    {
+     "medio": "talkSPORT",
+     "titulo": "Andoni Iraola told he must drop Florian Wirtz as £116m star’s ‘confidence is shot’",
+     "url": "https://talksport.com/football/4638981/florian-wirtz-liverpool-stats-team-news-andoni-iraola/",
+     "pub": "2026-10-12T11:16+00:00"
+    },
+    {
+     "medio": "Mirror",
+     "titulo": "Florian Wirtz has had long enough - now Liverpool must consider biting the bullet",
+     "url": "https://www.mirror.co.uk/sport/football/news/florian-wirtz-long-enough-now-37762301",
+     "pub": "2026-10-12T11:31+00:00"
+    },
+    {
+     "medio": "Planet Football",
+     "titulo": "8 massive superstar signings who made their team worse: Mbappe, Ronaldo, Wirtz…",
+     "url": "https://www.planetfootball.com/lists-and-rankings/superstar-signings-made-team-worse-ronaldo-mbappe-messi",
+     "pub": "2026-10-13T10:00+00:00"
+    },
+    {
+     "medio": "Kicker",
+     "titulo": "Sanfte Töne von Reds-Legende Gerrard: \"Wirtz braucht Hilfe\"",
+     "url": "https://www.kicker.de/sanfte-toene-von-reds-legende-gerrard-wirtz-braucht-hilfe-1260797/artikel#omrss",
+     "pub": "2026-10-13T10:49+00:00"
+    },
+    {
+     "medio": "BBC",
+     "titulo": "Liverpool's Wirtz problem - does he need to be dropped?",
+     "url": "https://www.bbc.co.uk/sport/football/articles/cvglw07rx6jeo?at_medium=RSS&at_campaign=rss",
+     "pub": "2026-10-13T16:45+00:00"
+    },
+    {
+     "medio": "Guardian",
+     "titulo": "Iraola has ‘100% trust’ in Wirtz and Barcola but tells others to step up",
+     "url": "https://www.theguardian.com/football/2026/oct/13/andoni-iraola-trust-florian-wirtz-bradley-barcola-others-to-step-up-liverpool",
+     "pub": "2026-10-13T17:20+00:00"
+    },
+    {
+     "medio": "Sky Sports",
+     "titulo": "Iraola has ‘100 per cent’ trust in Wirtz and Barcola",
+     "url": "https://www.skysports.com/football/news/12040/13598938/andoni-iraola-liverpool-boss-has-100-per-cent-trust-in-florian-wirtz-and-bradley-barcola",
+     "pub": "2026-10-13T18:09+00:00"
+    },
+    {
+     "medio": "Mirror",
+     "titulo": "Liverpool boss Andoni Iraola responds to Bradley Barcola and Florian Wirtz criticism",
+     "url": "https://www.mirror.co.uk/sport/football/news/liverpool-boss-andoni-iraola-responds-37768665",
+     "pub": "2026-10-13T18:02+00:00"
+    },
+    {
+     "medio": "Google News EN",
+     "titulo": "Florian Wirtz: Should Liverpool drop Germany playmaker?",
+     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5ER2VJalZ3RWtRQXVteUlwcE5yekhfcFo2UXdVYm5aZWZjY2cwaTFLWHQ4eVVNNnZPeDdCdFY3VVQ5X2tpQzF2YlRTSG1xb09qT3pLZkF1eHAwTWFGN0M4enphRXVqLTczLWQw?oc=5",
+     "pub": "2026-10-13T16:45+00:00"
+    },
+    {
+     "medio": "Mundo Deportivo",
+     "titulo": "Iraola sale en defensa de Wirtz y Barcola",
+     "url": "https://www.mundodeportivo.com/futbol/champions-league/20261013/1004238355/iraola-sale-defensa-wirtz-barcola.html",
+     "pub": ""
+    },
+    {
+     "medio": "Foot Mercato",
+     "titulo": "Liverpool : Andoni Iraola vole au secours de Wirtz et Barcola",
+     "url": "https://www.footmercato.net/a134344823150321335-liverpool-andoni-iraola-vole-au-secours-de-wirtz-et-barcola",
+     "pub": "2026-10-13T17:39+00:00"
+    }
+   ]
+  },
+  {
+   "tema": "Galatasaray",
+   "medios": 10,
+   "lista_medios": [
+    "AS",
+    "Foot Mercato",
+    "FourFourTwo",
+    "Google News EN",
+    "Google News ES",
+    "Kicker",
+    "Mundo Deportivo",
+    "Ole",
+    "Yahoo",
+    "ge.globo"
+   ],
+   "primera_vez": "2026-10-12T08:52+00:00",
+   "titulares": [
+    {
+     "medio": "Foot Mercato",
+     "titulo": "Barça : le groupe sans Raphinha contre Galatasaray",
+     "url": "https://www.footmercato.net/a3263380708245621541-barca-le-groupe-sans-raphinha-contre-galatasaray",
+     "pub": "2026-10-12T08:23+00:00"
+    },
+    {
+     "medio": "Mundo Deportivo",
+     "titulo": "Visitar al Galatasaray nunca pasa desapercibido para el Barça",
+     "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261012/1004237543/visitar-galatasaray-nunca-pasa-desapercibido-barca.html",
+     "pub": ""
+    },
+    {
+     "medio": "Google News ES",
+     "titulo": "¿De dónde sale tanto dinero? El Galatasaray y el renacimiento del fútbol turco",
+     "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOcFBNbWcyTGt3REpxUXUyVFV4YkFmcVowbllnS2Y1eVpVVXdHQWlvRHVoem42UUxHbzcxeV9BYkwtRzRYSkk1WHJwci1lajl5Ny1aUDFwUUNlTU14Snp5d1Y3ZUpPOG1yUFFyOFR0U0tmejJhZ1NUV2FrSkw5amF2bHdMSGRQVWxOQVVNTGVQMFJSMDJaSUgyOWhySUIxaHR0Tm1GeTFPV1FOUHRwLVg1T3M1NVN4YzRLLWxfQmN6N0wxcllFMEdrMWFGSDhRcnfSAdQBQVVfeXFMTndwQUhyNGUtQVRycl84RU5CNG1BNzNxNmpFUzVHVU9aY1RZMzZpSVgxUU85b0ZWNGRvVEJHdWpZMENwZ25SRnRXTEpMTnhycXUzemdyUDBEb2Nvb0tOR3M4TkNULUtFVXVzb1hvVzdWOFVIZ18wTVBYcm1wS2NjRzNPeTNQdExJbDdld01zQnhUcURsYUhFR25FdUEwdVpZMTlHd18ydGxqZUdEUTZ6RjhyWnhyMnVpTHYxQlYtVlBzdjVZMGFHRV9VcWU0aU8wd3NfdTA?oc=5",
+     "pub": "2026-10-12T09:22+00:00"
+    },
+    {
+     "medio": "Yahoo",
+     "titulo": "Galatasaray star acknowledges Barcelona superiority ahead of UCL showdown: ‘Best team in the world right now’",
+     "url": "https://sports.yahoo.com/articles/galatasaray-star-acknowledges-barcelona-superiority-125000003.html",
+     "pub": "2026-10-12T12:50+00:00"
+    },
+    {
+     "medio": "Yahoo",
+     "titulo": "Galatasaray manager sends strong message to Barcelona ahead of Champions League clash: ‘We won’t just defend’",
+     "url": "https://sports.yahoo.com/articles/galatasaray-manager-sends-strong-message-122800330.html",
+     "pub": "2026-10-12T12:28+00:00"
+    },
+    {
+     "medio": "Yahoo",
+     "titulo": "Barcelona ace takes next step in recovery but will still miss Galatasaray clash",
+     "url": "https://sports.yahoo.com/articles/barcelona-ace-takes-next-step-114200327.html",
+     "pub": "2026-10-12T11:42+00:00"
+    },
+    {
+     "medio": "Yahoo",
+     "titulo": "Hansi Flick’s selection dilemma in Barcelona attack ahead of Galatasaray clash",
+     "url": "https://sports.yahoo.com/articles/hansi-flick-selection-dilemma-barcelona-135900781.html",
+     "pub": "2026-10-12T13:59+00:00"
+    },
+    {
+     "medio": "AS",
+     "titulo": "Rueda de prensa de Hansi Flick, en directo: declaraciones previas al Galatasaray - Barcelona de Champions",
+     "url": "https://as.com/futbol/champions/rueda-de-prensa-de-hansi-flick-en-directo-declaraciones-previas-al-galatasaray-barcelona-de-champions-f202610-d/",
+     "pub": "2026-10-12T14:40+00:00"
+    },
+    {
+     "medio": "ge.globo",
+     "titulo": "Galatasaray x Barcelona na Champions League: onde assistir ao vivo e horário",
+     "url": "https://ge.globo.com/futebol/futebol-internacional/liga-dos-campeoes/noticia/2026/10/12/galatasaray-x-barcelona-na-champions-league-onde-assistir-ao-vivo-e-horario.ghtml",
+     "pub": "2026-10-12T14:03+00:00"
+    },
+    {
+     "medio": "Yahoo",
+     "titulo": "Flick underlines Barcelona’s objective ahead of Galatasaray clash: ‘It’s a long road to the finish’",
+     "url": "https://sports.yahoo.com/articles/flick-underlines-barcelona-objective-ahead-161600077.html",
+     "pub": "2026-10-12T16:16+00:00"
+    },
+    {
+     "medio": "Yahoo",
+     "titulo": "Cubarsi talks Lamine, De Jong, Osimhen, perfect start, referees ahead of Galatasaray vs Barcelona",
+     "url": "https://sports.yahoo.com/articles/cubarsi-talks-lamine-jong-osimhen-160100074.html",
+     "pub": "2026-10-12T16:01+00:00"
+    },
+    {
+     "medio": "Mundo Deportivo",
+     "titulo": "Elogios de Flick a la joven perla del Galatasaray que sueña con el Barça",
+     "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261012/1004237887/elogios-flick-joven-perla-galatasaray-suena-barca.html",
+     "pub": ""
+    }
+   ]
+  },
+  {
+   "tema": "Luis",
+   "medios": 10,
+   "lista_medios": [
+    "AS",
+    "BBC",
+    "Foot Mercato",
+    "Football Italia",
+    "Google News ES",
+    "Infobae",
+    "Kicker",
+    "L'Equipe",
+    "Mundo Deportivo",
+    "Record"
+   ],
+   "primera_vez": "2026-10-12T10:50+00:00",
+   "titulares": [
+    {
+     "medio": "Mundo Deportivo",
+     "titulo": "El día que Maresca desactivó al PSG de Luis Enrique",
+     "url": "https://www.mundodeportivo.com/futbol/champions-league/20261012/1004237701/dia-maresca-desactivo-psg-luis-enrique.html",
+     "pub": ""
+    },
+    {
+     "medio": "Mundo Deportivo",
+     "titulo": "¡Osasuna destituye a Luis Miguel Ramis y nombra a su sustituto!",
+     "url": "https://www.mundodeportivo.com/futbol/osasuna/20261012/1004237726/osasuna-destituye-luis-miguel-ramis.html",
+     "pub": ""
+    },
+    {
+     "medio": "BBC",
+     "titulo": "The star is Luis Enrique - inside the plans to keep PSG at the top",
+     "url": "https://www.bbc.co.uk/sport/football/articles/c6kglnzvznn0o?at_medium=RSS&at_campaign=rss",
+     "pub": "2026-10-13T06:34+00:00"
+    },
+    {
+     "medio": "Kicker",
+     "titulo": "Luis Enrique zu Verlängerung: \"Habe jetzt viel mehr Druck\"",
+     "url": "https://www.kicker.de/luis-enrique-zu-verlaengerung-habe-jetzt-viel-mehr-druck-1260844/video#omrss",
+     "pub": "2026-10-13T11:37+00:00"
+    },
+    {
+     "medio": "Infobae",
+     "titulo": "La emotiva reflexión de Luis Suárez sobre la despedida de Lionel Messi de la selección argentina",
+     "url": "https://www.infobae.com/deportes/2026/10/13/la-emotiva-reflexion-de-luis-suarez-sobre-la-despedida-de-lionel-messi-de-la-seleccion-argentina/",
+     "pub": "2026-10-13T01:25+00:00"
+    },
+    {
+     "medio": "BBC",
+     "titulo": "PSG's Luis Enrique hopes Man City avoid sanctions",
+     "url": "https://www.bbc.co.uk/sport/football/articles/ck1wvd91v4pwo?at_medium=RSS&at_campaign=rss",
+     "pub": "2026-10-13T17:33+00:00"
+    },
+    {
+     "medio": "AS",
+     "titulo": "Luis Suárez silencia Lens",
+     "url": "https://as.com/futbol/internacional/luis-suarez-silencia-lens-f202610-n/",
+     "pub": "2026-10-13T18:49+00:00"
+    },
+    {
+     "medio": "Mundo Deportivo",
+     "titulo": "0-2: El Sporting conquista Lens y logra el pleno con un gran Luis Suárez",
+     "url": "https://www.mundodeportivo.com/futbol/champions-league/20261013/1004238383/sporting-conquista-lens-logra-pleno-puntos-gran-luis-suarez.html",
+     "pub": ""
+    },
+    {
+     "medio": "Mundo Deportivo",
+     "titulo": "Luis Enrique defiende al Manchester City: \"Espero que puedan evitar la sanción\"",
+     "url": "https://www.mundodeportivo.com/futbol/champions-league/20261013/1004238343/luis-enrique-defiende-manchester-city-espero-puedan-evitar-sancion.html",
+     "pub": ""
+    },
+    {
+     "medio": "Google News ES",
+     "titulo": "José Luis Sanz da la bienvenida al equipo campeón internacional de fútbol sala del Colegio San Agustín",
+     "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxQbTZoRVlBb3huLWZOUWJ5U0VBZktqN3lYX2RFMDNMSGNaTlFuTUhVa3JIcHFDUzRsb0IwSUNBNVZtSTBOalFVV21ZQWV2UEJ4cC03eFhEVlN2RmxSM2ZJZHp3ak9jWmo0ZmFXYjFoemk0SkUzVW9RdkQ4TWtLYU5TX0FrS1d2MlVaTXZvTGtFcFBNc3pIcFh4SHZ0ZTJtRDh3YnlJbkpjd3FCc1huVzM5XzlRSGhCOVExdjExNm15NFY4MVBLMGZQTU5MTmZ4LVZvbHpyUkhuQlA0ck1VbHN5NEROdS1oN2dPTnpoRS1GZzJMT3A1QW8zVXp1eWpVVWJ6bmJjYjRIOVJJQ20yanRuV1RvQVBkNlR6OEHSAZ8CQVVfeXFMTS1iYWFkMGN1VUdReXk4N3RvaGF3c2JKRTRuVzVTV083NFZFa0lzbHRRRTdZbGlEc2tlMnZGd0phNmtOeWthMUhVWVZWR3JFYzdzN25nOFV0dkN0N01OMVRBVU1YMUQyLXZEUXRHc1FTTU1qbEtTdDRZQ3F2dXViNWdiRHhSejNoTFZtVVhzT0NWcU5aN09RaHdsa0NVV1dlVTlwZ2RTcWRzTzZ0MzRJbVpQOEhJU2twUjJaMExXc08wT1o1N2F1TlRRZXRqQmw5d2J6dGE4eS1ZY05rU0ZTT1Uzbm1VMlBMSHNkM3JVeUtlcFozckNhYVFJZzkwSTlEYjRaekR2WDVHSjlsckRFZFJWYnhJTGNjcGVxdDB2ZFk?oc=5",
+     "pub": "2026-10-13T18:13+00:00"
+    },
+    {
+     "medio": "Google News ES",
+     "titulo": "¿Nuevo palo de Luis Enrique de Kylian Mbappé?: Trending reacciona a las últimas palabras del entrenador del PSG",
+     "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOdEQ5MmMwTFUzd2w3TG9nZnRFSU95T24zQWpWZkRlNU5ZenNZSDBIZHliRHV0ZFdxbnp5V1N1a2xMMzB4bXBEUlhWNVVYSzZEbm9YOEprVGxoanRCTDlEYkRaZ29tZGdKN0EyUUIwbVVKUFBVV3gzZk5DLTJvWEhsTmZEOE5BYlY2YlFDdkhTMmd2UGN2WjFETTlUNFIzMGUyTTd4QlhZREREbnpCdHF5SDRvbllDUENhUmQ5UmVqR1JTV0JDcVU4ZGFOcjdYeXd1T3Q4SzVXeHBpRUwyd1JxM3hvREpYMHk2WE0ybl9tdWI?oc=5",
+     "pub": "2026-10-13T15:22+00:00"
+    },
+    {
+     "medio": "Football Italia",
+     "titulo": "Luis Enrique: ‘Donnarumma is amongst the best goalkeepers in the world’",
+     "url": "https://football-italia.net/luis-enrique-donnarumma-among-best-in-world/",
+     "pub": "2026-10-13T17:55+00:00"
+    }
+   ]
+  },
+  {
+   "tema": "Arteta",
+   "medios": 10,
+   "lista_medios": [
+    "Daily Mail",
+    "Foot Mercato",
+    "Google News EN",
+    "L'Equipe",
+    "Mirror",
+    "Mundo Deportivo",
+    "Planet Football",
+    "Record",
+    "Yahoo",
+    "talkSPORT"
+   ],
+   "primera_vez": "2026-10-12T13:12+00:00",
+   "titulares": [
+    {
+     "medio": "Daily Mail",
+     "titulo": "Mikel Arteta confirms double Arsenal injury blow as Martin Zubimendi and Piero Hincapie both miss training after sustaining problems in the WARM-DOWN against Leeds",
+     "url": "https://www.dailymail.com/sport/football/article-16202555/Arsenal-suffer-double-injury-blow-Martin-Zubimendi-Piero-Hincapie-miss-training.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+     "pub": "2026-10-12T13:05+00:00"
+    },
+    {
+     "medio": "Mirror",
+     "titulo": "Mikel Arteta rules two Arsenal players out of Lille clash as injury blows confirmed",
+     "url": "https://www.mirror.co.uk/sport/football/news/arsenal-injury-news-champions-league-37763158",
+     "pub": "2026-10-12T12:54+00:00"
+    },
+    {
+     "medio": "Foot Mercato",
+     "titulo": "LdC, Arsenal : Mikel Arteta annonce deux forfaits face au LOSC",
+     "url": "https://www.footmercato.net/a5126064728700036181-ldc-arsenal-mikel-arteta-annonce-deux-forfaits-face-au-losc",
+     "pub": "2026-10-12T13:33+00:00"
+    },
+    {
+     "medio": "Planet Football",
+     "titulo": "Arteta shows what happens when you ‘touch’ Arsenal’s ‘identity’ – they go back three years",
+     "url": "https://www.planetfootball.com/arsenal/mikel-arteta-arsenal-identity-back-three-years-leeds",
+     "pub": "2026-10-12T14:43+00:00"
+    },
+    {
+     "medio": "Google News EN",
+     "titulo": "Arsenal: Arteta says there's no 'crystal ball' to stop Zubimendi and Hincapie injuries",
+     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9uejZockZ0Um94eGRGNWZqT2d4WnctRFV0OHR6TzNLdzFPbTJ3ekJGYzZ2UGU1MGhCUnV4dmo0MHg3RUJtaXg0TWphQW1hSGpoVjRMb09uc2xyV3lHVHJTamVMc2hiSEhz?oc=5",
+     "pub": "2026-10-12T14:37+00:00"
+    },
+    {
+     "medio": "Mundo Deportivo",
+     "titulo": "Arteta, afectado por dos surrealistas e inesperadas lesiones",
+     "url": "https://www.mundodeportivo.com/futbol/champions-league/20261012/1004237789/surrealistas-lesiones-zubimendi-e-hincapie.html",
+     "pub": ""
+    },
+    {
+     "medio": "talkSPORT",
+     "titulo": "‘Bit more serious’ – Mikel Arteta gives worrying Arsenal injury update",
+     "url": "https://talksport.com/football/4639737/mikel-arteta-arsenal-injury-update-hincapie-zubimendi/",
+     "pub": "2026-10-12T15:16+00:00"
+    },
+    {
+     "medio": "L'Equipe",
+     "titulo": "Arteta : «Giroud ? Une personnalité formidable»",
+     "url": "https://www.lequipe.fr/Football/Video/Ligue-des-champions-arsenal-le-bel-hommage-de-mikel-arteta-a-olivier-giroud-avant-arsenal-losc-une-personnalite-formidable/20243060#at_medium=RSS_feeds",
+     "pub": "2026-10-12T15:19+00:00"
+    },
+    {
+     "medio": "L'Equipe",
+     "titulo": "Avant le match de Ligue des champions contre Lille, Mikel Arteta, l'entraîneur d'Arsenal, a perdu Piero Hincapié et Martin Zubimendi sur blessure",
+     "url": "https://www.lequipe.fr/Football/Actualites/Avant-le-match-de-ligue-des-champions-contre-lille-mikel-arteta-l-entraineur-d-arsenal-a-perdu-piero-hincapie-et-martin-zubimendi-sur-blessure/1725236#at_medium=RSS_feeds",
+     "pub": "2026-10-12T16:14+00:00"
+    },
+    {
+     "medio": "Record",
+     "titulo": "<![CDATA[ Lesões em treino de recuperação deixam Arteta perplexo: «Se soubesse tinha mandado todos para o jacuzzi» ]]>",
+     "url": "https://www.record.pt/internacional/paises/inglaterra/arsenal/detalhe/lesoes-em-treino-de-recuperacao-deixam-arteta-perplexo-se-soubesse-tinha-mandado-todos-para-o-jacuzzi",
+     "pub": "2026-10-12T16:11+00:00"
+    },
+    {
+     "medio": "Yahoo",
+     "titulo": "Mikel Arteta sends message to Bukayo Saka after recent performances",
+     "url": "https://sports.yahoo.com/articles/mikel-arteta-sends-message-bukayo-115000156.html",
+     "pub": "2026-10-13T11:50+00:00"
+    }
+   ]
+  },
+  {
+   "tema": "Newcastle",
+   "medios": 9,
+   "lista_medios": [
+    "BBC",
+    "Daily Mail",
+    "FourFourTwo",
+    "Google News EN",
+    "Guardian",
+    "Planet Football",
+    "Sky Sports",
+    "Telegraph",
+    "talkSPORT"
+   ],
+   "primera_vez": "2026-10-12T08:52+00:00",
+   "titulares": [
+    {
+     "medio": "talkSPORT",
+     "titulo": "Matthias Jaissle issues hands-off warning to club regarding potential Newcastle sale",
+     "url": "https://talksport.com/football/4638590/joe-willock-besiktas-transfer-rumour-newcastle-contract-extension/",
+     "pub": "2026-10-12T08:36+00:00"
+    },
+    {
+     "medio": "Planet Football",
+     "titulo": "Newcastle & Crystal Palace dire in 2026-27 xG tables, with Man Utd still surprisingly decent",
+     "url": "https://www.planetfootball.com/premier-league/2026-27-premier-league-xg-tables-man-utd-3rd-chelsea-12th-newcastle-bottom",
+     "pub": "2026-10-12T10:17+00:00"
+    },
+    {
+     "medio": "FourFourTwo",
+     "titulo": "How to watch Coventry City vs Newcastle United for FREE",
+     "url": "https://www.fourfourtwo.com/competition/how-to-watch-coventry-city-vs-newcastle-united-free",
+     "pub": "2026-10-12T16:00+00:00"
+    },
+    {
+     "medio": "Guardian",
+     "titulo": "Coventry City v Newcastle United: Premier League – live",
+     "url": "https://www.theguardian.com/football/live/2026/oct/12/coventry-city-newcastle-united-premier-league-live-score-updates",
+     "pub": "2026-10-12T17:30+00:00"
+    },
+    {
+     "medio": "Sky Sports",
+     "titulo": "Gonzalez starts for Newcastle at Coventry as duo return from injury LIVE!",
+     "url": "https://www.skysports.com/football/coventry-city-vs-newcastle-united/live/559497",
+     "pub": "2026-10-12T18:30+00:00"
+    },
+    {
+     "medio": "BBC",
+     "titulo": "Coventry thrash Newcastle to claim first home win of season",
+     "url": "https://www.bbc.co.uk/sport/football/videos/c65y71z4rjj2o?at_medium=RSS&at_campaign=rss",
+     "pub": "2026-10-12T21:35+00:00"
+    },
+    {
+     "medio": "BBC",
+     "titulo": "Lampard keeping 'feet on ground' following big win over Newcastle",
+     "url": "https://www.bbc.co.uk/sport/football/videos/cqvgrp5225z7o?at_medium=RSS&at_campaign=rss",
+     "pub": "2026-10-12T21:43+00:00"
+    },
+    {
+     "medio": "Guardian",
+     "titulo": "Coventry land long-awaited home win as Mfuni seals rout of Newcastle",
+     "url": "https://www.theguardian.com/football/2026/oct/12/coventry-newcastle-premier-league-match-report",
+     "pub": "2026-10-12T21:09+00:00"
+    },
+    {
+     "medio": "Sky Sports",
+     "titulo": "Jaissle sorry for Coventry loss as Carra says Newcastle 'beaten up' again",
+     "url": "https://www.skysports.com/football/news/12040/13598360/matthias-jaissle-newcastle-boss-apologises-for-coventry-loss-as-jamie-carragher-says-they-were-beaten-up",
+     "pub": "2026-10-12T23:25+00:00"
+    },
+    {
+     "medio": "Sky Sports",
+     "titulo": "Coventry thump Newcastle for first home win to move out of drop zone",
+     "url": "https://www.skysports.com/football/coventry-city-vs-newcastle-united/report/559497",
+     "pub": "2026-10-12T22:00+00:00"
+    },
+    {
+     "medio": "Daily Mail",
+     "titulo": "Coventry 4-1 Newcastle: Sky Blues show Man City what a win built on honesty and grit looks like, writes CRAIG HOPE - as Frank Lampard's men secure their first home Premier League win in 25 years against leaderless Magpies",
+     "url": "https://www.dailymail.com/sport/football/article-16203659/Coventry-4-1-Newcastle-CRAIG-HOPE-Frank-Lampard-men-Premier-League-win-25-YEARS-leaderless-Magpies.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+     "pub": "2026-10-13T06:13+00:00"
+    },
+    {
+     "medio": "Telegraph",
+     "titulo": "Painful Coventry defeat will send shudder of fear through Newcastle",
+     "url": "https://www.telegraph.co.uk/football/2026/10/12/coventry-vs-newcastle-live-score-latest-premier-league/",
+     "pub": "2026-10-13T08:10+00:00"
+    }
+   ]
+  },
+  {
    "tema": "Carrick",
    "medios": 9,
    "lista_medios": [
@@ -1313,14 +1777,8 @@
     "Mundo Deportivo",
     "Sky Sports"
    ],
-   "primera_vez": "2026-10-12T06:59+00:00",
+   "primera_vez": "2026-10-12T10:50+00:00",
    "titulares": [
-    {
-     "medio": "Mirror",
-     "titulo": "Man Utd news: JJ Gabriel left in transfer lurch as Michael Carrick told to change plans",
-     "url": "https://www.mirror.co.uk/sport/football/news/manchester-united-transfer-news-gabriel-37759861",
-     "pub": "2026-10-12T03:30+00:00"
-    },
     {
      "medio": "Sky Sports",
      "titulo": "Pressing problems for Man Utd? How viral clip exposes issues for Carrick",
@@ -1386,807 +1844,21 @@
      "titulo": "'Michael Carrick told me: \"Management's not for me\"': Nicky Butt's damning revelations on private conversations with Man United boss as he becomes second-favourite for the sack",
      "url": "https://www.dailymail.com/sport/football/article-16204519/Michael-Carrick-told-Managements-not-Nicky-Butts-damning-revelations-private-conversations-Man-United-boss-second-favourite-sack.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
      "pub": "2026-10-13T08:36+00:00"
-    }
-   ]
-  },
-  {
-   "tema": "Atlético",
-   "medios": 9,
-   "lista_medios": [
-    "AS",
-    "Foot Mercato",
-    "Google News AR",
-    "Google News ES",
-    "Infobae",
-    "L'Equipe",
-    "Mundo Deportivo",
-    "Ole",
-    "ge.globo"
-   ],
-   "primera_vez": "2026-10-12T06:59+00:00",
-   "titulares": [
-    {
-     "medio": "Mundo Deportivo",
-     "titulo": "Las caras de la reacción del Atlético",
-     "url": "https://www.mundodeportivo.com/futbol/atletico-madrid/20261012/1004237597/caras-reaccion-atletico.html",
-     "pub": ""
-    },
-    {
-     "medio": "Google News AR",
-     "titulo": "Liga Regional de Fútbol. San Martín se quedó con un triunfo clave ante Atlético",
-     "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQTGtFOE5pWkRleFNCZDNOb3NZQ2hLS1Ezc01QYlNKcU1yczA3em1xNkZIblVhZGY1SUdtbkFDWkpWZC1SQVdXWHdQdTNoNFptTjh5X1hUU2R0TXRscHMyS1RHcXlRZVJkUHhRdlI4Zmd1QWV5WGxSVWtRaXBVeFdMU1FTb1Rnc001M1Vwc0dxZ3hoejQ1anR2ZnlyUFY0WHFYVGNuMzB5UnR1bzNFRzBwWEhzUTk4NklZS2NkNUJhalY2UDl1YmtjOWg1WHNFblgxUFE?oc=5",
-     "pub": "2026-10-12T02:35+00:00"
-    },
-    {
-     "medio": "Mundo Deportivo",
-     "titulo": "El caliente Atlético de Madrid-Barça ya tiene horario de 'prime time'",
-     "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261012/1004237693/atletico-madrid-barca-horario-prime-time.html",
-     "pub": ""
-    },
-    {
-     "medio": "AS",
-     "titulo": "Sigue en directo la rueda de prensa de Simeone antes del Atlético vs Manchester United",
-     "url": "https://as.com/futbol/videos/sigue-en-directo-la-rueda-de-prensa-de-simeone-antes-del-atletico-vs-manchester-united-f202610-v/",
-     "pub": "2026-10-12T11:48+00:00"
-    },
-    {
-     "medio": "AS",
-     "titulo": "Baleba, un problema para el Atlético",
-     "url": "https://as.com/futbol/internacional/baleba-un-problema-para-el-cholo-f202610-n/",
-     "pub": "2026-10-12T10:09+00:00"
-    },
-    {
-     "medio": "ge.globo",
-     "titulo": "Atlético de Madrid x Manchester United na Champions League: onde assistir ao vivo e horário",
-     "url": "https://ge.globo.com/futebol/futebol-internacional/liga-dos-campeoes/noticia/2026/10/12/atletico-de-madrid-x-manchester-united-na-champions-league-onde-assistir-ao-vivo-e-horario.ghtml",
-     "pub": "2026-10-12T15:22+00:00"
-    },
-    {
-     "medio": "Google News ES",
-     "titulo": "El Gasifred Atlético conquista el V Memorial Marcelino Hernández",
-     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQc2p5d0c0cTVJMXpLT1E0TG81OWdnV21ITjFnZlVhelJSZ2pFcDR2by1SZW9zeXBlZlRfcXptTGFPQjNhb1EwRVF1Z3hocjVEaDk5ODVVT3JxUlZaQVJTdS05YjZuMFpZLXMzc29hd3ZYVExkNWlNYWJVeFY2YTRnd3Nna3dval9qR3ZMdklYNkNhR2tuM3B3Vm9oczFPLUJNMzlJZ2xxZUZqOGNCVk50R0RkZ9IBuAFBVV95cUxQS0hxaExnOWhQbGF1LVEtWjU5ekJyZF83ZmhtRk9SVVRpaVl1NVZWTlNWMkJuSzFaemJtdTJDN2VqSE41bGxQSnpDQURfUXItQzZYdTdVUGVkQkYybWFoTTJPNm9oX2lYVl94VS00eWFoMmR6and3UTR5RTlHSGZlWnNHM0tDZ3FHOV84aHNONk41dzRvc0RiVzNuM19sTDAtZkF3Vi1zZ2IzbnJVV21MbnFhN2FMX1Uz?oc=5",
-     "pub": "2026-10-12T17:08+00:00"
-    },
-    {
-     "medio": "AS",
-     "titulo": "Atlético - Manchester United, en directo: última hora de la Champions League, hoy en vivo",
-     "url": "https://as.com/futbol/champions/atletico-manchester-united-en-directo-ultima-hora-de-la-champions-league-hoy-en-vivo-f202610-d/",
-     "pub": "2026-10-13T14:25+00:00"
-    },
-    {
-     "medio": "AS",
-     "titulo": "Posible alineación del Atlético ante el Manchester United en Champions League",
-     "url": "https://as.com/futbol/champions/posible-once-del-atletico-ante-el-liverpool-en-champions-f202610-n/",
-     "pub": "2026-10-12T22:09+00:00"
-    },
-    {
-     "medio": "AS",
-     "titulo": "Ricardo López: “El Atlético es muy favorito frente al Manchester United actual”",
-     "url": "https://as.com/futbol/champions/ricardo-lopez-el-atletico-es-muy-favorito-frente-al-manchester-united-actual-f202610-n/",
-     "pub": "2026-10-13T09:10+00:00"
-    },
-    {
-     "medio": "L'Equipe",
-     "titulo": "Michael Carrick : « Nous respectons l’Atlético de Madrid comme l’un des meilleurs clubs »",
-     "url": "https://www.lequipe.fr/Football/Video/Ligue-des-champions-manchester-united-michael-carrick-nous-respectons-l-atletico-de-madrid-comme-l-un-des-meilleurs-clubs/20243092#at_medium=RSS_feeds",
-     "pub": "2026-10-13T05:54+00:00"
-    },
-    {
-     "medio": "Foot Mercato",
-     "titulo": "Atlético de Madrid : Koke forfait face à Manchester United après le décès de sa mère",
-     "url": "https://www.footmercato.net/a5091459054079562302-atletico-de-madrid-koke-forfait-face-a-manchester-united-apres-le-deces-de-sa-mere",
-     "pub": "2026-10-13T13:11+00:00"
-    }
-   ]
-  },
-  {
-   "tema": "Coventry",
-   "medios": 9,
-   "lista_medios": [
-    "BBC",
-    "Daily Mail",
-    "FourFourTwo",
-    "Google News EN",
-    "Google News ES",
-    "Guardian",
-    "Mirror",
-    "Sky Sports",
-    "Telegraph"
-   ],
-   "primera_vez": "2026-10-12T06:59+00:00",
-   "titulares": [
-    {
-     "medio": "Google News ES",
-     "titulo": "Coventry City – Newcastle: horario y dónde ver hoy por TV el partido de fútbol de la Premier League",
-     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNM1I5UmtRXzhZRkhLMGtJUm94R2h0RVUzSWFhRXZ4THN0ZG5Pa1I0OFdDNktOOF9rSjlvV1dwMkt4cGIxczZWWVBXazJEVFBVZUx4Z01UUTl0WlNxLXY5anV6RVJRZ2dXbkFpM3JCbGlMZ3RvTnI0RjNUbXdCZlBYblJ1SGdpVWlTQzB0OFd4aTdvVk5lRmxsdHRlQ013N2lVUkZFbWVRWG5lbnBYOURBU9IBtgFBVV95cUxObXMzWkh1VERzeHk3a3RmUXdxWU9yeEhBTExGSndwSDBlUWVjTUlPa3dpalVLSVhkSWJpNXMxR0kxSVVMRVNwRkZnRGpfM3dGYW9NdUo4V01rZjVZVEtNTm9NSkwtVGJGcFJXWVBZaTdmUG5xQkNaVWJCSnBnREVXclRlZXctVjJNZ001MXhZY0dMSVFLM1NhblFRTW8wR1B4ODA0VUVzYWNFZTN0YVBfakRxUXVyUQ?oc=5",
-     "pub": "2026-10-12T04:00+00:00"
-    },
-    {
-     "medio": "Google News EN",
-     "titulo": "Coventry vs Newcastle predictions: Chris Sutton on Premier League game",
-     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE81MTZxeGt1akRzUWVrTXhTSGx2NGJwb1d1OC1ORUxVRmNvVEo5b2tVbTREb3dOS2J6Vm5nSHNfbTFBZUJfZVdWVm96aFFPdUxCTVp6RmYwY2h2aUl4ZVhwNDBZS2RxLW9X?oc=5",
-     "pub": "2026-10-12T07:05+00:00"
-    },
-    {
-     "medio": "Mirror",
-     "titulo": "Frank Lampard hailed as 'perfect' by boyhood Chelsea fan now shining for Coventry City",
-     "url": "https://www.mirror.co.uk/sport/football/news/frank-lampard-hailed-perfect-boyhood-37761677",
-     "pub": "2026-10-12T10:18+00:00"
-    },
-    {
-     "medio": "FourFourTwo",
-     "titulo": "How to watch Coventry City vs Newcastle United for FREE",
-     "url": "https://www.fourfourtwo.com/competition/how-to-watch-coventry-city-vs-newcastle-united-free",
-     "pub": "2026-10-12T16:00+00:00"
-    },
-    {
-     "medio": "Guardian",
-     "titulo": "Coventry City v Newcastle United: Premier League – live",
-     "url": "https://www.theguardian.com/football/live/2026/oct/12/coventry-city-newcastle-united-premier-league-live-score-updates",
-     "pub": "2026-10-12T17:30+00:00"
-    },
-    {
-     "medio": "Sky Sports",
-     "titulo": "Gonzalez starts for Newcastle at Coventry as duo return from injury LIVE!",
-     "url": "https://www.skysports.com/football/coventry-city-vs-newcastle-united/live/559497",
-     "pub": "2026-10-12T18:30+00:00"
-    },
-    {
-     "medio": "BBC",
-     "titulo": "Coventry thrash Newcastle to claim first home win of season",
-     "url": "https://www.bbc.co.uk/sport/football/videos/c65y71z4rjj2o?at_medium=RSS&at_campaign=rss",
-     "pub": "2026-10-12T21:35+00:00"
-    },
-    {
-     "medio": "BBC",
-     "titulo": "Coventry announce themselves back in the big time",
-     "url": "https://www.bbc.co.uk/sport/football/articles/cw78p7l7rp30o?at_medium=RSS&at_campaign=rss",
-     "pub": "2026-10-12T22:34+00:00"
-    },
-    {
-     "medio": "Guardian",
-     "titulo": "Coventry land long-awaited home win as Mfuni seals rout of Newcastle",
-     "url": "https://www.theguardian.com/football/2026/oct/12/coventry-newcastle-premier-league-match-report",
-     "pub": "2026-10-12T21:09+00:00"
-    },
-    {
-     "medio": "Sky Sports",
-     "titulo": "Jaissle sorry for Coventry loss as Carra says Newcastle 'beaten up' again",
-     "url": "https://www.skysports.com/football/news/12040/13598360/matthias-jaissle-newcastle-boss-apologises-for-coventry-loss-as-jamie-carragher-says-they-were-beaten-up",
-     "pub": "2026-10-12T23:25+00:00"
-    },
-    {
-     "medio": "Sky Sports",
-     "titulo": "Coventry thump Newcastle for first home win to move out of drop zone",
-     "url": "https://www.skysports.com/football/coventry-city-vs-newcastle-united/report/559497",
-     "pub": "2026-10-12T22:00+00:00"
     },
     {
      "medio": "Daily Mail",
-     "titulo": "Coventry 4-1 Newcastle: Sky Blues show Man City what a win built on honesty and grit looks like, writes CRAIG HOPE - as Frank Lampard's men secure their first home Premier League win in 25 years against leaderless Magpies",
-     "url": "https://www.dailymail.com/sport/football/article-16203659/Coventry-4-1-Newcastle-CRAIG-HOPE-Frank-Lampard-men-Premier-League-win-25-YEARS-leaderless-Magpies.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-     "pub": "2026-10-13T06:13+00:00"
-    }
-   ]
-  },
-  {
-   "tema": "Getafe",
-   "medios": 9,
-   "lista_medios": [
-    "AS",
-    "BBC",
-    "Foot Mercato",
-    "Google News EN",
-    "Google News ES",
-    "L'Equipe",
-    "Mundo Deportivo",
-    "Yahoo",
-    "ge.globo"
-   ],
-   "primera_vez": "2026-10-12T07:52+00:00",
-   "titulares": [
-    {
-     "medio": "Yahoo",
-     "titulo": "Unchanged from Getafe: Barça's squad for Galatasaray 🛫",
-     "url": "https://sports.yahoo.com/articles/unchanged-getafe-bar-squad-galatasaray-074000345.html",
-     "pub": "2026-10-12T07:40+00:00"
-    },
-    {
-     "medio": "AS",
-     "titulo": "Flick, con los mismos que golearon al Getafe",
-     "url": "https://as.com/futbol/champions/flick-con-los-mismos-que-golearon-al-getafe-f202610-n/",
-     "pub": "2026-10-12T07:27+00:00"
-    },
-    {
-     "medio": "Mundo Deportivo",
-     "titulo": "El Getafe sigue adelante con Carvajal y prepara otro bombazo",
-     "url": "https://www.mundodeportivo.com/futbol/getafe/20261012/1004237786/getafe-sigue-adelante-carvajal-prepara-bombazo.html",
-     "pub": ""
-    },
-    {
-     "medio": "Foot Mercato",
-     "titulo": "Dani Carvajal va signer à Getafe",
-     "url": "https://www.footmercato.net/a3792826265219575358-dani-carvajal-va-signer-a-getafe",
-     "pub": "2026-10-12T14:12+00:00"
-    },
-    {
-     "medio": "BBC",
-     "titulo": "After 27 titles in 23 years at Real Madrid, Carvajal joins Getafe",
-     "url": "https://www.bbc.co.uk/sport/football/articles/cxr5ydvl41dlo?at_medium=RSS&at_campaign=rss",
-     "pub": "2026-10-13T09:21+00:00"
-    },
-    {
-     "medio": "Yahoo",
-     "titulo": "Hansi Flick sets new Barcelona record after dominant 3-0 win over Getafe",
-     "url": "https://sports.yahoo.com/articles/hansi-flick-sets-barcelona-record-115500399.html",
-     "pub": "2026-10-13T11:55+00:00"
-    },
-    {
-     "medio": "Google News EN",
-     "titulo": "Dani Carvajal: Real Madrid legend joins Getafe as free agent",
-     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE50MHp6RkJKYVBfeXhQQmxReHdySHFaTFdPT2xIRGp0VzRrU1RsN29YMFJIMWM1UVRmbmxBbXA4eEdNV2NXQS01cXBsYWgyU3c2VUo0ZXNqOVpsOGpqcS1RMkJ6UWR1Zi11alBj?oc=5",
-     "pub": "2026-10-13T09:21+00:00"
-    },
-    {
-     "medio": "Mundo Deportivo",
-     "titulo": "Carvajal ya se dirige a la afición del Getafe: \"Ganas de que me veáis corriendo la banda\"",
-     "url": "https://www.mundodeportivo.com/futbol/getafe/20261013/1004238214/carvajal-dirige-aficion-getafe-ganas-me-veais-corriendo-banda.html",
-     "pub": ""
-    },
-    {
-     "medio": "Mundo Deportivo",
-     "titulo": "Primer entrenamiento de Carvajal con el Getafe",
-     "url": "https://www.mundodeportivo.com/futbol/getafe/20261013/1004238194/primer-entrenamiento-carvajal-getafe.html",
-     "pub": ""
-    },
-    {
-     "medio": "Mundo Deportivo",
-     "titulo": "Al Hamlawi, el goleador que volvió a caminar y ahora amenaza al Getafe",
-     "url": "https://www.mundodeportivo.com/futbol/getafe/20261013/1004238136/hamlawi-goleador-volvio-caminar-amenaza-getafe.html",
-     "pub": ""
-    },
-    {
-     "medio": "Google News ES",
-     "titulo": "Ángel Torres celebra el fichaje de Dani Carvajal por el Getafe y apunta a Dani Parejo: “Le vi en los toros…”",
-     "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQZGNyeEkzWkxIeGo3NmtCQzNTeWlSZnVsb01DY2tta2Z4TWlraUE4ZG9nb3hIYWpSbmFsX3B6cmFscUtwTWROMV9GbzQ0c09JVjE3TzlEaHB0Vmh3aWJZcWYzdGV2RlhaeVdzblVYejFRczh1Z2FjODBBU1dnYzBwbmc4aGh3M3Jjak01dVVjTHlLbV8tQ0xFM0daMkZrUVk4RG4wd3d0a0lkVVhFUFc4Y0FvT1poRVVrb3gwa0I5Szd0NWdkNnliLWI2MHFDanFMVkR3RG5hV1A4SlNBOXhXTzhB?oc=5",
-     "pub": "2026-10-13T12:09+00:00"
-    },
-    {
-     "medio": "Google News ES",
-     "titulo": "Carvajal, una leyenda del fútbol español al servicio del Getafe",
-     "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQV01TTm03Q1psY3Rfd0hIVTdKcXBhd1N1T3NDYWtvbU5aTS03ODFNNkRpcmNTYXFDemRzc0o2M1FFOTFzTW5JZEZEN0RydVhvRHpsSnRzR2JnLW5lSlhlTXhQdjNQWk0zS1JScDROSno1WmM5Tk93aEk4OVNJY2ZDUmxESFJzZ3pPVVFXS1BzSWloNXRfNzlFazZQM2ptRU5qOERQTnZWMmloUzJNVUlQb0s3Q2h1SmZWbERoX3RQcm15dDV0TGVNTmhDdndWRWxURkFZbmY2T3BjM2dF0gHiAUFVX3lxTE1UVmFsb2NPU0dKT1NMR3Zzd3BxY2dXemQwVTBzTldHV2RjYTJZTXN3SUFmRm1HakJ1My1Xdl9ISVRtUHZHaTYyaHd6VVQ1aEY2b2tfM0lpUkI1TkczZWVNdU1mcm0xOTNkT2VZclFCbGZoM2tUcjZ5b3hsMHFRZGtqdGhLYjJRUm9MMVpHTEFwYnpHRDB2RV81bDdBZTFmaUNHUXlUUFNVNWJwNTU4MFVoSHVFU3JjV09HY0pZeEVzLWN1VWNoV25qTkxvSEVHRmpMNzVBdlVkMU9YMnpFWHRJc2c?oc=5",
-     "pub": "2026-10-13T13:50+00:00"
-    }
-   ]
-  },
-  {
-   "tema": "Lille",
-   "medios": 9,
-   "lista_medios": [
-    "BBC",
-    "Daily Mail",
-    "Foot Mercato",
-    "Google News EN",
-    "L'Equipe",
-    "Mirror",
-    "Record",
-    "Yahoo",
-    "talkSPORT"
-   ],
-   "primera_vez": "2026-10-12T09:52+00:00",
-   "titulares": [
-    {
-     "medio": "talkSPORT",
-     "titulo": "Arsenal v Lille LIVE commentary: Key player to miss Champions League tie after warm down injury",
-     "url": "https://talksport.com/football/4638699/arsenal-v-lille-live-commentary-time-date-score-teams-channel/",
-     "pub": "2026-10-12T09:51+00:00"
-    },
-    {
-     "medio": "Mirror",
-     "titulo": "Mikel Arteta rules two Arsenal players out of Lille clash as injury blows confirmed",
-     "url": "https://www.mirror.co.uk/sport/football/news/arsenal-injury-news-champions-league-37763158",
-     "pub": "2026-10-12T12:54+00:00"
-    },
-    {
-     "medio": "L'Equipe",
-     "titulo": "Arsenal privé de Hincapie et Zubimendi face à Lille en Ligue des champions",
-     "url": "https://www.lequipe.fr/Football/Actualites/Arsenal-prive-de-hincapie-et-zubimendi-face-a-lille-en-ligue-des-champions/1725173#at_medium=RSS_feeds",
-     "pub": "2026-10-12T13:17+00:00"
-    },
-    {
-     "medio": "Yahoo",
-     "titulo": "Ligue 1 Review | Good results mask poor performances for Lille ahead of Arsenal trip",
-     "url": "https://sports.yahoo.com/articles/ligue-1-review-good-results-143200383.html",
-     "pub": "2026-10-12T14:32+00:00"
-    },
-    {
-     "medio": "Yahoo",
-     "titulo": "Official | Lille right-back Tiago Santos sustains ACL injury",
-     "url": "https://sports.yahoo.com/articles/official-lille-back-tiago-santos-142200487.html",
-     "pub": "2026-10-12T14:22+00:00"
-    },
-    {
-     "medio": "L'Equipe",
-     "titulo": "Tiago Santos souffre d'une rupture totale du ligament croisé antérieur du genou droit, Lille saisit la FFF et la LFP",
-     "url": "https://www.lequipe.fr/Football/Actualites/Tiago-santos-souffre-d-une-rupture-totale-du-ligament-croise-anterieur-du-genou-droit-lille-saisit-la-fff-et-la-lfp/1725203#at_medium=RSS_feeds",
-     "pub": "2026-10-12T14:31+00:00"
-    },
-    {
-     "medio": "Record",
-     "titulo": "<![CDATA[ Lille anuncia que Tiago Santos sofreu nova rotura total do ligamento cruzado anterior ]]>",
-     "url": "https://www.record.pt/internacional/paises/franca/lille/detalhe/lille-anuncia-que-tiago-santos-sofreu-nova-rotura-total-do-ligamento-cruzado-anterior",
-     "pub": "2026-10-12T15:17+00:00"
-    },
-    {
-     "medio": "L'Equipe",
-     "titulo": "Avant le match de Ligue des champions contre Lille, Mikel Arteta, l'entraîneur d'Arsenal, a perdu Piero Hincapié et Martin Zubimendi sur blessure",
-     "url": "https://www.lequipe.fr/Football/Actualites/Avant-le-match-de-ligue-des-champions-contre-lille-mikel-arteta-l-entraineur-d-arsenal-a-perdu-piero-hincapie-et-martin-zubimendi-sur-blessure/1725236#at_medium=RSS_feeds",
-     "pub": "2026-10-12T16:14+00:00"
-    },
-    {
-     "medio": "L'Equipe",
-     "titulo": "Davide Ancelotti (Lille), à la veille du match de Lille sur la pelouse d'Arsenal en Ligue des champions : « Jouer sans perdre notre identité »",
-     "url": "https://www.lequipe.fr/Football/Actualites/Davide-ancelotti-lille-a-la-veille-du-match-de-lille-sur-la-pelouse-d-arsenal-en-ligue-des-champions-jouer-sans-perdre-notre-identite/1725250#at_medium=RSS_feeds",
-     "pub": "2026-10-12T16:53+00:00"
-    },
-    {
-     "medio": "BBC",
-     "titulo": "Lille considering legal action after Santos injury",
-     "url": "https://www.bbc.co.uk/sport/football/articles/c623d0mmym4xo?at_medium=RSS&at_campaign=rss",
-     "pub": "2026-10-13T07:30+00:00"
-    },
-    {
-     "medio": "Daily Mail",
-     "titulo": "How Carlo Ancelotti's son became more than a 'nepo-baby' manager: Lille boss Davide recites Greek mythology, bonded with Duncan Ferguson and was caught in Neymar controversy - now, he is looking to spring a shock on Arsenal",
-     "url": "https://www.dailymail.com/sport/football/article-16202707/davide-ancelotti-carlo-lille-arsenal.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-     "pub": "2026-10-13T09:26+00:00"
-    },
-    {
-     "medio": "Mirror",
-     "titulo": "'I had to choose between Arsenal or Lille – I snuck out of my room after change of heart'",
-     "url": "https://www.mirror.co.uk/sport/football/news/arsenal-lille-transfer-champions-league-37761251",
-     "pub": "2026-10-13T06:00+00:00"
-    }
-   ]
-  },
-  {
-   "tema": "Michael",
-   "medios": 8,
-   "lista_medios": [
-    "Daily Mail",
-    "Foot Mercato",
-    "Google News EN",
-    "Guardian",
-    "Infobae",
-    "L'Equipe",
-    "Mirror",
-    "talkSPORT"
-   ],
-   "primera_vez": "2026-10-12T06:59+00:00",
-   "titulares": [
-    {
-     "medio": "Mirror",
-     "titulo": "Man Utd news: JJ Gabriel left in transfer lurch as Michael Carrick told to change plans",
-     "url": "https://www.mirror.co.uk/sport/football/news/manchester-united-transfer-news-gabriel-37759861",
-     "pub": "2026-10-12T03:30+00:00"
-    },
-    {
-     "medio": "Daily Mail",
-     "titulo": "Kobbie Mainoo and Luke Shaw could miss Man United's trip to Atletico Madrid in another blow to Michael Carrick",
-     "url": "https://www.dailymail.com/sport/football/article-16202245/Kobbie-Mainoo-Luke-Shaw-miss-Man-Uniteds-trip-Atletico-Madrid-blow-Michael-Carrick.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-     "pub": "2026-10-12T10:46+00:00"
-    },
-    {
-     "medio": "talkSPORT",
-     "titulo": "Arsenal legend gives ruthless opinion on Michael Carrick’s Manchester United future",
-     "url": "https://talksport.com/football/4639495/michael-carrick-manchester-united-future-reaction-emmanuel-petit/",
-     "pub": "2026-10-12T13:49+00:00"
-    },
-    {
-     "medio": "Mirror",
-     "titulo": "Michael Carrick given brutal reality check over threat of being sacked by Man Utd",
-     "url": "https://www.mirror.co.uk/sport/football/news/michael-carrick-man-united-manager-37761578",
-     "pub": "2026-10-12T13:14+00:00"
-    },
-    {
-     "medio": "Google News EN",
-     "titulo": "Paul Pogba backs Michael Carrick to succeed at Manchester United",
-     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPTkJzVmRudzF6eFR5cW5FbWxqZ0VjQUdwa21Ic2NWZmJzSWRXUDZxYWQzb1d4ZHBkYjkzMzlGOS1VeS02dXA1VHEtSTU3TG1iS1NNTThPX3ZyRWVjVGk1dTVidWV6M3dobWZRbUxGRHNheV8yR2pRbGozWGZCSTlIdnNNbFNQSHo4Tm5vM3M0SlpxSjZNdXUwTldYTExweE92OUp1a0U5YXljT3F2cHJMaTYwelhkdm9aNWVLZTlfelBqTlVMcVR0VQ?oc=5",
-     "pub": "2026-10-12T13:16+00:00"
-    },
-    {
-     "medio": "Mirror",
-     "titulo": "Man Utd's next seven games as Michael Carrick faces defining period after horror start",
-     "url": "https://www.mirror.co.uk/sport/football/news/man-utd-fixtures-carrick-future-37763943",
-     "pub": "2026-10-12T16:33+00:00"
-    },
-    {
-     "medio": "Mirror",
-     "titulo": "Michael Owen makes feelings clear on Michael Carrick as Man Utd sent sack verdict",
-     "url": "https://www.mirror.co.uk/sport/football/news/man-utd-michael-carrick-sack-37763188",
-     "pub": "2026-10-12T16:00+00:00"
-    },
-    {
-     "medio": "Google News EN",
-     "titulo": "Portugal v Northern Ireland: We'll have 'one last swing' at World Cup - Michael McArdle",
-     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE0wd1dBM0h4WHJxOGtObElLWGpDZmpKVm1kSkVLVVpsZkdDdTdpdXNuT0htS1U4TnBrY0FtV2VkdTkwQUpPMk0ybVpWcG1wd2R2ZW41dzU4eFNTV3EtSXNoSnd1M0tkMlQwcVBr?oc=5",
-     "pub": "2026-10-12T15:46+00:00"
-    },
-    {
-     "medio": "Guardian",
-     "titulo": "The Ballon d’Or doesn’t capture football’s wonder – Michael Olise is proof | Zito Madu",
-     "url": "https://www.theguardian.com/football/2026/oct/13/michael-olise-ballon-dor-france-belgium",
-     "pub": "2026-10-13T09:00+00:00"
-    },
-    {
-     "medio": "Daily Mail",
-     "titulo": "Why Marcus Rashford will be key if Man United are to spring an upset on Atletico Madrid: Ashley Young reveals how winger's Barcelona exploits can 'play into Michael Carrick's hands'",
-     "url": "https://www.dailymail.com/sport/football/article-16205755/marcus-rashford-manchester-united-atletico-madrid.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-     "pub": "2026-10-13T14:24+00:00"
-    },
-    {
-     "medio": "Daily Mail",
-     "titulo": "Bruno Fernandes must be taken out of Man United's team before he 'EXPLODES', claims Wayne Rooney as he sends Michael Carrick warning on 'fed up' talisman",
-     "url": "https://www.dailymail.com/sport/football/article-16204893/bruno-fernandes-man-united-wayne-rooney-michael-carrick.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-     "pub": "2026-10-13T13:37+00:00"
-    },
-    {
-     "medio": "Daily Mail",
-     "titulo": "'Michael Carrick told me: \"Management's not for me\"': Nicky Butt's damning revelations on private conversations with Man United boss as he becomes second-favourite for the sack",
-     "url": "https://www.dailymail.com/sport/football/article-16204519/Michael-Carrick-told-Managements-not-Nicky-Butts-damning-revelations-private-conversations-Man-United-boss-second-favourite-sack.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-     "pub": "2026-10-13T08:36+00:00"
-    }
-   ]
-  },
-  {
-   "tema": "Gabriel",
-   "medios": 8,
-   "lista_medios": [
-    "Foot Mercato",
-    "Google News ES",
-    "L'Equipe",
-    "Mirror",
-    "Mundo Deportivo",
-    "Record",
-    "Yahoo",
-    "ge.globo"
-   ],
-   "primera_vez": "2026-10-12T06:59+00:00",
-   "titulares": [
-    {
-     "medio": "Mirror",
-     "titulo": "Man Utd news: JJ Gabriel left in transfer lurch as Michael Carrick told to change plans",
-     "url": "https://www.mirror.co.uk/sport/football/news/manchester-united-transfer-news-gabriel-37759861",
-     "pub": "2026-10-12T03:30+00:00"
-    },
-    {
-     "medio": "Record",
-     "titulo": "<![CDATA[ Real Madrid já fez proposta a JJ Gabriel: United vê cerco à jovem pérola apertar ]]>",
-     "url": "https://www.record.pt/internacional/paises/espanha/real-madrid/detalhe/real-madrid-ja-fez-proposta-a-jj-gabriel-united-ve-cerco-a-jovem-perola-apertar",
-     "pub": "2026-10-12T07:49+00:00"
-    },
-    {
-     "medio": "Yahoo",
-     "titulo": "Ilkay Gundogan talks Barcelona exit, Xavi, Flick, Lamine, Cubarsi, Fermin, Rodri, Gabriel Jesus",
-     "url": "https://sports.yahoo.com/articles/ilkay-gundogan-talks-barcelona-exit-083400749.html",
-     "pub": "2026-10-12T08:34+00:00"
-    },
-    {
-     "medio": "Yahoo",
-     "titulo": "Real Madrid confident of signing Manchester United prodigy JJ Gabriel",
-     "url": "https://sports.yahoo.com/articles/real-madrid-confident-signing-manchester-080000415.html",
-     "pub": "2026-10-12T08:00+00:00"
-    },
-    {
-     "medio": "Yahoo",
-     "titulo": "Real Madrid have already completed most of their groundwork for JJ Gabriel transfer",
-     "url": "https://sports.yahoo.com/articles/real-madrid-already-completed-most-103000982.html",
-     "pub": "2026-10-12T10:30+00:00"
-    },
-    {
-     "medio": "Foot Mercato",
-     "titulo": "Le Real Madrid et le Barça en pole pour arracher la pépite JJ Gabriel",
-     "url": "https://www.footmercato.net/a6925033544575010385-le-real-madrid-et-le-barca-en-pole-pour-arracher-la-pepite-jj-gabriel",
-     "pub": "2026-10-12T10:52+00:00"
-    },
-    {
-     "medio": "Google News ES",
-     "titulo": "Hansi Flick elogia el papel de Gabriel Jesús tras la baja de Raphinha: \"Fue una sorpresa, para ser honesto\"",
-     "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQXzEzZmZQSHBPb2IzbS1zSkEzZ0JjcWcwbEdRMlNzQ3hXMmxNbnp6dmxjUnlsYlNBZFMwZnp1dDhLeldIX2tOQjl5NXI0dHNjQXlrSkNfckJVbWJCN1VFMlFWZERTOVl4R1hfQWJ2azNxOFBZdm9wZVdQaEFtTngtbms4SmxIRkxEM29Fb3pDNVNxb0MzQl9PMWNUbzRudzRkZF9PMUtZeHQ1ZERILV9vaVhqS2hjVUw3OUFpR211LXA1SmpZQ3FPZGs4RVA1V0ZvODd5Z1lMM2VORjNhLUdDQ2NKUENEc3dnTHU3NA?oc=5",
-     "pub": "2026-10-12T16:38+00:00"
-    },
-    {
-     "medio": "ge.globo",
-     "titulo": "Flick se diz \"muito feliz\" com Gabriel Jesus no Barcelona: \"Foi uma pequena surpresa\"",
-     "url": "https://ge.globo.com/futebol/futebol-internacional/noticia/2026/10/12/flick-se-diz-muito-feliz-com-gabriel-jesus-no-barcelona-foi-uma-pequena-surpresa.ghtml",
-     "pub": "2026-10-12T16:37+00:00"
-    },
-    {
-     "medio": "Mundo Deportivo",
-     "titulo": "Flick: \"Gabriel Jesus fue una pequeña sorpresa\"",
-     "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261012/1004237897/flick-gabriel-jesus-pequena-sorpresa.html",
-     "pub": ""
-    },
-    {
-     "medio": "L'Equipe",
-     "titulo": "Gabriel : «Si j’ai un autre penalty, je le tirerai»",
-     "url": "https://www.lequipe.fr/Football/Video/Ligue-des-champions-arsenal-gabriel-avant-arsenal-lille-si-j-ai-un-autre-penalty-je-le-tirerai/20243070#at_medium=RSS_feeds",
-     "pub": "2026-10-12T17:28+00:00"
-    },
-    {
-     "medio": "L'Equipe",
-     "titulo": "Eden Hazard, Nicolas Pépé, Gabriel, Ayyoub Bouaddi... Ces joueurs qui ont fait de Lille le roi des ventes en Angleterre",
-     "url": "https://www.lequipe.fr/Football/Actualites/Eden-hazard-nicolas-pepe-gabriel-ayyoub-bouaddi-ces-joueurs-qui-ont-fait-de-lille-le-roi-des-ventes-en-angleterre/1725296#at_medium=RSS_feeds",
-     "pub": "2026-10-13T05:37+00:00"
-    },
-    {
-     "medio": "ge.globo",
-     "titulo": "Bastidores: desabafo de Gabriel Paulista expõe atrito entre elenco e presidente do Corinthians",
-     "url": "https://ge.globo.com/futebol/times/corinthians/noticia/2026/10/13/bastidores-desabafo-de-gabriel-paulista-expoe-atrito-entre-elenco-e-presidente-do-corinthians.ghtml",
-     "pub": "2026-10-13T07:00+00:00"
-    }
-   ]
-  },
-  {
-   "tema": "Seedorf",
-   "medios": 8,
-   "lista_medios": [
-    "BBC",
-    "Daily Mail",
-    "Google News EN",
-    "Kicker",
-    "Mundo Deportivo",
-    "Planet Football",
-    "Yahoo",
-    "ge.globo"
-   ],
-   "primera_vez": "2026-10-12T06:59+00:00",
-   "titulares": [
-    {
-     "medio": "Planet Football",
-     "titulo": "14 Things We Loved This Weekend: Henderson, Neuer, Seedorf, Anfield banners & more",
-     "url": "https://www.planetfootball.com/lists-and-rankings/things-we-loved-this-weekend-planet-football-henderson-seedorf",
-     "pub": "2026-10-12T06:00+00:00"
-    },
-    {
-     "medio": "Planet Football",
-     "titulo": "Clarence Seedorf in Brazil: A perfect swansong in his football utopia",
-     "url": "https://www.planetfootball.com/nostalgia/clarence-seedorf-brazil-perfect-swansong-football-utopia",
-     "pub": "2026-10-12T05:55+00:00"
-    },
-    {
-     "medio": "BBC",
-     "titulo": "Seedorf back in football as Corinthians head coach",
-     "url": "https://www.bbc.co.uk/sport/football/articles/cw62y514kpgeo?at_medium=RSS&at_campaign=rss",
-     "pub": "2026-10-12T07:42+00:00"
-    },
-    {
-     "medio": "Yahoo",
-     "titulo": "🥐☕️ Breakfast FC : Kvara sends IShowSpeed wild 😭, Seedorf in Brazil 🇧🇷",
-     "url": "https://sports.yahoo.com/articles/breakfast-fc-kvara-sends-ishowspeed-071700524.html",
-     "pub": "2026-10-12T07:17+00:00"
-    },
-    {
-     "medio": "Google News EN",
-     "titulo": "Clarence Seedorf: Corinthians hire former Netherlands midfielder as head coach",
-     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE82TERfTkFiUzRXZzN2cDZZaUs5UlI1YXZMZndtTERGYjFGUTExQTNQR19ZNTRnVzVTMFZOSllZN1dGV25kNWNWeTFGUVBNU2NHWDR5aTJoYmhtdEkwVmJHWmdMNkVGb3RvTmMw?oc=5",
-     "pub": "2026-10-12T07:42+00:00"
-    },
-    {
-     "medio": "Mundo Deportivo",
-     "titulo": "Rajada descomunal contra Memphis Depay, con Seedorf de por medio",
-     "url": "https://www.mundodeportivo.com/futbol/internacional/20261012/1004237652/rajada-descomunal-memphis-depay-seedorf-medio.html",
-     "pub": ""
-    },
-    {
-     "medio": "Kicker",
-     "titulo": "Seedorf übernimmt Corinthians - Palmer bindet sich acht Jahre an Chelsea",
-     "url": "https://www.kicker.de/transferticker-953155/artikel#omrss",
-     "pub": "2026-10-12T08:19+00:00"
-    },
-    {
-     "medio": "Kicker",
-     "titulo": "\"Enorme Verantwortung\": Seedorf soll Corinthians retten",
-     "url": "https://www.kicker.de/enorme-verantwortung-seedorf-soll-corinthians-retten-1260480/artikel#omrss",
-     "pub": "2026-10-12T08:58+00:00"
-    },
-    {
-     "medio": "ge.globo",
-     "titulo": "Bastidores: Marcelo Paz escolheu Seedorf depois de recusas, e decisão dividiu o Corinthians",
-     "url": "https://ge.globo.com/futebol/times/corinthians/noticia/2026/10/12/bastidores-marcelo-paz-escolheu-seedorf-depois-de-recusas-e-decisao-dividiu-o-corinthians.ghtml",
-     "pub": "2026-10-12T11:00+00:00"
-    },
-    {
-     "medio": "ge.globo",
-     "titulo": "A tática de Seedorf: a carreira e como pensa o novo treinador do Corinthians",
-     "url": "https://ge.globo.com/blogs/painel-tatico/post/2026/10/12/a-tatica-de-seedorf-a-carreira-e-como-pensa-o-novo-treinador-do-corinthians.ghtml",
-     "pub": "2026-10-12T13:54+00:00"
-    },
-    {
-     "medio": "ge.globo",
-     "titulo": "Corinthians define data da apresentação de Seedorf e primeiro treino do holandês",
-     "url": "https://ge.globo.com/futebol/times/corinthians/noticia/2026/10/12/corinthians-define-data-da-apresentacao-de-seedorf-e-primeiro-treino-do-holandes.ghtml",
-     "pub": "2026-10-12T16:05+00:00"
-    },
-    {
-     "medio": "ge.globo",
-     "titulo": "Novo técnico do Corinthians, Seedorf tem recorde de pontos pelo Botafogo no Cartola",
-     "url": "https://ge.globo.com/cartola/noticia/2026/10/12/novo-tecnico-do-corinthians-seedorf-tem-recorde-de-pontos-pelo-botafogo-no-cartola.ghtml",
-     "pub": "2026-10-12T17:08+00:00"
-    }
-   ]
-  },
-  {
-   "tema": "Santos",
-   "medios": 8,
-   "lista_medios": [
-    "AS",
-    "BBC",
-    "Foot Mercato",
-    "Google News EN",
-    "L'Equipe",
-    "Record",
-    "Yahoo",
-    "ge.globo"
-   ],
-   "primera_vez": "2026-10-12T06:59+00:00",
-   "titulares": [
-    {
-     "medio": "ge.globo",
-     "titulo": "Análise: Atlético-MG tira coelho da cartola contra o Santos e torna Arena MRV pesadelo para rivais",
-     "url": "https://ge.globo.com/futebol/times/atletico-mg/noticia/2026/10/12/analise-atletico-mg-tira-coelho-da-cartola-contra-o-santos-e-torna-arena-mrv-pesadelo-para-rivais.ghtml",
-     "pub": "2026-10-12T06:00+00:00"
-    },
-    {
-     "medio": "Yahoo",
-     "titulo": "Official | Lille right-back Tiago Santos sustains ACL injury",
-     "url": "https://sports.yahoo.com/articles/official-lille-back-tiago-santos-142200487.html",
-     "pub": "2026-10-12T14:22+00:00"
-    },
-    {
-     "medio": "L'Equipe",
-     "titulo": "Tiago Santos souffre d'une rupture totale du ligament croisé antérieur du genou droit, Lille saisit la FFF et la LFP",
-     "url": "https://www.lequipe.fr/Football/Actualites/Tiago-santos-souffre-d-une-rupture-totale-du-ligament-croise-anterieur-du-genou-droit-lille-saisit-la-fff-et-la-lfp/1725203#at_medium=RSS_feeds",
-     "pub": "2026-10-12T14:31+00:00"
-    },
-    {
-     "medio": "Foot Mercato",
-     "titulo": "Le LOSC est fou de rage après la nouvelle terrible blessure de Tiago Santos !",
-     "url": "https://www.footmercato.net/a621372177218027821-le-losc-est-fou-de-rage-apres-la-nouvelle-terrible-blessure-de-tiago-santos",
-     "pub": "2026-10-12T14:05+00:00"
-    },
-    {
-     "medio": "Record",
-     "titulo": "<![CDATA[ Lille anuncia que Tiago Santos sofreu nova rotura total do ligamento cruzado anterior ]]>",
-     "url": "https://www.record.pt/internacional/paises/franca/lille/detalhe/lille-anuncia-que-tiago-santos-sofreu-nova-rotura-total-do-ligamento-cruzado-anterior",
-     "pub": "2026-10-12T15:17+00:00"
-    },
-    {
-     "medio": "Foot Mercato",
-     "titulo": "LOSC : Amir Richardson apporte son soutien à Tiago Santos",
-     "url": "https://www.footmercato.net/a8028703049891096975-losc-amir-richardson-apporte-son-soutien-a-tiago-santos",
-     "pub": "2026-10-12T15:55+00:00"
-    },
-    {
-     "medio": "AS",
-     "titulo": "Santos, dulce aniversario",
-     "url": "https://as.com/futbol/internacional/santos-dulce-aniversario-f202610-n/",
-     "pub": "2026-10-12T15:40+00:00"
-    },
-    {
-     "medio": "BBC",
-     "titulo": "Lille considering legal action after Santos injury",
-     "url": "https://www.bbc.co.uk/sport/football/articles/c623d0mmym4xo?at_medium=RSS&at_campaign=rss",
-     "pub": "2026-10-13T07:30+00:00"
-    },
-    {
-     "medio": "Google News EN",
-     "titulo": "Tiago Santos: Lille consider legal action after defender's serious knee injury against Le Havre",
-     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1VblpaWFl2c0FmVlJWRWFhQWw1blcxNDVYQkJEZjhBRkZKX2JaU3VILTg5clRfc2JNZlpCbEtPZUs0WGJvVHVRTV9HMU1Tc1NEOWNOQmw4dWRpc2paX0JmX2QtM2d2ZkVZNkFr?oc=5",
-     "pub": "2026-10-13T07:30+00:00"
-    },
-    {
-     "medio": "L'Equipe",
-     "titulo": "Amir Richardson aurait dû être averti pour son intervention sur Tiago Santos lors de Lille-Le Havre selon la Direction de l'arbitrage",
-     "url": "https://www.lequipe.fr/Football/Actualites/Amir-richardson-aurait-du-etre-averti-pour-son-intervention-sur-tiago-santos-lors-de-lille-le-havre-selon-la-direction-de-l-arbitrage/1725455#at_medium=RSS_feeds",
-     "pub": "2026-10-13T13:12+00:00"
-    },
-    {
-     "medio": "Foot Mercato",
-     "titulo": "La Direction de l’arbitrage de la FFF reconnaît une erreur après la grave blessure de Tiago Santos",
-     "url": "https://www.footmercato.net/a5802743890577526609-la-direction-de-larbitrage-de-la-fff-reconnait-une-erreur-apres-la-grave-blessure-de-tiago-santos",
-     "pub": "2026-10-13T12:51+00:00"
-    }
-   ]
-  },
-  {
-   "tema": "Lionel",
-   "medios": 8,
-   "lista_medios": [
-    "Daily Mail",
-    "Foot Mercato",
-    "Google News ES",
-    "Infobae",
-    "Mirror",
-    "Planet Football",
-    "Record",
-    "talkSPORT"
-   ],
-   "primera_vez": "2026-10-12T11:51+00:00",
-   "titulares": [
-    {
-     "medio": "Record",
-     "titulo": "<![CDATA[ 'Fala Barato' com Eduardo Madeira | \"O que achou da despedida de Lionel Messi?\" ]]>",
-     "url": "https://www.record.pt/multimedia/videos/detalhe/fala-barato-com-eduardo-madeira-o-que-achou-da-despedida-de-lionel-messi",
-     "pub": "2026-10-12T11:30+00:00"
-    },
-    {
-     "medio": "Daily Mail",
-     "titulo": "Cristiano Ronaldo labels himself 'the best footballer of all time' and likens his GOAT battle with Lionel Messi to famous F1 rivalry - accusing anyone who disagrees that he is history's 'most complete player' of LYING",
-     "url": "https://www.dailymail.com/sport/football/article-16202091/Cristiano-Ronaldo-labels-best-footballer-time-accuses-doubters-LYING.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-     "pub": "2026-10-12T12:42+00:00"
-    },
-    {
-     "medio": "Foot Mercato",
-     "titulo": "Les révélations d’un membre du staff du Bénin sur l’attitude méprisante des Argentins et de Lionel Messi",
-     "url": "https://www.footmercato.net/a8589259139070585852-les-revelations-dun-membre-du-staff-du-benin-sur-lattitude-meprisante-des-argentins-et-de-lionel-messi",
-     "pub": "2026-10-12T13:06+00:00"
-    },
-    {
-     "medio": "Foot Mercato",
-     "titulo": "La liste surprenante de Lionel Messi avec 10 jeunes talents à suivre",
-     "url": "https://www.footmercato.net/a5352343044016673091-la-liste-surprenante-de-lionel-messi-avec-10-jeunes-talents-a-suivre",
-     "pub": "2026-10-12T12:02+00:00"
-    },
-    {
-     "medio": "Google News ES",
-     "titulo": "Lionel Messi pone la mira en Gilberto Mora y lo señala como una de las promesas del fútbol mundial",
-     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNMmRxa3E1aTFzVk9TSXExTUR4YkwwbUs4UzBRMHNEQ216b05GNGgtZ0xSYUlSRnhrU3JVLXVKWjQxNjNmcHJQeHhfY1JMU3A4RWhLQzhGSnEyRnY0X0YtZDdQd2tKZ1dVYUE2U09TRVQzMXRMb0NNblZHSmRGTW45eDdsMzI5amh1b3JvVmN5ZzdTeU0wd3pXalM5c1k2S0RGd2pkbTlNWEYyem1rYzkyeG9Tb3BKUdIBuwFBVV95cUxOcUZadnRoM3E3OVVRd3c3QUhrTUlOSlY4c25uT2JJNnoyN1V1RHdSazF4TkJwVjdUYTFGSG13NWUzSmtlM0lCZU53b1pUZS1pajlvei1Tc05PbE50bENBZ2xwN1JMbXlGa213ZUJzVl9sMHhfR3FpSzl4dHpJZ21QNTQ5QVUtWXRYekdrNXA5OVQwWW8tS2FaRXlPZnNOQlYxZEl3cHBtZXRNVm9WRkk2Qmlrem5MQ2w0dkVj?oc=5",
-     "pub": "2026-10-12T13:07+00:00"
-    },
-    {
-     "medio": "Mirror",
-     "titulo": "Lionel Messi’s 10 future stars list with two Premier League players including Arsenal ace",
-     "url": "https://www.mirror.co.uk/sport/football/news/lionel-messi-max-dowman-gozo-37763347",
-     "pub": "2026-10-12T13:56+00:00"
-    },
-    {
-     "medio": "Planet Football",
-     "titulo": "Can Lionel Messi reach 1000 goals before Cristiano Ronaldo? It’s not impossible…",
-     "url": "https://www.planetfootball.com/stats-tables/cristiano-ronaldo-1000-goals-milestone-lionel-messi-first",
-     "pub": "2026-10-12T15:00+00:00"
-    },
-    {
-     "medio": "talkSPORT",
-     "titulo": "Lionel Messi names Max Dowman, Arsenal target and Crystal Palace signing among 10 future stars",
-     "url": "https://talksport.com/football/4638889/lionel-messi-max-dowman-arsenal-10-future-stars/",
-     "pub": "2026-10-12T17:11+00:00"
-    },
-    {
-     "medio": "Planet Football",
-     "titulo": "Comparing Lamine Yamal’s incredible 2026-27 stats to Lionel Messi’s breakout Ballon d’Or 2008-09 season",
-     "url": "https://www.planetfootball.com/stats-tables/lionel-messi-lamine-yamal-2008-09-2026-27-stats-compared",
-     "pub": "2026-10-13T14:00+00:00"
-    },
-    {
-     "medio": "Infobae",
-     "titulo": "La emotiva reflexión de Luis Suárez sobre la despedida de Lionel Messi de la selección argentina",
-     "url": "https://www.infobae.com/deportes/2026/10/13/la-emotiva-reflexion-de-luis-suarez-sobre-la-despedida-de-lionel-messi-de-la-seleccion-argentina/",
-     "pub": "2026-10-13T01:25+00:00"
-    },
-    {
-     "medio": "Infobae",
-     "titulo": "La dura mirada de Diego Latorre sobre el campeonato argentino y la contundente definición que ofreció sobre Lionel Messi",
-     "url": "https://www.infobae.com/deportes/2026/10/12/la-dura-mirada-de-diego-latorre-sobre-el-campeonato-argentino-y-la-contundente-definicion-que-ofrecio-sobre-lionel-messi/",
-     "pub": "2026-10-12T18:44+00:00"
+     "titulo": "Michael Carrick admits he understands calls for 'change' at Man United after worst start in 40 YEARS - as he challenges misfiring players to 'show who wants to be here' against Atletico Madrid",
+     "url": "https://www.dailymail.com/sport/football/article-16203615/Michael-Carrick-understands-calls-change-Man-United.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+     "pub": "2026-10-12T20:38+00:00"
     }
    ]
   },
   {
    "tema": "Netflix",
-   "medios": 8,
+   "medios": 9,
    "lista_medios": [
     "AS",
+    "BBC",
     "Foot Mercato",
     "Google News AR",
     "Google News EN",
@@ -2272,25 +1944,376 @@
    ]
   },
   {
+   "tema": "Mourinho",
+   "medios": 8,
+   "lista_medios": [
+    "AS",
+    "Daily Mail",
+    "Foot Mercato",
+    "Football Italia",
+    "Google News ES",
+    "Mundo Deportivo",
+    "Record",
+    "Yahoo"
+   ],
+   "primera_vez": "2026-10-12T08:52+00:00",
+   "titulares": [
+    {
+     "medio": "Mundo Deportivo",
+     "titulo": "El árbitro que expulsó a Mourinho pitará el Roma-Real Madrid",
+     "url": "https://www.mundodeportivo.com/futbol/real-madrid/20261012/1004237663/arbitro-expulso-mourinho-pitara-roma-real-madrid.html",
+     "pub": ""
+    },
+    {
+     "medio": "Google News ES",
+     "titulo": "El vestuario del Real Madrid se distancia de Mourinho a 13 días del clásico del Camp Nou",
+     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOMUttWXZkTUxFTWpTRUhrRVNfdmJxc3Z3ai1ZME1XVzFZNXRnem42MDVEYVFYNWxzSUhyZV8xaTJCMTRScUNCNnNveTNmSXBTNDByZEhXLXNLcEdwUjFHRWFNQnkyU3hwcHRCbFdoX2JtVDM2TzlTYkNaZ0g0TFN0LVB6MVBVaTQyUS1nVWNTMnlMZHVQY0ZrdzVHcEhheVRU0gGgAUFVX3lxTE1zTTZTTzBQYnVuWXpDRGw3a21DRHNZWnZKQWZqb3lFeHJQdXRJNG9yQjJlc0JETk9RUnFRWTlUVl8tX19TQkpZU1ZnMXM3Snl2aGI2TWtGbndjOXFtMXFJb1lDZk96YmQ4dWZqeGN5aXdZeXFWOVliR2dvdnZOUEcyNXVBWHc3NURvZ0xIWVJpZWJrNVZGZ09MSEsyQWdKY0M?oc=5",
+     "pub": "2026-10-12T08:53+00:00"
+    },
+    {
+     "medio": "Google News ES",
+     "titulo": "De Mourinho a Gaspart y cómo gusta la sordidez en el fútbol",
+     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQMVhKaVd3bEhQazNFV1E0Tmg2OVdTQVNaOFI3bUZsOHBjd081Um5YTVZoTG9qdjl2RFpzNTlZMmxWM3ctYW1hV2dPbnY3OU5sSWZETmcwTEtPcl9xNkxVMUU4UU9YOHRtLXVHYnFYOGlNNTdwRWJKZkxwQ2tUVXM1WHNZRXJHUUh0Qlk3QlRBLXFFdVJzd2FMNmtzc0VYd9IBngFBVV95cUxQQnVnVDdFb082WExVMVIzcUR6OWxjTGVDVGxfc1BYWXJqbHU5dTk5SHcyZlFfTWhoLXVXOVB2NHQ4OHlGblUyVXJ4X2s3Y3daN2JuRHVveGduNUJ2ei1PNjdhMnAtaW1tZFZYY0JWNncwS0lqcTFmRU1mUkhnc3BqbmVod01kWkNBb050U2xNbk91UzgwRWx4OThDYmxPUQ?oc=5",
+     "pub": "2026-10-12T10:09+00:00"
+    },
+    {
+     "medio": "Yahoo",
+     "titulo": "Jose Mourinho can be pleased as Real Madrid achieve rare defensive feat against Villarreal",
+     "url": "https://sports.yahoo.com/articles/jose-mourinho-pleased-real-madrid-130000426.html",
+     "pub": "2026-10-12T13:00+00:00"
+    },
+    {
+     "medio": "Record",
+     "titulo": "<![CDATA[ O bunker voltou: Mourinho recupera tradição que começou no Real Madrid e levou para o Benfica ]]>",
+     "url": "https://www.record.pt/internacional/paises/espanha/real-madrid/detalhe/o-bunker-voltou-mourinho-recupera-tradicao-que-comecou-no-real-madrid-e-levou-para-o-benfica",
+     "pub": "2026-10-12T14:09+00:00"
+    },
+    {
+     "medio": "Record",
+     "titulo": "<![CDATA[ Zaniolo foi treinado por Mourinho na Roma e não tem dúvidas: «É especial em tudo» ]]>",
+     "url": "https://www.record.pt/internacional/detalhe/zaniolo-foi-treinado-por-mourinho-na-roma-e-nao-tem-duvidas-e-especial-em-tudo",
+     "pub": "2026-10-12T15:42+00:00"
+    },
+    {
+     "medio": "Mundo Deportivo",
+     "titulo": "Un partido especial para Mourinho en Roma",
+     "url": "https://www.mundodeportivo.com/futbol/real-madrid/20261012/1004237850/partido-especial-mourinho-roma.html",
+     "pub": ""
+    },
+    {
+     "medio": "Daily Mail",
+     "titulo": "Why has Bernardo Silva 'vanished' from Real Madrid's team? Ex-Man City star's exclusion by Jose Mourinho is a 'mystery' - and he is now behind three players in the midfield pecking order",
+     "url": "https://www.dailymail.com/sport/football/article-16204569/bernardo-silva-real-madrid-jose-mourinho.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+     "pub": "2026-10-13T12:16+00:00"
+    },
+    {
+     "medio": "AS",
+     "titulo": "“Roma se enamoró de Mourinho a primera vista...”",
+     "url": "https://as.com/futbol/champions/roma-se-enamoro-de-mourinho-a-primera-vista-f202610-n/",
+     "pub": "2026-10-13T09:47+00:00"
+    },
+    {
+     "medio": "Mundo Deportivo",
+     "titulo": "Mourinho, la Roma y las dificultades de la vuelta a casa",
+     "url": "https://www.mundodeportivo.com/futbol/real-madrid/20261013/1004238209/mourinho-roma-dificultades-vuelta-casa.html",
+     "pub": ""
+    },
+    {
+     "medio": "Mundo Deportivo",
+     "titulo": "Gasperini: \"Mourinho se merece el reconocimiento que los aficionados le brindarán\"",
+     "url": "https://www.mundodeportivo.com/futbol/real-madrid/20261013/1004238211/gasperini-mourinho-merece-reconocimiento-aficionados-le-brindaran.html",
+     "pub": ""
+    },
+    {
+     "medio": "Football Italia",
+     "titulo": "Gasperini: I admire one thing about Mourinho, but Roma fans will ‘support’ their team",
+     "url": "https://football-italia.net/gasperini-admire-1-thing-mourinho-roma-fans/",
+     "pub": "2026-10-13T12:21+00:00"
+    }
+   ]
+  },
+  {
+   "tema": "Lens",
+   "medios": 8,
+   "lista_medios": [
+    "AS",
+    "Foot Mercato",
+    "Kicker",
+    "L'Equipe",
+    "Mundo Deportivo",
+    "Record",
+    "Yahoo",
+    "ge.globo"
+   ],
+   "primera_vez": "2026-10-12T08:52+00:00",
+   "titulares": [
+    {
+     "medio": "Record",
+     "titulo": "<![CDATA[ Lens cresce e aparece: o clube que enche o estádio que leva mais gente do que a própria cidade ]]>",
+     "url": "https://www.record.pt/futebol/futebol-nacional/liga-betclic/sporting/detalhe/lens-cresce-e-aparece-o-clube-que-enche-o-estadio-que-leva-mais-gente-do-que-a-propria-cidade",
+     "pub": "2026-10-12T08:20+00:00"
+    },
+    {
+     "medio": "Record",
+     "titulo": "<![CDATA[ As imagens do treino do Sporting antes da viagem para Lens ]]>",
+     "url": "https://www.record.pt/multimedia/videos/detalhe/as-imagens-do-treino-do-sporting-antes-da-viagem-para-lens",
+     "pub": "2026-10-12T09:33+00:00"
+    },
+    {
+     "medio": "Record",
+     "titulo": "<![CDATA[ Rui Borges com novo problema no último treino do Sporting antes da visita ao Lens ]]>",
+     "url": "https://www.record.pt/futebol/futebol-nacional/liga-betclic/sporting/detalhe/rui-borges-com-um-novo-problema-no-ultimo-treino-antes-da-visita-ao-lens",
+     "pub": "2026-10-12T09:16+00:00"
+    },
+    {
+     "medio": "L'Equipe",
+     "titulo": "Des inexpérimentés pour Lens et le PSG, un vieux briscard pour le LOSC : les arbitres des clubs français en Ligue des champions sont connus",
+     "url": "https://www.lequipe.fr/Football/Actualites/Des-inexperimentes-pour-lens-et-le-psg-un-vieux-briscard-pour-le-losc-les-arbitres-des-clubs-francais-en-ligue-des-champions-sont-connus/1725153#at_medium=RSS_feeds",
+     "pub": "2026-10-12T10:40+00:00"
+    },
+    {
+     "medio": "Record",
+     "titulo": "<![CDATA[ Rui Borges afina armas para a Champions: o último treino do Sporting antes da partida para Lens ]]>",
+     "url": "https://www.record.pt/multimedia/fotogalerias/detalhe/rui-borges-afina-armas-para-a-champions-o-ultimo-treino-do-sporting-antes-da-partida-para-lens",
+     "pub": "2026-10-12T11:14+00:00"
+    },
+    {
+     "medio": "Record",
+     "titulo": "<![CDATA[ As imagens da partida do Sporting para Lens ]]>",
+     "url": "https://www.record.pt/multimedia/videos/detalhe/as-imagens-da-partida-do-sporting-para-lens",
+     "pub": "2026-10-12T12:41+00:00"
+    },
+    {
+     "medio": "L'Equipe",
+     "titulo": "Les chiffres à connaître avant Lens - Sporting",
+     "url": "https://www.lequipe.fr/Football/Video/Ligue-des-champions-les-chiffres-a-connaitre-avant-rc-lens-sporting-cp-en-ligue-des-champions/20243057#at_medium=RSS_feeds",
+     "pub": "2026-10-12T14:25+00:00"
+    },
+    {
+     "medio": "L'Equipe",
+     "titulo": "Loïs Openda absent au moins un mois à cause d'une fissure du péroné de la jambe droite, l'OL estime qu'il n'a pas été protégé par les arbitres à Lens",
+     "url": "https://www.lequipe.fr/Football/Actualites/Lois-openda-absent-au-moins-un-mois-a-cause-d-une-fissure-du-perone-de-la-jambe-droite-l-ol-estime-qu-il-n-a-pas-ete-protege-par-les-arbitres-a-lens/1725192#at_medium=RSS_feeds",
+     "pub": "2026-10-12T14:10+00:00"
+    },
+    {
+     "medio": "Record",
+     "titulo": "<![CDATA[ Em direto: siga a conferência de Rui Borges de antevisão ao jogo com o Lens ]]>",
+     "url": "https://www.record.pt/futebol/futebol-nacional/liga-betclic/sporting/detalhe/em-direto-siga-a-conferencia-de-rui-borges-de-antevisao-ao-jogo-com-o-lens",
+     "pub": "2026-10-12T16:17+00:00"
+    },
+    {
+     "medio": "Record",
+     "titulo": "<![CDATA[ Treinador do Lens destaca ataque do Sporting: «Um grande adversário e que marca muitos golos» ]]>",
+     "url": "https://www.record.pt/futebol/futebol-nacional/liga-betclic/sporting/detalhe/treinador-do-lens-destaca-ataque-do-sporting-um-grande-adversario-e-que-marca-muitos-golos",
+     "pub": "2026-10-12T15:56+00:00"
+    },
+    {
+     "medio": "L'Equipe",
+     "titulo": "Yannick Cahuzac sur sa première en Ligue des champions comme entraîneur de Lens : « Une étape particulière et importante »",
+     "url": "https://www.lequipe.fr/Football/Actualites/Yannick-cahuzac-sur-sa-premiere-en-ligue-des-champions-comme-entraineur-de-lens-une-etape-particuliere-et-importante/1725249#at_medium=RSS_feeds",
+     "pub": "2026-10-12T16:47+00:00"
+    },
+    {
+     "medio": "Record",
+     "titulo": "<![CDATA[ João Simões recorda lesão antes de defrontar o Lens: «Quem esteve perto de mim sabe o quão difícil foi» ]]>",
+     "url": "https://www.record.pt/futebol/futebol-nacional/liga-betclic/sporting/detalhe/joao-simoes-recorda-lesao-antes-de-defrontar-o-lens-quem-esteve-perto-de-mim-sabe-o-quao-dificil-foi",
+     "pub": "2026-10-12T17:04+00:00"
+    }
+   ]
+  },
+  {
+   "tema": "Anfield",
+   "medios": 8,
+   "lista_medios": [
+    "BBC",
+    "Daily Mail",
+    "Google News EN",
+    "Guardian",
+    "L'Equipe",
+    "Sky Sports",
+    "Yahoo",
+    "ge.globo"
+   ],
+   "primera_vez": "2026-10-12T09:52+00:00",
+   "titulares": [
+    {
+     "medio": "Yahoo",
+     "titulo": "Liverpool star could leave Anfield for less than €10m",
+     "url": "https://sports.yahoo.com/articles/liverpool-star-could-leave-anfield-092500727.html",
+     "pub": "2026-10-12T09:25+00:00"
+    },
+    {
+     "medio": "Daily Mail",
+     "titulo": "OLIVER HOLT: The preening triumphalism of Man City stars at Anfield shows they do not have a scintilla of self-awareness between them. These players stand on the shoulders of cheats - and they know it",
+     "url": "https://www.dailymail.com/sport/football/article-16202113/man-city-liverpool-anfield-cheating.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+     "pub": "2026-10-12T11:29+00:00"
+    },
+    {
+     "medio": "Guardian",
+     "titulo": "Triumphant Manchester City unfazed by Liverpool and Anfield hostility: Football Weekly – video",
+     "url": "https://www.theguardian.com/football/video/2026/oct/12/manchester-city-unfazed-by-anfield-anticlimax-football-weekly",
+     "pub": "2026-10-12T12:43+00:00"
+    },
+    {
+     "medio": "Google News EN",
+     "titulo": "Which banners did Liverpool fans display at Anfield against Man City?",
+     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOMnRCbVVsekdiRU9vcmh0RFJFT0xTOWVHRW5TNzJrejFhY21lQ3I0YUpjYS1wOUxqb09RSjVTWEhWRG5FRkF6S3pUbWdhamlxUzVHYXVSeHN6cXJNTmtqSTUxaFhKQzF3dFdsZWQ4VnJyMmdJNGZrWFFuM1paSUZ4eGU1Y2FtcktCUEt1cW81eGk1X1BsTmZWMEs5enE0U1VfN3VjVURpNzdJT05VdzdWZy130gG3AUFVX3lxTE9idnA3OFUzOGNDSWd0SU5uYk9oTDNkYmFvcmhQU3E0M3NoVkdpYnU0VEVVc19VSEQ3bnlqbFRoaVdJR3NaUzc3X1pmNUZnVmZrUmZUSWNaUDJ0VDQ4bmtETHVfalZGcENJcmdfOTFyQ1RreU54dXRxQmZCYjBQaXpsN2NkTVU0ZDZZVUc3NkdiTFM5a0UtV2dOYnBzdzU4VlFsUFhlSXFhcDdBdno3SzhGWFdmZnB6aw?oc=5",
+     "pub": "2026-10-12T12:32+00:00"
+    },
+    {
+     "medio": "Google News EN",
+     "titulo": "Manchester City unfazed by Anfield anticlimax: Football Weekly – video",
+     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQRDFJdkxOMHpyb3VKTFpKVGxrNHA5OUgyTTFsd0kzZ3RwU0xFOTBMNE1aUTlGUE14WGxtbHRYbk5ybHNMa0RzSFVZNHFaZk5VMUJ6dExJMlo4dXkwUUVlbkMtTV9mZFI0eV80Qm5heVY3Wm1lNUxtQVMxb2NGOGtaU29ici1lT3R2TzZVMGtqU2tSR3RnUy1pSW1QT3BVQ2hkMlVuMkFYV01aRTN2bThIQVd3Q0pmRDg?oc=5",
+     "pub": "2026-10-12T12:46+00:00"
+    },
+    {
+     "medio": "Yahoo",
+     "titulo": "Liverpool star sends warning to Manchester City after Anfield defeat",
+     "url": "https://sports.yahoo.com/articles/liverpool-star-sends-warning-manchester-152000565.html",
+     "pub": "2026-10-12T15:20+00:00"
+    },
+    {
+     "medio": "BBC",
+     "titulo": "'Criticised for what?' - Maresca defends Anfield celebrations",
+     "url": "https://www.bbc.co.uk/sport/football/articles/ckn9r1ygv81wo?at_medium=RSS&at_campaign=rss",
+     "pub": "2026-10-13T13:04+00:00"
+    },
+    {
+     "medio": "Sky Sports",
+     "titulo": "'What do you want us to do?' - Maresca defends Anfield celebrations",
+     "url": "https://www.skysports.com/football/news/12040/13598805/enzo-maresca-man-city-boss-defends-anfield-celebrations-after-beating-liverpool-in-first-game-since-guilty-verdict",
+     "pub": "2026-10-13T12:45+00:00"
+    },
+    {
+     "medio": "Sky Sports",
+     "titulo": "'Criticised for what?' – Maresca stands by Man City's Anfield celebrations",
+     "url": "https://www.skysports.com/watch/video/13598800/man-city-enzo-maresca-defends-anfield-celebrations",
+     "pub": "2026-10-13T12:19+00:00"
+    },
+    {
+     "medio": "Google News EN",
+     "titulo": "Man City: Enzo Maresca defends Anfield celebrations",
+     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQUDlJaUlOakthNzdrVzFuSVQzOWpPUF9vWndsaW93N1I4QnNkd2l3WURsbTN5UEx4djdJdFM5X2FOX1NxWTZOQ3JhZ1l0MUxBOV9Qb2dEY2RnbjBlYUphbWlCMnNmZXptSzdkcE95dVhSelJVSnZ4Z3Z6b0ZTZ1FxUG91TkpKM2tsUHpWaHc0UERnd0kxT3ZnR3NHQWhWc0d5dFE?oc=5",
+     "pub": "2026-10-13T11:29+00:00"
+    },
+    {
+     "medio": "L'Equipe",
+     "titulo": "Déplacement à Anfield, réceptions de Manchester City et Côme... la suite du programme du RC Lens en Ligue des champions",
+     "url": "https://www.lequipe.fr/Football/Actualites/Deplacement-a-anfield-receptions-de-manchester-city-et-come-la-suite-du-programme-du-rc-lens-en-ligue-des-champions/1725562#at_medium=RSS_feeds",
+     "pub": "2026-10-13T19:36+00:00"
+    },
+    {
+     "medio": "ge.globo",
+     "titulo": "Maresca rebate críticas à festa do City em Anfield após condenação: \"O que querem que a gente faça?\"",
+     "url": "https://ge.globo.com/futebol/futebol-internacional/noticia/2026/10/13/maresca-rebate-criticas-a-festa-do-city-em-anfield-apos-condenacao-o-que-querem-que-a-gente-faca.ghtml",
+     "pub": "2026-10-13T15:09+00:00"
+    }
+   ]
+  },
+  {
+   "tema": "Sporting",
+   "medios": 8,
+   "lista_medios": [
+    "AS",
+    "Foot Mercato",
+    "Google News ES",
+    "Kicker",
+    "L'Equipe",
+    "Mundo Deportivo",
+    "Record",
+    "Yahoo"
+   ],
+   "primera_vez": "2026-10-12T09:52+00:00",
+   "titulares": [
+    {
+     "medio": "Record",
+     "titulo": "<![CDATA[ As imagens do treino do Sporting antes da viagem para Lens ]]>",
+     "url": "https://www.record.pt/multimedia/videos/detalhe/as-imagens-do-treino-do-sporting-antes-da-viagem-para-lens",
+     "pub": "2026-10-12T09:33+00:00"
+    },
+    {
+     "medio": "Record",
+     "titulo": "<![CDATA[ Rui Borges com novo problema no último treino do Sporting antes da visita ao Lens ]]>",
+     "url": "https://www.record.pt/futebol/futebol-nacional/liga-betclic/sporting/detalhe/rui-borges-com-um-novo-problema-no-ultimo-treino-antes-da-visita-ao-lens",
+     "pub": "2026-10-12T09:16+00:00"
+    },
+    {
+     "medio": "Google News ES",
+     "titulo": "El Sporting se rebela en Cádiz y se impulsa al playoff",
+     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNTkJxNnhaSm4tdEhLM3k1Mnl6WllqMkZ1UXNMWVFsNUFDLVRZMVlHeWhxTm5qR2tkeDN6QXpJMkhIQ3I2OS13WjlNRzhVRm5JeGU0bW5zOFphZk9BQnBVVnd1T2FvUXFKYkQtSGQtNnlXYnZiSWxpVWF0akRnbnpFd2ZkWlZ3QWRFaEtiOVBmdkhoOGNXbW90N1lZc2ZPZnVKUVU5NHFidVdjdUVETGJBUGVjeU1jTGFsWXJB0gG7AUFVX3lxTE1OQnE2eFpKbi10SEszeTUyeXpaWWoyRnVRc0xZUWw1QUMtVFkxWUd5aHFObmpHa2R4M3pBekkySEhDcjY5LXdaOU1HOFVGbkl4ZTRtbnM4WmFmT0FCcFVWd3VPYW9RcUpiRC1IZC02eVdidmJJbGlVYXRqRGduekV3ZmRaVndBZEVoS2I5UGZ2SGg4Y1dtb3Q3WVlzZk9mdUpRVTk0cWJ1V2N1RURMYkFQZWN5TWNMYWxZckE?oc=5",
+     "pub": "2026-10-12T09:42+00:00"
+    },
+    {
+     "medio": "Record",
+     "titulo": "<![CDATA[ Rui Borges afina armas para a Champions: o último treino do Sporting antes da partida para Lens ]]>",
+     "url": "https://www.record.pt/multimedia/fotogalerias/detalhe/rui-borges-afina-armas-para-a-champions-o-ultimo-treino-do-sporting-antes-da-partida-para-lens",
+     "pub": "2026-10-12T11:14+00:00"
+    },
+    {
+     "medio": "Record",
+     "titulo": "<![CDATA[ As imagens da partida do Sporting para Lens ]]>",
+     "url": "https://www.record.pt/multimedia/videos/detalhe/as-imagens-da-partida-do-sporting-para-lens",
+     "pub": "2026-10-12T12:41+00:00"
+    },
+    {
+     "medio": "Record",
+     "titulo": "<![CDATA[ Sporting viaja para França sem Debast e com Zekri: os 25 convocados por Rui Borges ]]>",
+     "url": "https://www.record.pt/futebol/futebol-nacional/liga-betclic/sporting/detalhe/sporting-viaja-para-franca-sem-debast-e-com-zekri-os-25-convocados-por-rui-borges",
+     "pub": "2026-10-12T12:32+00:00"
+    },
+    {
+     "medio": "L'Equipe",
+     "titulo": "Les chiffres à connaître avant Lens - Sporting",
+     "url": "https://www.lequipe.fr/Football/Video/Ligue-des-champions-les-chiffres-a-connaitre-avant-rc-lens-sporting-cp-en-ligue-des-champions/20243057#at_medium=RSS_feeds",
+     "pub": "2026-10-12T14:25+00:00"
+    },
+    {
+     "medio": "Record",
+     "titulo": "<![CDATA[ Cuisance vai enfrentar Sporting e lembrou final da Champions ganha na Luz: «Até quis fazer uma tatuagem» ]]>",
+     "url": "https://www.record.pt/futebol/futebol-nacional/liga-betclic/sporting/detalhe/cuisance-vai-enfrentar-sporting-e-lembrou-final-da-champions-ganha-na-luz-ate-quis-fazer-uma-tatuagem",
+     "pub": "2026-10-12T16:08+00:00"
+    },
+    {
+     "medio": "Record",
+     "titulo": "<![CDATA[ Treinador do Lens destaca ataque do Sporting: «Um grande adversário e que marca muitos golos» ]]>",
+     "url": "https://www.record.pt/futebol/futebol-nacional/liga-betclic/sporting/detalhe/treinador-do-lens-destaca-ataque-do-sporting-um-grande-adversario-e-que-marca-muitos-golos",
+     "pub": "2026-10-12T15:56+00:00"
+    },
+    {
+     "medio": "Record",
+     "titulo": "<![CDATA[ Rui Borges: «Sporting já é presença assídua na Champions. Somos um Mercedes, podemos é não ser topo de gama...» ]]>",
+     "url": "https://www.record.pt/multimedia/videos/detalhe/rui-borges-sporting-ja-e-presenca-assidua-na-champions-somos-um-mercedes-podemos-e-nao-ser-topo-de-gama",
+     "pub": "2026-10-12T17:33+00:00"
+    },
+    {
+     "medio": "L'Equipe",
+     "titulo": "Mené par deux fois, Lens arrache la victoire face au Sporting en Youth League",
+     "url": "https://www.lequipe.fr/Football/Actualites/Mene-par-deux-fois-lens-arrache-la-victoire-face-au-sporting-en-youth-league/1725462#at_medium=RSS_feeds",
+     "pub": "2026-10-13T13:46+00:00"
+    },
+    {
+     "medio": "L'Equipe",
+     "titulo": "À quelle heure et sur quelle chaîne voir Lens - Sporting CP en Ligue des champions ?",
+     "url": "https://www.lequipe.fr/Football/Actualites/A-quelle-heure-et-sur-quelle-chaine-voir-lens-sporting-en-ligue-des-champions/1725188#at_medium=RSS_feeds",
+     "pub": "2026-10-13T06:25+00:00"
+    }
+   ]
+  },
+  {
    "tema": "Utd",
-   "medios": 7,
+   "medios": 8,
    "lista_medios": [
     "BBC",
     "Google News EN",
+    "Google News ES",
     "Mirror",
     "Mundo Deportivo",
     "Planet Football",
     "Sky Sports",
     "Yahoo"
    ],
-   "primera_vez": "2026-10-12T06:59+00:00",
+   "primera_vez": "2026-10-12T10:50+00:00",
    "titulares": [
-    {
-     "medio": "Mirror",
-     "titulo": "Man Utd news: JJ Gabriel left in transfer lurch as Michael Carrick told to change plans",
-     "url": "https://www.mirror.co.uk/sport/football/news/manchester-united-transfer-news-gabriel-37759861",
-     "pub": "2026-10-12T03:30+00:00"
-    },
     {
      "medio": "Sky Sports",
      "titulo": "Pressing problems for Man Utd? How viral clip exposes issues for Carrick",
@@ -2356,358 +2379,368 @@
      "titulo": "'Man Utd are where they're meant to be - they sign Chelsea bench players now'",
      "url": "https://www.mirror.co.uk/sport/football/news/man-utd-chelsea-jay-bothroyd-37766623",
      "pub": "2026-10-13T12:27+00:00"
+    },
+    {
+     "medio": "Mirror",
+     "titulo": "Michael Carrick's worrying comment about Man Utd job emerges as sack threat clear",
+     "url": "https://www.mirror.co.uk/sport/football/news/michael-carrick-manchester-united-sack-37765643",
+     "pub": "2026-10-13T08:58+00:00"
     }
    ]
   },
   {
-   "tema": "Anfield",
-   "medios": 7,
+   "tema": "Michael",
+   "medios": 8,
    "lista_medios": [
-    "BBC",
     "Daily Mail",
+    "Foot Mercato",
     "Google News EN",
     "Guardian",
-    "Planet Football",
-    "Sky Sports",
-    "Yahoo"
+    "Infobae",
+    "L'Equipe",
+    "Mirror",
+    "talkSPORT"
    ],
-   "primera_vez": "2026-10-12T06:59+00:00",
+   "primera_vez": "2026-10-12T10:50+00:00",
    "titulares": [
     {
-     "medio": "Planet Football",
-     "titulo": "14 Things We Loved This Weekend: Henderson, Neuer, Seedorf, Anfield banners & more",
-     "url": "https://www.planetfootball.com/lists-and-rankings/things-we-loved-this-weekend-planet-football-henderson-seedorf",
-     "pub": "2026-10-12T06:00+00:00"
-    },
-    {
-     "medio": "Yahoo",
-     "titulo": "Amidst the storm, a Manchester City midfielder stood up and set the tone at Anfield",
-     "url": "https://sports.yahoo.com/articles/amidst-storm-manchester-city-midfielder-052000590.html",
-     "pub": "2026-10-12T05:20+00:00"
-    },
-    {
-     "medio": "Yahoo",
-     "titulo": "The response on the pitch from Manchester City at Anfield was ruthless",
-     "url": "https://sports.yahoo.com/articles/response-pitch-manchester-city-anfield-080900680.html",
-     "pub": "2026-10-12T08:09+00:00"
-    },
-    {
-     "medio": "Yahoo",
-     "titulo": "Liverpool legend has future confirmed after major news emerges from Anfield",
-     "url": "https://sports.yahoo.com/articles/liverpool-legend-future-confirmed-major-080500553.html",
-     "pub": "2026-10-12T08:05+00:00"
-    },
-    {
-     "medio": "Yahoo",
-     "titulo": "Liverpool star could leave Anfield for less than €10m",
-     "url": "https://sports.yahoo.com/articles/liverpool-star-could-leave-anfield-092500727.html",
-     "pub": "2026-10-12T09:25+00:00"
-    },
-    {
      "medio": "Daily Mail",
-     "titulo": "OLIVER HOLT: The preening triumphalism of Man City stars at Anfield shows they do not have a scintilla of self-awareness between them. These players stand on the shoulders of cheats - and they know it",
-     "url": "https://www.dailymail.com/sport/football/article-16202113/man-city-liverpool-anfield-cheating.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-     "pub": "2026-10-12T11:29+00:00"
+     "titulo": "Kobbie Mainoo and Luke Shaw could miss Man United's trip to Atletico Madrid in another blow to Michael Carrick",
+     "url": "https://www.dailymail.com/sport/football/article-16202245/Kobbie-Mainoo-Luke-Shaw-miss-Man-Uniteds-trip-Atletico-Madrid-blow-Michael-Carrick.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+     "pub": "2026-10-12T10:46+00:00"
+    },
+    {
+     "medio": "talkSPORT",
+     "titulo": "Arsenal legend gives ruthless opinion on Michael Carrick’s Manchester United future",
+     "url": "https://talksport.com/football/4639495/michael-carrick-manchester-united-future-reaction-emmanuel-petit/",
+     "pub": "2026-10-12T13:49+00:00"
+    },
+    {
+     "medio": "Mirror",
+     "titulo": "Michael Carrick given brutal reality check over threat of being sacked by Man Utd",
+     "url": "https://www.mirror.co.uk/sport/football/news/michael-carrick-man-united-manager-37761578",
+     "pub": "2026-10-12T13:14+00:00"
+    },
+    {
+     "medio": "Google News EN",
+     "titulo": "Paul Pogba backs Michael Carrick to succeed at Manchester United",
+     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPTkJzVmRudzF6eFR5cW5FbWxqZ0VjQUdwa21Ic2NWZmJzSWRXUDZxYWQzb1d4ZHBkYjkzMzlGOS1VeS02dXA1VHEtSTU3TG1iS1NNTThPX3ZyRWVjVGk1dTVidWV6M3dobWZRbUxGRHNheV8yR2pRbGozWGZCSTlIdnNNbFNQSHo4Tm5vM3M0SlpxSjZNdXUwTldYTExweE92OUp1a0U5YXljT3F2cHJMaTYwelhkdm9aNWVLZTlfelBqTlVMcVR0VQ?oc=5",
+     "pub": "2026-10-12T13:16+00:00"
+    },
+    {
+     "medio": "Mirror",
+     "titulo": "Man Utd's next seven games as Michael Carrick faces defining period after horror start",
+     "url": "https://www.mirror.co.uk/sport/football/news/man-utd-fixtures-carrick-future-37763943",
+     "pub": "2026-10-12T16:33+00:00"
+    },
+    {
+     "medio": "Mirror",
+     "titulo": "Michael Owen makes feelings clear on Michael Carrick as Man Utd sent sack verdict",
+     "url": "https://www.mirror.co.uk/sport/football/news/man-utd-michael-carrick-sack-37763188",
+     "pub": "2026-10-12T16:00+00:00"
+    },
+    {
+     "medio": "Google News EN",
+     "titulo": "Portugal v Northern Ireland: We'll have 'one last swing' at World Cup - Michael McArdle",
+     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE0wd1dBM0h4WHJxOGtObElLWGpDZmpKVm1kSkVLVVpsZkdDdTdpdXNuT0htS1U4TnBrY0FtV2VkdTkwQUpPMk0ybVpWcG1wd2R2ZW41dzU4eFNTV3EtSXNoSnd1M0tkMlQwcVBr?oc=5",
+     "pub": "2026-10-12T15:46+00:00"
     },
     {
      "medio": "Guardian",
-     "titulo": "Triumphant Manchester City unfazed by Liverpool and Anfield hostility: Football Weekly – video",
-     "url": "https://www.theguardian.com/football/video/2026/oct/12/manchester-city-unfazed-by-anfield-anticlimax-football-weekly",
-     "pub": "2026-10-12T12:43+00:00"
+     "titulo": "The Ballon d’Or doesn’t capture football’s wonder – Michael Olise is proof | Zito Madu",
+     "url": "https://www.theguardian.com/football/2026/oct/13/michael-olise-ballon-dor-france-belgium",
+     "pub": "2026-10-13T09:00+00:00"
     },
     {
-     "medio": "Google News EN",
-     "titulo": "Which banners did Liverpool fans display at Anfield against Man City?",
-     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOMnRCbVVsekdiRU9vcmh0RFJFT0xTOWVHRW5TNzJrejFhY21lQ3I0YUpjYS1wOUxqb09RSjVTWEhWRG5FRkF6S3pUbWdhamlxUzVHYXVSeHN6cXJNTmtqSTUxaFhKQzF3dFdsZWQ4VnJyMmdJNGZrWFFuM1paSUZ4eGU1Y2FtcktCUEt1cW81eGk1X1BsTmZWMEs5enE0U1VfN3VjVURpNzdJT05VdzdWZy130gG3AUFVX3lxTE9idnA3OFUzOGNDSWd0SU5uYk9oTDNkYmFvcmhQU3E0M3NoVkdpYnU0VEVVc19VSEQ3bnlqbFRoaVdJR3NaUzc3X1pmNUZnVmZrUmZUSWNaUDJ0VDQ4bmtETHVfalZGcENJcmdfOTFyQ1RreU54dXRxQmZCYjBQaXpsN2NkTVU0ZDZZVUc3NkdiTFM5a0UtV2dOYnBzdzU4VlFsUFhlSXFhcDdBdno3SzhGWFdmZnB6aw?oc=5",
-     "pub": "2026-10-12T12:32+00:00"
+     "medio": "Daily Mail",
+     "titulo": "Why Marcus Rashford will be key if Man United are to spring an upset on Atletico Madrid: Ashley Young reveals how winger's Barcelona exploits can 'play into Michael Carrick's hands'",
+     "url": "https://www.dailymail.com/sport/football/article-16205755/marcus-rashford-manchester-united-atletico-madrid.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+     "pub": "2026-10-13T14:24+00:00"
     },
     {
-     "medio": "Google News EN",
-     "titulo": "Manchester City unfazed by Anfield anticlimax: Football Weekly – video",
-     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQRDFJdkxOMHpyb3VKTFpKVGxrNHA5OUgyTTFsd0kzZ3RwU0xFOTBMNE1aUTlGUE14WGxtbHRYbk5ybHNMa0RzSFVZNHFaZk5VMUJ6dExJMlo4dXkwUUVlbkMtTV9mZFI0eV80Qm5heVY3Wm1lNUxtQVMxb2NGOGtaU29ici1lT3R2TzZVMGtqU2tSR3RnUy1pSW1QT3BVQ2hkMlVuMkFYV01aRTN2bThIQVd3Q0pmRDg?oc=5",
-     "pub": "2026-10-12T12:46+00:00"
+     "medio": "Daily Mail",
+     "titulo": "Bruno Fernandes must be taken out of Man United's team before he 'EXPLODES', claims Wayne Rooney as he sends Michael Carrick warning on 'fed up' talisman",
+     "url": "https://www.dailymail.com/sport/football/article-16204893/bruno-fernandes-man-united-wayne-rooney-michael-carrick.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+     "pub": "2026-10-13T13:37+00:00"
     },
     {
-     "medio": "Yahoo",
-     "titulo": "Liverpool star sends warning to Manchester City after Anfield defeat",
-     "url": "https://sports.yahoo.com/articles/liverpool-star-sends-warning-manchester-152000565.html",
-     "pub": "2026-10-12T15:20+00:00"
+     "medio": "Daily Mail",
+     "titulo": "'Michael Carrick told me: \"Management's not for me\"': Nicky Butt's damning revelations on private conversations with Man United boss as he becomes second-favourite for the sack",
+     "url": "https://www.dailymail.com/sport/football/article-16204519/Michael-Carrick-told-Managements-not-Nicky-Butts-damning-revelations-private-conversations-Man-United-boss-second-favourite-sack.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+     "pub": "2026-10-13T08:36+00:00"
     },
     {
-     "medio": "BBC",
-     "titulo": "'Criticised for what?' - Maresca defends Anfield celebrations",
-     "url": "https://www.bbc.co.uk/sport/football/articles/ckn9r1ygv81wo?at_medium=RSS&at_campaign=rss",
-     "pub": "2026-10-13T13:04+00:00"
-    },
-    {
-     "medio": "Sky Sports",
-     "titulo": "'What do you want us to do?' - Maresca defends Anfield celebrations",
-     "url": "https://www.skysports.com/football/news/12040/13598805/enzo-maresca-man-city-boss-defends-anfield-celebrations-after-beating-liverpool-in-first-game-since-guilty-verdict",
-     "pub": "2026-10-13T12:45+00:00"
+     "medio": "Daily Mail",
+     "titulo": "'We have only six counties to choose from, the Republic has 32' - Northern Ireland boss Michael O'Neill on the battle for best soccer talent in Ireland... and why the North are winning",
+     "url": "https://www.dailymail.com/sport/football/article-16197247/Six-counties-Republic-Northern-Ireland-boss-Michael-ONeill-battle-soccer-talent.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+     "pub": "2026-10-12T22:01+00:00"
     }
    ]
   },
   {
-   "tema": "Bayern",
-   "medios": 7,
+   "tema": "Atletico",
+   "medios": 8,
    "lista_medios": [
-    "AS",
-    "Foot Mercato",
+    "Daily Mail",
     "FourFourTwo",
-    "Kicker",
-    "Mundo Deportivo",
+    "Google News ES",
+    "Mirror",
+    "Planet Football",
+    "Sky Sports",
     "Yahoo",
-    "ge.globo"
+    "talkSPORT"
    ],
-   "primera_vez": "2026-10-12T06:59+00:00",
+   "primera_vez": "2026-10-12T10:50+00:00",
    "titulares": [
     {
-     "medio": "AS",
-     "titulo": "Olise sabe lo que hace con Madrid y Bayern",
-     "url": "https://as.com/futbol/internacional/olise-sabe-lo-que-hace-con-madrid-y-bayern-f202610-n/",
-     "pub": "2026-10-12T05:59+00:00"
+     "medio": "Daily Mail",
+     "titulo": "Kobbie Mainoo and Luke Shaw could miss Man United's trip to Atletico Madrid in another blow to Michael Carrick",
+     "url": "https://www.dailymail.com/sport/football/article-16202245/Kobbie-Mainoo-Luke-Shaw-miss-Man-Uniteds-trip-Atletico-Madrid-blow-Michael-Carrick.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+     "pub": "2026-10-12T10:46+00:00"
+    },
+    {
+     "medio": "Mirror",
+     "titulo": "Man Utd make late call on two stars struggling with injury ahead of Atletico Madrid clash",
+     "url": "https://www.mirror.co.uk/sport/football/news/man-utd-injury-update-mainoo-37762790",
+     "pub": "2026-10-12T12:24+00:00"
+    },
+    {
+     "medio": "talkSPORT",
+     "titulo": "Where to watch Atletico Madrid v Manchester United plus talkSPORT commentary for blockbuster",
+     "url": "https://talksport.com/football/4639286/where-watch-atletico-madrid-manchester-united-time-score-teams-commentary/",
+     "pub": "2026-10-12T15:30+00:00"
     },
     {
      "medio": "Yahoo",
-     "titulo": "Champions League Preview | Viking FK vs Bayern Munich: The ideal opening match for Vincent Kompany after Bundesliga slip-up?",
-     "url": "https://sports.yahoo.com/articles/champions-league-preview-viking-fk-082400352.html",
-     "pub": "2026-10-12T08:24+00:00"
+     "titulo": "How to watch Atletico Madrid vs Manchester United live: Stream, TV channel, team news, prediction",
+     "url": "https://sports.yahoo.com/articles/watch-atletico-madrid-vs-manchester-163041811.html",
+     "pub": "2026-10-12T16:30+00:00"
     },
     {
-     "medio": "Foot Mercato",
-     "titulo": "Le président du Bayern a tranché entre Kane et Olise",
-     "url": "https://www.footmercato.net/a7800329110167790769-le-president-du-bayern-a-tranche-entre-kane-et-olise",
-     "pub": "2026-10-12T09:46+00:00"
+     "medio": "Daily Mail",
+     "titulo": "Why Marcus Rashford will be key if Man United are to spring an upset on Atletico Madrid: Ashley Young reveals how winger's Barcelona exploits can 'play into Michael Carrick's hands'",
+     "url": "https://www.dailymail.com/sport/football/article-16205755/marcus-rashford-manchester-united-atletico-madrid.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+     "pub": "2026-10-13T14:24+00:00"
+    },
+    {
+     "medio": "Daily Mail",
+     "titulo": "Michael Carrick admits he understands calls for 'change' at Man United after worst start in 40 YEARS - as he challenges misfiring players to 'show who wants to be here' against Atletico Madrid",
+     "url": "https://www.dailymail.com/sport/football/article-16203615/Michael-Carrick-understands-calls-change-Man-United.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+     "pub": "2026-10-12T20:38+00:00"
+    },
+    {
+     "medio": "Mirror",
+     "titulo": "'It was getting worse every day at Man Utd – but I enjoyed my football again at Atletico'",
+     "url": "https://www.mirror.co.uk/sport/football/news/man-utd-atletico-champions-league-37762966",
+     "pub": "2026-10-13T07:00+00:00"
+    },
+    {
+     "medio": "Mirror",
+     "titulo": "Man Utd without six players vs Atletico Madrid as injury crisis hits Michael Carrick",
+     "url": "https://www.mirror.co.uk/sport/football/news/man-utd-injury-news-atletico-37765193",
+     "pub": "2026-10-13T05:50+00:00"
+    },
+    {
+     "medio": "Mirror",
+     "titulo": "Diego Simeone's £34million property empire with Atletico boss owning over 180 Madrid homes",
+     "url": "https://www.mirror.co.uk/sport/football/news/diego-simeone-property-wife-atletico-37763147",
+     "pub": "2026-10-13T05:00+00:00"
     },
     {
      "medio": "FourFourTwo",
-     "titulo": "Bayern Munich publicly address Erling Haaland transfer, in wake of Manchester City verdict",
-     "url": "https://www.fourfourtwo.com/transfer/bayern-munich-publicly-address-erling-haaland-transfer-in-wake-of-manchester-city-verdict",
-     "pub": "2026-10-12T11:37+00:00"
+     "titulo": "Why is there a minute's silence before Manchester United's Champions League game against Atletico Madrid?",
+     "url": "https://www.fourfourtwo.com/team/why-is-there-a-minutes-silence-before-manchester-uniteds-champions-league-game-against-atletico-madrid",
+     "pub": "2026-10-13T14:26+00:00"
     },
     {
-     "medio": "Yahoo",
-     "titulo": "Bayern Munich chairman rules out selling superstar forward amid Real Madrid interest: ‘We are not a club that is forced to sell’",
-     "url": "https://sports.yahoo.com/articles/bayern-munich-chairman-rules-selling-110100115.html",
-     "pub": "2026-10-12T11:01+00:00"
+     "medio": "Sky Sports",
+     "titulo": "'No improvement!' - Clinton slams Man Utd as Atletico take lead after just 47 seconds",
+     "url": "https://www.skysports.com/watch/video/13598975/awful-start-no-improvement-clinton-morrison-slams-manchester-united-as-atletico-take-the-lead-in-their-champions-league-clash",
+     "pub": "2026-10-13T20:08+00:00"
     },
     {
-     "medio": "AS",
-     "titulo": "El Bayern saca músculo con Olise y Kane",
-     "url": "https://as.com/futbol/internacional/el-bayern-saca-musculo-con-olise-y-kane-f202610-n/",
-     "pub": "2026-10-12T11:01+00:00"
-    },
-    {
-     "medio": "Mundo Deportivo",
-     "titulo": "Mensaje del Bayern al Real Madrid sobre Olise",
-     "url": "https://www.mundodeportivo.com/futbol/fichajes/20261012/1004237717/mensaje-bayern-real-madrid-sobre-olise.html",
-     "pub": ""
-    },
-    {
-     "medio": "Kicker",
-     "titulo": "Warum spielen die Bayern in Stavanger eigentlich auf Kunstrasen?",
-     "url": "https://www.kicker.de/warum-spielen-die-bayern-in-stavanger-eigentlich-auf-kunstrasen-1260565/video#omrss",
-     "pub": "2026-10-12T11:04+00:00"
-    },
-    {
-     "medio": "ge.globo",
-     "titulo": "Viking x Bayern de Munique na Champions League: onde assistir ao vivo e horário",
-     "url": "https://ge.globo.com/futebol/futebol-internacional/noticia/2026/10/12/viking-x-bayern-de-munique-na-champions-league-onde-assistir-ao-vivo-e-horario.ghtml",
-     "pub": "2026-10-12T13:37+00:00"
-    },
-    {
-     "medio": "Foot Mercato",
-     "titulo": "Bayern Munich : le \"boulet\" Manuel Neuer commence à devenir très gênant",
-     "url": "https://www.footmercato.net/a2127552382789186038-bayern-munich-le-boulet-manuel-neuer-commence-a-devenir-tres-genant",
-     "pub": "2026-10-12T14:59+00:00"
-    },
-    {
-     "medio": "Kicker",
-     "titulo": "Für Bayern geht es heute noch um eine zweite Tabelle - doch wo ist die plötzlich?",
-     "url": "https://www.kicker.de/fuer-bayern-geht-es-heute-noch-um-eine-zweite-tabelle-doch-wo-ist-die-ploetzlich-1260796/artikel#omrss",
-     "pub": "2026-10-13T13:02+00:00"
-    },
-    {
-     "medio": "Kicker",
-     "titulo": "\"Die Ruhe im Sturm\": Viking hofft gegen Bayern auf das Wetter",
-     "url": "https://www.kicker.de/die-ruhe-im-sturm-viking-hofft-gegen-bayern-auf-das-wetter-1260830/video#omrss",
-     "pub": "2026-10-13T11:08+00:00"
+     "medio": "Sky Sports",
+     "titulo": "Atletico controversially denied second goal vs Man Utd after VAR review LIVE!",
+     "url": "https://www.skysports.com/football/atletico-madrid-vs-manchester-united/live/577616",
+     "pub": "2026-10-13T17:55+00:00"
     }
    ]
   },
   {
-   "tema": "Vinicius",
-   "medios": 7,
+   "tema": "Coventry",
+   "medios": 8,
    "lista_medios": [
-    "AS",
-    "Foot Mercato",
-    "Google News ES",
-    "Mundo Deportivo",
-    "Planet Football",
-    "Yahoo",
-    "ge.globo"
+    "BBC",
+    "Daily Mail",
+    "FourFourTwo",
+    "Google News EN",
+    "Guardian",
+    "Mirror",
+    "Sky Sports",
+    "Telegraph"
    ],
-   "primera_vez": "2026-10-12T06:59+00:00",
+   "primera_vez": "2026-10-12T10:50+00:00",
    "titulares": [
     {
-     "medio": "AS",
-     "titulo": "La ‘carambola’ que podría ayudar a Vinicius para el Clásico",
-     "url": "https://as.com/futbol/videos/la-carambola-que-podria-ayudar-a-vinicius-para-a-en-el-clasico-f202610-v/",
-     "pub": "2026-10-12T06:47+00:00"
+     "medio": "Mirror",
+     "titulo": "Frank Lampard hailed as 'perfect' by boyhood Chelsea fan now shining for Coventry City",
+     "url": "https://www.mirror.co.uk/sport/football/news/frank-lampard-hailed-perfect-boyhood-37761677",
+     "pub": "2026-10-12T10:18+00:00"
     },
     {
-     "medio": "Mundo Deportivo",
-     "titulo": "Alimentar a Vinicius",
-     "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261012/1004237493/alimentar-vinicius.html",
-     "pub": ""
+     "medio": "FourFourTwo",
+     "titulo": "How to watch Coventry City vs Newcastle United for FREE",
+     "url": "https://www.fourfourtwo.com/competition/how-to-watch-coventry-city-vs-newcastle-united-free",
+     "pub": "2026-10-12T16:00+00:00"
     },
     {
-     "medio": "Mundo Deportivo",
-     "titulo": "Cucurella advirtió al árbitro tras la roja de Vinicius: \"Espero que si me tocan un pelo le saquéis la roja\"",
-     "url": "https://www.mundodeportivo.com/futbol/real-madrid/20261011/1004237588/cucurella-advirtio-arbitro-roja-vinicius-espero-me-tocan-pelo-le-saqueis-roja.html",
-     "pub": ""
+     "medio": "Guardian",
+     "titulo": "Coventry City v Newcastle United: Premier League – live",
+     "url": "https://www.theguardian.com/football/live/2026/oct/12/coventry-city-newcastle-united-premier-league-live-score-updates",
+     "pub": "2026-10-12T17:30+00:00"
     },
     {
-     "medio": "Foot Mercato",
-     "titulo": "Real Madrid : nouvelles révélations accablantes sur le craquage de Vinicius Jr",
-     "url": "https://www.footmercato.net/a6230152383760773133-real-madrid-nouvelles-revelations-accablantes-sur-le-craquage-de-vinicius-jr",
-     "pub": "2026-10-12T06:45+00:00"
+     "medio": "Sky Sports",
+     "titulo": "Gonzalez starts for Newcastle at Coventry as duo return from injury LIVE!",
+     "url": "https://www.skysports.com/football/coventry-city-vs-newcastle-united/live/559497",
+     "pub": "2026-10-12T18:30+00:00"
     },
     {
-     "medio": "ge.globo",
-     "titulo": "Vinicius Junior soma só três expulsões diretas em nove anos de Real Madrid; confira detalhes",
-     "url": "https://ge.globo.com/futebol/futebol-internacional/futebol-espanhol/noticia/2026/10/12/vinicius-junior-soma-so-tres-expulsoes-diretas-em-nove-anos-de-real-madrid-confira-detalhes.ghtml",
-     "pub": "2026-10-12T05:00+00:00"
+     "medio": "BBC",
+     "titulo": "Coventry thrash Newcastle to claim first home win of season",
+     "url": "https://www.bbc.co.uk/sport/football/videos/c65y71z4rjj2o?at_medium=RSS&at_campaign=rss",
+     "pub": "2026-10-12T21:35+00:00"
     },
     {
-     "medio": "Yahoo",
-     "titulo": "Watch: Vinicius’ furious reaction after Villarreal red card that could rule him out of El Clasico",
-     "url": "https://sports.yahoo.com/articles/watch-vinicius-furious-reaction-villarreal-073100830.html",
-     "pub": "2026-10-12T07:31+00:00"
+     "medio": "BBC",
+     "titulo": "Coventry announce themselves back in the big time",
+     "url": "https://www.bbc.co.uk/sport/football/articles/cw78p7l7rp30o?at_medium=RSS&at_campaign=rss",
+     "pub": "2026-10-12T22:34+00:00"
     },
     {
-     "medio": "Yahoo",
-     "titulo": "Real Madrid’s Marc Cucurella sends pointed warning to referee after Vinicius red card controversy: ‘If anyone touches my hair…’",
-     "url": "https://sports.yahoo.com/articles/real-madrid-marc-cucurella-sends-070800081.html",
-     "pub": "2026-10-12T07:08+00:00"
+     "medio": "Guardian",
+     "titulo": "Coventry land long-awaited home win as Mfuni seals rout of Newcastle",
+     "url": "https://www.theguardian.com/football/2026/oct/12/coventry-newcastle-premier-league-match-report",
+     "pub": "2026-10-12T21:09+00:00"
     },
     {
-     "medio": "Yahoo",
-     "titulo": "🎥 I hope if they touch a hair on my head…: Cucurella on Vinicius' red card",
-     "url": "https://sports.yahoo.com/articles/hope-touch-hair-head-cucurella-070600556.html",
-     "pub": "2026-10-12T07:06+00:00"
+     "medio": "Sky Sports",
+     "titulo": "Jaissle sorry for Coventry loss as Carra says Newcastle 'beaten up' again",
+     "url": "https://www.skysports.com/football/news/12040/13598360/matthias-jaissle-newcastle-boss-apologises-for-coventry-loss-as-jamie-carragher-says-they-were-beaten-up",
+     "pub": "2026-10-12T23:25+00:00"
     },
     {
-     "medio": "AS",
-     "titulo": "Sale a la luz el empujón de Vinicius a un empleado de LaLiga tras la roja",
-     "url": "https://as.com/futbol/videos/el-empujon-de-vinicius-a-un-empleado-de-laliga-en-el-tunel-de-vestuarios-no-se-vio-en-tv-f202610-v/",
-     "pub": "2026-10-12T07:02+00:00"
+     "medio": "Sky Sports",
+     "titulo": "Coventry thump Newcastle for first home win to move out of drop zone",
+     "url": "https://www.skysports.com/football/coventry-city-vs-newcastle-united/report/559497",
+     "pub": "2026-10-12T22:00+00:00"
     },
     {
-     "medio": "Yahoo",
-     "titulo": "Villarreal captain defends referee after Vinicius red card and takes swipe at Mourinho: ‘He did that with us at Tottenham too’",
-     "url": "https://sports.yahoo.com/articles/villarreal-captain-defends-referee-vinicius-075600435.html",
-     "pub": "2026-10-12T07:56+00:00"
+     "medio": "Daily Mail",
+     "titulo": "Coventry 4-1 Newcastle: Sky Blues show Man City what a win built on honesty and grit looks like, writes CRAIG HOPE - as Frank Lampard's men secure their first home Premier League win in 25 years against leaderless Magpies",
+     "url": "https://www.dailymail.com/sport/football/article-16203659/Coventry-4-1-Newcastle-CRAIG-HOPE-Frank-Lampard-men-Premier-League-win-25-YEARS-leaderless-Magpies.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+     "pub": "2026-10-13T06:13+00:00"
     },
     {
-     "medio": "Mundo Deportivo",
-     "titulo": "El manual del CTA da la razón a Isidro Díaz de Mera en la expulsión a Vinicius",
-     "url": "https://www.mundodeportivo.com/futbol/real-madrid/20261012/1004237655/manual-cta-da-razon-isidro-diaz-mera-expulsion-vinicius.html",
-     "pub": ""
+     "medio": "Daily Mail",
+     "titulo": "Matthias Jaissle hits out at Newcastle's lack of 'desire and hunger to score' after humbling at Coventry",
+     "url": "https://www.dailymail.com/sport/football/article-16203825/Matthias-Jaissle-Newcastles-lack-desire-hunger.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+     "pub": "2026-10-12T22:22+00:00"
     },
     {
-     "medio": "Planet Football",
-     "titulo": "6 of football’s most infamous hair pulls after Vinicius Junior’s Real Madrid red",
-     "url": "https://www.planetfootball.com/lists-and-rankings/players-sent-off-hair-pulling-infamous-examples",
-     "pub": "2026-10-12T11:16+00:00"
+     "medio": "Telegraph",
+     "titulo": "Painful Coventry defeat will send shudder of fear through Newcastle",
+     "url": "https://www.telegraph.co.uk/football/2026/10/12/coventry-vs-newcastle-live-score-latest-premier-league/",
+     "pub": "2026-10-13T08:10+00:00"
     }
    ]
   },
   {
-   "tema": "Galatasaray",
-   "medios": 7,
+   "tema": "Roma",
+   "medios": 8,
    "lista_medios": [
     "AS",
     "Foot Mercato",
+    "Football Italia",
     "Google News ES",
     "Mundo Deportivo",
-    "Ole",
+    "Record",
     "Yahoo",
     "ge.globo"
    ],
-   "primera_vez": "2026-10-12T06:59+00:00",
+   "primera_vez": "2026-10-12T10:50+00:00",
    "titulares": [
     {
+     "medio": "Yahoo",
+     "titulo": "Rafa Marin talks La Fabrica, Real Madrid vs AS Roma, La Liga title race: ‘The best youth academy in the world’",
+     "url": "https://sports.yahoo.com/articles/rafa-marin-talks-la-fabrica-103000780.html",
+     "pub": "2026-10-12T10:30+00:00"
+    },
+    {
+     "medio": "Yahoo",
+     "titulo": "Roma annoyed by Malen red after seeing El Azzouzi cautioned for a similar challenge",
+     "url": "https://sports.yahoo.com/articles/roma-annoyed-malen-red-seeing-105500879.html",
+     "pub": "2026-10-12T10:55+00:00"
+    },
+    {
+     "medio": "Yahoo",
+     "titulo": "Roma must respond quickly after Donyell Malen’s dismissal",
+     "url": "https://sports.yahoo.com/articles/roma-must-respond-quickly-donyell-125700869.html",
+     "pub": "2026-10-12T12:57+00:00"
+    },
+    {
+     "medio": "Yahoo",
+     "titulo": "Dybala: ‘I hope my career has an Italian ending, Roma give even more at home’",
+     "url": "https://sports.yahoo.com/articles/dybala-hope-career-italian-ending-120000148.html",
+     "pub": "2026-10-12T12:00+00:00"
+    },
+    {
      "medio": "Mundo Deportivo",
-     "titulo": "Así juega el Galatasaray: presión en la grada, presión en el césped",
-     "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261012/1004237405/asi-juega-galatasaray-presion-grada-presion-cesped.html",
+     "titulo": "El Real Madrid empieza a preparar la visita a Roma",
+     "url": "https://www.mundodeportivo.com/futbol/real-madrid/20261012/1004237745/real-madrid-empieza-preparar-visita-roma.html",
+     "pub": ""
+    },
+    {
+     "medio": "Mundo Deportivo",
+     "titulo": "El Real Madrid no entrenará en Roma",
+     "url": "https://www.mundodeportivo.com/futbol/real-madrid/20261012/1004237739/real-madrid-no-entrenara-roma.html",
+     "pub": ""
+    },
+    {
+     "medio": "Mundo Deportivo",
+     "titulo": "La noche en la que la Roma doblegó al Real Madrid en Champions",
+     "url": "https://www.mundodeportivo.com/futbol/real-madrid/20261012/1004237747/noche-roma-doblego-real-madrid-champions.html",
      "pub": ""
     },
     {
      "medio": "Yahoo",
-     "titulo": "Unchanged from Getafe: Barça's squad for Galatasaray 🛫",
-     "url": "https://sports.yahoo.com/articles/unchanged-getafe-bar-squad-galatasaray-074000345.html",
-     "pub": "2026-10-12T07:40+00:00"
+     "titulo": "Nicolo Zaniolo opens up on painful Roma exit: “I was sad to end my relationship”",
+     "url": "https://sports.yahoo.com/articles/nicolo-zaniolo-opens-painful-roma-144200772.html",
+     "pub": "2026-10-12T14:42+00:00"
     },
     {
-     "medio": "Yahoo",
-     "titulo": "Confirmed: Barcelona squad list to face Galatasaray; Raphinha and two other key players ruled out",
-     "url": "https://sports.yahoo.com/articles/confirmed-barcelona-squad-list-face-074100744.html",
-     "pub": "2026-10-12T07:41+00:00"
+     "medio": "Record",
+     "titulo": "<![CDATA[ Dybala não tem dúvidas quanto aos planos para acabar a carreira: «Em Roma e com a Roma» ]]>",
+     "url": "https://www.record.pt/internacional/paises/italia/roma/detalhe/dybala-nao-tem-duvidas-quanto-aos-planos-para-acabar-a-carreira-em-roma-e-com-a-roma",
+     "pub": "2026-10-12T14:28+00:00"
     },
     {
-     "medio": "Foot Mercato",
-     "titulo": "Barça : le groupe sans Raphinha contre Galatasaray",
-     "url": "https://www.footmercato.net/a3263380708245621541-barca-le-groupe-sans-raphinha-contre-galatasaray",
-     "pub": "2026-10-12T08:23+00:00"
+     "medio": "Record",
+     "titulo": "<![CDATA[ Zaniolo foi treinado por Mourinho na Roma e não tem dúvidas: «É especial em tudo» ]]>",
+     "url": "https://www.record.pt/internacional/detalhe/zaniolo-foi-treinado-por-mourinho-na-roma-e-nao-tem-duvidas-e-especial-em-tudo",
+     "pub": "2026-10-12T15:42+00:00"
     },
     {
      "medio": "Mundo Deportivo",
-     "titulo": "Visitar al Galatasaray nunca pasa desapercibido para el Barça",
-     "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261012/1004237543/visitar-galatasaray-nunca-pasa-desapercibido-barca.html",
+     "titulo": "Un partido especial para Mourinho en Roma",
+     "url": "https://www.mundodeportivo.com/futbol/real-madrid/20261012/1004237850/partido-especial-mourinho-roma.html",
      "pub": ""
     },
     {
-     "medio": "Google News ES",
-     "titulo": "¿De dónde sale tanto dinero? El Galatasaray y el renacimiento del fútbol turco",
-     "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOcFBNbWcyTGt3REpxUXUyVFV4YkFmcVowbllnS2Y1eVpVVXdHQWlvRHVoem42UUxHbzcxeV9BYkwtRzRYSkk1WHJwci1lajl5Ny1aUDFwUUNlTU14Snp5d1Y3ZUpPOG1yUFFyOFR0U0tmejJhZ1NUV2FrSkw5amF2bHdMSGRQVWxOQVVNTGVQMFJSMDJaSUgyOWhySUIxaHR0Tm1GeTFPV1FOUHRwLVg1T3M1NVN4YzRLLWxfQmN6N0wxcllFMEdrMWFGSDhRcnfSAdQBQVVfeXFMTndwQUhyNGUtQVRycl84RU5CNG1BNzNxNmpFUzVHVU9aY1RZMzZpSVgxUU85b0ZWNGRvVEJHdWpZMENwZ25SRnRXTEpMTnhycXUzemdyUDBEb2Nvb0tOR3M4TkNULUtFVXVzb1hvVzdWOFVIZ18wTVBYcm1wS2NjRzNPeTNQdExJbDdld01zQnhUcURsYUhFR25FdUEwdVpZMTlHd18ydGxqZUdEUTZ6RjhyWnhyMnVpTHYxQlYtVlBzdjVZMGFHRV9VcWU0aU8wd3NfdTA?oc=5",
-     "pub": "2026-10-12T09:22+00:00"
-    },
-    {
      "medio": "Yahoo",
-     "titulo": "Galatasaray star acknowledges Barcelona superiority ahead of UCL showdown: ‘Best team in the world right now’",
-     "url": "https://sports.yahoo.com/articles/galatasaray-star-acknowledges-barcelona-superiority-125000003.html",
-     "pub": "2026-10-12T12:50+00:00"
-    },
-    {
-     "medio": "Yahoo",
-     "titulo": "Galatasaray manager sends strong message to Barcelona ahead of Champions League clash: ‘We won’t just defend’",
-     "url": "https://sports.yahoo.com/articles/galatasaray-manager-sends-strong-message-122800330.html",
-     "pub": "2026-10-12T12:28+00:00"
-    },
-    {
-     "medio": "Yahoo",
-     "titulo": "Barcelona ace takes next step in recovery but will still miss Galatasaray clash",
-     "url": "https://sports.yahoo.com/articles/barcelona-ace-takes-next-step-114200327.html",
-     "pub": "2026-10-12T11:42+00:00"
-    },
-    {
-     "medio": "Yahoo",
-     "titulo": "Hansi Flick’s selection dilemma in Barcelona attack ahead of Galatasaray clash",
-     "url": "https://sports.yahoo.com/articles/hansi-flick-selection-dilemma-barcelona-135900781.html",
-     "pub": "2026-10-12T13:59+00:00"
-    },
-    {
-     "medio": "AS",
-     "titulo": "Rueda de prensa de Hansi Flick, en directo: declaraciones previas al Galatasaray - Barcelona de Champions",
-     "url": "https://as.com/futbol/champions/rueda-de-prensa-de-hansi-flick-en-directo-declaraciones-previas-al-galatasaray-barcelona-de-champions-f202610-d/",
-     "pub": "2026-10-12T14:40+00:00"
-    },
-    {
-     "medio": "ge.globo",
-     "titulo": "Galatasaray x Barcelona na Champions League: onde assistir ao vivo e horário",
-     "url": "https://ge.globo.com/futebol/futebol-internacional/liga-dos-campeoes/noticia/2026/10/12/galatasaray-x-barcelona-na-champions-league-onde-assistir-ao-vivo-e-horario.ghtml",
-     "pub": "2026-10-12T14:03+00:00"
+     "titulo": "Real Madrid megastar nears major UEFA Champions League milestone ahead of AS Roma showdown",
+     "url": "https://sports.yahoo.com/articles/real-madrid-megastar-nears-major-130500185.html",
+     "pub": "2026-10-13T13:05+00:00"
     }
    ]
   }
