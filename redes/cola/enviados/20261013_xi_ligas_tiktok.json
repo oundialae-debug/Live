@@ -10,5 +10,8 @@
  ],
  "variante": "formato=xi_semana;hora=19;datos=fotmob_sin_cuota",
  "recordatorio": true,
- "notas": "XI del 09-12/10 (5 ligas) con box-score de Highlightly + FotMob para los partidos que la API ya no trae (cuota 100/día); Soriano (Deportivo) juega en La Liga 26/27"
+ "notas": "XI del 09-12/10 (5 ligas) con box-score de Highlightly + FotMob para los partidos que la API ya no trae (cuota 100/día); Soriano (Deportivo) juega en La Liga 26/27",
+ "estado": "enviado",
+ "buffer_id": "6ace78c30e2628184671b491",
+ "dueAt": "2026-10-13T18:33:26+00:00"
 }
