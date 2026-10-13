@@ -33,7 +33,7 @@ EVITAR = {"electro"}                     # biblioteca: "hueco de 0.5 s en 6 s: e
 GIT = os.environ.get("PP_GIT", "1") == "1"
 RED = os.environ.get("PP_RED", "1") == "1"
 LIGA_TAG = {"Premier League": "#PremierLeague", "La Liga": "#LaLiga", "Serie A": "#SerieA",
-            "Bundesliga": "#Bundesliga", "Ligue 1": "#Ligue1"}
+            "Bundesliga": "#Bundesliga", "Ligue 1": "#Ligue1", "Champions League": "#UCL"}
 PROHIBIDO = re.compile(r"\b(bet|bets|betting|odds|tip|tips|stake|bookie|wager|punt)\b", re.I)
 
 
