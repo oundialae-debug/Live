@@ -1,0 +1,14 @@
+{
+ "red": "tiktok",
+ "hora": "2026-10-13T12:00:00+02:00",
+ "tipo": "meme",
+ "partido": "Newcastle 4-1 Leeds / 4-1 Coventry (Jaissle disculpa)",
+ "text": "Newcastle lost 4-1 at Leeds. Then 4-1 at Coventry. Jaissle's apology says it all. Rate Jaissle 1-10 👇\n#Newcastle #Coventry #PremierLeague #Jaissle #Football",
+ "titulo": "Newcastle lose 4-1 away again: Jaissle apologises",
+ "imagenes": [
+  "https://raw.githubusercontent.com/oundialae-debug/live/main/media/20261013_newcastle_4_1.jpg"
+ ],
+ "variante": "hook=pregunta;formato=meme_comparativa;hora=12;momento=noticia_dia",
+ "notas": "Sky (Coventry 4-1 Newcastle, 'second consecutive away defeat 4-1', cita Jaissle literal) + Al Jazeera/Malay Mail (Leeds 4-1 Newcastle 14/09); jurado r3 8/7/6 = 7,0 (r1-2 como noticia Coventry 6,3 y 5,7: descartada); fotos Sky sin logo",
+ "recordatorio": true
+}

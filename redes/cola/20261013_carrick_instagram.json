@@ -1,0 +1,14 @@
+{
+ "red": "instagram",
+ "hora": "2026-10-13T17:30:00+02:00",
+ "tipo": "meme",
+ "partido": "Carrick: 'define pressure' / Atletico-Man Utd",
+ "text": "Carrick says it depends how you define pressure. Man Utd visit Atlético tonight: 6 points from 6 league games and never beaten them. Define pressure 👇\n#ManUtd #Carrick #UCL #AtleticoMadrid #Football",
+ "titulo": "Carrick on pressure, Man Utd at Atlético tonight",
+ "imagenes": [
+  "https://raw.githubusercontent.com/oundialae-debug/live/main/media/20261013_carrick_pressure.jpg"
+ ],
+ "variante": "hook=pregunta;formato=meme_comparativa;hora=17;momento=champions_j2",
+ "notas": "Cita BeIN 12/10 literal; 6 pts/6 PL (BeIN, Yahoo, AllFootballApp); D2 L2 vs Atletico (BeIN); jurado r1 8/8/6 = 7,3; fotos Mirror/Telegraph recortadas sin logo",
+ "recordatorio": true
+}
