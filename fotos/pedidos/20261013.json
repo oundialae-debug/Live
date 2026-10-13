@@ -1,0 +1,8 @@
+{"web": [
+ {"noticia": "Lampard", "buscar": "Frank Lampard Coventry City manager celebrates", "slug": "lampard_cov", "n": 8, "dias": 3, "debe": ["lampard", "coventry"]},
+ {"noticia": "Coventry", "buscar": "Coventry City 4-1 Newcastle Premier League", "slug": "coventry_nufc", "n": 8, "dias": 3, "debe": ["coventry"]},
+ {"noticia": "Carrick", "buscar": "Michael Carrick Manchester United manager Atletico Madrid", "slug": "carrick_utd", "n": 8, "dias": 3, "debe": ["carrick"]},
+ {"noticia": "Simeone", "buscar": "Diego Simeone Atletico Madrid Manchester United", "slug": "simeone_atm", "n": 8, "dias": 3, "debe": ["simeone"]},
+ {"buscar": "Michael Olise Bayern Munich 2026", "slug": "olise_fcb", "n": 8, "dias": 7, "debe": ["olise"]},
+ {"buscar": "Ousmane Dembele PSG 2026", "slug": "dembele_psg", "n": 8, "dias": 7, "debe": ["dembele", "dembélé"]}
+]}
