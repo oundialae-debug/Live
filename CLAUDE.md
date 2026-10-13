@@ -15,3 +15,4 @@ Todo el sistema de publicación automática vive en este repo. Antes de tocar na
 4. `scripts/aprender.py` (bandido que elige variantes), `scripts/montar_video.py` + workflow `montar-video`, `scripts/foto_meme.py` (memes con foto de Commons, sandbox de Higgs).
 Tareas programadas: "2yellow diario" (07:46 Madrid, trig_016KxjMVXAwtFVbDiYKTeJKG) crea los previos, el vídeo del día, los 3 extras y las tareas puntuales de post-partido. Datos y plantillas: repo oundialae-debug/futbol-pipeline (`redes/plantillas/`, respeta su CLAUDE.md). Usuario: respuestas muy breves en español; contenido en inglés; sin vocabulario de apuestas.
 - Mantén al día redes/CONTEXTO_CONVERSACION.md con cada decisión nueva del usuario.
+- 2026-10-13: la API de Highlightly (datos de futbol-pipeline) queda limitada a 100 llamadas/día EN TOTAL (usuario). Sin cuota devuelve listas vacías. No lances workflows que la usen sin necesidad; detalle en futbol-pipeline/CLAUDE.md.
