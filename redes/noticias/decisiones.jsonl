@@ -24,3 +24,6 @@
 {"t": "2026-10-12T15:53+00:00", "estado": "publicado", "temas": ["Cristiano"], "clave": "cristiano-goat-claim", "video": "https://raw.githubusercontent.com/oundialae-debug/live/main/media/noticias/2026-10-12_1752_cristiano-goat-claim.mp4"}
 {"t": "2026-10-12T15:53+00:00", "estado": "revisar", "temas": ["Arteta"], "clave": "arteta-injury-blow", "motivo": "categoría sensible: injury"}
 {"t": "2026-10-13T14:32+00:00", "estado": "publicado", "temas": ["Enzo"], "clave": "enzo-maresca-city-liverpool", "video": "https://raw.githubusercontent.com/oundialae-debug/live/main/media/noticias/2026-10-13_1631_enzo-maresca-city-liverpool.mp4"}
+{"t": "2026-10-13T20:21+00:00", "estado": "revisar", "temas": ["Simeone"], "clave": "simeone-atletico-press", "motivo": "sin foto buena con cara visible"}
+{"t": "2026-10-13T20:21+00:00", "estado": "revisar", "temas": ["Galatasaray"], "clave": "barca-galatasaray-clash", "motivo": "datos que no salen en los titulares: Turkish"}
+{"t": "2026-10-13T20:21+00:00", "estado": "descartar", "temas": ["Wirtz"], "clave": "wirtz-liverpool-issue", "motivo": "importancia 6 < 7"}

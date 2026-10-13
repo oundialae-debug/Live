@@ -72,3 +72,21 @@
 - Mirror: Arsenal news: Mikel Arteta plots Liverpool hijack as Gunners near 'triple deal'
 - Daily Mail: Mikel Arteta confirms double Arsenal injury blow as Martin Zubimendi and Piero Hincapie both miss training after sustaining problems in the WARM-DOWN against Leeds
 
+## 13/10 22:21 · Simeone preps for United · revisar
+- Motivo: sin foto buena con cara visible
+- Temas: Simeone
+- Mundo Deportivo: El Manchester United aprovechará para 'espiar' en directo a Giuliano Simeone
+- Mundo Deportivo: Simeone, con todo el equipo apto, para medirse al Manchester United
+- AS: Sigue en directo la rueda de prensa de Simeone antes del Atlético vs Manchester United
+- AS: Simeone: “La final es en el Metropolitano, pero vamos a la realidad”
+- Mundo Deportivo: Simeone: "¿La final del Metropolitano? Nosotros somos fuertes en el partido a partido"
+
+## 13/10 22:21 · Barça vs Galatasaray · revisar
+- Motivo: datos que no salen en los titulares: Turkish
+- Temas: Galatasaray
+- Foot Mercato: Barça : le groupe sans Raphinha contre Galatasaray
+- Mundo Deportivo: Visitar al Galatasaray nunca pasa desapercibido para el Barça
+- Google News ES: ¿De dónde sale tanto dinero? El Galatasaray y el renacimiento del fútbol turco
+- Yahoo: Galatasaray star acknowledges Barcelona superiority ahead of UCL showdown: ‘Best team in the world right now’
+- Yahoo: Galatasaray manager sends strong message to Barcelona ahead of Champions League clash: ‘We won’t just defend’
+
