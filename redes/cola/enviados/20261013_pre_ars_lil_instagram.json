@@ -1,5 +1,5 @@
 {
- "red": "tiktok",
+ "red": "instagram",
  "hora": "2026-10-13T15:30:00+02:00",
  "tipo": "previo",
  "partido": "Arsenal vs Lille",
@@ -8,5 +8,8 @@
  "video": "https://raw.githubusercontent.com/oundialae-debug/live/main/videos/pre_20261013_ars_lil.mp4",
  "variante": "primera=form;seg=2.3;arranque=s0;hook=pregunta;ante=5.5;formato=video;musica=techhouse",
  "recordatorio": false,
- "notas": "modelo poisson propio entre ligas (datos_clubes.py pre, Champions); marco comprobado"
+ "notas": "modelo poisson propio entre ligas (datos_clubes.py pre, Champions); marco comprobado",
+ "estado": "enviado",
+ "buffer_id": "6ace41072f0712f590113404",
+ "dueAt": "2026-10-13T14:35:37+00:00"
 }

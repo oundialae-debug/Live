@@ -8,5 +8,8 @@
  "video": "https://raw.githubusercontent.com/oundialae-debug/live/main/videos/pre_20261013_atm_mun.mp4",
  "variante": "primera=goals;seg=1.8;arranque=s1;hook=reto;ante=4.5;formato=video;musica=hh02",
  "recordatorio": false,
- "notas": "modelo poisson propio entre ligas (datos_clubes.py pre, Champions); marco comprobado"
+ "notas": "modelo poisson propio entre ligas (datos_clubes.py pre, Champions); marco comprobado",
+ "estado": "enviado",
+ "buffer_id": "6ace4108844852c82c79d63d",
+ "dueAt": "2026-10-13T14:35:37+00:00"
 }

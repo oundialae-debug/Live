@@ -9,5 +9,8 @@
  "musica": "mtrap",
  "variante": "seg=5.0;arranque=s1;hook=pregunta;musica=mtrap;formato=auto_noticia;hora=16",
  "notas": "noticia automática (IA + reglas): ge.globo: Manchester City de Enzo Maresca atinge melhor início de um técnico estreante na Premier League; FourFourTwo: Tactics: How Manchester City boss Enzo Maresca turned the noise to his advantage ",
- "titulo": "Maresca’s 3‑0 debut sparks celebration debate"
+ "titulo": "Maresca’s 3‑0 debut sparks celebration debate",
+ "estado": "enviado",
+ "buffer_id": "6ace41060e025f0122f5a150",
+ "dueAt": "2026-10-13T14:35:37+00:00"
 }
