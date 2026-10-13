@@ -1,12 +1,18 @@
 {
- "en_curso": {
+ "en_curso": {},
+ "partidos": {
   "-6106260": {
    "arranque": "s0",
+   "estado": "en_cola",
+   "fecha": "2026-10-13",
+   "hora": "2026-10-13T22:41:49+00:00",
    "musica": "hh06",
-   "tarjetas": 6
-  }
- },
- "partidos": {
+   "partido": "Arsenal-Lille",
+   "publicar": "2026-10-14T00:45:03+02:00",
+   "resultado": "3-0",
+   "tarjetas": 6,
+   "video": "https://raw.githubusercontent.com/oundialae-debug/live/main/media/post_partido/2026-10-13_Arsenal_Lille.mp4"
+  },
   "1319169073": {
    "arranque": "s1",
    "estado": "en_cola",

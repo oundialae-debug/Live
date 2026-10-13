@@ -1,0 +1,12 @@
+{
+ "red": "instagram",
+ "hora": "2026-10-14T00:45:03+02:00",
+ "tipo": "post",
+ "partido": "Arsenal-Lille",
+ "text": "Arsenal 3-0 Lille\nExpected goals: 1.9 vs 0.4, Arsenal created more. Did the better team win?\n\n#football #UCL #Arsenal #Lille #fulltime",
+ "video": "https://raw.githubusercontent.com/oundialae-debug/live/main/media/post_partido/2026-10-13_Arsenal_Lille.mp4",
+ "recordatorio": false,
+ "musica": "hh06",
+ "variante": "seg=2.8;arranque=s0;hook=dato;musica=hh06;formato=auto_post",
+ "notas": "post-partido automático (futbol-pipeline -6106260, 6 tarjetas)"
+}
