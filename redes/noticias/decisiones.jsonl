@@ -29,3 +29,8 @@
 {"t": "2026-10-13T20:21+00:00", "estado": "descartar", "temas": ["Wirtz"], "clave": "wirtz-liverpool-issue", "motivo": "importancia 6 < 7"}
 {"t": "2026-10-14T12:18+00:00", "estado": "publicado", "temas": ["Luis", "Enrique"], "clave": "luis-enrique-psg", "video": "https://raw.githubusercontent.com/oundialae-debug/live/main/media/noticias/2026-10-14_1417_luis-enrique-psg.mp4"}
 {"t": "2026-10-14T12:18+00:00", "estado": "descartar", "temas": ["Mourinho"], "clave": "mourinho-roma", "motivo": "importancia 6 < 7"}
+{"t": "2026-10-14T17:32+00:00", "estado": "revisar", "temas": ["Manchester"], "clave": "man-city-sanctions", "motivo": "categoría sensible: legal"}
+{"t": "2026-10-14T17:32+00:00", "estado": "revisar", "temas": ["Manchester"], "clave": "man-utd-conte", "motivo": "datos que no salen en los titulares: Italy"}
+{"t": "2026-10-14T17:32+00:00", "estado": "revisar", "temas": ["LASK"], "clave": "lask-death-tragedy", "motivo": "categoría sensible: death"}
+{"t": "2026-10-14T17:32+00:00", "estado": "descartar", "temas": ["Wirtz"], "clave": "liverpool-wirtz-criticism", "motivo": "importancia 5 < 7"}
+{"t": "2026-10-14T17:32+00:00", "estado": "descartar", "temas": ["Carvajal"], "clave": "carvajal-getafe-transfer", "motivo": "importancia 5 < 7"}

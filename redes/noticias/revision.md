@@ -90,3 +90,30 @@
 - Yahoo: Galatasaray star acknowledges Barcelona superiority ahead of UCL showdown: ‘Best team in the world right now’
 - Yahoo: Galatasaray manager sends strong message to Barcelona ahead of Champions League clash: ‘We won’t just defend’
 
+## 14/10 19:32 · City sanctions spark outrage · revisar
+- Motivo: categoría sensible: legal
+- Temas: Manchester
+- Guardian: Manchester City v PSG is a reminder of the path not taken in sanctions battles
+- FourFourTwo: Why is there a minute's silence before Manchester United's Champions League game against Atletico Madrid?
+- FourFourTwo: “I’d rather cheat and win” Jamie Carragher’s past confession comes back to haunt Manchester City crusade
+- FourFourTwo: Manchester United close to 'reaching agreement' with Antonio Conte: report
+- Yahoo: Steven Gerrard says Manchester City must be stripped of titles: ‘Make them suffer’
+
+## 14/10 19:32 · United eye Conte appointment · revisar
+- Motivo: datos que no salen en los titulares: Italy
+- Temas: Manchester
+- Guardian: Manchester City v PSG is a reminder of the path not taken in sanctions battles
+- FourFourTwo: Why is there a minute's silence before Manchester United's Champions League game against Atletico Madrid?
+- FourFourTwo: “I’d rather cheat and win” Jamie Carragher’s past confession comes back to haunt Manchester City crusade
+- FourFourTwo: Manchester United close to 'reaching agreement' with Antonio Conte: report
+- Yahoo: Steven Gerrard says Manchester City must be stripped of titles: ‘Make them suffer’
+
+## 14/10 19:32 · LASK hero dies at 22 · revisar
+- Motivo: categoría sensible: death
+- Temas: LASK
+- Yahoo: How Liverpool could line-up without Isak, Szoboszlai and Gakpo vs LASK
+- Yahoo: Team News: Eight Liverpool stars could miss LASK clash
+- Yahoo: LASK suffer injury blow ahead of Liverpool clash
+- Google News EN: Live Youth League football: Watch LASK v Liverpool on Wednesday
+- Yahoo: Andoni Iraola provides Liverpool injury update ahead of LASK clash
+
