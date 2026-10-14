@@ -76,3 +76,9 @@ Fuentes: buffer.com/resources/creator-growth-playbook, fanpagekarma.com/insights
 - PROBLEMA: `datos_formatos.py xi` (2yellow XI del martes) mete jugadores de SEGUNDA (Mario Soriano, Deportivo) y de Leipzig/Bundesliga mezclados: NO publicado. Hay que filtrar a las 5 ligas y comprobar fechas antes del próximo martes. La plantilla de duelos también sale "FUERA DE ZONA" con 6 filas (el pie llega a y=1689): con fotos pasa a 5 filas.
 - Datos de jugadores (historico_xg_jugador.csv) no cuadran con la realidad (Kane 3 goles/386' tras 7 jornadas): no hacer duelos con ellos hasta revisar la cobertura de box-scores.
 - Cola 13/10: Newcastle (12:00) y Carrick (17:30). Curioso propio: no hubo ninguno que pasara el jurado (>=7); lo cubren las noticias automáticas.
+
+## 14/10/2026 (tarea diaria autónoma)
+- Miércoles de Champions: previos Man City-PSG (16:00, hh10/s1/1,8 s) y Roma-Real Madrid (16:30, hh02/s0/1,8 s) como vídeo en cola; lista de picks 09:30; post-partido automático (FotMob). Extras: Tresoldi 12:00, Lisandro 13:30, Yamal 17:30. Sin curioso propio ni Index/duelo (ver diario).
+- Métricas TikTok (Buffer, 11-13/10): Newcastle comparativa 169 vistas/1 comentario (mejor reciente); Yamal vs Vinícius 46; noticias auto 4-17; previos y post-partido auto 0-5 (post Arsenal-Lille y Villarreal-Napoli 0 al <24 h). Tendencia: comparativa/noticia con estrella >> plantillas de datos (igual que la semana pasada). Sin cambios de formato (revisión ~17/10).
+- Roma 45 % vs Real Madrid 29 % (poisson propio): Elo Roma 1728 vs Madrid 1770 y local; se publica tal cual (modelo), pregunta "Agree?".
+- tendencias lanzado 05:48 UTC (titulares anteriores eran de 20:20). enviar-cola sana.
