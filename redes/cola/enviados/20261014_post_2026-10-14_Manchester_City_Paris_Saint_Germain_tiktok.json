@@ -1,5 +1,5 @@
 {
- "red": "instagram",
+ "red": "tiktok",
  "hora": "2026-10-14T23:34:36+02:00",
  "tipo": "post",
  "partido": "Manchester City-Paris Saint Germain",
@@ -8,5 +8,9 @@
  "recordatorio": false,
  "musica": "hh04",
  "variante": "seg=2.8;arranque=s0;hook=dato;musica=hh04;formato=auto_post",
- "notas": "post-partido automático (futbol-pipeline -6106254, 6 tarjetas)"
+ "notas": "post-partido automático (futbol-pipeline -6106254, 6 tarjetas)",
+ "titulo": "Man City 2-4 PSG | Expected goals: 2.6 vs 1.8, Man City created more.",
+ "estado": "enviado",
+ "buffer_id": "6acff4cbac16d08dd4dc8e2a",
+ "dueAt": "2026-10-14T21:34:54+00:00"
 }

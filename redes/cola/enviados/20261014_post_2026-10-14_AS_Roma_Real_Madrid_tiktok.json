@@ -1,5 +1,5 @@
 {
- "red": "instagram",
+ "red": "tiktok",
  "hora": "2026-10-14T23:34:52+02:00",
  "tipo": "post",
  "partido": "AS Roma-Real Madrid",
@@ -8,5 +8,9 @@
  "recordatorio": false,
  "musica": "hh02",
  "variante": "seg=2.8;arranque=s1;hook=dato;musica=hh02;formato=auto_post",
- "notas": "post-partido automático (futbol-pipeline -6106274, 6 tarjetas)"
+ "notas": "post-partido automático (futbol-pipeline -6106274, 6 tarjetas)",
+ "titulo": "Roma 3-4 Real Madrid | Expected goals: 1.4 vs 1.8, Real Madrid created more.",
+ "estado": "enviado",
+ "buffer_id": "6acff4caac16d08dd4dc8dea",
+ "dueAt": "2026-10-14T21:34:54+00:00"
 }
