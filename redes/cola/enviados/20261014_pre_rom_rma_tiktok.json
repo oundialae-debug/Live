@@ -8,5 +8,6 @@
  "video": "https://raw.githubusercontent.com/oundialae-debug/live/main/videos/pre_20261014_rom_rma.mp4",
  "variante": "primera=goals;seg=1.8;arranque=s0;hook=pregunta;ante=4.5;formato=video;musica=hh02",
  "recordatorio": false,
- "notas": "modelo poisson propio entre ligas (datos_clubes.py pre, Champions); marco comprobado"
+ "notas": "modelo poisson propio entre ligas (datos_clubes.py pre, Champions); marco comprobado",
+ "estado": "caducado"
 }
