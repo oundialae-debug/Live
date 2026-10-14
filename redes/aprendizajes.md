@@ -82,3 +82,4 @@ Fuentes: buffer.com/resources/creator-growth-playbook, fanpagekarma.com/insights
 - Métricas TikTok (Buffer, 11-13/10): Newcastle comparativa 169 vistas/1 comentario (mejor reciente); Yamal vs Vinícius 46; noticias auto 4-17; previos y post-partido auto 0-5 (post Arsenal-Lille y Villarreal-Napoli 0 al <24 h). Tendencia: comparativa/noticia con estrella >> plantillas de datos (igual que la semana pasada). Sin cambios de formato (revisión ~17/10).
 - Roma 45 % vs Real Madrid 29 % (poisson propio): Elo Roma 1728 vs Madrid 1770 y local; se publica tal cual (modelo), pregunta "Agree?".
 - tendencias lanzado 05:48 UTC (titulares anteriores eran de 20:20). enviar-cola sana.
+- INCIDENTE 14/10: el workflow montar-video falló en el push de los previos (run 38518724932); montados en local con scripts/montar_video.py (ffmpeg) y empujados a videos/. Causa sin investigar (posible carrera de push con otro commit del bot).
