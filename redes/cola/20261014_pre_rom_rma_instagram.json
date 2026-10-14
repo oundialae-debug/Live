@@ -1,0 +1,12 @@
+{
+ "red": "instagram",
+ "hora": "2026-10-14T16:30:00+02:00",
+ "tipo": "previo",
+ "partido": "Roma vs Real Madrid",
+ "text": "Roma vs Real Madrid (Champions League, tonight 21:00 CEST): our model gives Roma 45%, Real Madrid 29%, draw 26%. Do you agree? 👇\n#Roma #RealMadrid #ChampionsLeague #ROMRMA #Football",
+ "titulo": "Roma vs Real Madrid prediction: our model",
+ "video": "https://raw.githubusercontent.com/oundialae-debug/live/main/videos/pre_20261014_rom_rma.mp4",
+ "variante": "primera=goals;seg=1.8;arranque=s0;hook=pregunta;ante=4.5;formato=video;musica=hh02",
+ "recordatorio": false,
+ "notas": "modelo poisson propio entre ligas (datos_clubes.py pre, Champions); marco comprobado"
+}

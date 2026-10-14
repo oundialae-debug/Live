@@ -1,0 +1,14 @@
+{
+ "red": "tiktok",
+ "hora": "2026-10-14T09:30:00+02:00",
+ "tipo": "previo",
+ "partido": "Picks del dia 14/10 (2 partidos)",
+ "text": "Our model's calls for tonight's 2 biggest Champions League games: Man City-PSG both teams score 59%, Roma-Real Madrid both teams score 53%. Which call is wrong? 👇\n#Football #ChampionsLeague #UCL #ManCity #RealMadrid",
+ "titulo": "Our model's calls for tonight's Champions League games",
+ "imagenes": [
+  "https://raw.githubusercontent.com/oundialae-debug/live/main/media/20261014_picks_hoy.jpg"
+ ],
+ "variante": "formato=lista_picks;hora=9;promesa_perfil_previos",
+ "recordatorio": false,
+ "notas": "lista desbloqueada que prometen los previos/pre6; poisson propio entre ligas (ucl); datos_clubes.lista_hoy [cola]"
+}

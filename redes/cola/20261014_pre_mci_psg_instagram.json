@@ -1,0 +1,12 @@
+{
+ "red": "instagram",
+ "hora": "2026-10-14T16:00:00+02:00",
+ "tipo": "previo",
+ "partido": "Man City vs PSG",
+ "text": "Man City vs PSG (Champions League, tonight 21:00 CEST): our model gives Man City 45%, PSG 31%, draw 24%, and 59% that both teams score. Does the home side get it done? 👇\n#ManCity #PSG #ChampionsLeague #MCIPSG #Football",
+ "titulo": "Man City vs PSG prediction: our model",
+ "video": "https://raw.githubusercontent.com/oundialae-debug/live/main/videos/pre_20261014_mci_psg.mp4",
+ "variante": "primera=goals;seg=1.8;arranque=s1;hook=dato;ante=4.5;formato=video;musica=hh10",
+ "recordatorio": false,
+ "notas": "modelo poisson propio entre ligas (datos_clubes.py pre, Champions); marco comprobado"
+}
