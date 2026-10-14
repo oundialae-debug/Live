@@ -1,0 +1,13 @@
+{
+ "red": "tiktok",
+ "hora": "2026-10-14T23:34:36+02:00",
+ "tipo": "post",
+ "partido": "Manchester City-Paris Saint Germain",
+ "text": "Man City 2-4 PSG\nExpected goals: 2.6 vs 1.8, Man City created more. Did the better team win?\n\n#football #UCL #ManCity #PSG #fulltime",
+ "video": "https://raw.githubusercontent.com/oundialae-debug/live/main/media/post_partido/2026-10-14_Manchester_City_Paris_Saint_Germain.mp4",
+ "recordatorio": false,
+ "musica": "hh04",
+ "variante": "seg=2.8;arranque=s0;hook=dato;musica=hh04;formato=auto_post",
+ "notas": "post-partido automático (futbol-pipeline -6106254, 6 tarjetas)",
+ "titulo": "Man City 2-4 PSG | Expected goals: 2.6 vs 1.8, Man City created more."
+}

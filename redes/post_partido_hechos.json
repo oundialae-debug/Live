@@ -1,12 +1,18 @@
 {
- "en_curso": {
+ "en_curso": {},
+ "partidos": {
   "-6106254": {
    "arranque": "s0",
+   "estado": "en_cola",
+   "fecha": "2026-10-14",
+   "hora": "2026-10-14T21:31:20+00:00",
    "musica": "hh04",
-   "tarjetas": 6
-  }
- },
- "partidos": {
+   "partido": "Manchester City-Paris Saint Germain",
+   "publicar": "2026-10-14T23:34:36+02:00",
+   "resultado": "2-4",
+   "tarjetas": 6,
+   "video": "https://raw.githubusercontent.com/oundialae-debug/live/main/media/post_partido/2026-10-14_Manchester_City_Paris_Saint_Germain.mp4"
+  },
   "-6106260": {
    "arranque": "s0",
    "estado": "en_cola",
