@@ -1,11 +1,5 @@
 {
- "en_curso": {
-  "-6106274": {
-   "arranque": "s1",
-   "musica": "hh02",
-   "tarjetas": 6
-  }
- },
+ "en_curso": {},
  "partidos": {
   "-6106254": {
    "arranque": "s0",
@@ -30,6 +24,18 @@
    "resultado": "3-0",
    "tarjetas": 6,
    "video": "https://raw.githubusercontent.com/oundialae-debug/live/main/media/post_partido/2026-10-13_Arsenal_Lille.mp4"
+  },
+  "-6106274": {
+   "arranque": "s1",
+   "estado": "en_cola",
+   "fecha": "2026-10-14",
+   "hora": "2026-10-14T21:31:20+00:00",
+   "musica": "hh02",
+   "partido": "AS Roma-Real Madrid",
+   "publicar": "2026-10-14T23:34:52+02:00",
+   "resultado": "3-4",
+   "tarjetas": 6,
+   "video": "https://raw.githubusercontent.com/oundialae-debug/live/main/media/post_partido/2026-10-14_AS_Roma_Real_Madrid.mp4"
   },
   "-6106328": {
    "arranque": "s1",

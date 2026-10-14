@@ -1,0 +1,12 @@
+{
+ "red": "instagram",
+ "hora": "2026-10-14T23:34:52+02:00",
+ "tipo": "post",
+ "partido": "AS Roma-Real Madrid",
+ "text": "Roma 3-4 Real Madrid\nExpected goals: 1.4 vs 1.8, Real Madrid created more. Did the better team win?\n\n#football #UCL #Roma #RealMadrid #fulltime",
+ "video": "https://raw.githubusercontent.com/oundialae-debug/live/main/media/post_partido/2026-10-14_AS_Roma_Real_Madrid.mp4",
+ "recordatorio": false,
+ "musica": "hh02",
+ "variante": "seg=2.8;arranque=s1;hook=dato;musica=hh02;formato=auto_post",
+ "notas": "post-partido automático (futbol-pipeline -6106274, 6 tarjetas)"
+}
