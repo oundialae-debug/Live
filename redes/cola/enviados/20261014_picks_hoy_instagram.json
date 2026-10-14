@@ -10,5 +10,8 @@
  ],
  "variante": "formato=lista_picks;hora=9;promesa_perfil_previos",
  "recordatorio": false,
- "notas": "lista desbloqueada que prometen los previos/pre6; poisson propio entre ligas (ucl); datos_clubes.lista_hoy [cola]"
+ "notas": "lista desbloqueada que prometen los previos/pre6; poisson propio entre ligas (ucl); datos_clubes.lista_hoy [cola]",
+ "estado": "enviado",
+ "buffer_id": "6acf2ce6f847f2ad9ec8ce11",
+ "dueAt": "2026-10-14T09:30:00+02:00"
 }
