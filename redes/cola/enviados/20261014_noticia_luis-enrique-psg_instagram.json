@@ -8,5 +8,8 @@
  "recordatorio": false,
  "musica": "hh08",
  "variante": "seg=5.0;arranque=s0;hook=pregunta;musica=hh08;formato=auto_noticia;hora=14",
- "notas": "noticia automática (IA + reglas): BBC: The star is Luis Enrique - inside the plans to keep PSG at the top; Kicker: Luis Enrique zu Verlängerung: \"Habe jetzt viel mehr Druck\""
+ "notas": "noticia automática (IA + reglas): BBC: The star is Luis Enrique - inside the plans to keep PSG at the top; Kicker: Luis Enrique zu Verlängerung: \"Habe jetzt viel mehr Druck\"",
+ "estado": "enviado",
+ "buffer_id": "6acf7331c97e71f0107cc3df",
+ "dueAt": "2026-10-14T12:21:55+00:00"
 }
