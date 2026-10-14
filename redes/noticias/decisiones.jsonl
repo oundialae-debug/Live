@@ -28,3 +28,4 @@
 {"t": "2026-10-13T20:21+00:00", "estado": "revisar", "temas": ["Galatasaray"], "clave": "barca-galatasaray-clash", "motivo": "datos que no salen en los titulares: Turkish"}
 {"t": "2026-10-13T20:21+00:00", "estado": "descartar", "temas": ["Wirtz"], "clave": "wirtz-liverpool-issue", "motivo": "importancia 6 < 7"}
 {"t": "2026-10-14T12:18+00:00", "estado": "publicado", "temas": ["Luis", "Enrique"], "clave": "luis-enrique-psg", "video": "https://raw.githubusercontent.com/oundialae-debug/live/main/media/noticias/2026-10-14_1417_luis-enrique-psg.mp4"}
+{"t": "2026-10-14T12:18+00:00", "estado": "descartar", "temas": ["Mourinho"], "clave": "mourinho-roma", "motivo": "importancia 6 < 7"}
