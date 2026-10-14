@@ -1,9 +1,0 @@
-{"web": [
- {"noticia": "Tresoldi", "buscar": "Nicolo Tresoldi Club Brugge Inter hat-trick", "slug": "tresoldi_brugge", "n": 8, "dias": 3, "debe": ["tresoldi"]},
- {"noticia": "Martinez", "buscar": "Lisandro Martinez Manchester United", "slug": "lisandro_martinez", "n": 8, "dias": 3, "debe": ["martinez", "lisandro"]},
- {"noticia": "Yoro", "buscar": "Leny Yoro red card Atletico Manchester United", "slug": "yoro_roja", "n": 8, "dias": 3, "debe": ["yoro"]},
- {"noticia": "Barrios", "buscar": "Barrios Atletico Madrid goal Manchester United", "slug": "barrios_atletico", "n": 8, "dias": 3, "debe": ["barrios"]},
- {"noticia": "Saka", "buscar": "Bukayo Saka Arsenal Lille substitute", "slug": "saka_lille", "n": 8, "dias": 3, "debe": ["saka"]},
- {"noticia": "Viking", "buscar": "Viking Bayern Munich 3-3 Champions League", "slug": "viking_bayern", "n": 8, "dias": 3, "debe": ["viking", "bayern"]},
- {"noticia": "Yamal", "buscar": "Lamine Yamal Galatasaray Barcelona Champions League", "slug": "yamal_gala", "n": 8, "dias": 3, "debe": ["yamal"]}
-]}
