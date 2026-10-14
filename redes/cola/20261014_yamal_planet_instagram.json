@@ -1,0 +1,13 @@
+{
+ "red": "instagram",
+ "hora": "2026-10-14T17:30:00+02:00",
+ "tipo": "meme",
+ "partido": "Yamal 2 asistencias en 3 min (Galatasaray 1-4 Barca) vs titular Planet Football",
+ "text": "“Lamine Yamal is not the most important player at Barcelona” — a Planet Football headline. Yamal at Galatasaray: 0 goals, 2 assists in 3 minutes (50' and 53'), 6 key passes, 3 big chances created. Barça won 4-1. Your take? 👇\n#LamineYamal #Barcelona #ChampionsLeague #Galatasaray #Football",
+ "titulo": "Yamal: 2 assists in 3 minutes at Galatasaray",
+ "imagenes": [
+  "https://raw.githubusercontent.com/oundialae-debug/live/main/media/20261014_yamal_planet.jpg"
+ ],
+ "variante": "hook=pregunta;formato=meme_paneles;hora=17;momento=ucl_j2",
+ "notas": "Sofascore (2 asistencias 50' y 53', 6 pases clave, 9.3) + ESPN/Yahoo/beIN/FotMob resultado 1-4; titular real Planet Football 13/10; jurado r2 6/8/7 = 7,0 [cola]"
+}

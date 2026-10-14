@@ -1,0 +1,13 @@
+{
+ "red": "instagram",
+ "hora": "2026-10-14T12:00:00+02:00",
+ "tipo": "noticia",
+ "partido": "Tresoldi hat-trick: Inter 3-4 Club Brugge",
+ "text": "Nicolò Tresoldi, 22, scored a hat-trick at the San Siro as Club Brugge beat Inter 4-3 — the first Belgian side to beat Inter in the Champions League. Inter had the higher xG volume (30 shots), Brugge the better chances (4.26 xG). Biggest shock of the season so far? 👇\n#Tresoldi #ClubBrugge #Inter #ChampionsLeague #Football",
+ "titulo": "Tresoldi hat-trick stuns Inter: Club Brugge 4-3",
+ "imagenes": [
+  "https://raw.githubusercontent.com/oundialae-debug/live/main/media/20261014_tresoldi.jpg"
+ ],
+ "variante": "hook=pregunta;formato=noticia_marco;hora=12;momento=ucl_j2",
+ "notas": "FotMob (xG 3.93-4.26, 30-18 tiros, primer belga en ganar al Inter, 22 años) + Football Italia/OneFootball/beIN titulares; jurado 8/8/8 = 8,0 [cola]"
+}
