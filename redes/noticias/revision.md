@@ -117,3 +117,30 @@
 - Google News EN: Live Youth League football: Watch LASK v Liverpool on Wednesday
 - Yahoo: Andoni Iraola provides Liverpool injury update ahead of LASK clash
 
+## 15/10 13:59 · Trent Alexander‑Arnold near Liverpool return · revisar
+- Motivo: palabra sensible en los titulares: abuse
+- Temas: Liverpool
+- Mirror: Trent Alexander-Arnold agreement reached by Liverpool legends - 'We've missed him'
+- Mirror: Liverpool news: Wirtz backed for shock transfer and Barcola 'worth half his price tag'
+- Planet Football: The startling Premier League table since Liverpool won the title in April 2025
+- FourFourTwo: Liverpool report: Huge Trent Alexander-Arnold return edges closer, as major move shapes up
+- Yahoo: Best player? No, star is an enormous problem for Liverpool
+
+## 15/10 13:59 · FIFA tackles Balogun case · revisar
+- Motivo: categoría sensible: legal
+- Temas: FIFA
+- Mundo Deportivo: La FIFA desmiente a The Times: "No se le paga un segundo sueldo a Infantino"
+- Kicker: Nächster Schritt zu Infantinos Wiederwahl? FIFA will Verbänden Milliarden ausschütten
+- Ole: Cumbre caliente de la FIFA en Zurich: Europa cara a cara con Gianni Infantino
+- Google News AR: FIFA propone distribuir 6.300 millones de dólares para desarrollo del fútbol a sus asociaciones
+- Mundo Deportivo: La FIFA propone cambiar el reglamento para justificar el 'caso Balogun'
+
+## 15/10 13:59 · Inter Milan shock defeat · revisar
+- Motivo: datos que no salen en los titulares: Italian
+- Temas: Inter
+- Mundo Deportivo: Tresoldi, de sonar para Barça y Atleti a su 'hat-trick' al Inter: 3 grandes selecciones optan a él
+- Football Italia: Watch Tresoldi’s reaction as Italy-born striker emulates Bale against Inter
+- Football Italia: Today’s Papers – Tresoldi shocks Inter, Allegri turned upside down
+- Foot Mercato: La nouvelle déroute de l’Inter Milan en Ligue des Champions laisse l’Italie sous le choc
+- Google News AR: Fútbol libre de riesgo, EN VIVO: dónde ver Inter Miami vs. New York City por TV y ONLINE
+

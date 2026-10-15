@@ -35,3 +35,8 @@
 {"t": "2026-10-14T17:32+00:00", "estado": "descartar", "temas": ["Wirtz"], "clave": "liverpool-wirtz-criticism", "motivo": "importancia 5 < 7"}
 {"t": "2026-10-14T17:32+00:00", "estado": "descartar", "temas": ["Carvajal"], "clave": "carvajal-getafe-transfer", "motivo": "importancia 5 < 7"}
 {"t": "2026-10-15T11:59+00:00", "estado": "publicado", "temas": ["Vinicius"], "clave": "vinicius-suspension", "video": "https://raw.githubusercontent.com/oundialae-debug/live/main/media/noticias/2026-10-15_1359_vinicius-suspension.mp4"}
+{"t": "2026-10-15T11:59+00:00", "estado": "revisar", "temas": ["Liverpool"], "clave": "liverpool-trent-return", "motivo": "palabra sensible en los titulares: abuse"}
+{"t": "2026-10-15T11:59+00:00", "estado": "revisar", "temas": ["FIFA"], "clave": "fifa-balogun", "motivo": "categoría sensible: legal"}
+{"t": "2026-10-15T11:59+00:00", "estado": "descartar", "temas": ["Mourinho"], "clave": "mourinho-endrick", "motivo": "calidad 6 < 7"}
+{"t": "2026-10-15T11:59+00:00", "estado": "revisar", "temas": ["Inter"], "clave": "inter-milan-champions-league", "motivo": "datos que no salen en los titulares: Italian"}
+{"t": "2026-10-15T11:59+00:00", "estado": "descartar", "temas": ["Inter"], "clave": "inter-miami-nycfc", "motivo": "importancia 6 < 7"}
