@@ -1,5 +1,5 @@
 {
- "red": "tiktok",
+ "red": "instagram",
  "hora": "2026-10-15T19:21:48+02:00",
  "tipo": "noticia",
  "partido": "Infantino under fire",
@@ -9,5 +9,7 @@
  "musica": "hh01",
  "variante": "seg=5.0;arranque=s1;hook=pregunta;musica=hh01;formato=auto_noticia;hora=19",
  "notas": "noticia automática (IA + reglas): Guardian: Gianni Infantino faces grilling at potentially ‘explosive’ Fifa council meeting; Mundo Deportivo: La FIFA desmiente a The Times: \"No se le paga un segundo sueldo a Infantino\"",
- "titulo": "Infantino faces FIFA council grilling and $6bn controversy"
+ "estado": "enviado",
+ "buffer_id": "6ad10b21e30d190e5e61276c",
+ "dueAt": "2026-10-15T17:22:29+00:00"
 }
