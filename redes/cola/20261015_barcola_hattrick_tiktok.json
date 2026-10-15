@@ -1,0 +1,13 @@
+{
+ "red": "tiktok",
+ "hora": "2026-10-15T12:00:00+02:00",
+ "tipo": "noticia",
+ "partido": "Barcola hat-trick: LASK 3-6 Liverpool",
+ "text": "Bradley Barcola scored a hat-trick at LASK — his first goals for Liverpool, and the first of his senior career in his 206th game. Liverpool won 6-3 after leading 3-0 at half-time. Is he finally worth the £123m? 👇\n#Barcola #Liverpool #ChampionsLeague #LASKLiverpool #Football",
+ "titulo": "Barcola hat-trick: first Liverpool goals in a 6-3 win",
+ "imagenes": [
+  "https://raw.githubusercontent.com/oundialae-debug/live/main/media/20261015_barcola.jpg"
+ ],
+ "variante": "hook=pregunta;formato=noticia_marco;hora=12;momento=ucl_j2",
+ "notas": "FotMob + Sports Mole (3-6, hat-trick, primeros goles, 206 partidos), beIN/Telegraph £123m; jurado r1 5,7 -> r2 6,7 -> r3 7,3 [cola]"
+}

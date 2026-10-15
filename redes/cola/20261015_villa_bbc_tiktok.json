@@ -1,0 +1,13 @@
+{
+ "red": "tiktok",
+ "hora": "2026-10-15T18:30:00+02:00",
+ "tipo": "meme",
+ "partido": "Aston Villa 6-0 Fenerbahce",
+ "text": "BBC before kick-off: \"Is Villa's stadium rebuild affecting the team?\" Full time: Aston Villa 6-0 Fenerbahce, their first home win of the season and their biggest win in Europe. Answer? 👇\n#AstonVilla #Fenerbahce #ChampionsLeague #Emery #Football",
+ "titulo": "Aston Villa 6-0 Fenerbahce: record European win",
+ "imagenes": [
+  "https://raw.githubusercontent.com/oundialae-debug/live/main/media/20261015_villa_bbc.jpg"
+ ],
+ "variante": "hook=pregunta;formato=meme_paneles;hora=18;momento=ucl_j2",
+ "notas": "beIN (record europeo, 1ª victoria en casa) + BBC titular + Goal; comparativa; jurado r4 7,0 [cola]"
+}

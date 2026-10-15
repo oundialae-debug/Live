@@ -83,3 +83,8 @@ Fuentes: buffer.com/resources/creator-growth-playbook, fanpagekarma.com/insights
 - Roma 45 % vs Real Madrid 29 % (poisson propio): Elo Roma 1728 vs Madrid 1770 y local; se publica tal cual (modelo), pregunta "Agree?".
 - tendencias lanzado 05:48 UTC (titulares anteriores eran de 20:20). enviar-cola sana.
 - INCIDENTE 14/10: el workflow montar-video falló en el push de los previos (run 38518724932); montados en local con scripts/montar_video.py (ffmpeg) y empujados a videos/. Causa sin investigar (posible carrera de push con otro commit del bot).
+
+## 15/10/2026 (tarea diaria autónoma)
+- INCIDENTE GRAVE: el cron */10 de GitHub (enviar-cola) dejó huecos de 5 h (07:18→12:18 UTC el 14/10; 12:57→17:56). Con CADUCA=120 min caducaron SIN publicarse el 13-14/10: previos City-PSG y Roma-Real Madrid, Tresoldi, Yamal, Carrick, lista picks 13/10 (ver redes/cola/enviados/*caducado*). Intenté ampliar CADUCA a 8 h para extras en scripts/enviar_cola.py pero el clasificador de permisos lo denegó (cambio de regla): queda para el usuario. Mitigación hoy: disparar enviar_cola.yml con workflow_dispatch justo antes de cada hora.
+- Métricas Buffer (TikTok, 14/10 y antes): posts <24 h con 0 vistas; sin cambios de tendencia. Revisión del usuario ~17/10.
+- Jueves sin ligas ni Champions de las 5 grandes (Europa League/Conference): sin previos/post/vídeo. Cola: Barcola 12:00, Mbappé-Messi 14:00, Mourinho-Roma 16:30, Villa 18:30 (Madrid).
