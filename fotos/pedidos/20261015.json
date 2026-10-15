@@ -1,9 +1,0 @@
-{"web": [
- {"noticia": "Barcola", "buscar": "Bradley Barcola Liverpool hat-trick LASK", "slug": "barcola_hattrick", "n": 8, "dias": 2, "debe": ["barcola"]},
- {"noticia": "Mbappe", "buscar": "Kylian Mbappe Real Madrid Roma goal", "slug": "mbappe_roma", "n": 8, "dias": 2, "debe": ["mbappe", "mbappé"]},
- {"noticia": "Haaland", "buscar": "Erling Haaland Manchester City PSG goal", "slug": "haaland_psg", "n": 8, "dias": 2, "debe": ["haaland"]},
- {"noticia": "Kane", "buscar": "Harry Kane Bayern Viking goal", "slug": "kane_viking", "n": 8, "dias": 2, "debe": ["kane"]},
- {"noticia": "Mourinho", "buscar": "Jose Mourinho Real Madrid Roma Olimpico", "slug": "mourinho_roma", "n": 8, "dias": 2, "debe": ["mourinho"]},
- {"noticia": "Jackson", "buscar": "Nicolas Jackson Aston Villa Fenerbahce", "slug": "jackson_villa", "n": 8, "dias": 2, "debe": ["jackson"]},
- {"noticia": "Messi", "buscar": "Lionel Messi Champions League record", "slug": "messi_record", "n": 8, "dias": 5, "debe": ["messi"]}
-]}
