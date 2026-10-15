@@ -1,5 +1,5 @@
 {
- "red": "tiktok",
+ "red": "instagram",
  "hora": "2026-10-15T14:02:34+02:00",
  "tipo": "noticia",
  "partido": "Vinicius gets four‑match ban",
@@ -9,5 +9,7 @@
  "musica": "hh05",
  "variante": "seg=5.0;arranque=s1;hook=pregunta;musica=hh05;formato=auto_noticia;hora=14",
  "notas": "noticia automática (IA + reglas): Yahoo: Guler, Vinicius start in a 4-2-3-1: How Real Madrid can line up against AS Roma; Yahoo: Former Real Madrid star Julio Baptista defends Vinicius: ‘Teammates and supporters should rally around hi",
- "titulo": "Vinicius Jr banned for four games, misses Clasico"
+ "estado": "enviado",
+ "buffer_id": "6ad0c03c1bf89b88101d09a1",
+ "dueAt": "2026-10-15T12:02:54+00:00"
 }

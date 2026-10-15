@@ -1,5 +1,5 @@
 {
- "red": "instagram",
+ "red": "tiktok",
  "hora": "2026-10-15T14:00:00+02:00",
  "tipo": "curioso",
  "partido": "Mbappé youngest to 100 Champions League games",
@@ -9,5 +9,8 @@
   "https://raw.githubusercontent.com/oundialae-debug/live/main/media/20261015_mbappe_record.jpg"
  ],
  "variante": "hook=pregunta;formato=curioso_marco;hora=14;momento=ucl_j2",
- "notas": "Sports Mole (27y298d vs 28y84d) + The National + Washington Post; foto actual de Mbappé; jurado r4 7,0 [cola]"
+ "notas": "Sports Mole (27y298d vs 28y84d) + The National + Washington Post; foto actual de Mbappé; jurado r4 7,0 [cola]",
+ "estado": "enviado",
+ "buffer_id": "6ad0c03b5672492858621ca5",
+ "dueAt": "2026-10-15T12:02:54+00:00"
 }

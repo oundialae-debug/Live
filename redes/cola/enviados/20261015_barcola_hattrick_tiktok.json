@@ -1,5 +1,5 @@
 {
- "red": "instagram",
+ "red": "tiktok",
  "hora": "2026-10-15T12:00:00+02:00",
  "tipo": "noticia",
  "partido": "Barcola hat-trick: LASK 3-6 Liverpool",
@@ -9,5 +9,8 @@
   "https://raw.githubusercontent.com/oundialae-debug/live/main/media/20261015_barcola.jpg"
  ],
  "variante": "hook=pregunta;formato=noticia_marco;hora=12;momento=ucl_j2",
- "notas": "FotMob + Sports Mole (3-6, hat-trick, primeros goles, 206 partidos), beIN/Telegraph £123m; jurado r1 5,7 -> r2 6,7 -> r3 7,3 [cola]"
+ "notas": "FotMob + Sports Mole (3-6, hat-trick, primeros goles, 206 partidos), beIN/Telegraph £123m; jurado r1 5,7 -> r2 6,7 -> r3 7,3 [cola]",
+ "estado": "enviado",
+ "buffer_id": "6ad0c03b4f1ca4dbda771999",
+ "dueAt": "2026-10-15T12:02:54+00:00"
 }
