@@ -1,4 +1,4 @@
-# Titulares de fútbol (2026-10-15 17:17 UTC, últimas 36 h)
+# Titulares de fútbol (2026-10-15 20:30 UTC, últimas 36 h)
 
 Generado por `scripts/titulares.py` (workflow `tendencias`). Leídos 26 de 34 medios; fuentes en `redes/fuentes.md`.
 
@@ -6,77 +6,82 @@ Generado por `scripts/titulares.py` (workflow `tendencias`). Leídos 26 de 34 me
 
 | Tema | Nº medios | Medios | Ejemplo |
 |---|---|---|---|
-| Liverpool | 13 | BBC, Daily Mail, FourFourTwo, Google News EN, Guardian, L'Equipe, Mirror, Planet | Why Souness rejected Barcelona when he left Liverpool |
-| Madrid | 13 | AS, BBC, Daily Mail, Foot Mercato, Football Italia, FourFourTwo, Google News ES, | Real Madrid stun Roma after dramatic late comeback |
-| Man | 12 | BBC, Daily Mail, Foot Mercato, Football Italia, Google News EN, Kicker, Mirror,  | Man Utd a circus after Martinez comments - Keane |
-| Roma | 11 | AS, BBC, Daily Mail, Foot Mercato, Football Italia, FourFourTwo, Guardian, Infob | Real Madrid stun Roma after dramatic late comeback |
-| Europa | 11 | AS, Football Italia, Google News AR, Guardian, L'Equipe, Mundo Deportivo, Planet | Lyon v Crystal Palace, Torreense v Sunderland, and more: Europa League – live |
-| Mourinho | 10 | AS, BBC, Daily Mail, Foot Mercato, Football Italia, Google News ES, L'Equipe, Ya | 'Shameless' - Mourinho critical of Vinicius Jr ban timing |
-| Manchester | 10 | Daily Mail, Foot Mercato, FourFourTwo, Google News EN, Guardian, Infobae, L'Equi | Football Daily | Guardiola returns to Manchester as City spin into dizzy mess against PSG |
-| Villa | 9 | BBC, Daily Mail, Foot Mercato, FourFourTwo, Google News AR, Google News EN, Guar | Villa rewrite the record books as they hit Fenerbahce for six |
-| Vinicius | 9 | AS, BBC, Daily Mail, Foot Mercato, Google News EN, Google News ES, L'Equipe, r/s | 'Shameless' - Mourinho critical of Vinicius Jr ban timing |
-| Infantino | 8 | BBC, Google News AR, Google News EN, Guardian, Ole, Sky Sports, Yahoo, talkSPORT | Infantino apologises to Fifa Council - but told he is still not fit to lead |
-| Martinez | 8 | BBC, Daily Mail, Football Italia, Google News EN, L'Equipe, Mirror, Planet Footb | Man Utd a circus after Martinez comments - Keane |
-| Barcola | 8 | BBC, Foot Mercato, L'Equipe, Mundo Deportivo, Telegraph, Yahoo, r/soccer (top dí | Barcola shines as Liverpool score six to beat LASK |
-| Arsenal | 8 | BBC, Foot Mercato, FourFourTwo, Google News EN, Mirror, Mundo Deportivo, Yahoo,  | Substitutes steal the show as Arsenal score three against Lille |
-| Palace | 8 | Foot Mercato, Google News EN, Guardian, L'Equipe, Mundo Deportivo, Record, Sky S | Lyon v Crystal Palace, Torreense v Sunderland, and more: Europa League – live |
-| Messi | 8 | FourFourTwo, Google News AR, Infobae, Mundo Deportivo, Ole, Planet Football, r/s | Kylian Mbappe surpasses Lionel Messi&#8217;s Champions League record that Harry Kane can never break |
-| Barcelona | 7 | BBC, FourFourTwo, Infobae, Ole, Yahoo, ge.globo, talkSPORT | Why Souness rejected Barcelona when he left Liverpool |
-| Inter | 7 | AS, BBC, Foot Mercato, Football Italia, Google News AR, Infobae, r/soccer (top d | Tresoldi hat-trick fires Club Brugge to victory over Inter in seven-goal thriller |
-| Aston | 7 | BBC, Daily Mail, Foot Mercato, FourFourTwo, Google News AR, Google News EN, Guar | Jackson steps up again as Aston Villa revival continues |
-| Crystal | 7 | Daily Mail, Foot Mercato, Google News EN, Guardian, L'Equipe, Mundo Deportivo, Y | Lyon v Crystal Palace, Torreense v Sunderland, and more: Europa League – live |
-| Kane | 7 | Daily Mail, Foot Mercato, FourFourTwo, Mundo Deportivo, Sky Sports, Yahoo, talkS | Kane agrees new deal in principle with Bayern Munich |
-| Lisandro | 7 | Daily Mail, Google News EN, Infobae, L'Equipe, Mirror, Planet Football, talkSPOR | Lisandro Martinez refuses to apologise as he doubles down on outburst in social media post |
-| Sancho | 6 | BBC, Google News EN, Kicker, Mirror, Mundo Deportivo, talkSPORT | Getafe make offer to sign free agent Sancho |
-| Sunderland | 6 | BBC, FourFourTwo, Guardian, Mundo Deportivo, Sky Sports, Yahoo | The Portuguese second-tier team hosting Sunderland in Europe |
-| Bayern | 6 | BBC, Daily Mail, Foot Mercato, Mundo Deportivo, Sky Sports, ge.globo | Viking snatch draw against Bayern Munich in six-goal thriller |
-| Southgate | 6 | BBC, Google News EN, Guardian, L'Equipe, Mirror, talkSPORT | Southgate does not see return to Premier League management |
+| Europa | 13 | AS, Daily Mail, Foot Mercato, Football Italia, Google News AR, Google News EN, G | Bournemouth v Sturm Graz, Benfica v Celtic, and more: Europa League – live |
+| Man | 12 | BBC, Daily Mail, Football Italia, Google News EN, Kicker, Mirror, Planet Footbal | Martinez apologises for outburst and fined by Man Utd |
+| Liverpool | 12 | BBC, Daily Mail, FourFourTwo, Google News EN, Guardian, L'Equipe, Mirror, Planet | Barcola shines as Liverpool score six to beat LASK |
+| Madrid | 12 | AS, BBC, Daily Mail, Foot Mercato, FourFourTwo, Google News ES, Guardian, L'Equi | Real Madrid stun Roma after dramatic late comeback |
+| Sunderland | 11 | BBC, Daily Mail, FourFourTwo, Google News EN, Guardian, L'Equipe, Record, Sky Sp | The Portuguese second-tier team hosting Sunderland in Europe |
+| Lisandro | 11 | Daily Mail, Foot Mercato, Google News AR, Infobae, Mirror, Mundo Deportivo, Plan | Lisandro Martinez issues second statement confirming talks with Man United hierarchy after outburst |
+| Martinez | 10 | BBC, Daily Mail, Foot Mercato, Google News EN, Mirror, Planet Football, Sky Spor | Martinez apologises for outburst and fined by Man Utd |
+| Kane | 10 | BBC, Daily Mail, Foot Mercato, FourFourTwo, Google News EN, Mundo Deportivo, Sky | Kane poised to extend Bayern stay - Friday's gossip |
+| Infantino | 9 | BBC, Foot Mercato, Google News EN, Guardian, Kicker, L'Equipe, Ole, Sky Sports,  | Infantino apologises to Fifa Council - but told he is still not fit to lead |
+| Manchester | 9 | Foot Mercato, FourFourTwo, Google News EN, Guardian, Infobae, L'Equipe, Yahoo, r | Martínez apologises to Manchester United’s director of football Wilcox after outburst |
+| Bayern | 8 | BBC, Daily Mail, Foot Mercato, Mundo Deportivo, Sky Sports, Yahoo, ge.globo, r/s | Kane poised to extend Bayern stay - Friday's gossip |
+| Villa | 8 | BBC, Foot Mercato, FourFourTwo, Google News EN, Guardian, Infobae, Yahoo, r/socc | Villa rewrite the record books as they hit Fenerbahce for six |
+| Roma | 8 | AS, BBC, Daily Mail, Foot Mercato, FourFourTwo, Guardian, r/soccer (top día), ta | Real Madrid stun Roma after dramatic late comeback |
+| Benfica | 8 | FourFourTwo, Google News EN, Google News ES, Guardian, Mirror, Mundo Deportivo,  | Bournemouth v Sturm Graz, Benfica v Celtic, and more: Europa League – live |
+| Sancho | 7 | AS, BBC, Google News EN, Kicker, Mirror, r/soccer (top día), talkSPORT | Getafe make offer to sign free agent Sancho |
+| Southgate | 7 | BBC, Daily Mail, Google News EN, Guardian, L'Equipe, Mirror, talkSPORT | Southgate does not see return to Premier League management |
+| Celtic | 7 | FourFourTwo, Google News EN, Google News ES, Guardian, Mirror, Mundo Deportivo,  | Bournemouth v Sturm Graz, Benfica v Celtic, and more: Europa League – live |
+| Martínez | 7 | Foot Mercato, Google News AR, Google News EN, Guardian, Infobae, Mundo Deportivo | Martínez apologises to Manchester United’s director of football Wilcox after outburst |
+| Torreense | 7 | FourFourTwo, Google News EN, Guardian, L'Equipe, Sky Sports, Yahoo, r/soccer (to | Noah Sadiki stunner earns Sunderland dramatic late win against Torreense |
+| Milan | 7 | AS, Foot Mercato, Football Italia, Guardian, L'Equipe, Mundo Deportivo, Yahoo | Europa League: Lyon take down Crystal Palace, Cissè’s Milan hat-trick sinks Salzburg |
+| Palace | 7 | Daily Mail, Foot Mercato, Google News EN, Guardian, L'Equipe, Sky Sports, Yahoo | Europa League: Lyon take down Crystal Palace, Cissè’s Milan hat-trick sinks Salzburg |
+| Lyon | 7 | Daily Mail, Foot Mercato, Google News EN, Guardian, L'Equipe, Sky Sports, Yahoo | Europa League: Lyon take down Crystal Palace, Cissè’s Milan hat-trick sinks Salzburg |
+| Alex | 7 | Daily Mail, Google News EN, Guardian, Mirror, Yahoo, ge.globo, talkSPORT | Alex Scott quits Disney+ role as Women’s Champions League presenter |
+| Scott | 7 | Daily Mail, Google News EN, Guardian, Mirror, Sky Sports, Yahoo, talkSPORT | Alex Scott quits Disney+ role as Women’s Champions League presenter |
+| Harry | 7 | Daily Mail, Foot Mercato, FourFourTwo, Mirror, Mundo Deportivo, r/soccer (top dí | Graeme Souness: Goal machine Harry Kane is a worthy Ballon d&#8217;Or winner but there is one catch |
 
 ## Titulares por medio
 
 **BBC** (40)
+- Sutton's predictions v boxer & Ipswich fan Fabio Wardley
+- Martinez apologises for outburst and fined by Man Utd
 - Infantino apologises to Fifa Council - but told he is still not fit to lead
-- Man Utd a circus after Martinez comments - Keane
+- Kane poised to extend Bayern stay - Friday's gossip
 - Getafe make offer to sign free agent Sancho
 - The Andorran club making history with a Pochettino in the team
-- The Portuguese second-tier team hosting Sunderland in Europe
-- Why Souness rejected Barcelona when he left Liverpool
-- Red card, suspension and a conspiracy - what's up with Vini Jr?
-- Guardiola's return, Man City's defiance - and a game of glorious chaos
 - Man City show fight but fall short of fightback against slick PSG
-- Martinez's future at Man Utd in doubt - Thursday's gossip
 - Barcola shines as Liverpool score six to beat LASK
 - Villa rewrite the record books as they hit Fenerbahce for six
+- Real Madrid stun Roma after dramatic late comeback
+- Brilliant Barcola scores first hat-trick to get lift-off at Liverpool
+- Yoro sent off as Man Utd stumble to defeat against Atletico Madrid
 
 **Guardian** (23)
-- Lyon v Crystal Palace, Torreense v Sunderland, and more: Europa League – live
+- Bournemouth v Sturm Graz, Benfica v Celtic, and more: Europa League – live
+- Martínez apologises to Manchester United’s director of football Wilcox after outburst
+- Noah Sadiki stunner earns Sunderland dramatic late win against Torreense
+- Europa League: Lyon take down Crystal Palace, Cissè’s Milan hat-trick sinks Salzburg
 - Alex Scott quits Disney+ role as Women’s Champions League presenter
-- Football Daily | Guardiola returns to Manchester as City spin into dizzy mess against PSG
 - Apologetic Infantino ‘not fit’ to lead Fifa, claim European FA heads after meeting
-- Chelsea are the Premier League’s most fun team but is it sustainable?
+- Vinícius claims he is targeted by referees and says flair players need protection
 - Southgate ‘hardly watches’ football and does not envisage Premier League return
 - Champions League review: PSG’s benchmark, Viking uprising and an Italian-German dilemma
-- Giovanni Leoni’s return from injury delayed in fresh blow to Liverpool
-- Vinícius claims he is targeted by referees and says flair players need protection
 - FC Copenhagen Women have a ‘startup-like’ brand. Now they need results
 - Martínez has drawn back the curtain on Manchester United’s ruinous ownership | Jonathan Liew
 - FA spending on Wembley hospitality and free tickets for FA Council rises by 25%
 
 **Sky Sports** (20)
+- Man Utd latest: Martinez met hierarchy before apology - should he start vs Leeds?
+- Serbian tennis player handed 24-year ban for match-fixing
+- Martinez apologises for outburst after Wilcox talks
+- Blood clot rules Eagles QB Hurts out of Panthers game
 - Garcia set to face Lopez next after emphatic Benn win
 - Can Van Gerwen end his barren spell at Dutch Darts Championship?
 - Itauma could be one win away from another world title shot
 - Kane agrees new deal in principle with Bayern Munich
-- Under-pressure Infantino apologises for World Cup sell-off plan
+- Infantino sorry for World Cup plan and set to ditch award previously given to Trump
 - Ronaldo NAILS tee shot at DP World Tour event in India!
-- PL Predictions: Back buzzing Brentford to sting Liverpool
-- McIlroy four off lead on delayed first day in India
-- Kartal through to quarter-finals in Wuhan after another stunning win
-- 'Not helping me or my future' - Colapinto asks fans to stop online abuse
-- Long-term success won't be linear, says Spurs Women boss Ho
-- 'Unsatisfactory' Lord's pitch dug up by MCC after first demerit point
+- Sage suffers defeat to former side as Palace lose in Lyon
+- Sadiki nets late winner as Sunderland survive huge scare at Torreense
 
 **talkSPORT** (40)
+- Sunderland set European record no other English club have managed after dramatic win
+- Liverpool star suffers setback as Andoni Iraola addresses &#8216;bad&#8217; injury
+- Lisandro Martinez issues second statement confirming talks with Man United hierarchy after outburst
+- Steven Gerrard open to huge Championship job as current manager under increasing pressure
+- Alex Scott quits job months after Football Focus cancelled
 - Billy Sharp eyes up new job days after retiring from professional football
 - Predict 6: Win £50k this weekend in talkSPORT&#8217;s new free to play Premier League predictor game
 - Next Watford manager odds: Ex Forest and Leicester boss joint favourite for Hornets job
@@ -84,44 +89,38 @@ Generado por `scripts/titulares.py` (workflow `tendencias`). Leídos 26 de 34 me
 - Graeme Souness: Goal machine Harry Kane is a worthy Ballon d&#8217;Or winner but there is one catch
 - The eight players who have run the furthest in the Premier League this season
 - UEFA continue plot to oppose Gianni Infantino as FIFA president after $15million move
-- Manchester United told exactly what to do if they appoint Antonio Conte
-- Ex-Chelsea starlet suffers devastating injury setback at new club
-- The six fastest players in the Premier League this season
-- Why Barcelona have change kit for upcoming El Clasico
-- Benfica vs Celtic: Get 30/1 on Benfica to score with talkSPORT BET
 
-**Daily Mail** (38)
-- Alex Scott QUITS Disney's 'Gen Z' Women's Champions League football show, just two rounds of matches in, after saying she 'didn't agree with
+**Daily Mail** (39)
+- Lisandro Martinez says SORRY! Argentine apologises for angry interview calling out Man United's hierarchy - as he concedes his words 'did no
+- Crystal Palace's John Textor nightmare: BOBBY MANZI reveals the blazing rows with Steve Parish, his crumbling football empire and why Lyon c
+- Liverpool Confidential: Boost in Alex Scott hunt as Bournemouth sources say Reds in 'driving seat' for £100m midfielder, truth about Dominik
 - Jose Mourinho's mood darkens as he takes aim at 'shameful' LaLiga, 'strange' referees and even Real Madrid's own fans with pressure cranking
 - Fuming football pundit Roy Keane rages at fan who pestered him for a selfie in an airport when he was 'trying to be discreet' - in bid to bo
 - Matthijs de Ligt's ex-wife speaks out on divorce 'hell': Model AnneKee Molenaar bares all on split after Man United star 'couldn't handle' h
 - Liverpool fans hit the jackpot with Austrian football team's eco scheme that pays supporters to recycle their plastic cups
+- 'The first time I saw him play, I thought: "God exists"': Inside Estevao Willian's journey from Brazil to Stamford Bridge - KIERAN GILL is g
 - Lisandro Martinez is one of the last to arrive at Man United training ahead of crunch talks with bosses after his explosive rant, while club
 - Lisandro Martinez's NON-APOLOGY: Ranting Man United star admits he 'spoke out of anger and frustration' but refuses to say sorry in 271-word
 - Pep Guardiola tried to be incognito but the ex-Man City manager's presence was felt on his return with demands his big moments are expunged 
 - Cristiano Ronaldo's international career likely to be OVER, says his sister - as she reveals talks over reconciliation have stalled after 'b
-- The secret behind Frank Lampard's Premier League turnaround? His lucky £880,000 watch! How superstitious boss rotated through £1m+ collectio
-- The 'boss', the 'brain', the 'general' - and now the 'next Rodri': The making of Ayyoub Bouaddi, Man City's £85.7m gem who has terrified opp
-- Unai Emery's 'no excuses' culture finally pays off and how Nicolas Jackson proved he was signed for more than just goals, writes TOM COLLOMO
 
 **Mirror** (25)
+- Alex Scott quits Disney+ job just weeks after new role began following BBC Football Focus exit
+- Antonio Conte 'tells Man Utd bosses' he would be keen to replace Michael Carrick
+- Lisandro Martinez makes Man Utd apology after meeting with Michael Carrick and club chiefs
+- Petr Cech speaks out on infamous head injury and thanks staff for 'the chance to live'
 - Man City charges LIVE: Points deduction latest as Independent Football Regulator stance clear
 - Andy Burnham issues new statement and orders 'manual trawl' to uncover Man City documents
-- Bruno Fernandes 'deserves respect' after 'carrying history of Man Utd on his shoulders'
 - What TV channel is Benfica vs Celtic on? Live streaming, how to watch and kick-off time
+- Bruno Fernandes 'deserves respect' after 'carrying history of Man Utd on his shoulders'
 - Man City misdemeanours will not impact on football's integrity - only the Premier League's
 - Mikel Merino opens up on Arsenal’s secret meeting that ‘won the Premier League’
 - BBC star and Lionesses legend Alex Scott returns to secondary school - 'It’s a privilege'
 - Jadon Sancho offered surprise return route as Spanish club make 'official approach'
-- Cristiano Ronaldo's sister reveals his international career is likely OVER after Portugal bust-up
-- Andoni Iraola delivers triple Liverpool injury update as plan for Lewis Koumas laid out
-- FIFA to change rules to avoid Folarin Balogun repeat after World Cup scandal
-- Ex-England boss Gareth Southgate admits he may NEVER return to football management
 
-**Telegraph** (3)
+**Telegraph** (2)
 - Man City dismantled by PSG in breathless Champions League battle
 - Barcola starts to justify £123m price tag with hat-trick as Liverpool hit LASK for six
-- Carrick’s United are in crisis and now spotlight is on Wilcox
 
 **90min** (0)
 
@@ -137,7 +136,7 @@ Generado por `scripts/titulares.py` (workflow `tendencias`). Leídos 26 de 34 me
 - David Trezeguet’s journey from overlooked outsider to Juventus hero
 - Can you name every player to score a Champions League hat-trick for Liverpool?
 
-**FourFourTwo** (26)
+**FourFourTwo** (23)
 - How to watch Benfica vs Celtic: Live Streams
 - Why Pep Guardiola's next job could be the one that defines him - more than Barcelona or Manchester City
 - Manchester United dressing room is fractured and Michael Carrick is not the figurehead to fix it
@@ -152,93 +151,96 @@ Generado por `scripts/titulares.py` (workflow `tendencias`). Leídos 26 de 34 me
 - Quickfire Quiz 224: Can you answer 10 questions in 90 seconds?
 
 **Yahoo** (40)
-- Torreense v Sunderland
-- Olympique Lyonnais v Crystal Palace
-- Barnsley bring in striker Adeyemo
-- Manchester United want to replace star with Premier League defender
-- Liverpool could receive triple injury boost after Andoni Iraola hint
-- Serie A in FC 27: Lautaro, Maignan and Barella lead, Milan clubs still unlicensed
-- Gianni Infantino apologises for World Cup sell-off plan, but told he’s ‘not fit to be Fifa president’
-- Fernando Llorente confident Antonio Conte will return to Juventus
-- Alex Scott quits Disney+ role after criticism of Women’s Champions League coverage
-- Eberechi Eze to perform Cristiano Ronaldo-inspired celebration after losing to IShowSpeed
-- Football Italia Show: Champions League disaster, has Tresoldi already decided?
-- Roma sweat over Paulo Dybala and Manu Kone fitness after Real Madrid loss
+- 📸 Europa League confusion: club tapes over its own name on shirt
+- Aston Villa Back £50m Winger Despite Limited Minutes: Can Emery Justify The Gamble?
+- Barcelona’s 17-match clean-sheet drought clouds Champions League bid
+- Cisse: ‘Milan hat-trick takes a back seat, the most important thing was to win’
+- Update On Chelsea And Their Pursuit Of This Bournemouth Star: What Should Alonso Do?
+- Journalist: In-form Liverpool forward could leave in January
+- Leeds United forward facing uncertain future as contract talks stall
+- Kane poised to extend Bayern stay - Friday&#39;s gossip
+- Amorim: ‘Milan have played better, Camarda needs to improve his explosiveness’
+- Analysis: Poor first half costs Sage on his return to former club
+- Liverpool face crazy battle for Bundesliga wonderkid
+- Manchester United Are Keeping A Keen Eye On This Atletico Madrid Ace: Decent Choice For Carrick?
 
 **Google News EN** (40)
-- Women's Super League: Injured Arsenal star Mariona Caldentey out for up to 10 weeks
 - Apologetic Infantino ‘not fit’ to lead Fifa, claim European FA heads after meeting
+- Watch Oxford United vs Mansfield Town Live Football Streams Today
+- Weekend football predictions & free betting accumulator tips from James Milton
 - City expands community football network across the US
-- !+[*𝐋𝐈𝐕𝐄 FOOTBALL*] NK Celje vs Omonia Nicosia UEFA Champions League Coverage 3842621
-- Tom Ince: Watford have 'too many cooks in kitchen', says ex-midfielder
-- Southgate ‘hardly watches’ football and does not envisage Premier League return
-- Eom has strength to move on after alleged racist abuse
-- Football Daily | Guardiola returns to Manchester as City spin into dizzy mess against PSG
-- Vinicius Junior: From contract uncertainty to conspiracy theories and a four-match ban
+- Women's Super League: Injured Arsenal star Mariona Caldentey out for up to 10 weeks
+- Martínez apologises to Manchester United’s director of football Wilcox after outburst
 - Tom Shaw: Lincoln City will not be defined by 6-0 West Ham defeat
+- Football Daily | Guardiola returns to Manchester as City spin into dizzy mess against PSG
+- [#!LIVESTREAMs!]™FC Twente vs FC Thun Live free Football October 15, 2026
+- Torreense 1-2 Sunderland: Post-match analysis
 - Moore's Germany move inspired by Sancho and Bellingham
-- Gianni Infantino: Fifa president apologises over World Cup move but told he must do more
+- Sutton's predictions v boxer & Ipswich fan Fabio Wardley
 
 **AS** (27)
+- Celta - Juventus, hoy en directo: última hora de la Europa League en vivo
 - El Real Madrid ficha a Bernd Reichart
-- Union Saint-Gilloise - Real Sociedad, en directo: Europa League, hoy en vivo
-- Universitatea Craiova - Getafe en directo: UEFA Conference League hoy, en vivo
 - La caída de Vinicius
+- A la Real se le congela la sonrisa al final
+- Gudelj la revienta en Rumanía
+- Torres confirma que Jadon Sancho y Parejo podrán firmar en breve
+- La toma trasera del golazo de la jornada del Getafe: ese efecto no lo paran ni tres porteros
+- ¡Super-Ansu ha vuelto!
+- Cisse hizo grande al Milan de nuevo
+- Marsella-Olympiacos, en directo: Europa League, hoy en vivo
+- Del milagro al remontadón
 - Mourinho entra en combate
-- Salzburgo-Milan, en directo: Europa League, hoy en vivo
-- Raphinha reaparece... ¡con nuevo look! Las redes no dan crédito
-- CSKA-Mónaco, en directo: Conference League, hoy en vivo
-- Lech Poznan-Bayer Leverkusen, en directo: Europa League, hoy en vivo
-- Mercado de fichajes, en directo: rumores, altas y bajas de LaLiga, Premier, Serie A...
-- El Real Madrid mantiene que nada es casual
-- Roma da la solución
 
 **Mundo Deportivo** (40)
-- Situación límite para Arbeloa: sus ideas no calan en los jugadores
-- Paso importante en la recuperación de Luciano Gauna
-- Julián Alvarez y Jonathan David "pueden jugar juntos"
-- Harry Kane renueva con el Bayern de Múnich
-- Del lujo de la Champions a la realidad de Segunda
-- ¿Quién suplirá la baja de Edgar ante el Burgos?
-- Lamine Yamal y Barcola lideran un once ideal de la Champions con varias sorpresas
-- Universitatea Craiova - Getafe, en directo
-- Javier Aguirre rompe una tradición centenaria en Mestalla
-- El alcalde de Vigo asegura que el Mundial, pese al gasto, será agua de mayo
-- La especial puntería de Deco frente al Espanyol
-- Nicolás Valentini, el nuevo imprescindible en el Alavés de Quique
+- Cissé lidera al Milan para golear al Salzburgo
+- "Estábamos mereciendo mucho más pero esto es Europa y hay que matar antes los partidos"
+- Win, el perro adoptado por Arteta, roba el protagonismo en la foto oficial del Arsenal
+- Turrientes, vini, vidi y casi vinci
+- Turrientes, vini, vidi y casi vinci
+- "Fue una falta innecesaria de Marín, mal defendida, pero no hicimos mal partido"
+- Union Saint Gilloise - Real Sociedad: el partido, en imágenes
+- Turrientes, tras su gran partido en Bélgica: "El punto sabe a poco; estamos fastidiados"
+- Estreno amargo en Europa para Jofre Torrents
+- 2-1: El Ajax de Míchel tropieza en un ambiente caliente que obligó a parar el partido
+- Comunicado de Lisandro Martínez tras su rajadón contra la directiva del United
+- El 1x1 de la Real Sociedad ante el Union Saint-Gilloise
 
 **Google News ES** (40)
-- El campo de fútbol Jaime Mata cuenta ya con nuevo césped artificial e iluminación LED
+- ‍‍‍!+【FÚTBOL】Celta de Vigo vs Juventus En directo y gratis en televisión, canal 15 de octubre de 2026
+- “Pena, lo teníamos muy cerca”
 - La RFEF homenajea a las selecciones españolas de fútbol playa tras su histórico doblete europeo
-- Santa Brígida reúne a 15 equipos de fútbol inclusivo
-- Crédito privado para el fútbol inglés: préstamos avalados por sus plantillas
+- Parte médico lesión Vicky López: qué le pasa, cómo se ha lesionado, cuánto tiempo estará de baja y qué partidos se perderá con el FC Barcelo
+- El campo de fútbol Jaime Mata cuenta ya con nuevo césped artificial e iluminación LED
 - ‘Más allá del fútbol’ con Óscar Trejo: el valor de ser buena persona antes que gran futbolista - AFE
-- Power Index de fútbol universitario, semana 6: Notre Dame se pone líder
+- Crédito privado para el fútbol inglés: préstamos avalados por sus plantillas
+- Santa Brígida reúne a 15 equipos de fútbol inclusivo
 - II Torneo Tornem! en Manises: fútbol tras la dana
-- Conoce los Cuerpos Técnicos del Fútbol 8 Masculino de la Academia VCF
-- La Liga de Fútbol Aficionado “Enrique Ambit Palacios” arranca este próximo fin de semana con la participación esta temporada 2026/2027 de un
-- !+【FÚTBOL】 Arthur Gea vs. Davidovich Fokina en vivo
-- El Real Betis y el FC Porto unen experiencias para impulsar el impacto social del fútbol
-- Fútbol: Real Madrid - Espanyol, en directo | 17/10/26
+- Fútbol femenino: no todas las jugadoras pueden vivir del deporte rey, según FIFPRO
+- La escuela de fútbol de Benzú inicia su actividad con cerca de 30 participantes
+- 💢√![FÚTBOL EN DIRECTO] Celta vs. Juventus: transmisión por televisión, 16 de octubre de 2026
 
 **Gazzetta** (0)
 
 **Football Italia** (20)
+- Cisse: ‘Milan hat-trick takes a back seat, the most important thing was to win’
+- Amorim: ‘Milan have played better, Camarda needs to improve his explosiveness’
+- Europa League Liveblog: RB Salzburg-Milan, Celta Vigo-Juventus, Atalanta-Pafos
+- Carnevali: ‘Juventus made mistakes in the past, bonuses are earned’
+- Sarri: ‘Atalanta must be humble, perhaps an error to leave Chelsea’
+- Spalletti: ‘Kolo Muani and Woltemade can play together, but what about Alajbegovic?’
+- UEL | RB Salzburg 0-4 Milan: Magnificent Cisse hat-trick
+- Cisse becomes Italy’s youngest ever hat-trick scorer in Europe
+- Conference League line-ups: Atalanta vs. Pafos
+- Europa League line-ups: Celta Vigo vs. Juventus
 - Report: Sassuolo considering Acerbi opportunity after Leysen injury
 - Serie A in FC 27: Lautaro, Maignan and Barella lead, Milan clubs still unlicensed
-- Europa League Liveblog: RB Salzburg-Milan, Celta Vigo-Juventus, Atalanta-Pafos
-- Football Italia Show: Champions League disaster, has Tresoldi already decided?
-- Amorim on Milan tactical changes, fresh chance for Tomori and Camarda
-- Europa League line-ups: RB Salzburg vs. Milan
-- Latest update claims Tonali is now Italy’s most valuable footballer of all time
-- Napoli confirm injury details as Neres could be ruled out until international break
-- Donnarumma criticised after Man City 2-4 PSG despite late penalty save
-- Iraola reveals Liverpool’s plan for Italy talent Leoni: ‘A little bit of a delay’
-- Bierhoff: ‘I hope Tresoldi chooses Germany, FA in contact with him’
-- Napoli team news: David Neres suffers injury, set to miss Venezia clash
 
 **Kicker** (19)
-- LIVE! Tillman mit der nächsten Chance - Früher Wechsel bei beiden Teams
+- LIVE! Die dritte Großchance sitzt: Murillo sorgt für die Besiktas-Führung bei der TSG
+- VAR-Festival und doppelter Schick: Leverkusens Serie hält auch in Posen an
+- Harmloser VfL in der Sinnkrise: Rösler setzt alles auf eine Karte
+- "Mit Infantino nicht möglich": Neuendorf fordert Neuanfang
 - Nächster Ausfall im Sturm: Auch Rondic fehlt Köln
 - Lob als Störfaktor? Baums Lehren aus dem Bayern-Spiel
 - Klose fordert Energie gegen Cottbus: "Mit das schwierigste Spiel"
@@ -247,118 +249,115 @@ Generado por `scripts/titulares.py` (workflow `tendencias`). Leídos 26 de 34 me
 - Wie schnell kann Prtajin helfen? Lieberknecht bremst die Euphorie
 - Muskelbündelriss: Dauerbrenner Chessa fehlt Ulm wochenlang
 - FIFA-Gipfel: Infantino-Kritiker halten an Rücktrittsforderung fest - Friedenspreis auf Prüfstand
-- Kommt Sancho in Spanien unter? - Cottbus verlängert mit Guwara
-- Nach Remberg-Aus: Fehlt dem HSV auch Sambi Lokonga gegen Stuttgart?
-- "Ich weiß, dass er ungeduldig ist": Thioune schraubt Weiser-Erwartungen zurück
 
 **L'Equipe** (40)
-- Que valent les Girondins de Bordeaux avant le coup d'envoi de leur saison de Régional 1 ?
-- Pour le déplacement sur la pelouse du CSKA  Sofia en Ligue Conférence, Filipe Luis fait confiance aux revenants Takumi Minamino et Mohammed 
-- Fact-checking : le PSG peut-il vraiment « gérer » ses joueurs avant la Ligue des champions, comme le dit l'entraîneur de Manchester City Enz
-- Khalis Merah à la pointe de l'attaque : la composition de l'OL contre Crystal Palace en Ligue Europa
-- Berbatov : «Pour moi, le football est un art»
-- Licencié par Manchester United en 2026, Louis Van Gaal évoque « toutes les conséquences et les souffrances » qu'a causées Manchester City
-- « La FFF a pris la décision d'une mise à pied conservatoire, et il fait l'objet d'une demande d'entretien préalable » : Philippe Diallo pous
-- Où voir Lyon-Crystal Palace ?
-- Les cinq plus belles mi-temps du PSG sous l'ère Luis Enrique
-- Des flocages flous sur les maillots de Ligue 1 et de Ligue 2 ce week-end : la nouvelle campagne de sensibilisation de la LFP pour la santé v
-- L'OM risque des sanctions de la DNCG cet hiver
-- « Je ne savourais même plus les victoires » : Gareth Southgate explique pourquoi il s'est éloigné du foot après son départ de la sélection a
+- On a classé les 5 plus belles mi-temps du PSG sous Luis Enrique
+- Donnarumma, retrouvailles manquées avec le PSG
+- Pierre Sage, l'entraîneur de Crystal Palace, après la défaite à Lyon en Ligue Europa : « En déficit d'agressivité et de combativité »
+- Les notes d'OL-Crystal Palace : Nuamah, la puissance en action
+- Les notes de CSKA Sofia - Monaco : Sané rassurant, Nazinho négligent
+- La Belgique annonce la prochaine modification de l'article 27 de la FIFA, qui avait servi à requalifier Folarin Balogun pour le 8e de finale
+- Alphadjo Cisse nouvelle coqueluche de l'AC Milan, Torreense craque sur la fin contre Sunderland, Leverkusen cartonne en Ligue Europa
+- À quoi ressemble l'équipe de Bordeaux avant le coup d'envoi de sa saison ?
+- Monaco s'impose logiquement mais en se faisant un peu peur sur la pelouse du CSKA Sofia pour son entrée en lice en Ligue Conférence
+- Le milieu du PSG, clé du chef-d'oeuvre de la première période
+- L'OL s'offre une belle victoire au terme d'un scénario emballant contre le Crystal Palace de Pierre Sage
+- Torreense continue de régaler : la vidéo du but exceptionnel du club de D2 portugaise  contre Sunderland en Ligue Europa
 
 **Foot Mercato** (40)
-- Portugal : Vitinha lâche ses vérités sur le retour annoncé de Cristiano Ronaldo
-- Nike et le FC Barcelone dévoilent une nouvelle collection exclusive en collaboration avec Tyler, The Creator
-- Real Madrid : la statistique dramatique de Vinicius Jr face à la Roma
-- MLS : pourquoi Antoine Griezmann s’éclate autant à Orlando ?
-- CSKA Sofia - AS Monaco : les compositions officielles
-- Harry Kane va prolonger avec le Bayern Munich !
-- OL - Crystal Palace : les compositions officielles
-- JT Foot Mercato : Dembélé calme le jeu
-- OL : Pierre Sage s’offre une partie de pétanque avec des supporters lyonnais à Londres
-- Pourquoi ce FC Barcelone n’est toujours pas le grand favori pour gagner la Ligue des Champions
-- Les supporters de l’OM ont voulu en découdre avec les ultras de l’Olympiakos
-- OM : José Anigo donne de ses nouvelles
+- Crystal Palace : Pierre Sage très déçu de son retour à Lyon
+- Cesc Fabregas s’enflamme pour Anis Hadj Moussa
+- OM : le message du Vélodrome à la jeunesse
+- Guillermo Ochoa revient sur son transfert avorté au PSG
+- OL : la réaction à chaud de Khalis Merah
+- Ligue Europa Conférence : Monaco assure encore, l’Ajax tombe face à Hajduk Split
+- Ligue Europa : l’OL s’impose dans la souffrance, l’AC Milan cartonne et la surprise Omonia Nicosie frappe encore !
+- Manchester United : Lisandro Martinez va rencontrer les dirigeants
+- Coupe du Monde : Philippe Diallo cartonne Gianni Infantino
+- OM - Olympiakos : les compositions officielles
+- Rennes - OFI : les compositions officielles
+- Ligue des Champions : Aston Villa chambre Mattéo Guendouzi
 
 **Record** (20)
-- <![CDATA[ Samu marcou o golo do dia na Champions ]]>
-- <![CDATA[ Varzim avança com Assembleia Geral para discutir criação de SAD ]]>
-- <![CDATA[ Francisca Jorge perde no confronto com Francesca Jones no Lisboa Belém Open ]]>
-- <![CDATA[ Torreense-Sunderland, em direto ]]>
-- <![CDATA[ Matilde Jorge desperdiça seis ‘match points’ e deixa singulares do Lisboa Belém Open ]]>
-- <![CDATA[ ‘We Where Here Tomorrow’ materializa-se a 20 de outubro ]]>
-- <![CDATA[ Rui Rodrigues: «Direção do V. Guimarães acredita no contributo da VSports» ]]>
-- <![CDATA[ Alexandre Santos quer ter o "prazer de ganhar" ]]>
-- <![CDATA[ Tenista sérvio suspenso por 24 anos por recrutar atletas para jogos combinados ]]>
-- <![CDATA[ André Castro multado e suspenso por 10 dias ]]>
-- <![CDATA[ Argentina goleia Itália e avança para as meias-finais do Mundial de hóquei em patins ]]>
-- <![CDATA[ Lyon-Crystal Palace, em direto ]]>
+- <![CDATA[ Celta de Vigo-Juventus, em direto ]]>
+- <![CDATA[ Carlos Simões: «Sunderland foi obrigado a recorrer ao banco para mudar o resultado» ]]>
+- <![CDATA[ Sofia Barroso Sá vai jogar o Super Bock Ladies Open at Vidago ]]>
+- <![CDATA[ Angola-Portugal, 1-2 (1.ª parte) ]]>
+- <![CDATA[ A montra de primeira e o sonho de enfrentar... o FC Porto: Salgueiros recebe clube da 1.ª Liga 24 anos depois ]]>
+- <![CDATA[ EMJOGO, o software para ajudar clubes que já conquistou o Sporting ]]>
+- <![CDATA[ Copenhaga-Sp. Braga, 1-0 (2.ª parte) ]]>
+- <![CDATA[ Benfica-Celtic, 3-1 (2.ª parte) ]]>
+- <![CDATA[ Tiago Mendes e a passagem curta pelo V. Guimarães: «Aí decidi que não treino mais, não é para mim...» ]]>
+- <![CDATA[ Portugal fica sem representantes no Europeu de ténis de mesa ]]>
+- <![CDATA[ Armada lusa com entrada forte no QS2000 de Razo, na Corunha ]]>
+- <![CDATA[ Novamente Prestianni a assistir... desta feita para o bis de Durán: Benfica chega ao 3-0 ]]>
 
 **Ole** (10)
-- Consejo de la FIFA: Infantino se disculpó por el intento de privatizar el Mundial pero la UEFA no afloja...
-- El goleador inesperado de River que expone la sequía de los delanteros
-- Un compañero de Franco Colapinto en Alpine podría perder su licencia de conducir
-- Por qué no fue habilitado Marcos Rojo por Conmebol
-- Video: Guido Carrillo confesó qué cambiaría por ganar la Libertadores con Estudiantes
-- Por Verón, el antecedente de Estudiantes en el TAS
-- Revelaron tres informes inéditos de un joven Messi en Barcelona: "Es un Maradona" y "no se debe fichar"
-- Wayne Rooney liquidó a Cristiano Ronaldo por el final de su carrera: "No lo está llevando bien, resulta incómodo de ver"
-- Racing vs. Independiente, EN VIVO: Cambeses y Marcone hablan antes del Clásico de Avellaneda
-- Fin de la novela: Boca jugará la vuelta ante Vasco en el Maracaná
+- Infantino: saludo distante con Ceferin y sus explicaciones
+- Las perlitas en el regreso de la Conference League: gol olímpico, errados, un sablazo de Salah y todos los argentinos
+- Armá tu 11 de Boca para enfrentar a Talleres
+- Ahora sí: Estudiantes e Independiente Rivadavia ya tienen fecha para la Supercopa Argentina 2026
+- Con la llegada de Rafael Camara a Haas, ¿cuántas butacas quedan libres y cómo está la parrilla para 2027?
+- Verstappen y Rossi, duelo de gigantes: cuándo y dónde verlos competir en Gran Turismo
+- Jugó la Libertadores, perdió un ojo y hoy es repartidor: "Vendo sándwiches para mantener a mi familia"
+- Revolución en la ATP para 2028: nuevo ranking, Masters 1000 en Arabia Saudita y premios récord
+- La fuerte revelación de Brian Fernández: "Consumí cocaína a los 13 años"
+- River, afuera de los playoffs y en la cornisa de la Copa Libertadores: las cuentas que hacen en Núñez
 
 **Infobae** (40)
+- La lesión de Lautaro Martínez que encendió las alarmas de la selección argentina: el comunicado del Inter
+- “Nefasto”: las repercusiones sobre el polémico informe que le recomendaba al Barcelona “no fichar” a Messi cuando tenía 13 años
+- El nuevo comunicado de Lisandro Martínez tras la polémica con la dirigencia del United: la sanción que pone en vilo su futuro
+- Argentina será sede por primera vez del Mundial de Powerchair Football y buscará ser protagonista
+- Las crudas revelaciones de Brian Fernández: “Probé la cocaína cuando tenía 13 años”
+- El histórico arquero que anunció su separación horas después de ser figura contra el Inter de Lautaro Martínez en la Champions
+- Tras varias idas y vueltas, se confirmó la sede de la revancha de la semifinal de la Copa Sudamericana entre Vasco y Boca
 - Estudiantes abre su llave de semifinales de Copa Libertadores ante Flamengo en La Plata: hora, TV y probables formaciones
+- Huracán y Gimnasia La Plata abrirán la fecha 13 del Torneo Clausura: hora, TV y probables formaciones
+- Anunció su retiro en 2002, pero una negociación de último momento lo cambió todo: así sumó Ferguson una década extra en Manchester United
+- 30 fotos del entierro y el último adiós a Jorge Locomotora Castro
 - Andrés Nocioni quedó involucrado en un accidente de lanchas en el río Paraná: el mensaje de la gloria del básquet argentino
-- Expectativa en Alpine por la presentación de un ingeniero estrella de la Fórmula 1: “Llevaremos al equipo a un nivel diferente”
-- Un entrenador de gimnasia juvenil escondió una cámara en el baño de su gimnasio y grabó a al menos 10 niñas: lo condenaron a 90 años de pris
-- Una atleta de 25 años murió tras descompensarse a 500 metros de la meta en la media maratón de Seúl en Corea del Sur: la estremecedora carta
-- Suspendieron por 24 años a un tenista tras ser acusado de reclutar jugadores para una red de amaño de partidos
-- Amagó una rabona, pero acomodó la pelota y dio una asistencia que recorre el mundo: el gesto técnico de Lamine Yamal que sorprendió a Thierr
-- Estudiantes de La Plata confirmó que Marcos Rojo no podrá jugar la Copa Libertadores: el comunicado
-- El penal interminable: hizo una insólita caminata antes de patear, le regaló la pelota al arquero y puso en riesgo el pase a la final de su 
-- Haas confirmó a un “rookie” sudamericano como reemplazante de Esteban Ocon y sólo quedan tres butacas sin dueño en la F1 para 2027
-- Revelaron la encendida arenga de Santiago Sosa a sus compañeros del Vasco da Gama antes del triunfo en la Bombonera sobre Boca Juniors
-- “No recuerdo nada”: el escalofriante video de la lesión en el cuello que sufrió un luchador de Muay Thai tras recibir una patada que lo dejó
 
 **Google News AR** (40)
+- Así se jugará la 30
 - La crítica de un campeón del mundo al fútbol argentino
-- Comienza la fecha 13
+- Franco González: "Del fútbol no me olvidé de jugar"
+- Alerta en Inglaterra: el 94% de los clubes de fútbol está en déficit financiero
+- Fútbol femenino: no todas las jugadoras pueden vivir del deporte rey, según FIFPRO
+- Fechas confirmadas para las definiciones de todos los títulos del fútbol argentino en 2026
+- Liga Regional de Fútbol. Independiente de Rivera hará de local en la cancha de Deportivo Rivera
+- Lisandro Martínez aclaró su situación en el United tras los dichos contra la dirigencia
 - BYD desembarca en el fútbol argentino: la automotriz china será sponsor de la Liga Profesional
-- Mundial de Fútbol Femenino Sub 17 Marruecos 2026
-- Una de las marcas de autos eléctricos más importantes pone un pie en el fútbol argentino
-- Fabbiani reveló lo duro que es dirigir en el fútbol argentino: “Te pagan un mes y cuatro no”
-- Qué dejó la undécima fecha del fútbol azuleño
-- Fútbol local: Palermo trituró a Huracán y dio vuelta todo en pocos días
-- Jueves a puro fútbol: se juegan 36 partidos entre la Europa League y la Conference League
-- El fútbol bajo la lupa: poder, causas judiciales y la nueva batalla por contar lo que pasa en la AFA
-- De papi fútbol: el golazo viral del Inter Miami con toques de Messi y De Paul
-- Cipolletti, 100 años de historia en el fútbol patagónico
+- Haití planea la construcción de dos estadios de fútbol para jugar partidos internacionales
+- Lautaro Martínez se lesionó y podría perderse la próxima fecha FIFA
+- Banfield vs. Argentinos Juniors en vivo: cómo llegan al partido
 
 **ge.globo** (40)
-- Bayern observa joia do Cruzeiro em torneio com Seleção Sub-17; veja valores estimados
-- CSKA Sofia x Monaco - Liga Conferência 2026/27 - Ao vivo - globoesporte.com
-- Fluminense se apega à vitória heroica contra o Palmeiras e à força da torcida por virada na Libertadores
-- Cuiabá quita dívida de transfer ban e cobra R$ 45 milhões de clubes brasileiros
-- Pulgar, do Flamengo, e presidente do Fluminense são absolvido no STJD por incidentes no clássico
-- STJ não atende pedido de Flamengo e Fluminense e mantém Vasco x Boca Juniors no Maracanã
-- Com dois jogos fora de casa, zagueiro do Criciúma reforça objetivo do ano: "Brigar pelo G2"
-- Barra renova com o técnico Evaristo Piza para a Série C de 2027
-- Artilharia da Champions por país: Espanha e França dividem liderança; Brasil cai para o 5º lugar
-- Atlético-MG x Santos: Ruan Tressoldi é advertido pelo STJD por empurrar Gabigol
-- Vantagem verde
-- Atlético-MG iguala recorde com placar em ida da semifinal da Sul-Americana; veja resultados
+- Independiente Dragonas x Belgrano - Taça Libertadores Feminina 2026 - Ao vivo - globoesporte.com
+- De Figo a Tévez: veja nomes que foram alvo de antigas torcidas como Arias em Flu x Palmeiras
+- Decisivo e titular do Flamengo na Libertadores, Bruno Henrique pode ultrapassar Riquelme em participações de gols
+- Escalação do São Paulo: Calleri, Luciano e Ferreira treinam e devem jogar contra o Vasco
+- Boca joga nesta sexta e corre para ter Paredes e Velasco contra o Vasco; veja onde assistir e horário
+- Monaco de Filipe Luís vence o CSKA Sofia pela Liga Conferência
+- Cartola 2026: veja seis dicas pouco visadas para a defesa na rodada #31 do Brasileirão
+- Corinthians teve 15 treinadores desde último jogo de Seedorf como técnico; veja lista
+- Escalação do Palmeiras: Vitor Roque segue em tratamento e é dúvida
+- Senhor Sul-Americana: Adson aparece de novo e se coloca como protagonista do Vasco em campanha
+- CBF negocia amistosos da Seleção só no Brasil antes da Copa de 2027 e planeja despedida; veja cidades
+- Zagueiro que cobrou reforços e criticou diretoria do United volta atrás: "Quero me desculpar"
 
 **r/soccer (top día)** (25)
-- PSG fans doing the Poznan at the Etihad Stadium after scoring a 3rd goal
-- Manchester City 0-[2] PSG - Ousmane Dembélé 15'
 - Penalty kick at the Caribbean Cup semifinal
-- [Marca] Vinicius misses the El Classico: Four games suspended
+- A journalist uncovered three reports Barça scouts wrote about 13-year-old Messi. The first praised his technical ability, the second doubted
 - Dembele: "I'm having a blast playing, especially when I come back from vacation. I'm gonna take some more vacation, until March I think."
 - Villa fans appreciating Mason Greenwood
-- A journalist uncovered three reports Barça scouts wrote about 13-year-old Messi. The first praised his technical ability, the second doubted
-- LASK 0-[3] Liverpool - Bradley Barcola 37'
-- Real Betis [1]-0 FC Porto - Abdessamad Ezzalzouli great goal 47'
 - Laliga goes 5/5 in Champions League with five wins for the first time in history
-- Manchester City 0 - [3] PSG - Vitinha 32'
-- PSG commentator has a "strong" reaction to player's skill in U19 UCL match vs Manchester City
+- AS Roma 3 - [4] Real Madrid - A. Rüdiger 90'
+- Marseille and AEK ultras went hotel to hotel, looking for Olympiacos fans before today's Europa League game. French authorities on Tuesday c
+- Torreense [1]-0 Sunderland - Volnei 37'
+- [Talksport] Antonio Conte's team tell Man United he is open to replacing Michael Carrick
+- Thibault Courtois completed more passes (19) during the first half against Roma than Tchouameni (17) and Valverde (16)
+- Jose Mourinho "The bad first half is the manager's fault; the good second half is the players' fault."
+- Kees van Wonderen swapping Nico Paz' shirt with his fathers'. He played his father in the UEFA Cup in 1996.
 
 Fallaron: ESPN (ParseError), Goal (HTTPError), Independent (ParseError), Football365 (HTTPError), Marca (HTTPError), Sport (HTTPError), Calciomercato (HTTPError), TN (HTTPError)
