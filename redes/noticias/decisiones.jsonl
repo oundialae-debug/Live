@@ -43,3 +43,7 @@
 {"t": "2026-10-15T17:18+00:00", "estado": "publicado", "temas": ["Infantino"], "clave": "infantino-fifa-controversy", "video": "https://raw.githubusercontent.com/oundialae-debug/live/main/media/noticias/2026-10-15_1918_infantino-fifa-controversy.mp4"}
 {"t": "2026-10-15T17:18+00:00", "estado": "descartar", "temas": ["Lamine"], "clave": "lamine-records", "motivo": "falta question"}
 {"t": "2026-10-15T17:18+00:00", "estado": "descartar", "temas": ["Chelsea"], "clave": "chelsea-break-benefit", "motivo": "importancia 6 < 7"}
+{"t": "2026-10-15T20:31+00:00", "estado": "revisar", "temas": ["Barcelona"], "clave": "barcelona-galatasaray-thrashing", "motivo": "datos que no salen en los titulares: 100, Next"}
+{"t": "2026-10-15T20:31+00:00", "estado": "revisar", "temas": ["Barcelona"], "clave": "lamine-yamal-record", "motivo": "datos que no salen en los titulares: Gerrard, Hazard, Totti"}
+{"t": "2026-10-15T20:31+00:00", "estado": "descartar", "temas": ["Sunderland"], "clave": "sunderland-europa-tie", "motivo": "importancia 6 < 7"}
+{"t": "2026-10-15T20:31+00:00", "estado": "descartar", "temas": ["Europa"], "clave": "european-football-highlights", "motivo": "importancia 4 < 7"}

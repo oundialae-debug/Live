@@ -144,3 +144,21 @@
 - Foot Mercato: La nouvelle déroute de l’Inter Milan en Ligue des Champions laisse l’Italie sous le choc
 - Google News AR: Fútbol libre de riesgo, EN VIVO: dónde ver Inter Miami vs. New York City por TV y ONLINE
 
+## 15/10 22:31 · Barcelona 4-1 Galatasaray · revisar
+- Motivo: datos que no salen en los titulares: 100, Next
+- Temas: Barcelona
+- Yahoo: Former Barcelona defender identifies key weakness Flick must fix to win the Champions League: ‘I hope I’m wrong, but…’
+- Yahoo: Former Barcelona star Thiago highlights the differences between Flick and Guardiola: ‘So close to the players’
+- Yahoo: This is how Barcelona neutralised Galatasaray’s most dangerous attacking threat in 4-1 Champions League victory
+- Yahoo: Mourinho takes dig at Barcelona with ‘congratulations’ to Italy
+- Yahoo: Arsenal women’s game v Barcelona moved due to strikes
+
+## 15/10 22:31 · Yamal tops assist chart · revisar
+- Motivo: datos que no salen en los titulares: Gerrard, Hazard, Totti
+- Temas: Barcelona
+- Yahoo: Former Barcelona defender identifies key weakness Flick must fix to win the Champions League: ‘I hope I’m wrong, but…’
+- Yahoo: Former Barcelona star Thiago highlights the differences between Flick and Guardiola: ‘So close to the players’
+- Yahoo: This is how Barcelona neutralised Galatasaray’s most dangerous attacking threat in 4-1 Champions League victory
+- Yahoo: Mourinho takes dig at Barcelona with ‘congratulations’ to Italy
+- Yahoo: Arsenal women’s game v Barcelona moved due to strikes
+
