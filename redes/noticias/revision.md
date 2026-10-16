@@ -162,3 +162,21 @@
 - Yahoo: Mourinho takes dig at Barcelona with ‘congratulations’ to Italy
 - Yahoo: Arsenal women’s game v Barcelona moved due to strikes
 
+## 16/10 13:49 · Chelsea captain sidelined · revisar
+- Motivo: categoría sensible: injury
+- Temas: Chelsea
+- talkSPORT: Everton v Chelsea LIVE commentary: Xabi Alonso looks to fix poor record on Merseyside
+- Daily Mail: 'The first time I saw him play, I thought: "God exists"': Inside Estevao Willian's journey from Brazil to Stamford Bridge - as Chelsea Confidential is given exclusive access to intimate documentary which offers hint on teenager's future
+- Guardian: Chelsea are the Premier League’s most fun team but is it sustainable?
+- Yahoo: Real Madrid mid field target valued at over £100m could leave in January with Chelsea keen
+- Yahoo: Update On Chelsea And Their Pursuit Of This Bournemouth Star: What Should Alonso Do?
+
+## 16/10 13:49 · Kane extends Bayern stay · revisar
+- Motivo: datos que no salen en los titulares: European, German
+- Temas: Kane
+- FourFourTwo: JULES BREACH: Harry Kane has had the season of his life and deserves to become the first Englishman since Michael Owen to win the Ballon d'Or
+- Yahoo: Malen ranked with Kane and Raphinha as Europe’s top striker
+- L'Equipe: « C'est le meilleur au monde à ce poste » : Dimitar Berbatov fan de Harry Kane
+- Sky Sports: Kane agrees new deal in principle with Bayern Munich
+- talkSPORT: Graeme Souness: Goal machine Harry Kane is a worthy Ballon d’Or winner but there is one catch
+

@@ -47,3 +47,8 @@
 {"t": "2026-10-15T20:31+00:00", "estado": "revisar", "temas": ["Barcelona"], "clave": "lamine-yamal-record", "motivo": "datos que no salen en los titulares: Gerrard, Hazard, Totti"}
 {"t": "2026-10-15T20:31+00:00", "estado": "descartar", "temas": ["Sunderland"], "clave": "sunderland-europa-tie", "motivo": "importancia 6 < 7"}
 {"t": "2026-10-15T20:31+00:00", "estado": "descartar", "temas": ["Europa"], "clave": "european-football-highlights", "motivo": "importancia 4 < 7"}
+{"t": "2026-10-16T11:49+00:00", "estado": "revisar", "temas": ["Chelsea"], "clave": "chelsea-captain-injury", "motivo": "categoría sensible: injury"}
+{"t": "2026-10-16T11:49+00:00", "estado": "revisar", "temas": ["Kane"], "clave": "kane-bayern-contract", "motivo": "datos que no salen en los titulares: European, German"}
+{"t": "2026-10-16T11:49+00:00", "estado": "descartar", "temas": ["Sunderland"], "clave": "sunderland-torreense-live", "motivo": "importancia 6 < 7"}
+{"t": "2026-10-16T11:49+00:00", "estado": "descartar", "temas": ["Celtic"], "clave": "benfica-celtic-live", "motivo": "importancia 6 < 7"}
+{"t": "2026-10-16T11:49+00:00", "estado": "descartar", "temas": ["Europa"], "clave": "europa-league-overview", "motivo": "importancia 6 < 7"}
