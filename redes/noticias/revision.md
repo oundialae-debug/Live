@@ -180,3 +180,12 @@
 - Sky Sports: Kane agrees new deal in principle with Bayern Munich
 - talkSPORT: Graeme Souness: Goal machine Harry Kane is a worthy Ballon d’Or winner but there is one catch
 
+## 16/10 18:55 · Conference League fixtures · revisar
+- Motivo: sin foto buena con cara visible
+- Temas: Conference
+- Yahoo: Can Ajax win the Conference League?
+- Google News ES: Universitatea Craiova vs Getafe de Conference League 2026/2027: horario y dónde ver hoy por TV online el partido en España
+- Planet Football: 9 forgotten ballers playing in the UEFA Conference League this season
+- AS: Universitatea Craiova - Getafe en directo: UEFA Conference League hoy, en vivo
+- AS: CSKA-Mónaco, en directo: Conference League, hoy en vivo
+
