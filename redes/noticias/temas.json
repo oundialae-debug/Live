@@ -1,9 +1,9 @@
 {
- "generado": "2026-10-16T11:48+00:00",
+ "generado": "2026-10-16T16:53+00:00",
  "temas": [
   {
    "tema": "Europa",
-   "medios": 16,
+   "medios": 18,
    "lista_medios": [
     "AS",
     "Daily Mail",
@@ -18,8 +18,10 @@
     "L'Equipe",
     "Mundo Deportivo",
     "Planet Football",
+    "Record",
     "Sky Sports",
     "Yahoo",
+    "ge.globo",
     "talkSPORT"
    ],
    "primera_vez": "2026-10-15T11:58+00:00",
@@ -95,6 +97,477 @@
      "titulo": "Europa League LIVE! Palace behind at Lyon as Sunderland visit Torreense",
      "url": "https://www.skysports.com/football/lyon-vs-crystal-palace/live/577769",
      "pub": "2026-10-15T15:12+00:00"
+    }
+   ]
+  },
+  {
+   "tema": "Arsenal",
+   "medios": 16,
+   "lista_medios": [
+    "BBC",
+    "Daily Mail",
+    "Foot Mercato",
+    "Football Italia",
+    "FourFourTwo",
+    "Google News AR",
+    "Google News EN",
+    "Google News ES",
+    "Guardian",
+    "Mirror",
+    "Mundo Deportivo",
+    "Record",
+    "Sky Sports",
+    "Yahoo",
+    "ge.globo",
+    "talkSPORT"
+   ],
+   "primera_vez": "2026-10-15T11:58+00:00",
+   "titulares": [
+    {
+     "medio": "Yahoo",
+     "titulo": "Arsenal get controversial referee for Nottingham Forest trip",
+     "url": "https://sports.yahoo.com/articles/arsenal-controversial-referee-nottingham-forest-110500777.html",
+     "pub": "2026-10-15T11:05+00:00"
+    },
+    {
+     "medio": "Foot Mercato",
+     "titulo": "Arsenal va supprimer 60 emplois",
+     "url": "https://www.footmercato.net/a3339604898943212584-arsenal-va-supprimer-60-emplois",
+     "pub": "2026-10-15T11:23+00:00"
+    },
+    {
+     "medio": "talkSPORT",
+     "titulo": "Arsenal given renewed hope of Vinicius Jr move after summer ‘regrets’",
+     "url": "https://talksport.com/football/4643826/arsenal-vinicius-jr-transfer-update-real-madrid/",
+     "pub": "2026-10-15T15:17+00:00"
+    },
+    {
+     "medio": "Yahoo",
+     "titulo": "Arsenal boss Slegers provides update on Mariona and Cerci ahead of Birmingham City fixture",
+     "url": "https://sports.yahoo.com/articles/arsenal-boss-slegers-provides-mariona-161200433.html",
+     "pub": "2026-10-15T16:12+00:00"
+    },
+    {
+     "medio": "Google News EN",
+     "titulo": "Women's Super League: Injured Arsenal star Mariona Caldentey out for up to 10 weeks",
+     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9zWnMyblNiQUhEQktuLXBOMHNnamFaME94UmM0U3BPYkxZczJrUndtNm9uWkZpcjRaR1lXNUJGZUoyMEF6UlJXVnZCOWpnOEhISUlGdGh2eWdvMmN3RTVodU9KQ2RabkIySWdr?oc=5",
+     "pub": "2026-10-15T13:35+00:00"
+    },
+    {
+     "medio": "Mundo Deportivo",
+     "titulo": "Algo pasa con Saliba y el Arsenal",
+     "url": "https://www.mundodeportivo.com/futbol/premier-league/20261015/1004239141/pasa-saliba-arsenal.html",
+     "pub": ""
+    },
+    {
+     "medio": "Mundo Deportivo",
+     "titulo": "Win, el perro adoptado por Arteta, roba el protagonismo en la foto oficial del Arsenal",
+     "url": "https://www.mundodeportivo.com/futbol/premier-league/20261015/1004239245/win-perro-adoptado-arteta-motivar-equipo-roba-protagonismo-foto-oficial-arsenal.html",
+     "pub": ""
+    },
+    {
+     "medio": "Guardian",
+     "titulo": "The WSL so far: goal-shy Arsenal, underrated Brighton and more data pointers",
+     "url": "https://www.theguardian.com/football/2026/oct/16/the-wsl-so-far-goal-shy-arsenal-underrated-brighton-and-more-data-pointers",
+     "pub": "2026-10-16T09:00+00:00"
+    },
+    {
+     "medio": "talkSPORT",
+     "titulo": "Where to watch Nottingham Forest v Arsenal as Premier League confirm controversial referee decision",
+     "url": "https://talksport.com/football/4646831/where-watch-nottingham-forest-arsenal-commentary-score-time-teams-channel/",
+     "pub": "2026-10-16T11:34+00:00"
+    },
+    {
+     "medio": "talkSPORT",
+     "titulo": "Arsenal star feared he would have to retire last season over injury doctors have never seen",
+     "url": "https://talksport.com/football/4647659/arsenal-star-feared-retirement-injury-spain-mikel-merino/",
+     "pub": "2026-10-16T11:03+00:00"
+    },
+    {
+     "medio": "Daily Mail",
+     "titulo": "Arsenal star Mikel Merino admits he's 'fortunate to be alive' after 'an angel' saved him during Borussia Dortmund bus bombing",
+     "url": "https://www.dailymail.com/sport/football/article-16213079/Arsenal-Mikel-Merino-alive-Borussia-Dortmund-bombing.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+     "pub": "2026-10-15T22:19+00:00"
+    },
+    {
+     "medio": "Mirror",
+     "titulo": "Arsenal eye shock transfer for Bayern Munich flop with backroom figure leading the charge",
+     "url": "https://www.mirror.co.uk/sport/football/transfer-news/arsenal-january-targets-bayern-munich-37778688",
+     "pub": "2026-10-16T09:05+00:00"
+    }
+   ]
+  },
+  {
+   "tema": "Chelsea",
+   "medios": 14,
+   "lista_medios": [
+    "Daily Mail",
+    "Foot Mercato",
+    "Google News AR",
+    "Google News EN",
+    "Guardian",
+    "Kicker",
+    "L'Equipe",
+    "Mirror",
+    "Mundo Deportivo",
+    "Record",
+    "Sky Sports",
+    "Yahoo",
+    "ge.globo",
+    "talkSPORT"
+   ],
+   "primera_vez": "2026-10-15T11:58+00:00",
+   "titulares": [
+    {
+     "medio": "talkSPORT",
+     "titulo": "Everton v Chelsea LIVE commentary: Xabi Alonso looks to fix poor record on Merseyside",
+     "url": "https://talksport.com/football/4644927/everton-chelsea-live-commentary-time-score-teams-channel/",
+     "pub": "2026-10-15T10:25+00:00"
+    },
+    {
+     "medio": "Daily Mail",
+     "titulo": "'The first time I saw him play, I thought: \"God exists\"': Inside Estevao Willian's journey from Brazil to Stamford Bridge - as Chelsea Confidential is given exclusive access to intimate documentary which offers hint on teenager's future",
+     "url": "https://www.dailymail.com/sport/football/article-16208981/estevao-willian-chelsea-stamford-bridge.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+     "pub": "2026-10-15T11:09+00:00"
+    },
+    {
+     "medio": "Guardian",
+     "titulo": "Chelsea are the Premier League’s most fun team but is it sustainable?",
+     "url": "https://www.theguardian.com/football/who-scored-blog/2026/oct/15/chelsea-premier-league-fun-team-sustainable-xabi-alonso-europe",
+     "pub": "2026-10-15T15:30+00:00"
+    },
+    {
+     "medio": "Yahoo",
+     "titulo": "Real Madrid mid field target valued at over £100m could leave in January with Chelsea keen",
+     "url": "https://sports.yahoo.com/articles/real-madrid-mid-field-target-154900576.html",
+     "pub": "2026-10-15T15:49+00:00"
+    },
+    {
+     "medio": "Yahoo",
+     "titulo": "Update On Chelsea And Their Pursuit Of This Bournemouth Star: What Should Alonso Do?",
+     "url": "https://sports.yahoo.com/articles/chelsea-pursuit-bournemouth-star-alonso-195000740.html",
+     "pub": "2026-10-15T19:50+00:00"
+    },
+    {
+     "medio": "Yahoo",
+     "titulo": "Sarri: ‘Atalanta must be humble, perhaps an error to leave Chelsea’",
+     "url": "https://sports.yahoo.com/articles/sarri-atalanta-must-humble-perhaps-185500820.html",
+     "pub": "2026-10-15T18:55+00:00"
+    },
+    {
+     "medio": "Yahoo",
+     "titulo": "Welbeck And Lavia To Start | 3-4-3 Chelsea Predicted Lineup Vs Everton",
+     "url": "https://sports.yahoo.com/articles/welbeck-lavia-start-3-4-182500027.html",
+     "pub": "2026-10-15T18:25+00:00"
+    },
+    {
+     "medio": "Sky Sports",
+     "titulo": "Chelsea captain James out for around three months",
+     "url": "https://www.skysports.com/football/news/12040/13599896/reece-james-chelsea-captain-out-for-around-three-months-after-minor-surgery-on-knee-injury-picked-up-in-training",
+     "pub": "2026-10-16T11:06+00:00"
+    },
+    {
+     "medio": "talkSPORT",
+     "titulo": "Reece James forced to undergo surgery as Chelsea star suffers another injury",
+     "url": "https://talksport.com/football/4647376/chelsea-reece-james-surgery-injury-training/",
+     "pub": "2026-10-16T08:39+00:00"
+    },
+    {
+     "medio": "Daily Mail",
+     "titulo": "Reece James set for THREE months on the sidelines after knee surgery in major blow to Chelsea - as club give update on injured captain after he missed 5-1 win over Bournemouth",
+     "url": "https://www.dailymail.com/sport/football/article-16214089/Chelsea-confirm-captain-Reece-James-undergone-knee-surgery.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+     "pub": "2026-10-16T10:29+00:00"
+    },
+    {
+     "medio": "Yahoo",
+     "titulo": "Chelsea captain Reece James facing three months out after successful knee surgery",
+     "url": "https://sports.yahoo.com/articles/chelsea-captain-reece-james-facing-114000422.html",
+     "pub": "2026-10-16T11:40+00:00"
+    },
+    {
+     "medio": "Yahoo",
+     "titulo": "Chelsea captain suffers 3-month injury",
+     "url": "https://sports.yahoo.com/articles/chelsea-captain-suffers-3-month-113500433.html",
+     "pub": "2026-10-16T11:35+00:00"
+    }
+   ]
+  },
+  {
+   "tema": "Sunderland",
+   "medios": 12,
+   "lista_medios": [
+    "BBC",
+    "Daily Mail",
+    "Foot Mercato",
+    "FourFourTwo",
+    "Google News EN",
+    "Guardian",
+    "L'Equipe",
+    "Mundo Deportivo",
+    "Record",
+    "Sky Sports",
+    "Yahoo",
+    "talkSPORT"
+   ],
+   "primera_vez": "2026-10-15T11:58+00:00",
+   "titulares": [
+    {
+     "medio": "BBC",
+     "titulo": "The Portuguese second-tier team hosting Sunderland in Europe",
+     "url": "https://www.bbc.co.uk/sport/football/articles/cw99zxvyzj04o?at_medium=RSS&at_campaign=rss",
+     "pub": "2026-10-15T07:30+00:00"
+    },
+    {
+     "medio": "Yahoo",
+     "titulo": "AZ Alkmaar looking to kickstart Europa League campaign following opening day defeat to Sunderland",
+     "url": "https://sports.yahoo.com/articles/az-alkmaar-looking-kickstart-europa-112000694.html",
+     "pub": "2026-10-15T11:20+00:00"
+    },
+    {
+     "medio": "Google News EN",
+     "titulo": "Torreense: The Portuguese minnows hoping to upset Sunderland and Celtic",
+     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFA3ZkZDLUg1aW5HeVRJT1VORFRGcGtKaEJEdmFjbFBVVE9zMnd0MDRNNW1zUzFTX2xXMUMtbTJscmd3T1A0OERDUDJsbFdPc3dKd0EyNEJBTUZoekxHeENjemJrRElob185SUJn?oc=5",
+     "pub": "2026-10-15T07:30+00:00"
+    },
+    {
+     "medio": "Guardian",
+     "titulo": "Lyon v Crystal Palace, Torreense v Sunderland, and more: Europa League – live",
+     "url": "https://www.theguardian.com/football/live/2026/oct/15/lyon-v-crystal-palace-torreense-v-sunderland-and-more-europa-league-live",
+     "pub": "2026-10-15T17:14+00:00"
+    },
+    {
+     "medio": "Sky Sports",
+     "titulo": "Europa League LIVE! Palace behind at Lyon as Sunderland visit Torreense",
+     "url": "https://www.skysports.com/football/lyon-vs-crystal-palace/live/577769",
+     "pub": "2026-10-15T15:12+00:00"
+    },
+    {
+     "medio": "FourFourTwo",
+     "titulo": "How to watch Torreense vs Sunderland: Live Streams",
+     "url": "https://www.fourfourtwo.com/competition/watch-torreense-vs-sunderland-europa-league-2026-27",
+     "pub": "2026-10-15T13:00+00:00"
+    },
+    {
+     "medio": "Yahoo",
+     "titulo": "Torreense v Sunderland",
+     "url": "https://sports.yahoo.com/articles/torreense-v-sunderland-170356062.html",
+     "pub": "2026-10-15T17:03+00:00"
+    },
+    {
+     "medio": "Mundo Deportivo",
+     "titulo": "Torreense - Sunderland, en directo | Europa League",
+     "url": "https://www.mundodeportivo.com/futbol/europa-league/20261015/1004237176/torreense-sunderland-directo-europa-league.html",
+     "pub": ""
+    },
+    {
+     "medio": "Guardian",
+     "titulo": "Noah Sadiki stunner earns Sunderland dramatic late win against Torreense",
+     "url": "https://www.theguardian.com/football/2026/oct/15/torreense-sunderland-europa-league-match-report",
+     "pub": "2026-10-15T19:14+00:00"
+    },
+    {
+     "medio": "Sky Sports",
+     "titulo": "Sadiki nets late winner as Sunderland survive huge scare at Torreense",
+     "url": "https://www.skysports.com/football/torreense-vs-sunderland/report/577775",
+     "pub": "2026-10-15T19:30+00:00"
+    },
+    {
+     "medio": "talkSPORT",
+     "titulo": "Sunderland set European record no other English club have managed after dramatic win",
+     "url": "https://talksport.com/football/4647024/sunderland-european-record-europa-league-torreense/",
+     "pub": "2026-10-15T20:16+00:00"
+    },
+    {
+     "medio": "Daily Mail",
+     "titulo": "Sunderland score last-gasp Europa League winner as Crystal Palace fall to defeat in five-goal thriller against Lyon",
+     "url": "https://www.dailymail.com/sport/football/article-16211081/Sunderland-Europa-League-Crystal-Palace-Bournemouth-Brighton.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+     "pub": "2026-10-15T20:25+00:00"
+    }
+   ]
+  },
+  {
+   "tema": "Barcelona",
+   "medios": 12,
+   "lista_medios": [
+    "AS",
+    "BBC",
+    "FourFourTwo",
+    "Google News EN",
+    "Google News ES",
+    "Infobae",
+    "Mundo Deportivo",
+    "Ole",
+    "Record",
+    "Yahoo",
+    "ge.globo",
+    "talkSPORT"
+   ],
+   "primera_vez": "2026-10-15T11:58+00:00",
+   "titulares": [
+    {
+     "medio": "BBC",
+     "titulo": "Why Souness rejected Barcelona when he left Liverpool",
+     "url": "https://www.bbc.co.uk/sport/football/articles/cm0j07pdw95eo?at_medium=RSS&at_campaign=rss",
+     "pub": "2026-10-15T08:30+00:00"
+    },
+    {
+     "medio": "FourFourTwo",
+     "titulo": "Barcelona gave Tyler, The Creator complete creative control for next El Clasico kit - and the result is stunning",
+     "url": "https://www.fourfourtwo.com/products-kit/barcelona-gave-tyler-the-creator-complete-creative-control-for-next-el-clasico-kit-and-the-result-is-stunning",
+     "pub": "2026-10-15T07:05+00:00"
+    },
+    {
+     "medio": "Yahoo",
+     "titulo": "Barcelona youth team star celebrates contract renewal with winning goal vs Galatasaray: ‘It’s my life’s dream’",
+     "url": "https://sports.yahoo.com/articles/barcelona-youth-team-star-celebrates-114000504.html",
+     "pub": "2026-10-15T11:40+00:00"
+    },
+    {
+     "medio": "Yahoo",
+     "titulo": "Key Barcelona duo complete full training as they target return against Real Betis",
+     "url": "https://sports.yahoo.com/articles/key-barcelona-duo-complete-full-112000539.html",
+     "pub": "2026-10-15T11:20+00:00"
+    },
+    {
+     "medio": "Yahoo",
+     "titulo": "Barcelona captain set to return to group training today, could feature vs Real Betis",
+     "url": "https://sports.yahoo.com/articles/barcelona-captain-set-return-group-100900550.html",
+     "pub": "2026-10-15T10:09+00:00"
+    },
+    {
+     "medio": "Google News EN",
+     "titulo": "Liverpool: Graeme Souness rejected Barcelona to join Sampdoria",
+     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9UUmlENmhtaXF6SUVHLVBmemRFZ204MU04UTI0Z281NWFwamhMYzhEREU0bUNXMEJKUG1PY3VDUDA3czJMRDljX29Id2Y0RUNUeGVCbno4THVnQlZJNU1FVFgyRGMxS2VFdWxv?oc=5",
+     "pub": "2026-10-15T08:30+00:00"
+    },
+    {
+     "medio": "Record",
+     "titulo": "<![CDATA[ Assaltante das mansões de jogadores do Barcelona detido por se gabar... dos assaltos ]]>",
+     "url": "https://www.record.pt/internacional/paises/espanha/barcelona/detalhe/assaltante-das-mansoes-de-jogadores-do-barcelona-foi-apanhado-por-se-gabar-dos-assaltos",
+     "pub": "2026-10-15T11:56+00:00"
+    },
+    {
+     "medio": "Record",
+     "titulo": "<![CDATA[ A camisola do Barcelona para o El Clásico que está à venda por um preço... exorbitante ]]>",
+     "url": "https://www.record.pt/multimedia/videos/detalhe/a-camisola-do-barcelona-para-o-el-clasico-que-esta-a-venda-por-um-preco-exorbitante",
+     "pub": "2026-10-15T09:18+00:00"
+    },
+    {
+     "medio": "ge.globo",
+     "titulo": "Barcelona se une a Tyler, The Creator para estampar camisa do El Clásico",
+     "url": "https://ge.globo.com/futebol/futebol-internacional/futebol-espanhol/noticia/2026/10/15/barcelona-se-une-a-tyler-the-creator-para-estampar-camisa-do-el-clasico.ghtml",
+     "pub": "2026-10-15T09:36+00:00"
+    },
+    {
+     "medio": "talkSPORT",
+     "titulo": "Why Barcelona have change kit for upcoming El Clasico",
+     "url": "https://talksport.com/football/4645446/barcelona-kit-el-clasico-real-madrid/",
+     "pub": "2026-10-15T12:39+00:00"
+    },
+    {
+     "medio": "FourFourTwo",
+     "titulo": "Why Pep Guardiola's next job could be the one that defines him - more than Barcelona or Manchester City",
+     "url": "https://www.fourfourtwo.com/person/coaches-managers/why-pep-guardiolas-next-job-could-be-the-one-that-defines-him-more-than-barcelona-or-manchester-city",
+     "pub": "2026-10-15T14:13+00:00"
+    },
+    {
+     "medio": "Yahoo",
+     "titulo": "Barcelona missed out on Senegalese wonderkid after family opted for AC Milan",
+     "url": "https://sports.yahoo.com/articles/barcelona-missed-senegalese-wonderkid-family-160200655.html",
+     "pub": "2026-10-15T16:02+00:00"
+    }
+   ]
+  },
+  {
+   "tema": "Liverpool",
+   "medios": 12,
+   "lista_medios": [
+    "BBC",
+    "Daily Mail",
+    "FourFourTwo",
+    "Google News EN",
+    "Guardian",
+    "L'Equipe",
+    "Mirror",
+    "Planet Football",
+    "Sky Sports",
+    "Yahoo",
+    "ge.globo",
+    "talkSPORT"
+   ],
+   "primera_vez": "2026-10-15T11:58+00:00",
+   "titulares": [
+    {
+     "medio": "BBC",
+     "titulo": "Why Souness rejected Barcelona when he left Liverpool",
+     "url": "https://www.bbc.co.uk/sport/football/articles/cm0j07pdw95eo?at_medium=RSS&at_campaign=rss",
+     "pub": "2026-10-15T08:30+00:00"
+    },
+    {
+     "medio": "Daily Mail",
+     "titulo": "Liverpool fans clean up! Supporters 'cover the cost of their trip' to Austria by hoovering up plastic cups - worth £2.50 each when returned to the bar - in huge beer snakes",
+     "url": "https://www.dailymail.com/sport/football/article-16211165/liverpool-fans-beer-cups-lask-champions-league.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+     "pub": "2026-10-15T11:42+00:00"
+    },
+    {
+     "medio": "Mirror",
+     "titulo": "Andoni Iraola delivers triple Liverpool injury update as plan for Lewis Koumas laid out",
+     "url": "https://www.mirror.co.uk/sport/football/news/liverpool-andoni-iraola-brentford-injuries-37774993",
+     "pub": "2026-10-15T11:21+00:00"
+    },
+    {
+     "medio": "Planet Football",
+     "titulo": "Can you name every player to score a Champions League goal for Liverpool?",
+     "url": "https://www.planetfootball.com/quizzes/can-you-name-all-52-players-to-score-in-the-champions-league-for-liverpool",
+     "pub": "2026-10-15T09:34+00:00"
+    },
+    {
+     "medio": "Planet Football",
+     "titulo": "Can you name every player to score a Champions League hat-trick for Liverpool?",
+     "url": "https://www.planetfootball.com/quizzes/can-you-name-every-player-scored-champions-league-hat-trick-liverpool",
+     "pub": "2026-10-15T07:54+00:00"
+    },
+    {
+     "medio": "FourFourTwo",
+     "titulo": "£100m January Liverpool move given green light - and Florian Wirtz could make way: report",
+     "url": "https://www.fourfourtwo.com/transfer/gbp100m-january-liverpool-move-given-green-light-and-florian-wirtz-could-make-way-report",
+     "pub": "2026-10-15T09:10+00:00"
+    },
+    {
+     "medio": "FourFourTwo",
+     "titulo": "“Andy Robertson? I think he should retire, and I’ve told him that!” Scotland and Liverpool legend Sir Kenny Dalglish gives FourFourTwo a message for the man who’s about to break his international appearance record",
+     "url": "https://www.fourfourtwo.com/person/andy-robertson-i-think-he-should-retire-and-ive-told-him-that-scotland-and-liverpool-legend-sir-kenny-dalglish-gives-fourfourtwo-a-message-for-the-man-whos-about-to-break-his-international-appearance-record",
+     "pub": "2026-10-15T09:00+00:00"
+    },
+    {
+     "medio": "Yahoo",
+     "titulo": "Liverpool given green light to sign £100m sensation",
+     "url": "https://sports.yahoo.com/articles/liverpool-given-green-light-sign-110500173.html",
+     "pub": "2026-10-15T11:05+00:00"
+    },
+    {
+     "medio": "Yahoo",
+     "titulo": "European giants believe that Liverpool star wants to join them in huge move",
+     "url": "https://sports.yahoo.com/articles/european-giants-believe-liverpool-star-105000609.html",
+     "pub": "2026-10-15T10:50+00:00"
+    },
+    {
+     "medio": "Yahoo",
+     "titulo": "Liverpool have set their sights on move for 18-year-old midfielder",
+     "url": "https://sports.yahoo.com/articles/liverpool-set-sights-move-18-105000952.html",
+     "pub": "2026-10-15T10:50+00:00"
+    },
+    {
+     "medio": "Yahoo",
+     "titulo": "Steven Gerrard backs Florian Wirtz to turn Liverpool career around",
+     "url": "https://sports.yahoo.com/articles/steven-gerrard-backs-florian-wirtz-101000083.html",
+     "pub": "2026-10-15T10:10+00:00"
+    },
+    {
+     "medio": "Yahoo",
+     "titulo": "Major Twist: Liverpool identify deal for Lamine Camara alternative",
+     "url": "https://sports.yahoo.com/articles/major-twist-liverpool-identify-deal-100500327.html",
+     "pub": "2026-10-15T10:05+00:00"
     }
    ]
   },
@@ -192,6 +665,192 @@
    ]
   },
   {
+   "tema": "Manchester",
+   "medios": 12,
+   "lista_medios": [
+    "BBC",
+    "Foot Mercato",
+    "FourFourTwo",
+    "Google News EN",
+    "Guardian",
+    "Infobae",
+    "L'Equipe",
+    "Planet Football",
+    "Record",
+    "Yahoo",
+    "ge.globo",
+    "talkSPORT"
+   ],
+   "primera_vez": "2026-10-15T11:58+00:00",
+   "titulares": [
+    {
+     "medio": "Guardian",
+     "titulo": "Martínez has drawn back the curtain on Manchester United’s ruinous ownership | Jonathan Liew",
+     "url": "https://www.theguardian.com/football/2026/oct/15/lisandro-martinez-criticism-jason-wilcox-jim-ratcliffe-glazers",
+     "pub": "2026-10-15T05:00+00:00"
+    },
+    {
+     "medio": "Google News EN",
+     "titulo": "Manchester United latest: Senior players backing Lisandro Martinez over hierarchy outburst - Paper Talk",
+     "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNeXRRRDFZNGdLeXlHNGZZMTM1X3NINTlROTBwMnFQWm5CV2dDYTZrY25ac1c2M2JSaFQ3Ny15NGNnZkQ2elFIc3FDekF6WmNkSHRqVDFfMlpPak1YWUg5cFNQcVZaQlJIOGtJaHh2WUZXb2QtSEJkaTl2dVk4TkRWczJMeTZad05WQmdva3ZfeTdjWXEyT1FhZElrUlB6VjBEdGZiTkVkdUtHY0hiWDRLU3c4QkNsRnFzZDM2UDlzZm9PRU5NOFNEUDZETzJ2UGhOeW1udEd6LWx3NFF0SXd4YTd3TVJiZ3loYXRHTm1nNG5KUTJ1Si00?oc=5",
+     "pub": "2026-10-15T07:01+00:00"
+    },
+    {
+     "medio": "L'Equipe",
+     "titulo": "« Le PSG est-il en train de bâtir la plus grande dynastie européenne ? » : la presse étrangère ébahie par la victoire de Paris contre Manchester City en Ligue des champions",
+     "url": "https://www.lequipe.fr/Football/Actualites/-le-psg-est-il-en-train-de-batir-la-plus-grande-dynastie-europeenne-la-presse-etrangere-ebahie-par-la-victoire-de-paris-contre-manchester-city-en-ligue-des-champions/1735913#at_medium=RSS_feeds",
+     "pub": "2026-10-15T09:21+00:00"
+    },
+    {
+     "medio": "L'Equipe",
+     "titulo": "1,92 million de téléspectateurs devant la victoire du PSG contre Manchester City sur Canal+, record d'audience",
+     "url": "https://www.lequipe.fr/Medias/Actualites/1-92-million-de-telespectateurs-devant-la-victoire-du-psg-contre-manchester-city-sur-canal-record-d-audience/1735892#at_medium=RSS_feeds",
+     "pub": "2026-10-15T07:52+00:00"
+    },
+    {
+     "medio": "L'Equipe",
+     "titulo": "Enzo Maresca après la défaite de Manchester City : « Le PSG peut gérer ses joueurs avant la Ligue des champions »",
+     "url": "https://www.lequipe.fr/Football/Actualites/Enzo-maresca-apres-la-defaite-de-manchester-city-le-psg-peut-gerer-ses-joueurs-avant-la-ligue-des-champions/1735882#at_medium=RSS_feeds",
+     "pub": "2026-10-15T07:17+00:00"
+    },
+    {
+     "medio": "L'Equipe",
+     "titulo": "Édouard Cissé, ancien milieu de terrain du PSG, revient sur la victoire parisienne sur la pelouse de Manchester City en Ligue des champions : « Une première période parfaite ! »",
+     "url": "https://www.lequipe.fr/Football/Article/Edouard-cisse-ancien-milieu-de-terrain-du-psg-revient-sur-la-victoire-parisienne-sur-la-pelouse-de-manchester-city-en-ligue-des-champions-une-premiere-periode-parfaite/1735863#at_medium=RSS_feeds",
+     "pub": "2026-10-15T06:12+00:00"
+    },
+    {
+     "medio": "Foot Mercato",
+     "titulo": "Manchester City - PSG : les statistiques complètement folles des Citizens en seconde période",
+     "url": "https://www.footmercato.net/a1157441559836948452-manchester-city-psg-les-statistiques-completement-folles-des-citizens-en-seconde-periode",
+     "pub": "2026-10-15T09:48+00:00"
+    },
+    {
+     "medio": "Foot Mercato",
+     "titulo": "Manchester City - PSG : Semenyo, Cherki, Bouaddi… les choix tactiques douteux d’Enzo Maresca",
+     "url": "https://www.footmercato.net/a1559436693660548558-manchester-city-psg-semenyo-cherki-bouaddi-les-choix-tactiques-douteux-denzo-maresca",
+     "pub": "2026-10-15T09:17+00:00"
+    },
+    {
+     "medio": "Foot Mercato",
+     "titulo": "Manchester City - PSG : Fabián Ruiz, le symbole d’un collectif à deux vitesses",
+     "url": "https://www.footmercato.net/a1541816702275070387-manchester-city-psg-fabian-ruiz-le-symbole-dun-collectif-a-deux-vitesses",
+     "pub": "2026-10-15T07:05+00:00"
+    },
+    {
+     "medio": "Foot Mercato",
+     "titulo": "Lisandro Martínez en remet une couche sur la situation de Manchester United",
+     "url": "https://www.footmercato.net/a8725998901079489152-lisandro-martinez-en-remet-une-couche-sur-la-situation-de-manchester-united",
+     "pub": "2026-10-15T06:31+00:00"
+    },
+    {
+     "medio": "Guardian",
+     "titulo": "Football Daily | Guardiola returns to Manchester as City spin into dizzy mess against PSG",
+     "url": "https://www.theguardian.com/football/2026/oct/15/guardiola-returns-to-manchester-as-city-spin-into-dizzy-mess-against-psg",
+     "pub": "2026-10-15T14:33+00:00"
+    },
+    {
+     "medio": "Guardian",
+     "titulo": "PSG pummel Manchester City while Villa and Liverpool hit six | Football Weekly Extra – video",
+     "url": "https://www.theguardian.com/football/video/2026/oct/15/psg-pummel-manchester-city-while-villa-and-liverpool-hit-six-football-weekly-extra-video",
+     "pub": "2026-10-15T12:37+00:00"
+    }
+   ]
+  },
+  {
+   "tema": "Madrid",
+   "medios": 12,
+   "lista_medios": [
+    "AS",
+    "Daily Mail",
+    "Foot Mercato",
+    "Football Italia",
+    "Google News ES",
+    "Guardian",
+    "Kicker",
+    "L'Equipe",
+    "Mundo Deportivo",
+    "Yahoo",
+    "ge.globo",
+    "talkSPORT"
+   ],
+   "primera_vez": "2026-10-15T11:58+00:00",
+   "titulares": [
+    {
+     "medio": "talkSPORT",
+     "titulo": "Jose Mourinho in public disagreement with Real Madrid star in aftermath of Roma win",
+     "url": "https://talksport.com/football/4644939/jose-mourinho-federico-valverde-spat-real-madrid-roma/",
+     "pub": "2026-10-15T08:56+00:00"
+    },
+    {
+     "medio": "Daily Mail",
+     "titulo": "Vinicius Jr's nightmare 24 hours: Real Madrid star fumes at being subbed early by Jose Mourinho against Roma - after four-game ban for hair-pull rules him out of El Clasico",
+     "url": "https://www.dailymail.com/sport/football/article-16210807/real-madrid-vinicius-jr-hair-pull-ban-barcelona.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+     "pub": "2026-10-15T09:50+00:00"
+    },
+    {
+     "medio": "Yahoo",
+     "titulo": "Jose Mourinho wants more attacking options at Real Madrid despite reaching 500-goal milestone",
+     "url": "https://sports.yahoo.com/articles/jose-mourinho-wants-more-attacking-111000602.html",
+     "pub": "2026-10-15T11:10+00:00"
+    },
+    {
+     "medio": "Yahoo",
+     "titulo": "Real Madrid believe recent events vs Villarreal and Roma were necessary to unite dressing room",
+     "url": "https://sports.yahoo.com/articles/real-madrid-believe-recent-events-104900222.html",
+     "pub": "2026-10-15T10:49+00:00"
+    },
+    {
+     "medio": "Yahoo",
+     "titulo": "Michael Olise keen on Spain move as Real Madrid maintain interest in Bayern Munich star",
+     "url": "https://sports.yahoo.com/articles/michael-olise-keen-spain-move-100000706.html",
+     "pub": "2026-10-15T10:00+00:00"
+    },
+    {
+     "medio": "Yahoo",
+     "titulo": "Endrick vows to fight for his place after inspiring Real Madrid comeback against Roma",
+     "url": "https://sports.yahoo.com/articles/endrick-vows-fight-place-inspiring-094000578.html",
+     "pub": "2026-10-15T09:40+00:00"
+    },
+    {
+     "medio": "AS",
+     "titulo": "El Real Madrid mantiene que nada es casual",
+     "url": "https://as.com/futbol/primera/el-real-madrid-mantiene-que-nada-es-casual-f202610-n/",
+     "pub": "2026-10-15T08:43+00:00"
+    },
+    {
+     "medio": "AS",
+     "titulo": "Se las traían muy felices y acabó en tragedia: la narración de RAC1 del Roma-Real Madrid que es puro deleite para el madridismo",
+     "url": "https://as.com/futbol/videos/se-las-traian-muy-felices-y-acabo-en-tragedia-la-narracion-de-rac1-del-roma-real-madrid-que-es-puro-deleite-para-el-madridismo-f202610-v/",
+     "pub": "2026-10-15T10:44+00:00"
+    },
+    {
+     "medio": "AS",
+     "titulo": "Las imágenes más curiosas que quizás aún no has visto de la Roma - Real Madrid",
+     "url": "https://as.com/futbol/fotorrelato/las-imagenes-mas-curiosas-que-quizas-aun-no-has-visto-de-la-roma-real-madrid-f202610-f/",
+     "pub": "2026-10-15T07:14+00:00"
+    },
+    {
+     "medio": "AS",
+     "titulo": "¿Cómo viste el partido del Madrid ante la Roma? ¿Qué te pareció el once y los cambios? Deja tu opinión",
+     "url": "https://as.com/futbol/champions/como-viste-el-partido-del-madrid-ante-la-roma-que-te-parecio-el-once-y-los-cambios-deja-tu-opinion-f202610-d/",
+     "pub": "2026-10-15T10:32+00:00"
+    },
+    {
+     "medio": "Mundo Deportivo",
+     "titulo": "Vinicius, el gran señalado en el Real Madrid",
+     "url": "https://www.mundodeportivo.com/futbol/real-madrid/20261015/1004239040/vinicius-gran-senalado-real-madrid.html",
+     "pub": ""
+    },
+    {
+     "medio": "Mundo Deportivo",
+     "titulo": "Problemas para el Sevilla antes de visitar al Real Madrid",
+     "url": "https://www.mundodeportivo.com/futbol/sevilla/20261015/1004239049/problemas-sevilla-visitar-real-madrid.html",
+     "pub": ""
+    }
+   ]
+  },
+  {
    "tema": "Lisandro",
    "medios": 12,
    "lista_medios": [
@@ -247,12 +906,6 @@
      "pub": "2026-10-15T07:10+00:00"
     },
     {
-     "medio": "Mirror",
-     "titulo": "Man Utd news: Lisandro Martinez confronted by team-mate as fine issued for manager outburst",
-     "url": "https://www.mirror.co.uk/sport/football/news/man-utd-lisandro-martinez-fine-37772493",
-     "pub": "2026-10-15T03:30+00:00"
-    },
-    {
      "medio": "Google News EN",
      "titulo": "Lisandro Martinez: Roy Keane says Man Utd 'like a circus'",
      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9TLXpoWlp4UllKa0tpWVNQMmdCUWswb0F6aXgxSjhDRF81VFJvNHgtVlkzeGxpaWdqWUlweGtkbDBybGc1QnpTNlpOZXJ5S1JzQlZ2QlJKd3hzWEd4UFhlQU9pcFYwcjBsdVRj?oc=5",
@@ -281,99 +934,198 @@
      "titulo": "Where are they now? The 5 players Man Utd signed alongside Lisandro Martinez in 2022",
      "url": "https://www.planetfootball.com/manchester-united/where-are-they-now-man-utd-signings-lisandro-martinez",
      "pub": "2026-10-15T12:45+00:00"
+    },
+    {
+     "medio": "talkSPORT",
+     "titulo": "Lisandro Martinez issues second statement confirming talks with Man United hierarchy after outburst",
+     "url": "https://talksport.com/football/4646945/lisandro-martinez-statement-manchester-united-talks-rant/",
+     "pub": "2026-10-15T19:27+00:00"
     }
    ]
   },
   {
-   "tema": "Arsenal",
+   "tema": "Celtic",
    "medios": 12,
    "lista_medios": [
+    "BBC",
     "Daily Mail",
-    "Foot Mercato",
-    "Football Italia",
     "FourFourTwo",
-    "Google News AR",
     "Google News EN",
     "Google News ES",
     "Guardian",
+    "Infobae",
+    "L'Equipe",
     "Mirror",
     "Mundo Deportivo",
-    "Yahoo",
+    "Record",
     "talkSPORT"
    ],
    "primera_vez": "2026-10-15T11:58+00:00",
    "titulares": [
     {
-     "medio": "Mirror",
-     "titulo": "Arsenal news: Mikel Merino makes title ambitions perfectly clear as Viktor Gyokeres savaged",
-     "url": "https://www.mirror.co.uk/sport/football/news/arsenal-news-merino-viktor-gyokeres-37772500",
-     "pub": "2026-10-15T03:00+00:00"
+     "medio": "Google News EN",
+     "titulo": "Torreense: The Portuguese minnows hoping to upset Sunderland and Celtic",
+     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFA3ZkZDLUg1aW5HeVRJT1VORFRGcGtKaEJEdmFjbFBVVE9zMnd0MDRNNW1zUzFTX2xXMUMtbTJscmd3T1A0OERDUDJsbFdPc3dKd0EyNEJBTUZoekxHeENjemJrRElob185SUJn?oc=5",
+     "pub": "2026-10-15T07:30+00:00"
     },
     {
-     "medio": "Yahoo",
-     "titulo": "Arsenal get controversial referee for Nottingham Forest trip",
-     "url": "https://sports.yahoo.com/articles/arsenal-controversial-referee-nottingham-forest-110500777.html",
-     "pub": "2026-10-15T11:05+00:00"
-    },
-    {
-     "medio": "Foot Mercato",
-     "titulo": "Arsenal va supprimer 60 emplois",
-     "url": "https://www.footmercato.net/a3339604898943212584-arsenal-va-supprimer-60-emplois",
-     "pub": "2026-10-15T11:23+00:00"
+     "medio": "Record",
+     "titulo": "<![CDATA[ Benfica deixa apelo aos adeptos para o jogo do Celtic e lembra \"sanção suspensa\" ]]>",
+     "url": "https://www.record.pt/futebol/futebol-nacional/liga-betclic/benfica/detalhe/benfica-deixa-apelo-aos-adeptos-para-o-jogo-do-celtic-e-lembra-sancao-suspensa",
+     "pub": "2026-10-15T11:01+00:00"
     },
     {
      "medio": "talkSPORT",
-     "titulo": "Arsenal given renewed hope of Vinicius Jr move after summer ‘regrets’",
-     "url": "https://talksport.com/football/4643826/arsenal-vinicius-jr-transfer-update-real-madrid/",
-     "pub": "2026-10-15T15:17+00:00"
+     "titulo": "Benfica vs Celtic: Get 30/1 on Benfica to score with talkSPORT BET",
+     "url": "https://talksport.com/football/4646033/benfica-celtic-europa-league-preview-enhanced-odds-betting-offer/",
+     "pub": "2026-10-15T12:33+00:00"
     },
     {
-     "medio": "Yahoo",
-     "titulo": "Arsenal boss Slegers provides update on Mariona and Cerci ahead of Birmingham City fixture",
-     "url": "https://sports.yahoo.com/articles/arsenal-boss-slegers-provides-mariona-161200433.html",
-     "pub": "2026-10-15T16:12+00:00"
+     "medio": "Mirror",
+     "titulo": "What TV channel is Benfica vs Celtic on? Live streaming, how to watch and kick-off time",
+     "url": "https://www.mirror.co.uk/sport/football/news/benfica-celtic-tv-europa-league-37770214",
+     "pub": "2026-10-15T16:00+00:00"
     },
     {
-     "medio": "Google News EN",
-     "titulo": "Women's Super League: Injured Arsenal star Mariona Caldentey out for up to 10 weeks",
-     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9zWnMyblNiQUhEQktuLXBOMHNnamFaME94UmM0U3BPYkxZczJrUndtNm9uWkZpcjRaR1lXNUJGZUoyMEF6UlJXVnZCOWpnOEhISUlGdGh2eWdvMmN3RTVodU9KQ2RabkIySWdr?oc=5",
-     "pub": "2026-10-15T13:35+00:00"
-    },
-    {
-     "medio": "Mundo Deportivo",
-     "titulo": "Algo pasa con Saliba y el Arsenal",
-     "url": "https://www.mundodeportivo.com/futbol/premier-league/20261015/1004239141/pasa-saliba-arsenal.html",
-     "pub": ""
-    },
-    {
-     "medio": "Mundo Deportivo",
-     "titulo": "Win, el perro adoptado por Arteta, roba el protagonismo en la foto oficial del Arsenal",
-     "url": "https://www.mundodeportivo.com/futbol/premier-league/20261015/1004239245/win-perro-adoptado-arteta-motivar-equipo-roba-protagonismo-foto-oficial-arsenal.html",
-     "pub": ""
+     "medio": "FourFourTwo",
+     "titulo": "How to watch Benfica vs Celtic: Live Streams",
+     "url": "https://www.fourfourtwo.com/competition/watch-benfica-vs-celtic-europa-league-2026-27",
+     "pub": "2026-10-15T16:00+00:00"
     },
     {
      "medio": "Guardian",
-     "titulo": "The WSL so far: goal-shy Arsenal, underrated Brighton and more data pointers",
-     "url": "https://www.theguardian.com/football/2026/oct/16/the-wsl-so-far-goal-shy-arsenal-underrated-brighton-and-more-data-pointers",
-     "pub": "2026-10-16T09:00+00:00"
+     "titulo": "Bournemouth v Sturm Graz, Benfica v Celtic, and more: Europa League – live",
+     "url": "https://www.theguardian.com/football/live/2026/oct/15/bournemouth-v-sturm-graz-benfica-v-celtic-and-more-europa-league-live",
+     "pub": "2026-10-15T20:24+00:00"
     },
     {
-     "medio": "talkSPORT",
-     "titulo": "Where to watch Nottingham Forest v Arsenal as Premier League confirm controversial referee decision",
-     "url": "https://talksport.com/football/4646831/where-watch-nottingham-forest-arsenal-commentary-score-time-teams-channel/",
-     "pub": "2026-10-16T11:34+00:00"
+     "medio": "Google News EN",
+     "titulo": "Benfica vs Celtic: Uefa Europa League stats & head-to-head",
+     "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBzSm1wOGo1Q2hCaFR3MzVwSnppSUxleXREbUx4RXY4bWRvZUVrX3BYT0FFOHF1dWU1dGltOXE2SkQwSV9UMXdpX3BqOVpoY1lNZFc1M2N1UEJOTkJBQm52WEp3eTlFUQ?oc=5",
+     "pub": "2026-10-15T16:35+00:00"
     },
     {
-     "medio": "talkSPORT",
-     "titulo": "Arsenal star feared he would have to retire last season over injury doctors have never seen",
-     "url": "https://talksport.com/football/4647659/arsenal-star-feared-retirement-injury-spain-mikel-merino/",
-     "pub": "2026-10-16T11:03+00:00"
+     "medio": "Mundo Deportivo",
+     "titulo": "Benfica - Celtic, en directo | Europa League",
+     "url": "https://www.mundodeportivo.com/futbol/europa-league/20261015/1004237221/benfica-celtic-directo-europa-league.html",
+     "pub": ""
+    },
+    {
+     "medio": "Google News ES",
+     "titulo": "[Transmisión en vivo] Gratis! Benfica vs. Celtic: cobertura de fútbol online",
+     "url": "https://news.google.com/rss/articles/CBMi7gJBVV95cUxOaW5JOVNEV0dCMzJDMVh5V2Z4UlpnYm1sX1FKQnVReXZ0clhtZUJqeWJtMENnTVJ6X1pxZUp5bGFWb3p4UHFnTTdBaDN6UHpuWUJfLWh0akRma2thRkxpS3YzNFFvOGFzRmVHd0JWbmRja3Fyc19JaHVIcnRKamRsVElmT2pfcTRZNENQeHRRZUZEMjBUeTFBM0JkWjFjNzl5VHk1S2hmZ3IzWGxXZjlSYWtqcnZyTkVwUUM4eXlFUzhxc3Q5Rk55VFQ0aHd5UkctVVM1aEVuNk9Ob25sZlFkWGpKNGdOSV9XZ3dxdU1obnBsZmt1ZWc3ai1uZnB2ckx5bWZhX0dLZlFobEVmVlczWE81MnowNHByVS1aby1HX3I4Wkhrb1BqUzllRkQyc3NHY2JMR0JEMVEtX3hFWEVuY19RZTZUS1JTWjZhTmdieHZkMWJhQl9jX282TmRwaGd0UnVnZTRKYXdlSU56UGc?oc=5",
+     "pub": "2026-10-15T17:59+00:00"
     },
     {
      "medio": "Daily Mail",
-     "titulo": "Arsenal star Mikel Merino admits he's 'fortunate to be alive' after 'an angel' saved him during Borussia Dortmund bus bombing",
-     "url": "https://www.dailymail.com/sport/football/article-16213079/Arsenal-Mikel-Merino-alive-Borussia-Dortmund-bombing.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-     "pub": "2026-10-15T22:19+00:00"
+     "titulo": "Lions to lambs in Lisbon ... but Martin O'Neill insists Celtic can still qualify for knockouts despite 4-1 defeat",
+     "url": "https://www.dailymail.com/sport/football/article-16213329/Celtic-Lisbon-ONeill.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+     "pub": "2026-10-15T23:05+00:00"
+    },
+    {
+     "medio": "Daily Mail",
+     "titulo": "Benfica 4 Celtic 1 - PLAYER RATINGS: Which Celtic player stuck to their task at the back, who was abject in the forward line and who must lead the line in the future?",
+     "url": "https://www.dailymail.com/sport/football/article-16213023/Benfica-Celtic-player-ratings.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+     "pub": "2026-10-15T21:52+00:00"
+    },
+    {
+     "medio": "Daily Mail",
+     "titulo": "Benfica 4 Celtic 1: Return to Lisbon only serves to show Bhoys how far they've fallen",
+     "url": "https://www.dailymail.com/sport/football/article-16212987/Benfica-4-Celtic-1-Return-Lisbon-serves-Bhoys-far-theyve-fallen.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+     "pub": "2026-10-15T21:00+00:00"
+    }
+   ]
+  },
+  {
+   "tema": "James",
+   "medios": 12,
+   "lista_medios": [
+    "BBC",
+    "Daily Mail",
+    "Foot Mercato",
+    "Google News EN",
+    "Guardian",
+    "Kicker",
+    "L'Equipe",
+    "Mirror",
+    "Record",
+    "Sky Sports",
+    "Yahoo",
+    "talkSPORT"
+   ],
+   "primera_vez": "2026-10-15T20:30+00:00",
+   "titulares": [
+    {
+     "medio": "Google News EN",
+     "titulo": "Weekend football predictions & free betting accumulator tips from James Milton",
+     "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPX1BBdFlTaDBNbTVVNno2cFpKUlR5b1hzdWpTT3hRaHBuckZlM0kxT0o1M2c4c1ZBSXdXdUV6cHN4a1BUd1ZXYWRCQ0lIN2IzbXVjTXRxM3lHY1l2QlBNaEI2ZTM4eUhOMndfRnFTMDNiTlc2WlZPcUNWdzZkeHlfWlpCM2ZiZzVnX0I4UV9UbnZTRDlyWERTTWlhSm9FNm1rRXBOQzRISVBES3VLcE1oX1FhRlExQ09DT0hLM1BfaUZIUG9HZld2VVU4OWVGSmpLNndV?oc=5",
+     "pub": "2026-10-15T18:00+00:00"
+    },
+    {
+     "medio": "BBC",
+     "titulo": "Chelsea's James out for three months after knee surgery",
+     "url": "https://www.bbc.co.uk/sport/football/articles/cq073d9l0ly9o?at_medium=RSS&at_campaign=rss",
+     "pub": "2026-10-16T09:02+00:00"
+    },
+    {
+     "medio": "Guardian",
+     "titulo": "James has knee surgery; Martínez sorry; Watford sacking reports ‘fake news’: football – live",
+     "url": "https://www.theguardian.com/football/live/2026/oct/16/martinez-sorry-outburst-european-reaction-premier-league-latest-football-news-live",
+     "pub": "2026-10-16T11:39+00:00"
+    },
+    {
+     "medio": "Sky Sports",
+     "titulo": "Chelsea captain James out for around three months",
+     "url": "https://www.skysports.com/football/news/12040/13599896/reece-james-chelsea-captain-out-for-around-three-months-after-minor-surgery-on-knee-injury-picked-up-in-training",
+     "pub": "2026-10-16T11:06+00:00"
+    },
+    {
+     "medio": "talkSPORT",
+     "titulo": "Reece James forced to undergo surgery as Chelsea star suffers another injury",
+     "url": "https://talksport.com/football/4647376/chelsea-reece-james-surgery-injury-training/",
+     "pub": "2026-10-16T08:39+00:00"
+    },
+    {
+     "medio": "Daily Mail",
+     "titulo": "Reece James set for THREE months on the sidelines after knee surgery in major blow to Chelsea - as club give update on injured captain after he missed 5-1 win over Bournemouth",
+     "url": "https://www.dailymail.com/sport/football/article-16214089/Chelsea-confirm-captain-Reece-James-undergone-knee-surgery.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+     "pub": "2026-10-16T10:29+00:00"
+    },
+    {
+     "medio": "Yahoo",
+     "titulo": "Chelsea captain Reece James facing three months out after successful knee surgery",
+     "url": "https://sports.yahoo.com/articles/chelsea-captain-reece-james-facing-114000422.html",
+     "pub": "2026-10-16T11:40+00:00"
+    },
+    {
+     "medio": "Yahoo",
+     "titulo": "Chelsea captain Reece James faces months out after knee surgery",
+     "url": "https://sports.yahoo.com/articles/chelsea-captain-reece-james-faces-085759365.html",
+     "pub": "2026-10-16T10:52+00:00"
+    },
+    {
+     "medio": "Google News EN",
+     "titulo": "Chelsea's Reece James has surgery for knee issue",
+     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1Jd1AwYjRFclNKeGhpcmFCc3NoMVU1aHl2b1dXMVVIQjRrTkJWLTMxSUR0NFhmaGh2TkdtOWMtTlNfY2pfMnY0RXd5QndNbVZBb244dmNvVnJpX1ZfOUZyZUFCU1NqN3RtcTVV?oc=5",
+     "pub": "2026-10-16T09:02+00:00"
+    },
+    {
+     "medio": "L'Equipe",
+     "titulo": "Opéré d'un genou, Reece James devrait manquer trois mois de compétition avec Chelsea",
+     "url": "https://www.lequipe.fr/Football/Actualites/Opere-d-un-genou-reece-james-devrait-manquer-trois-mois-de-competition-avec-chelsea/1736190#at_medium=RSS_feeds",
+     "pub": "2026-10-16T11:16+00:00"
+    },
+    {
+     "medio": "Foot Mercato",
+     "titulo": "Chelsea : nouvelle blessure au genou pour Reece James",
+     "url": "https://www.footmercato.net/a2448727247895109364-chelsea-nouvelle-blessure-au-genou-pour-reece-james",
+     "pub": "2026-10-16T08:46+00:00"
+    },
+    {
+     "medio": "Record",
+     "titulo": "<![CDATA[ Reece James operado ao joelho desfalca Chelsea nos próximos meses ]]>",
+     "url": "https://www.record.pt/internacional/paises/inglaterra/chelsea/detalhe/reece-james-operado-ao-joelho-desfalca-chelsea-nos-proximos-meses",
+     "pub": "2026-10-16T11:25+00:00"
     }
    ]
   },
@@ -470,466 +1222,6 @@
    ]
   },
   {
-   "tema": "Sunderland",
-   "medios": 11,
-   "lista_medios": [
-    "BBC",
-    "Daily Mail",
-    "FourFourTwo",
-    "Google News EN",
-    "Guardian",
-    "L'Equipe",
-    "Mundo Deportivo",
-    "Record",
-    "Sky Sports",
-    "Yahoo",
-    "talkSPORT"
-   ],
-   "primera_vez": "2026-10-15T11:58+00:00",
-   "titulares": [
-    {
-     "medio": "BBC",
-     "titulo": "The Portuguese second-tier team hosting Sunderland in Europe",
-     "url": "https://www.bbc.co.uk/sport/football/articles/cw99zxvyzj04o?at_medium=RSS&at_campaign=rss",
-     "pub": "2026-10-15T07:30+00:00"
-    },
-    {
-     "medio": "Yahoo",
-     "titulo": "AZ Alkmaar looking to kickstart Europa League campaign following opening day defeat to Sunderland",
-     "url": "https://sports.yahoo.com/articles/az-alkmaar-looking-kickstart-europa-112000694.html",
-     "pub": "2026-10-15T11:20+00:00"
-    },
-    {
-     "medio": "Google News EN",
-     "titulo": "Torreense: The Portuguese minnows hoping to upset Sunderland and Celtic",
-     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFA3ZkZDLUg1aW5HeVRJT1VORFRGcGtKaEJEdmFjbFBVVE9zMnd0MDRNNW1zUzFTX2xXMUMtbTJscmd3T1A0OERDUDJsbFdPc3dKd0EyNEJBTUZoekxHeENjemJrRElob185SUJn?oc=5",
-     "pub": "2026-10-15T07:30+00:00"
-    },
-    {
-     "medio": "Guardian",
-     "titulo": "Lyon v Crystal Palace, Torreense v Sunderland, and more: Europa League – live",
-     "url": "https://www.theguardian.com/football/live/2026/oct/15/lyon-v-crystal-palace-torreense-v-sunderland-and-more-europa-league-live",
-     "pub": "2026-10-15T17:14+00:00"
-    },
-    {
-     "medio": "Sky Sports",
-     "titulo": "Europa League LIVE! Palace behind at Lyon as Sunderland visit Torreense",
-     "url": "https://www.skysports.com/football/lyon-vs-crystal-palace/live/577769",
-     "pub": "2026-10-15T15:12+00:00"
-    },
-    {
-     "medio": "FourFourTwo",
-     "titulo": "How to watch Torreense vs Sunderland: Live Streams",
-     "url": "https://www.fourfourtwo.com/competition/watch-torreense-vs-sunderland-europa-league-2026-27",
-     "pub": "2026-10-15T13:00+00:00"
-    },
-    {
-     "medio": "Yahoo",
-     "titulo": "Torreense v Sunderland",
-     "url": "https://sports.yahoo.com/articles/torreense-v-sunderland-170356062.html",
-     "pub": "2026-10-15T17:03+00:00"
-    },
-    {
-     "medio": "Mundo Deportivo",
-     "titulo": "Torreense - Sunderland, en directo | Europa League",
-     "url": "https://www.mundodeportivo.com/futbol/europa-league/20261015/1004237176/torreense-sunderland-directo-europa-league.html",
-     "pub": ""
-    },
-    {
-     "medio": "Guardian",
-     "titulo": "Noah Sadiki stunner earns Sunderland dramatic late win against Torreense",
-     "url": "https://www.theguardian.com/football/2026/oct/15/torreense-sunderland-europa-league-match-report",
-     "pub": "2026-10-15T19:14+00:00"
-    },
-    {
-     "medio": "Sky Sports",
-     "titulo": "Sadiki nets late winner as Sunderland survive huge scare at Torreense",
-     "url": "https://www.skysports.com/football/torreense-vs-sunderland/report/577775",
-     "pub": "2026-10-15T19:30+00:00"
-    },
-    {
-     "medio": "talkSPORT",
-     "titulo": "Sunderland set European record no other English club have managed after dramatic win",
-     "url": "https://talksport.com/football/4647024/sunderland-european-record-europa-league-torreense/",
-     "pub": "2026-10-15T20:16+00:00"
-    },
-    {
-     "medio": "Daily Mail",
-     "titulo": "Sunderland score last-gasp Europa League winner as Crystal Palace fall to defeat in five-goal thriller against Lyon",
-     "url": "https://www.dailymail.com/sport/football/article-16211081/Sunderland-Europa-League-Crystal-Palace-Bournemouth-Brighton.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-     "pub": "2026-10-15T20:25+00:00"
-    }
-   ]
-  },
-  {
-   "tema": "Liverpool",
-   "medios": 11,
-   "lista_medios": [
-    "BBC",
-    "Daily Mail",
-    "FourFourTwo",
-    "Google News EN",
-    "Guardian",
-    "L'Equipe",
-    "Mirror",
-    "Planet Football",
-    "Sky Sports",
-    "Yahoo",
-    "talkSPORT"
-   ],
-   "primera_vez": "2026-10-15T11:58+00:00",
-   "titulares": [
-    {
-     "medio": "BBC",
-     "titulo": "Why Souness rejected Barcelona when he left Liverpool",
-     "url": "https://www.bbc.co.uk/sport/football/articles/cm0j07pdw95eo?at_medium=RSS&at_campaign=rss",
-     "pub": "2026-10-15T08:30+00:00"
-    },
-    {
-     "medio": "Daily Mail",
-     "titulo": "Liverpool fans clean up! Supporters 'cover the cost of their trip' to Austria by hoovering up plastic cups - worth £2.50 each when returned to the bar - in huge beer snakes",
-     "url": "https://www.dailymail.com/sport/football/article-16211165/liverpool-fans-beer-cups-lask-champions-league.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-     "pub": "2026-10-15T11:42+00:00"
-    },
-    {
-     "medio": "Mirror",
-     "titulo": "Andoni Iraola delivers triple Liverpool injury update as plan for Lewis Koumas laid out",
-     "url": "https://www.mirror.co.uk/sport/football/news/liverpool-andoni-iraola-brentford-injuries-37774993",
-     "pub": "2026-10-15T11:21+00:00"
-    },
-    {
-     "medio": "Mirror",
-     "titulo": "Liverpool news: Trent Alexander-Arnold's return route emerges as target's price tag set",
-     "url": "https://www.mirror.co.uk/sport/football/news/liverpool-trent-alexander-arnold-transfer-37771712",
-     "pub": "2026-10-15T04:00+00:00"
-    },
-    {
-     "medio": "Planet Football",
-     "titulo": "Can you name every player to score a Champions League goal for Liverpool?",
-     "url": "https://www.planetfootball.com/quizzes/can-you-name-all-52-players-to-score-in-the-champions-league-for-liverpool",
-     "pub": "2026-10-15T09:34+00:00"
-    },
-    {
-     "medio": "Planet Football",
-     "titulo": "Can you name every player to score a Champions League hat-trick for Liverpool?",
-     "url": "https://www.planetfootball.com/quizzes/can-you-name-every-player-scored-champions-league-hat-trick-liverpool",
-     "pub": "2026-10-15T07:54+00:00"
-    },
-    {
-     "medio": "FourFourTwo",
-     "titulo": "£100m January Liverpool move given green light - and Florian Wirtz could make way: report",
-     "url": "https://www.fourfourtwo.com/transfer/gbp100m-january-liverpool-move-given-green-light-and-florian-wirtz-could-make-way-report",
-     "pub": "2026-10-15T09:10+00:00"
-    },
-    {
-     "medio": "FourFourTwo",
-     "titulo": "“Andy Robertson? I think he should retire, and I’ve told him that!” Scotland and Liverpool legend Sir Kenny Dalglish gives FourFourTwo a message for the man who’s about to break his international appearance record",
-     "url": "https://www.fourfourtwo.com/person/andy-robertson-i-think-he-should-retire-and-ive-told-him-that-scotland-and-liverpool-legend-sir-kenny-dalglish-gives-fourfourtwo-a-message-for-the-man-whos-about-to-break-his-international-appearance-record",
-     "pub": "2026-10-15T09:00+00:00"
-    },
-    {
-     "medio": "Yahoo",
-     "titulo": "Liverpool given green light to sign £100m sensation",
-     "url": "https://sports.yahoo.com/articles/liverpool-given-green-light-sign-110500173.html",
-     "pub": "2026-10-15T11:05+00:00"
-    },
-    {
-     "medio": "Yahoo",
-     "titulo": "European giants believe that Liverpool star wants to join them in huge move",
-     "url": "https://sports.yahoo.com/articles/european-giants-believe-liverpool-star-105000609.html",
-     "pub": "2026-10-15T10:50+00:00"
-    },
-    {
-     "medio": "Yahoo",
-     "titulo": "Liverpool have set their sights on move for 18-year-old midfielder",
-     "url": "https://sports.yahoo.com/articles/liverpool-set-sights-move-18-105000952.html",
-     "pub": "2026-10-15T10:50+00:00"
-    },
-    {
-     "medio": "Yahoo",
-     "titulo": "Steven Gerrard backs Florian Wirtz to turn Liverpool career around",
-     "url": "https://sports.yahoo.com/articles/steven-gerrard-backs-florian-wirtz-101000083.html",
-     "pub": "2026-10-15T10:10+00:00"
-    }
-   ]
-  },
-  {
-   "tema": "Barcelona",
-   "medios": 11,
-   "lista_medios": [
-    "BBC",
-    "FourFourTwo",
-    "Google News EN",
-    "Google News ES",
-    "Infobae",
-    "Mundo Deportivo",
-    "Ole",
-    "Record",
-    "Yahoo",
-    "ge.globo",
-    "talkSPORT"
-   ],
-   "primera_vez": "2026-10-15T11:58+00:00",
-   "titulares": [
-    {
-     "medio": "BBC",
-     "titulo": "Why Souness rejected Barcelona when he left Liverpool",
-     "url": "https://www.bbc.co.uk/sport/football/articles/cm0j07pdw95eo?at_medium=RSS&at_campaign=rss",
-     "pub": "2026-10-15T08:30+00:00"
-    },
-    {
-     "medio": "FourFourTwo",
-     "titulo": "Barcelona gave Tyler, The Creator complete creative control for next El Clasico kit - and the result is stunning",
-     "url": "https://www.fourfourtwo.com/products-kit/barcelona-gave-tyler-the-creator-complete-creative-control-for-next-el-clasico-kit-and-the-result-is-stunning",
-     "pub": "2026-10-15T07:05+00:00"
-    },
-    {
-     "medio": "Yahoo",
-     "titulo": "Barcelona youth team star celebrates contract renewal with winning goal vs Galatasaray: ‘It’s my life’s dream’",
-     "url": "https://sports.yahoo.com/articles/barcelona-youth-team-star-celebrates-114000504.html",
-     "pub": "2026-10-15T11:40+00:00"
-    },
-    {
-     "medio": "Yahoo",
-     "titulo": "Key Barcelona duo complete full training as they target return against Real Betis",
-     "url": "https://sports.yahoo.com/articles/key-barcelona-duo-complete-full-112000539.html",
-     "pub": "2026-10-15T11:20+00:00"
-    },
-    {
-     "medio": "Yahoo",
-     "titulo": "Barcelona captain set to return to group training today, could feature vs Real Betis",
-     "url": "https://sports.yahoo.com/articles/barcelona-captain-set-return-group-100900550.html",
-     "pub": "2026-10-15T10:09+00:00"
-    },
-    {
-     "medio": "Google News EN",
-     "titulo": "Liverpool: Graeme Souness rejected Barcelona to join Sampdoria",
-     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9UUmlENmhtaXF6SUVHLVBmemRFZ204MU04UTI0Z281NWFwamhMYzhEREU0bUNXMEJKUG1PY3VDUDA3czJMRDljX29Id2Y0RUNUeGVCbno4THVnQlZJNU1FVFgyRGMxS2VFdWxv?oc=5",
-     "pub": "2026-10-15T08:30+00:00"
-    },
-    {
-     "medio": "Record",
-     "titulo": "<![CDATA[ Assaltante das mansões de jogadores do Barcelona detido por se gabar... dos assaltos ]]>",
-     "url": "https://www.record.pt/internacional/paises/espanha/barcelona/detalhe/assaltante-das-mansoes-de-jogadores-do-barcelona-foi-apanhado-por-se-gabar-dos-assaltos",
-     "pub": "2026-10-15T11:56+00:00"
-    },
-    {
-     "medio": "Record",
-     "titulo": "<![CDATA[ A camisola do Barcelona para o El Clásico que está à venda por um preço... exorbitante ]]>",
-     "url": "https://www.record.pt/multimedia/videos/detalhe/a-camisola-do-barcelona-para-o-el-clasico-que-esta-a-venda-por-um-preco-exorbitante",
-     "pub": "2026-10-15T09:18+00:00"
-    },
-    {
-     "medio": "ge.globo",
-     "titulo": "Barcelona se une a Tyler, The Creator para estampar camisa do El Clásico",
-     "url": "https://ge.globo.com/futebol/futebol-internacional/futebol-espanhol/noticia/2026/10/15/barcelona-se-une-a-tyler-the-creator-para-estampar-camisa-do-el-clasico.ghtml",
-     "pub": "2026-10-15T09:36+00:00"
-    },
-    {
-     "medio": "talkSPORT",
-     "titulo": "Why Barcelona have change kit for upcoming El Clasico",
-     "url": "https://talksport.com/football/4645446/barcelona-kit-el-clasico-real-madrid/",
-     "pub": "2026-10-15T12:39+00:00"
-    },
-    {
-     "medio": "FourFourTwo",
-     "titulo": "Why Pep Guardiola's next job could be the one that defines him - more than Barcelona or Manchester City",
-     "url": "https://www.fourfourtwo.com/person/coaches-managers/why-pep-guardiolas-next-job-could-be-the-one-that-defines-him-more-than-barcelona-or-manchester-city",
-     "pub": "2026-10-15T14:13+00:00"
-    },
-    {
-     "medio": "Yahoo",
-     "titulo": "Barcelona missed out on Senegalese wonderkid after family opted for AC Milan",
-     "url": "https://sports.yahoo.com/articles/barcelona-missed-senegalese-wonderkid-family-160200655.html",
-     "pub": "2026-10-15T16:02+00:00"
-    }
-   ]
-  },
-  {
-   "tema": "Manchester",
-   "medios": 11,
-   "lista_medios": [
-    "Foot Mercato",
-    "FourFourTwo",
-    "Google News AR",
-    "Google News EN",
-    "Guardian",
-    "Infobae",
-    "L'Equipe",
-    "Planet Football",
-    "Record",
-    "Yahoo",
-    "talkSPORT"
-   ],
-   "primera_vez": "2026-10-15T11:58+00:00",
-   "titulares": [
-    {
-     "medio": "Guardian",
-     "titulo": "Martínez has drawn back the curtain on Manchester United’s ruinous ownership | Jonathan Liew",
-     "url": "https://www.theguardian.com/football/2026/oct/15/lisandro-martinez-criticism-jason-wilcox-jim-ratcliffe-glazers",
-     "pub": "2026-10-15T05:00+00:00"
-    },
-    {
-     "medio": "Google News EN",
-     "titulo": "Manchester United latest: Senior players backing Lisandro Martinez over hierarchy outburst - Paper Talk",
-     "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNeXRRRDFZNGdLeXlHNGZZMTM1X3NINTlROTBwMnFQWm5CV2dDYTZrY25ac1c2M2JSaFQ3Ny15NGNnZkQ2elFIc3FDekF6WmNkSHRqVDFfMlpPak1YWUg5cFNQcVZaQlJIOGtJaHh2WUZXb2QtSEJkaTl2dVk4TkRWczJMeTZad05WQmdva3ZfeTdjWXEyT1FhZElrUlB6VjBEdGZiTkVkdUtHY0hiWDRLU3c4QkNsRnFzZDM2UDlzZm9PRU5NOFNEUDZETzJ2UGhOeW1udEd6LWx3NFF0SXd4YTd3TVJiZ3loYXRHTm1nNG5KUTJ1Si00?oc=5",
-     "pub": "2026-10-15T07:01+00:00"
-    },
-    {
-     "medio": "L'Equipe",
-     "titulo": "« Le PSG est-il en train de bâtir la plus grande dynastie européenne ? » : la presse étrangère ébahie par la victoire de Paris contre Manchester City en Ligue des champions",
-     "url": "https://www.lequipe.fr/Football/Actualites/-le-psg-est-il-en-train-de-batir-la-plus-grande-dynastie-europeenne-la-presse-etrangere-ebahie-par-la-victoire-de-paris-contre-manchester-city-en-ligue-des-champions/1735913#at_medium=RSS_feeds",
-     "pub": "2026-10-15T09:21+00:00"
-    },
-    {
-     "medio": "L'Equipe",
-     "titulo": "1,92 million de téléspectateurs devant la victoire du PSG contre Manchester City sur Canal+, record d'audience",
-     "url": "https://www.lequipe.fr/Medias/Actualites/1-92-million-de-telespectateurs-devant-la-victoire-du-psg-contre-manchester-city-sur-canal-record-d-audience/1735892#at_medium=RSS_feeds",
-     "pub": "2026-10-15T07:52+00:00"
-    },
-    {
-     "medio": "L'Equipe",
-     "titulo": "Enzo Maresca après la défaite de Manchester City : « Le PSG peut gérer ses joueurs avant la Ligue des champions »",
-     "url": "https://www.lequipe.fr/Football/Actualites/Enzo-maresca-apres-la-defaite-de-manchester-city-le-psg-peut-gerer-ses-joueurs-avant-la-ligue-des-champions/1735882#at_medium=RSS_feeds",
-     "pub": "2026-10-15T07:17+00:00"
-    },
-    {
-     "medio": "L'Equipe",
-     "titulo": "Édouard Cissé, ancien milieu de terrain du PSG, revient sur la victoire parisienne sur la pelouse de Manchester City en Ligue des champions : « Une première période parfaite ! »",
-     "url": "https://www.lequipe.fr/Football/Article/Edouard-cisse-ancien-milieu-de-terrain-du-psg-revient-sur-la-victoire-parisienne-sur-la-pelouse-de-manchester-city-en-ligue-des-champions-une-premiere-periode-parfaite/1735863#at_medium=RSS_feeds",
-     "pub": "2026-10-15T06:12+00:00"
-    },
-    {
-     "medio": "Foot Mercato",
-     "titulo": "Manchester City - PSG : les statistiques complètement folles des Citizens en seconde période",
-     "url": "https://www.footmercato.net/a1157441559836948452-manchester-city-psg-les-statistiques-completement-folles-des-citizens-en-seconde-periode",
-     "pub": "2026-10-15T09:48+00:00"
-    },
-    {
-     "medio": "Foot Mercato",
-     "titulo": "Manchester City - PSG : Semenyo, Cherki, Bouaddi… les choix tactiques douteux d’Enzo Maresca",
-     "url": "https://www.footmercato.net/a1559436693660548558-manchester-city-psg-semenyo-cherki-bouaddi-les-choix-tactiques-douteux-denzo-maresca",
-     "pub": "2026-10-15T09:17+00:00"
-    },
-    {
-     "medio": "Foot Mercato",
-     "titulo": "Manchester City - PSG : Fabián Ruiz, le symbole d’un collectif à deux vitesses",
-     "url": "https://www.footmercato.net/a1541816702275070387-manchester-city-psg-fabian-ruiz-le-symbole-dun-collectif-a-deux-vitesses",
-     "pub": "2026-10-15T07:05+00:00"
-    },
-    {
-     "medio": "Foot Mercato",
-     "titulo": "Lisandro Martínez en remet une couche sur la situation de Manchester United",
-     "url": "https://www.footmercato.net/a8725998901079489152-lisandro-martinez-en-remet-une-couche-sur-la-situation-de-manchester-united",
-     "pub": "2026-10-15T06:31+00:00"
-    },
-    {
-     "medio": "Google News AR",
-     "titulo": "En un partido memorable, el fútbol estuvo de fiesta: celebró PSG, que pasó del juego coral a resistir al Manchester City",
-     "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOT1hfbmZyVTJfMjNvRUhwQno5aXMyWGgxdW5Eem41TFd4MFlod0k0TWhWZTZNclVJVjNic1JuanJoV21pNTItZm1yWndpWmRoMTRabGRpZGI2cUxyU1hVbU8zRFlweWlzR243V1libGQ4M3F4MXVKQ3BxVVlmMTNjY3RFdGo5TGk2Njdpek1SX0ZXOTBDS3p2STFZQS1taDl4OXF5aDRma212aXBjQnNhSDRGQldjaVRqVXFPZnhwTEk4SzVlX0hSYXFsNkw5VGdySmgxREx3MUwtektsa2g0NDhacWo5U0hoYmVr?oc=5",
-     "pub": "2026-10-14T23:50+00:00"
-    },
-    {
-     "medio": "Guardian",
-     "titulo": "Football Daily | Guardiola returns to Manchester as City spin into dizzy mess against PSG",
-     "url": "https://www.theguardian.com/football/2026/oct/15/guardiola-returns-to-manchester-as-city-spin-into-dizzy-mess-against-psg",
-     "pub": "2026-10-15T14:33+00:00"
-    }
-   ]
-  },
-  {
-   "tema": "Chelsea",
-   "medios": 11,
-   "lista_medios": [
-    "Daily Mail",
-    "Foot Mercato",
-    "Google News AR",
-    "Google News EN",
-    "Guardian",
-    "L'Equipe",
-    "Mundo Deportivo",
-    "Record",
-    "Sky Sports",
-    "Yahoo",
-    "talkSPORT"
-   ],
-   "primera_vez": "2026-10-15T11:58+00:00",
-   "titulares": [
-    {
-     "medio": "talkSPORT",
-     "titulo": "Everton v Chelsea LIVE commentary: Xabi Alonso looks to fix poor record on Merseyside",
-     "url": "https://talksport.com/football/4644927/everton-chelsea-live-commentary-time-score-teams-channel/",
-     "pub": "2026-10-15T10:25+00:00"
-    },
-    {
-     "medio": "Daily Mail",
-     "titulo": "'The first time I saw him play, I thought: \"God exists\"': Inside Estevao Willian's journey from Brazil to Stamford Bridge - as Chelsea Confidential is given exclusive access to intimate documentary which offers hint on teenager's future",
-     "url": "https://www.dailymail.com/sport/football/article-16208981/estevao-willian-chelsea-stamford-bridge.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-     "pub": "2026-10-15T11:09+00:00"
-    },
-    {
-     "medio": "Guardian",
-     "titulo": "Chelsea are the Premier League’s most fun team but is it sustainable?",
-     "url": "https://www.theguardian.com/football/who-scored-blog/2026/oct/15/chelsea-premier-league-fun-team-sustainable-xabi-alonso-europe",
-     "pub": "2026-10-15T15:30+00:00"
-    },
-    {
-     "medio": "Yahoo",
-     "titulo": "Real Madrid mid field target valued at over £100m could leave in January with Chelsea keen",
-     "url": "https://sports.yahoo.com/articles/real-madrid-mid-field-target-154900576.html",
-     "pub": "2026-10-15T15:49+00:00"
-    },
-    {
-     "medio": "Yahoo",
-     "titulo": "Update On Chelsea And Their Pursuit Of This Bournemouth Star: What Should Alonso Do?",
-     "url": "https://sports.yahoo.com/articles/chelsea-pursuit-bournemouth-star-alonso-195000740.html",
-     "pub": "2026-10-15T19:50+00:00"
-    },
-    {
-     "medio": "Yahoo",
-     "titulo": "Sarri: ‘Atalanta must be humble, perhaps an error to leave Chelsea’",
-     "url": "https://sports.yahoo.com/articles/sarri-atalanta-must-humble-perhaps-185500820.html",
-     "pub": "2026-10-15T18:55+00:00"
-    },
-    {
-     "medio": "Yahoo",
-     "titulo": "Welbeck And Lavia To Start | 3-4-3 Chelsea Predicted Lineup Vs Everton",
-     "url": "https://sports.yahoo.com/articles/welbeck-lavia-start-3-4-182500027.html",
-     "pub": "2026-10-15T18:25+00:00"
-    },
-    {
-     "medio": "Sky Sports",
-     "titulo": "Chelsea captain James out for around three months",
-     "url": "https://www.skysports.com/football/news/12040/13599896/reece-james-chelsea-captain-out-for-around-three-months-after-minor-surgery-on-knee-injury-picked-up-in-training",
-     "pub": "2026-10-16T11:06+00:00"
-    },
-    {
-     "medio": "talkSPORT",
-     "titulo": "Reece James forced to undergo surgery as Chelsea star suffers another injury",
-     "url": "https://talksport.com/football/4647376/chelsea-reece-james-surgery-injury-training/",
-     "pub": "2026-10-16T08:39+00:00"
-    },
-    {
-     "medio": "Daily Mail",
-     "titulo": "Reece James set for THREE months on the sidelines after knee surgery in major blow to Chelsea - as club give update on injured captain after he missed 5-1 win over Bournemouth",
-     "url": "https://www.dailymail.com/sport/football/article-16214089/Chelsea-confirm-captain-Reece-James-undergone-knee-surgery.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-     "pub": "2026-10-16T10:29+00:00"
-    },
-    {
-     "medio": "Yahoo",
-     "titulo": "Chelsea captain Reece James facing three months out after successful knee surgery",
-     "url": "https://sports.yahoo.com/articles/chelsea-captain-reece-james-facing-114000422.html",
-     "pub": "2026-10-16T11:40+00:00"
-    },
-    {
-     "medio": "Yahoo",
-     "titulo": "Chelsea captain suffers 3-month injury",
-     "url": "https://sports.yahoo.com/articles/chelsea-captain-suffers-3-month-113500433.html",
-     "pub": "2026-10-16T11:35+00:00"
-    }
-   ]
-  },
-  {
    "tema": "Mourinho",
    "medios": 11,
    "lista_medios": [
@@ -1022,94 +1314,94 @@
    ]
   },
   {
-   "tema": "Madrid",
+   "tema": "FIFA",
    "medios": 11,
    "lista_medios": [
-    "AS",
     "Daily Mail",
     "Foot Mercato",
-    "Football Italia",
+    "Google News AR",
+    "Google News EN",
     "Google News ES",
+    "Infobae",
     "Kicker",
     "L'Equipe",
-    "Mundo Deportivo",
-    "Yahoo",
-    "ge.globo",
+    "Mirror",
+    "Ole",
     "talkSPORT"
    ],
    "primera_vez": "2026-10-15T11:58+00:00",
    "titulares": [
     {
+     "medio": "Mirror",
+     "titulo": "FIFA to change rules to avoid Folarin Balogun repeat after World Cup scandal",
+     "url": "https://www.mirror.co.uk/sport/football/news/world-cup-fifa-infantino-balogun-37775025",
+     "pub": "2026-10-15T10:47+00:00"
+    },
+    {
+     "medio": "Google News EN",
+     "titulo": "Explained: What questions will Infantino be facing at FIFA council meeting?",
+     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPVDlRS1EwTTJHbTY2UEhTc0hWNUFwVWJxRGhDQlBSUzBzQXFJeFRwb2VCWmEydjZXdUJzUV9CVUJKVFkzaVlYeG5rVjJhcDdOME9JcXlCWkJSU2NEQVNzNVg1MlphZWxXOVAtZXZqeC0tX3RBTjd3ZklTMXVXRFo5NHhULUdNYm92NFIzU0tQZTJNajd4SWd1YURialJTRFMtUWNjRE4yNVEyZElIQ2l5MVRnLV9vWmxZa1EtSkVxdmk?oc=5",
+     "pub": "2026-10-15T10:14+00:00"
+    },
+    {
+     "medio": "Kicker",
+     "titulo": "Balogun-Kontroverse: FIFA plant wohl spontane Regeländerung",
+     "url": "https://www.kicker.de/balogun-kontroverse-fifa-plant-wohl-spontane-regelaenderung-1261558/artikel#omrss",
+     "pub": "2026-10-15T06:21+00:00"
+    },
+    {
      "medio": "talkSPORT",
-     "titulo": "Jose Mourinho in public disagreement with Real Madrid star in aftermath of Roma win",
-     "url": "https://talksport.com/football/4644939/jose-mourinho-federico-valverde-spat-real-madrid-roma/",
-     "pub": "2026-10-15T08:56+00:00"
+     "titulo": "UEFA continue plot to oppose Gianni Infantino as FIFA president after $15million move",
+     "url": "https://talksport.com/football/4646374/uefa-fifa-presidential-election-gianni-infantino-vega-wenger-figo/",
+     "pub": "2026-10-15T14:04+00:00"
+    },
+    {
+     "medio": "Ole",
+     "titulo": "Consejo de la FIFA: Infantino se disculpó por el intento de privatizar el Mundial pero la UEFA no afloja...",
+     "url": "https://www.ole.com.ar/futbol-internacional/consejo-fifa-gianni-infantino-pide-disculpas-intento-privatozar-mundial-forwar-enterprise-cuestionamientos-uefa-debbie-hewitt_0_fFQyFQtshy.html",
+     "pub": "2026-10-15T16:55+00:00"
+    },
+    {
+     "medio": "Google News AR",
+     "titulo": "Comenzó la era post Messi: los posibles rivales de la Selección Argentina para la fecha FIFA de noviembre",
+     "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNZEcwbWFNTzhmM1JTNkIwaDQ1XzhzMXZ1b3AwZ2k3UF9XVEtqOFN5QmdEbWRSWXlCam9rUDh5TWRPSTRPY05OWms5TkJlUGxhTHJmVEEwemo1N3FkaWgwNGxQcmVHRFVmOTktckRpbVZxMXRWMndKOHJEZ1ROYVZIbmcwQXZQc3FDa1JFYXcxbTJEMThRRTVxVWxQcWJPNUxDaXhDSWRSeTJ1d1hMcEV5aHVFT1ZfQjFrTjZLdFVQMG5sY1hPTmVRZ2FJb9IB0AFBVV95cUxPV2J0d2R3b0VxZlp1MTBfOFB2QWlfZG5lM2MwdnlUTHhOVXQxY29paHdpOWl4VHF3bkd6ckRUS2xKLXlMRHotNGFDblY1azFyNzZTUzdoMzYwalRmQV9XTWRYQ2JXcHdIai1NUWRjMkpOYW9pVEhHYXB2YVd2ZG9ZYjRiSXJDU2Z5RTlQZV9jN0Z4Z2NGNnBDbVlSX3hhaEphUEVlTmpoV21ha3JkY2JqeVJzN2U4dGpLZ1lKTnFjSDZBT2lfdGpaSkdPbEF3RFlo?oc=5",
+     "pub": "2026-10-15T14:54+00:00"
+    },
+    {
+     "medio": "L'Equipe",
+     "titulo": "La Belgique annonce la prochaine modification de l'article 27 de la FIFA, qui avait servi à requalifier Folarin Balogun pour le 8e de finale de Coupe du monde",
+     "url": "https://www.lequipe.fr/Football/Actualites/La-belgique-annonce-la-prochaine-modification-de-l-article-27-de-la-fifa-qui-avait-servi-a-requalifier-folarin-balogun-pour-le-8e-de-finale-de-coupe-du-monde/1736074#at_medium=RSS_feeds",
+     "pub": "2026-10-15T19:43+00:00"
+    },
+    {
+     "medio": "L'Equipe",
+     "titulo": "Gianni Infantino s'est excusé lors du conseil de la FIFA après son projet de vente d'une partie de la Coupe du monde, mais reste très critiqué",
+     "url": "https://www.lequipe.fr/Football/Actualites/Gianni-infantino-s-est-excuse-lors-du-conseil-de-la-fifa-apres-son-projet-de-vente-d-une-partie-de-la-coupe-du-monde-mais-reste-tres-critique/1736047#at_medium=RSS_feeds",
+     "pub": "2026-10-15T17:33+00:00"
+    },
+    {
+     "medio": "Google News AR",
+     "titulo": "Lautaro Martínez se lesionó y podría perderse la próxima fecha FIFA",
+     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQSy11OTJjUnRjUUJfTWUtQ0JKX3NPa1BkQXVpQzNKMk03Y08tMDRHdnZianV1amFhaFBMMXY4SHFWNE45dC1ZWkZrQS12anp2WUprNHFOcXcxMlptUXRXNGlqaFd6ZTVWUE1qbUtfcXNvRkdLSTIzSkJCVzEybm15dm11Qkk1b0dpNy1oMHJWXzd5YWFJMmhBazZMLVhkUUdidmQ1WnR3N3dPd3dMM09GQ3dua9IBuAFBVV95cUxPZjMydl9PeVg0SHRaRGhFT0xxOXFZVVgtdmRTa016XzRuaE5lazdubVhRM29pTjVEdkY4aXFDQ3hZOVhkdkJjcHBIRWlDSWVkV0diRWN4X2xwNHVxMjJwdGFqbXZxUG5IWTZubHZrXzdIRUZkLUctMUdTZWNoeGdrYzYzNHpMRG9zN2ZoQ2tJQ0NBRlhhQU13aVpveHhPMFpMLUlyWjF6bGFkZTIwaXV2SW10aU1laDFy?oc=5",
+     "pub": "2026-10-15T18:19+00:00"
     },
     {
      "medio": "Daily Mail",
-     "titulo": "Vinicius Jr's nightmare 24 hours: Real Madrid star fumes at being subbed early by Jose Mourinho against Roma - after four-game ban for hair-pull rules him out of El Clasico",
-     "url": "https://www.dailymail.com/sport/football/article-16210807/real-madrid-vinicius-jr-hair-pull-ban-barcelona.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-     "pub": "2026-10-15T09:50+00:00"
+     "titulo": "FA pile pressure on Gianni Infantino - with chair saying he 'is not fit to be FIFA president' if he refuses to answer questions over World Cup sell-off",
+     "url": "https://www.dailymail.com/sport/football/article-16213231/FA-pressure-Gianni-Infantino-chair-FIFA-president-questions-World-Cup-sell-off.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+     "pub": "2026-10-15T22:19+00:00"
     },
     {
-     "medio": "Yahoo",
-     "titulo": "Jose Mourinho wants more attacking options at Real Madrid despite reaching 500-goal milestone",
-     "url": "https://sports.yahoo.com/articles/jose-mourinho-wants-more-attacking-111000602.html",
-     "pub": "2026-10-15T11:10+00:00"
+     "medio": "Foot Mercato",
+     "titulo": "FIFA : Gianni Infantino présente ses excuses",
+     "url": "https://www.footmercato.net/a8544124663526136908-fifa-gianni-infantino-presente-ses-excuses",
+     "pub": "2026-10-16T10:51+00:00"
     },
     {
-     "medio": "Yahoo",
-     "titulo": "Real Madrid believe recent events vs Villarreal and Roma were necessary to unite dressing room",
-     "url": "https://sports.yahoo.com/articles/real-madrid-believe-recent-events-104900222.html",
-     "pub": "2026-10-15T10:49+00:00"
-    },
-    {
-     "medio": "Yahoo",
-     "titulo": "Michael Olise keen on Spain move as Real Madrid maintain interest in Bayern Munich star",
-     "url": "https://sports.yahoo.com/articles/michael-olise-keen-spain-move-100000706.html",
-     "pub": "2026-10-15T10:00+00:00"
-    },
-    {
-     "medio": "Yahoo",
-     "titulo": "Endrick vows to fight for his place after inspiring Real Madrid comeback against Roma",
-     "url": "https://sports.yahoo.com/articles/endrick-vows-fight-place-inspiring-094000578.html",
-     "pub": "2026-10-15T09:40+00:00"
-    },
-    {
-     "medio": "AS",
-     "titulo": "El Real Madrid mantiene que nada es casual",
-     "url": "https://as.com/futbol/primera/el-real-madrid-mantiene-que-nada-es-casual-f202610-n/",
-     "pub": "2026-10-15T08:43+00:00"
-    },
-    {
-     "medio": "AS",
-     "titulo": "Se las traían muy felices y acabó en tragedia: la narración de RAC1 del Roma-Real Madrid que es puro deleite para el madridismo",
-     "url": "https://as.com/futbol/videos/se-las-traian-muy-felices-y-acabo-en-tragedia-la-narracion-de-rac1-del-roma-real-madrid-que-es-puro-deleite-para-el-madridismo-f202610-v/",
-     "pub": "2026-10-15T10:44+00:00"
-    },
-    {
-     "medio": "AS",
-     "titulo": "Las imágenes más curiosas que quizás aún no has visto de la Roma - Real Madrid",
-     "url": "https://as.com/futbol/fotorrelato/las-imagenes-mas-curiosas-que-quizas-aun-no-has-visto-de-la-roma-real-madrid-f202610-f/",
-     "pub": "2026-10-15T07:14+00:00"
-    },
-    {
-     "medio": "AS",
-     "titulo": "¿Cómo viste el partido del Madrid ante la Roma? ¿Qué te pareció el once y los cambios? Deja tu opinión",
-     "url": "https://as.com/futbol/champions/como-viste-el-partido-del-madrid-ante-la-roma-que-te-parecio-el-once-y-los-cambios-deja-tu-opinion-f202610-d/",
-     "pub": "2026-10-15T10:32+00:00"
-    },
-    {
-     "medio": "Mundo Deportivo",
-     "titulo": "Vinicius, el gran señalado en el Real Madrid",
-     "url": "https://www.mundodeportivo.com/futbol/real-madrid/20261015/1004239040/vinicius-gran-senalado-real-madrid.html",
-     "pub": ""
-    },
-    {
-     "medio": "Mundo Deportivo",
-     "titulo": "Problemas para el Sevilla antes de visitar al Real Madrid",
-     "url": "https://www.mundodeportivo.com/futbol/sevilla/20261015/1004239049/problemas-sevilla-visitar-real-madrid.html",
-     "pub": ""
+     "medio": "Infobae",
+     "titulo": "Inicia la era post Messi: los posibles rivales de la selección argentina en la fecha FIFA de noviembre y las sedes en danza",
+     "url": "https://www.infobae.com/deportes/2026/10/16/inicia-la-era-post-messi-los-posibles-rivales-de-la-seleccion-argentina-en-la-fecha-fifa-de-noviembre-y-las-sedes-en-danza/",
+     "pub": "2026-10-16T04:42+00:00"
     }
    ]
   },
@@ -1202,98 +1494,6 @@
      "titulo": "Harry Kane verbally agrees Bayern Munich deal - but fails to get desired contract length",
      "url": "https://www.mirror.co.uk/sport/football/news/harry-kane-bayern-future-contract-37777853",
      "pub": "2026-10-15T20:42+00:00"
-    }
-   ]
-  },
-  {
-   "tema": "Celtic",
-   "medios": 11,
-   "lista_medios": [
-    "Daily Mail",
-    "FourFourTwo",
-    "Google News EN",
-    "Google News ES",
-    "Guardian",
-    "Infobae",
-    "L'Equipe",
-    "Mirror",
-    "Mundo Deportivo",
-    "Record",
-    "talkSPORT"
-   ],
-   "primera_vez": "2026-10-15T11:58+00:00",
-   "titulares": [
-    {
-     "medio": "Google News EN",
-     "titulo": "Torreense: The Portuguese minnows hoping to upset Sunderland and Celtic",
-     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFA3ZkZDLUg1aW5HeVRJT1VORFRGcGtKaEJEdmFjbFBVVE9zMnd0MDRNNW1zUzFTX2xXMUMtbTJscmd3T1A0OERDUDJsbFdPc3dKd0EyNEJBTUZoekxHeENjemJrRElob185SUJn?oc=5",
-     "pub": "2026-10-15T07:30+00:00"
-    },
-    {
-     "medio": "Record",
-     "titulo": "<![CDATA[ Benfica deixa apelo aos adeptos para o jogo do Celtic e lembra \"sanção suspensa\" ]]>",
-     "url": "https://www.record.pt/futebol/futebol-nacional/liga-betclic/benfica/detalhe/benfica-deixa-apelo-aos-adeptos-para-o-jogo-do-celtic-e-lembra-sancao-suspensa",
-     "pub": "2026-10-15T11:01+00:00"
-    },
-    {
-     "medio": "talkSPORT",
-     "titulo": "Benfica vs Celtic: Get 30/1 on Benfica to score with talkSPORT BET",
-     "url": "https://talksport.com/football/4646033/benfica-celtic-europa-league-preview-enhanced-odds-betting-offer/",
-     "pub": "2026-10-15T12:33+00:00"
-    },
-    {
-     "medio": "Mirror",
-     "titulo": "What TV channel is Benfica vs Celtic on? Live streaming, how to watch and kick-off time",
-     "url": "https://www.mirror.co.uk/sport/football/news/benfica-celtic-tv-europa-league-37770214",
-     "pub": "2026-10-15T16:00+00:00"
-    },
-    {
-     "medio": "FourFourTwo",
-     "titulo": "How to watch Benfica vs Celtic: Live Streams",
-     "url": "https://www.fourfourtwo.com/competition/watch-benfica-vs-celtic-europa-league-2026-27",
-     "pub": "2026-10-15T16:00+00:00"
-    },
-    {
-     "medio": "Guardian",
-     "titulo": "Bournemouth v Sturm Graz, Benfica v Celtic, and more: Europa League – live",
-     "url": "https://www.theguardian.com/football/live/2026/oct/15/bournemouth-v-sturm-graz-benfica-v-celtic-and-more-europa-league-live",
-     "pub": "2026-10-15T20:24+00:00"
-    },
-    {
-     "medio": "Google News EN",
-     "titulo": "Benfica vs Celtic: Uefa Europa League stats & head-to-head",
-     "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBzSm1wOGo1Q2hCaFR3MzVwSnppSUxleXREbUx4RXY4bWRvZUVrX3BYT0FFOHF1dWU1dGltOXE2SkQwSV9UMXdpX3BqOVpoY1lNZFc1M2N1UEJOTkJBQm52WEp3eTlFUQ?oc=5",
-     "pub": "2026-10-15T16:35+00:00"
-    },
-    {
-     "medio": "Mundo Deportivo",
-     "titulo": "Benfica - Celtic, en directo | Europa League",
-     "url": "https://www.mundodeportivo.com/futbol/europa-league/20261015/1004237221/benfica-celtic-directo-europa-league.html",
-     "pub": ""
-    },
-    {
-     "medio": "Google News ES",
-     "titulo": "[Transmisión en vivo] Gratis! Benfica vs. Celtic: cobertura de fútbol online",
-     "url": "https://news.google.com/rss/articles/CBMi7gJBVV95cUxOaW5JOVNEV0dCMzJDMVh5V2Z4UlpnYm1sX1FKQnVReXZ0clhtZUJqeWJtMENnTVJ6X1pxZUp5bGFWb3p4UHFnTTdBaDN6UHpuWUJfLWh0akRma2thRkxpS3YzNFFvOGFzRmVHd0JWbmRja3Fyc19JaHVIcnRKamRsVElmT2pfcTRZNENQeHRRZUZEMjBUeTFBM0JkWjFjNzl5VHk1S2hmZ3IzWGxXZjlSYWtqcnZyTkVwUUM4eXlFUzhxc3Q5Rk55VFQ0aHd5UkctVVM1aEVuNk9Ob25sZlFkWGpKNGdOSV9XZ3dxdU1obnBsZmt1ZWc3ai1uZnB2ckx5bWZhX0dLZlFobEVmVlczWE81MnowNHByVS1aby1HX3I4Wkhrb1BqUzllRkQyc3NHY2JMR0JEMVEtX3hFWEVuY19RZTZUS1JTWjZhTmdieHZkMWJhQl9jX282TmRwaGd0UnVnZTRKYXdlSU56UGc?oc=5",
-     "pub": "2026-10-15T17:59+00:00"
-    },
-    {
-     "medio": "Daily Mail",
-     "titulo": "Lions to lambs in Lisbon ... but Martin O'Neill insists Celtic can still qualify for knockouts despite 4-1 defeat",
-     "url": "https://www.dailymail.com/sport/football/article-16213329/Celtic-Lisbon-ONeill.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-     "pub": "2026-10-15T23:05+00:00"
-    },
-    {
-     "medio": "Daily Mail",
-     "titulo": "Benfica 4 Celtic 1 - PLAYER RATINGS: Which Celtic player stuck to their task at the back, who was abject in the forward line and who must lead the line in the future?",
-     "url": "https://www.dailymail.com/sport/football/article-16213023/Benfica-Celtic-player-ratings.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-     "pub": "2026-10-15T21:52+00:00"
-    },
-    {
-     "medio": "Daily Mail",
-     "titulo": "Benfica 4 Celtic 1: Return to Lisbon only serves to show Bhoys how far they've fallen",
-     "url": "https://www.dailymail.com/sport/football/article-16212987/Benfica-4-Celtic-1-Return-Lisbon-serves-Bhoys-far-theyve-fallen.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-     "pub": "2026-10-15T21:00+00:00"
     }
    ]
   },
@@ -1443,12 +1643,6 @@
      "pub": "2026-10-15T07:10+00:00"
     },
     {
-     "medio": "Mirror",
-     "titulo": "Man Utd news: Lisandro Martinez confronted by team-mate as fine issued for manager outburst",
-     "url": "https://www.mirror.co.uk/sport/football/news/man-utd-lisandro-martinez-fine-37772493",
-     "pub": "2026-10-15T03:30+00:00"
-    },
-    {
      "medio": "Yahoo",
      "titulo": "Lautaro Martinez injury: Inter captain set to miss Milan derby",
      "url": "https://sports.yahoo.com/articles/lautaro-martinez-injury-inter-captain-114500498.html",
@@ -1477,6 +1671,12 @@
      "titulo": "« J'ai parlé sous le coup de la colère et de la frustration » : Lisandro Martinez s'excuse de ses propos incendiaires contre sa direction",
      "url": "https://www.lequipe.fr/Football/Actualites/-j-ai-parle-sous-le-coup-de-la-colere-et-de-la-frustration-lisandro-martinez-s-excuse-de-ses-propos-incendiaires-contre-sa-direction/1735908#at_medium=RSS_feeds",
      "pub": "2026-10-15T09:01+00:00"
+    },
+    {
+     "medio": "Planet Football",
+     "titulo": "Where are they now? The 5 players Man Utd signed alongside Lisandro Martinez in 2022",
+     "url": "https://www.planetfootball.com/manchester-united/where-are-they-now-man-utd-signings-lisandro-martinez",
+     "pub": "2026-10-15T12:45+00:00"
     }
    ]
   },
@@ -1572,93 +1772,93 @@
    ]
   },
   {
-   "tema": "FIFA",
+   "tema": "Juventus",
    "medios": 10,
    "lista_medios": [
-    "Daily Mail",
+    "AS",
     "Foot Mercato",
+    "Football Italia",
     "Google News AR",
-    "Google News EN",
-    "Infobae",
-    "Kicker",
+    "Google News ES",
     "L'Equipe",
-    "Mirror",
-    "Ole",
-    "talkSPORT"
+    "Mundo Deportivo",
+    "Planet Football",
+    "Record",
+    "Yahoo"
    ],
    "primera_vez": "2026-10-15T11:58+00:00",
    "titulares": [
     {
-     "medio": "Mirror",
-     "titulo": "FIFA to change rules to avoid Folarin Balogun repeat after World Cup scandal",
-     "url": "https://www.mirror.co.uk/sport/football/news/world-cup-fifa-infantino-balogun-37775025",
-     "pub": "2026-10-15T10:47+00:00"
+     "medio": "Planet Football",
+     "titulo": "David Trezeguet’s journey from overlooked outsider to Juventus hero",
+     "url": "https://www.planetfootball.com/nostalgia/david-trezeguets-journey-from-overlooked-outsider-to-juventus-hero",
+     "pub": "2026-10-15T08:03+00:00"
     },
     {
-     "medio": "Google News EN",
-     "titulo": "Explained: What questions will Infantino be facing at FIFA council meeting?",
-     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPVDlRS1EwTTJHbTY2UEhTc0hWNUFwVWJxRGhDQlBSUzBzQXFJeFRwb2VCWmEydjZXdUJzUV9CVUJKVFkzaVlYeG5rVjJhcDdOME9JcXlCWkJSU2NEQVNzNVg1MlphZWxXOVAtZXZqeC0tX3RBTjd3ZklTMXVXRFo5NHhULUdNYm92NFIzU0tQZTJNajd4SWd1YURialJTRFMtUWNjRE4yNVEyZElIQ2l5MVRnLV9vWmxZa1EtSkVxdmk?oc=5",
-     "pub": "2026-10-15T10:14+00:00"
+     "medio": "Mundo Deportivo",
+     "titulo": "\"Sueño con ver a Raphinha en la Juventus\"",
+     "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261015/1004239003/llorente-sueno-ver-raphinha-juventus.html",
+     "pub": ""
     },
     {
-     "medio": "Kicker",
-     "titulo": "Balogun-Kontroverse: FIFA plant wohl spontane Regeländerung",
-     "url": "https://www.kicker.de/balogun-kontroverse-fifa-plant-wohl-spontane-regelaenderung-1261558/artikel#omrss",
-     "pub": "2026-10-15T06:21+00:00"
-    },
-    {
-     "medio": "talkSPORT",
-     "titulo": "UEFA continue plot to oppose Gianni Infantino as FIFA president after $15million move",
-     "url": "https://talksport.com/football/4646374/uefa-fifa-presidential-election-gianni-infantino-vega-wenger-figo/",
-     "pub": "2026-10-15T14:04+00:00"
-    },
-    {
-     "medio": "Ole",
-     "titulo": "Consejo de la FIFA: Infantino se disculpó por el intento de privatizar el Mundial pero la UEFA no afloja...",
-     "url": "https://www.ole.com.ar/futbol-internacional/consejo-fifa-gianni-infantino-pide-disculpas-intento-privatozar-mundial-forwar-enterprise-cuestionamientos-uefa-debbie-hewitt_0_fFQyFQtshy.html",
-     "pub": "2026-10-15T16:55+00:00"
+     "medio": "Football Italia",
+     "titulo": "UEL | Celta Vigo vs Juventus: Probable line-ups and where to watch on TV",
+     "url": "https://football-italia.net/uel-celta-vigo-vs-juventus-probable-line-ups/",
+     "pub": "2026-10-15T09:00+00:00"
     },
     {
      "medio": "Google News AR",
-     "titulo": "Comenzó la era post Messi: los posibles rivales de la Selección Argentina para la fecha FIFA de noviembre",
-     "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNZEcwbWFNTzhmM1JTNkIwaDQ1XzhzMXZ1b3AwZ2k3UF9XVEtqOFN5QmdEbWRSWXlCam9rUDh5TWRPSTRPY05OWms5TkJlUGxhTHJmVEEwemo1N3FkaWgwNGxQcmVHRFVmOTktckRpbVZxMXRWMndKOHJEZ1ROYVZIbmcwQXZQc3FDa1JFYXcxbTJEMThRRTVxVWxQcWJPNUxDaXhDSWRSeTJ1d1hMcEV5aHVFT1ZfQjFrTjZLdFVQMG5sY1hPTmVRZ2FJb9IB0AFBVV95cUxPV2J0d2R3b0VxZlp1MTBfOFB2QWlfZG5lM2MwdnlUTHhOVXQxY29paHdpOWl4VHF3bkd6ckRUS2xKLXlMRHotNGFDblY1azFyNzZTUzdoMzYwalRmQV9XTWRYQ2JXcHdIai1NUWRjMkpOYW9pVEhHYXB2YVd2ZG9ZYjRiSXJDU2Z5RTlQZV9jN0Z4Z2NGNnBDbVlSX3hhaEphUEVlTmpoV21ha3JkY2JqeVJzN2U4dGpLZ1lKTnFjSDZBT2lfdGpaSkdPbEF3RFlo?oc=5",
-     "pub": "2026-10-15T14:54+00:00"
+     "titulo": "Probable alineación de Celta vs Juventus: así formarían en Balaídos",
+     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQSjJfbTlRWmZ1bjB3eEJUSU5FV3BLN0NMdktoSVRtWnBXbXFPTGJTOXdBNnkyTVJwYVlYUlpjMGhKSWxwSDRGc18yaUtYNnQyZUtlc3FyLVdWbFRkZGh0eHdGdkFIMndVUGtNNlg1OFVMMmc2Y0JTal9jbms1YTRQNg?oc=5",
+     "pub": "2026-10-15T10:00+00:00"
     },
     {
-     "medio": "L'Equipe",
-     "titulo": "La Belgique annonce la prochaine modification de l'article 27 de la FIFA, qui avait servi à requalifier Folarin Balogun pour le 8e de finale de Coupe du monde",
-     "url": "https://www.lequipe.fr/Football/Actualites/La-belgique-annonce-la-prochaine-modification-de-l-article-27-de-la-fifa-qui-avait-servi-a-requalifier-folarin-balogun-pour-le-8e-de-finale-de-coupe-du-monde/1736074#at_medium=RSS_feeds",
-     "pub": "2026-10-15T19:43+00:00"
+     "medio": "Yahoo",
+     "titulo": "Fernando Llorente confident Antonio Conte will return to Juventus",
+     "url": "https://sports.yahoo.com/articles/fernando-llorente-confident-antonio-conte-163900914.html",
+     "pub": "2026-10-15T16:39+00:00"
     },
     {
-     "medio": "L'Equipe",
-     "titulo": "Gianni Infantino s'est excusé lors du conseil de la FIFA après son projet de vente d'une partie de la Coupe du monde, mais reste très critiqué",
-     "url": "https://www.lequipe.fr/Football/Actualites/Gianni-infantino-s-est-excuse-lors-du-conseil-de-la-fifa-apres-son-projet-de-vente-d-une-partie-de-la-coupe-du-monde-mais-reste-tres-critique/1736047#at_medium=RSS_feeds",
-     "pub": "2026-10-15T17:33+00:00"
+     "medio": "Yahoo",
+     "titulo": "Carnevali: ‘Juventus made mistakes in the past, bonuses are earned’",
+     "url": "https://sports.yahoo.com/articles/carnevali-juventus-made-mistakes-past-190000456.html",
+     "pub": "2026-10-15T19:00+00:00"
     },
     {
-     "medio": "Google News AR",
-     "titulo": "Lautaro Martínez se lesionó y podría perderse la próxima fecha FIFA",
-     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQSy11OTJjUnRjUUJfTWUtQ0JKX3NPa1BkQXVpQzNKMk03Y08tMDRHdnZianV1amFhaFBMMXY4SHFWNE45dC1ZWkZrQS12anp2WUprNHFOcXcxMlptUXRXNGlqaFd6ZTVWUE1qbUtfcXNvRkdLSTIzSkJCVzEybm15dm11Qkk1b0dpNy1oMHJWXzd5YWFJMmhBazZMLVhkUUdidmQ1WnR3N3dPd3dMM09GQ3dua9IBuAFBVV95cUxPZjMydl9PeVg0SHRaRGhFT0xxOXFZVVgtdmRTa016XzRuaE5lazdubVhRM29pTjVEdkY4aXFDQ3hZOVhkdkJjcHBIRWlDSWVkV0diRWN4X2xwNHVxMjJwdGFqbXZxUG5IWTZubHZrXzdIRUZkLUctMUdTZWNoeGdrYzYzNHpMRG9zN2ZoQ2tJQ0NBRlhhQU13aVpveHhPMFpMLUlyWjF6bGFkZTIwaXV2SW10aU1laDFy?oc=5",
-     "pub": "2026-10-15T18:19+00:00"
+     "medio": "Yahoo",
+     "titulo": "Former Spain striker ‘dreams’ of seeing Barcelona captain at Juventus: “He’s a complete forward”",
+     "url": "https://sports.yahoo.com/articles/former-spain-striker-dreams-seeing-190000684.html",
+     "pub": "2026-10-15T19:00+00:00"
     },
     {
-     "medio": "Daily Mail",
-     "titulo": "FA pile pressure on Gianni Infantino - with chair saying he 'is not fit to be FIFA president' if he refuses to answer questions over World Cup sell-off",
-     "url": "https://www.dailymail.com/sport/football/article-16213231/FA-pressure-Gianni-Infantino-chair-FIFA-president-questions-World-Cup-sell-off.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-     "pub": "2026-10-15T22:19+00:00"
+     "medio": "AS",
+     "titulo": "Celta - Juventus, hoy en directo: última hora de la Europa League en vivo",
+     "url": "https://as.com/futbol/uefa/celta-juventus-hoy-en-directo-ultima-hora-de-la-europa-league-en-vivo-f202610-d/",
+     "pub": "2026-10-15T20:26+00:00"
     },
     {
-     "medio": "Foot Mercato",
-     "titulo": "FIFA : Gianni Infantino présente ses excuses",
-     "url": "https://www.footmercato.net/a8544124663526136908-fifa-gianni-infantino-presente-ses-excuses",
-     "pub": "2026-10-16T10:51+00:00"
+     "medio": "Google News ES",
+     "titulo": "‍‍‍!+【FÚTBOL】Celta de Vigo vs Juventus En directo y gratis en televisión, canal 15 de octubre de 2026",
+     "url": "https://news.google.com/rss/articles/CBMi-AJBVV95cUxNUXh0Ty1POTNEaGVnSFRrSm9sZWFXX2tVY0E2WGREaE9uWF9OamxmNmgwUXhIamNmaEo2RF9nbDRCWlFsQ3FUaDl2T0tkM1licHR2REpDVHVHUm5LdGVFMFNJaGZKejF3ZzBmaDNYc3NHLU1YYThQRTJ5X0hLY1ZoN29pcWJ5SkxldkxabWdwMlRhOUdLajlRZVBYV3ptaV9EXzdSNVdyT1VobWUyQ0NTcWVFbE1kS3hGVjVpanA0RXk3b1o0QURWZENYMDZxQzJUWTV0RVlPR2taeE9zQVJjclI2OXJUd0xEZFROMHU4NVJzWGpwU2x3eEs3NHVHQ2lYeGs0ZjFFOWVncUlKTGZPOUY1VmQ0UDR5SWkxMU0zQWEyS2lqSmRyZ1RWekpFTHBocENna2htVGx4cUJaSmJLVzVUQU8yQUUxMUhicWRSM1ZlZzlVQ3l4OEtNLVZTa0Z0LXZVRmN3Q2stTWRaYzVmM2hXYm9qOWs5?oc=5",
+     "pub": "2026-10-15T17:54+00:00"
     },
     {
-     "medio": "Infobae",
-     "titulo": "Inicia la era post Messi: los posibles rivales de la selección argentina en la fecha FIFA de noviembre y las sedes en danza",
-     "url": "https://www.infobae.com/deportes/2026/10/16/inicia-la-era-post-messi-los-posibles-rivales-de-la-seleccion-argentina-en-la-fecha-fifa-de-noviembre-y-las-sedes-en-danza/",
-     "pub": "2026-10-16T04:42+00:00"
+     "medio": "Google News ES",
+     "titulo": "💢√![FÚTBOL EN DIRECTO] Celta vs. Juventus: transmisión por televisión, 16 de octubre de 2026",
+     "url": "https://news.google.com/rss/articles/CBMi1gNBVV95cUxNSWk0QmNFNS13cFR3YTVqVmh4THoyVFlEcGNZTzZDMnlNUm9iQ0IyNFdRTWRLNnh0OGRYMGZZTVhwZ3ZyV2VZbXoydnR6VjE0RWpfaDU1QkxOSmRTeElSZEh2RUl4aWd3Z0FHN0JTN2gzUVBENmVSRV9VSjNvV2RKSzh3UVk3Y0RxVFZXME10UER0V0xObTNiaWtnNUhNQkxXRGxySFUtbFFfNEQ3dDNoc1o5Qnd0QTVLUzJDbEJCTXJJelFTbHBkVllmeF8wamxTdmp1dUhHZDhPX0lTZXdEVmRBa3ZROFJueWRQN2xBQlFlTGRtMzA1TW5Ta0plVnFqUEhUclNZZVkzTl95NkZJWnRnS1gxcDVxQkFvd0NGOFh5dUhJQ0E3TFJ1ZnRqV2h4cUxwM1dGY0E2bHJVRVUxVVo0UVR0SXF1a1RuX19CQ3FjUkczc1NtSVJUQkFfUjhTclVrSTNsYnJJZUMwbDR1WHQ5WkEySk5IQUdIMUJvaVFjOXNka0c1Rlk3czZBUWp0c1pkLWxhVnlKZ0JzOThDbnZuSnB2Y21PWjVtazFZbm12QXktblNTZEk2TkhQZHR5cWJ5QzNFdWpqcEVWQWJhb0hwM2xfdw?oc=5",
+     "pub": "2026-10-15T19:15+00:00"
+    },
+    {
+     "medio": "Football Italia",
+     "titulo": "Europa League line-ups: Celta Vigo vs. Juventus",
+     "url": "https://football-italia.net/celta-vigo-juventus-europa-league-line-ups/",
+     "pub": "2026-10-15T17:47+00:00"
+    },
+    {
+     "medio": "Football Italia",
+     "titulo": "Juventus talent Conceicao denies tantrum in Vigo: ‘I want to be clear’",
+     "url": "https://football-italia.net/juventus-talent-conceicao-denies-tantrum-celta/",
+     "pub": "2026-10-15T22:01+00:00"
     }
    ]
   },
@@ -1936,51 +2136,62 @@
    ]
   },
   {
-   "tema": "James",
-   "medios": 10,
+   "tema": "Bournemouth",
+   "medios": 9,
    "lista_medios": [
     "BBC",
     "Daily Mail",
     "Foot Mercato",
     "Google News EN",
     "Guardian",
-    "L'Equipe",
-    "Record",
+    "Mundo Deportivo",
     "Sky Sports",
     "Yahoo",
-    "talkSPORT"
+    "ge.globo"
    ],
-   "primera_vez": "2026-10-15T20:30+00:00",
+   "primera_vez": "2026-10-15T11:58+00:00",
    "titulares": [
     {
-     "medio": "Google News EN",
-     "titulo": "Weekend football predictions & free betting accumulator tips from James Milton",
-     "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPX1BBdFlTaDBNbTVVNno2cFpKUlR5b1hzdWpTT3hRaHBuckZlM0kxT0o1M2c4c1ZBSXdXdUV6cHN4a1BUd1ZXYWRCQ0lIN2IzbXVjTXRxM3lHY1l2QlBNaEI2ZTM4eUhOMndfRnFTMDNiTlc2WlZPcUNWdzZkeHlfWlpCM2ZiZzVnX0I4UV9UbnZTRDlyWERTTWlhSm9FNm1rRXBOQzRISVBES3VLcE1oX1FhRlExQ09DT0hLM1BfaUZIUG9HZld2VVU4OWVGSmpLNndV?oc=5",
-     "pub": "2026-10-15T18:00+00:00"
+     "medio": "Sky Sports",
+     "titulo": "Bournemouth will consider Scott sale in January for over £80m",
+     "url": "https://www.skysports.com/football/news/12040/13599539/alex-scott-transfer-news-bournemouth-will-consider-offers-in-excess-of-80m-for-england-international-amid-refusal-to-sign-new-contract",
+     "pub": "2026-10-15T11:52+00:00"
     },
     {
-     "medio": "BBC",
-     "titulo": "Chelsea's James out for three months after knee surgery",
-     "url": "https://www.bbc.co.uk/sport/football/articles/cq073d9l0ly9o?at_medium=RSS&at_campaign=rss",
-     "pub": "2026-10-16T09:02+00:00"
+     "medio": "Google News EN",
+     "titulo": "STAR FOOTBALL PREVIEW Thurs: Bournemouth v Sturm Graz",
+     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOcWJIeVJKZXRTWFF2ZFNGem9BLWw2bUFGaGxlb0NKWVkwZ2ZId1R2ZlFIMTNwcFJMX21KLVBFdDBMZlRXWC1IVDU3eWlhc1hWZzFJLTcwRmhJa0J6eVBiTHdsbG4tcTh2enpNZTZLTm0tbHBCUUlzS1NSeUkzSjIycW5MT2YzLU5XS0lR?oc=5",
+     "pub": "2026-10-15T09:48+00:00"
+    },
+    {
+     "medio": "Daily Mail",
+     "titulo": "Liverpool Confidential: Boost in Alex Scott hunt as Bournemouth sources say Reds in 'driving seat' for £100m midfielder, truth about Dominik Szoboszlai injury rumours and Giovanni Leoni update",
+     "url": "https://www.dailymail.com/sport/football/article-16208237/liverpool-alex-scott-transfer-Szoboszlai-Leoni.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+     "pub": "2026-10-15T16:00+00:00"
     },
     {
      "medio": "Guardian",
-     "titulo": "James has knee surgery; Martínez sorry; Watford sacking reports ‘fake news’: football – live",
-     "url": "https://www.theguardian.com/football/live/2026/oct/16/martinez-sorry-outburst-european-reaction-premier-league-latest-football-news-live",
-     "pub": "2026-10-16T11:39+00:00"
+     "titulo": "Bournemouth v Sturm Graz, Benfica v Celtic, and more: Europa League – live",
+     "url": "https://www.theguardian.com/football/live/2026/oct/15/bournemouth-v-sturm-graz-benfica-v-celtic-and-more-europa-league-live",
+     "pub": "2026-10-15T20:24+00:00"
     },
     {
-     "medio": "Sky Sports",
-     "titulo": "Chelsea captain James out for around three months",
-     "url": "https://www.skysports.com/football/news/12040/13599896/reece-james-chelsea-captain-out-for-around-three-months-after-minor-surgery-on-knee-injury-picked-up-in-training",
-     "pub": "2026-10-16T11:06+00:00"
+     "medio": "Yahoo",
+     "titulo": "Update On Chelsea And Their Pursuit Of This Bournemouth Star: What Should Alonso Do?",
+     "url": "https://sports.yahoo.com/articles/chelsea-pursuit-bournemouth-star-alonso-195000740.html",
+     "pub": "2026-10-15T19:50+00:00"
     },
     {
-     "medio": "talkSPORT",
-     "titulo": "Reece James forced to undergo surgery as Chelsea star suffers another injury",
-     "url": "https://talksport.com/football/4647376/chelsea-reece-james-surgery-injury-training/",
-     "pub": "2026-10-16T08:39+00:00"
+     "medio": "Mundo Deportivo",
+     "titulo": "Bournemouth - Sturm Graz, en directo | Europa League",
+     "url": "https://www.mundodeportivo.com/futbol/europa-league/20261015/1004237218/bournemouth-sturm-graz-directo-europa-league.html",
+     "pub": ""
+    },
+    {
+     "medio": "BBC",
+     "titulo": "Minus 17 to European dreams as Bournemouth fairytale continues",
+     "url": "https://www.bbc.co.uk/sport/football/articles/c6lyez88m1n2o?at_medium=RSS&at_campaign=rss",
+     "pub": "2026-10-15T22:42+00:00"
     },
     {
      "medio": "Daily Mail",
@@ -1989,40 +2200,22 @@
      "pub": "2026-10-16T10:29+00:00"
     },
     {
-     "medio": "Yahoo",
-     "titulo": "Chelsea captain Reece James facing three months out after successful knee surgery",
-     "url": "https://sports.yahoo.com/articles/chelsea-captain-reece-james-facing-114000422.html",
-     "pub": "2026-10-16T11:40+00:00"
-    },
-    {
-     "medio": "Yahoo",
-     "titulo": "Chelsea captain Reece James faces months out after knee surgery",
-     "url": "https://sports.yahoo.com/articles/chelsea-captain-reece-james-faces-085759365.html",
-     "pub": "2026-10-16T10:52+00:00"
-    },
-    {
-     "medio": "Google News EN",
-     "titulo": "Chelsea's Reece James has surgery for knee issue",
-     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1Jd1AwYjRFclNKeGhpcmFCc3NoMVU1aHl2b1dXMVVIQjRrTkJWLTMxSUR0NFhmaGh2TkdtOWMtTlNfY2pfMnY0RXd5QndNbVZBb244dmNvVnJpX1ZfOUZyZUFCU1NqN3RtcTVV?oc=5",
-     "pub": "2026-10-16T09:02+00:00"
-    },
-    {
-     "medio": "L'Equipe",
-     "titulo": "Opéré d'un genou, Reece James devrait manquer trois mois de compétition avec Chelsea",
-     "url": "https://www.lequipe.fr/Football/Actualites/Opere-d-un-genou-reece-james-devrait-manquer-trois-mois-de-competition-avec-chelsea/1736190#at_medium=RSS_feeds",
-     "pub": "2026-10-16T11:16+00:00"
-    },
-    {
      "medio": "Foot Mercato",
-     "titulo": "Chelsea : nouvelle blessure au genou pour Reece James",
-     "url": "https://www.footmercato.net/a2448727247895109364-chelsea-nouvelle-blessure-au-genou-pour-reece-james",
-     "pub": "2026-10-16T08:46+00:00"
+     "titulo": "Bournemouth table déjà sur une vente à 100M€ pour le mercato hivernal",
+     "url": "https://www.footmercato.net/a6123301519259011296-bournemouth-table-deja-sur-une-vente-a-100meur-pour-le-mercato-hivernal",
+     "pub": "2026-10-15T20:30+00:00"
     },
     {
-     "medio": "Record",
-     "titulo": "<![CDATA[ Reece James operado ao joelho desfalca Chelsea nos próximos meses ]]>",
-     "url": "https://www.record.pt/internacional/paises/inglaterra/chelsea/detalhe/reece-james-operado-ao-joelho-desfalca-chelsea-nos-proximos-meses",
-     "pub": "2026-10-16T11:25+00:00"
+     "medio": "ge.globo",
+     "titulo": "Manchester United x Bournemouth - Campeonato Inglês 2026/27 - globoesporte.com",
+     "url": "https://ge.globo.com/futebol/futebol-internacional/futebol-ingles/jogo/25-10-2026/Manchesterunited-bournemouth.ghtml",
+     "pub": "2026-10-16T13:19+00:00"
+    },
+    {
+     "medio": "ge.globo",
+     "titulo": "Bournemouth x Milan - Liga Europa 2026/27 - globoesporte.com",
+     "url": "https://ge.globo.com/futebol/futebol-internacional/liga-europa/jogo/22-10-2026/bournemouth-milan.ghtml",
+     "pub": "2026-10-16T12:56+00:00"
     }
    ]
   },
@@ -2163,24 +2356,6 @@
      "pub": "2026-10-15T07:47+00:00"
     },
     {
-     "medio": "Ole",
-     "titulo": "El Inter Miami de Messi ya está en los playoffs de la MLS: cómo sigue el certamen",
-     "url": "https://www.ole.com.ar/futbol-internacional/mls-inter-miami-playoffs-aseguro-2026_0_GyiP8cTGGf.html",
-     "pub": "2026-10-15T01:56+00:00"
-    },
-    {
-     "medio": "Ole",
-     "titulo": "Video: la asistencia de Messi para De Paul en Inter Miami vs New York City",
-     "url": "https://www.ole.com.ar/futbol-internacional/participacion-messi-golazo-toque-inter-miami-new-york-city_0_esYvuWSGNt.html",
-     "pub": "2026-10-15T00:45+00:00"
-    },
-    {
-     "medio": "Infobae",
-     "titulo": "Asistencia, sociedad con De Paul y varios remates al arco: el partido de Messi en el triunfo del Inter Miami ante New York City FC",
-     "url": "https://www.infobae.com/deportes/2026/10/15/asistencia-sociedad-con-de-paul-y-varios-remates-al-arco-el-partido-de-messi-en-el-triunfo-del-inter-miami-ante-new-york-city-fc/",
-     "pub": "2026-10-15T03:26+00:00"
-    },
-    {
      "medio": "Google News AR",
      "titulo": "El “Loco” Dalla Libera, sin filtro: la insólita expulsión que lo llevó al retiro, el día que volvió a nacer y las lágrimas que le arrancó Messi",
      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPYnJtQUVLYmlKc0l4Q0J0S3B4Q0ZpNVRYeUowV1FFVHNra0l3aWlMOW5TS2NNWEdMcnU1Q0VlZ3lKVHU2Ym5LV2ZYdXREdnhodjhzNXhJSWlPQmhZT2JGcGhPeThaSHRQelcydFpQaHlOU3NEclJpRThlYlhVVU1iOEtvZFNWYUpGanBfQ1RYcFJuemJ6RVBpZ2VnSzM3SG56Mm82YllsUTE4UzBndG03b0htM0JCNWpmYTZqc2tFNHpaMmw4NDl4STQ3RTJEUHNaR01pOVpTbmQyTGN6U3Nr?oc=5",
@@ -2203,96 +2378,114 @@
      "titulo": "Revelaron tres informes inéditos de un joven Messi en Barcelona: \"Es un Maradona\" y \"no se debe fichar\"",
      "url": "https://www.ole.com.ar/messi/revelaron-informes-ineditos-joven-lionel-messi-barcelona-maradona-debe-ficharse_0_kteXeAxFt3.html",
      "pub": "2026-10-15T15:51+00:00"
+    },
+    {
+     "medio": "Google News AR",
+     "titulo": "De papi fútbol: el golazo viral del Inter Miami con toques de Messi y De Paul",
+     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQWVZ2LVJ3ZGFGSS02cHBQMmJLaVVyVlRBRFBudlg0cUlKay0yLUJpZ3dyRnJlSF83UHZMN2c3V0Vma0hYTmtyT29Gb2M1NEVvb284cEJYVmV2MURCNlNuWHEwM1JWd3I3aVFIaEdYd0oySmJrTFVTR3VJWDhfQWM4UzgzcnppYkNCalpHaUl0YXZOZWt1XzVMbWN2SjRDVXkwUVN3WWtXdWlGZGd3X1VF0gG0AUFVX3lxTE4ybTduQ0trbl9vaGpLb1R4Q1pZeGdweXdFOGRpTnZYQzlNNl9Qcm03WTg1TWR0MHprN2VtenEzSDNna2g1ekRHZE5VOVRjeVgzY3ZGYzREcGNJYjF1UzUzaXlmTlhfOTFMV0lESm1uLTZYdXllemxQRm9oOXZ0eGRXa3QxSVpLZVh0cmtyMmJPd1A5RjBEMVFXS3dhS3p3OHdQVG95WE1qMXd3dHFUWWZhSlNXaw?oc=5",
+     "pub": "2026-10-15T12:14+00:00"
+    },
+    {
+     "medio": "Google News AR",
+     "titulo": "Comenzó la era post Messi: los posibles rivales de la Selección Argentina para la fecha FIFA de noviembre",
+     "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNZEcwbWFNTzhmM1JTNkIwaDQ1XzhzMXZ1b3AwZ2k3UF9XVEtqOFN5QmdEbWRSWXlCam9rUDh5TWRPSTRPY05OWms5TkJlUGxhTHJmVEEwemo1N3FkaWgwNGxQcmVHRFVmOTktckRpbVZxMXRWMndKOHJEZ1ROYVZIbmcwQXZQc3FDa1JFYXcxbTJEMThRRTVxVWxQcWJPNUxDaXhDSWRSeTJ1d1hMcEV5aHVFT1ZfQjFrTjZLdFVQMG5sY1hPTmVRZ2FJb9IB0AFBVV95cUxPV2J0d2R3b0VxZlp1MTBfOFB2QWlfZG5lM2MwdnlUTHhOVXQxY29paHdpOWl4VHF3bkd6ckRUS2xKLXlMRHotNGFDblY1azFyNzZTUzdoMzYwalRmQV9XTWRYQ2JXcHdIai1NUWRjMkpOYW9pVEhHYXB2YVd2ZG9ZYjRiSXJDU2Z5RTlQZV9jN0Z4Z2NGNnBDbVlSX3hhaEphUEVlTmpoV21ha3JkY2JqeVJzN2U4dGpLZ1lKTnFjSDZBT2lfdGpaSkdPbEF3RFlo?oc=5",
+     "pub": "2026-10-15T14:54+00:00"
+    },
+    {
+     "medio": "Infobae",
+     "titulo": "“Nefasto”: las repercusiones sobre el polémico informe que le recomendaba al Barcelona “no fichar” a Messi cuando tenía 13 años",
+     "url": "https://www.infobae.com/deportes/2026/10/15/nefasto-las-repercusiones-sobre-el-polemico-informe-que-le-recomendaba-al-barcelona-no-fichar-a-messi-cuando-tenia-13-anos/",
+     "pub": "2026-10-15T19:43+00:00"
     }
    ]
   },
   {
-   "tema": "Juventus",
+   "tema": "Ronaldo",
    "medios": 9,
    "lista_medios": [
-    "AS",
     "Foot Mercato",
-    "Football Italia",
-    "Google News AR",
     "Google News ES",
-    "L'Equipe",
-    "Mundo Deportivo",
+    "Infobae",
+    "Ole",
     "Planet Football",
-    "Yahoo"
+    "Record",
+    "Sky Sports",
+    "ge.globo",
+    "talkSPORT"
    ],
    "primera_vez": "2026-10-15T11:58+00:00",
    "titulares": [
     {
      "medio": "Planet Football",
-     "titulo": "David Trezeguet’s journey from overlooked outsider to Juventus hero",
-     "url": "https://www.planetfootball.com/nostalgia/david-trezeguets-journey-from-overlooked-outsider-to-juventus-hero",
-     "pub": "2026-10-15T08:03+00:00"
-    },
-    {
-     "medio": "Mundo Deportivo",
-     "titulo": "\"Sueño con ver a Raphinha en la Juventus\"",
-     "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261015/1004239003/llorente-sueno-ver-raphinha-juventus.html",
-     "pub": ""
-    },
-    {
-     "medio": "Football Italia",
-     "titulo": "UEL | Celta Vigo vs Juventus: Probable line-ups and where to watch on TV",
-     "url": "https://football-italia.net/uel-celta-vigo-vs-juventus-probable-line-ups/",
-     "pub": "2026-10-15T09:00+00:00"
-    },
-    {
-     "medio": "Google News AR",
-     "titulo": "Probable alineación de Celta vs Juventus: así formarían en Balaídos",
-     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQSjJfbTlRWmZ1bjB3eEJUSU5FV3BLN0NMdktoSVRtWnBXbXFPTGJTOXdBNnkyTVJwYVlYUlpjMGhKSWxwSDRGc18yaUtYNnQyZUtlc3FyLVdWbFRkZGh0eHdGdkFIMndVUGtNNlg1OFVMMmc2Y0JTal9jbms1YTRQNg?oc=5",
-     "pub": "2026-10-15T10:00+00:00"
-    },
-    {
-     "medio": "Yahoo",
-     "titulo": "Fernando Llorente confident Antonio Conte will return to Juventus",
-     "url": "https://sports.yahoo.com/articles/fernando-llorente-confident-antonio-conte-163900914.html",
-     "pub": "2026-10-15T16:39+00:00"
-    },
-    {
-     "medio": "Yahoo",
-     "titulo": "Carnevali: ‘Juventus made mistakes in the past, bonuses are earned’",
-     "url": "https://sports.yahoo.com/articles/carnevali-juventus-made-mistakes-past-190000456.html",
-     "pub": "2026-10-15T19:00+00:00"
-    },
-    {
-     "medio": "Yahoo",
-     "titulo": "Former Spain striker ‘dreams’ of seeing Barcelona captain at Juventus: “He’s a complete forward”",
-     "url": "https://sports.yahoo.com/articles/former-spain-striker-dreams-seeing-190000684.html",
-     "pub": "2026-10-15T19:00+00:00"
-    },
-    {
-     "medio": "AS",
-     "titulo": "Celta - Juventus, hoy en directo: última hora de la Europa League en vivo",
-     "url": "https://as.com/futbol/uefa/celta-juventus-hoy-en-directo-ultima-hora-de-la-europa-league-en-vivo-f202610-d/",
-     "pub": "2026-10-15T20:26+00:00"
+     "titulo": "The 10 players with the most Champions League goals & assists: Messi or Ronaldo at No.1?",
+     "url": "https://www.planetfootball.com/quick-reads/champions-league-goals-assists-all-time-top-10-messi-ronaldo-benzema",
+     "pub": "2026-10-15T05:58+00:00"
     },
     {
      "medio": "Google News ES",
-     "titulo": "‍‍‍!+【FÚTBOL】Celta de Vigo vs Juventus En directo y gratis en televisión, canal 15 de octubre de 2026",
-     "url": "https://news.google.com/rss/articles/CBMi-AJBVV95cUxNUXh0Ty1POTNEaGVnSFRrSm9sZWFXX2tVY0E2WGREaE9uWF9OamxmNmgwUXhIamNmaEo2RF9nbDRCWlFsQ3FUaDl2T0tkM1licHR2REpDVHVHUm5LdGVFMFNJaGZKejF3ZzBmaDNYc3NHLU1YYThQRTJ5X0hLY1ZoN29pcWJ5SkxldkxabWdwMlRhOUdLajlRZVBYV3ptaV9EXzdSNVdyT1VobWUyQ0NTcWVFbE1kS3hGVjVpanA0RXk3b1o0QURWZENYMDZxQzJUWTV0RVlPR2taeE9zQVJjclI2OXJUd0xEZFROMHU4NVJzWGpwU2x3eEs3NHVHQ2lYeGs0ZjFFOWVncUlKTGZPOUY1VmQ0UDR5SWkxMU0zQWEyS2lqSmRyZ1RWekpFTHBocENna2htVGx4cUJaSmJLVzVUQU8yQUUxMUhicWRSM1ZlZzlVQ3l4OEtNLVZTa0Z0LXZVRmN3Q2stTWRaYzVmM2hXYm9qOWs5?oc=5",
-     "pub": "2026-10-15T17:54+00:00"
+     "titulo": "Ronaldo Nazário y la ministra de Deportes india plantean el fútbol como motor de desarrollo",
+     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPTDhYclV0S0kxdEV4bGtJVHkxNkJwRzdVQks3SHFib1g1QWdTVFppUE5Mc1FVcUpscm5HaW8ybEZtN25Sb1NoNFpodEc2M3pLaFREOXRMSjFpTDZqOG1MUmFGS1BMek5NZUhvZFp5SmttdUdMUi03RUNoY29OYkxpTkRUem5jMU5keHFUS0Y4XzlyaGV0VFdycG1sSlhNcFlDWnpjRUNHNWlVUXFLSHYtbWw0MndvRHI30gG4AUFVX3lxTE53cUlXNzNHZEZBSS1hekF4UHJHSFdYVTA1a0ZHQzhUQXRwT29ldzVxejE4X0lpT3pxdGVpZnRqajNGZmh2bVdESFlGRW5CdF9qNFlicHFHSkRQYlA0LTd3T05rRFhkV0lJbEpYcmYtZDVzX2VYdkZLLWV5SG80S09CeXlfcmFQMlJpQ1Y1ZjZNM1BELV9kQmcwUUV6SW5FY2E0Tjd5bDloSVFIZHpvNUM1VVJMNGVBQko?oc=5",
+     "pub": "2026-10-15T11:17+00:00"
     },
     {
-     "medio": "Google News ES",
-     "titulo": "💢√![FÚTBOL EN DIRECTO] Celta vs. Juventus: transmisión por televisión, 16 de octubre de 2026",
-     "url": "https://news.google.com/rss/articles/CBMi1gNBVV95cUxNSWk0QmNFNS13cFR3YTVqVmh4THoyVFlEcGNZTzZDMnlNUm9iQ0IyNFdRTWRLNnh0OGRYMGZZTVhwZ3ZyV2VZbXoydnR6VjE0RWpfaDU1QkxOSmRTeElSZEh2RUl4aWd3Z0FHN0JTN2gzUVBENmVSRV9VSjNvV2RKSzh3UVk3Y0RxVFZXME10UER0V0xObTNiaWtnNUhNQkxXRGxySFUtbFFfNEQ3dDNoc1o5Qnd0QTVLUzJDbEJCTXJJelFTbHBkVllmeF8wamxTdmp1dUhHZDhPX0lTZXdEVmRBa3ZROFJueWRQN2xBQlFlTGRtMzA1TW5Ta0plVnFqUEhUclNZZVkzTl95NkZJWnRnS1gxcDVxQkFvd0NGOFh5dUhJQ0E3TFJ1ZnRqV2h4cUxwM1dGY0E2bHJVRVUxVVo0UVR0SXF1a1RuX19CQ3FjUkczc1NtSVJUQkFfUjhTclVrSTNsYnJJZUMwbDR1WHQ5WkEySk5IQUdIMUJvaVFjOXNka0c1Rlk3czZBUWp0c1pkLWxhVnlKZ0JzOThDbnZuSnB2Y21PWjVtazFZbm12QXktblNTZEk2TkhQZHR5cWJ5QzNFdWpqcEVWQWJhb0hwM2xfdw?oc=5",
-     "pub": "2026-10-15T19:15+00:00"
+     "medio": "Sky Sports",
+     "titulo": "Ronaldo NAILS tee shot at DP World Tour event in India!",
+     "url": "https://www.skysports.com/watch/video/13599543/football-legend-turns-golfer-r9-tees-off-at-dp-world-tour-event-in-india",
+     "pub": "2026-10-15T12:01+00:00"
     },
     {
-     "medio": "Football Italia",
-     "titulo": "Europa League line-ups: Celta Vigo vs. Juventus",
-     "url": "https://football-italia.net/celta-vigo-juventus-europa-league-line-ups/",
-     "pub": "2026-10-15T17:47+00:00"
+     "medio": "Foot Mercato",
+     "titulo": "Portugal : Vitinha lâche ses vérités sur le retour annoncé de Cristiano Ronaldo",
+     "url": "https://www.footmercato.net/a7262451384109641732-portugal-vitinha-lache-ses-verites-sur-le-retour-annonce-de-cristiano-ronaldo",
+     "pub": "2026-10-15T17:01+00:00"
     },
     {
-     "medio": "Football Italia",
-     "titulo": "Juventus talent Conceicao denies tantrum in Vigo: ‘I want to be clear’",
-     "url": "https://football-italia.net/juventus-talent-conceicao-denies-tantrum-celta/",
-     "pub": "2026-10-15T22:01+00:00"
+     "medio": "Ole",
+     "titulo": "Wayne Rooney liquidó a Cristiano Ronaldo por el final de su carrera: \"No lo está llevando bien, resulta incómodo de ver\"",
+     "url": "https://www.ole.com.ar/futbol-internacional/inglaterra/cristianoronaldo-waynerooney-manchesterunited-portugal_0_MDIcdmG6V2.html",
+     "pub": "2026-10-15T15:49+00:00"
+    },
+    {
+     "medio": "Record",
+     "titulo": "<![CDATA[ Tiago Mendes abre o livro: recusou ir ao Euro'2008, a renúncia e regresso à Seleção e... o caso Ronaldo ]]>",
+     "url": "https://www.record.pt/futebol/futebol-nacional/detalhe/tiago-mendes-abre-o-livro-recusou-ir-ao-euro-2008-a-renuncia-e-regresso-a-selecao-e-o-caso-ronaldo",
+     "pub": "2026-10-15T19:40+00:00"
+    },
+    {
+     "medio": "Infobae",
+     "titulo": "La sugerente sentencia de la hermana de Cristiano Ronaldo sobre el futuro del delantero tras el escándalo en la selección de Portugal",
+     "url": "https://www.infobae.com/deportes/2026/10/15/la-sugerente-sentencia-de-la-hermana-de-cristiano-ronaldo-sobre-el-futuro-del-delantero-tras-el-escandalo-en-la-seleccion-de-portugal/",
+     "pub": "2026-10-15T23:05+00:00"
+    },
+    {
+     "medio": "ge.globo",
+     "titulo": "Como era o mundo em 1996, ano em que Ronaldo marcou seu 1º hat-trick pela Seleção",
+     "url": "https://ge.globo.com/pi/futebol/noticia/2026/10/16/como-era-o-mundo-em-1996-ano-em-que-ronaldo-marcou-seu-1o-hat-trick-pela-selecao.ghtml",
+     "pub": "2026-10-16T10:21+00:00"
+    },
+    {
+     "medio": "ge.globo",
+     "titulo": "Primeiro hat-trick de Ronaldo pela seleção brasileira completa 30 anos",
+     "url": "https://ge.globo.com/pi/futebol/noticia/2026/10/16/primeiro-hat-trick-de-ronaldo-pela-selecao-brasileira-completa-30-anos.ghtml",
+     "pub": "2026-10-16T07:00+00:00"
+    },
+    {
+     "medio": "ge.globo",
+     "titulo": "Mourinho tentou barrar ida de Ronaldo para amistoso do Brasil em Teresina há exatos 30 anos",
+     "url": "https://ge.globo.com/pi/futebol/noticia/2026/10/16/mourinho-tentou-barrar-ida-de-ronaldo-para-amistoso-do-brasil-em-teresina-ha-exatos-30-anos.ghtml",
+     "pub": "2026-10-16T07:00+00:00"
+    },
+    {
+     "medio": "talkSPORT",
+     "titulo": "When is Cristiano Ronaldo playing next as Al Ahli v Al Nassr is postponed?",
+     "url": "https://talksport.com/football/4647915/when-cristiano-ronaldo-playing-next-al-nassr-postponed/",
+     "pub": "2026-10-16T12:57+00:00"
+    },
+    {
+     "medio": "Record",
+     "titulo": "<![CDATA[ Pedro Proença volta a abrir a porta ao regresso de Ronaldo à Seleção: «É uma das peças fundamentais» ]]>",
+     "url": "https://www.record.pt/futebol/selecoes/detalhe/pedro-proenca-volta-a-abrir-a-porta-ao-regresso-de-ronaldo-a-selecao-e-uma-das-pecas-fundamentais",
+     "pub": "2026-10-16T16:40+00:00"
     }
    ]
   },
@@ -2387,6 +2580,96 @@
    ]
   },
   {
+   "tema": "Alex",
+   "medios": 9,
+   "lista_medios": [
+    "Daily Mail",
+    "FourFourTwo",
+    "Google News EN",
+    "Guardian",
+    "Mirror",
+    "Planet Football",
+    "Yahoo",
+    "ge.globo",
+    "talkSPORT"
+   ],
+   "primera_vez": "2026-10-15T17:17+00:00",
+   "titulares": [
+    {
+     "medio": "Guardian",
+     "titulo": "Alex Scott quits Disney+ role as Women’s Champions League presenter",
+     "url": "https://www.theguardian.com/football/2026/oct/15/alex-scott-quits-disney-womens-champions-league-presenter",
+     "pub": "2026-10-15T14:58+00:00"
+    },
+    {
+     "medio": "Daily Mail",
+     "titulo": "Alex Scott QUITS Disney's 'Gen Z' Women's Champions League football show, just two rounds of matches in, after saying she 'didn't agree with all decisions' on 'Match of the Day with a dog'",
+     "url": "https://www.dailymail.com/sport/football/article-16212253/Alex-Scott-QUITS-Disneys-Gen-Z-Womens-Champions-League-football-just-two-rounds-matches-saying-didnt-agree-decisions-Match-Day-dog.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+     "pub": "2026-10-15T16:00+00:00"
+    },
+    {
+     "medio": "Daily Mail",
+     "titulo": "Liverpool Confidential: Boost in Alex Scott hunt as Bournemouth sources say Reds in 'driving seat' for £100m midfielder, truth about Dominik Szoboszlai injury rumours and Giovanni Leoni update",
+     "url": "https://www.dailymail.com/sport/football/article-16208237/liverpool-alex-scott-transfer-Szoboszlai-Leoni.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+     "pub": "2026-10-15T16:00+00:00"
+    },
+    {
+     "medio": "Mirror",
+     "titulo": "BBC star and Lionesses legend Alex Scott returns to secondary school - 'It’s a privilege'",
+     "url": "https://www.mirror.co.uk/sport/football/news/bbc-star-lionesses-legend-alex-37774852",
+     "pub": "2026-10-15T13:56+00:00"
+    },
+    {
+     "medio": "Yahoo",
+     "titulo": "Alex Scott quits Disney+ role after criticism of Women’s Champions League coverage",
+     "url": "https://sports.yahoo.com/articles/alex-scott-quits-disney-role-161524940.html",
+     "pub": "2026-10-15T16:33+00:00"
+    },
+    {
+     "medio": "ge.globo",
+     "titulo": "Líbero, volante e agora artilheiro: quem é João Miguel, jovem de 22 anos que encanta Alex na Série B",
+     "url": "https://ge.globo.com/mg/zona-da-mata-centro-oeste/futebol/times/athletic-club/noticia/2026/10/15/libero-volante-e-agora-artilheiro-quem-e-joao-miguel-jovem-de-22-anos-que-encanta-alex-na-serie-b.ghtml",
+     "pub": "2026-10-15T13:22+00:00"
+    },
+    {
+     "medio": "talkSPORT",
+     "titulo": "Alex Scott quits job months after Football Focus cancelled",
+     "url": "https://talksport.com/football/4646861/alex-scott-quits-disney-presenter-football-focus/",
+     "pub": "2026-10-15T18:57+00:00"
+    },
+    {
+     "medio": "Mirror",
+     "titulo": "Alex Scott quits Disney+ job just weeks after new role began following BBC Football Focus exit",
+     "url": "https://www.mirror.co.uk/sport/football/news/champions-league-disney-alex-scott-37777805",
+     "pub": "2026-10-15T19:40+00:00"
+    },
+    {
+     "medio": "Yahoo",
+     "titulo": "Liverpool make midfield transfer plans after Alex Scott U-turn",
+     "url": "https://sports.yahoo.com/articles/liverpool-midfield-transfer-plans-alex-185000479.html",
+     "pub": "2026-10-15T18:50+00:00"
+    },
+    {
+     "medio": "Planet Football",
+     "titulo": "Can you name every Man Utd signing since Sir Alex Ferguson retired?",
+     "url": "https://www.planetfootball.com/quizzes/can-you-name-every-manchester-united-signing-since-alex-ferguson-retired",
+     "pub": "2026-10-16T07:55+00:00"
+    },
+    {
+     "medio": "FourFourTwo",
+     "titulo": "Alex Scott backs Millie Bright as ex-Lioness most likely to become coach",
+     "url": "https://www.fourfourtwo.com/person/alex-scott-backs-millie-bright-as-ex-lioness-most-likely-to-become-coach",
+     "pub": "2026-10-16T09:49+00:00"
+    },
+    {
+     "medio": "Mirror",
+     "titulo": "Sir Alex Ferguson has only had good things to say about boss tipped to replace Michael Carrick",
+     "url": "https://www.mirror.co.uk/sport/football/news/man-utd-conte-ferguson-carrick-37780018",
+     "pub": "2026-10-16T12:53+00:00"
+    }
+   ]
+  },
+  {
    "tema": "Scott",
    "medios": 8,
    "lista_medios": [
@@ -2466,255 +2749,12 @@
      "titulo": "Alex Scott backs Millie Bright as ex-Lioness most likely to become coach",
      "url": "https://www.fourfourtwo.com/person/alex-scott-backs-millie-bright-as-ex-lioness-most-likely-to-become-coach",
      "pub": "2026-10-16T09:49+00:00"
-    }
-   ]
-  },
-  {
-   "tema": "Bournemouth",
-   "medios": 8,
-   "lista_medios": [
-    "BBC",
-    "Daily Mail",
-    "Foot Mercato",
-    "Google News EN",
-    "Guardian",
-    "Mundo Deportivo",
-    "Sky Sports",
-    "Yahoo"
-   ],
-   "primera_vez": "2026-10-15T11:58+00:00",
-   "titulares": [
-    {
-     "medio": "Sky Sports",
-     "titulo": "Bournemouth will consider Scott sale in January for over £80m",
-     "url": "https://www.skysports.com/football/news/12040/13599539/alex-scott-transfer-news-bournemouth-will-consider-offers-in-excess-of-80m-for-england-international-amid-refusal-to-sign-new-contract",
-     "pub": "2026-10-15T11:52+00:00"
     },
     {
      "medio": "Google News EN",
-     "titulo": "STAR FOOTBALL PREVIEW Thurs: Bournemouth v Sturm Graz",
-     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOcWJIeVJKZXRTWFF2ZFNGem9BLWw2bUFGaGxlb0NKWVkwZ2ZId1R2ZlFIMTNwcFJMX21KLVBFdDBMZlRXWC1IVDU3eWlhc1hWZzFJLTcwRmhJa0J6eVBiTHdsbG4tcTh2enpNZTZLTm0tbHBCUUlzS1NSeUkzSjIycW5MT2YzLU5XS0lR?oc=5",
-     "pub": "2026-10-15T09:48+00:00"
-    },
-    {
-     "medio": "Daily Mail",
-     "titulo": "Liverpool Confidential: Boost in Alex Scott hunt as Bournemouth sources say Reds in 'driving seat' for £100m midfielder, truth about Dominik Szoboszlai injury rumours and Giovanni Leoni update",
-     "url": "https://www.dailymail.com/sport/football/article-16208237/liverpool-alex-scott-transfer-Szoboszlai-Leoni.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-     "pub": "2026-10-15T16:00+00:00"
-    },
-    {
-     "medio": "Guardian",
-     "titulo": "Bournemouth v Sturm Graz, Benfica v Celtic, and more: Europa League – live",
-     "url": "https://www.theguardian.com/football/live/2026/oct/15/bournemouth-v-sturm-graz-benfica-v-celtic-and-more-europa-league-live",
-     "pub": "2026-10-15T20:24+00:00"
-    },
-    {
-     "medio": "Yahoo",
-     "titulo": "Update On Chelsea And Their Pursuit Of This Bournemouth Star: What Should Alonso Do?",
-     "url": "https://sports.yahoo.com/articles/chelsea-pursuit-bournemouth-star-alonso-195000740.html",
-     "pub": "2026-10-15T19:50+00:00"
-    },
-    {
-     "medio": "Mundo Deportivo",
-     "titulo": "Bournemouth - Sturm Graz, en directo | Europa League",
-     "url": "https://www.mundodeportivo.com/futbol/europa-league/20261015/1004237218/bournemouth-sturm-graz-directo-europa-league.html",
-     "pub": ""
-    },
-    {
-     "medio": "BBC",
-     "titulo": "Minus 17 to European dreams as Bournemouth fairytale continues",
-     "url": "https://www.bbc.co.uk/sport/football/articles/c6lyez88m1n2o?at_medium=RSS&at_campaign=rss",
-     "pub": "2026-10-15T22:42+00:00"
-    },
-    {
-     "medio": "Daily Mail",
-     "titulo": "Reece James set for THREE months on the sidelines after knee surgery in major blow to Chelsea - as club give update on injured captain after he missed 5-1 win over Bournemouth",
-     "url": "https://www.dailymail.com/sport/football/article-16214089/Chelsea-confirm-captain-Reece-James-undergone-knee-surgery.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-     "pub": "2026-10-16T10:29+00:00"
-    },
-    {
-     "medio": "Foot Mercato",
-     "titulo": "Bournemouth table déjà sur une vente à 100M€ pour le mercato hivernal",
-     "url": "https://www.footmercato.net/a6123301519259011296-bournemouth-table-deja-sur-une-vente-a-100meur-pour-le-mercato-hivernal",
-     "pub": "2026-10-15T20:30+00:00"
-    }
-   ]
-  },
-  {
-   "tema": "Roma",
-   "medios": 8,
-   "lista_medios": [
-    "AS",
-    "Daily Mail",
-    "Foot Mercato",
-    "Football Italia",
-    "Mundo Deportivo",
-    "Yahoo",
-    "ge.globo",
-    "talkSPORT"
-   ],
-   "primera_vez": "2026-10-15T11:58+00:00",
-   "titulares": [
-    {
-     "medio": "talkSPORT",
-     "titulo": "Jose Mourinho in public disagreement with Real Madrid star in aftermath of Roma win",
-     "url": "https://talksport.com/football/4644939/jose-mourinho-federico-valverde-spat-real-madrid-roma/",
-     "pub": "2026-10-15T08:56+00:00"
-    },
-    {
-     "medio": "Daily Mail",
-     "titulo": "Vinicius Jr's nightmare 24 hours: Real Madrid star fumes at being subbed early by Jose Mourinho against Roma - after four-game ban for hair-pull rules him out of El Clasico",
-     "url": "https://www.dailymail.com/sport/football/article-16210807/real-madrid-vinicius-jr-hair-pull-ban-barcelona.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-     "pub": "2026-10-15T09:50+00:00"
-    },
-    {
-     "medio": "Yahoo",
-     "titulo": "Real Madrid believe recent events vs Villarreal and Roma were necessary to unite dressing room",
-     "url": "https://sports.yahoo.com/articles/real-madrid-believe-recent-events-104900222.html",
-     "pub": "2026-10-15T10:49+00:00"
-    },
-    {
-     "medio": "Yahoo",
-     "titulo": "Mora: “Wesley helped me settle at Roma. I’m grateful for the team’s support.”",
-     "url": "https://sports.yahoo.com/articles/mora-wesley-helped-settle-roma-094700338.html",
-     "pub": "2026-10-15T09:47+00:00"
-    },
-    {
-     "medio": "Yahoo",
-     "titulo": "Endrick vows to fight for his place after inspiring Real Madrid comeback against Roma",
-     "url": "https://sports.yahoo.com/articles/endrick-vows-fight-place-inspiring-094000578.html",
-     "pub": "2026-10-15T09:40+00:00"
-    },
-    {
-     "medio": "AS",
-     "titulo": "Roma da la solución",
-     "url": "https://as.com/futbol/champions/roma-da-la-solucion-f202610-n/",
-     "pub": "2026-10-15T05:44+00:00"
-    },
-    {
-     "medio": "AS",
-     "titulo": "Las imágenes más curiosas que quizás aún no has visto de la Roma - Real Madrid",
-     "url": "https://as.com/futbol/fotorrelato/las-imagenes-mas-curiosas-que-quizas-aun-no-has-visto-de-la-roma-real-madrid-f202610-f/",
-     "pub": "2026-10-15T07:14+00:00"
-    },
-    {
-     "medio": "AS",
-     "titulo": "¿Cómo viste el partido del Madrid ante la Roma? ¿Qué te pareció el once y los cambios? Deja tu opinión",
-     "url": "https://as.com/futbol/champions/como-viste-el-partido-del-madrid-ante-la-roma-que-te-parecio-el-once-y-los-cambios-deja-tu-opinion-f202610-d/",
-     "pub": "2026-10-15T10:32+00:00"
-    },
-    {
-     "medio": "Mundo Deportivo",
-     "titulo": "El curioso 'hat trick' que le dio el triunfo al Real Madrid en Roma",
-     "url": "https://www.mundodeportivo.com/futbol/real-madrid/20261015/1004239011/curioso-hat-trick-le-dio-triunfo-real-madrid-roma.html",
-     "pub": ""
-    },
-    {
-     "medio": "Mundo Deportivo",
-     "titulo": "A Vinicius no le gustó que Mourinho le cambiara en Roma",
-     "url": "https://www.mundodeportivo.com/futbol/real-madrid/20261015/1004238978/vinicius-no-le-gusto-mourinho-le-cambiara-roma.html",
-     "pub": ""
-    },
-    {
-     "medio": "Mundo Deportivo",
-     "titulo": "Ojo a la reacción de Mourinho tras el error de Vinicius en el 2-1 de la Roma",
-     "url": "https://www.mundodeportivo.com/futbol/real-madrid/20261015/1004238967/ojo-reaccion-mourinho-error-vinicius-2-1-roma.html",
-     "pub": ""
-    },
-    {
-     "medio": "Football Italia",
-     "titulo": "Today’s Papers: Serie A sides’ Champions League shambles as Real stun Roma",
-     "url": "https://football-italia.net/todays-papers-champions-league-shambles/",
-     "pub": "2026-10-15T07:45+00:00"
-    }
-   ]
-  },
-  {
-   "tema": "Crystal",
-   "medios": 8,
-   "lista_medios": [
-    "Daily Mail",
-    "Foot Mercato",
-    "Google News EN",
-    "Guardian",
-    "L'Equipe",
-    "Mundo Deportivo",
-    "Telegraph",
-    "Yahoo"
-   ],
-   "primera_vez": "2026-10-15T11:58+00:00",
-   "titulares": [
-    {
-     "medio": "Daily Mail",
-     "titulo": "Crystal Palace's John Textor nightmare: BOBBY MANZI reveals the blazing rows with Steve Parish, his crumbling football empire and why Lyon can't stand him either",
-     "url": "https://www.dailymail.com/sport/football/article-16208241/Crystal-Palaces-John-Textor-nightmare-BOBBY-MANZI-reveals-blazing-rows-Steve-Parish-crumbling-football-empire-Lyon-stand-either.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-     "pub": "2026-10-15T09:32+00:00"
-    },
-    {
-     "medio": "Guardian",
-     "titulo": "Lyon v Crystal Palace, Torreense v Sunderland, and more: Europa League – live",
-     "url": "https://www.theguardian.com/football/live/2026/oct/15/lyon-v-crystal-palace-torreense-v-sunderland-and-more-europa-league-live",
-     "pub": "2026-10-15T17:14+00:00"
-    },
-    {
-     "medio": "Yahoo",
-     "titulo": "Olympique Lyonnais v Crystal Palace",
-     "url": "https://sports.yahoo.com/articles/olympique-lyonnais-v-crystal-palace-170356246.html",
-     "pub": "2026-10-15T17:03+00:00"
-    },
-    {
-     "medio": "Google News EN",
-     "titulo": "‍‍‍~\"!!((today football)) Lyon vs Crystal Palace 𝐋𝐈𝐕𝐄 Ｍａｔｃｈ",
-     "url": "https://news.google.com/rss/articles/CBMiwAJBVV95cUxNLTFZYVhBOUx2Y3lHM2RFQ0ZJUVpmWFFLYVNnUnZzUmpMVFNJRWhadkZEdnVOd3NUUGFYTjI3OEpyTUJ4ejVXazlrUFhIcjJSNDlYblFhTDZLbW9XallnUzZUU0NadGpJZFJlX2pPVnoxdk1PWW9GSUpSZHU2Wk5jQWhnOHhyb0tzNkxOOXNFZUtwdmRDNW45a1ctZTNaRjlWTTlhXzJ6ODNVYUU4UTE5TEV4djF4UGRnRWdUamdiSGdxaE9HN0VrZzRyZ05OMjZUeWFHUGt0SUpsSWxrNDdnc2hCR1VwWlg5NG1iUmFaZ0hkMEFMN1hvUTZfZ1FfR3duZW5vRkxCWFNkTGtlU1dtWS1TY011a2JWNTE2VFB3WVo0dmhvNVRxVnVjR2Z6MTZfRXo2OFRrVzhCQ1h5MXMzUQ?oc=5",
-     "pub": "2026-10-15T16:00+00:00"
-    },
-    {
-     "medio": "Google News EN",
-     "titulo": "‍‍‍~~!!((live football)) Lyon vs Crystal Palace ＬＩＶＥ Ｍａｔｃｈ Ｕｐｄａｔｅ",
-     "url": "https://news.google.com/rss/articles/CBMitwJBVV95cUxNVGVOT2xNOWt4UG04WktvTWIzTnVhUnByUXNOOEV0Y0lsdms3QnE5WWVUQmlDVEFMRW01N1RxQVlwZEhUZnA4d1NFYXFmNVZkUExram9mN184Z2ctX1VWRVM4RFJ0RXJPOEI0NGkwNThwUEh0ajBuXzlYbjhvVUhweTZGOXNvMUJiSjZfeHFFMTVsckVaaTEzaEFObHlpQUFRMzk5eW5iNVNEQWtxcW5LWGd5LUxUdzNxYWxhVE1jRy1kRWtaaHNrTnNUR2gweVBXV3VHYjBfdFo3ZC1hbFpMbkwyOEhzNzdlNTV2Wk8xU2RQVkRSRUVkU3liSXQweEtiTGRkX2doWGg2RktyMlBXZFUxcE4wOFNPcUdlTWpXUGs0aFgtQVVuajk1ZWlVdkgxcnQ3eVR3NA?oc=5",
-     "pub": "2026-10-15T15:59+00:00"
-    },
-    {
-     "medio": "Mundo Deportivo",
-     "titulo": "Lyon - Crystal Palace, en directo | Europa League",
-     "url": "https://www.mundodeportivo.com/futbol/europa-league/20261015/1004237185/lyon-crystal-palace-directo-europa-league.html",
-     "pub": ""
-    },
-    {
-     "medio": "L'Equipe",
-     "titulo": "Khalis Merah à la pointe de l'attaque : la composition de l'OL contre Crystal Palace en Ligue Europa",
-     "url": "https://www.lequipe.fr/Football/Actualites/Khalis-merah-a-la-pointe-de-l-attaque-la-composition-de-l-ol-contre-crystal-palace-en-ligue-europa/1736010#at_medium=RSS_feeds",
-     "pub": "2026-10-15T16:02+00:00"
-    },
-    {
-     "medio": "Foot Mercato",
-     "titulo": "OL - Crystal Palace : les compositions officielles",
-     "url": "https://www.footmercato.net/a8079726693329717451-ol-crystal-palace-les-compositions-officielles",
-     "pub": "2026-10-15T15:34+00:00"
-    },
-    {
-     "medio": "Guardian",
-     "titulo": "Europa League: Lyon take down Crystal Palace, Cissè’s Milan hat-trick sinks Salzburg",
-     "url": "https://www.theguardian.com/football/2026/oct/15/europa-league-lyon-crystal-palace-cisse-milan-salzburg-leverkusen-benfica-celtic",
-     "pub": "2026-10-15T19:18+00:00"
-    },
-    {
-     "medio": "Daily Mail",
-     "titulo": "Sunderland score last-gasp Europa League winner as Crystal Palace fall to defeat in five-goal thriller against Lyon",
-     "url": "https://www.dailymail.com/sport/football/article-16211081/Sunderland-Europa-League-Crystal-Palace-Bournemouth-Brighton.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-     "pub": "2026-10-15T20:25+00:00"
-    },
-    {
-     "medio": "Yahoo",
-     "titulo": "Lyon 3-2 Crystal Palace: Eagles suffer Europa League defeat despite spirited second-half comeback",
-     "url": "https://sports.yahoo.com/articles/lyon-3-2-crystal-palace-192000239.html",
-     "pub": "2026-10-15T19:20+00:00"
-    },
-    {
-     "medio": "Yahoo",
-     "titulo": "PLAYER RATINGS | Lyon 3-2 Crystal Palace: Les Gones edge out Premier League opposition to maintain unbeaten start in Europe",
-     "url": "https://sports.yahoo.com/articles/player-ratings-lyon-3-2-184300712.html",
-     "pub": "2026-10-15T18:43+00:00"
+     "titulo": "Alex Scott: What does Disney+ exit highlight about coverage of women's football?",
+     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1oUjlqVmN1WHV2VEZSbmtnbTAxOVBXaUQxYTZBb0JuSUNRN0ZMNXhHM1lRMldrNzRfaTZRVVQzRzZRS0ZVeV9WUWdVN0ZncHc3UjZKQ0ZrZmY5UXNZTU96YXVpM0M4MWRSVklB?oc=5",
+     "pub": "2026-10-16T15:49+00:00"
     }
    ]
   }
