@@ -101,3 +101,6 @@ Yo hago los memes. Tras cada revisión, anota aquí qué funcionó/falló y qué
 - Notas: Barcola noticia 5,7 → 6,7 → 7,3 (titular "£123m. 206 games. One hat-trick." sube de 6 a 8); Mbappé/Messi 4,3 → 6,3 → 6,0 → 7,0 (de 3 marcas en una imagen a UNA marca con titular corto; foto Messi 2015 descartada, solo Mbappé actual); Mourinho comparativa 4,7 → 5,3 → 7,7 (la foto REAL de la pancarta lo arregló; sin ella nadie veía el homenaje); Villa 4,7 → 6,0 → 6,7 → 7,0 (menos texto, pie corto).
 - Lecciones: (1) una imagen = una idea; (2) en comparativas, la foto del primer panel tiene que enseñar el hecho (pancarta), no al protagonista; (3) bajar_fotos con "buscar" + "grande": false encontró la pancarta; (4) panel con collage de 3 fotos se ve borroso: usar una sola.
 - Descartados: Haaland meme (sin foto actual de cara), Lisandro (repetido 14/10).
+
+## 16/10
+- Cissé noticia 6,83 (CTA genérico penalizado; titular "24 years. Then a 19-year-old."). Southgate/Amorim/Sadiki nunca llegaron a 7. Lecciones: un post por partido, teselas de stats densas penalizan, tercio inferior vacío penaliza, camiseta rosa mal leída. Hoy 0 memes (barra ≥7 respetada).

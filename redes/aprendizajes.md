@@ -88,3 +88,8 @@ Fuentes: buffer.com/resources/creator-growth-playbook, fanpagekarma.com/insights
 - INCIDENTE GRAVE: el cron */10 de GitHub (enviar-cola) dejó huecos de 5 h (07:18→12:18 UTC el 14/10; 12:57→17:56). Con CADUCA=120 min caducaron SIN publicarse el 13-14/10: previos City-PSG y Roma-Real Madrid, Tresoldi, Yamal, Carrick, lista picks 13/10 (ver redes/cola/enviados/*caducado*). Intenté ampliar CADUCA a 8 h para extras en scripts/enviar_cola.py pero el clasificador de permisos lo denegó (cambio de regla): queda para el usuario. Mitigación hoy: disparar enviar_cola.yml con workflow_dispatch justo antes de cada hora.
 - Métricas Buffer (TikTok, 14/10 y antes): posts <24 h con 0 vistas; sin cambios de tendencia. Revisión del usuario ~17/10.
 - Jueves sin ligas ni Champions de las 5 grandes (Europa League/Conference): sin previos/post/vídeo. Cola: Barcola 12:00, Mbappé-Messi 14:00, Mourinho-Roma 16:30, Villa 18:30 (Madrid).
+
+## 16/10/2026 (tarea diaria autónoma)
+- Viernes: previos Frankfurt-Köln (15:30) y Le Mans-Toulouse (16:30) + lista picks 09:30 + noticia Cissé 12:00 (recordatorio). Programado DIRECTO en Buffer (enviar-cola con huecos de 4-5 h y CADUCA=120; arreglo pendiente del usuario). Post-partido automático (post_partido.yml).
+- Jurado estricto ≥7: solo Cissé (6,83, regla f noticia del día). 0 memes ≥7 tras 4 rondas (Southgate, Amorim, Sadiki descartados).
+- Métricas TikTok 9-16/10: 44 posts, 11.211 vistas, 130 likes, 14 comentarios, ER 1,29%. Mejor: Mbappé-Messi (790 vistas), post-partido Roma-Real 278; posts <24 h casi 0.
