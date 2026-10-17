@@ -1,5 +1,0 @@
-{"web": [
- {"noticia": "Getafe", "buscar": "Jadon Sancho Getafe", "slug": "getafe_n", "n": 8, "dias": 3, "debe": ["sancho", "getafe"]},
- {"noticia": "Hoffenheim", "buscar": "Hoffenheim Besiktas Oh", "slug": "hoff_n", "n": 8, "dias": 3, "debe": ["hoffenheim", "besiktas", "oh"]},
- {"noticia": "Besiktas", "buscar": "Besiktas Oh Hyeon-gyu", "slug": "bes_n", "n": 8, "dias": 3, "debe": ["besiktas", "oh"]}
-]}
