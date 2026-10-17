@@ -1,82 +1,86 @@
-# Titulares de fútbol (2026-10-17 11:05 UTC, últimas 36 h)
+# Titulares de fútbol (2026-10-17 14:21 UTC, últimas 36 h)
 
-Generado por `scripts/titulares.py` (workflow `tendencias`). Leídos 25 de 34 medios; fuentes en `redes/fuentes.md`.
+Generado por `scripts/titulares.py` (workflow `tendencias`). Leídos 26 de 34 medios; fuentes en `redes/fuentes.md`.
 
 ## Temas que salen en más medios (la noticia del día está arriba)
 
 | Tema | Nº medios | Medios | Ejemplo |
 |---|---|---|---|
-| Chelsea | 13 | BBC, Daily Mail, FourFourTwo, Google News EN, Guardian, Mirror, Mundo Deportivo, | 'I had so many medals under the bed' - Green on Chelsea success |
-| Madrid | 13 | AS, Daily Mail, Football Italia, Google News EN, Google News ES, Guardian, L'Equ | Real Madrid demand La Liga president resign over Goebbels comparison |
-| Arsenal | 12 | BBC, Daily Mail, Football Italia, FourFourTwo, Google News EN, Google News ES, G | Arteta told Arsenal job cuts will help create success |
-| Man | 11 | BBC, Daily Mail, FourFourTwo, Google News EN, Mirror, Planet Football, Record, S | 'Our roots are Man Utd' - but FC United ethos 'more important than ever' |
-| Liverpool | 10 | BBC, Daily Mail, FourFourTwo, Google News EN, Guardian, L'Equipe, Mirror, Planet | Feel-good Koumas story something for Liverpool to smile about |
-| Mourinho | 10 | AS, Football Italia, Google News ES, Guardian, Kicker, L'Equipe, Mundo Deportivo | Farke backs under-fire Carrick, Mourinho defends ‘disrespected’ Vinícius, and Premier League buildup – matchda |
-| Everton | 10 | Daily Mail, FourFourTwo, Google News EN, Guardian, Mundo Deportivo, Planet Footb | Everton v Chelsea: Premier League – live |
-| Tebas | 8 | AS, BBC, Google News EN, Mirror, Mundo Deportivo, Record, Yahoo, r/soccer (top d | Real demand Tebas resign over Goebbels comparison |
-| Arteta | 7 | BBC, Daily Mail, Guardian, L'Equipe, Mirror, Record, talkSPORT | Arteta told Arsenal job cuts will help create success |
-| Carrick | 7 | BBC, Daily Mail, Guardian, Mirror, Sky Sports, r/soccer (top día), talkSPORT | 'I am telling you the truth' - Carrick on Martinez fallout |
-| Manchester | 6 | BBC, FourFourTwo, Google News ES, Infobae, r/soccer (top día), talkSPORT | Do Manchester City have any grounds to win their appeal? |
-| Martinez | 6 | BBC, Daily Mail, Mirror, Planet Football, Sky Sports, talkSPORT | 'I am telling you the truth' - Carrick on Martinez fallout |
-| Utd | 6 | BBC, Google News EN, Mirror, Planet Football, Sky Sports, r/soccer (top día) | 'Our roots are Man Utd' - but FC United ethos 'more important than ever' |
-| James | 6 | BBC, Daily Mail, Google News EN, Guardian, Mirror, talkSPORT | Chelsea's James out for three months after knee surgery |
-| Barcelona | 6 | AS, BBC, Football Italia, Google News ES, Record, Yahoo | Guardiola receives standing ovation on return to Barcelona |
-| Lisandro | 6 | Daily Mail, Infobae, Mirror, Planet Football, Record, talkSPORT | Man United boss Michael Carrick issues Lisandro Martinez squad decision for Leeds clash |
-| Vinicius | 6 | AS, Google News ES, Kicker, L'Equipe, Mundo Deportivo, Yahoo | Stats: Shocking numbers behind Vinicius Jr.&#8217;s finishing problems at Real Madrid |
-| Bellingham | 5 | AS, BBC, Google News EN, Yahoo, talkSPORT | Bellingham agrees new Real deal - Saturday's gossip |
-| England | 5 | BBC, Daily Mail, FourFourTwo, Google News EN, Sky Sports | The England keeper set to face his dad at a World Cup |
-| LIVE | 5 | Daily Mail, Google News EN, Kicker, Mirror, Sky Sports | Hato starts for Chelsea at Everton with Chavarria missing LIVE! |
-| Kane | 5 | Google News EN, L'Equipe, Planet Football, r/soccer (top día), talkSPORT | Harry Kane told ‘no brainer’ contract decision as Ballon d’Or favourite given Alan Shearer record reminder |
-| Brentford | 5 | Daily Mail, FourFourTwo, L'Equipe, Mirror, Yahoo | Nerves of steel: Trey Nyoni names Thiago as his inspiration as 19-year-old eyes first Premier League start for |
-| Espanyol | 5 | AS, Google News EN, Google News ES, Mundo Deportivo, Planet Football | How Lionel Messi almost became an Espanyol legend, according to Mauricio Pochettino |
-| Bayern | 5 | Google News EN, Kicker, Mundo Deportivo, Yahoo, r/soccer (top día) | Arsenal winger looking forward to Bayern clash |
-| Inter | 5 | Football Italia, Google News ES, Infobae, Mundo Deportivo, Yahoo | Serie A | Bologna vs. Inter: Probable line-ups and where to watch on TV |
+| Chelsea | 19 | AS, BBC, Daily Mail, Foot Mercato, FourFourTwo, Google News EN, Guardian, Infoba | Neto stars but who was subdued? - player ratings for Everton v Chelsea |
+| Liverpool | 17 | AS, BBC, Daily Mail, FourFourTwo, Google News AR, Google News EN, Google News ES | Feel-good Koumas story something for Liverpool to smile about |
+| Everton | 15 | AS, BBC, Daily Mail, Foot Mercato, FourFourTwo, Google News EN, Guardian, L'Equi | Neto stars but who was subdued? - player ratings for Everton v Chelsea |
+| Manchester | 14 | AS, BBC, Foot Mercato, FourFourTwo, Google News AR, Google News EN, Google News  | Do Manchester City have any grounds to win their appeal? |
+| Brentford | 13 | AS, Daily Mail, FourFourTwo, Google News EN, Google News ES, Guardian, Kicker, L | Manchester City v Ipswich, Brentford v Liverpool, and more: Football clockwatch - live |
+| Madrid | 13 | AS, Daily Mail, Foot Mercato, Football Italia, Google News ES, Guardian, Kicker, | Real Madrid demand La Liga president resign over Goebbels comparison |
+| Arsenal | 12 | BBC, Daily Mail, Foot Mercato, Football Italia, FourFourTwo, Google News EN, Gua | Arteta told Arsenal job cuts will help create success |
+| Martinez | 10 | BBC, Daily Mail, Foot Mercato, Kicker, L'Equipe, Mirror, Planet Football, Yahoo, | 'I am telling you the truth' - Carrick on Martinez fallout |
+| Man | 10 | BBC, Daily Mail, Foot Mercato, FourFourTwo, Google News EN, Mirror, Planet Footb | 'Our roots are Man Utd' - but FC United ethos 'more important than ever' |
+| Ipswich | 10 | AS, Daily Mail, FourFourTwo, Google News EN, Google News ES, Guardian, Mundo Dep | Manchester City v Ipswich, Brentford v Liverpool, and more: Football clockwatch - live |
+| Mourinho | 9 | AS, Daily Mail, Foot Mercato, Football Italia, Google News ES, Kicker, L'Equipe, | Jose Mourinho admits Vinicius Jr should have LEFT Real Madrid last summer 'to a country where he is respected' |
+| Neto | 8 | BBC, Foot Mercato, Guardian, Mundo Deportivo, Record, Yahoo, ge.globo, r/soccer  | Neto stars but who was subdued? - player ratings for Everton v Chelsea |
+| Arteta | 8 | BBC, Daily Mail, Foot Mercato, Guardian, L'Equipe, Mirror, Yahoo, talkSPORT | Arteta told Arsenal job cuts will help create success |
+| Tebas | 8 | AS, BBC, Foot Mercato, L'Equipe, Mirror, Mundo Deportivo, Yahoo, r/soccer (top d | Real demand Tebas resign over Goebbels comparison |
+| Emiliano | 8 | Daily Mail, Foot Mercato, Google News AR, Infobae, L'Equipe, Record, Yahoo, r/so | Chelsea star Emiliano Martinez rushed to hospital after sickening head injury during Everton clash - as Argent |
+| Barcelona | 7 | AS, BBC, Football Italia, Google News AR, Google News ES, Mundo Deportivo, Yahoo | Guardiola receives standing ovation on return to Barcelona |
+| Martínez | 7 | Foot Mercato, Google News AR, Guardian, Infobae, Mundo Deportivo, Record, ge.glo | Neto double at Everton leads Chelsea to victory marred by Martínez head injury |
+| Mikel | 7 | Daily Mail, Foot Mercato, Guardian, L'Equipe, Mirror, Yahoo, talkSPORT | Mikel Arteta defends job cuts at Arsenal to help club ‘evolve and create success’ |
+| Town | 7 | Daily Mail, FourFourTwo, Google News EN, Google News ES, Mundo Deportivo, Yahoo, | Premier League: Liverpool boss Andoni Iraola handed TRIPLE injury boost at Brentford - while Man City aim to m |
+| Carrick | 6 | BBC, Daily Mail, Foot Mercato, Guardian, Mirror, talkSPORT | 'I am telling you the truth' - Carrick on Martinez fallout |
+| England | 6 | BBC, Daily Mail, FourFourTwo, Google News EN, Sky Sports, r/soccer (top día) | The England keeper set to face his dad at a World Cup |
+| Lisandro | 6 | Daily Mail, Foot Mercato, Infobae, Mirror, Planet Football, talkSPORT | Man United boss Michael Carrick issues Lisandro Martinez squad decision for Leeds clash |
+| Vinicius | 6 | Daily Mail, Foot Mercato, Google News ES, Kicker, L'Equipe, Yahoo | Jose Mourinho admits Vinicius Jr should have LEFT Real Madrid last summer 'to a country where he is respected' |
+| Betis | 6 | AS, Google News ES, L'Equipe, Mundo Deportivo, Yahoo, r/soccer (top día) | La Liga today: How to watch Real Betis v Barcelona, TV channels & live stream Saturday 17 October |
+| James | 5 | BBC, Daily Mail, Guardian, Ole, talkSPORT | Chelsea's James out for three months after knee surgery |
 
 ## Titulares por medio
 
-**BBC** (31)
+**BBC** (28)
+- Neto stars but who was subdued? - player ratings for Everton v Chelsea
 - Ranking the Premier League's all-time greatest super subs
 - Do Manchester City have any grounds to win their appeal?
-- Matos on tactics, Klopp's influence, and taking Swans to top of the league
 - 'I had so many medals under the bed' - Green on Chelsea success
-- Arteta told Arsenal job cuts will help create success
 - 'I am telling you the truth' - Carrick on Martinez fallout
+- Arteta told Arsenal job cuts will help create success
 - Who am I? Plus today's other quizzes
-- Real demand Tebas resign over Goebbels comparison
-- Feel-good Koumas story something for Liverpool to smile about
 - Bellingham agrees new Real deal - Saturday's gossip
 - Does Scott's Disney+ exit unmask wider issue in coverage of women's game?
-- Celtic-Hearts showdown tops weekend's Premiership bill
+- Real demand Tebas resign over Goebbels comparison
+- Matos on tactics, Klopp's influence, and taking Swans to top of the league
+- 'Our roots are Man Utd' - but FC United ethos 'more important than ever'
 
 **Guardian** (16)
-- Farke backs under-fire Carrick, Mourinho defends ‘disrespected’ Vinícius, and Premier League buildup – matchday live
+- Manchester City v Ipswich, Brentford v Liverpool, and more: Football clockwatch - live
+- Neto double at Everton leads Chelsea to victory marred by Martínez head injury
 - Savaged by Simon Jordan – and thanks to the algorithm I want to be savaged again | Barney Ronay
-- Everton v Chelsea: Premier League – live
 - ‘It’s really not a drama’: Carrick sticks to the script after Martínez storm
-- James McClean: ‘Wearing the poppy was just never going to happen’
 - Wolves extend Burnley’s home woes to a full year as Vardy strikes in vain
+- Mikel Arteta defends job cuts at Arsenal to help club ‘evolve and create success’
 - The Florian Wirtz mystery: why has he not found Leverkusen form at Liverpool?
 - Premier League news: go bananas: Maresca loving fans’ show of defiance; Alonso backs his defence
-- Real Madrid demand La Liga president resign over Goebbels comparison
+- James McClean: ‘Wearing the poppy was just never going to happen’
 - Do Premier League teams really need to run more to win matches?
 - The WSL so far: goal-shy Arsenal, underrated Brighton and more data pointers
 - Premier League action, Champions Day and Dubois v Wardley II – follow with us
 
 **Sky Sports** (20)
+- McIlroy drops out of contention at DP World India Championship
+- Almeraq proves his class in British Champions Sprint
+- Brentford vs Liverpool LIVE!
+- 'I'm going to enjoy every second'  - Kartal prepares for first ever WTA 1000 final
+- Millwall strike back to hold Lincoln
+- Watford bounce back from nightmare week to beat Charlton
+- Lankshear strikes again as Boro battle back for a point
+- 'A huge milestone' - Kartal becomes second Brit ever to reach WTA 1000 final
 - Evans: Raducanu will win Wimbledon one day
-- Hato starts for Chelsea at Everton with Chavarria missing LIVE!
+- Man City make 'slow' start against Ipswich LIVE!
+- Arsenal booed after Birmingham draw as pressure builds on Slegers
 - South Africa look to re-establish Test credentials after Australia mauling
-- Rugby League World Cup LIVE! England heading to heavy loss against Tonga
-- Red Roses' 41-game unbeaten run ended in dramatic fashion
-- Gloucester claim thrilling draw against Champions Cup holders Bordeaux
-- United States GP: UK schedule as F1 returns to COTA
-- Usyk can return in world championship fight | 'Let's see who's best'
-- McIlroy plays just four holes of second round due to bad light in India
-- Dubois and Wardley both career heaviest for heavyweight title rematch
-- Carrick opens door for January transfer activity at Man Utd
-- 'My focus is on what the club needs' - Carrick addresses Martinez's comments
 
-**talkSPORT** (33)
+**talkSPORT** (37)
+- Xabi Alonso gives update on Emi Martinez after Chelsea goalkeeper knocked unconscious and rushed to hospital
+- Everton player refuses to take the knee before Chelsea clash
+- Arsenal&#8217;s &#8216;spent force&#8217; tipped for imminent exit after desperate start to season
+- Steven Gerrard told to seek different managerial opportunity instead of Wrexham job
 - Kai Rooney takes giant step in Man United career at same age as dad&#8217;s Everton debut
 - Championship manager admits sack fears just three months after being appointed
 - The top five wingers in the world over the last three years
@@ -85,38 +89,34 @@ Generado por `scripts/titulares.py` (workflow `tendencias`). Leídos 25 de 34 me
 - Solly March set for surprise EFL transfer two months after Premier League plea
 - Bradley Barcola makes eye-opening admission over Liverpool tactics four games into Premier League career
 - Premier League boss above Man United and Tottenham tipped to be surprise first manager sacking
-- The top five club sides in football history
-- Nicolas Jackson backed to achieve career first at Aston Villa as pressure is less than Chelsea
-- Why Arsenal were forced to take team photo without William Saliba as Mikel Arteta issues re-take update
-- Alan Brazil reveals he&#8217;s heard ex-Premier League owner with $14b net worth wants to invest in Everton
 
 **Daily Mail** (35)
+- Premier League: Liverpool boss Andoni Iraola handed TRIPLE injury boost at Brentford - while Man City aim to maintain perfect record as lead
+- Chelsea star Emiliano Martinez rushed to hospital after sickening head injury during Everton clash - as Argentina goalkeeper is BOOED while 
+- Everton star Ainsley Maitland-Niles refuses to take the knee as Premier League kick off anti-racism initiative
+- Jose Mourinho admits Vinicius Jr should have LEFT Real Madrid last summer 'to a country where he is respected' as boss lavishes praise on fo
+- Former Man United star Ander Herrera reveals he is now 'playing for free' after choosing to donate weekly wage to his boyhood club - having 
+- Poppy protest footballer James McClean claims former club 'hung me out to dry' over political stance - and opens up on death threat that lef
 - Rio Ferdinand embroiled in fat-shaming row after telling Man United influencer to 'pick up your t**s' following Instagram dig
-- Poppy protest footballer James McClean reveals former club 'hung me out to dry' over political stance - and opens up on death threat that le
 - The fact Man United cannot drop Lisandro Martinez after his outburst just goes to show he was spot on about Sir Jim Ratcliffe's politburo of
 - Man United WAGs 'forced to cancel night out' after Lisandro Martinez's bombshell outburst targeting club bosses - as Michael Carrick stresse
-- Nerves of steel: Trey Nyoni names Thiago as his inspiration as 19-year-old eyes first Premier League start for Liverpool at Brentford
-- Jamie Vardy opens his account for Burnley as former Leicester star, 39, scores in his 20TH consecutive season - but can't save the Clarets f
 - Former Man United striker Fraizer Campbell reveals crippling snus addiction during his Premier League playing days that left him 'constantly
 - Mikel Arteta defends Arsenal's decision to cut 60 jobs - just days after he signed a bumper £20m-a-year contract... and confirms club WILL r
-- Real Madrid demand resignation of La Liga president for comparing club's media strategy to that of Nazi propaganda chief Joseph Goebbels
-- Adam Wharton's family embroiled in clash with French football fans ahead of Crystal Palace's defeat in Lyon - with England star's mum and da
-- Reece James set for THREE months on the sidelines after knee surgery in major blow to Chelsea - as club give update on injured captain after
-- Everton vs Chelsea - Premier League LIVE: Xabi Alonso's free-scoring visitors look to leap into the top four - with Toffees undefeated on Me
+- Premier League: Liverpool boss Andoni Iraola handed TRIPLE injury boost at Brentford - while Man City aim to maintain perfect record as lead
 
 **Mirror** (25)
-- When is the FA Cup 1st round draw? Date, time, TV channel and how to watch for free
+- FIFA quietly dish out two punishments to World Cup winners Spain
+- Chelsea address poor record to end Everton's unbeaten start as horror injury overshadows win
+- Chelsea's Emi Martinez forced off on stretcher after huge collision and lengthy delay
+- Man Utd eye Spurs flop as transfer fee set amid Benjamin Sesko injury woes
+- Sheikh Jassim targets new football club after Man Utd failure in bombshell takeover update
+- Rio Ferdinand branded a 'disgrace' after hitting out at Man Utd influencer in 'fat-shaming' row
 - Man City charges LIVE: Points deduction size emerges as Premier League rivals 'fuming'
+- Arsenal plan major training ground revamp after falling behind rival upgrades
+- Michael Carrick makes Man Utd transfer admission with January plans set
+- When is the FA Cup 1st round draw? Date, time, TV channel and how to watch for free
 - Ex-Man Utd star lifts lid on crippling addiction that plagued playing career
 - Is Brentford vs Liverpool on TV today? Live stream and how to follow 3pm clash
-- Real Madrid demand La Liga chief Javier Tebas quits after Nazi comparison
-- Wayne Rooney's son Kai, 16, makes debut for Man Utd U21s but it doesn't go to plan
-- Six incredible moments to look forward to in new Man Utd doc after Lisandro Martinez rant
-- Liverpool news: Andoni Iraola draws closer to £100m star as he's sent 'overspent' message
-- Man Utd news: 'Ridiculous' JJ Gabriel plan slammed as star punished by club
-- Arsenal news: Real Madrid deal transfer blow as secret meeting comes to light
-- Former Ukraine footballer Roman Maksymyuk dead after 20 months missing in action
-- Hollywood star Jude Law to play Liverpool legend Bill Shankly in new TV series
 
 **Telegraph** (0)
 
@@ -134,7 +134,10 @@ Generado por `scripts/titulares.py` (workflow `tendencias`). Leídos 25 de 34 me
 - What punishment should Man City face for the 114 charges?
 - How Lionel Messi almost became an Espanyol legend, according to Mauricio Pochettino
 
-**FourFourTwo** (21)
+**FourFourTwo** (24)
+- Watch Newcastle United vs Aston Villa: FREE streams
+- Thomas Hitzlsperger describes his experience of coming out as gay in 2014
+- Watch Fulham vs Hull City: Live Streams and TV Channels
 - How to watch Man City vs Ipswich Town for FREE: TV info
 - Watch Brentford vs Liverpool: FREE Streams and TV Channels
 - Toby Alderweireld on his Zlatan Ibrahimovic and Adriano baptism of fire
@@ -144,204 +147,215 @@ Generado por `scripts/titulares.py` (workflow `tendencias`). Leídos 25 de 34 me
 - FourFourTwo's Weekend Crossword 75: Ultras, underdogs and upsets
 - Mutiny at Watford: Why the Hornets are destined for League One
 - Henry Winter meets Merlin Röhl, about Everton, education and his new photography book
-- Losing Ollie Watkins could have broken Aston Villa but Nicolas Jackson has made them better
-- 'Manchester United boss revolutionised my diet. He helped me become the ultimate professional' Former RB Leipzig man reveals how Ralf Rangni
-- Fulham should stick with Alvaro Arbeloa and not press the panic button, according to Louis Saha
 
 **Yahoo** (40)
-- 🚨 Espanyol-Atleti XIs: Dani Martínez, Pubill and Drakusic start!
-- Real Madrid talisman has missed most big chances in Europe&#8217;s top five leagues
-- Roma ultras thanked Mourinho before Real Madrid clash: ‘You gave us back the ability to dream’
-- Fla v Bota in 🇫🇷? F Luís and D Ancelotti battle for Ligue 1 top spot
-- Milan open talks to extend Rabiot contract until 2030
-- How to watch Brentford vs Liverpool: TV Channel and Streaming Details
-- 🚨 Everton and Chelsea confirm XIs for Premier League clash
-- Official | Freiburg extend contract of &#8216;clutch man&#8217; Lukas Kübler (34)
-- Milan keen on Nicolo Tresoldi as Cardinale keeps eye on situation
-- Arsenal player owns up to injuring Martin Zubimendi
-- Eintracht Frankfurt&#8217;s Robin Koch responds to leadership critiques: &#8220;I can take it.&#8221;
-- Agent confirms Liverpool&#8217;s interest in World Cup winner
+- Report Gyokeres determined to leave Arsenal amid Juventus and Milan focus
+- Emiliano Martinez injury update: Chelsea star stretchered off, in hospital after scary collision at Everton
+- Brentford v Liverpool
+- Manchester City v Ipswich Town
+- Chelsea goalkeeper Emi Martinez rushed to hospital after sickening collision at Everton
+- Mourinho identifies four Real Madrid players to share attacking responsibility during Vinicius suspension &#8211; report
+- Neto Gets 9, Martinez With 7.5 | Chelsea Players Rated In Solid Win Vs Everton
+- Neto stars but who was subdued? - player ratings for Everton v Chelsea
+- 😳 The madness continues: Elversberg steamroll their next opponents
+- Barcelona make firm decision on the development of La Masia&#8217;s Ukrainian wonderkid
+- Fabregas: ‘Como experience new for everybody, Diao out 2-3 weeks’
+- Xabi Alonso reaction — Chelsea boss on win at Everton, Emiliano Martinez injury
 
 **Google News EN** (40)
-- Scores & Fixtures - Football
+- (+!LIVESTREAMs/FREE+)!*Walsall vs Swindon Live free Football October, 17, 2026
 - Liverpool set to raid Aston Villa for Johan Manzambi as Arsenal eye move for Bayern Munich defender - Paper Talk
-- 'First' UK women's amputee football matches take place
-- [WATCHLIVE]ＴＯＤＡＹ!] Tonga Rugby League vs England Rugby League Live free tv! 15 October 2026
-- Follow Saturday's Premier League games live
-- SE Dons: How the YouTube football sensation went from Sunday League to one win away from FA Cup first-round history
-- Five in Five: Football quiz No 62
-- 【LIVESTREAMS】ENGLAND VS TONGA-2026] England vs Tonga LIVE FREE 2026 FOOTBALL 17 October 2026
+- Jack Robinson: Derby County sign ex-Sheffield United and Birmingham defender
+- LIVESTREAMs!)FREE!! Sheffield United vs Bristol Live Free "Football Full Match TV" In 17 Oct 2026
+- Scores & Fixtures - Football
+- Should Pickford have saved it? - player ratings for Everton v Chelsea
+- >+✨!【LIVESTREAMS】FREE!! Swindon vs Walsall Live Free Football Online Streams In 17 Oct 2026
 - 'I had so many medals under the bed' - Green on Chelsea success
-- Arsenal top, Man Utd fourth
-- Leeds news: Farke splits with agent as contract talks progress
-- Newport County: Hayden Mullins insists pitch not behind home form
+- ‍‍‍~#[LIVE MATCH]#~ Manchester City vs Ipswich Town ＬＩＶＥ Football Streaming
+- WATCH TODAY Swindon vs Walsall Live 𝐒𝐭𝐫𝐞𝐚𝐦 HS Football
+- ‍‍‍~#[LIVE MATCH]#~ Brentford vs Liverpool ＬＩＶＥ Football Online
+- +[#!WATCHLIVE-Tv!]™Rochdale vs Crewe Live Free Football 17 October 2026
 
 **AS** (26)
+- Espanyol 0 - 1 Atlético: resumen, gol y resultado de LaLiga EA Sports
+- Villarreal - Elche, en directo: LaLiga EA Sports, hoy en vivo
 - Mourinho: “Si yo fuera Vini, este verano habría forzado una salida”
-- El fútbol antes de Monchi: de los telegramas, al big data
-- Espanyol - Atlético hoy, en directo: partido de LaLiga EA Sports, en vivo
 - Betis - Barcelona hoy, en directo: LaLiga EA Sports en vivo, última hora en La Cartuja
+- Manchester City - Ipswich, en directo: Premier League, hoy en vivo
+- Resumen y goles del Everton vs Chelsea, jornada 7 de Premier League
+- Brentford - Liverpool, en directo: Premier League, hoy en vivo
+- Xabi convence, el ‘Dibu’ asusta
+- Eibar - Mallorca, en directo: LaLiga Hypermotion, hoy en vivo
+- Real Sociedad B 2 - Almería 4: resumen, goles y resultado
+- El Rayo-Athletic se reanudará a puerta cerrada
 - Mercado de fichajes, en directo: rumores, altas y bajas de LaLiga, Premier, Serie A...
-- La reacción en frío de Mourinho a lo que dijo Tebas es pura gasolina para el madridismo
-- Órdago al City: posible dimisión
-- RMTV resiste a todos los frentes
-- Tebas contesta al Madrid: “Es intimidación”
-- El CSD estudia actuar de oficio por las declaraciones de Tebas sobre el Real Madrid
-- El Real Madrid exige la dimisión “inmediata” de Tebas
-- La fe del Levante deja a Nsongo sin el premio gordo
 
 **Mundo Deportivo** (40)
-- Dmitrovic, de nuevo suplente en el Espanyol
-- Abde dispara su valor y beneficia a Betis y Barça
-- Once con muchas sorpresas del Atlético ante el Espanyol; Julián, banquillo
-- El Inter Miami da descanso a Messi, que viene a España
-- La roja de Huijsen en el derbi, un 'castigo' que aún perdura y abre el debate en la zaga
-- Everton - Chelsea, en directo | Premier League
-- El Levante marca la mitad de sus goles a partir del minuto 75
-- La alerta naranja obliga al Levante a cambiar su plan de entrenamiento
-- "Empiezas en los entrenamientos, luego después de los partidos y acabas volviéndote adicto"
-- La admiración de Neymar por Lamine Yamal: "El mejor del mundo"
-- "El Granada tiene alma, se rebela y nunca se rinde"
-- El referente de Lennart Karl no es Olise sino un ex del Barça
+- 2-4: La pegada del aún más líder Almería condena y hunde al Sanse
+- El Madrid se apoya en la prensa para exigir la dimisión de Tebas: "Es un insulto a las víctimas del nazismo"
+- Villarreal - Elche, en directo
+- Eibar - Mallorca, en directo | LaLiga HyperMotion de fútbol: Segunda división
+- Tremendo susto con el Dibu Martínez, trasladado a un hospital
+- Esta es la convocatoria del Real Madrid para el duelo ante el Sevilla
+- 0-2: Pedro Neto mete al Chelsea de lleno en Europa
+- 0-1: Baena le da la victoria a los suyos en el RCDE Stadium
+- Manchester City - Ipswich Town, en directo | Premier League
+- Fulham - Hull City, en directo | Premier League
+- Brentford - Liverpool, en directo | Premier League
+- Los retos del fútbol femenino, a debate en la East Mallorca Girls Cup
 
 **Google News ES** (40)
+- [!ＤｉｒｅｃＴＶ＠ＶＥＲ!] Villarreal Club de Fútbol vs Elche Club de Fútbol EN Vivo 18 de octubre 2026
+- Derrota frente al líder
+- [Streaming] Brentford vs Liverpool fútbol en vivo y gratis
+- "Demostrar lo que queremos ser"
+- [TV gratis] Manchester City vs Ipswich Town fútbol en directo 17 de octubre
+- [Transmisión en vivo] Manchester City vs Ipswich Town fútbol en directo y gratis
+- [TV gratis] Brentford vs Liverpool fútbol en directo 17 de octubre
+- [!LIVESTREAMs!]Tv] Villarreal CF - Elche CF EN DIRECTO La Liga de España 2026 futbol 18 de octubre 2026 Stream
+- !+【FÚTBOL】Espanyol-Atlético de Madrid en vivo en televisión, canal 17 de octubre de 2026
+- *$~[[FÚTBOL!!]!!] Espanyol - Atlético Madrid En Directo Gratis
+- !+$!*[FÚTBOL]"> 17 de octubre de 2026
 - ?!![Fútbol
-- Síguela en directo
-- José Mourinho y su enésimo halago a la fortaleza mental de Vinicius Jr.: "Si yo estuviese en su lugar, probablemente no estaría aquí"
-- Su señoría se puso las botas: de jugar con Osasuna al crimen de Yesa
-- Orkatz Martín, de la Regional vizcaina a la élite del fútbol mundial
-- FOTOS | El fútbol base salmantino se divierte con otra gran jornada llena de goles, derbis y emoción
-- Dadme un Javi Rodríguez y moveré el fútbol
-- Shock en octubre en el fútbol español: “Pelé ha vuelto”
-- Millones para campos de fútbol
-- Un derbi para cambiar la dinámica
-- ¿Quién es Ricardo de Burgos Bengoetxea? Árbitro del Betis vs FC Barcelona de la jornada 9 de LALIGA
-- Atletico Madrid - Espanyol Fútbol 𝗲𝗻 𝗩𝗶𝘃𝗼 y en 𝔻𝕚𝕣𝕖𝕔𝕥𝕠
 
 **Gazzetta** (0)
 
 **Football Italia** (20)
-- Milan squad value tops €300m as accounts confirm record Ramos fee
-- Roma ultras thanked Mourinho before Real Madrid clash: ‘You gave us back the ability to dream’
-- Milan open talks to extend Rabiot contract until 2030
-- Serena defends Juventus forward Woltemade: ‘He fits Spalletti’s game’
-- How Milan plan to beat Arsenal and Barcelona to Brugge’s Tresoldi
-- Serie A | Roma vs. Genoa: Probable line-ups and where to watch on TV
-- Serie A | Bologna vs. Inter: Probable line-ups and where to watch on TV
-- Serie A | Venezia vs. Napoli: Probable line-ups and where to watch on TV
-- Today’s Papers: Milan chase Tresoldi, while Juventus consider two strikers
-- Serie A | Frosinone 4-2 Sassuolo: Hat-trick delight for Italy U21 star Raimondo
-- Report: Atletico Madrid have already reached decision on Juventus loanee David
-- Italy talent Zoma stretchered off in 2.Bundesliga clash with Nürnberg
+- Report Gyokeres determined to leave Arsenal amid Juventus and Milan focus
+- Fabregas: ‘Como experience new for everybody, Diao out 2-3 weeks’
+- Atalanta lose Raspadori for three weeks with new injury
+- Milan revive Inacio talks as Gabbia faces three months out
+- Serie A Liveblog: Venezia-Napoli, Bologna-Inter, Roma-Genoa
+- Napoli warning for Venezia trip, pressure on De Bruyne and Lucca
+- Roma without 5 against Genoa as Gasperini calls up Primavera players
+- Newcastle join Juventus and Roma in race for Sporting’s Doumbia
+- Serie A line-ups: Venezia vs. Napoli
+- Gattuso: ‘Juventus stronger than Lazio but we have no fear’
+- Frattesi turned down Juventus to return to Lazio
+- Amorim to skip pre-match press conferences for Milan games against Atalanta and Udinese
 
 **Kicker** (20)
-- LIVE! Wolfsburger Blitzstart in der ersten Minute - FCK startet ohne Ritter
-- Siegen will auch Oberhausen ärgern - BVB II gastiert in Wiedenbrück
-- Baut Memmingen den Vorsprung aus? - Haching zu Gast am Huthgarten
-- Mourinho: "Wäre ich an Vinicius Stelle, wäre ich wahrscheinlich nicht mehr hier"
-- Bleibt Hannover II oben dabei? - VfB Lübeck will sich weiter Luft verschaffen
-- Walter macht eine Ansage: "Welcher Anspruch herrscht hier eigentlich?"
-- Lok vs. Chemie: Emotionales Leipziger Derby - Jenaer Pflichtaufgabe in Luckenwalde
-- Heilbronn-Freiberg will OFC abschütteln - Mannheim und Aalen Favorit - Legt Ulm in Mainz nach?
-- Zwei wilde Patzer: Sechs-Tore-Spektakel bei Frosinone gegen Sassuolo
-- Randale und fünf Festnahmen nach Westderby in Innsbruck
-- Wagner bedauert: "Deswegen waren wir in der Phase zu tief drinnen"
-- Hütter mit Extralob an Koch: "Hat gezeigt, was er imstande ist zu leisten"
+- LIVE! Doppelwechsel bei Elversberg - Undav an den Pfosten - Kobel reagiert stark
+- Venedig - Neapel: Tor zum 1:0 durch Adams in der 49. Minute
+- FCS dreht Partie in Düsseldorf - ächste Hansa-Pleite - RWE-Lauf endet in Ingolstadt
+- Espanyol - Atl. Madrid: Tor zum 0:1 durch Alex Baena in der 89. Minute
+- Bayer kann Tor nach direkter Ecke nicht vergolden: Freigang rettet Frankfurt ein Remis
+- Chelsea rückt in die Top 4 vor - doch bangt um Torhüter Martinez
+- LIVE! Szoboszlai meldet Liverpool bei Brentford an - Bleibt ManCity in der Liga makellos?
+- Reese knackt Vorlagen-Rekord: Wolfsburg jubelt im Absteiger-Duell gegen Heidenheim
+- Perfekter Schlenzer aus 16 Metern: Bremer-Dreierpack gegen den HSV
+- "Darf man als FC Bayern Außenseiter sein?"
+- Testphasen im laufenden Betrieb: Köln bastelt an der Defensive
+- Hütter erstaunt, PK abgebrochen: Plötzlich geht der Feueralarm im Stadion los
 
 **L'Equipe** (40)
-- Lamine Camara a priori apte, Eric Dier et Stanis Idumbo out : le point santé de Monaco avant le déplacement à Lorient
-- Enfin libéré de ses blessures, Ansu Fati arrive presque comme une recrue à Monaco : « Le meilleur reste à venir »
-- « À sa place, je ne serais probablement pas là » : José Mourinho au soutien de Vinicius Junior, sous le feu des critiques après son début de
-- Demichelis : «J'avais repéré Kane dès 2014»
-- Le PSG sans Marquinhos, mis au repos, pour le déplacement à Strasbourg
-- Terzic se méfie de Valence et d'Aguirre
-- Et si c'était la saison de Mboup ?
-- Arteta : «Si Saliba et Konsa sont tous les deux en forme, ce sont des problèmes de riches»
-- Récit d'une nuit d'effroi pour des joueurs de l'OM
-- Enzo Maresca pourrait miser davantage sur Ayyoub Bouaddi, au détriment de Rayan Cherki, pour avoir plus de contrôle sur le jeu
-- Andrews, le favori de la «sack race» a fait taire les critiques
-- « La Premier League, c'est moins tactique » : Bradley Barcola évoque son adaptation à Liverpool et les différences avec le PSG
+- Nantes rechute contre Dunkerque et stagne à la 14e place de Ligue 2
+- Chelsea s'impose à Everton et grimpe provisoirement à la 4e place de Premier League
+- L'erreur de GPS qui a mêlé des joueurs de l’OM à la guerre des gangs
+- Emiliano Martinez évacué sur civière lors d'Everton-Chelsea
+- Paulo Fonseca, entraîneur de l'OL : « Il est étrange qu'à chaque fois que Nice vient à Lyon, on parle de l'arbitrage »
+- Bruno Genesio revient sur les défaillances marseillaises avant le déplacement à Angers : « On manque cruellement d'engagement dans les deux 
+- Julien Le Cardinal, capitaine stéphanois, avant de défier le Red Star : « On y va pour l'emporter »
+- Un banc efficace, mais qui masque certaines failles
+- Mourinho répond à Tebas
+- Mikel Arteta défend les 60 suppressions de postes à Arsenal : « Certaines décisions doivent être prises »
+- Reyna : «Je me sens plus argentin que portugais»
+- Franck Haise, avant le déplacement de Rennes au Paris FC : « Un challenge de se créer des occasions contre eux »
+
+**Foot Mercato** (40)
+- Les mots forts d’Enzo Fernández sur N’Golo Kanté
+- Comment Le Mans ambitionne de devenir l’un des meilleurs centres de formation français ?
+- Ligue 2 : Nantes chute contre Dunkerque, Metz domine Sochaux grâce à Savanier
+- Monaco : Fati savoure son retour en forme
+- Premier League : Chelsea s’impose contre Everton grâce à un doublé de Pedro Neto
+- Chelsea : vives inquiétudes pour Emiliano Martinez, sorti sur civière
+- Bruno Fernandes, l’autre problème de Manchester United
+- Toulouse trolle Le Mans après sa victoire
+- AC Milan : la conférence de presse de Ruben Amorim est annulée
+- Joseph Kalulu, Angers : « jouer avec mes frères en club ou en sélection ce serait exceptionnel »
+- OM : Bruno Genesio calme les ardeurs autour des jeunes talents marseillais
+- OM : Bruno Genesio fait passer un nouveau message à Frank McCourt
 
 **Record** (20)
-- <![CDATA[ Mariana Vargem em 15.º lugar na etapa de Pequim da Taça do Mundo de triatlo ]]>
-- <![CDATA[ Jantar cancelado: explosão de Lisandro Martínez obrigou mulheres dos jogadores do Man. United a ficarem em casa ]]>
-- <![CDATA[ Seedorf dá verdadeira lição: «Somos privilegiados por falar de futebol numa altura em que tantos sofrem com a guerra» ]]>
-- <![CDATA[ Everton-Chelsea, em direto ]]>
-- <![CDATA[ Guardiola regressa a Barcelona e é aplaudido de pé em jogo da Euroliga ]]>
-- <![CDATA[ Papa Leão XIV vai ter alta hoje ]]>
-- <![CDATA[ Ex-mulher de Matthijs de Ligt quebra o silêncio sobre o "inferno" da separação ]]>
-- <![CDATA[ João Neves a perder espaço no PSG? Internacional português dá que falar em França ]]>
-- <![CDATA[ Antigo internacional inglês revela vício que o arrasou: «Ficou muito pior depois de terminar a carreira» ]]>
-- <![CDATA[ Nova secretária de imprensa de Trump despedida após menos de uma semana no cargo ]]>
-- <![CDATA[ Há perfume na relva que o Benfica pisa ]]>
-- <![CDATA[ Rui Jorge concentrado nos jovens do Azerbaijão e sem pensar em seniores: «Não é a vida que quero» ]]>
+- <![CDATA[ Benfica-Sporting, 3-0 (1.ª parte) ]]>
+- <![CDATA[ Taça de Portugal: todos os resultados dos jogos da 3.ª eliminatória em direto ]]>
+- <![CDATA[ A festa da Taça em Castro Daire: Lamelas vende rifas e o 1.º prémio é... um presunto! ]]>
+- <![CDATA[ Brentford-Liverpool, em direto ]]>
+- <![CDATA[ Manchester City-Ipswich, em direto ]]>
+- <![CDATA[ Goleador do Rennes volta a ser apontado ao Benfica ]]>
+- <![CDATA[ Estrasburgo-PSG, em direto ]]>
+- <![CDATA[ Sporting-Benfica, em direto ]]>
+- <![CDATA[ Bom filho a casa torna: Joel Monteiro voltou ao Salgueiros ao fim de 12 anos e quer voltar a surpreender na Taça ]]>
+- <![CDATA[ Arrepiante: Emiliano Martínez saiu de maca e com colar cervical após choque na área ]]>
+- <![CDATA[ Benfica explica números da relação com empresa de Miguel Moreira ]]>
+- <![CDATA[ Pedro Neto brilha pelo Chelsea com bis e condena Everton à primeira derrota na época ]]>
 
 **Ole** (10)
-- Se sumó hasta el presidente: el intenso festejo del vestuario de Instituto
-- No le pierden pisada: qué necesitan los perseguidores de Boca en la anual
-- Partidos de HOY, sábado 17 de octubre: horario y por dónde ver fútbol EN VIVO
-- Arruabarrena, de "Paredes siempre quiere estar" a "este triunfo vale mucho"
-- Atlanta y Quilmes: golpes que duelen por distintos motivos
-- De Felippe, caliente tras la derrota con Boca: "¿A quién querés que ponga, a mi vieja?
-- Calificá a los jugadores de Boca tras el triunfo ante Talleres
-- La Bombonera, a pura fiesta: reviví el cancionero completo de la noche, con dedicatorias a River y pensando en la Copa
-- Boca se lo dio vuelta a Talleres, quedó puntero en la Tabla Anual y llega envalentonado a Brasil
-- Tras el triunfo ante Talleres, cuándo vuelve a jugar Boca y cómo sigue su fixture
+- Estudiantes de Río Cuarto vs. Aldosivi, por el Torneo Clausura 2026: día, horario y TV
+- Show de LeBron James en su estreno en casa con los 76ers: alley-oop tremendo y cuándo será su debut oficial en la NBA
+- Brentford vs. Liverpool, EN VIVO, por la Premier League: ¡Arrancó el partido!
+- Belgrano vs. River, por el Torneo Clausura 2026: día, horario, TV y cómo ver
+- Enorme diferencia: cuánto cambiaron River y Belgrano desde la final del Apertura
+- Estudiantes vs. San Lorenzo, por el Torneo Clausura 2026: día, horario y TV
+- Racing vs. Independiente, por el Torneo Clausura 2026: día, horario, TV y árbitro
+- Las disculpas de Flores a la gente de Boca y a su novia por un video "extrafutbolístico"
+- Vóley: UPCN San Juan derrotó a Boca y, para variar, se metió en la final de la Supercopa
+- Todo sobre patines: Argentina le ganó a España por penales y se clasificó a la final del Mundial
 
-**Infobae** (40)
+**Infobae** (37)
+- El entrenador del Chelsea confirmó que Emiliano Dibu Martínez fue trasladado al hospital tras chocar la cabeza con un rival
+- Máxima preocupación por Dibu Martínez: fue retirado inmovilizado en camilla tras chocar con un rival
+- El penal a los 23 segundos del partido entre Quilmes y Atlético Rafaela que es uno de los más rápidos del fútbol argentino
+- “Le pido disculpas a mi novia porque esas cosas no se hacen”: la particular declaración de la promesa de Boca Juniors Leo Flores tras una co
+- A 45 años del día que Carlos Reutemann perdió el título de F1: la revelación sobre la verdadera falla que tuvo su auto
 - “¿A quién querés que ponga, a mi vieja?”: el tenso cruce de Omar De Felippe con un periodista tras la derrota ante Boca
 - La primera transmisión, el equipo que ganó el Prode en directo y la huella de un programa emblemático: 75 años de fútbol y TV en Argentina
-- A 45 años del día que Carlos Reutemann perdió el título de F1: la revelación sobre la verdadera falla que tuvo su auto
 - La selección argentina femenina Sub 17 tendrá su debut histórico en el Mundial ante Alemania: todo lo que hay que saber
 - 12 frases de Arruabarrena tras la victoria de Boca: de la posible titularidad de Paredes ante Vasco a un pedido de perdón a un periodista
 - El demoledor nocaut del argentino Emiliano Sordi en la PFL que le permitió volver a ganar una pelea tras cinco años
 - El gol de Miguel Merentiel ante Talleres que le permitió igualar una marca histórica de Riquelme en Boca Juniors
 - Boca Juniors venció 2-1 a Talleres y es el único líder de la Tabla Anual antes de visitar a Vasco da Gama por las semifinales de la Sudameri
-- Así están las tablas de posiciones en el Torneo Clausura: se empiezan a definir los playoffs, la Anual y los ingresos a las copas internacio
-- Francisco Comesaña y Juan Manuel La Serna avanzaron a semifinales en el Challenger de Santa Cruz
-- Instituto venció 1-0 a Defensa y Justicia y amplió su ventaja como líder de la Zona A del Torneo Clausura
-- Uruguay estrenó las tarjetas virtuales: la revolución tecnológica que abrió un debate sobre las reglas en el fútbol
 
 **Google News AR** (40)
 - Comienza la duodécima fecha del fútbol local
-- Fin del fútbol gratis en el Ascenso: la AFA confirmó el precio de LPF Play
+- Rosario será sede del Festival Intercultural con fútbol, música y gastronomía: la entrada es gratuita
+- Fútbol Regional Plus lleva a la pantalla el duelo entre el líder y uno de sus perseguidores
+- Partidos de HOY, sábado 17 de octubre: horario y por dónde ver fútbol EN VIVO
+- Liga Concordiense de Fútbol: El Torneo Clausura de Primera División “A” espera la séptima
 - Intensa agenda deportiva en el distrito: fútbol de AFA, rugby de URBA, liga mercedina y una cargada cartelera local
-- Steve Calzada, autor del libro ‘El fútbol es descomplicado’: “Ha habido un exceso de profesionalización y el deporte cada vez va a ser más a
-- Una leyenda del fútbol, Dani Alves, llega a Salta, pero como pastor evangélico
-- Fútbol Posadeño: la oferta del sábado
-- Estos son los cinco partidos del fútbol argentino para hoy, sábado 17 de octubre de 2026
-- Fútbol argentino: cinco partidos este sábado por el Torneo Clausura 2026, horarios y TV
-- Adiós a las cartulinas: debutó en el fútbol de Uruguay la “tarjeta virtual”, el sistema que busca revolucionar el arbitraje
-- Cruces de playoffs del Clausura 2026: así quedaría el cuadro de la Liga Profesional
-- Fiesta, honor y fútbol: domingo de mamás y Octubre Rosa en el Candini
-- Sub 15: ensayo de fútbol ante Banfield en Ezeiza
+- Máxima preocupación por "Dibu" Martínez: lo retiraron inmovilizado y fue hospitalizado
+- Michlig participó del III Congreso de Fútbol Formativo
+- Gallardo analiza convocar varios jugadores del fútbol ecuatoriano para los próximos amistosos
+- Tiene 15 años, fue seleccionado para una prueba de fútbol en Italia y busca ayuda para viajar
+- La pionera Diana Flores celebra tres años de la inclusión del flag football en los Juegos Olímpicos: "Este deporte ya no es un pasatiempo"
+- Dos partidos clave en la lucha por el hexagonal de fútbol local
 
 **ge.globo** (40)
-- Everton x Chelsea - Campeonato Inglês 2026/27 - Ao vivo - globoesporte.com
+- Manchester City x Ipswich - Campeonato Inglês 2026/27 - Ao vivo - globoesporte.com
+- São Paulo é cobrado na Justiça por dívida de R$ 524 mil pela venda de Lucas Ferreira
+- Chelsea joga bem, vence com gols de Pedro Neto e entra no G-4
+- Ídolo de Athletico e Palmeiras, Oséas revive clima da Arena da Baixada: "Era uma Bombonera"
+- Cuiabá contrata meia que estava no Palmeiras para o Sub-20
+- Goleiro Dibu Martínez, do Chelsea, sai de maca e vai para o hospital após choque de cabeça contra o Everton
+- Com ausências no meio, jovem Ruan Sales pode ganhar nova oportunidade no Fluminense
+- Alex Sandro se destaca e engata sequência que não acontecia desde março no Flamengo
+- Primeira vitória de Tite e quebra de jejum: os desafios do Botafogo contra a Chapecoense
+- Criciúma deve ter nova formação contra o Sao Bernardo; veja provável escalação
+- Marquinhos Santos pode manter o time titular do Avaí contra o Athletic
 - Trio reunido: São Paulo volta a ter Lucas, Luciano e Calleri à disposição após cinco meses
-- Palmeiras se inspira na Libertadores para encerrar jejum fora de casa no Brasileirão
-- Seedorf busca resgate emocional do Corinthians e amplia espaço de psicóloga nos primeiros dias
-- Mourinho sai em defesa de Vini Jr. no Real Madrid: "Se fosse eu, provavelmente não estaria aqui"
-- Athletico x Palmeiras: Odair e Abel fazem duelo de técnicos longevos com perfis similares
-- Meia do Atlético-MG comenta futuro em reta final de contrato
-- Do meme da mão no ouvido ao retorno: Loide ganha chance de recomeço no Vasco
-- Athletico x Palmeiras: onde assistir ao vivo, horário e escalações
-- Botafogo x Chapecoense: onde assistir ao vivo, horário e escalações
-- Artilheiro do Vitória na temporada, Renê esteve perto de defender o Corinthians no início do ano
-- Rivalidade à francesa: Filipe Luís, ex-Fla, e Davide Ancelotti, ex-Bota, disputam liderança do Francês
 
 **r/soccer (top día)** (25)
 - Burnley [1]-0 Wolves - Jamie Vardy 20'
-- [The Athletic] FIFA Peace Prize could be scrapped a year on from Donald Trump win (Gift Article)
-- Comunicado Oficial: Real Madrid demands the immediate resignation of Javier Tebas from his position as President of the Spanish LaLiga. Real
 - Newroz 1 - Al Mina'a 0 33' Habib Oueslati overhead kick from outside the box. (Puskas Contender)
 - [The Times] Kane and Bayern have reached a verbal agreement, despite a minor disagreement on the length of the contract: Kane wanted one unt
-- Calafiori about winning the Premier League: “It’s hard to explain, but it was incredibly satisfying and also a great relief for the entire c
 - [Premier League] Lamine Yamal and Pascal Groß lead Europe’s top five leagues with 40 chances created so far this season
-- Nico Williams' agent of why he didn't join Barca "Nico had the idea of leaving. At Athletic you know the limitations, you know you're not go
+- Everton fans boo Emiliano Martinez as he is carried off the field on a stretcher due to injury
+- [Sportschau] Germany wins final of Over 80 World Cup 2:0 against USA
+- Auckland FC [1] - 0 Melbourne City - Lachlan Bayliss 35' (Great goal)
+- Eduardo Varela becomes the first referee to use electronic cards as Nahuel Gelos gets sent off.
 - [Marca] Tebas responds to Real Madrid's request for resignation: "All this has a name: intimidation. I have lost count of the times that, in
 - Chelsea Legend Pat Nevin on Estevao "He'll be a great player but probably not for Chelsea. He might end up with 30 games at the end of the s
-- [Telegraph] Full detail of Man City’s ‘irrefutable evidence’ as they look to overturn verdict
-- Auckland FC [1] - 0 Melbourne City - Lachlan Bayliss 35' (Great goal)
+- J.Calderwood joined PSG in 2013 from Aston Villa after being a 2-time PL groundsman of the year. But now he's at serious risk of being sacke
+- Newly discovered plant species, Salvia messii, becomes 6th species officially named after Messi
 
-Fallaron: ESPN (ParseError), Goal (HTTPError), Independent (ParseError), Football365 (HTTPError), Marca (HTTPError), Sport (HTTPError), Calciomercato (HTTPError), Foot Mercato (HTTPError), TN (HTTPError)
+Fallaron: ESPN (ParseError), Goal (HTTPError), Independent (ParseError), Football365 (HTTPError), Marca (HTTPError), Sport (HTTPError), Calciomercato (HTTPError), TN (HTTPError)
