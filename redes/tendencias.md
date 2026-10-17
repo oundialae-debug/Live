@@ -1,19 +1,27 @@
-# Tendencias de fútbol (2026-10-16 20:01 UTC, Google Trends)
+# Tendencias de fútbol (2026-10-17 11:05 UTC, Google Trends)
 
 Generado por el workflow `tendencias`. Úsalo para elegir temas de memes, curiosos y jugador vs jugador.
 
 | País | Búsqueda | Tráfico | Titular |
 |---|---|---|---|
-| UK | fer lopez | 200+ | Wolves striker Jimenez to have knee surgery |
-| Spain | aubameyang | 100+ | UEFA Europa League all-time top scorers: Pierre-Emerick Aubameyang, Radamel Falcao, Bruno Fernandes, |
-| Spain | bernardo silva | 500+ | Bernardo Silva se ha colado |
-| Italy | rafael benítez | 200+ | Benitez: "Italiane, alcune sconfitte sono state casuali ma si è persa la capacità di difendere" |
-| Italy | unione calcio sampdoria | 200+ | Sampdoria, l'ultima idea anti-infortuni: aiuto dall'intelligenza artificiale |
-| Argentina | sassuolo | 100+ | LIVE Alle 20.45 Frosinone-Sassuolo: Alvini punta tutto su Raimondo, Aquilani con Bakola |
-| Argentina | club atlético rosario central | 200+ | Atlético Tucumán vs. Rosario Central, por el Torneo Clausura 2026: día, horario y por dónde ver |
-| Argentina | frankfurt fc | 100+ | Licensable picture: Eintracht Frankfurt - 1. FC Koeln |
-| Argentina | frosinone - sassuolo | 500+ | Frosinone vs Sassuolo: Italian Serie A stats & head-to-head |
-| Mexico | sassuolo | 500+ | LIVE Alle 20.45 Frosinone-Sassuolo: Alvini punta tutto su Raimondo, Aquilani con Bakola |
-| Mexico | frankfurt vs. colonia | 500+ | Alineaciones de Eintracht Frankfurt vs FC Köln: Estadísticas, horarios y dónde ver |
-| Mexico | le mans football club - toulouse | 2000+ | « On risque de se prendre une gifle » : Videira (Le Mans) se méfie énormément du TFC |
-| Mexico | frankfurt fc | 1000+ | Preview: Eintracht Frankfurt vs FC Koln - prediction, team news, lineups |
+| UK | arsenal women | 200+ | WSL: build-up to Arsenal v Birmingham City - radio & live text |
+| Spain | everton vs chelsea | 200+ | Xabi Alonso confirms Chelsea team news for Everton | News | Official Site |
+| Spain | everton - chelsea | 1000+ | Everton vs Chelsea: Premier League preview, team news, stats & head-to-head |
+| Spain | logroño - granada cf | 200+ | Logroño United W – Granada CF W: horario y dónde ver hoy por TV el partido de fútbol de la Liga F |
+| Spain | coalición canaria | 1000+ | «He tenido dudas, pero tenía que dar el paso y, al darlo, voy a por todas» |
+| Italy | ban vs zim | 200+ | Zimbabwe look to extend recent dominance over Bangladesh |
+| Italy | everton - chelsea | 1000+ | Dove vedere Everton-Chelsea in diretta tv e in streaming: canali, data, orario e formazioni |
+| Italy | everton vs chelsea | 500+ | Everton vs Chelsea: Premier League preview, team news, stats & head-to-head |
+| Italy | sassuolo - napoli | 200+ | Roma-Juventus accende la quarta giornata, il Milan difende la vetta sul campo del Como 1907 |
+| Germany | everton – chelsea | 1000+ | Everton vs Chelsea: Premier League preview, team news, stats & head-to-head |
+| France | everton vs chelsea | 200+ | Everton vs Chelsea: Premier League preview, team news, stats & head-to-head |
+| France | faris moumbagna | 200+ | Encore inoffensif, encore sanctionné : vaincu par l'Olympiakos en Ligue Europa, l'OM reste enfermé d |
+| France | everton – chelsea | 2000+ | Xabi Alonso confirms Chelsea team news for Everton | News | Official Site |
+| USA | everton - chelsea | 1000+ | Everton vs Chelsea: Premier League preview, team news, stats & head-to-head |
+| Argentina | everton - chelsea | 1000+ | Premier League: 10 things to look out for this weekend |
+| Brazil | everton x chelsea | 5000+ | Everton x Chelsea na Premier League: onde assistir ao vivo e horário |
+| Portugal | everton - chelsea | 200+ | Predicted line-ups for Premier League teams in Matchweek 7 |
+| Portugal | joão neves | 100+ | João Neves a perder espaço no PSG? Internacional português dá que falar em França |
+| Portugal | antero henrique | 200+ | Antero Henrique: «O grande responsável pelo regresso do Jorge Costa ao FC Porto foi o José Mourinho» |
+| Mexico | everton - chelsea | 1000+ | Everton vs Chelsea LIVE! Premier League match updates, news and score |
+| Mexico | hull city vs. everton | 200+ | Hull and Everton play out entertaining draw |
