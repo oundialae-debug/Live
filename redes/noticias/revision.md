@@ -207,3 +207,30 @@
 - Google News EN: Friday briefing: How Manchester City’s ​financial scandal could upend the whole football league
 - Foot Mercato: MU : Louis van Gaal accuse Manchester City d’avoir provoqué son licenciement
 
+## 17/10 19:29 · Martinez row erupts at United · revisar
+- Motivo: palabra sensible en los titulares: bombshell
+- Temas: Martinez
+- Mirror: Jamie Carragher forced to clarify Liverpool comments in his book after Lisandro Martinez rant
+- Mirror: The one Man Utd player at centre of Lisandro Martinez row 'revealed' as real reason for outburst emerges
+- Mirror: Lisandro Martinez wants to LEAVE Man Utd as reason for bombshell rant becomes clear
+- BBC: 'I am telling you the truth' - Carrick on Martinez fallout
+- Sky Sports: 'I'm telling you the truth' - Carrick insists Martinez situation resolved
+
+## 17/10 19:29 · Haaland fuels City’s record win · revisar
+- Motivo: sin foto buena con cara visible
+- Temas: Ipswich, Haaland
+- Yahoo: Enzo Marecsa drops Erling Haaland hint ahead of Man City’s clash with Ipswich Town
+- Yahoo: How to watch Manchester City vs Ipswich Town live: Stream, TV, team news, prediction
+- FourFourTwo: How to watch Man City vs Ipswich Town for FREE: TV info
+- Yahoo: Man City Starting XI vs Ipswich Town: Confirmed Team News and Predicted Lineup
+- Google News ES: Manchester City vs Ipswich Town: horario y dónde ver hoy por TV y online el partido de la Premier League 2026/27 a través de DAZN
+
+## 17/10 19:29 · Arbeloa faces Fulham speculation · revisar
+- Motivo: palabra sensible en los titulares: dead
+- Temas: Arbeloa
+- BBC: 'Not about me' - Arbeloa dismisses future questions
+- Mundo Deportivo: The Telegraph: Hay 'rajones' de Arbeloa en el vestuario del Fulham que hacen filtraciones a la prensa
+- Daily Mail: Enzo Maresca insists Man City have been galvanised by guilty verdict, Morgan Gibbs-White a doubt for Forest's clash with Arsenal... and Fulham boss Alvaro Arbeloa remains defiant
+- FourFourTwo: Fulham should stick with Alvaro Arbeloa and not press the panic button, according to Louis Saha
+- Yahoo: Alvaro Arbeloa speaks on Fulham future as sack pressure grows
+
