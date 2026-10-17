@@ -1,8 +1,0 @@
-{"web": [
- {"noticia": "Arteta", "buscar": "Mikel Arteta Arsenal manager touchline", "slug": "arteta_cortes", "n": 8, "dias": 3, "debe": ["arteta"]},
- {"noticia": "Saliba", "buscar": "William Saliba Arsenal defender", "slug": "saliba_foto", "n": 8, "dias": 3, "debe": ["saliba"]},
- {"noticia": "Reece James", "buscar": "Reece James Chelsea captain injury", "slug": "reece_james", "n": 8, "dias": 3, "debe": ["james"]},
- {"noticia": "Merino", "buscar": "Mikel Merino Arsenal midfielder", "slug": "merino_vivo", "n": 8, "dias": 3, "debe": ["merino"]},
- {"noticia": "Olise", "buscar": "Michael Olise Bayern Munich", "slug": "olise_17", "n": 8, "dias": 5, "debe": ["olise"]},
- {"noticia": "Dembele", "buscar": "Ousmane Dembele PSG", "slug": "dembele_17", "n": 8, "dias": 5, "debe": ["dembele", "dembélé"]}
-]}
