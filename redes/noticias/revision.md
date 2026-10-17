@@ -189,3 +189,21 @@
 - AS: Universitatea Craiova - Getafe en directo: UEFA Conference League hoy, en vivo
 - AS: CSKA-Mónaco, en directo: Conference League, hoy en vivo
 
+## 17/10 13:06 · United manager turmoil · revisar
+- Motivo: datos que no salen en los titulares: Devils
+- Temas: Manchester
+- talkSPORT: Where to watch Leeds v Manchester United as under-fire Michael Carrick faces must win after chaotic week
+- Planet Football: Where are they now? The last Leeds United XI to beat Manchester United at Elland Road
+- Google News EN: Manchester United latest: Antonio Conte tells Man Utd he's ready to take over if Michael Carrick is sacked - Paper Talk
+- Google News EN: Friday briefing: How Manchester City’s ​financial scandal could upend the whole football league
+- Foot Mercato: MU : Louis van Gaal accuse Manchester City d’avoir provoqué son licenciement
+
+## 17/10 13:06 · City financial scandal · revisar
+- Motivo: datos que no salen en los titulares: Investigations
+- Temas: Manchester
+- talkSPORT: Where to watch Leeds v Manchester United as under-fire Michael Carrick faces must win after chaotic week
+- Planet Football: Where are they now? The last Leeds United XI to beat Manchester United at Elland Road
+- Google News EN: Manchester United latest: Antonio Conte tells Man Utd he's ready to take over if Michael Carrick is sacked - Paper Talk
+- Google News EN: Friday briefing: How Manchester City’s ​financial scandal could upend the whole football league
+- Foot Mercato: MU : Louis van Gaal accuse Manchester City d’avoir provoqué son licenciement
+
