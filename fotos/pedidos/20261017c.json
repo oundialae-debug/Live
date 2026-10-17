@@ -1,0 +1,6 @@
+{"web": [
+ {"buscar": "Jadon Sancho free agent", "slug": "sancho_libre", "n": 10, "dias": 30, "debe": ["sancho"]},
+ {"buscar": "Jadon Sancho Getafe", "slug": "sancho_getafe2", "n": 10, "dias": 30, "debe": ["sancho"]},
+ {"buscar": "Oh Hyeon-gyu Besiktas Hoffenheim", "slug": "oh_hoff", "n": 10, "dias": 7, "debe": ["hyeon", "oh hyeon", "besiktas", "beşiktaş"]},
+ {"buscar": "Oh Hyeon-gyu bows to referee", "slug": "oh_bow2", "n": 10, "dias": 7, "debe": ["hyeon", "oh "]}
+]}
