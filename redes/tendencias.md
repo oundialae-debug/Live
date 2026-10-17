@@ -1,58 +1,58 @@
-# Tendencias de fútbol (2026-10-17 14:20 UTC, Google Trends)
+# Tendencias de fútbol (2026-10-17 17:28 UTC, Google Trends)
 
 Generado por el workflow `tendencias`. Úsalo para elegir temas de memes, curiosos y jugador vs jugador.
 
 | País | Búsqueda | Tráfico | Titular |
 |---|---|---|---|
-| UK | fulham | 200+ | 'Not about me' - Arbeloa dismisses future questions |
-| UK | man city v ipswich | 500+ | 3pm team news: Szoboszlai + Isak start, six City changes, Schade a sub |
-| Spain | lara ferreiro | 200+ | Lara Ferreiro, psicóloga: «Muchos jóvenes como Lamine Yamal sienten que no tienen permiso para falla |
-| Spain | villarreal elche | 100+ | Villarreal - Elche, en directo: LaLiga EA Sports, hoy en vivo |
-| Spain | villarreal vs elche | 200+ | Will Fer Niño, Ayoze, Sangaré, Pape Gueye and Mikautadze play? |
-| Spain | puado | 100+ | Javi Puado, tras el Espanyol 0-1 Atlético: “Confiamos plenamente en el míster”, pero exige corregir  |
-| Spain | schalke 04 - mainz 05 | 100+ | Bundesliga im Liveticker: FC Schalke 04 gegen 1. FSV Mainz 05 |
-| Italy | napoli | 5000+ | Npoli, Manna: "Su De Bruyne chiacchiere enfatizzate, è un campione" |
-| Italy | allenatore venezia | 2000+ | Probabile Formazione Venezia - Napoli - 7° Giornata |
-| Italy | everton f.c. vs chelsea f.c. standings | 200+ | Everton vs Chelsea LIVE! Premier League match updates, news and score |
-| Italy | dibu martinez | 200+ | Emiliano Martínez sufre una lesión preocupante durant… |
-| Italy | elversberg – augsburg | 100+ | Matchday: FCA zu Gast in Elversberg |
-| Germany | werder bremen | 2000+ | Paderborn geht in Führung | Bremen gegen Paderborn | Bundesliga | Liveticker |
-| Germany | würzburger kickers – sv waldhof | 500+ | Aufstellung | Wycombe Wanderers - Notts County : | 11. Spieltag | League One 2026/27 |
-| Germany | sportschau live | 500+ | Zwei Gegentore gegen Lautern: Bochums Horn - "Müssen dringend eine Lösung finden, um Tore zu erziele |
-| Germany | sve | 200+ | Louis Schütt schnürt Dreierpack beim 5:1 gegen SVE Comet Kiel |
-| Germany | bundesliga live | 200+ | Fussball: Bundesliga |
-| France | naples foot | 200+ | Venise - Naples, Serie A, match en direct le 17/10/2026 |
-| France | haute-saône | 200+ | Ils avaient tué illégalement cerfs et sangliers de nuit : quatre mois de prison ferme pour l’un des  |
-| France | la provence | 200+ | Marseille : Martine Vassal et son directeur de cabinet entendus en garde à vue pour « détournement d |
-| USA | premier league standings | 5000+ | Everton vs. Chelsea (Oct 17, 2026) Team Stats |
-| USA | julián alvarez | 200+ | ¡Dispuesto a marcharse! Viktor Gyokeres presiona para salir del Arsenal en enero por su falta de opo |
-| USA | marcus freeman | 500+ | Why there are a multitude of issues with the 24-team playoff expansion |
-| USA | liverpool f.c | 1000+ | How to watch Brentford vs Liverpool: Live stream Premier League, TV channel |
-| USA | liga española | 500+ | Barcelona: posible alineación y probabilidades vs Real Betis |
-| USA | liverpool vs brentford | 1000+ | Brentford vs Liverpool: Premier League preview, team news, stats & head-to-head |
-| USA | sv elversberg vs augsburg | 200+ | Preview: Elversberg vs Augsburg - prediction, team news, lineups |
-| USA | kalani sitake | 2000+ | BYU Athletics, PV3 Enterprises announce partnership for BYU Football |
-| Argentina | julián alvarez | 500+ | El Arsenal recela del Barça tras la elección de Julián Álvarez: el factor Barquero |
-| Argentina | sv elversberg - augsburgo | 100+ | !$>[LIVE!#Ansehen]* Augsburg Elversberg direkte im kostenlosen Livestream und TV |
-| Argentina | rcd espanyol vs. atlético madrid | 100+ | Alex Baena leads Atlético Madrid to a late win over E… |
-| Argentina | villarreal - elche c. f. | 200+ | Villarreal vs Elche, en vivo, por La Liga de España: minuto a minuto y qué canal pasa el partido por |
-| Argentina | atletico madrid | 500+ | Lee Kang-in drives Atletico to move kickoff to benefit Korean fans - CHOSUNBIZ |
-| Argentina | brentford - liverpool | 1000+ | Fitness update: Andoni Iraola on Gakpo, Isak, Szoboszlai and changes v Brentford |
-| Argentina | manchester city - ipswich | 5000+ | >ＨＥＲＥ’Ｓ!! ＷＡＹ ＴＯ ＷＡＴＣＨ Ipswich Town - Man City ＬＩＶＥ ＳＴＲＥＡＭＳ ＯＮ 𝙽𝚊𝚝𝚒𝚘𝚗𝚜 𝙻𝚎𝚊𝚐𝚞𝚎 ＴＶ ＣＨＡＮＮＥＬ 17 october  |
-| Argentina | dibu martinez | 2000+ | Máxima preocupación por Dibu Martínez: fue retirado inmovilizado en camilla tras chocar con un rival |
-| Brazil | napoli x | 200+ | Horário e onde assistir ao vivo Venezia x Napoli, pela Série A |
-| Brazil | werder bremen x paderborn 07 | 200+ | Werder Bremen im Liveticker gegen den SC Paderborn: Bundesliga LIVE |
-| Brazil | galatasaray | 500+ | Yamal provoca rival após goleada do Barcelona: 'Me conhece agora?' |
-| Brazil | josé mourinho | 200+ | 'Se eu fosse o Vinicius Junior, teria ido embora no verão passado', diz Mourinho |
-| Brazil | jogo do atlético de madrid | 100+ | Tempo Real | Espanyol x Atlético de Madrid |
-| Portugal | brentford vs liverpool | 200+ | Brentford vs Liverpool: Premier League preview, team news, stats & head-to-head |
-| Portugal | man city vs ipswich town | 200+ | Maresca says Haaland and team-mates will need rest |
-| Portugal | brentford - liverpool | 500+ | Prognóstico Brentford vs Liverpool - Premier League (17/10/2026) |
-| Portugal | city - ipswich town | 1000+ | Manchester City vs Ipswich Town: Premier League preview, team news, stats & head-to-head |
-| Mexico | werder bremen - paderborn | 100+ | !$[[RTE-LIVE]]]] Bremen - Paderborn heute live im TV, Übertragung im TV, Startzeit, Sperrungen und |
-| Mexico | liverpool vs brentford | 100+ | Brentford vs Liverpool LIVE Score Updates in Premier League Match |
-| Mexico | villarreal vs | 100+ | Licensable picture: Soccer 2026: LaLiga: Villarreal CF - Elche |
-| Mexico | manchester city | 1000+ | Man City charges: Do Premier League club have grounds for their appeal? |
-| Mexico | manchester city vs | 500+ | ¿Quién transmite partido de Tijuana vs. Puebla HOY? Horario y CANAL jornada 12 Liga MX 2026 |
-| Mexico | man city vs ipswich town | 200+ | Maresca says Haaland and team-mates will need rest |
-| Mexico | liga alemana | 200+ | Union Berlin - Borussia Dortmund en directo |
+| UK | nicolas jackson | 500+ | Aston Villa rout Fenerbahce to end home woes |
+| UK | newcastle manager | 200+ | Newcastle United debrief: Jaissle tactics, January transfer optons - your questions answered |
+| UK | brian madjo | 200+ | Premier League LIVE: Newcastle vs Aston Villa after wins for Chelsea, Fulham, Liverpool and Man City |
+| UK | barcelona vs | 100+ | Betis - Barcelona en directo: cómo va, resultado y goles del partido de la Liga hoy, en vivo |
+| UK | manzambi | 2000+ | Johan Manzambi proving one of best-value signings of summer transfer window for Aston Villa - The Ra |
+| UK | newcastle game | 200+ | Latest. Matthias Jaissle's team news update: Touré and Elanga latest ahead of Villans clash |
+| UK | ollie watkins | 200+ | Aston Villa legend tips Nicolas Jackson to surpass his career goalscoring best this season |
+| Spain | cómo va el betis | 500+ | Hansi Flick: "¿El calendario? No hay excusas" |
+| Spain | cucho hernández | 200+ | Así ganó el Madrid a la Roma: el plan de emergencia vuelve a salvar a la línea dura de Mourinho |
+| Spain | héctor bellerín | 200+ | Héctor Bellerín, 31 años, sobre sus propiedades: "Al lado de mi casa de Sevilla se han multiplicado  |
+| Spain | dani ceballos | 200+ | ¿Turno para Ceballos? |
+| Spain | barca | 5000+ | Real Betis vs. FC Barcelona (Matchday #9) |
+| Italy | barcellona calcio | 500+ | Liga: Espanyol-Atletico Madrid 0-1, decide Baena nel finale |
+| Italy | luis henrique | 200+ | Il crollo di Akanji è causato da... Diouf: ecco perché con Luis Henrique era tutto diverso |
+| Italy | inter | 20000+ | Inter, ora guida Pio: senza Lautaro, Chivu incorona l'azzurro |
+| Germany | barca | 1000+ | Real Betis vs. FC Barcelona (Matchday #9) |
+| Germany | fcb | 1000+ | Torwartdebatte beim FCB: Bayern-Ikone Sepp Maier setzt auf Neuer |
+| Germany | pavlovic | 200+ | Pavlović vor Leipzig-Spiel wieder im Training |
+| France | ousmane dembélé | 1000+ | Luis Enrique répond à la demande de vacances d'Ousmane Dembélé : « Il est le boss » | Foot - Ligue 1 |
+| France | nuno mendes | 200+ | PSG vs Barcelona ticket prices exceed €1,300 as demand surges for Champions League clash |
+| France | psg racing | 200+ | [#VOIR/TV]+!PSG-Strasbourg Match En Direct Streaming |
+| France | brentford f.c. vs liverpool f.c. standings | 200+ | Brentford 1-2 Liverpool: Alexander Isak and Victor Munoz goals give Reds win |
+| USA | lamine yamal | 2000+ | Lamine Yamal opens scoring for FC Barcelona with outside-the-box stunner |
+| USA | legend bey | 500+ | Ryan Day dropped a pointed update on Ohio State freshman RB Legend Bey that feels like a sigh of rel |
+| USA | sd state vs north dakota | 500+ | LIVE BLOG: South Dakota State at UND football, 1 p.m. |
+| USA | rodri | 200+ | Real Sociedad B - Almería, en directo | Última hora de LALIGA Hypermotion en vivo hoy |
+| USA | barca vs real betis | 200+ | Raphinha y De Jong, novedades en la lista del Barcelona para viajar a Sevilla |
+| USA | bayern munich | 2000+ | Harry Kane: England captain agrees new deal in principle with Bayern Munich until 2029 |
+| Argentina | inter vs | 200+ | Bologna vs Inter, en vivo, por la Serie A de Italia: minuto a minuto y qué canal pasa el partido por |
+| Argentina | barcelona vs | 2000+ | Lamine Yamal marcó un golazo para el 1 a 0 de Barcelona a Betis en LaLiga |
+| Argentina | enzo fernández | 1000+ | Haaland brilló y Manchester City derrotó a Ipswich para seguir líder en la Premier |
+| Argentina | posiciones de brentford contra liverpool fc | 1000+ | Brentford 1-2 Liverpool: Alexander Isak and Victor Munoz goals give Reds win |
+| Argentina | inter milan | 200+ | Lautaro Martínez Sidelined for Milan Derby Due to Injury |
+| Brazil | la liga | 10000+ | Betis x Barcelona em LaLiga: onde assistir ao vivo e horário |
+| Brazil | lo celso | 200+ | Longoria lo aprobó y River preparó todo para traer un refuerzo desde Betis: "Va a ir" |
+| Brazil | fermín lópez | 200+ | Fermín López, letal de cabeza ante el Galatasaray |
+| Brazil | lamine yamal | 1000+ | Lamine Yamal opens scoring for FC Barcelona with outside-the-box stunner |
+| Brazil | valentín gómez | 200+ | Gol de Valentín Gómez (Betis, 1 - Barcelona, 1) |
+| Brazil | abde ezzalzouli | 100+ | Hansi Flick: "¿El calendario? No hay excusas" |
+| Brazil | bayern vs rb leipzig | 100+ | Bayern München vs RB Leipzig - Prognose, Übertragung, Anstoßzeit und Aufstellungen 17-10-2026 |
+| Portugal | newcastle - aston villa | 100+ | Premier League LIVE: Newcastle vs Aston Villa after wins for Chelsea, Fulham, Liverpool and Man City |
+| Portugal | betis x barcelona | 200+ | Sebastián Yatra, en el Betis - Barcelona antes de actuar en el festival 'Jardín de las Delicias' |
+| Portugal | bologna - inter | 100+ | LIVE Alle 18 Bologna-Inter, le ufficiali: Chivu sceglie Pio e Thuram, c'è Bernardeschi |
+| Portugal | classificações de manchester city x ipswich town | 1000+ | Sete em sete: Man. City e Haaland estão imparáveis (resumo) |
+| Portugal | bayern - rb leipzig | 1000+ | Confirmed Lineups: FC Bayern Munich vs. RB Leipzig |
+| Mexico | la liga | 5000+ | Real Madrid vuelve a pedir renuncia de Tebas a LaLiga: "Inadmisible" |
+| Mexico | bayern | 2000+ | Bayern vs. Arsenal live: Hier wird die Champions League im TV, Stream und Ticker übertragen |
+| Mexico | cronología de betis contra fc barcelona | 500+ | Real Betis vs. FC Barcelona (Matchday #9) |
+| Mexico | lamine yamal | 1000+ | Así fue el golazo al ángulo de Lamine Yamal vs. Betis (VIDEO) |
+| Mexico | valentín gómez | 200+ | Gol de Valentín Gómez (Betis, 1 - Barcelona, 1) |
+| Mexico | karim adeyemi | 200+ | Borussia Dortmund apparently regret their handling of Karim Adeyemi – and want to learn lessons |
+| Mexico | balon de oro 2026 | 100+ | ¡Desaire a Lionel Messi! La leyenda argentina no ha sido invitada a entregar un trofeo en el Balón d |
