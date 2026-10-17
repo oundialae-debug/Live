@@ -63,3 +63,6 @@
 {"t": "2026-10-17T17:29+00:00", "estado": "revisar", "temas": ["Martinez"], "clave": "lisandro-martinez-controversy", "motivo": "palabra sensible en los titulares: bombshell"}
 {"t": "2026-10-17T17:29+00:00", "estado": "revisar", "temas": ["Ipswich", "Haaland"], "clave": "city-ipswich-haaland-rotation", "motivo": "sin foto buena con cara visible"}
 {"t": "2026-10-17T17:29+00:00", "estado": "revisar", "temas": ["Arbeloa"], "clave": "arbeloa-fulham-manager-rumours", "motivo": "palabra sensible en los titulares: dead"}
+{"t": "2026-10-17T19:42+00:00", "estado": "descartar", "temas": ["Newcastle"], "clave": "newcastle-astonvilla-preview", "motivo": "importancia 6 < 7"}
+{"t": "2026-10-17T19:42+00:00", "estado": "revisar", "temas": ["Inter"], "clave": "inter-injury-list", "motivo": "categoría sensible: injury"}
+{"t": "2026-10-17T19:42+00:00", "estado": "descartar", "temas": ["Newcastle"], "clave": "newcastle-doumbia-race", "motivo": "importancia 5 < 7"}

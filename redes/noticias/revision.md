@@ -234,3 +234,12 @@
 - FourFourTwo: Fulham should stick with Alvaro Arbeloa and not press the panic button, according to Louis Saha
 - Yahoo: Alvaro Arbeloa speaks on Fulham future as sack pressure grows
 
+## 17/10 21:42 · Inter hit by injuries · revisar
+- Motivo: categoría sensible: injury
+- Temas: Inter
+- Yahoo: Back at San Siro, Yann Sommer Thanks Inter Supporters
+- Yahoo: Inter add Pavard to growing injury list along with Lautaro, Stones and Jones
+- Football Italia: Chivu: Inter coach reveals Lautaro’s return timeline, takes blame for Brugge loss
+- Infobae: Kily González confirmó que Lionel Messi viajará a Europa para recibir un premio después del próximo partido del Inter Miami
+- Yahoo: Serie A | Bologna vs. Inter: Probable line-ups and where to watch on TV
+
