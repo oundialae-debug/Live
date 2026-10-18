@@ -1,46 +1,42 @@
-# Tendencias de fútbol (2026-10-18 18:50 UTC, Google Trends)
+# Tendencias de fútbol (2026-10-18 21:44 UTC, Google Trends)
 
 Generado por el workflow `tendencias`. Úsalo para elegir temas de memes, curiosos y jugador vs jugador.
 
 | País | Búsqueda | Tráfico | Titular |
 |---|---|---|---|
-| UK | real madrid - sevilla | 500+ | Real Madrid - Sevilla, en directo: última hora de LaLiga EA Sports, hoy en vivo |
-| UK | ol vs nice | 200+ | Vive le turnover à l'OL : pour la réception de Nice, Paulo Fonseca devrait effectuer au moins huit c |
-| UK | easyjet flight u2415 emergency landing | 500+ | easyJet U2415 declared an emergency and diverted to Liverpool following engine vibration |
-| UK | juventus vs lazio | 2000+ | Juventus vs Lazio: Italian Serie A stats & head-to-head |
-| Spain | didier deschamps | 200+ | Florentino ya tiene sustituto por si falla el 'plan Mourinho': Deschamps, candidato |
-| Spain | burgos - c. e. sabadell | 1000+ | Burgos CF - Sabadell en directo |
-| Spain | susanna griso | 500+ | Susanna Griso (57 años): “He pasado cuatro meses buscando piso en Barcelona, y se supone que tengo u |
-| Spain | mikel oyarzabal | 500+ | La Rosaleda homenajea a Mikel Oyarzabal |
-| Spain | lyon - niza | 200+ | Vive le turnover à l'OL : pour la réception de Nice, Paulo Fonseca devrait effectuer au moins huit c |
-| Spain | real madrid - sevilla | 100000+ | Real Madrid - Sevilla, en directo: última hora de LaLiga EA Sports, hoy en vivo |
-| Italy | real madrid - sevilla | 200+ | Real Madrid - Sevilla, en directo: última hora de LaLiga EA Sports, hoy en vivo |
-| Italy | real madrid vs sevilla | 500+ | Real Madrid vs Sevilla, 2026 live stream: Time, TV channels and how to watch La Liga online |
-| Italy | ac milan vs atalanta bc standings | 5000+ | AC Milan vs Atalanta: Italian Serie A stats & head-to-head |
-| Italy | real madrid - siviglia | 5000+ | Dove vedere Real Madrid-Siviglia in tv? Sky o Dazn, orario |
-| Germany | juventus vs lazio | 200+ | Juventus - Spalletti souligne le travail de Gattuso avant le choc contre une Lazio “redoutable” |
-| Germany | classifica di ac milan - atalanta | 200+ | FINALE Milan-Atalanta 3-2: miracolo Maignan su Zappacosta e che rischio Estupinan |
-| Germany | real madrid vs sevilla | 1000+ | Real Madrid vs Sevilla - Prediction, where to watch, kick-off time and line-ups 18-10-2026 |
-| France | real madrid vs sevilla | 1000+ | Confirmed: Real Madrid starting eleven to face Sevilla |
-| USA | dameon pierce | 2000+ | Fantasy Football Week 6 Start ‘Em, Sit ‘Em: Dameon Pierce vs. Blake Corum |
-| USA | real madrid schedule | 1000+ | Real Madrid want LaLiga chief out after he compared attacks on refs to Nazi propaganda |
-| USA | byu ranking | 500+ | Josh Furlong's AP Top 25: It's BYU's world ... even when the world doubted them |
-| USA | real madrid - sevilla | 20000+ | Confirmed: Real Madrid starting eleven to face Sevilla |
-| Argentina | jadson viera | 200+ | La sorpresiva decisión de Jadson Viera en el once de Independiente para el clásico |
-| Argentina | real madrid - sevilla | 5000+ | Real Madrid - Sevilla, en directo: última hora de LaLiga EA Sports, hoy en vivo |
-| Argentina | alineaciones de racing club contra club atlético independiente | 200+ | 🚨Confirmed XIs: Racing spring a surprise against Independiente |
-| Argentina | futbol en vivo | 200+ | Partidos de hoy, sábado 17 de octubre de 2026: programación, canales TV y resultados en vivo |
-| Brazil | lyon | 200+ | Mobilisation du 17 octobre : à Lyon, l’office du tourisme incendié au cours d’une journée chaotique |
-| Brazil | real madrid - sevilla | 1000+ | Confirmed: Real Madrid starting eleven to face Sevilla |
-| Brazil | real madrid vs sevilla | 500+ | Real Madrid x Sevilla em LaLiga: onde assistir ao vivo e horário |
-| Brazil | twente | 200+ | Live Eredivisie | FC Twente wil tegen FC Utrecht PSV passeren op ranglijst |
-| Portugal | real madrid vs sevilla | 200+ | Real Madrid-Sevilha: os onzes para novo teste de Mourinho |
-| Portugal | real madrid - sevilla | 2000+ | Confirmed: Real Madrid starting eleven to face Sevilla |
-| Portugal | juventus - lazio | 500+ | LIVE Alle 20.45 Juventus-Lazio, le ultime: Spalletti punta sulla coppia Nico-Kolo, Gattuso sceglie N |
-| Portugal | classificações de nottingham forest x arsenal | 2000+ | Nottingham Forest 0 x 1 Arsenal | Premier League: melhores momentos |
-| Portugal | liga italiana | 500+ | FINALE Milan-Atalanta 3-2: miracolo Maignan su Zappacosta e che rischio Estupinan |
-| Mexico | racing club | 100+ | ⚖️All confirmed: Facundo Tello to referee the Avellaneda derby |
-| Mexico | atlético madrid vs. real madrid | 100+ | “Valverde debe plantearse hacia dónde orientar su carrera” |
-| Mexico | pumas femenil | 100+ | ¿A qué hora juega Pumas vs Atlas? Dónde ver EN VIVO partido de la Liga MX Femenil 2026 HOY |
-| Mexico | real madrid - sevilla | 20000+ | Real Madrid - Sevilla, en directo: última hora de LaLiga EA Sports, hoy en vivo |
-| Mexico | twente | 1000+ | LIVE | Taha is gepasseerd door John van den Brom en start op de bank |
+| UK | pierre sage | 1000+ | Pierre Sage apologises to Crystal Palace fans after the Eagles are thrashed by Brighton |
+| UK | la liga | 2000+ | Celta Vigo vs Alavés: Spanish La Liga stats & head-to-head |
+| UK | yan diomandé | 200+ | Victoire spectaculaire du Real Madrid face à Séville, doublé de Kylian Mbappé |
+| Spain | real madrid vs sevilla fc standings | 2000+ | Real Madrid 4-1 Sevilla - Kylian Mbappe scores twice as Real win |
+| Spain | marc cucurella | 500+ | Licensable picture: Real Madrid v Sevilla FC - La Liga |
+| Spain | posiciones de juventus fc contra lazio | 500+ | Juventus player ratings vs Lazio: Guglielmo Vicario left exposed as Randal Kolo Muani fails to fire  |
+| Spain | barcelona sc - u. católica | 200+ | Barcelona - Universidad Catolica | Pronóstico y cuotas 18.10.2026 |
+| Spain | clasico real madrid barcelona | 100+ | Solo una semana para el FC Barcelona - Real Madrid: dónde ver el primer Clásico de esta temporada en |
+| Italy | ciottolo | 200+ | Lavoratori in nero e irregolarità igienico-sanitarie, chiusa cornetteria |
+| Italy | serie a tim | 500+ | Dove vedere Roma-Genoa, Bologna-Inter, Venezia-Napoli: sport in tv del 17 ottobre |
+| Italy | statistiche serie a | 2000+ | La Roma si lascia alle spalle il Real: 2-0 al Genoa con Castro e Lulli |
+| Italy | edon zhegrova | 200+ | Spalletti could hand a starting spot to Zhegrova against Lazio |
+| Italy | campionato | 200+ | I centrocampisti low cost da schierare al fanta nella 7ª giornata |
+| Italy | parma | 200+ | PREVIEW | Parma vs Torino: team news, lineups, predictions (Serie A 19/10) |
+| Germany | justin herbert | 200+ | ‘You’ve Gotta Carry Us’ — Greg Olsen Challenges Popular Narrative Around Justin Herbert Amid Charger |
+| Germany | kylian mbappé | 2000+ | Liveticker | Real Madrid - FC Sevilla 4:1 | 9. Spieltag | La Liga 2026/27 |
+| France | mairie de marseille | 500+ | « Ils nous ont envoyés à la mort » : face aux violences du 17 octobre, le désarroi des forces de l’o |
+| France | jude bellingham | 100+ | Bellingham set to sign new deal at Real Madrid: all the details |
+| France | pickem | 200+ | Road to Vegas: 5 matchups to watch in Week 7 of college football |
+| France | diomande | 200+ | La Liga: a goal and an assist, Yan Diomandé delivers his standout performance with Real Madrid |
+| USA | justin herbert | 5000+ | Justin Herbert takes flying knee to head during QB slide |
+| Argentina | bucaramanga - américa | 100+ | Cuándo juegan Bucaramanga vs. América por la fecha 15 de la Liga BetPlay: fecha, hora y TV en vivo |
+| Argentina | yan diomandé | 100+ | Yan Diomande se voit offrir une occasion en or de remplacer Vinicius Jr, tandis que Jose Mourinho fa |
+| Argentina | liverpool - peñarol | 200+ | Clausura: Peñarol visita a Liverpool a las 18:30 en el Viera. Alineaciones y cómo verlo |
+| Argentina | belgrano femenino | 100+ | Fue mamá, dejó el fútbol profesional durante 7 años y volvió para firmar una página histórica en la  |
+| Brazil | classificação serie b | 1000+ | Ponte Preta 1 x 1 Atlético-GO | Campeonato Brasileiro Série B: melhores momentos |
+| Brazil | liverpool x peñarol | 200+ | Liverpool vs. Peñarol por la fecha 11 del Torneo Clausura: hora, dónde ver, probables alineaciones |
+| Brazil | classificações de real madrid x sevilla | 50000+ | Real Madrid faz 4 golaços, bate Sevilla e ganha moral em semana de clássico |
+| Portugal | classificações de real madrid x sevilla | 2000+ | Dois golos, duas obras de arte: Guler e Mbappé brilham no Real Madrid-Sevilha |
+| Portugal | juventus vs lazio | 100+ | Juventus player ratings vs Lazio: Guglielmo Vicario left exposed as Randal Kolo Muani fails to fire  |
+| Mexico | neymar | 200+ | Neymar respaldó a Lamine Yamal en la carrera por el Balón de Oro: “Es el mejor del mundo” |
+| Mexico | jude bellingham | 200+ | Bellingham set to sign new deal at Real Madrid: all the details |
+| Mexico | bucaramanga - américa | 200+ | Cuándo juegan Bucaramanga vs. América por la fecha 15 de la Liga BetPlay: fecha, hora y TV en vivo |
+| Mexico | posiciones de la liga | 50000+ | Liga MX: ¿A qué hora y dónde ver los partidos de la Jornada 12 este sábado 17 de octubre? |
+| Mexico | raphinha | 200+ | Big boost for Barcelona as key defender likely to be available vs PSG |
+| Mexico | bernardo silva | 100+ | Arda Güler and Bernardo Silva ask for a place |
