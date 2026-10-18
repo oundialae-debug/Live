@@ -1,9 +1,9 @@
 {
- "generado": "2026-10-18T16:05+00:00",
+ "generado": "2026-10-18T18:50+00:00",
  "temas": [
   {
    "tema": "Arsenal",
-   "medios": 19,
+   "medios": 20,
    "lista_medios": [
     "AS",
     "BBC",
@@ -21,6 +21,7 @@
     "Planet Football",
     "Record",
     "Sky Sports",
+    "Telegraph",
     "Yahoo",
     "ge.globo",
     "talkSPORT"
@@ -498,10 +499,11 @@
   },
   {
    "tema": "Palace",
-   "medios": 16,
+   "medios": 17,
    "lista_medios": [
     "AS",
     "BBC",
+    "Daily Mail",
     "Foot Mercato",
     "FourFourTwo",
     "Google News AR",
@@ -590,6 +592,103 @@
      "titulo": "Brighton star scores outrageous goal of the season as Seagulls tear rivals Crystal Palace apart",
      "url": "https://talksport.com/football/4651691/brighton-diego-gomez-goal-of-season-crystal-palace/",
      "pub": "2026-10-18T13:22+00:00"
+    }
+   ]
+  },
+  {
+   "tema": "Manchester",
+   "medios": 16,
+   "lista_medios": [
+    "AS",
+    "Daily Mail",
+    "Foot Mercato",
+    "FourFourTwo",
+    "Google News AR",
+    "Google News EN",
+    "Google News ES",
+    "Guardian",
+    "Infobae",
+    "L'Equipe",
+    "Mundo Deportivo",
+    "Ole",
+    "Record",
+    "Yahoo",
+    "ge.globo",
+    "talkSPORT"
+   ],
+   "primera_vez": "2026-10-17T11:05+00:00",
+   "titulares": [
+    {
+     "medio": "Google News ES",
+     "titulo": "Manchester City vs Ipswich Town: horario y dónde ver hoy por TV y online el partido de la Premier League 2026/27 a través de DAZN",
+     "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNOFRkWWppbG5tOU9BTmhtVXltRlN0Ynp6MTJvNlhLazFUdXFVRzZpdjR1eXBzMElQd1BuSEpiZURPUS1vUUlMeWtKQWFiZDM5cHdhRTV3NnI1Y3N4WWNiazFBOE9QVzFkVk5kUXM1MUxRckxpQWRLZUI4cmQ2TUh4Mk40SDFhRkQ0V09MVUF4THBXejllWTBpa0w0U2lJR1RSVzFDZGJrZ2VTSXhaZ3JRcHpyaWhad0lDckp0UU1LRzdkVTZIMFNMOENZbkwzWXlBNmVUWXI5elpYLVBXcUhfd203eUtfME1VOVZyenpERWxYOFhBQ3ZLNDdkVzZNYVU?oc=5",
+     "pub": "2026-10-17T08:00+00:00"
+    },
+    {
+     "medio": "Guardian",
+     "titulo": "Manchester City v Ipswich, Brentford v Liverpool, and more: Football clockwatch - live",
+     "url": "https://www.theguardian.com/football/live/2026/oct/17/manchester-city-v-ipswich-brentford-v-liverpool-and-more-football-clockwatch-live",
+     "pub": "2026-10-17T14:11+00:00"
+    },
+    {
+     "medio": "Yahoo",
+     "titulo": "Manchester City v Ipswich Town",
+     "url": "https://sports.yahoo.com/articles/manchester-city-v-ipswich-town-140136161.html",
+     "pub": "2026-10-17T14:01+00:00"
+    },
+    {
+     "medio": "Yahoo",
+     "titulo": "Manchester United receive injury boost ahead of Leeds United clash",
+     "url": "https://sports.yahoo.com/articles/manchester-united-receive-injury-boost-132000946.html",
+     "pub": "2026-10-17T13:20+00:00"
+    },
+    {
+     "medio": "Yahoo",
+     "titulo": "🚨 Manchester City-Ipswich XIs: Enzo Fernández and Cherki on the bench!",
+     "url": "https://sports.yahoo.com/articles/manchester-city-ipswich-xis-enzo-131600092.html",
+     "pub": "2026-10-17T13:16+00:00"
+    },
+    {
+     "medio": "Yahoo",
+     "titulo": "Manchester City legend David Silva reveals how close he came to joining Barcelona in 2008: ‘Valencia weren’t selling back then’",
+     "url": "https://sports.yahoo.com/articles/manchester-city-legend-david-silva-130000587.html",
+     "pub": "2026-10-17T13:00+00:00"
+    },
+    {
+     "medio": "Yahoo",
+     "titulo": "Manchester City and Ipswich Town have confirmed their starting lineups ahead of today’s match",
+     "url": "https://sports.yahoo.com/articles/manchester-city-ipswich-town-confirmed-124900478.html",
+     "pub": "2026-10-17T12:49+00:00"
+    },
+    {
+     "medio": "Yahoo",
+     "titulo": "Barcelona revive interest in 18-year-old Benfica wonderkid amid competition from Newcastle and Manchester United",
+     "url": "https://sports.yahoo.com/articles/barcelona-revive-interest-18-old-120300084.html",
+     "pub": "2026-10-17T12:03+00:00"
+    },
+    {
+     "medio": "Google News EN",
+     "titulo": "‍‍‍~#[LIVE MATCH]#~ Manchester City vs Ipswich Town ＬＩＶＥ Football Streaming",
+     "url": "https://news.google.com/rss/articles/CBMipwNBVV95cUxNYkVLX2VFYTVicGl0cE1aSVdEX2lfWHBBSDA0TmMxbXRuNDZyOXdMazNXSXFOcXAyeDE1ZkpRR1BJTzdOM3NKVU01cy10Nzl3TFAyUGNKdnZDdklwUUpJaWFuRTlOQ0JiWnFHODlGT3lfbUtIS3AyZ05FaS1lSnFXcGdKUngtQXlRaEVZOHFJeW1PWlliN1lnUjJpUU9mR0pyNVZwbUl3YXJiU3VOaVhEM3RpRXBMU1BrYlZCTDNmWWF2VGJhOVNpc0Rsb2xTYUtldUh3a2F0aEdMSnRCWkxmR1ItaGlHQ3p6S2NJVzZ0QkNmXzdESFJPWHRZSVpMS0xaQnFNd0lRWVl4SkN1MUQtb0NoWUItaEFFTEJIc0hPdG53bjlzdVFxbDkyZmJvQ2h2ZGFsQ2pDdmRFZ2lFajVLM1c0UkN4Um4tUXhYcDVuOV9KNlhjVXJzLWdtUEhHTERKbVZvVWlFODBDY1RtLXRvR0RnTU5uOExXTlVhckZLSUZieXltMW94Ym45MndCc3U4WnhzWV9DblQzaFo3SzI5cDhRN2VyR00?oc=5",
+     "pub": "2026-10-17T13:41+00:00"
+    },
+    {
+     "medio": "AS",
+     "titulo": "Manchester City - Ipswich, en directo: Premier League, hoy en vivo",
+     "url": "https://as.com/futbol/internacional/manchester-city-ipswich-en-directo-premier-league-hoy-en-vivo-f202610-d/",
+     "pub": "2026-10-17T14:16+00:00"
+    },
+    {
+     "medio": "Mundo Deportivo",
+     "titulo": "Manchester City - Ipswich Town, en directo | Premier League",
+     "url": "https://www.mundodeportivo.com/futbol/premier-league/20261017/1004237835/manchester-city-ipswich-town-directo-premier-league.html",
+     "pub": ""
+    },
+    {
+     "medio": "Google News ES",
+     "titulo": "[TV gratis] Manchester City vs Ipswich Town fútbol en directo 17 de octubre",
+     "url": "https://news.google.com/rss/articles/CBMi_wJBVV95cUxNVDBZWTRWbU4yWkZYQVVWaTMwcFVxd0JoZlFYSkItUzNXNmZURGVPZUMxR082UUNUUW9ZSnNmNlExUlJpN3MyYzZZbXdpNFlHZDAxcjlZd1pmN2ZsUmhKTXpneGJDMFJJVVNrZlpxVHhOZW5wQ21uLUtIemhLMXQwXzJYMmlpdHU4RmVsZFZEdmI0d1dkdzNESzRHblBwdTlNdWxrd3NaYzI1VUVDcFgxeVlxMXQ4eDBEbGxOZlUtZ3BqYzhVQTRvUnRldFJ5OVlsVExHc1RFR1Zha3Qyb1pGMVk4U20tQ3pNTWxrUDR3aUhDa2xrR3dsTkJwTWkyN3JLRVpnREtfdjR4clFFeHUyWk9YTHZHQ2xXMGNNbkFxZHdjRVlIZDE2WlZ2Tm9DZzd1bGdncDRXOUg3NHVvcnUzU2Nrc1pkVmJHSThteHd4LUhHS2lSczd4Mk5BeElCam5DaTBYdkxGbTB0ZTc1c0h6TWFvZUdiU2hQUXMwSTR0SQ?oc=5",
+     "pub": "2026-10-17T14:00+00:00"
     }
    ]
   },
@@ -786,102 +885,6 @@
    ]
   },
   {
-   "tema": "Manchester",
-   "medios": 15,
-   "lista_medios": [
-    "AS",
-    "Daily Mail",
-    "Foot Mercato",
-    "FourFourTwo",
-    "Google News AR",
-    "Google News EN",
-    "Google News ES",
-    "Guardian",
-    "Infobae",
-    "L'Equipe",
-    "Mundo Deportivo",
-    "Ole",
-    "Record",
-    "Yahoo",
-    "ge.globo"
-   ],
-   "primera_vez": "2026-10-17T11:05+00:00",
-   "titulares": [
-    {
-     "medio": "Google News ES",
-     "titulo": "Manchester City vs Ipswich Town: horario y dónde ver hoy por TV y online el partido de la Premier League 2026/27 a través de DAZN",
-     "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNOFRkWWppbG5tOU9BTmhtVXltRlN0Ynp6MTJvNlhLazFUdXFVRzZpdjR1eXBzMElQd1BuSEpiZURPUS1vUUlMeWtKQWFiZDM5cHdhRTV3NnI1Y3N4WWNiazFBOE9QVzFkVk5kUXM1MUxRckxpQWRLZUI4cmQ2TUh4Mk40SDFhRkQ0V09MVUF4THBXejllWTBpa0w0U2lJR1RSVzFDZGJrZ2VTSXhaZ3JRcHpyaWhad0lDckp0UU1LRzdkVTZIMFNMOENZbkwzWXlBNmVUWXI5elpYLVBXcUhfd203eUtfME1VOVZyenpERWxYOFhBQ3ZLNDdkVzZNYVU?oc=5",
-     "pub": "2026-10-17T08:00+00:00"
-    },
-    {
-     "medio": "Guardian",
-     "titulo": "Manchester City v Ipswich, Brentford v Liverpool, and more: Football clockwatch - live",
-     "url": "https://www.theguardian.com/football/live/2026/oct/17/manchester-city-v-ipswich-brentford-v-liverpool-and-more-football-clockwatch-live",
-     "pub": "2026-10-17T14:11+00:00"
-    },
-    {
-     "medio": "Yahoo",
-     "titulo": "Manchester City v Ipswich Town",
-     "url": "https://sports.yahoo.com/articles/manchester-city-v-ipswich-town-140136161.html",
-     "pub": "2026-10-17T14:01+00:00"
-    },
-    {
-     "medio": "Yahoo",
-     "titulo": "Manchester United receive injury boost ahead of Leeds United clash",
-     "url": "https://sports.yahoo.com/articles/manchester-united-receive-injury-boost-132000946.html",
-     "pub": "2026-10-17T13:20+00:00"
-    },
-    {
-     "medio": "Yahoo",
-     "titulo": "🚨 Manchester City-Ipswich XIs: Enzo Fernández and Cherki on the bench!",
-     "url": "https://sports.yahoo.com/articles/manchester-city-ipswich-xis-enzo-131600092.html",
-     "pub": "2026-10-17T13:16+00:00"
-    },
-    {
-     "medio": "Yahoo",
-     "titulo": "Manchester City legend David Silva reveals how close he came to joining Barcelona in 2008: ‘Valencia weren’t selling back then’",
-     "url": "https://sports.yahoo.com/articles/manchester-city-legend-david-silva-130000587.html",
-     "pub": "2026-10-17T13:00+00:00"
-    },
-    {
-     "medio": "Yahoo",
-     "titulo": "Manchester City and Ipswich Town have confirmed their starting lineups ahead of today’s match",
-     "url": "https://sports.yahoo.com/articles/manchester-city-ipswich-town-confirmed-124900478.html",
-     "pub": "2026-10-17T12:49+00:00"
-    },
-    {
-     "medio": "Yahoo",
-     "titulo": "Barcelona revive interest in 18-year-old Benfica wonderkid amid competition from Newcastle and Manchester United",
-     "url": "https://sports.yahoo.com/articles/barcelona-revive-interest-18-old-120300084.html",
-     "pub": "2026-10-17T12:03+00:00"
-    },
-    {
-     "medio": "Google News EN",
-     "titulo": "‍‍‍~#[LIVE MATCH]#~ Manchester City vs Ipswich Town ＬＩＶＥ Football Streaming",
-     "url": "https://news.google.com/rss/articles/CBMipwNBVV95cUxNYkVLX2VFYTVicGl0cE1aSVdEX2lfWHBBSDA0TmMxbXRuNDZyOXdMazNXSXFOcXAyeDE1ZkpRR1BJTzdOM3NKVU01cy10Nzl3TFAyUGNKdnZDdklwUUpJaWFuRTlOQ0JiWnFHODlGT3lfbUtIS3AyZ05FaS1lSnFXcGdKUngtQXlRaEVZOHFJeW1PWlliN1lnUjJpUU9mR0pyNVZwbUl3YXJiU3VOaVhEM3RpRXBMU1BrYlZCTDNmWWF2VGJhOVNpc0Rsb2xTYUtldUh3a2F0aEdMSnRCWkxmR1ItaGlHQ3p6S2NJVzZ0QkNmXzdESFJPWHRZSVpMS0xaQnFNd0lRWVl4SkN1MUQtb0NoWUItaEFFTEJIc0hPdG53bjlzdVFxbDkyZmJvQ2h2ZGFsQ2pDdmRFZ2lFajVLM1c0UkN4Um4tUXhYcDVuOV9KNlhjVXJzLWdtUEhHTERKbVZvVWlFODBDY1RtLXRvR0RnTU5uOExXTlVhckZLSUZieXltMW94Ym45MndCc3U4WnhzWV9DblQzaFo3SzI5cDhRN2VyR00?oc=5",
-     "pub": "2026-10-17T13:41+00:00"
-    },
-    {
-     "medio": "AS",
-     "titulo": "Manchester City - Ipswich, en directo: Premier League, hoy en vivo",
-     "url": "https://as.com/futbol/internacional/manchester-city-ipswich-en-directo-premier-league-hoy-en-vivo-f202610-d/",
-     "pub": "2026-10-17T14:16+00:00"
-    },
-    {
-     "medio": "Mundo Deportivo",
-     "titulo": "Manchester City - Ipswich Town, en directo | Premier League",
-     "url": "https://www.mundodeportivo.com/futbol/premier-league/20261017/1004237835/manchester-city-ipswich-town-directo-premier-league.html",
-     "pub": ""
-    },
-    {
-     "medio": "Google News ES",
-     "titulo": "[TV gratis] Manchester City vs Ipswich Town fútbol en directo 17 de octubre",
-     "url": "https://news.google.com/rss/articles/CBMi_wJBVV95cUxNVDBZWTRWbU4yWkZYQVVWaTMwcFVxd0JoZlFYSkItUzNXNmZURGVPZUMxR082UUNUUW9ZSnNmNlExUlJpN3MyYzZZbXdpNFlHZDAxcjlZd1pmN2ZsUmhKTXpneGJDMFJJVVNrZlpxVHhOZW5wQ21uLUtIemhLMXQwXzJYMmlpdHU4RmVsZFZEdmI0d1dkdzNESzRHblBwdTlNdWxrd3NaYzI1VUVDcFgxeVlxMXQ4eDBEbGxOZlUtZ3BqYzhVQTRvUnRldFJ5OVlsVExHc1RFR1Zha3Qyb1pGMVk4U20tQ3pNTWxrUDR3aUhDa2xrR3dsTkJwTWkyN3JLRVpnREtfdjR4clFFeHUyWk9YTHZHQ2xXMGNNbkFxZHdjRVlIZDE2WlZ2Tm9DZzd1bGdncDRXOUg3NHVvcnUzU2Nrc1pkVmJHSThteHd4LUhHS2lSczd4Mk5BeElCam5DaTBYdkxGbTB0ZTc1c0h6TWFvZUdiU2hQUXMwSTR0SQ?oc=5",
-     "pub": "2026-10-17T14:00+00:00"
-    }
-   ]
-  },
-  {
    "tema": "Brighton",
    "medios": 15,
    "lista_medios": [
@@ -974,6 +977,292 @@
      "titulo": "Brighton star scores from HALFWAY LINE as Seagulls run riot against rivals Crystal Palace",
      "url": "https://www.mirror.co.uk/sport/football/news/brighton-crystal-palace-gomez-goal-37784907",
      "pub": "2026-10-18T15:03+00:00"
+    }
+   ]
+  },
+  {
+   "tema": "Forest",
+   "medios": 15,
+   "lista_medios": [
+    "AS",
+    "BBC",
+    "Daily Mail",
+    "FourFourTwo",
+    "Google News EN",
+    "Google News ES",
+    "Guardian",
+    "Mirror",
+    "Mundo Deportivo",
+    "Planet Football",
+    "Sky Sports",
+    "Telegraph",
+    "Yahoo",
+    "ge.globo",
+    "talkSPORT"
+   ],
+   "primera_vez": "2026-10-17T19:40+00:00",
+   "titulares": [
+    {
+     "medio": "Yahoo",
+     "titulo": "Nottingham Forest vs Arsenal prediction: Premier League betting tips and line-ups",
+     "url": "https://sports.yahoo.com/articles/nottingham-forest-vs-arsenal-prediction-173000747.html",
+     "pub": "2026-10-17T17:30+00:00"
+    },
+    {
+     "medio": "Yahoo",
+     "titulo": "Arsenal Starting XI vs Nottingham Forest: Confirmed Team News and Predicted Lineup",
+     "url": "https://sports.yahoo.com/articles/arsenal-starting-xi-vs-nottingham-110000516.html",
+     "pub": "2026-10-18T11:00+00:00"
+    },
+    {
+     "medio": "Yahoo",
+     "titulo": "Premier League today: How to watch Nottingham Forest v Arsenal, TV channels & live stream Sunday 18 October",
+     "url": "https://sports.yahoo.com/articles/premier-league-today-watch-nottingham-103057481.html",
+     "pub": "2026-10-18T10:30+00:00"
+    },
+    {
+     "medio": "Google News ES",
+     "titulo": "Nottingham Forest vs Arsenal: horario y dónde ver hoy por TV y online el partido de la Premier League 2026/27 a través de DAZN",
+     "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPMHlZSWs0N3lfVTIzOGxIaUFxWWRoUWdLeVR3M1M1REJaMHRGNmMyVHBfOHFTZ3hQNWc1MGNad2ZtYWphallkVjBmU21lcmhZSVpJQm1SR3c3cENaLWNCdV9Ob1lSdzJuSk5GdDZQaDlTQzZDc2tRZzB5SFRCeGFacW9kSExuUUtYWmhFc04xLVRZM0wwbzZDS0JPWUpOd25EYkk5dWVtOXN4U082UUdjZDk3VERDSG5nZjlaOUxmbTJycjRPcDFxUm8tV2JyanNJLUZhdFNHQ2ZYR2xJZVlOeHEtc3ZZbTJVWmZGOEswYjlPbXhXUEY5TkpNMW4?oc=5",
+     "pub": "2026-10-18T09:29+00:00"
+    },
+    {
+     "medio": "Guardian",
+     "titulo": "Nottingham Forest v Arsenal: Premier League – live",
+     "url": "https://www.theguardian.com/football/live/2026/oct/18/nottingham-forest-v-arsenal-premier-league-live",
+     "pub": "2026-10-18T15:59+00:00"
+    },
+    {
+     "medio": "Sky Sports",
+     "titulo": "Nottingham Forest frustrating Arsenal LIVE! & highlights",
+     "url": "https://www.skysports.com/football/nottingham-forest-vs-arsenal/live/559512",
+     "pub": "2026-10-18T14:55+00:00"
+    },
+    {
+     "medio": "talkSPORT",
+     "titulo": "Premier League LIVE: Arsenal eyeing opener against Nottingham Forest, Leeds draw with Man United, Brighton hammer Palace",
+     "url": "https://talksport.com/football/4518020/premier-league-live-today-stats-schedule-games-results-winners/",
+     "pub": "2026-10-18T15:26+00:00"
+    },
+    {
+     "medio": "Daily Mail",
+     "titulo": "Nottingham Forest vs Arsenal - Premier League: Reigning champions push for opening goal as they look to close the gap on table-toppers Manchester City",
+     "url": "https://www.dailymail.com/sport/football/article-16211791/nottingham-forest-arsenal-premier-league-live.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+     "pub": "2026-10-18T16:02+00:00"
+    },
+    {
+     "medio": "Daily Mail",
+     "titulo": "Nottingham Forest fans accuse their own club of 'going woke' as they ban 'misogynistic' chant - and tell them they face 'education sessions' if they sing it",
+     "url": "https://www.dailymail.com/sport/football/article-16218477/Nottingham-Forest-fans-accuse-club-going-woke-ban-misogynistic-chant-tell-face-education-sessions-sing-it.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+     "pub": "2026-10-18T12:51+00:00"
+    },
+    {
+     "medio": "Planet Football",
+     "titulo": "Can you name everybody to play for Arsenal and Nottm Forest since 1992?",
+     "url": "https://www.planetfootball.com/quizzes/can-you-name-every-player-to-play-for-both-arsenal-and-nottingham-forest-since-1990",
+     "pub": "2026-10-18T14:41+00:00"
+    },
+    {
+     "medio": "FourFourTwo",
+     "titulo": "Britt Assombalonga on what it meant to sign for Nottingham Forest after his teenage rejection",
+     "url": "https://www.fourfourtwo.com/person/player/i-always-dreamt-of-going-back-to-nottingham-forest-and-proving-them-wrong-i-really-felt-like-i-was-playing-for-a-massive-club-that-had-historical-importance-britt-assombalonga-on-what-it-meant-to-be-a-tricky-tree",
+     "pub": "2026-10-18T12:00+00:00"
+    },
+    {
+     "medio": "FourFourTwo",
+     "titulo": "Watch Nottingham Forest vs Arsenal: Live streams and TV info",
+     "url": "https://www.fourfourtwo.com/competition/watch-nottingham-forest-vs-arsenal-premier-league-2026-27",
+     "pub": "2026-10-18T12:00+00:00"
+    }
+   ]
+  },
+  {
+   "tema": "Nottingham",
+   "medios": 15,
+   "lista_medios": [
+    "AS",
+    "Daily Mail",
+    "FourFourTwo",
+    "Google News EN",
+    "Google News ES",
+    "Guardian",
+    "Kicker",
+    "L'Equipe",
+    "Mirror",
+    "Mundo Deportivo",
+    "Record",
+    "Sky Sports",
+    "Yahoo",
+    "ge.globo",
+    "talkSPORT"
+   ],
+   "primera_vez": "2026-10-17T19:40+00:00",
+   "titulares": [
+    {
+     "medio": "Yahoo",
+     "titulo": "Nottingham Forest vs Arsenal prediction: Premier League betting tips and line-ups",
+     "url": "https://sports.yahoo.com/articles/nottingham-forest-vs-arsenal-prediction-173000747.html",
+     "pub": "2026-10-17T17:30+00:00"
+    },
+    {
+     "medio": "Yahoo",
+     "titulo": "Arsenal Starting XI vs Nottingham Forest: Confirmed Team News and Predicted Lineup",
+     "url": "https://sports.yahoo.com/articles/arsenal-starting-xi-vs-nottingham-110000516.html",
+     "pub": "2026-10-18T11:00+00:00"
+    },
+    {
+     "medio": "Yahoo",
+     "titulo": "Premier League today: How to watch Nottingham Forest v Arsenal, TV channels & live stream Sunday 18 October",
+     "url": "https://sports.yahoo.com/articles/premier-league-today-watch-nottingham-103057481.html",
+     "pub": "2026-10-18T10:30+00:00"
+    },
+    {
+     "medio": "Google News ES",
+     "titulo": "Nottingham Forest vs Arsenal: horario y dónde ver hoy por TV y online el partido de la Premier League 2026/27 a través de DAZN",
+     "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPMHlZSWs0N3lfVTIzOGxIaUFxWWRoUWdLeVR3M1M1REJaMHRGNmMyVHBfOHFTZ3hQNWc1MGNad2ZtYWphallkVjBmU21lcmhZSVpJQm1SR3c3cENaLWNCdV9Ob1lSdzJuSk5GdDZQaDlTQzZDc2tRZzB5SFRCeGFacW9kSExuUUtYWmhFc04xLVRZM0wwbzZDS0JPWUpOd25EYkk5dWVtOXN4U082UUdjZDk3VERDSG5nZjlaOUxmbTJycjRPcDFxUm8tV2JyanNJLUZhdFNHQ2ZYR2xJZVlOeHEtc3ZZbTJVWmZGOEswYjlPbXhXUEY5TkpNMW4?oc=5",
+     "pub": "2026-10-18T09:29+00:00"
+    },
+    {
+     "medio": "Guardian",
+     "titulo": "Nottingham Forest v Arsenal: Premier League – live",
+     "url": "https://www.theguardian.com/football/live/2026/oct/18/nottingham-forest-v-arsenal-premier-league-live",
+     "pub": "2026-10-18T15:59+00:00"
+    },
+    {
+     "medio": "Sky Sports",
+     "titulo": "Nottingham Forest frustrating Arsenal LIVE! & highlights",
+     "url": "https://www.skysports.com/football/nottingham-forest-vs-arsenal/live/559512",
+     "pub": "2026-10-18T14:55+00:00"
+    },
+    {
+     "medio": "talkSPORT",
+     "titulo": "Premier League LIVE: Arsenal eyeing opener against Nottingham Forest, Leeds draw with Man United, Brighton hammer Palace",
+     "url": "https://talksport.com/football/4518020/premier-league-live-today-stats-schedule-games-results-winners/",
+     "pub": "2026-10-18T15:26+00:00"
+    },
+    {
+     "medio": "Daily Mail",
+     "titulo": "Nottingham Forest vs Arsenal - Premier League: Reigning champions push for opening goal as they look to close the gap on table-toppers Manchester City",
+     "url": "https://www.dailymail.com/sport/football/article-16211791/nottingham-forest-arsenal-premier-league-live.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+     "pub": "2026-10-18T16:02+00:00"
+    },
+    {
+     "medio": "Daily Mail",
+     "titulo": "Nottingham Forest fans accuse their own club of 'going woke' as they ban 'misogynistic' chant - and tell them they face 'education sessions' if they sing it",
+     "url": "https://www.dailymail.com/sport/football/article-16218477/Nottingham-Forest-fans-accuse-club-going-woke-ban-misogynistic-chant-tell-face-education-sessions-sing-it.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+     "pub": "2026-10-18T12:51+00:00"
+    },
+    {
+     "medio": "FourFourTwo",
+     "titulo": "Britt Assombalonga on what it meant to sign for Nottingham Forest after his teenage rejection",
+     "url": "https://www.fourfourtwo.com/person/player/i-always-dreamt-of-going-back-to-nottingham-forest-and-proving-them-wrong-i-really-felt-like-i-was-playing-for-a-massive-club-that-had-historical-importance-britt-assombalonga-on-what-it-meant-to-be-a-tricky-tree",
+     "pub": "2026-10-18T12:00+00:00"
+    },
+    {
+     "medio": "FourFourTwo",
+     "titulo": "Watch Nottingham Forest vs Arsenal: Live streams and TV info",
+     "url": "https://www.fourfourtwo.com/competition/watch-nottingham-forest-vs-arsenal-premier-league-2026-27",
+     "pub": "2026-10-18T12:00+00:00"
+    },
+    {
+     "medio": "Yahoo",
+     "titulo": "Premier League: Arsenal visit Nottingham Forest looking to keep pace at top",
+     "url": "https://sports.yahoo.com/articles/premier-league-three-games-coming-115709631.html",
+     "pub": "2026-10-18T15:45+00:00"
+    }
+   ]
+  },
+  {
+   "tema": "Barcelona",
+   "medios": 13,
+   "lista_medios": [
+    "AS",
+    "BBC",
+    "Google News AR",
+    "Google News EN",
+    "Google News ES",
+    "Guardian",
+    "Kicker",
+    "Mundo Deportivo",
+    "Ole",
+    "Planet Football",
+    "Record",
+    "Yahoo",
+    "ge.globo"
+   ],
+   "primera_vez": "2026-10-17T11:05+00:00",
+   "titulares": [
+    {
+     "medio": "BBC",
+     "titulo": "Guardiola receives standing ovation on return to Barcelona",
+     "url": "https://www.bbc.co.uk/sport/videos/cm9dzg38n6j7o?at_medium=RSS&at_campaign=rss",
+     "pub": "2026-10-17T10:00+00:00"
+    },
+    {
+     "medio": "Yahoo",
+     "titulo": "How Milan plan to beat Arsenal and Barcelona to Brugge’s Tresoldi",
+     "url": "https://sports.yahoo.com/articles/milan-plan-beat-arsenal-barcelona-095000525.html",
+     "pub": "2026-10-17T09:50+00:00"
+    },
+    {
+     "medio": "Yahoo",
+     "titulo": "Barcelona submit official proposal for Real Madrid transfer target with €2m salary offer",
+     "url": "https://sports.yahoo.com/articles/barcelona-submit-official-proposal-real-085000530.html",
+     "pub": "2026-10-17T08:50+00:00"
+    },
+    {
+     "medio": "Yahoo",
+     "titulo": "Bayern Munich rule out January moves for Barcelona duo – report",
+     "url": "https://sports.yahoo.com/articles/bayern-munich-rule-january-moves-084100063.html",
+     "pub": "2026-10-17T08:41+00:00"
+    },
+    {
+     "medio": "AS",
+     "titulo": "Betis - Barcelona hoy, en directo: LaLiga EA Sports en vivo, última hora en La Cartuja",
+     "url": "https://as.com/futbol/primera/betis-barcelona-hoy-en-directo-laliga-ea-sports-en-vivo-ultima-hora-en-la-cartuja-f202610-d/",
+     "pub": "2026-10-17T10:55+00:00"
+    },
+    {
+     "medio": "Google News ES",
+     "titulo": "¿Quién es Ricardo de Burgos Bengoetxea? Árbitro del Betis vs FC Barcelona de la jornada 9 de LALIGA",
+     "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPbWMwWUQxU0NTQ3Ytc2F3QTZ0QzJIeldRdXJwRFhnUndMUjRvUUg4bk1XUlVOLTdXSFdVejFBS1J4cmY5MWlOV2hpeC14SlFfLXJWQlVVSldsbTBRRUp0ak1FNlMwWGJnZllWcEZrR205UkFIQmJSS29DaDAyZW56NTBLQXhfUHhhOXRSaVllclRkVGVyRkxBWWNYV1R5MVNLUVVnVlFHU1BYNEZQQzdwMTlYWVJUa2M2MG9DazZWaVFoT0xtbFFOWnh2WGc3RVYzcVlHUVJiNGJWWno0SlQzYVl3?oc=5",
+     "pub": "2026-10-17T10:38+00:00"
+    },
+    {
+     "medio": "Google News ES",
+     "titulo": "Horario, canal y dónde ver por TV el Betis - FC Barcelona de LaLiga EA Sports de fútbol: Primera división",
+     "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQeU5nQUdqclRmS2ZWZXJSMGpxX0lpSllOVS1LSTFGdjBEb3hIY1RxaHhyWUpJOUdGRWIweXVmaURvT2kzeWloR3pOTXFsdTZlTUUzcmlYQk5FZFJ0YWlzN0JFdHl6Ti1NVURxUUpLLXRWc3M5THc0SlhmTnVOTWVHNGFBN3F0QmJzcVNESFJUeGpuZ3hZbngyWjV1V3hQdTEwLS1lSk9jR1c2NkhaNzFpdkFJZ05QY0tfM0dIcGkxR2lDNUJ4bi0xNGlnUl84ci1wX0VPQVZRZlN3cktvaWI1dzBnbHpmb2JJaU5TOWRn0gH7AUFVX3lxTE5QLVBYVjNKa3BRdV91SWx4TlFzSEZ2QmJuZFo1a2lJRjJSYU9kZ1Ixb0NwcUU4Ul93Wmtuc1lxVGN6TFpRdi1wZzNxLW1sb2VydndJc0ZETkdqb01RdDZubHJUdldTWHo1NkR4S0FCZ0d4T0JwblFORkdaSm1rUnBfZ1lCVHBzQ2JMLWhUc2VwVjFLRmdEUVdqeDZjTVI1M19mckRZek5YbEVhVnVSWWVQcjlVeVV3UVpHcUxxSE9IRzNVaXM5NFcxc1laS0gzVzdFLUJFWFMxSDZhanVpdWZOallHSjdxalZtVVE0YjNteHRyNFh1Z3VncnhV?oc=5",
+     "pub": "2026-10-17T09:47+00:00"
+    },
+    {
+     "medio": "Google News ES",
+     "titulo": "Betis vs Barcelona: horario y dónde ver hoy por TV y online el partido de LaLiga 2026/27 a través de DAZN",
+     "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQenIzTkVQVGh6eXM0OGxLc291NmdNR2dsOE9oNGd3dldZQlh5SnJ3N2pCcGtKV2s3UEwtN2sxLS10QjlwSWFWbE90SFBYUzRsMXh3cG94bERjQWNkcmhMU1l4ZEJ5eGlTS1BDRWYxeUJWMGNlVVpQNkZ1NVU0azdLeERlY3pxWVpLcW5UdFg5djl5YVJmblhsa3gzU3dnNmdfNDNNOExhNFB3VmRBRFBsODQwWlFmazRhMWhxMllJakctNFRXZERHYUNBX0ZPV041SGpFMnpjblhWZVE5MWc?oc=5",
+     "pub": "2026-10-17T10:30+00:00"
+    },
+    {
+     "medio": "Record",
+     "titulo": "<![CDATA[ Guardiola regressa a Barcelona e é aplaudido de pé em jogo da Euroliga ]]>",
+     "url": "https://www.record.pt/multimedia/videos/detalhe/guardiola-regressa-a-barcelona-e-e-aplaudido-de-pe-em-jogo-da-euroliga",
+     "pub": "2026-10-17T10:03+00:00"
+    },
+    {
+     "medio": "Yahoo",
+     "titulo": "Barcelona make firm decision on the development of La Masia’s Ukrainian wonderkid",
+     "url": "https://sports.yahoo.com/articles/barcelona-firm-decision-development-la-134200893.html",
+     "pub": "2026-10-17T13:42+00:00"
+    },
+    {
+     "medio": "Yahoo",
+     "titulo": "Barcelona president attacks Real Madrid by defending Javier Tebas amid severe tension: ‘Lucky to have him as La Liga president’",
+     "url": "https://sports.yahoo.com/articles/barcelona-president-attacks-real-madrid-132700268.html",
+     "pub": "2026-10-17T13:27+00:00"
+    },
+    {
+     "medio": "Yahoo",
+     "titulo": "Barcelona president Joan Laporta launches fresh Real Madrid attack and backs Javier Tebas: ‘They want to blow everything up’",
+     "url": "https://sports.yahoo.com/articles/barcelona-president-joan-laporta-launches-132000204.html",
+     "pub": "2026-10-17T13:20+00:00"
     }
    ]
   },
@@ -1072,189 +1361,190 @@
    ]
   },
   {
-   "tema": "Nottingham",
+   "tema": "Crystal",
    "medios": 13,
    "lista_medios": [
     "AS",
     "Daily Mail",
+    "Foot Mercato",
     "FourFourTwo",
+    "Google News AR",
     "Google News EN",
-    "Google News ES",
     "Guardian",
-    "Kicker",
+    "L'Equipe",
+    "Mirror",
     "Mundo Deportivo",
-    "Record",
     "Sky Sports",
     "Yahoo",
-    "ge.globo",
     "talkSPORT"
    ],
-   "primera_vez": "2026-10-17T19:40+00:00",
+   "primera_vez": "2026-10-17T14:21+00:00",
    "titulares": [
     {
-     "medio": "Yahoo",
-     "titulo": "Nottingham Forest vs Arsenal prediction: Premier League betting tips and line-ups",
-     "url": "https://sports.yahoo.com/articles/nottingham-forest-vs-arsenal-prediction-173000747.html",
-     "pub": "2026-10-17T17:30+00:00"
-    },
-    {
-     "medio": "Yahoo",
-     "titulo": "Arsenal Starting XI vs Nottingham Forest: Confirmed Team News and Predicted Lineup",
-     "url": "https://sports.yahoo.com/articles/arsenal-starting-xi-vs-nottingham-110000516.html",
-     "pub": "2026-10-18T11:00+00:00"
-    },
-    {
-     "medio": "Yahoo",
-     "titulo": "Premier League today: How to watch Nottingham Forest v Arsenal, TV channels & live stream Sunday 18 October",
-     "url": "https://sports.yahoo.com/articles/premier-league-today-watch-nottingham-103057481.html",
-     "pub": "2026-10-18T10:30+00:00"
-    },
-    {
-     "medio": "Google News ES",
-     "titulo": "Nottingham Forest vs Arsenal: horario y dónde ver hoy por TV y online el partido de la Premier League 2026/27 a través de DAZN",
-     "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPMHlZSWs0N3lfVTIzOGxIaUFxWWRoUWdLeVR3M1M1REJaMHRGNmMyVHBfOHFTZ3hQNWc1MGNad2ZtYWphallkVjBmU21lcmhZSVpJQm1SR3c3cENaLWNCdV9Ob1lSdzJuSk5GdDZQaDlTQzZDc2tRZzB5SFRCeGFacW9kSExuUUtYWmhFc04xLVRZM0wwbzZDS0JPWUpOd25EYkk5dWVtOXN4U082UUdjZDk3VERDSG5nZjlaOUxmbTJycjRPcDFxUm8tV2JyanNJLUZhdFNHQ2ZYR2xJZVlOeHEtc3ZZbTJVWmZGOEswYjlPbXhXUEY5TkpNMW4?oc=5",
-     "pub": "2026-10-18T09:29+00:00"
-    },
-    {
-     "medio": "Guardian",
-     "titulo": "Nottingham Forest v Arsenal: Premier League – live",
-     "url": "https://www.theguardian.com/football/live/2026/oct/18/nottingham-forest-v-arsenal-premier-league-live",
-     "pub": "2026-10-18T15:59+00:00"
+     "medio": "Google News AR",
+     "titulo": "Brighton and Hove vs. Crystal Palace, EN VIVO: dónde ver por TV y ONLINE",
+     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxObUp4aTAzcmlwb3JheklJYnN0aFhDZ3diTTVaNkhkSDJyVGxQbW8wbmdlX3J2OXE4Q2F0cWhxRXBQaFVGTzRqeERMdnl6eWNLaU53VHZOMUU3X1RHOV9zRU1xWUZES0o4empCMjZRaTdWaTMxWlFPR1ZtcFdjMW1EMEFWTWV4Tk1sVWFMZTY5QnoySk9PdXJiUmU5WDFJV3N6bkxkRUlTcjlIeTIzRlJ1cV90NlFXVU1RajF2SE9mN3EyQQ?oc=5",
+     "pub": "2026-10-17T13:00+00:00"
     },
     {
      "medio": "Sky Sports",
-     "titulo": "Nottingham Forest frustrating Arsenal LIVE! & highlights",
-     "url": "https://www.skysports.com/football/nottingham-forest-vs-arsenal/live/559512",
-     "pub": "2026-10-18T14:55+00:00"
+     "titulo": "Brighton vs Crystal Palace team news LIVE!",
+     "url": "https://www.skysports.com/football/brighton-and-hove-albion-vs-crystal-palace/live/559506",
+     "pub": "2026-10-18T11:00+00:00"
+    },
+    {
+     "medio": "FourFourTwo",
+     "titulo": "Watch Brighton vs Crystal Palace: Live streams and TV channels",
+     "url": "https://www.fourfourtwo.com/competition/watch-brighton-vs-crystal-palace-premier-league-2026-27",
+     "pub": "2026-10-18T10:00+00:00"
+    },
+    {
+     "medio": "Guardian",
+     "titulo": "Gómez halfway-line wondergoal sparks Brighton’s 5-0 thrashing of sorry Crystal Palace",
+     "url": "https://www.theguardian.com/football/2026/oct/18/brighton-crystal-palace-premier-league-match-report",
+     "pub": "2026-10-18T15:06+00:00"
     },
     {
      "medio": "talkSPORT",
-     "titulo": "Premier League LIVE: Arsenal eyeing opener against Nottingham Forest, Leeds draw with Man United, Brighton hammer Palace",
-     "url": "https://talksport.com/football/4518020/premier-league-live-today-stats-schedule-games-results-winners/",
-     "pub": "2026-10-18T15:26+00:00"
+     "titulo": "Brighton star scores outrageous goal of the season as Seagulls tear rivals Crystal Palace apart",
+     "url": "https://talksport.com/football/4651691/brighton-diego-gomez-goal-of-season-crystal-palace/",
+     "pub": "2026-10-18T13:22+00:00"
     },
     {
-     "medio": "Daily Mail",
-     "titulo": "Nottingham Forest vs Arsenal - Premier League: Reigning champions push for opening goal as they look to close the gap on table-toppers Manchester City",
-     "url": "https://www.dailymail.com/sport/football/article-16211791/nottingham-forest-arsenal-premier-league-live.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-     "pub": "2026-10-18T16:02+00:00"
+     "medio": "Mirror",
+     "titulo": "Brighton star scores from HALFWAY LINE as Seagulls run riot against rivals Crystal Palace",
+     "url": "https://www.mirror.co.uk/sport/football/news/brighton-crystal-palace-gomez-goal-37784907",
+     "pub": "2026-10-18T15:03+00:00"
     },
     {
-     "medio": "Daily Mail",
-     "titulo": "Nottingham Forest fans accuse their own club of 'going woke' as they ban 'misogynistic' chant - and tell them they face 'education sessions' if they sing it",
-     "url": "https://www.dailymail.com/sport/football/article-16218477/Nottingham-Forest-fans-accuse-club-going-woke-ban-misogynistic-chant-tell-face-education-sessions-sing-it.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-     "pub": "2026-10-18T12:51+00:00"
+     "medio": "Google News EN",
+     "titulo": "Brighton 5-0 Crystal Palace | Premier League highlights",
+     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOQkstdnFUOFNsMS1WVTlQeE0zZkxBbGFkWVZTTjVrdTZvRmNmbmEtVjRZZG5Yc3ljTHo4cjd1TlRyaW82S2c0Umd0SG15N0xIWTdWMFpwVUNHenBqTHUzMy1jMHU4ckFrdHYxSmJZMkNqQ2M5YU4xZFNLc2cySE1fWjhCVmo0U0NYTHhLVmd3b1VoRXNtMHd3dEllZ2hfMk1MMXplUzZ3?oc=5",
+     "pub": "2026-10-18T15:18+00:00"
     },
     {
-     "medio": "FourFourTwo",
-     "titulo": "Britt Assombalonga on what it meant to sign for Nottingham Forest after his teenage rejection",
-     "url": "https://www.fourfourtwo.com/person/player/i-always-dreamt-of-going-back-to-nottingham-forest-and-proving-them-wrong-i-really-felt-like-i-was-playing-for-a-massive-club-that-had-historical-importance-britt-assombalonga-on-what-it-meant-to-be-a-tricky-tree",
-     "pub": "2026-10-18T12:00+00:00"
+     "medio": "Google News EN",
+     "titulo": "Premier League: Brighton & Hove Albion 5-0 Crystal Palace - Fabian Hurzeler post match interview",
+     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBUelRvV3JaZlRNUlFMbXkyWVVqOFkzb1J4N2pjTjA4NWZVWmZpNXFEX2VjNFVWOElqVnk5dEc2S0drREVpd3Fnc3N0WElsaHRtSFRHUm9sWWI0aUE0ck5lU24yRTJCcVg0?oc=5",
+     "pub": "2026-10-18T15:36+00:00"
     },
     {
-     "medio": "FourFourTwo",
-     "titulo": "Watch Nottingham Forest vs Arsenal: Live streams and TV info",
-     "url": "https://www.fourfourtwo.com/competition/watch-nottingham-forest-vs-arsenal-premier-league-2026-27",
-     "pub": "2026-10-18T12:00+00:00"
+     "medio": "Google News EN",
+     "titulo": "Premier League: Brighton & Hove Albion 5-0 Crystal Palace - Pierre Sage post match interview",
+     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBFVE5MZE90ckNvUGEyQlQ1Z3BNM21HOXJla2xvTExEcXBNS2p6cU41TTVTMVZqRE5famRqclFJZlNIQXdOZE0zNUtZUWN1OVFXUUhvR3JGenRPVjdiX0VWbXpLRzk2QXZu?oc=5",
+     "pub": "2026-10-18T15:41+00:00"
     },
     {
-     "medio": "Yahoo",
-     "titulo": "Premier League: Arsenal visit Nottingham Forest looking to keep pace at top",
-     "url": "https://sports.yahoo.com/articles/premier-league-three-games-coming-115709631.html",
-     "pub": "2026-10-18T15:45+00:00"
+     "medio": "AS",
+     "titulo": "Resumen y goles del Brighton vs Crystal Palace, jornada 7 de Premier League",
+     "url": "https://as.com/futbol/videos/resumen-y-goles-del-brighton-vs-crystal-palace-jornada-7-de-premier-league-f202610-v/",
+     "pub": "2026-10-18T15:31+00:00"
+    },
+    {
+     "medio": "Mundo Deportivo",
+     "titulo": "El Brighton golea al Crystal Palace en el derbi de la M23",
+     "url": "https://www.mundodeportivo.com/futbol/premier-league/20261018/1004240249/brighton-golea-crystal-palace-derbi-m23.html",
+     "pub": ""
+    },
+    {
+     "medio": "L'Equipe",
+     "titulo": "Crystal Palace et Pierre Sage giflés par Brighton, Manchester United lâche encore des points en Premier League",
+     "url": "https://www.lequipe.fr/Football/Actualites/Crystal-palace-et-pierre-sage-gifles-par-brighton-manchester-united-lache-encore-des-points-en-premier-league/1736731#at_medium=RSS_feeds",
+     "pub": "2026-10-18T15:11+00:00"
     }
    ]
   },
   {
-   "tema": "Barcelona",
-   "medios": 12,
+   "tema": "Haaland",
+   "medios": 13,
    "lista_medios": [
     "AS",
     "BBC",
-    "Google News AR",
-    "Google News EN",
-    "Google News ES",
+    "Daily Mail",
+    "Foot Mercato",
     "Guardian",
-    "Kicker",
+    "Infobae",
+    "L'Equipe",
     "Mundo Deportivo",
     "Ole",
+    "Planet Football",
     "Record",
     "Yahoo",
-    "ge.globo"
+    "talkSPORT"
    ],
-   "primera_vez": "2026-10-17T11:05+00:00",
+   "primera_vez": "2026-10-17T17:29+00:00",
    "titulares": [
     {
-     "medio": "BBC",
-     "titulo": "Guardiola receives standing ovation on return to Barcelona",
-     "url": "https://www.bbc.co.uk/sport/videos/cm9dzg38n6j7o?at_medium=RSS&at_campaign=rss",
-     "pub": "2026-10-17T10:00+00:00"
+     "medio": "Guardian",
+     "titulo": "Haaland helps Maresca achieve record start as Manchester City defeat Ipswich",
+     "url": "https://www.theguardian.com/football/2026/oct/17/manchester-city-ipswich-premier-league-match-report",
+     "pub": "2026-10-17T16:08+00:00"
+    },
+    {
+     "medio": "talkSPORT",
+     "titulo": "Erling Haaland one of FIVE Man City injury fears as Enzo Maresca issues update",
+     "url": "https://talksport.com/football/4650703/erling-haaland-manchester-city-five-injuries-ipswich-town/",
+     "pub": "2026-10-17T16:24+00:00"
+    },
+    {
+     "medio": "Daily Mail",
+     "titulo": "Erling Haaland gives Man City an injury scare after starring in Ipswich victory and Enzo Maresca makes history as club keep winning in face of guilty verdict, writes JACK GAUGHAN",
+     "url": "https://www.dailymail.com/sport/football/article-16214341/Man-City-3-2-Ipswich-Premier-League-2025-26-Result.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+     "pub": "2026-10-17T17:12+00:00"
     },
     {
      "medio": "Yahoo",
-     "titulo": "How Milan plan to beat Arsenal and Barcelona to Brugge’s Tresoldi",
-     "url": "https://sports.yahoo.com/articles/milan-plan-beat-arsenal-barcelona-095000525.html",
-     "pub": "2026-10-17T09:50+00:00"
+     "titulo": "Erling Haaland injury update after Man City striker sparks major concern",
+     "url": "https://sports.yahoo.com/articles/erling-haaland-sparks-major-injury-164422306.html",
+     "pub": "2026-10-17T17:03+00:00"
     },
     {
      "medio": "Yahoo",
-     "titulo": "Barcelona submit official proposal for Real Madrid transfer target with €2m salary offer",
-     "url": "https://sports.yahoo.com/articles/barcelona-submit-official-proposal-real-085000530.html",
-     "pub": "2026-10-17T08:50+00:00"
+     "titulo": "Haaland Gets 9, Foden With 8 | Manchester City Players Rated In Narrow Win Vs Ipswich Town",
+     "url": "https://sports.yahoo.com/articles/haaland-gets-9-foden-8-170000458.html",
+     "pub": "2026-10-17T17:00+00:00"
     },
     {
      "medio": "Yahoo",
-     "titulo": "Bayern Munich rule out January moves for Barcelona duo – report",
-     "url": "https://sports.yahoo.com/articles/bayern-munich-rule-january-moves-084100063.html",
-     "pub": "2026-10-17T08:41+00:00"
+     "titulo": "Erling Haaland injury news: Man City star limps off at full-time after scoring two goals",
+     "url": "https://sports.yahoo.com/articles/erling-haaland-injury-news-man-161122119.html",
+     "pub": "2026-10-17T16:11+00:00"
+    },
+    {
+     "medio": "Yahoo",
+     "titulo": "Premier League 2026-27 scoring leaders: Isak, Joao Pedro chase Haaland in Golden Boot race",
+     "url": "https://sports.yahoo.com/articles/premier-league-2026-27-scoring-193020557.html",
+     "pub": "2026-10-17T15:38+00:00"
+    },
+    {
+     "medio": "Yahoo",
+     "titulo": "📊 Erling Haaland continues 2026/27 goal glut with historic day vs Ipswich",
+     "url": "https://sports.yahoo.com/articles/erling-haaland-continues-2026-27-152000492.html",
+     "pub": "2026-10-17T15:20+00:00"
     },
     {
      "medio": "AS",
-     "titulo": "Betis - Barcelona hoy, en directo: LaLiga EA Sports en vivo, última hora en La Cartuja",
-     "url": "https://as.com/futbol/primera/betis-barcelona-hoy-en-directo-laliga-ea-sports-en-vivo-ultima-hora-en-la-cartuja-f202610-d/",
-     "pub": "2026-10-17T10:55+00:00"
+     "titulo": "A Haaland no hay quien lo pare",
+     "url": "https://as.com/futbol/internacional/a-haaland-no-hay-quien-lo-pare-f202610-n/",
+     "pub": "2026-10-17T16:18+00:00"
     },
     {
-     "medio": "Google News ES",
-     "titulo": "¿Quién es Ricardo de Burgos Bengoetxea? Árbitro del Betis vs FC Barcelona de la jornada 9 de LALIGA",
-     "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPbWMwWUQxU0NTQ3Ytc2F3QTZ0QzJIeldRdXJwRFhnUndMUjRvUUg4bk1XUlVOLTdXSFdVejFBS1J4cmY5MWlOV2hpeC14SlFfLXJWQlVVSldsbTBRRUp0ak1FNlMwWGJnZllWcEZrR205UkFIQmJSS29DaDAyZW56NTBLQXhfUHhhOXRSaVllclRkVGVyRkxBWWNYV1R5MVNLUVVnVlFHU1BYNEZQQzdwMTlYWVJUa2M2MG9DazZWaVFoT0xtbFFOWnh2WGc3RVYzcVlHUVJiNGJWWno0SlQzYVl3?oc=5",
-     "pub": "2026-10-17T10:38+00:00"
+     "medio": "Mundo Deportivo",
+     "titulo": "3-2: Haaland no entiende de juicios al Manchester City",
+     "url": "https://www.mundodeportivo.com/futbol/premier-league/20261017/1004239892/haaland-no-entiende-juicios-manchester-city.html",
+     "pub": ""
     },
     {
-     "medio": "Google News ES",
-     "titulo": "Horario, canal y dónde ver por TV el Betis - FC Barcelona de LaLiga EA Sports de fútbol: Primera división",
-     "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQeU5nQUdqclRmS2ZWZXJSMGpxX0lpSllOVS1LSTFGdjBEb3hIY1RxaHhyWUpJOUdGRWIweXVmaURvT2kzeWloR3pOTXFsdTZlTUUzcmlYQk5FZFJ0YWlzN0JFdHl6Ti1NVURxUUpLLXRWc3M5THc0SlhmTnVOTWVHNGFBN3F0QmJzcVNESFJUeGpuZ3hZbngyWjV1V3hQdTEwLS1lSk9jR1c2NkhaNzFpdkFJZ05QY0tfM0dIcGkxR2lDNUJ4bi0xNGlnUl84ci1wX0VPQVZRZlN3cktvaWI1dzBnbHpmb2JJaU5TOWRn0gH7AUFVX3lxTE5QLVBYVjNKa3BRdV91SWx4TlFzSEZ2QmJuZFo1a2lJRjJSYU9kZ1Ixb0NwcUU4Ul93Wmtuc1lxVGN6TFpRdi1wZzNxLW1sb2VydndJc0ZETkdqb01RdDZubHJUdldTWHo1NkR4S0FCZ0d4T0JwblFORkdaSm1rUnBfZ1lCVHBzQ2JMLWhUc2VwVjFLRmdEUVdqeDZjTVI1M19mckRZek5YbEVhVnVSWWVQcjlVeVV3UVpHcUxxSE9IRzNVaXM5NFcxc1laS0gzVzdFLUJFWFMxSDZhanVpdWZOallHSjdxalZtVVE0YjNteHRyNFh1Z3VncnhV?oc=5",
-     "pub": "2026-10-17T09:47+00:00"
+     "medio": "L'Equipe",
+     "titulo": "Un doublé d'Erling Haaland contre Ipswich Town permet à Manchester City de poursuivre son sans-faute en Premier League",
+     "url": "https://www.lequipe.fr/Football/Actualites/Un-double-d-erling-haaland-contre-ipswich-town-permet-a-manchester-city-de-poursuivre-son-sans-faute-en-premier-league/1736514#at_medium=RSS_feeds",
+     "pub": "2026-10-17T16:04+00:00"
     },
     {
-     "medio": "Google News ES",
-     "titulo": "Betis vs Barcelona: horario y dónde ver hoy por TV y online el partido de LaLiga 2026/27 a través de DAZN",
-     "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQenIzTkVQVGh6eXM0OGxLc291NmdNR2dsOE9oNGd3dldZQlh5SnJ3N2pCcGtKV2s3UEwtN2sxLS10QjlwSWFWbE90SFBYUzRsMXh3cG94bERjQWNkcmhMU1l4ZEJ5eGlTS1BDRWYxeUJWMGNlVVpQNkZ1NVU0azdLeERlY3pxWVpLcW5UdFg5djl5YVJmblhsa3gzU3dnNmdfNDNNOExhNFB3VmRBRFBsODQwWlFmazRhMWhxMllJakctNFRXZERHYUNBX0ZPV041SGpFMnpjblhWZVE5MWc?oc=5",
-     "pub": "2026-10-17T10:30+00:00"
-    },
-    {
-     "medio": "Record",
-     "titulo": "<![CDATA[ Guardiola regressa a Barcelona e é aplaudido de pé em jogo da Euroliga ]]>",
-     "url": "https://www.record.pt/multimedia/videos/detalhe/guardiola-regressa-a-barcelona-e-e-aplaudido-de-pe-em-jogo-da-euroliga",
-     "pub": "2026-10-17T10:03+00:00"
-    },
-    {
-     "medio": "Yahoo",
-     "titulo": "Barcelona make firm decision on the development of La Masia’s Ukrainian wonderkid",
-     "url": "https://sports.yahoo.com/articles/barcelona-firm-decision-development-la-134200893.html",
-     "pub": "2026-10-17T13:42+00:00"
-    },
-    {
-     "medio": "Yahoo",
-     "titulo": "Barcelona president attacks Real Madrid by defending Javier Tebas amid severe tension: ‘Lucky to have him as La Liga president’",
-     "url": "https://sports.yahoo.com/articles/barcelona-president-attacks-real-madrid-132700268.html",
-     "pub": "2026-10-17T13:27+00:00"
-    },
-    {
-     "medio": "Yahoo",
-     "titulo": "Barcelona president Joan Laporta launches fresh Real Madrid attack and backs Javier Tebas: ‘They want to blow everything up’",
-     "url": "https://sports.yahoo.com/articles/barcelona-president-joan-laporta-launches-132000204.html",
-     "pub": "2026-10-17T13:20+00:00"
+     "medio": "Foot Mercato",
+     "titulo": "Premier League : après Paris, Manchester City se relance grâce à Haaland, Liverpool renverse Brentford !",
+     "url": "https://www.footmercato.net/a3780998069215901609-premier-league-apres-paris-manchester-city-se-relance-grace-a-haaland-liverpool-renverse-brentford",
+     "pub": "2026-10-17T16:09+00:00"
     }
    ]
   },
@@ -1308,12 +1598,6 @@
      "pub": "2026-10-17T07:26+00:00"
     },
     {
-     "medio": "Mirror",
-     "titulo": "Six incredible moments to look forward to in new Man Utd doc after Lisandro Martinez rant",
-     "url": "https://www.mirror.co.uk/sport/football/news/man-utd-martinez-amazon-documentary-37778979",
-     "pub": "2026-10-17T05:00+00:00"
-    },
-    {
      "medio": "Planet Football",
      "titulo": "Planet Football Weekend Quiz: Mbappe, Lisandro Martinez, Messi, Leeds vs. Man Utd…",
      "url": "https://www.planetfootball.com/quizzes/planet-football-weekend-quiz-mbappe-martinez-leeds-man-utd",
@@ -1348,6 +1632,12 @@
      "titulo": "Man Utd eye Spurs flop as transfer fee set amid Benjamin Sesko injury woes",
      "url": "https://www.mirror.co.uk/sport/football/news/man-utd-spurs-parrott-transfer-37782742",
      "pub": "2026-10-17T12:56+00:00"
+    },
+    {
+     "medio": "Mirror",
+     "titulo": "Sheikh Jassim targets new football club after Man Utd failure in bombshell takeover update",
+     "url": "https://www.mirror.co.uk/sport/football/news/man-utd-takeover-sheikh-jassim-37782786",
+     "pub": "2026-10-17T12:51+00:00"
     }
    ]
   },
@@ -1489,18 +1779,6 @@
     },
     {
      "medio": "Kicker",
-     "titulo": "TV oder Stream: Wer überträgt TSV 1860 München gegen FC Bayern II live?",
-     "url": "https://www.kicker.de/tv-oder-stream-wer-uebertraegt-tsv-1860-muenchen-gegen-fc-bayern-ii-live-1261050/artikel#omrss",
-     "pub": "2026-10-17T06:30+00:00"
-    },
-    {
-     "medio": "Kicker",
-     "titulo": "Wer überträgt FC Bayern München gegen RB Leipzig live im TV und Stream?",
-     "url": "https://www.kicker.de/wer-uebertraegt-fc-bayern-muenchen-gegen-rb-leipzig-live-im-tv-und-stream-1260760/artikel#omrss",
-     "pub": "2026-10-17T05:30+00:00"
-    },
-    {
-     "medio": "Kicker",
      "titulo": "\"Darf man als FC Bayern Außenseiter sein?\"",
      "url": "https://www.kicker.de/darf-man-als-fc-bayern-aussenseiter-sein-1262266/video#omrss",
      "pub": "2026-10-17T11:58+00:00"
@@ -1534,6 +1812,18 @@
      "titulo": "Freiné par l'Union Berlin, Dortmund prend provisoirement la tête de la Bundesliga mais est sous la menace de Fribourg et du Bayern Munich",
      "url": "https://www.lequipe.fr/Football/Actualites/Freine-par-l-union-berlin-dortmund-prend-provisoirement-la-tete-de-la-bundesliga-mais-est-sous-la-menace-de-fribourg-et-du-bayern-munich/1736515#at_medium=RSS_feeds",
      "pub": "2026-10-17T16:04+00:00"
+    },
+    {
+     "medio": "Foot Mercato",
+     "titulo": "Bayern Munich - RB Leipzig : les compositions officielles",
+     "url": "https://www.footmercato.net/a1879339676866151597-bayern-munich-rb-leipzig-les-compositions-officielles",
+     "pub": "2026-10-17T15:46+00:00"
+    },
+    {
+     "medio": "Record",
+     "titulo": "<![CDATA[ Bayern Munique-RB Leipzig, em direto ]]>",
+     "url": "https://www.record.pt/internacional/paises/alemanha/detalhe/20261017-105108-bayern-munique-rb-leipzig-em-direto",
+     "pub": "2026-10-17T16:44+00:00"
     }
    ]
   },
@@ -1866,24 +2156,6 @@
      "pub": "2026-10-17T10:30+00:00"
     },
     {
-     "medio": "Google News ES",
-     "titulo": "Morante, del toreo al fútbol por amor al Betis: \"El balón da menos cornadas\"",
-     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOYkc1UXE1R0dnNGZaOVRLTTFXOEJqc21uZ1hjTGRsTkhxOElxeFFUbVBrVWpNelFJbGU0MDFjNUQzYlNJVnpsWlZ6WWdramQ1WFNrOERwT1dtaFdfMlRpYWRfcTcyUVQ5Z05IcnBacFAwcFVoaElWNHdaVm1ZVk95amxLaVZzTUJDcVdfNE1CQlBpcWhM0gGUAUFVX3lxTE5iRzVRcTVHR2c0Zlo5VEtNMVc4QmpzbW5nWGNMZGxOSHE4SXF4UVRtUGtVak16UUlsZTQwMWM1RDNiU0lWemxaVnpZZ2tqZDVYU2s4RHBPV21oV18yVGlhZF9xNzJRVDlnTkhycFpwUDBwVWhoSVY0d1pWbVlWT3lqbEtpVnNNQkNxV180TUJCUGlxaEw?oc=5",
-     "pub": "2026-10-17T06:08+00:00"
-    },
-    {
-     "medio": "L'Equipe",
-     "titulo": "« Il faudra gérer » : avec le Betis, le PSG et le Real Madrid au menu des huit prochains jours, le FC Barcelone se prépare pour un enchaînement intense",
-     "url": "https://www.lequipe.fr/Football/Actualites/-il-faudra-gerer-avec-le-betis-le-psg-et-le-real-madrid-au-menu-des-huit-prochains-jours-le-fc-barcelone-se-prepare-pour-un-enchainement-intense/1736354#at_medium=RSS_feeds",
-     "pub": "2026-10-17T06:19+00:00"
-    },
-    {
-     "medio": "L'Equipe",
-     "titulo": "À quelle heure et sur quelle chaîne voir Betis Séville-FC Barcelone en Liga ?",
-     "url": "https://www.lequipe.fr/Football/Actualites/A-quelle-heure-et-sur-quelle-chaine-voir-real-betis-barcelone-en-liga/1736152#at_medium=RSS_feeds",
-     "pub": "2026-10-17T06:15+00:00"
-    },
-    {
      "medio": "Yahoo",
      "titulo": "La Liga today: How to watch Real Betis v Barcelona, TV channels & live stream Saturday 17 October",
      "url": "https://sports.yahoo.com/articles/la-liga-today-watch-real-120030572.html",
@@ -1906,192 +2178,24 @@
      "titulo": "Valentín Gómez empata para el Betis",
      "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261017/1004237996/betis-barcelona-directo-laliga-ea-sports-primera-division-barca.html",
      "pub": ""
-    }
-   ]
-  },
-  {
-   "tema": "Haaland",
-   "medios": 12,
-   "lista_medios": [
-    "AS",
-    "BBC",
-    "Daily Mail",
-    "Foot Mercato",
-    "Guardian",
-    "L'Equipe",
-    "Mundo Deportivo",
-    "Ole",
-    "Planet Football",
-    "Record",
-    "Yahoo",
-    "talkSPORT"
-   ],
-   "primera_vez": "2026-10-17T17:29+00:00",
-   "titulares": [
-    {
-     "medio": "Guardian",
-     "titulo": "Haaland helps Maresca achieve record start as Manchester City defeat Ipswich",
-     "url": "https://www.theguardian.com/football/2026/oct/17/manchester-city-ipswich-premier-league-match-report",
-     "pub": "2026-10-17T16:08+00:00"
-    },
-    {
-     "medio": "talkSPORT",
-     "titulo": "Erling Haaland one of FIVE Man City injury fears as Enzo Maresca issues update",
-     "url": "https://talksport.com/football/4650703/erling-haaland-manchester-city-five-injuries-ipswich-town/",
-     "pub": "2026-10-17T16:24+00:00"
-    },
-    {
-     "medio": "Daily Mail",
-     "titulo": "Erling Haaland gives Man City an injury scare after starring in Ipswich victory and Enzo Maresca makes history as club keep winning in face of guilty verdict, writes JACK GAUGHAN",
-     "url": "https://www.dailymail.com/sport/football/article-16214341/Man-City-3-2-Ipswich-Premier-League-2025-26-Result.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-     "pub": "2026-10-17T17:12+00:00"
-    },
-    {
-     "medio": "Yahoo",
-     "titulo": "Erling Haaland injury update after Man City striker sparks major concern",
-     "url": "https://sports.yahoo.com/articles/erling-haaland-sparks-major-injury-164422306.html",
-     "pub": "2026-10-17T17:03+00:00"
-    },
-    {
-     "medio": "Yahoo",
-     "titulo": "Haaland Gets 9, Foden With 8 | Manchester City Players Rated In Narrow Win Vs Ipswich Town",
-     "url": "https://sports.yahoo.com/articles/haaland-gets-9-foden-8-170000458.html",
-     "pub": "2026-10-17T17:00+00:00"
-    },
-    {
-     "medio": "Yahoo",
-     "titulo": "Erling Haaland injury news: Man City star limps off at full-time after scoring two goals",
-     "url": "https://sports.yahoo.com/articles/erling-haaland-injury-news-man-161122119.html",
-     "pub": "2026-10-17T16:11+00:00"
-    },
-    {
-     "medio": "Yahoo",
-     "titulo": "Premier League 2026-27 scoring leaders: Isak, Joao Pedro chase Haaland in Golden Boot race",
-     "url": "https://sports.yahoo.com/articles/premier-league-2026-27-scoring-193020557.html",
-     "pub": "2026-10-17T15:38+00:00"
-    },
-    {
-     "medio": "Yahoo",
-     "titulo": "📊 Erling Haaland continues 2026/27 goal glut with historic day vs Ipswich",
-     "url": "https://sports.yahoo.com/articles/erling-haaland-continues-2026-27-152000492.html",
-     "pub": "2026-10-17T15:20+00:00"
-    },
-    {
-     "medio": "AS",
-     "titulo": "A Haaland no hay quien lo pare",
-     "url": "https://as.com/futbol/internacional/a-haaland-no-hay-quien-lo-pare-f202610-n/",
-     "pub": "2026-10-17T16:18+00:00"
     },
     {
      "medio": "Mundo Deportivo",
-     "titulo": "3-2: Haaland no entiende de juicios al Manchester City",
-     "url": "https://www.mundodeportivo.com/futbol/premier-league/20261017/1004239892/haaland-no-entiende-juicios-manchester-city.html",
+     "titulo": "Once del Betis: Pellegrini reserva a Isco y hace ocho cambios",
+     "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261017/1004239881/once-betis-pellegrini-reserva-isco-ocho-cambios.html",
      "pub": ""
     },
     {
-     "medio": "L'Equipe",
-     "titulo": "Un doublé d'Erling Haaland contre Ipswich Town permet à Manchester City de poursuivre son sans-faute en Premier League",
-     "url": "https://www.lequipe.fr/Football/Actualites/Un-double-d-erling-haaland-contre-ipswich-town-permet-a-manchester-city-de-poursuivre-son-sans-faute-en-premier-league/1736514#at_medium=RSS_feeds",
-     "pub": "2026-10-17T16:04+00:00"
-    },
-    {
-     "medio": "Foot Mercato",
-     "titulo": "Premier League : après Paris, Manchester City se relance grâce à Haaland, Liverpool renverse Brentford !",
-     "url": "https://www.footmercato.net/a3780998069215901609-premier-league-apres-paris-manchester-city-se-relance-grace-a-haaland-liverpool-renverse-brentford",
-     "pub": "2026-10-17T16:09+00:00"
-    }
-   ]
-  },
-  {
-   "tema": "Forest",
-   "medios": 12,
-   "lista_medios": [
-    "AS",
-    "Daily Mail",
-    "FourFourTwo",
-    "Google News EN",
-    "Google News ES",
-    "Guardian",
-    "Mundo Deportivo",
-    "Planet Football",
-    "Sky Sports",
-    "Yahoo",
-    "ge.globo",
-    "talkSPORT"
-   ],
-   "primera_vez": "2026-10-17T19:40+00:00",
-   "titulares": [
-    {
-     "medio": "Yahoo",
-     "titulo": "Nottingham Forest vs Arsenal prediction: Premier League betting tips and line-ups",
-     "url": "https://sports.yahoo.com/articles/nottingham-forest-vs-arsenal-prediction-173000747.html",
-     "pub": "2026-10-17T17:30+00:00"
-    },
-    {
-     "medio": "Yahoo",
-     "titulo": "Arsenal Starting XI vs Nottingham Forest: Confirmed Team News and Predicted Lineup",
-     "url": "https://sports.yahoo.com/articles/arsenal-starting-xi-vs-nottingham-110000516.html",
-     "pub": "2026-10-18T11:00+00:00"
-    },
-    {
-     "medio": "Yahoo",
-     "titulo": "Premier League today: How to watch Nottingham Forest v Arsenal, TV channels & live stream Sunday 18 October",
-     "url": "https://sports.yahoo.com/articles/premier-league-today-watch-nottingham-103057481.html",
-     "pub": "2026-10-18T10:30+00:00"
+     "medio": "Google News ES",
+     "titulo": "🟤 FÚTBOL ONLINE: Real Betis - Barcelona en vivo gratis futbol HS Football 2026",
+     "url": "https://news.google.com/rss/articles/CBMi6gJBVV95cUxOSWNZbDgzY05pWFNBdzNKOE1tZUhZUUdvVFRiRHV1dUtzVW9RNFFITDh3R0lINndMQzhvNFlYekNmM1d6TldRYXdnM2JLNWFsY3Z1SWRiMmdXYndLZFM4YTBYVjVzb3JjMllhdVdYRDhjdjBjaWgzQURoV2hrdEhVb3RFZ2E1cVFSU1pTQTFVWFh6dTRaNFNTdTZjMERCamZvTVVYR1hXM2xiVko0UnVFU0xHbzJWMmJ6U1RMVWxkQzdVTDJQNjhSblMzOWtsMnM2cHQzM2dSXzR5YWZ0cnAwazRRTEF3MmhRalVxQUx1NHNfZzdCTFFPU29FazcwMDhEa1RiaGFxck5mM29XMm5BLURUcERIQTlxSjlDZ1dDY2VpTFNkcWRPMDRYX1ZEb3BwVGpOUW95MUZGY0N4YWNURGZ5bU00dmJ2aU1fNTY5ZkE4cmtBc29lbm9fa0JSLWVqYVlkbTczZDZodw?oc=5",
+     "pub": "2026-10-17T16:11+00:00"
     },
     {
      "medio": "Google News ES",
-     "titulo": "Nottingham Forest vs Arsenal: horario y dónde ver hoy por TV y online el partido de la Premier League 2026/27 a través de DAZN",
-     "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPMHlZSWs0N3lfVTIzOGxIaUFxWWRoUWdLeVR3M1M1REJaMHRGNmMyVHBfOHFTZ3hQNWc1MGNad2ZtYWphallkVjBmU21lcmhZSVpJQm1SR3c3cENaLWNCdV9Ob1lSdzJuSk5GdDZQaDlTQzZDc2tRZzB5SFRCeGFacW9kSExuUUtYWmhFc04xLVRZM0wwbzZDS0JPWUpOd25EYkk5dWVtOXN4U082UUdjZDk3VERDSG5nZjlaOUxmbTJycjRPcDFxUm8tV2JyanNJLUZhdFNHQ2ZYR2xJZVlOeHEtc3ZZbTJVWmZGOEswYjlPbXhXUEY5TkpNMW4?oc=5",
-     "pub": "2026-10-18T09:29+00:00"
-    },
-    {
-     "medio": "Guardian",
-     "titulo": "Nottingham Forest v Arsenal: Premier League – live",
-     "url": "https://www.theguardian.com/football/live/2026/oct/18/nottingham-forest-v-arsenal-premier-league-live",
-     "pub": "2026-10-18T15:59+00:00"
-    },
-    {
-     "medio": "Sky Sports",
-     "titulo": "Nottingham Forest frustrating Arsenal LIVE! & highlights",
-     "url": "https://www.skysports.com/football/nottingham-forest-vs-arsenal/live/559512",
-     "pub": "2026-10-18T14:55+00:00"
-    },
-    {
-     "medio": "talkSPORT",
-     "titulo": "Premier League LIVE: Arsenal eyeing opener against Nottingham Forest, Leeds draw with Man United, Brighton hammer Palace",
-     "url": "https://talksport.com/football/4518020/premier-league-live-today-stats-schedule-games-results-winners/",
-     "pub": "2026-10-18T15:26+00:00"
-    },
-    {
-     "medio": "Daily Mail",
-     "titulo": "Nottingham Forest vs Arsenal - Premier League: Reigning champions push for opening goal as they look to close the gap on table-toppers Manchester City",
-     "url": "https://www.dailymail.com/sport/football/article-16211791/nottingham-forest-arsenal-premier-league-live.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-     "pub": "2026-10-18T16:02+00:00"
-    },
-    {
-     "medio": "Daily Mail",
-     "titulo": "Nottingham Forest fans accuse their own club of 'going woke' as they ban 'misogynistic' chant - and tell them they face 'education sessions' if they sing it",
-     "url": "https://www.dailymail.com/sport/football/article-16218477/Nottingham-Forest-fans-accuse-club-going-woke-ban-misogynistic-chant-tell-face-education-sessions-sing-it.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-     "pub": "2026-10-18T12:51+00:00"
-    },
-    {
-     "medio": "Planet Football",
-     "titulo": "Can you name everybody to play for Arsenal and Nottm Forest since 1992?",
-     "url": "https://www.planetfootball.com/quizzes/can-you-name-every-player-to-play-for-both-arsenal-and-nottingham-forest-since-1990",
-     "pub": "2026-10-18T14:41+00:00"
-    },
-    {
-     "medio": "FourFourTwo",
-     "titulo": "Britt Assombalonga on what it meant to sign for Nottingham Forest after his teenage rejection",
-     "url": "https://www.fourfourtwo.com/person/player/i-always-dreamt-of-going-back-to-nottingham-forest-and-proving-them-wrong-i-really-felt-like-i-was-playing-for-a-massive-club-that-had-historical-importance-britt-assombalonga-on-what-it-meant-to-be-a-tricky-tree",
-     "pub": "2026-10-18T12:00+00:00"
-    },
-    {
-     "medio": "FourFourTwo",
-     "titulo": "Watch Nottingham Forest vs Arsenal: Live streams and TV info",
-     "url": "https://www.fourfourtwo.com/competition/watch-nottingham-forest-vs-arsenal-premier-league-2026-27",
-     "pub": "2026-10-18T12:00+00:00"
+     "titulo": "VER@EN PARTIDO!! Barcelona Real Betis Fútbol en directo y en vivo 17. Oktober 2026",
+     "url": "https://news.google.com/rss/articles/CBMixgJBVV95cUxPdmV2bDVrQUFDYVhQTVBSMzRqRWExQ3M2eWloelJrMjg2RmNVcmhmNTkxVTlXc0VEa1l3QWtuWTFxOV9GQS1VWWM4Wm42TFpGWjNkcDJVRXBRRHFiYmcxTFlIaEFYYmFwZTNieU9zdFU4NEFqeHZ2bHdSTm1ZZlBkV0VDSHdGYXE1X1Byejc0YmRJVzFWdl9iUGZoNWY2OGppeG5XTGZYY29pWjM0b25xUjVjbmx3U3VnYTdTaGVBMkR4c0tObUEzaFlmUWxZNk1Nc0YwNzBrbFprdnphN3pDV2trMmZIajBwRU9SeUZlclQ1eGZjTHdKbXFaZnBLcGdQbHh0TlVmQnVUWWtkbWhWSExLTVhxdURmUWZGaWpBbDU3ZV92ejF0eU5DZzQ0N1BxSU1DMXlwVHJRT3I4OFhReFJ4NlBiUQ?oc=5",
+     "pub": "2026-10-17T16:30+00:00"
     }
    ]
   },
@@ -2212,12 +2316,6 @@
      "pub": "2026-10-17T06:53+00:00"
     },
     {
-     "medio": "Mirror",
-     "titulo": "Six incredible moments to look forward to in new Man Utd doc after Lisandro Martinez rant",
-     "url": "https://www.mirror.co.uk/sport/football/news/man-utd-martinez-amazon-documentary-37778979",
-     "pub": "2026-10-17T05:00+00:00"
-    },
-    {
      "medio": "Planet Football",
      "titulo": "Planet Football Weekend Quiz: Mbappe, Lisandro Martinez, Messi, Leeds vs. Man Utd…",
      "url": "https://www.planetfootball.com/quizzes/planet-football-weekend-quiz-mbappe-martinez-leeds-man-utd",
@@ -2276,6 +2374,12 @@
      "titulo": "Emiliano Martinez évacué sur civière lors d'Everton-Chelsea",
      "url": "https://www.lequipe.fr/Football/Actualites/Emiliano-martinez-evacue-sur-civiere-lors-d-everton-chelsea/1736462#at_medium=RSS_feeds",
      "pub": "2026-10-17T13:27+00:00"
+    },
+    {
+     "medio": "Foot Mercato",
+     "titulo": "Chelsea : vives inquiétudes pour Emiliano Martinez, sorti sur civière",
+     "url": "https://www.footmercato.net/a4675270138374129480-chelsea-vives-inquietudes-pour-emiliano-martinez-sorti-sur-civiere",
+     "pub": "2026-10-17T13:13+00:00"
     }
    ]
   },
@@ -2368,98 +2472,6 @@
      "titulo": "Newcastle United vs Aston Villa Football Streaming Guide",
      "url": "https://news.google.com/rss/articles/CBMizgJBVV95cUxOX3ltMlowRTJsQ1pLZml3Z2duU3ptLUxqSGtoWmxGdTFFSXpLUlYwWWtwckI3NDJuN0k1VC1FM3ZPUEFUX1g5RmNCem51WVF5RTlGaGwxN0Z1Z2l1aTktX2JMWUNiSGF6anhreFgwU2lWbkNIdkl3eWdTSkphMloyd2ZkY3VJOVNqRmg3RDg0eEwtZXMzZWhmMENqTWs1c3V1ZDlSWm1DajQzZGo0LTZVekp5SG1OWjhRbFF4d3BIR1l5eWg1eUpSNVU1aTFlSFZNaDNVRERDLWZIQ2ZQSjVqS2drQkxWSDhpLUhlUGxxRUpGSm02RXRSR3U2NDhTREtUeE51aTZGZ2JLeTJmLTl2MEt6alhMbjhIeWhZU0w5WnZDNnZINkhrdkFMLVo0ZWVRdDFfX0NtUUlTWkFIVF84UEVERG9DY19IM2lIb0Fn?oc=5",
      "pub": "2026-10-17T16:29+00:00"
-    }
-   ]
-  },
-  {
-   "tema": "Crystal",
-   "medios": 11,
-   "lista_medios": [
-    "AS",
-    "Foot Mercato",
-    "FourFourTwo",
-    "Google News AR",
-    "Google News EN",
-    "Guardian",
-    "L'Equipe",
-    "Mirror",
-    "Mundo Deportivo",
-    "Sky Sports",
-    "talkSPORT"
-   ],
-   "primera_vez": "2026-10-17T14:21+00:00",
-   "titulares": [
-    {
-     "medio": "Google News AR",
-     "titulo": "Brighton and Hove vs. Crystal Palace, EN VIVO: dónde ver por TV y ONLINE",
-     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxObUp4aTAzcmlwb3JheklJYnN0aFhDZ3diTTVaNkhkSDJyVGxQbW8wbmdlX3J2OXE4Q2F0cWhxRXBQaFVGTzRqeERMdnl6eWNLaU53VHZOMUU3X1RHOV9zRU1xWUZES0o4empCMjZRaTdWaTMxWlFPR1ZtcFdjMW1EMEFWTWV4Tk1sVWFMZTY5QnoySk9PdXJiUmU5WDFJV3N6bkxkRUlTcjlIeTIzRlJ1cV90NlFXVU1RajF2SE9mN3EyQQ?oc=5",
-     "pub": "2026-10-17T13:00+00:00"
-    },
-    {
-     "medio": "Sky Sports",
-     "titulo": "Brighton vs Crystal Palace team news LIVE!",
-     "url": "https://www.skysports.com/football/brighton-and-hove-albion-vs-crystal-palace/live/559506",
-     "pub": "2026-10-18T11:00+00:00"
-    },
-    {
-     "medio": "FourFourTwo",
-     "titulo": "Watch Brighton vs Crystal Palace: Live streams and TV channels",
-     "url": "https://www.fourfourtwo.com/competition/watch-brighton-vs-crystal-palace-premier-league-2026-27",
-     "pub": "2026-10-18T10:00+00:00"
-    },
-    {
-     "medio": "Guardian",
-     "titulo": "Gómez halfway-line wondergoal sparks Brighton’s 5-0 thrashing of sorry Crystal Palace",
-     "url": "https://www.theguardian.com/football/2026/oct/18/brighton-crystal-palace-premier-league-match-report",
-     "pub": "2026-10-18T15:06+00:00"
-    },
-    {
-     "medio": "talkSPORT",
-     "titulo": "Brighton star scores outrageous goal of the season as Seagulls tear rivals Crystal Palace apart",
-     "url": "https://talksport.com/football/4651691/brighton-diego-gomez-goal-of-season-crystal-palace/",
-     "pub": "2026-10-18T13:22+00:00"
-    },
-    {
-     "medio": "Mirror",
-     "titulo": "Brighton star scores from HALFWAY LINE as Seagulls run riot against rivals Crystal Palace",
-     "url": "https://www.mirror.co.uk/sport/football/news/brighton-crystal-palace-gomez-goal-37784907",
-     "pub": "2026-10-18T15:03+00:00"
-    },
-    {
-     "medio": "Google News EN",
-     "titulo": "Brighton 5-0 Crystal Palace | Premier League highlights",
-     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOQkstdnFUOFNsMS1WVTlQeE0zZkxBbGFkWVZTTjVrdTZvRmNmbmEtVjRZZG5Yc3ljTHo4cjd1TlRyaW82S2c0Umd0SG15N0xIWTdWMFpwVUNHenBqTHUzMy1jMHU4ckFrdHYxSmJZMkNqQ2M5YU4xZFNLc2cySE1fWjhCVmo0U0NYTHhLVmd3b1VoRXNtMHd3dEllZ2hfMk1MMXplUzZ3?oc=5",
-     "pub": "2026-10-18T15:18+00:00"
-    },
-    {
-     "medio": "Google News EN",
-     "titulo": "Premier League: Brighton & Hove Albion 5-0 Crystal Palace - Fabian Hurzeler post match interview",
-     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBUelRvV3JaZlRNUlFMbXkyWVVqOFkzb1J4N2pjTjA4NWZVWmZpNXFEX2VjNFVWOElqVnk5dEc2S0drREVpd3Fnc3N0WElsaHRtSFRHUm9sWWI0aUE0ck5lU24yRTJCcVg0?oc=5",
-     "pub": "2026-10-18T15:36+00:00"
-    },
-    {
-     "medio": "Google News EN",
-     "titulo": "Premier League: Brighton & Hove Albion 5-0 Crystal Palace - Pierre Sage post match interview",
-     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBFVE5MZE90ckNvUGEyQlQ1Z3BNM21HOXJla2xvTExEcXBNS2p6cU41TTVTMVZqRE5famRqclFJZlNIQXdOZE0zNUtZUWN1OVFXUUhvR3JGenRPVjdiX0VWbXpLRzk2QXZu?oc=5",
-     "pub": "2026-10-18T15:41+00:00"
-    },
-    {
-     "medio": "AS",
-     "titulo": "Resumen y goles del Brighton vs Crystal Palace, jornada 7 de Premier League",
-     "url": "https://as.com/futbol/videos/resumen-y-goles-del-brighton-vs-crystal-palace-jornada-7-de-premier-league-f202610-v/",
-     "pub": "2026-10-18T15:31+00:00"
-    },
-    {
-     "medio": "Mundo Deportivo",
-     "titulo": "El Brighton golea al Crystal Palace en el derbi de la M23",
-     "url": "https://www.mundodeportivo.com/futbol/premier-league/20261018/1004240249/brighton-golea-crystal-palace-derbi-m23.html",
-     "pub": ""
-    },
-    {
-     "medio": "L'Equipe",
-     "titulo": "Crystal Palace et Pierre Sage giflés par Brighton, Manchester United lâche encore des points en Premier League",
-     "url": "https://www.lequipe.fr/Football/Actualites/Crystal-palace-et-pierre-sage-gifles-par-brighton-manchester-united-lache-encore-des-points-en-premier-league/1736731#at_medium=RSS_feeds",
-     "pub": "2026-10-18T15:11+00:00"
     }
    ]
   },
@@ -2668,12 +2680,6 @@
      "pub": "2026-10-17T06:53+00:00"
     },
     {
-     "medio": "Mirror",
-     "titulo": "Six incredible moments to look forward to in new Man Utd doc after Lisandro Martinez rant",
-     "url": "https://www.mirror.co.uk/sport/football/news/man-utd-martinez-amazon-documentary-37778979",
-     "pub": "2026-10-17T05:00+00:00"
-    },
-    {
      "medio": "Planet Football",
      "titulo": "Planet Football Weekend Quiz: Mbappe, Lisandro Martinez, Messi, Leeds vs. Man Utd…",
      "url": "https://www.planetfootball.com/quizzes/planet-football-weekend-quiz-mbappe-martinez-leeds-man-utd",
@@ -2726,6 +2732,12 @@
      "titulo": "Lesión de Lisandro Martínez ante Leeds: qué ocurrió y cómo está el argentino",
      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE51Q3BTWElLNDdUSzNqWEI5cnlsSURiRmlNRDJhcE40ZWRlRWFHTEdfclpyalVzYkdmV2tOWHFPdC0yc1NZUXM5RHFyTk9HYTNzQ1pUUmhLQUFRRUZNY3AxU28tQ3FLanc5eU5UZ2JnOWZZemp0d1NkVV9JQQ?oc=5",
      "pub": "2026-10-18T14:14+00:00"
+    },
+    {
+     "medio": "Mirror",
+     "titulo": "Harry Maguire makes worrying admission about Man Utd players and Lisandro Martinez claim",
+     "url": "https://www.mirror.co.uk/sport/football/news/harry-maguire-man-utd-leeds-37785173",
+     "pub": "2026-10-18T17:07+00:00"
     }
    ]
   },

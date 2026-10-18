@@ -1,43 +1,46 @@
-# Tendencias de fútbol (2026-10-18 16:05 UTC, Google Trends)
+# Tendencias de fútbol (2026-10-18 18:50 UTC, Google Trends)
 
 Generado por el workflow `tendencias`. Úsalo para elegir temas de memes, curiosos y jugador vs jugador.
 
 | País | Búsqueda | Tráfico | Titular |
 |---|---|---|---|
-| UK | nffc | 200+ | MESSAGE TO SUPPORTERS: MISOGYNISTIC CHANTING |
-| UK | paris fc | 200+ | Paris FC vs Rennes: French Ligue 1 stats & head-to-head |
-| UK | arsenal vs | 1000+ | Nottingham Forest vs Arsenal LIVE! Premier League match updates, news and score |
-| UK | acf fiorentina vs como 1907 standings | 200+ | Fiorentina vs Como: Italian Serie A stats & head-to-head |
-| UK | monaco fc | 200+ | Lorient vs Monaco: French Ligue 1 stats & head-to-head |
-| Spain | girona - fc andorra | 500+ | Girona - Andorra en directo: LaLiga Hypermotion hoy en vivo |
-| Spain | sporting cristal - comerciantes unidos | 200+ | Sporting Cristal vs Comerciantes Unidos: Pronóstico, Cuotas y Apuestas - Primera División |
-| Spain | málaga - real sociedad | 5000+ | Málaga - Real Sociedad en directo | Última hora de LALIGA EA Sports en vivo hoy |
-| Spain | valladolid - cd eldense | 1000+ | El Eldense mide el vaso del Real Valladolid: oportunidad de subirse al vagón de arriba |
-| Spain | atlético madrid - madrid | 1000+ | Baena rompe a un combativo Espanyol con un gran gol en el último minuto y le da la victoria al Atlét |
-| Spain | secuestro | 1000+ | Cuatro encapuchados secuestran a un hombre en Santa Coloma de Gramenet |
-| Spain | celta | 2000+ | Celta Vigo vs Alavés: Spanish La Liga stats & head-to-head |
-| Spain | milan - atalanta | 1000+ | Milan - Atalanta: TV, a qué hora es, dónde y cómo ver la Serie A online hoy |
-| Italy | milan - atalanta | 50000+ | LIVE Alle 18 Milan-Atalanta: riecco Ramos, Pulisic al posto di Cisse. Sarri con Krstovic e CDK |
-| Italy | luca marelli | 1000+ | Il fallo su Thuram fa 'arrabbiare' l'Inter: l'episodio divide. Ma il giallo è esagerato |
-| Germany | hamburg – fc bayern | 500+ | FC Bayern gegen Hamburg: Die Infos zum Pokal-Achtelfinale |
-| France | ibrahim maza | 100+ | Rekordmann Patrik Schick sorgt für erste Niederlage des SC Freiburg - und macht FC Bayern zum Spitze |
-| USA | ac milan | 500+ | AC Milan vs Atalanta BC Live Stream: How to Watch Italian Serie A (Oct. 18, 2026) |
-| USA | málaga - real sociedad | 1000+ | Previa del partido Málaga vs Real Sociedad: Un punto clave en la lucha por el título. |
-| USA | arsenal game | 500+ | How to watch Nottingham Forest vs Arsenal: Live stream English Premier League, TV channel |
-| Argentina | lorient - mónaco | 100+ | EN DIRECT VIDÉO) Lorient - AS Monaco en direct et gratuitement |
-| Argentina | monaco fc | 200+ | Bruins 4-1 Kings (18 Oct, 2026) Game Recap |
-| Argentina | milan - atalanta | 1000+ | +![IN DIRETTA] Atalanta Milan In Diretta Streaming Tv di Serie A 18 ottobre 2026 |
-| Argentina | arsenal | 500+ |  |
-| Argentina | premio princesa de asturias de los deportes | 500+ | Las entradas para ver a Messi en Oviedo se agotan en 13 minutos |
-| Brazil | arsenal fc | 200+ | Mikel Arteta aposta que Kai Havertz pode se tornar um atacante de 30 gols; técnico do Arsenal elogia |
-| Brazil | mönchengladbach x hoffenheim | 200+ | Borussia M´gladbach x TSG Hoffenheim :: Estatísticas, Prováveis Escalações e Prognósticos :: 1. Bund |
-| Brazil | nottm forest vs arsenal | 200+ | Premier League LIVE: Nottingham Forest vs Arsenal after Man Utd & Leeds draw, Brighton and Bournemou |
-| Brazil | junior alonso | 20000+ | Atlanta United FC vs. Inter Miami CF - Game Highlights |
-| Portugal | groningen - ajax | 100+ | Míchel makes major changes to Ajax's line-up in Groningen |
-| Portugal | milan - atalanta | 1000+ | AC Milan vs Atalanta: Italian Serie A stats & head-to-head |
-| Portugal | nottingham forest - arsenal | 2000+ | Nottingham Forest vs Arsenal: Premier League preview, team news, stats & head-to-head |
-| Portugal | tondela - alverca | 1000+ | Ricardo Costa e o duelo com o Alverca: «Vamos ser fiéis à nossa identidade» |
-| Mexico | málaga - real sociedad | 200+ | La Real Sociedad defiende su plaza europea en Málaga |
-| Mexico | arsenal vs | 1000+ | 𝚆𝙰𝚃𝙲𝙷 Arsenal vs. Nottingham Forest 𝐋𝐈𝐕𝐄 Ｓｔｒｅａｍ Ｆｒｅｅ ＯＮ Ｔｖ Ｃｈａｎｎｅｌ!PREMIER™LEAGUE |
-| Mexico | atlético madrid - madrid | 2000+ | Derbi en Alcalá, ante el equipo revelación en el arranque de temporada |
-| Mexico | paris fc - rennes | 200+ | DIRECT VIDÉO) Rennes-Paris FC en direct et gratuitement |
+| UK | real madrid - sevilla | 500+ | Real Madrid - Sevilla, en directo: última hora de LaLiga EA Sports, hoy en vivo |
+| UK | ol vs nice | 200+ | Vive le turnover à l'OL : pour la réception de Nice, Paulo Fonseca devrait effectuer au moins huit c |
+| UK | easyjet flight u2415 emergency landing | 500+ | easyJet U2415 declared an emergency and diverted to Liverpool following engine vibration |
+| UK | juventus vs lazio | 2000+ | Juventus vs Lazio: Italian Serie A stats & head-to-head |
+| Spain | didier deschamps | 200+ | Florentino ya tiene sustituto por si falla el 'plan Mourinho': Deschamps, candidato |
+| Spain | burgos - c. e. sabadell | 1000+ | Burgos CF - Sabadell en directo |
+| Spain | susanna griso | 500+ | Susanna Griso (57 años): “He pasado cuatro meses buscando piso en Barcelona, y se supone que tengo u |
+| Spain | mikel oyarzabal | 500+ | La Rosaleda homenajea a Mikel Oyarzabal |
+| Spain | lyon - niza | 200+ | Vive le turnover à l'OL : pour la réception de Nice, Paulo Fonseca devrait effectuer au moins huit c |
+| Spain | real madrid - sevilla | 100000+ | Real Madrid - Sevilla, en directo: última hora de LaLiga EA Sports, hoy en vivo |
+| Italy | real madrid - sevilla | 200+ | Real Madrid - Sevilla, en directo: última hora de LaLiga EA Sports, hoy en vivo |
+| Italy | real madrid vs sevilla | 500+ | Real Madrid vs Sevilla, 2026 live stream: Time, TV channels and how to watch La Liga online |
+| Italy | ac milan vs atalanta bc standings | 5000+ | AC Milan vs Atalanta: Italian Serie A stats & head-to-head |
+| Italy | real madrid - siviglia | 5000+ | Dove vedere Real Madrid-Siviglia in tv? Sky o Dazn, orario |
+| Germany | juventus vs lazio | 200+ | Juventus - Spalletti souligne le travail de Gattuso avant le choc contre une Lazio “redoutable” |
+| Germany | classifica di ac milan - atalanta | 200+ | FINALE Milan-Atalanta 3-2: miracolo Maignan su Zappacosta e che rischio Estupinan |
+| Germany | real madrid vs sevilla | 1000+ | Real Madrid vs Sevilla - Prediction, where to watch, kick-off time and line-ups 18-10-2026 |
+| France | real madrid vs sevilla | 1000+ | Confirmed: Real Madrid starting eleven to face Sevilla |
+| USA | dameon pierce | 2000+ | Fantasy Football Week 6 Start ‘Em, Sit ‘Em: Dameon Pierce vs. Blake Corum |
+| USA | real madrid schedule | 1000+ | Real Madrid want LaLiga chief out after he compared attacks on refs to Nazi propaganda |
+| USA | byu ranking | 500+ | Josh Furlong's AP Top 25: It's BYU's world ... even when the world doubted them |
+| USA | real madrid - sevilla | 20000+ | Confirmed: Real Madrid starting eleven to face Sevilla |
+| Argentina | jadson viera | 200+ | La sorpresiva decisión de Jadson Viera en el once de Independiente para el clásico |
+| Argentina | real madrid - sevilla | 5000+ | Real Madrid - Sevilla, en directo: última hora de LaLiga EA Sports, hoy en vivo |
+| Argentina | alineaciones de racing club contra club atlético independiente | 200+ | 🚨Confirmed XIs: Racing spring a surprise against Independiente |
+| Argentina | futbol en vivo | 200+ | Partidos de hoy, sábado 17 de octubre de 2026: programación, canales TV y resultados en vivo |
+| Brazil | lyon | 200+ | Mobilisation du 17 octobre : à Lyon, l’office du tourisme incendié au cours d’une journée chaotique |
+| Brazil | real madrid - sevilla | 1000+ | Confirmed: Real Madrid starting eleven to face Sevilla |
+| Brazil | real madrid vs sevilla | 500+ | Real Madrid x Sevilla em LaLiga: onde assistir ao vivo e horário |
+| Brazil | twente | 200+ | Live Eredivisie | FC Twente wil tegen FC Utrecht PSV passeren op ranglijst |
+| Portugal | real madrid vs sevilla | 200+ | Real Madrid-Sevilha: os onzes para novo teste de Mourinho |
+| Portugal | real madrid - sevilla | 2000+ | Confirmed: Real Madrid starting eleven to face Sevilla |
+| Portugal | juventus - lazio | 500+ | LIVE Alle 20.45 Juventus-Lazio, le ultime: Spalletti punta sulla coppia Nico-Kolo, Gattuso sceglie N |
+| Portugal | classificações de nottingham forest x arsenal | 2000+ | Nottingham Forest 0 x 1 Arsenal | Premier League: melhores momentos |
+| Portugal | liga italiana | 500+ | FINALE Milan-Atalanta 3-2: miracolo Maignan su Zappacosta e che rischio Estupinan |
+| Mexico | racing club | 100+ | ⚖️All confirmed: Facundo Tello to referee the Avellaneda derby |
+| Mexico | atlético madrid vs. real madrid | 100+ | “Valverde debe plantearse hacia dónde orientar su carrera” |
+| Mexico | pumas femenil | 100+ | ¿A qué hora juega Pumas vs Atlas? Dónde ver EN VIVO partido de la Liga MX Femenil 2026 HOY |
+| Mexico | real madrid - sevilla | 20000+ | Real Madrid - Sevilla, en directo: última hora de LaLiga EA Sports, hoy en vivo |
+| Mexico | twente | 1000+ | LIVE | Taha is gepasseerd door John van den Brom en start op de bank |

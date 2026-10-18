@@ -1,98 +1,98 @@
-# Titulares de fútbol (2026-10-18 16:05 UTC, últimas 36 h)
+# Titulares de fútbol (2026-10-18 18:50 UTC, últimas 36 h)
 
-Generado por `scripts/titulares.py` (workflow `tendencias`). Leídos 26 de 34 medios; fuentes en `redes/fuentes.md`.
+Generado por `scripts/titulares.py` (workflow `tendencias`). Leídos 25 de 34 medios; fuentes en `redes/fuentes.md`.
 
 ## Temas que salen en más medios (la noticia del día está arriba)
 
 | Tema | Nº medios | Medios | Ejemplo |
 |---|---|---|---|
-| Leeds | 18 | BBC, Daily Mail, Foot Mercato, FourFourTwo, Google News AR, Google News EN, Goog | Everything a struggle for Fernandes - Leeds v Man Utd ratings |
-| Arsenal | 15 | AS, BBC, Daily Mail, FourFourTwo, Google News EN, Guardian, Kicker, Mirror, Mund | Gyokeres pushing for Arsenal exit - Sunday's gossip |
-| Palace | 15 | AS, BBC, Foot Mercato, FourFourTwo, Google News EN, Google News ES, Guardian, L' | My one feeling is shame - Sage on bruising Palace defeat |
-| Chelsea | 14 | BBC, Daily Mail, Foot Mercato, FourFourTwo, Guardian, Infobae, L'Equipe, Mirror, | Martinez breaks jaw in Chelsea win at Everton |
-| Brighton | 14 | AS, BBC, Daily Mail, Foot Mercato, FourFourTwo, Google News EN, Google News ES,  | Kirby 'stressed' by abrupt Vidosic exit from Brighton |
-| Manchester | 14 | BBC, Daily Mail, FourFourTwo, Google News EN, Google News ES, Guardian, Infobae, | Do Manchester City have any grounds to win their appeal? |
-| Madrid | 13 | AS, Daily Mail, Foot Mercato, Football Italia, Google News ES, Infobae, L'Equipe | Jose Mourinho declares Vinicius Jr should have left Real Madrid in summer after failed Arsenal transfer |
-| Nottingham | 12 | AS, Daily Mail, FourFourTwo, Google News EN, Guardian, Kicker, Mundo Deportivo,  | Nottingham Forest v Arsenal: Premier League – live |
-| Forest | 11 | AS, Daily Mail, FourFourTwo, Google News EN, Guardian, Mundo Deportivo, Planet F | Nottingham Forest v Arsenal: Premier League – live |
-| Man | 10 | BBC, Daily Mail, FourFourTwo, Google News EN, Mirror, Planet Football, Sky Sport | Everything a struggle for Fernandes - Leeds v Man Utd ratings |
-| Liverpool | 10 | BBC, Daily Mail, Foot Mercato, FourFourTwo, Guardian, Mirror, Planet Football, Y | Liverpool come from behind to beat nine-man Brentford |
-| Utd | 9 | BBC, Google News EN, Google News ES, Mirror, Planet Football, Sky Sports, Telegr | Everything a struggle for Fernandes - Leeds v Man Utd ratings |
-| Martinez | 9 | BBC, Daily Mail, L'Equipe, Mirror, Sky Sports, Telegraph, Yahoo, r/soccer (top d | Martinez breaks jaw in Chelsea win at Everton |
-| Carrick | 9 | BBC, Daily Mail, Google News EN, Guardian, Kicker, Mirror, Telegraph, Yahoo, tal | Man Utd showed 'unity' in draw with Leeds - Carrick |
-| Crystal | 9 | AS, Foot Mercato, FourFourTwo, Google News EN, Guardian, L'Equipe, Mirror, Mundo | Gómez halfway-line wondergoal sparks Brighton’s 5-0 thrashing of sorry Crystal Palace |
-| Everton | 8 | BBC, Daily Mail, FourFourTwo, Google News EN, Infobae, Mirror, ge.globo, talkSPO | Martinez breaks jaw in Chelsea win at Everton |
-| Michael | 8 | Daily Mail, Foot Mercato, FourFourTwo, Google News EN, L'Equipe, Mirror, Yahoo,  | Michael Carrick reveals why Lisandro Martinez was substituted at half-time |
-| Messi | 8 | Google News AR, Infobae, L'Equipe, Ole, Planet Football, Yahoo, ge.globo, r/socc | Can Lionel Messi reach 1000 goals before Cristiano Ronaldo? It’s not impossible… |
-| Brentford | 7 | BBC, Daily Mail, FourFourTwo, Guardian, Mirror, Telegraph, talkSPORT | Liverpool come from behind to beat nine-man Brentford |
+| Arsenal | 15 | BBC, Daily Mail, FourFourTwo, Google News EN, Guardian, Kicker, L'Equipe, Mirror | Madueke strikes late but who missed his big chance? - Forest v Arsenal ratings |
+| Palace | 13 | BBC, Daily Mail, FourFourTwo, Google News EN, Guardian, L'Equipe, Mirror, Mundo  | My one feeling is shame - Sage on bruising Palace defeat |
+| Chelsea | 12 | BBC, FourFourTwo, Google News EN, Guardian, Infobae, Mirror, Planet Football, Sk | Neto scores twice as Chelsea win at Everton |
+| Man | 11 | BBC, Daily Mail, Football Italia, FourFourTwo, Google News EN, Mirror, Planet Fo | Mbeumo offers Carrick solace as Man Utd winless run goes on |
+| Brighton | 11 | BBC, Daily Mail, FourFourTwo, Google News EN, L'Equipe, Mirror, Mundo Deportivo, | Shades of Barca and Beckham - Brighton aim to maintain superb start |
+| Leeds | 11 | BBC, Daily Mail, FourFourTwo, Google News EN, Guardian, Mirror, Planet Football, | Everything a struggle for Fernandes - Leeds v Man Utd ratings |
+| Forest | 11 | BBC, Daily Mail, FourFourTwo, Google News EN, Mirror, Planet Football, Sky Sport | Madueke strikes late but who missed his big chance? - Forest v Arsenal ratings |
+| Crystal | 11 | Daily Mail, FourFourTwo, Google News EN, Guardian, L'Equipe, Mirror, Mundo Depor | Gómez halfway-line wondergoal sparks Brighton’s 5-0 thrashing of sorry Crystal Palace |
+| Madrid | 11 | AS, Daily Mail, Football Italia, Google News ES, L'Equipe, Mirror, Mundo Deporti | Jose Mourinho declares Vinicius Jr should have left Real Madrid in summer after failed Arsenal transfer |
+| Manchester | 10 | BBC, FourFourTwo, Google News EN, Guardian, Infobae, L'Equipe, Planet Football,  | Do Manchester City have any grounds to win their appeal? |
+| Carrick | 9 | BBC, Daily Mail, Football Italia, Google News EN, Guardian, Mirror, Sky Sports,  | Mbeumo offers Carrick solace as Man Utd winless run goes on |
+| Utd | 9 | BBC, Football Italia, Google News EN, Mirror, Planet Football, Sky Sports, Teleg | Mbeumo offers Carrick solace as Man Utd winless run goes on |
+| Nottingham | 9 | Daily Mail, FourFourTwo, Google News EN, Guardian, L'Equipe, Mirror, Yahoo, ge.g | Madueke breaks Nottingham Forest’s resistance as dogged Arsenal edge to victory |
+| Liverpool | 8 | BBC, Daily Mail, FourFourTwo, Guardian, Mirror, Planet Football, Yahoo, talkSPOR | Liverpool come from behind to beat nine-man Brentford |
+| Martinez | 8 | BBC, Daily Mail, Mirror, Sky Sports, Telegraph, Yahoo, r/soccer (top día), talkS | Martinez breaks jaw in Chelsea win at Everton |
+| Madueke | 7 | BBC, Guardian, Mirror, Mundo Deportivo, Yahoo, ge.globo, talkSPORT | Madueke strikes late but who missed his big chance? - Forest v Arsenal ratings |
+| Newcastle | 7 | BBC, Daily Mail, FourFourTwo, Google News EN, Guardian, Telegraph, Yahoo | Manzambi heads Villa to victory at Newcastle |
 | Bournemouth | 7 | FourFourTwo, Google News EN, Guardian, Mundo Deportivo, Sky Sports, Yahoo, ge.gl | Evanilson swivels his hips to seal Bournemouth win against 10-man Sunderland |
-| Martínez | 7 | Foot Mercato, Google News AR, Guardian, Infobae, Ole, ge.globo, r/soccer (top dí | Martínez back ‘in a few weeks’ after jaw surgery; Liverpool lose Szoboszlai for ‘some time’ – matchday live |
-| Mourinho | 7 | AS, Daily Mail, Foot Mercato, Mirror, Yahoo, r/soccer (top día), talkSPORT | Jose Mourinho declares Vinicius Jr should have left Real Madrid in summer after failed Arsenal transfer |
-| Newcastle | 6 | BBC, Daily Mail, FourFourTwo, Google News EN, Guardian, Telegraph | Manzambi heads Villa to victory at Newcastle |
-| Barcelona | 6 | BBC, Google News EN, Google News ES, Yahoo, ge.globo, r/soccer (top día) | Lamine Yamal opens scoring as Barcelona beat Real Betis |
-| Betis | 6 | BBC, Google News EN, L'Equipe, Mundo Deportivo, Yahoo, r/soccer (top día) | Lamine Yamal opens scoring as Barcelona beat Real Betis |
+| Michael | 7 | Daily Mail, FourFourTwo, Google News EN, Guardian, Mirror, Yahoo, talkSPORT | ‘Like a fresh start’: Michael Carrick relieved by Manchester United’s draw at Leeds |
+| Brentford | 6 | BBC, Daily Mail, FourFourTwo, Guardian, Telegraph, talkSPORT | Liverpool come from behind to beat nine-man Brentford |
+| Everton | 6 | BBC, Daily Mail, FourFourTwo, Infobae, ge.globo, talkSPORT | Neto scores twice as Chelsea win at Everton |
+| Sage | 6 | BBC, Daily Mail, Google News EN, L'Equipe, Sky Sports, Telegraph | My one feeling is shame - Sage on bruising Palace defeat |
+| Spurs | 6 | BBC, FourFourTwo, Guardian, Infobae, Sky Sports, Yahoo | James scores brilliant double as Chelsea put six past Spurs |
+| Sunderland | 6 | FourFourTwo, Google News EN, Guardian, Sky Sports, Yahoo, talkSPORT | Evanilson swivels his hips to seal Bournemouth win against 10-man Sunderland |
+| Mikel | 6 | Daily Mail, Google News EN, Mirror, Yahoo, r/soccer (top día), talkSPORT | Eberechi Eze given harsh reality check over Arsenal future after ruthless Mikel Arteta act |
 
 ## Titulares por medio
 
-**BBC** (37)
+**BBC** (40)
+- Hearts roll out red carpet ... and Celtic walk all over it
+- Mbeumo offers Carrick solace as Man Utd winless run goes on
+- Shades of Barca and Beckham - Brighton aim to maintain superb start
 - Everything a struggle for Fernandes - Leeds v Man Utd ratings
-- Martinez breaks jaw in Chelsea win at Everton
-- What awaits Everton hero Ferguson in shock Glens role?
+- Madueke strikes late but who missed his big chance? - Forest v Arsenal ratings
 - Who am I? Plus today's other quizzes
 - Liverpool come from behind to beat nine-man Brentford
 - Haaland nets double as Man City go six points clear at the top
 - Manzambi heads Villa to victory at Newcastle
 - Neto scores twice as Chelsea win at Everton
 - Iwobi delivers Fulham's first win of season
-- Gyokeres pushing for Arsenal exit - Sunday's gossip
-- Boos and bananas on day of defiance at Man City
-- Wirtz delivers but remains Liverpool's conundrum
+- Martinez breaks jaw in Chelsea win at Everton
 
 **Guardian** (18)
-- Nottingham Forest v Arsenal: Premier League – live
+- Madueke breaks Nottingham Forest’s resistance as dogged Arsenal edge to victory
 - Manchester United held as Calvert-Lewin’s Leeds leveller keeps pressure on Carrick
 - Gómez halfway-line wondergoal sparks Brighton’s 5-0 thrashing of sorry Crystal Palace
-- Evanilson swivels his hips to seal Bournemouth win against 10-man Sunderland
+- European football: Monaco miss chance to go top; Bayer Leverkusen find form
 - James and Carpenter lead Chelsea surge as sorry Spurs hit for six in WSL again
+- Evanilson swivels his hips to seal Bournemouth win against 10-man Sunderland
+- Scottish Premiership: Osmand and Nygren at the double as Celtic thrash Hearts 7-1
 - Martínez back ‘in a few weeks’ after jaw surgery; Liverpool lose Szoboszlai for ‘some time’ – matchday live
-- ‘I suffer a lot’: Villarreal owner Fernando Roig on not enjoying games and the prospect of Liverpool | Sid Lowe
-- Haaland helps Maresca achieve record start as Manchester City defeat Ipswich
 - Wigan pine for FA Cup glory as not even victory can lift them off foot of League One
-- James McClean: ‘Wearing the poppy was just never going to happen’
-- Savaged by Simon Jordan – and thanks to the algorithm I want to be savaged again | Barney Ronay
-- Houthi conflict casts shadow as Saudi Arabia scales back sporting pipe dreams
+- ‘I suffer a lot’: Villarreal owner Fernando Roig on not enjoying games and the prospect of Liverpool | Sid Lowe
+- ‘Like a fresh start’: Michael Carrick relieved by Manchester United’s draw at Leeds
+- Haaland helps Maresca achieve record start as Manchester City defeat Ipswich
 
 **Sky Sports** (20)
+- Neville delivers Carrick warning after Man Utd 'stepping stone' performance
+- Arsenal win with one shot on target as Forest sink into bottom three
+- NFL London as it happened: Last-second field goal AGAIN as Texans beat Jags
+- Texans beat Jags in final seconds of Wembley thriller
+- Bournemouth latest: Rose reveals relief after ending wait for PL win
+- PL Predictions: Spurs to bag rare home win on MNF
 - Man Utd held by Leeds as winless run continues
-- Palace latest: Brighton defeat nowhere near good enough, says Wharton
+- Palace latest: Sage asked whether he'll get time to turn things around
 - South Africa stutter on rain-hit day one against Australia
+- Agha returns to lead Pakistan to tri-series win over Sri Lanka
+- Boyd criticises Hearts’ ‘lack of respect’ as Celtic deliver ‘wake-up call’
 - Chelsea latest: Martinez has surgery on fractured jaw
-- Magnificent seven as Celtic hammer Hearts LIVE!
-- NFL London LIVE! Jags fight back to within three of Texans at Wembley
-- Man City maintain perfect WSL record as Chelsea, Man Utd, London City win
-- Bournemouth beat 10-man Sunderland to pick up first league win of season
-- Britain's Kartal misses out on maiden WTA 1000 title in Wuhan
-- Gomez scores stunning HALFWAY-LINE goal!
-- Botham reopens war of words with Stokes over Ashes fallout
-- Kartal after loss in Wuhan: 'I hope I can be in many more of these finals'
 
-**talkSPORT** (26)
+**talkSPORT** (28)
+- Eberechi Eze given harsh reality check over Arsenal future after ruthless Mikel Arteta act
+- Sunderland star claims team &#8216;became arrogant&#8217; in brutal review amid 11-year low
+- Manchester United suffer disastrous unwanted Premier League first with Leeds draw
 - Michael Carrick reveals why Lisandro Martinez was substituted at half-time
 - Premier League manager tipped to be sacked instantly after 70-year first
-- Premier League LIVE: Arsenal eyeing opener against Nottingham Forest, Leeds draw with Man United, Brighton hammer Palace
+- Premier League LIVE: Arsenal beat Nottingham Forest thanks to late Madueke goal, Leeds draw with Man United, Brighton hammer Palace
 - Brighton star scores outrageous goal of the season as Seagulls tear rivals Crystal Palace apart
 - Football clubs should be blocked from sacking managers in radical new rule change
 - Roberto De Zerbi reveals Tottenhan star will be out for weeks in fresh injury blow
 - 49-cap England star told international career could be done &#8211; he must focus on club football
 - Jose Mourinho declares Vinicius Jr should have left Real Madrid in summer after failed Arsenal transfer
 - talkSPORT tips – Best football bets and expert advice for Sunday 18 October
-- James McClean teases shock new career switch amid exile from hometown club Derry
-- Harry Kane achieves latest Bayern Munich feat to help club create Bundesliga history
-- Enzo Maresca&#8217;s eerie prediction comes true as Man City boss makes Premier League history
 
 **Daily Mail** (35)
-- Leeds United vs Man United LIVE: Dominic Calvert-Lewin scrambles in to equalise to leave Michael Carrick six games with no win, while Bright
-- Nottingham Forest vs Arsenal - Premier League: Reigning champions push for opening goal as they look to close the gap on table-toppers Manch
+- Nottingham Forest vs Arsenal - Premier League: Noni Madueke's late deflected strike sees Gunners escape City Ground with a victory and close
+- Where once we had Arsene Wenger's Invincibles, we now endure Mikel Arteta's Unwatchables. Arsenal may have got the job done against Nottingh
 - MORE Premier League stars join rejection of taking the knee as fans boo the anti-racism gesture amid growing doubts over its impact
 - The Brighton Beckham! Premier League star scores INCREDIBLE goal from the halfway line, 30 years on from when David did the same
 - Nottingham Forest fans accuse their own club of 'going woke' as they ban 'misogynistic' chant - and tell them they face 'education sessions'
@@ -105,22 +105,23 @@ Generado por `scripts/titulares.py` (workflow `tendencias`). Leídos 26 de 34 me
 - Michael Carrick responds to Nicky Butt's 'management's not for me' claim before landing the Man United job - as defiant boss insists he does
 
 **Mirror** (25)
+- Man City charges LIVE: Seven to 10-year ban emerges and points deduction timeframe
+- Noni Madueke reveals what's changed to help Arsenal get late Nottingham Forest win
+- Arsenal show mark of champions but Nottingham Forest borefest gives Arteta plenty to ponder
+- Mikel Arteta masterstroke sees Arsenal earn gritty win against Nottingham Forest
+- Harry Maguire makes worrying admission about Man Utd players and Lisandro Martinez claim
+- Nottingham Forest demand fans stop 'misogynistic' chant and reveal sanctions if caught
+- Gary Neville and Jamie Carragher claim Bruno Fernandes decision proves Man Utd 'struggling'
 - Leeds miss golden chance to pile misery on Man Utd - but match didn't deserve a winner
-- Man City charges LIVE: Points deduction timeframe as appeal 'decision date' predicted
 - Jamie Carragher pinpoints 'vicious circle' Man Utd chiefs must end immediately
 - Brighton star scores from HALFWAY LINE as Seagulls run riot against rivals Crystal Palace
 - Michael Carrick's masterplan scuppered by injury blow as Leeds deny Man Utd win
 - Why is Daniel Munoz wearing a face mask against Arsenal? Reason explained
-- Jose Mourinho admits Vinicius Junior should've joined Arsenal before Real Madrid U-turn
-- Ethan Nwaneri shown red card by mistake as Arsenal loanee's Dortmund struggles continue
-- Man Utd stars fear Amazon Prime documentary cameras are to blame for struggles
-- Chelsea keeper Emi Martinez sends emotional message from hospital bed after surgery
-- Michael Carrick laughs off worrying Nicky Butt claim that left Man Utd unhappy
-- 'There's one Arsenal team-mate I really disliked - it was a bad vibe from the moment we met'
 
-**Telegraph** (5)
-- Man Utd fail to relieve pressure on Carrick after draw at Leeds
-- Gomez scores goal-of-the-season contender as Brighton trounce Palace to go second
+**Telegraph** (6)
+- Arsenal snatch late victory at Forest to close the gap on Man City
+- Slow and dull Man Utd are just not good enough
+- Pierre Sage fears for his Crystal Palace future after Brighton humiliation
 - Newcastle jeers tell Matthias Jaissle his ‘vertical’ football is not working
 - Liverpool’s £400m front line clicks but win at Brentford turns on red card
 - Steely Chelsea triumph despite losing Martinez to head injury
@@ -128,6 +129,8 @@ Generado por `scripts/titulares.py` (workflow `tendencias`). Leídos 26 de 34 me
 **90min** (0)
 
 **Planet Football** (10)
+- What would the Premier League table look like if Man City get kicked out?
+- Top-scoring attacking trios in 2026-27: Barcelona way out in front already
 - Can you name everybody to play for Arsenal and Nottm Forest since 1992?
 - Can you name the Leeds XI from their 1-0 win against Man Utd, 2002?
 - Can you name everybody to play for Man Utd and Leeds since 1992?
@@ -136,10 +139,8 @@ Generado por `scripts/titulares.py` (workflow `tendencias`). Leídos 26 de 34 me
 - 10 of the sexiest disallowed goals we’d have let stand: Lo Celso, Ronaldo, Keegan…
 - Can you name every Premier League player to be sent off in 2026-27?
 - Comparing Cristiano Ronaldo and Lionel Messi’s stats in 2026 so far: Goals, assists, penalties…
-- Can Lionel Messi reach 1000 goals before Cristiano Ronaldo? It’s not impossible…
-- Florian Wirtz dazzles at last – but Liverpool’s creative struggles remain stark
 
-**FourFourTwo** (23)
+**FourFourTwo** (21)
 - Keira Walsh targeting the last trophy missing in her collection
 - Britt Assombalonga on what it meant to sign for Nottingham Forest after his teenage rejection
 - Watch Nottingham Forest vs Arsenal: Live streams and TV info
@@ -154,213 +155,199 @@ Generado por `scripts/titulares.py` (workflow `tendencias`). Leídos 26 de 34 me
 - Michael Owen on his passion for horses and his drive to make his Manor House stables the best
 
 **Yahoo** (40)
-- Emiliano Martinez injury latest update: Chelsea&#39;s Argentine star undergoes successful surgery
-- ✅Barça confirm injuries to Eric García and Jules Koundé
-- Shaw scores twice as Manchester City beat Brighton &#038; Hove Albion
-- Liverpool could turn to £75.9m Bundesliga star
-- Mukiele Gets 7, Danso With 4 | Sunderland Players Rated In Poor Loss Vs Bournemouth
-- Premier League: Arsenal visit Nottingham Forest looking to keep pace at top
-- Giuntoli: ‘Atalanta want clear identity under Sarri, but it’s a process’
-- Richard Hughes&#39; final mistake now looks increasingly clear
-- Calvert-Lewin Gets 7.5, Trafford With 7 | Leeds United Players Rated In Hard-Fought Draw Vs Manchester United
-- Amorim: ‘Milan played better than 4-0 victory in Salzburg, tactics will be clear’
-- Michael Carrick frustrated with draw at Leeds, but Manchester United took a small step forward
-- 🚨Line-ups confirmed: Málaga aim to bounce back against Real Sociedad
+- Amorim: ‘Milan improving and final minutes don’t change that, we spoke to Rabiot’
+- Arsenal grinding out wins with fewer goals, flair: &#39;Extra belief&#39; after title, concerning, or both?
+- Newcastle United Chiefs Break Silence On Jaissle: Can He Fix The Leaky Defence?
+- Proof £116 million Florian Wirtz can still come good at Liverpool
+- Shades of Barca and Beckham - Brighton aim to maintain superb start
+- Gattuso wanted to quit coaching career: ‘I always had a stomachache’
+- World Cup winner turned down move to Liverpool
+- Rabiot and Gila ‘angry’ after Milan threaten to fumble 3-0 advantage
+- Aston Villa’s £30m Warning Sign: Can Emery Replace Lost Experience Under PSR?
+- 😱Back to LaLiga? The Spanish club opening its doors to Sergio Ramos
+- Liverpool will need to trigger €80m clause to sign 25-year-old star
+- Everton’s Failed Striker Signing Draws Juventus Interest: Should Moyes Go Again?
 
 **Google News EN** (40)
 - Brighton 5-0 Crystal Palace | Premier League highlights
-- ‍‍‍~#[LIVE MATCH]#~ Nottingham vs Arsenal ＬＩＶＥ Football Online
 - Scores & Fixtures - Football
-- [[[ABC^Sports]]] Arsenal Nottingham Forest Live Free HS Football 2026
 - Scores & Fixtures - Football
-- Duncan Ferguson: What awaits former Everton and Newcastle striker in shock managerial role with Glentoran?
-- Ben Whiteman responds to Preston boos as Wrexham ease pressure
-- 'It's really not clicking' - Houghton on Arsenal
+- Can Michael Carrick and his headphones silence the noise around Man Utd?
+- Highlights - WSL - Chelsea 6-2 Tottenham
 - Premier League: Leeds 1-1 Man Utd: Michael Carrick post-match interview
-- Premier League: Bournemouth 2-0 Sunderland - Marco Rose post match interview
-- Premier League: Daniel Farke post-match interview
-- Premier League: Bournemouth 2-0 Sunderland: Regis Le Bris post-match interview
+- Premier League: Brighton & Hove Albion 5-0 Crystal Palace - Pierre Sage post match interview
+- Nottingham Forest v Arsenal ratings: Which Arsenal player failed to make the grade at the City Ground?
+- Free-scoring Brighton continue to impress and entertain as they thrash Palace
+- Bournemouth 2-0 Sunderland: What Le Bris and Mukiele said
+- The Football Hub 2026/27: Fan reaction as Arsenal edge out Forest, Brighton blast five and Man Utd held at Leeds
+- Leeds vs Man Utd player ratings: Dominic Calvert-Lewin denies Man Utd - who rated highest?
 
 **AS** (27)
-- Celta - Alavés, hoy en directo, última hora de LaLiga EA Sports en vivo
+- Real Madrid - Sevilla, en directo: última hora de LaLiga EA Sports, hoy en vivo
+- Málaga 2-5 Real Sociedad: resumen, goles y resultado
+- Latigazo a la Premier
+- Polémica, análisis y reacciones del Real Madrid - Sevilla de LaLiga EA Sports
+- Ángel Torres abre la puerta a Sergio Ramos
+- Eric, KO; Koundé, baja para el PSG
+- Resumen y goles del Girona vs. Andorra, jornada 10 de LaLiga Hypermotion
+- Burgos - Sabadell, en directo: LaLiga Hypermotion, hoy en vivo
+- Juventus - Lazio, en directo: Serie A, hoy en vivo
+- Invencible Chema Andrés
+- Un Milán combativo ganó en San Siro
 - Exhibición de Nico Paz
-- Granada - Cádiz en directo: LaLiga Hypermotion hoy en vivo
-- Real Madrid - Sevilla hoy, en directo: LaLiga EA Sports en vivo, última hora en el Bernabéu
-- Nottingham Forest - Arsenal, en directo: Premier League, hoy en vivo
-- Primera RFEF hoy, en directo: resultados y partidos de la jornada 8, grupos 1 y 2, en vivo
-- Resumen y goles del Brighton vs Crystal Palace, jornada 7 de Premier League
-- El United no levanta cabeza
-- El Barça naufraga en Zubieta
-- Este Castilla tiene Ángel
-- ¡Arrasate, qué bueno que volviste!
-- El Oviedo se complica la sobremesa
 
 **Mundo Deportivo** (40)
-- Málaga - Real Sociedad, en directo | Sigue el partido de LaLiga EA Sports, en vivo
-- Primer triunfo del Bournemouth en esta Premier
-- El golazo de Diego Gómez que asombra en Inglaterra
-- Matarazzo plantea siete cambios y modifica el esquema para medirse al Málaga
-- Digne ya sabe cómo las gasta Lamine
-- El Brighton golea al Crystal Palace en el derbi de la M23
-- Real Valladolid - Eldense, en directo | LaLiga HyperMotion de fútbol: Segunda división
-- Girona - Andorra, en directo | LaLiga HyperMotion: Segunda división de fútbol
-- 3-2: El Castilla hace un fortín del Di Stéfano ante el Antequera
-- Arrasate: "Quiero acordarme del cuerpo técnico anterior, hemos aprovechado cosas. Esta victoria también es de ellos"
-- 1-3: El Como supera a una Fiorentina en crisis
-- Javi Rodríguez amplía ventajas en Balaídos
+- Real Madrid - Sevilla, en directo | Sigue el partido de LaLiga EA Sports, en vivo
+- Concluye la jornada en el grupo 2 de Segunda Federación
+- Rubén Albés, fulminado del Leganés
+- 2-5: El manicomio de la Real Sociedad pasa por encima al Málaga
+- Jutglà: "Nos merecíamos esta victoria"
+- El Milan pasa de golear a pedir la hora
+- Festival de golazos entre el Málaga y la Real Sociedad en La Rosaleda
+- Eric: "Me da rabia y pena no poder estar"
+- RMTV, con todo a por Tebas: "Es el que realmente manda en la Federación"
+- 4-0. El Atlético baila al Madrid CFF, bajo la lluvia, al son de Celia Segura
+- Burgos - Sabadell, en directo | LaLiga Hypermotion
+- El Oviedo certifica su buen momento con una nueva victoria ante un alicaído Ceuta
 
 **Google News ES** (40)
-- ~!$(Fútbol@TV) Racing Club vs Independiente Fútbol Transmisión en vivo gratis Reddit
-- ~$$【EN DIRECTO】 Racing Club vs Independiente | Fútbol en vivo | Gratis
-- ~$$【EN VIVO】 Racing Club vs Independiente Fútbol Transmisión en vivo gratis por Reddit
-- !+【FÚTBOL】Celta de Vigo vs. Alavés en vivo en televisión, canal 18 de octubre de 2026
-- ~![TRANSMISIÓN]* Alavés vs Celta fútbol en vivo gratis 18 de octubre 2026
-- 🟤 FÚTBOL ONLINE: Alavés vs Celta Vigo EN VIVO EN DIRECTO vía Tv Azteca
-- [TV gratis] Jaguars vs Texans fútbol en vivo 18 de octubre
-- [[FÚTBOL]] Celta v Alavés ONLINE GRATIS
-- [[FÚTBOL]] Alavés vs Celta de Vigo Ｅｎ Ｖｉｖｏ Ｏｎｌｉｎｅ ｔｒａｎｓｍｉｓｓãｏ 18 de octubre ２０２６
-- 🟤[FÚTBOL-ONLINE] Celta Vigo - Deportivo Alavés transmisión en vivo La Liga de España 2026 online
-- [Transmisión en vivo] Jaguars vs Texans fútbol en directo y gratis
-- [VER EN-LÍNEA]TV!] Leeds vs. Manchester Utd: Transmisión en directo (fútbol) por televisión, 18 de octubre de 2026
+- $[VER EN VIVO]ESPN@] Real vs Sevilla Transmisiones de fútbol en vivo gratis
+- 🟤 FÚTBOL ONLINE: Sevilla vs Real EN VIVO EN DIRECTO vía Tv Azteca
+- ((((EN-VIVO))) Real Madrid FC vs Sevilla Fútbol Ｅｎ Vivo Gratis
+- [[FÚTBOL]] Sevilla FC V Real Madrid EN VIVO y ONLINE 18 de octubre 2026
+- ¥((VER EN VIVO===)) Real Madrid vs Sevilla Fútbol En vivo directo gratis 18 de octubre de 2026
+- 🟤 FÚTBOL ONLINE: Real Madrid CF - Sevilla FC En Vivo Online Jogo Tv| 18 de octubre 2026
+- [["TRANSMISIÓN EN VIVO"]]HQ!!] Partido de fútbol en vivo gratis en línea Real Madrid vs Sevilla, 18 de octubre de 2026
+- [!VER AHORA!] Real Madrid vs Sevilla Fútbol en directo y en vivo 18. Oktober 2026
+- [[FÚTBOL]] Real Madrid Football Club vs Sevilla EN DIRECTO GRAITS
+- VER-PARTIDO@: Real Sociedad de Fútbol vs Málaga EN VIVO GRATIS La Liga de España 2026 futbol 18 de octubre 2026
+- ++⚽️[VER-GRATIS]TV!! Málaga vs Real Sociedad de Fútbol EN VIVO ONLINE GRATIS
+- !$+[En^&Directo@tv!!] Real Sociedad de Fútbol vs Málaga CF en vivo gratis La Liga de España 2026 18 de octubre 2026
 
 **Gazzetta** (0)
 
 **Football Italia** (20)
 - Serie A Liveblog: Fiorentina-Como, Milan-Atalanta, Juventus-Lazio
+- Amorim: ‘Milan improving and final minutes don’t change that, we spoke to Rabiot’
+- Gattuso wanted to quit coaching career: ‘I had stomachache’
+- Rabiot and Gila ‘angry’ after Milan threaten to fumble 3-0 advantage
+- Serie A | Milan 3-2 Atalanta: Rabiot inspiration before risky final stretch
+- Official: Eintracht Frankfurt release Milan-linked director Krösche
+- Serie A official line-ups: Juventus vs. Lazio
+- Report De Zerbi targets Endrick and a new Italian arrival at Tottenham
+- Man Utd extend winless run ahead of Como clash, but Conte still unlikely to replace Carrick
+- Fabregas: ‘No such thing as perfect tactics, we’ll have to see about Chalobah’
 - Liberali: ‘I’m seeing a lot of good young Italians, Fabregas lets me do my thing’
 - Giuntoli: ‘Atalanta want clear identity under Sarri, but it’s a process’
-- Amorim: ‘Milan played better than 4-0 victory in Salzburg, tactics will be clear’
-- Serie A | Fiorentina 1-3 Como: Liberali celebrates first Serie A goal
-- Serie A official line-ups: Milan vs. Atalanta
-- Why it took so long for referees to rule Pongracic equaliser offside against Como
-- Totti: ‘I might’ve won the Ballon d’Or at Real Madrid, I’d play for Roma on Saturday’
-- Allegri did not lead Napoli training after Venezia loss and faces increasing risk of sack
-- Official: Lazio confirm squad list of 24 players take on Juventus in Serie A
-- Fabregas and Vanoli outline Fiorentina vs. Como dangers
-- Udinese reflecting on Runjaic future after 3-0 Lecce defeat
 
 **Kicker** (20)
-- FC Paris - Rennes: Tor zum 1:1 durch Lepaul in der 29. Minute
-- FC Paris - Rennes: Tor zum 1:1 durch Lepaul in der 29. Minute
-- Später Doppelschlag als Knotenlöser: Oldenburg bleibt oben dran
-- Vigo - Alaves: Tor zum 2:0 durch Javi Rodriguez in der 71. Minute
-- FC Paris - Rennes: Tor zum 1:0 durch Lopez in der 14. Minute
-- Vigo - Alaves: Tor zum 1:0 durch Jutgla in der 53. Minute
-- Maza verzückt, Schick stellt Rekord auf: Bayer gewinnt Topspiel gegen Freiburg
-- Die Luft wird dünner für Carrick: Auch in Leeds kein Sieg für ManUnited
-- "Blamabel", "grottenschlecht", "katastrophal": Lilien fassungslos nach "Nicht-Leistung"
-- "Richtig geiles Gefühl" für die Bayern, "Scheißtag" für die Löwen
-- Harte Schalker Selbsturteile - und die Erkenntnis bei Dzeko
-- Nürnberg hilft zweimal mit: Union baut Siegesserie aus
+- Blessin wird deutlich: "Wir brauchen keine Duckmäuser"
+- Pflichtaufgabe erfüllt: Wolfsburg macht es bei Schlusslicht Mainz deutlich
+- "Zocken im Käfig": Maza erklärt Zauber-Assist, Schick nimmt ein Duo ins Visier
+- "Total ärgerlich": Schuster hadert mit den Gegentoren
+- LIVE! Vor Leipzig und dem Clasico: Real startet mit Endrick gegen Sevilla
+- Malaga - San Sebastian: Tor zum 2:5 durch Goncalo Guedes in der 73. Minute
+- Emotionaler Jubel: Noß wollte "ein Zeichen setzten"
+- Duman: "Würde gerne mit der Viktoria in der 2. Liga spielen"
+- MCF - Real Sociedad: Tor in der 67. Minute
+- MCF - Real Sociedad: Tor in der 66. Minute
+- Malaga - San Sebastian: Tor zum 1:3 durch Oyarzabal in der 59. Minute
+- Milan - Atalanta: Tor zum 3:2 durch Krstovic in der 81. Minute
 
 **L'Equipe** (40)
-- « Arrêtez de faire les choqués » : la compagne de Lucas Digne relativise les débordements du 17 octobre et préfère s'indigner pour d'autres 
-- Vive le turnover : Fonseca renverse encore la table
-- Ojeda : «Griezmann rend le football plus facile»
-- Crystal Palace et Pierre Sage giflés par Brighton, Manchester United lâche encore des points en Premier League
-- Après une entame manquée, l'OM se reprend à Angers et enchaîne une deuxième victoire en Ligue 1
-- Nos combats sans conséquences
-- Les Marseillaises arrachent le nul au buzzer face à Fleury et restent invaincues
-- Coup dur pour le PSG : Nuno Mendes forfait pour le choc contre le FC Barcelone en Ligue des champions
-- Le but casquette qui permet à Angers de prendre les devants contre l'OM en Ligue 1
-- Le but depuis le milieu de terrain de Diego Gomez d'une frappe splendide face à Crystal Palace en vidéo
-- Pour Pasalic, la « magie européenne » de Griezmann fait passer à un autre niveau
-- De Zerbi : «Richarlison n’est plus mon problème»
-
-**Foot Mercato** (40)
-- OM : la résurrection d’Igor Paixão ravit Bruno Genesio !
-- Barça : deux absences confirmées pour le choc face au PSG
-- JT Foot Mercato : terrible nouvelle pour le PSG
-- Crystal Palace : Pierre Sage a été «bombardé» d’insultes
-- Le LOSC prend la parole après le saccage de sa boutique lors des manifestations
-- AC Milan : la prolongation d’Adrien Rabiot est sur la table
-- Angers - OM : les notes du match
-- OM : la réaction à chaud de CJ Egan-Riley
-- PL : nouveau dauphin, Brighton explose Crystal Palace et Pierre Sage avec une Manita, MU frustré par Leeds United
-- Ligue 1 : l’OM déroule à Angers et poursuit sa remontée au classement
-- Le gros dérapage de Sérgio Conceição sur l’Arabie saoudite
-- Paris FC - Rennes : les compositions officielles
+- Les notes de Lorient-Monaco : Sylla provocant, Abline décevant
+- Coppola : «Le match le plus beau de ma carrière»
+- L'AC Milan se fait peur mais s'impose face à l'Atalanta, Rabiot décisif
+- Endrick titulaire pour la première fois de la saison avec le Real Madrid face au Séville FC
+- Après OL-Crystal Palace, Paulo Fonseca fait huit changements pour OL-Nice
+- Les notes de Paris FC-Rennes : Sinayoko-Lepaul, duel au sommet
+- Les notes de Le Havre-Auxerre : Faivre et Namaso régalent devant
+- Sturm Graz cartonne en Championnat avant de recevoir l'OM en Ligue Europa
+- Avant de recevoir l'OL en Ligue Europa, l'agressif Hoffenheim s'impose à 'Gladbach
+- La jolie bicyclette de Lassine Sinayoko avec le Paris FC face à Rennes en vidéo
+- Arsenal s'en sort bien et s'impose à Nottingham en Premier League
+- Retourné acrobatique, triplé de Lepaul sur penalty, but à la dernière minute... le Paris FC monte sur le podium après un match totalement fo
 
 **Record** (20)
-- <![CDATA[ «Quando se tem craques como Prestianni e Schjelderup a ganhar pouco, o Benfica tem de reconhecer a nível financeiro o estatuto des
-- <![CDATA[ Já nasceu o segundo filho de Bernardo Silva e Inês Degener Tomaz ]]>
-- <![CDATA[ Nottingham Forest-Arsenal, em direto ]]>
-- <![CDATA[ Sporting e Amora prestam homenagem a Duarte Martins ]]>
-- <![CDATA[ Gent eliminado da Taça da Bélgica antes da visita ao Sp. Braga ]]>
-- <![CDATA[ Afonso Jesus não quer facilitismos frente à Roménia: «Muito importante estarmos ao melhor nível» ]]>
+- <![CDATA[ Benfica vence Real e mantém invencibilidade  ]]>
+- <![CDATA[ Sérgio Ferreira e a derrota com o Tondela: «Estamos de luto» ]]>
+- <![CDATA[ Ricardo Costa: «Normalmente, aquele remate do Carraça iria matar uma pomba...» ]]>
 - <![CDATA[ Domingo gordo de Taça: siga todos os resultados dos jogos da 3.ª eliminatória em direto ]]>
-- <![CDATA[ Benfica goleia Marítimo na estreia de Ana Borges ]]>
-- <![CDATA[ Pote titular na derrota caseira da Fiorentina diante do Como ]]>
-- <![CDATA[ Milan-Atalanta, em direto ]]>
-- <![CDATA[ Manchester United tropeça pelo sexto jogo consecutivo e pode ficar mais perto da linha de água ]]>
-- <![CDATA[ Maja Chwalinska vence WTA 1.000 de Wuhan ]]>
+- <![CDATA[ A crónica do Tondela-Alverca, 2-0: beirão sem gelo ]]>
+- <![CDATA[ Tiago Santos quebra o silêncio após sofrer nova lesão grave: «Já sei o que é lutar» ]]>
+- <![CDATA[ Lucas Russo: «Estou no Fátima desde pequeno, ainda não conheci outro clube» ]]>
+- <![CDATA[ Sporting vence Torreense (3-2) e é o novo líder da Liga BPI ]]>
+- <![CDATA[ Nuno Kata: «A minha equipa conseguiu aguentar» ]]>
+- <![CDATA[ Messi vai participar num evento em Espanha e os bilhetes voaram... em 13 minutos ]]>
+- <![CDATA[ Real Madrid-Sevilha, em direto ]]>
+- <![CDATA[ Benitez e a saída do 'Servir o Benfica': «Nunca pensei que querer unir pudesse ser motivo para excluir» ]]>
 
 **Ole** (10)
-- La escalada de Merentiel en la historia de Boca y la certeza de ser el hombre-gol del equipo
-- Ya es uno de los nuestros: Haaland le agradeció a tres argentinos de la Selección por enseñarle a tomar mate
-- ¿Por qué María Becerra hará cambiar los planes de este Instituto histórico?
-- Buenas noticias: Dibu Martínez fue dado de alta tras ser operado por una fractura de mandíbula
-- Tras la práctica, Boca viaja a Río: la decisión del Vasco que alimenta la ilusión
-- A qué hora se juega Belgrano vs. River y cómo ver hoy EN VIVO el Torneo Clausura
-- Otro lesionado de Selección: Cuti Romero, afuera por una molestia en el aductor
-- Excursionistas o Arsenal: el ascenso directo a la Primera Nacional no sale de ahí
-- Tata Martino, rendido ante Messi tras la derrota de su Atlanta United: "No hay ningún motivo para pensar que nosotros vamos a poder neutrali
-- Alarma: Lisandro Martínez no salió a jugar el segundo tiempo ante el Leeds y el Manchester United sigue sin ganar
+- La prueba de Olé: fue gol de Zaracho en el clásico de Avellaneda
+- Boca se subió al avión y ya está camino a Río
+- El gran registro de Nico Paz en la vigente Serie A
+- Video: Mastantuono tiró al piso a su DT al festejar y el gol fue anulado
+- Todos juntos: Boca viaja a Río con Paredes y hasta los lesionados para buscar la final ante Vasco
+- De jugar con Messi en el Inter Miami a meter un golazo de mitad de cancha en la Premier League
+- Video: los mejores momentos del clásico entre Racing e Independiente
+- Kily González, sobre Messi y el desafío de los 1000 goles: "Confío y sé que lo va a lograr"
+- Instituto inició acciones legales para evitar que se difundan fotos de Claudio Barrelier con prendas del club
+- ¿Dios lo ayuda? San Martín de Formosa recibió a Dani Alves antes de la semi por el ascenso
 
 **Infobae** (40)
+- Racing se impone sobre Independiente en el Cilindro en una nueva edición del clásico de Avellaneda
 - River Plate visitará a Belgrano con la obligación de ganar para meterse en zona de playoffs del Torneo Clausura: hora, TV y formaciones
-- Racing e Independiente se enfrentarán en el Cilindro en una nueva edición del clásico de Avellaneda: hora, TV y formaciones
+- Se subasta una pieza de Alpine usada en una carrera de F1: su valor y dónde se consigue
+- Una figura de la Fórmula 1 sorprendió con una Ferrari de 1.050 caballos en las calles de Mónaco: su impactante valor
+- El majestuoso yate que compró Lionel Messi: cuatro camarotes, sauna y garage para motos acuáticas
+- Nico Paz brilló con un gol en el triunfo del Como contra Fiorentina: gran definición de cabeza y la patada contra Franco Mastantuono
+- Fue mamá, dejó el fútbol profesional durante 7 años y volvió para firmar una página histórica en la Copa Libertadores femenina
+- La foto de Erling Haaland con un mate que se hizo viral: la especial dedicatoria para tres jugadores de la selección argentina
 - Estudiantes se enfrentará a San Lorenzo antes del decisivo cruce con Flamengo por las semis de la Libertadores: hora, TV y formaciones
 - Definición “de caño” tras una doble pared y corrida desde la mitad de cancha: los dos goles de Messi en el triunfo del Inter Miami
 - La increíble pelea por el título entre un boxeador 20 centímetros más alto que su rival que se definió por nocaut en el último segundo: “Fue
 - Qué dice el último parte médico sobre el estado de salud del Dibu Martínez luego de su operación por la fractura de mandíbula
-- Murió el militar que cayó desde las vigas del Alamodome durante un rápel fallido antes del partido UTSA-Navy
-- La promesa del tenis que superó un tumor, sufrió la pérdida de su padre y encontró en su mamá el sostén para soñar con ser profesional
-- Los detalles de la separación de una figura del Manchester United con una modelo a un año de haberse casado: “Fue un infierno”
-- Quedó en silla de ruedas tras un grave accidente en moto y ahora sueña con competir en el Rally Dakar
-- "Patada escorpión": la espectacular definición de un argentino en la MLS que se candidatea como el mejor gol del año
-- La trama del luchador que “arruinó su carrera en 8 segundos”: se negó a saludar al presidente de UFC y sufrió un impactante nocaut
 
 **Google News AR** (40)
+- Un militar de EE.UU. murió al caer más de 30 metros durante una exhibición antes de un partido de fútbol americano
 - Fin del fútbol gratis en el Ascenso: la AFA confirmó el precio de LPF Play
+- Brilló en cuatro equipos del fútbol argentino y a los 41 años sigue haciendo goles
+- Caída contra Lanús por la fecha 13
+- República Dominicana reitera que Haití no jugará fútbol en su territorio
 - Río Negro: una árbitra de 24 años iba en su moto a dirigir un partido de fútbol amateur, chocó contra un poste de luz y murió
+- Conmoción en Río Negro: murió una joven árbitra de fútbol en un accidente cuando iba a dirigir
 - ¿El fin de las tarjetas en el fútbol? La novedosa tecnología que probaron en Uruguay
-- “Se critica la estructura del fútbol argentino pero es la que permite que crezcan los clubes chicos”
+- Copa bidepartamental
 - Football Academy Simulator, el nuevo juego de fútbol en el que hay que gestionar la cantera, cuidar el césped
-- Un militar de EE.UU. cayó más de 30 metros durante una exhibición antes de un partido de fútbol americano
-- Con el clásico de Avellaneda y la visita de River en Córdoba, así será el super domingo del fútbol argentino
-- Rosario Central y Vélez siguen firmes en la pelea por la punta de la tabla anual
-- Día de la Madre: los mensajes de los clubes del fútbol argentino
-- Insólito robo en Francia: saquearon un museo de fútbol y se llevaron dos objetos históricos de Lionel Messi
-- Michlig participó del III Congreso de Fútbol Formativo desarrollado en el Club Atlético Unión de Santa Fe Deportes
-- Chacinar sumará un desafío futbolístico que reunirá a campeones y figuras históricas del fútbol tandilense
+- Conmoción en el fútbol: murió una árbitra de 24 años cuando viajaba en moto para dirigir un torneo amateur
+- Fútbol: San Jorge perdió de local – Centro se recuperó en Balnearia
 
 **ge.globo** (40)
-- Nottingham Forest x Arsenal - Campeonato Inglês 2026/27 - Ao vivo - globoesporte.com
-- Assista à NFL ao vivo: Jacksonville Jaguars 21 x 24 Houston Texans
-- Evanilson marca, chega a 100 gols na carreira e Bournemouth vence a primeira no Inglês
-- Andreas Pereira pede desculpas por expulsão no Palmeiras e se explica: "Foi um instinto meu"
+- Real Madrid x Sevilla - Campeonato Espanhol 2026/27 - Ao vivo - globoesporte.com
+- Treino do Palmeiras: Abel prepara mudanças na escalação contra o Fluminense na Libertadores
+- Arsenal vence o Nottingham Forest com gol de Madueke na Premier League
 - United sai na frente, leva o empate do Leeds e não consegue afastar a crise
-- Visitante indigesto no Brasileirão, Flamengo tenta retomar boas memórias na Fonte Nova
-- Jogadores do Vasco admitem cansaço em sequência, mas viram chave para duelo contra o Boca
-- Tiquinho e Matheus Martins contam como gol do Botafogo sobre a Chape nasceu um dia antes
-- Castillo recebe nova chance no Fluminense em momento em que o time precisa de gols
-- Campeonato Potiguar Feminino tem goleada por 18 a 0 na abertura
-- Jorginho volta ao Flamengo após suspensões; veja retrospecto com e sem o volante
-- "Olhar para cima": São Paulo se afasta do Z-4 e começa a fazer contas de olho na Libertadores
+- Scarpa vira destaque em TV da Rússia, encontra Galeitura e recebe presente de escritora
+- Paredes é relacionado pelo Boca para semifinal da Sul-Americana contra o Vasco
+- Monaco perde a primeira com Filipe Luís, e PSG encosta no Campeonato Francês
+- Houston Texans vence Jacksonville Jaguars com field goal no último segundo
+- Texans vencem os Jaguars com field goal no último segundo e lesão bizarra de juiz da NFL
+- Grêmio x Cruzeiro terá integrantes de comissão técnica da Seleção
+- NBB: Flamengo perde para o Bauru na estreia com cesta no último segundo
+- Evanilson marca, chega a 100 gols na carreira e Bournemouth vence a primeira no Inglês
 
 **r/soccer (top día)** (25)
 - Fan angle of Yamal’s Golazo against Real Betis
 - Alternative angle of Martín Ojeda's (Great Goal) against D.C. United
-- Real Betis 0 - [1] Barcelona - Lamine Yamal 10' (Great Goal)
 - [Sky Germany] Some people in UEFA and DFB are considering David Beckham as a challenger to Infantino in the FIFA elections. Beckham has cred
+- Referee pulls out a red card for Nwaneri by mistake, quickly changes it to yellow
 - [Trigger Warning] Mikel Merino says changing seats may have saved his life in the 2017 Borussia Dortmund bus bombing: his legs felt tight, s
-- [DAZN] Alternate angle of Bernal red card
+- Olise fakes taking a quick corner, catching Raum off guard
+- Great Goal in Amateur Japanese Game (Recorded from the Moon)
 - AS Roma [1] - 0 Genoa - Santiago Castro 50' (GREAT GOAL)
+- [DAZN] Alternate angle of Bernal red card
+- Brighton [2] - 0 Crystal Palace - Diego Gomez 7'
 - Atlanta Utd 0 - [3] Inter Miami - Lionel Messi 60'
-- [Opta] Florian Wirtz is the first player to create nine or more chances from open play in a Premier League game since Sadio Mané against Bur
-- Jose Mourinho says he would have left Real Madrid this summer if he was in Vinicius Jr.’s place: "Last summer I would have forced my exit to
-- Orlando City [2]-0 DC United | Martin Ojeda 22' (outrageous finish)
-- Atlanta Utd 0 - [2] Inter Miami - Lionel Messi 56'
+- Manchester United are winless in their last 6 games
 
-Fallaron: ESPN (ParseError), Goal (HTTPError), Independent (ParseError), Football365 (HTTPError), Marca (HTTPError), Sport (HTTPError), Calciomercato (HTTPError), TN (HTTPError)
+Fallaron: ESPN (ParseError), Goal (HTTPError), Independent (ParseError), Football365 (HTTPError), Marca (HTTPError), Sport (HTTPError), Calciomercato (HTTPError), Foot Mercato (HTTPError), TN (HTTPError)
