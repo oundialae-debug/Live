@@ -9,5 +9,8 @@
  "musica": "hh07",
  "variante": "seg=5.0;arranque=s0;hook=pregunta;musica=hh07;formato=auto_noticia;hora=18",
  "notas": "noticia automática (IA + reglas): BBC: 'I had so many medals under the bed' - Green on Chelsea success; Guardian: Everton v Chelsea: Premier League – live",
- "titulo": "Chelsea vs Everton: line‑ups and top‑four chase"
+ "titulo": "Chelsea vs Everton: line‑ups and top‑four chase",
+ "estado": "enviado",
+ "buffer_id": "6ad4eec20a208cb32371bd20",
+ "dueAt": "2026-10-18T16:10:29+00:00"
 }
