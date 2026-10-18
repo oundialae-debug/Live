@@ -252,3 +252,12 @@
 - Yahoo: Roma ultras thanked Mourinho before Real Madrid clash: ‘You gave us back the ability to dream’
 - Yahoo: Stats: Shocking numbers behind Vinicius Jr.’s finishing problems at Real Madrid
 
+## 18/10 18:07 · United get injury boost · revisar
+- Motivo: categoría sensible: injury
+- Temas: Leeds
+- Planet Football: Planet Football Weekend Quiz: Mbappe, Lisandro Martinez, Messi, Leeds vs. Man Utd…
+- Google News EN: Leeds news: Farke splits with agent as contract talks progress
+- Yahoo: Manchester United receive injury boost ahead of Leeds United clash
+- Yahoo: Leeds vs Manchester United betting preview: Prediction, betting tips & best odds
+- Yahoo: Leeds United Eye 22-Year-Old Striker For January: Should Farke Sign Him Or Target An Experienced Backup?
+
