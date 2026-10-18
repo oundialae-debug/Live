@@ -243,3 +243,12 @@
 - Infobae: Kily González confirmó que Lionel Messi viajará a Europa para recibir un premio después del próximo partido del Inter Miami
 - Yahoo: Serie A | Bologna vs. Inter: Probable line-ups and where to watch on TV
 
+## 18/10 13:37 · Mourinho sparks Real Madrid feud · revisar
+- Motivo: sin foto buena con cara visible
+- Temas: Madrid, Mourinho
+- Mirror: Real Madrid demand La Liga chief Javier Tebas quits after Nazi comparison
+- Mirror: Arsenal news: Real Madrid deal transfer blow as secret meeting comes to light
+- Yahoo: Real Madrid talisman has missed most big chances in Europe’s top five leagues
+- Yahoo: Roma ultras thanked Mourinho before Real Madrid clash: ‘You gave us back the ability to dream’
+- Yahoo: Stats: Shocking numbers behind Vinicius Jr.’s finishing problems at Real Madrid
+
