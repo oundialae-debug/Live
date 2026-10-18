@@ -261,3 +261,12 @@
 - Yahoo: Leeds vs Manchester United betting preview: Prediction, betting tips & best odds
 - Yahoo: Leeds United Eye 22-Year-Old Striker For January: Should Farke Sign Him Or Target An Experienced Backup?
 
+## 18/10 23:45 · Brighton Thrash Crystal 5-0 · revisar
+- Motivo: sin foto buena con cara visible
+- Temas: Crystal
+- Google News AR: Brighton and Hove vs. Crystal Palace, EN VIVO: dónde ver por TV y ONLINE
+- Sky Sports: Brighton vs Crystal Palace team news LIVE!
+- FourFourTwo: Watch Brighton vs Crystal Palace: Live streams and TV channels
+- Guardian: Gómez halfway-line wondergoal sparks Brighton’s 5-0 thrashing of sorry Crystal Palace
+- talkSPORT: Brighton star scores outrageous goal of the season as Seagulls tear rivals Crystal Palace apart
+
