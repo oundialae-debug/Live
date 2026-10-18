@@ -1,25 +1,31 @@
-# Alertas de noticias (2026-10-18 11:36 UTC)
+# Alertas de noticias (2026-10-18 16:05 UTC)
 
 Temas en >= 7 medios. La rutina diaria y cualquier sesión deben mirar esto ANTES de elegir tema (regla 6: la noticia que todos comentan va primero).
 
 ## Grandes SIN publicar en las últimas 48 h (hacer post si pasa el listón: nada repetido, foto del momento)
 
-- **Chelsea** (15 medios): Martinez breaks jaw in Chelsea win at Everton
-- **Liverpool** (12 medios): Liverpool come from behind to beat nine-man Brentford
-- **Manchester** (12 medios): Do Manchester City have any grounds to win their appeal?
-- **Madrid** (12 medios): Jose Mourinho declares Vinicius Jr should have left Real Madrid in summer after failed Arsenal transfer
-- **Martinez** (10 medios): Martinez breaks jaw in Chelsea win at Everton
-- **Everton** (10 medios): Martinez breaks jaw in Chelsea win at Everton
-- **Brentford** (10 medios): Liverpool come from behind to beat nine-man Brentford
-- **Messi** (9 medios): Can Lionel Messi reach 1000 goals before Cristiano Ronaldo? It’s not impossible…
-- **Leeds** (8 medios): Manchester United travel to Leeds; Szoboszlai out for ‘some time’; Emi Martínez thanks fans after surgery – ma
-- **Lamine** (7 medios): Lamine Yamal opens scoring as Barcelona beat Real Betis
-- **Emiliano** (7 medios): Emiliano Martinez update: Chelsea's goalkeeper undergoes surgery and set to be out for weeks - but wife says i
-- **Inter** (7 medios): Today’s Papers: Inter reaction, Roma respond after Real, Allegri rut continues
+- **Leeds** (18 medios): Everything a struggle for Fernandes - Leeds v Man Utd ratings
+- **Palace** (15 medios): My one feeling is shame - Sage on bruising Palace defeat
+- **Chelsea** (14 medios): Martinez breaks jaw in Chelsea win at Everton
+- **Brighton** (14 medios): Kirby 'stressed' by abrupt Vidosic exit from Brighton
+- **Manchester** (14 medios): Do Manchester City have any grounds to win their appeal?
+- **Madrid** (13 medios): Jose Mourinho declares Vinicius Jr should have left Real Madrid in summer after failed Arsenal transfer
+- **Nottingham** (12 medios): Nottingham Forest v Arsenal: Premier League – live
+- **Forest** (11 medios): Nottingham Forest v Arsenal: Premier League – live
+- **Liverpool** (10 medios): Liverpool come from behind to beat nine-man Brentford
+- **Utd** (9 medios): Everything a struggle for Fernandes - Leeds v Man Utd ratings
+- **Martinez** (9 medios): Martinez breaks jaw in Chelsea win at Everton
+- **Carrick** (9 medios): Man Utd showed 'unity' in draw with Leeds - Carrick
+- **Crystal** (9 medios): Gómez halfway-line wondergoal sparks Brighton’s 5-0 thrashing of sorry Crystal Palace
+- **Everton** (8 medios): Martinez breaks jaw in Chelsea win at Everton
+- **Michael** (8 medios): Michael Carrick reveals why Lisandro Martinez was substituted at half-time
+- **Messi** (8 medios): Can Lionel Messi reach 1000 goals before Cristiano Ronaldo? It’s not impossible…
+- **Brentford** (7 medios): Liverpool come from behind to beat nine-man Brentford
+- **Bournemouth** (7 medios): Evanilson swivels his hips to seal Bournemouth win against 10-man Sunderland
+- **Martínez** (7 medios): Martínez back ‘in a few weeks’ after jaw surgery; Liverpool lose Szoboszlai for ‘some time’ – matchday live
+- **Mourinho** (7 medios): Jose Mourinho declares Vinicius Jr should have left Real Madrid in summer after failed Arsenal transfer
 
 ## Grandes ya cubiertas
 
-- Arsenal (10): Gyokeres pushing for Arsenal exit - Sunday's gossip
-- Betis (9): Lamine Yamal opens scoring as Barcelona beat Real Betis
-- Man (8): Boos and bananas on day of defiance at Man City
-- Barcelona (7): Lamine Yamal opens scoring as Barcelona beat Real Betis
+- Arsenal (15): Gyokeres pushing for Arsenal exit - Sunday's gossip
+- Man (10): Everything a struggle for Fernandes - Leeds v Man Utd ratings
