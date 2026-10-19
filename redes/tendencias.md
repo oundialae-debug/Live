@@ -1,20 +1,25 @@
-# Tendencias de fútbol (2026-10-19 13:50 UTC, Google Trends)
+# Tendencias de fútbol (2026-10-19 20:07 UTC, Google Trends)
 
 Generado por el workflow `tendencias`. Úsalo para elegir temas de memes, curiosos y jugador vs jugador.
 
 | País | Búsqueda | Tráfico | Titular |
 |---|---|---|---|
-| UK | martin keown man city ffp | 1000+ | Man City charges: Do Premier League club have grounds for their appeal? |
-| Spain | psg barça | 100+ | « Je ne suis personne pour parler de ce sujet » : Luis Enrique botte en touche au sujet des manifest |
-| Spain | premios princesa de asturias | 100+ | El motivo por el que Leo Messi se irá antes de tiempo de los Premios Princesa de Asturias tras confi |
-| Spain | barça psg | 500+ | Álex Campos, un central adelantado a su tiempo |
-| Italy | albert celades | 200+ | 🚨 End of an era: Cádiz sack Albert Celades as manager |
-| Germany | 1. fc normannia gmünd | 200+ | Oberligist präsentiert neuen Trainer: "Besonders wertvoll" |
-| France | onze d'or | 1000+ | "J'ai envie de vraiment comprendre le jeu": les confidences de Mbappé sur ses axes de progression |
-| France | kate scott | 200+ | De CBS au Ballon d'Or : Thierry Henry sera maître de cérémonie au côté de Kate Scott |
-| USA | penn state nittany lions football | 500+ | Carr leads Michigan over Penn State after Underwood benched |
-| Argentina | dia mundial del cancer de mama | 100+ | Cinco mitos sobre el cáncer de mama que pueden retrasar la consulta y cómo reconocer las señales par |
-| Portugal | dro fernández | 200+ | L'Équipe: los minutos de Dro en el PSG generan 'problemas' en el vestuario de Luis Enrique |
-| Portugal | jaime faria | 500+ | Jaime Faria faz história no ténis português |
-| Portugal | florentino pérez | 2000+ | Florentino Pérez já tem treinador escolhido caso José Mourinho falhe no Real Madrid, avança o 'Sport |
-| Mexico | barca vs psg | 100+ | Luis Enrique: "These are two great clubs with a fantastic playing style" |
+| UK | cristiano ronaldo national team walkout | 500+ | Ronaldo handed 30-day suspension by Portuguese FA |
+| UK | omar marmoush | 200+ | Tottenham v Coventry - Premier League live updates as James Maddison scores a brilliant opener for T |
+| UK | torino fc | 200+ | LIVE Alle 20.45 Parma-Torino, le ufficiali: Gila con Romero-Touré, Simeone guida i granata |
+| UK | solanke | 500+ | Manchester United 1-1 Tottenham Hotspur: Dominic Solanke strikes late to snatch point for 10 men |
+| UK | de zerbi | 200+ | De Zerbi, è l'alba del nuovo Tottenham? Il viaggio a Marbella, la conferenza alle 9.30... |
+| Italy | psg barcellona | 200+ | L. Enrique: 'Barça squadra più simile al mio Psg' |
+| Italy | serie c | 1000+ | Serie B, serie C e dilettanti, i risultati di tutte le partite |
+| France | trabzonspor - beşiktaş puan durumları | 200+ | Karadeniz'de güç gösterisi! Gözler Mohamed Salah ile Dusan Vlahovic'te |
+| USA | christian pulisic | 200+ | Americans Abroad: Gio Reyna’s resurgence continues against PSG, Christian Pulisic takes a step forwa |
+| USA | cristiano ronaldo portuguese federation suspension | 500+ | Cristiano Ronaldo fined €255, suspended 30 days after Portugal walk-out |
+| Argentina | claudia villafañe | 200+ | Claudia Villafañe mostró un detalle especial de su nieta Roma para el Día de la Madre |
+| Argentina | parma - torino | 500+ | PARMA-TORINO 0-2 (44’PT) LA CRONACA LIVE A CURA DI ANDREA BELLETTI |
+| Brazil | rayo vallecano | 200+ | Getafe vs Rayo Vallecano: Lineups, Prediction, Odds & Bet Builder Tip |
+| Brazil | getafe x | 200+ | Getafe x Rayo Vallecano: Carvajal estreia na 9ª rodada |
+| Brazil | kim jong-un | 1000+ | Coreia do Norte estuda aumentar arsenal na fronteira com a Coreia do Sul, diz irmã de Kim Jong-un |
+| Portugal | rodrigo mora | 200+ | Gasperini sobre Rodrigo Mora: «Ainda é bastante pequeno, precisa de crescer» |
+| Portugal | spurs - coventry city | 1000+ | Spurs vs Coventry LIVE: Premier League score, team news, commentary & updates |
+| Mexico | estadísticas de tottenham contra coventry city | 200+ | Cuándo juegan Tottenham vs. Coventry por la Premier League: equipo, fecha, hora y TV en vivo |
+| Mexico | brock purdy | 200+ | Commanders vs 49ers Picks, Props, Odds, Predictions for Monday Night Football |
