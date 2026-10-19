@@ -270,3 +270,21 @@
 - Guardian: Gómez halfway-line wondergoal sparks Brighton’s 5-0 thrashing of sorry Crystal Palace
 - talkSPORT: Brighton star scores outrageous goal of the season as Seagulls tear rivals Crystal Palace apart
 
+## 19/10 22:08 · Ronaldo suspended for walkout · revisar
+- Motivo: sin foto buena con cara visible
+- Temas: Ronaldo, Cristiano
+- Record: <![CDATA[ Cristiano Ronaldo de pontaria afinada no treino do Al Nassr ]]>
+- BBC: Ronaldo given 30-day suspension and £215 fine by Portuguese FA
+- Guardian: Cristiano Ronaldo receives 30-day suspension and £215 fine over Portugal walkout
+- Sky Sports: Ronaldo punished over Portugal walkout with fine he can pay off in 39 seconds
+- talkSPORT: Cristiano Ronaldo gets meaningless ban and receives miniscule fine for Portugal walkout
+
+## 19/10 22:08 · Haaland buys Abu Dhabi mansion · revisar
+- Motivo: datos que no salen en los titulares: Argentine
+- Temas: Haaland
+- AS: “Haaland es de otro universo; compararse con él parece ridículo”
+- Record: <![CDATA[ Haaland compra mansão de luxo em Abu Dhabi ]]>
+- Ole: Ya es uno de los nuestros: Haaland le agradeció a tres argentinos de la Selección por enseñarle a tomar mate
+- Infobae: La foto de Erling Haaland con un mate que se hizo viral: la especial dedicatoria para tres jugadores de la selección argentina
+- Google News AR: Haaland se sumó a la pasión por el mate y sorprendió con un mensaje para tres argentinos
+
