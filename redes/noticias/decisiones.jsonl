@@ -88,3 +88,5 @@
 {"t": "2026-10-20T17:28+00:00", "estado": "descartar", "temas": ["Liverpool"], "clave": "liverpool-100m-target", "motivo": "importancia 6 < 7"}
 {"t": "2026-10-20T20:49+00:00", "estado": "revisar", "temas": ["UEFA"], "clave": "uefa-fifa-ultimatum", "motivo": "categoría sensible: legal"}
 {"t": "2026-10-20T20:50+00:00", "estado": "publicado", "temas": ["Bayern"], "clave": "bayern-arsenal-clash", "video": "https://raw.githubusercontent.com/oundialae-debug/live/main/media/noticias/2026-10-20_2249_bayern-arsenal-clash.mp4"}
+{"t": "2026-10-20T20:50+00:00", "estado": "descartar", "temas": ["Villarreal"], "clave": "liverpool-villarreal-preview", "motivo": "importancia 6 < 7"}
+{"t": "2026-10-20T20:50+00:00", "estado": "descartar", "temas": ["Coventry"], "clave": "tottenham-coventry-maddison", "motivo": "importancia 5 < 7"}

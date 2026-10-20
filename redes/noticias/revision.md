@@ -333,3 +333,12 @@
 - talkSPORT: Arsenal held secret talks with Mauricio Pochettino as surprise shortlist before hiring Mikel Arteta revealed
 - Daily Mail: The unsustainable trend and underlying deficiency Arsenal have to address if they're to keep winning - and why Eberechi Eze being Mikel Arteta's fall guy is a worrying case of deja-vu, writes ISAAN KHAN
 
+## 20/10 22:49 · UEFA Issues FIFA Ultimatum · revisar
+- Motivo: categoría sensible: legal
+- Temas: UEFA
+- Sky Sports: UEFA demands answers from FIFA over Infantino dealings in urgent letter
+- Yahoo: Three talking points ahead of PSG vs Barcelona | UEFA Champions League
+- Yahoo: UEFA give FIFA two-week ultimatum to release key documents over failed World Cup sell-off plan
+- Mundo Deportivo: La UEFA da un ultimátum a Infantino
+- Kicker: UEFA erhöht Druck: 42 Fragen an Infantino
+
