@@ -1,5 +1,5 @@
 {
- "red": "tiktok",
+ "red": "instagram",
  "hora": "2026-10-20T23:05:53+02:00",
  "tipo": "post",
  "partido": "Paris Saint Germain-Barcelona",
@@ -9,5 +9,7 @@
  "musica": "boom",
  "variante": "seg=2.8;arranque=s1;hook=dato;musica=boom;formato=auto_post",
  "notas": "post-partido automático (futbol-pipeline -6106234, 6 tarjetas)",
- "titulo": "PSG 4-2 Barcelona | Expected goals: 3.7 vs 2.2, PSG created more."
+ "estado": "enviado",
+ "buffer_id": "6ad7d6fe3a9ca84966b5c400",
+ "dueAt": "2026-10-20T21:05:54+00:00"
 }
