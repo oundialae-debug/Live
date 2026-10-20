@@ -1,12 +1,18 @@
 {
- "en_curso": {
+ "en_curso": {},
+ "partidos": {
   "-6106234": {
    "arranque": "s1",
+   "estado": "en_cola",
+   "fecha": "2026-10-20",
+   "hora": "2026-10-20T21:02:37+00:00",
    "musica": "boom",
-   "tarjetas": 6
-  }
- },
- "partidos": {
+   "partido": "Paris Saint Germain-Barcelona",
+   "publicar": "2026-10-20T23:05:53+02:00",
+   "resultado": "4-2",
+   "tarjetas": 6,
+   "video": "https://raw.githubusercontent.com/oundialae-debug/live/main/media/post_partido/2026-10-20_Paris_Saint_Germain_Barcelona.mp4"
+  },
   "-6106248": {
    "arranque": "s0",
    "estado": "en_cola",

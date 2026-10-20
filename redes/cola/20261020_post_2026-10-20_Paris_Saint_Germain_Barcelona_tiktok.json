@@ -1,0 +1,13 @@
+{
+ "red": "tiktok",
+ "hora": "2026-10-20T23:05:53+02:00",
+ "tipo": "post",
+ "partido": "Paris Saint Germain-Barcelona",
+ "text": "PSG 4-2 Barcelona\nExpected goals: 3.7 vs 2.2, PSG created more. Did the better team win?\n\n#football #UCL #PSG #Barcelona #fulltime",
+ "video": "https://raw.githubusercontent.com/oundialae-debug/live/main/media/post_partido/2026-10-20_Paris_Saint_Germain_Barcelona.mp4",
+ "recordatorio": false,
+ "musica": "boom",
+ "variante": "seg=2.8;arranque=s1;hook=dato;musica=boom;formato=auto_post",
+ "notas": "post-partido automático (futbol-pipeline -6106234, 6 tarjetas)",
+ "titulo": "PSG 4-2 Barcelona | Expected goals: 3.7 vs 2.2, PSG created more."
+}
