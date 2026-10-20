@@ -288,3 +288,21 @@
 - Infobae: La foto de Erling Haaland con un mate que se hizo viral: la especial dedicatoria para tres jugadores de la selección argentina
 - Google News AR: Haaland se sumó a la pasión por el mate y sorprendió con un mensaje para tres argentinos
 
+## 20/10 14:01 · PSG‑Barcelona showdown · revisar
+- Motivo: palabra sensible en los titulares: Police
+- Temas: Barcelona
+- talkSPORT: Is PSG vs Barcelona still going ahead? Police ‘lose control’ of riots in France capital
+- Yahoo: French ministry rules out postponement of PSG vs Barcelona amid riots
+- Yahoo: Luis Enrique explains how PSG plan to stop Lamine Yamal ahead of Barcelona clash: ‘We must not let him get the ball’
+- Yahoo: Vitinha praises Lamine Yamal and identifies key battle ahead of PSG vs Barcelona: ‘Best in the world along with Mbappe’
+- Mundo Deportivo: Rueda de prensa de Luis Enrique y Vitinha, en directo: previa y última hora del PSG - FC Barcelona de la Champions League
+
+## 20/10 14:01 · Yamal the phenomenon · revisar
+- Motivo: datos que no salen en los titulares: Europe
+- Temas: Yamal
+- Planet Football: Comparing the stats of the main 2027 Ballon d’Or contenders: Kane, Yamal, Olise, Raphinha, Mbappe…
+- Yahoo: Luis Enrique explains how PSG plan to stop Lamine Yamal ahead of Barcelona clash: ‘We must not let him get the ball’
+- Yahoo: Vitinha praises Lamine Yamal and identifies key battle ahead of PSG vs Barcelona: ‘Best in the world along with Mbappe’
+- L'Equipe: Vitinha avant PSG-FC Barcelone : « Lamine Yamal ? Ce qu'il fait en ce moment, c'est incroyable »
+- L'Equipe: Luis Enrique : «La meilleure manière de défendre devant Yamal, c'est avoir le ballon»
+
