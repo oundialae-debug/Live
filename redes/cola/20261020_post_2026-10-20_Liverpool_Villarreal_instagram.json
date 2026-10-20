@@ -1,0 +1,12 @@
+{
+ "red": "instagram",
+ "hora": "2026-10-20T23:00:37+02:00",
+ "tipo": "post",
+ "partido": "Liverpool-Villarreal",
+ "text": "Liverpool 4-3 Villarreal\nExpected goals: 2.4 vs 1.6, Liverpool created more. Did the better team win?\n\n#football #UCL #Liverpool #Villarreal #fulltime",
+ "video": "https://raw.githubusercontent.com/oundialae-debug/live/main/media/post_partido/2026-10-20_Liverpool_Villarreal.mp4",
+ "recordatorio": false,
+ "musica": "hh04",
+ "variante": "seg=2.8;arranque=s0;hook=dato;musica=hh04;formato=auto_post",
+ "notas": "post-partido automático (futbol-pipeline -6106248, 6 tarjetas)"
+}
