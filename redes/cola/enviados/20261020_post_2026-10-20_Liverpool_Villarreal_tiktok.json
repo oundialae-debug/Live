@@ -9,5 +9,8 @@
  "musica": "hh04",
  "variante": "seg=2.8;arranque=s0;hook=dato;musica=hh04;formato=auto_post",
  "notas": "post-partido automático (futbol-pipeline -6106248, 6 tarjetas)",
- "titulo": "Liverpool 4-3 Villarreal | Expected goals: 2.4 vs 1.6, Liverpool created more."
+ "titulo": "Liverpool 4-3 Villarreal | Expected goals: 2.4 vs 1.6, Liverpool created more.",
+ "estado": "enviado",
+ "buffer_id": "6ad7d5c4652214940f003868",
+ "dueAt": "2026-10-20T21:00:39+00:00"
 }

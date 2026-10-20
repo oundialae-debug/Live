@@ -8,5 +8,8 @@
  "recordatorio": false,
  "musica": "hh04",
  "variante": "seg=2.8;arranque=s0;hook=dato;musica=hh04;formato=auto_post",
- "notas": "post-partido automático (futbol-pipeline -6106248, 6 tarjetas)"
+ "notas": "post-partido automático (futbol-pipeline -6106248, 6 tarjetas)",
+ "estado": "enviado",
+ "buffer_id": "6ad7d5c365cedd57fee643b2",
+ "dueAt": "2026-10-20T21:00:39+00:00"
 }
