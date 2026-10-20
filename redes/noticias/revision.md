@@ -306,3 +306,30 @@
 - L'Equipe: Vitinha avant PSG-FC Barcelone : « Lamine Yamal ? Ce qu'il fait en ce moment, c'est incroyable »
 - L'Equipe: Luis Enrique : «La meilleure manière de défendre devant Yamal, c'est avoir le ballon»
 
+## 20/10 19:28 · Ten Hag slams Ronaldo · revisar
+- Motivo: palabra sensible en los titulares: broken
+- Temas: Hag
+- Guardian: Erik ten Hag accuses Cristiano Ronaldo of ‘letting down’ Manchester United
+- Sky Sports: Transfer Centre LIVE! Ten Hag reveals FIVE players he wanted at Man Utd
+- Sky Sports: Explained: Why there was tension between Ten Hag and Ronaldo
+- Sky Sports: Ten Hag on Man Utd's broken 'promises', wanting Kane and Ronaldo tension
+- talkSPORT: Erik ten Hag eviscerates Cristiano Ronaldo with bombshell claims – ‘he let his team down’
+
+## 20/10 19:28 · City face points hit · revisar
+- Motivo: categoría sensible: legal
+- Temas: Man
+- BBC: Haaland a doubt, Semenyo out - what are Man City's options?
+- talkSPORT: Martin Keown reveals sources have told him when to expert Man City punishment – ‘won’t be as bad as we think’
+- Daily Mail: Man City to face HUGE points deduction which will guarantee relegation - and more could come next season - but they won't be sent down to League Two, insiders tell OLIVER HOLT
+- Daily Mail: No wonder there is frantic hype around Carlos Baleba - desperate Man United know his £70m move HAS to work... and did Man City sell the wrong goalkeeper this summer? IAN LADYMAN on My Football Weekend
+- Daily Mail: Amad Diallo's 'f***ing disgrace' post was targeted at team-mate Lisandro Martinez, suggests Gary Neville: Man United stars are 'launching it' at each other in dressing room mutiny
+
+## 20/10 19:28 · Arsenal eye Pochettino · revisar
+- Motivo: datos que no salen en los titulares: 1
+- Temas: Arsenal
+- Guardian: Bayern and Luis Díaz warm up for Arsenal revenge mission with furious rout of Leipzig | Andy Brassell
+- Sky Sports: Merson: Brighton defeat scared Arsenal – they won’t beat Bayern
+- Sky Sports: London City developing at a rapid rate as Arsenal flop again
+- talkSPORT: Arsenal held secret talks with Mauricio Pochettino as surprise shortlist before hiring Mikel Arteta revealed
+- Daily Mail: The unsustainable trend and underlying deficiency Arsenal have to address if they're to keep winning - and why Eberechi Eze being Mikel Arteta's fall guy is a worrying case of deja-vu, writes ISAAN KHAN
+
