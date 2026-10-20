@@ -1,27 +1,26 @@
-# Alertas de noticias (2026-10-20 12:00 UTC)
+# Alertas de noticias (2026-10-20 17:27 UTC)
 
 Temas en >= 7 medios. La rutina diaria y cualquier sesión deben mirar esto ANTES de elegir tema (regla 6: la noticia que todos comentan va primero).
 
 ## Grandes SIN publicar en las últimas 48 h (hacer post si pasa el listón: nada repetido, foto del momento)
 
-- **Ronaldo** (15 medios): Ronaldo given 30-day suspension and £215 fine by Portuguese FA
-- **Cristiano** (13 medios): Erik ten Hag accuses Cristiano Ronaldo of ‘letting down’ Manchester United
-- **Hag** (12 medios): Erik ten Hag accuses Cristiano Ronaldo of ‘letting down’ Manchester United
-- **Madrid** (12 medios): Trent Alexander-Arnold reaches new Real Madrid low but warned against January transfer
-- **Barcelona** (10 medios): PSG v Barcelona - Europe's most exciting match-up?
-- **Tottenham** (10 medios): Maddison shines on return - Tottenham v Coventry ratings
-- **Manchester** (9 medios): David Squires on … Manchester City sailing into unknown Premier League waters
-- **Erik** (9 medios): Erik ten Hag accuses Cristiano Ronaldo of ‘letting down’ Manchester United
-- **Coventry** (8 medios): Spurs beat Coventry to earn first league win of the season
-- **Liverpool** (8 medios): Liverpool and Man Utd eye Nmecha - Tuesday's gossip
-- **Zerbi** (8 medios): Spurs 'lack confidence' but we are a good team - De Zerbi
-- **Yamal** (8 medios): Will that do? Lamine Yamal conjures another magical spell as Barça pass first test
-- **Arsenal** (8 medios): Papers: Arsenal and Spurs in battle for Brugge striker
-- **Portugal** (8 medios): Cristiano Ronaldo gets meaningless ban and receives miniscule fine for Portugal walkout
+- **Ronaldo** (16 medios): Ronaldo let Manchester United down - Ten Hag
+- **Cristiano** (14 medios): Erik ten Hag accuses Cristiano Ronaldo of ‘letting down’ Manchester United
+- **Hag** (13 medios): Ronaldo let Manchester United down - Ten Hag
+- **Madrid** (13 medios): Trent Alexander-Arnold reaches new Real Madrid low but warned against January transfer
+- **Manchester** (12 medios): Ronaldo let Manchester United down - Ten Hag
+- **Liverpool** (11 medios): Liverpool and Man Utd eye Nmecha - Tuesday's gossip
+- **Arsenal** (11 medios): Vincent Kompany may miss Bayern’s clash with Arsenal due to legs-affecting virus
+- **Barcelona** (9 medios): PSG v Barcelona - Europe's most exciting match-up?
+- **Tottenham** (9 medios): Maddison shines on return - Tottenham v Coventry ratings
+- **Erik** (8 medios): Erik ten Hag accuses Cristiano Ronaldo of ‘letting down’ Manchester United
+- **Bayern** (8 medios): Konsa bullish about Arsenal’s Champions League hopes as Bayern clash looms
+- **Ten** (7 medios): Ronaldo let Manchester United down - Ten Hag
 - **Spurs** (7 medios): Maddison's magic moment for Spurs - 18 months in the making
-- **Brentford** (7 medios): Brentford contact police after rugby ball kicked into stadium during game
+- **Palace** (7 medios): Palace manager Sage facing fight to keep his job
 - **Barça** (7 medios): Will that do? Lamine Yamal conjures another magical spell as Barça pass first test
-- **Lamine** (7 medios): Will that do? Lamine Yamal conjures another magical spell as Barça pass first test
+- **Carrick** (7 medios): Brighton peck Palace and will a point silence the noise around Carrick?
+- **Villarreal** (7 medios): Where to watch Liverpool vs Villarreal? TV channel and how to follow Champions League clash for FREE
 
 ## Grandes ya cubiertas
 

@@ -1,347 +1,361 @@
-# Titulares de fútbol (2026-10-20 11:59 UTC, últimas 36 h)
+# Titulares de fútbol (2026-10-20 17:27 UTC, últimas 36 h)
 
-Generado por `scripts/titulares.py` (workflow `tendencias`). Leídos 25 de 34 medios; fuentes en `redes/fuentes.md`.
+Generado por `scripts/titulares.py` (workflow `tendencias`). Leídos 26 de 34 medios; fuentes en `redes/fuentes.md`.
 
 ## Temas que salen en más medios (la noticia del día está arriba)
 
 | Tema | Nº medios | Medios | Ejemplo |
 |---|---|---|---|
-| Ronaldo | 15 | BBC, Daily Mail, Foot Mercato, FourFourTwo, Google News EN, Guardian, Infobae, L | Ronaldo given 30-day suspension and £215 fine by Portuguese FA |
-| Cristiano | 13 | Daily Mail, Foot Mercato, FourFourTwo, Google News EN, Guardian, Infobae, L'Equi | Erik ten Hag accuses Cristiano Ronaldo of ‘letting down’ Manchester United |
-| Hag | 12 | Daily Mail, Foot Mercato, Google News EN, Guardian, L'Equipe, Mirror, Mundo Depo | Erik ten Hag accuses Cristiano Ronaldo of ‘letting down’ Manchester United |
-| Madrid | 12 | AS, Daily Mail, Foot Mercato, FourFourTwo, Google News AR, Google News EN, Infob | Trent Alexander-Arnold reaches new Real Madrid low but warned against January transfer |
-| Barcelona | 10 | AS, BBC, FourFourTwo, Google News AR, Google News EN, Google News ES, Planet Foo | PSG v Barcelona - Europe's most exciting match-up? |
-| Tottenham | 10 | BBC, Daily Mail, Foot Mercato, FourFourTwo, Google News EN, Guardian, L'Equipe,  | Maddison shines on return - Tottenham v Coventry ratings |
-| Manchester | 9 | Foot Mercato, FourFourTwo, Google News EN, Guardian, Infobae, L'Equipe, Yahoo, r | David Squires on … Manchester City sailing into unknown Premier League waters |
-| Erik | 9 | Daily Mail, Foot Mercato, Google News EN, Guardian, L'Equipe, Mirror, Record, Ya | Erik ten Hag accuses Cristiano Ronaldo of ‘letting down’ Manchester United |
-| Coventry | 8 | BBC, Daily Mail, Foot Mercato, FourFourTwo, Google News EN, Sky Sports, Yahoo, r | Spurs beat Coventry to earn first league win of the season |
-| Liverpool | 8 | BBC, Daily Mail, FourFourTwo, Google News EN, Mirror, Yahoo, r/soccer (top día), | Liverpool and Man Utd eye Nmecha - Tuesday's gossip |
-| Zerbi | 8 | BBC, Foot Mercato, FourFourTwo, Google News EN, Guardian, Mirror, Yahoo, talkSPO | Spurs 'lack confidence' but we are a good team - De Zerbi |
-| Yamal | 8 | Foot Mercato, Guardian, Infobae, Kicker, L'Equipe, Yahoo, ge.globo, r/soccer (to | Will that do? Lamine Yamal conjures another magical spell as Barça pass first test | Sid Lowe |
-| Arsenal | 8 | Daily Mail, FourFourTwo, Google News EN, Mirror, Planet Football, Sky Sports, Ya | Papers: Arsenal and Spurs in battle for Brugge striker |
-| Portugal | 8 | Daily Mail, Foot Mercato, FourFourTwo, Google News EN, Infobae, Mirror, Record,  | Cristiano Ronaldo gets meaningless ban and receives miniscule fine for Portugal walkout |
-| Spurs | 7 | BBC, Daily Mail, Google News EN, Planet Football, Sky Sports, Yahoo, talkSPORT | Maddison's magic moment for Spurs - 18 months in the making |
-| Man | 7 | BBC, Daily Mail, Mirror, Record, Sky Sports, Yahoo, talkSPORT | Liverpool and Man Utd eye Nmecha - Tuesday's gossip |
-| Brentford | 7 | BBC, Daily Mail, FourFourTwo, Kicker, Mirror, r/soccer (top día), talkSPORT | Brentford contact police after rugby ball kicked into stadium during game |
+| Ronaldo | 16 | BBC, Daily Mail, Foot Mercato, Football Italia, FourFourTwo, Google News AR, Goo | Ronaldo let Manchester United down - Ten Hag |
+| Cristiano | 14 | Daily Mail, Foot Mercato, FourFourTwo, Google News EN, Google News ES, Guardian, | Erik ten Hag accuses Cristiano Ronaldo of ‘letting down’ Manchester United |
+| Hag | 13 | BBC, Daily Mail, Foot Mercato, Football Italia, FourFourTwo, Google News EN, Goo | Ronaldo let Manchester United down - Ten Hag |
+| Madrid | 13 | AS, Daily Mail, Foot Mercato, FourFourTwo, Google News EN, Google News ES, Infob | Trent Alexander-Arnold reaches new Real Madrid low but warned against January transfer |
+| Manchester | 12 | BBC, Football Italia, FourFourTwo, Google News EN, Google News ES, Guardian, Inf | Ronaldo let Manchester United down - Ten Hag |
+| Liverpool | 11 | AS, BBC, Daily Mail, FourFourTwo, Mirror, Planet Football, Record, Yahoo, ge.glo | Liverpool and Man Utd eye Nmecha - Tuesday's gossip |
+| Arsenal | 11 | Daily Mail, FourFourTwo, Google News EN, Guardian, Mirror, Mundo Deportivo, Plan | Vincent Kompany may miss Bayern’s clash with Arsenal due to legs-affecting virus |
+| Barcelona | 9 | AS, BBC, FourFourTwo, Google News EN, Google News ES, Planet Football, Yahoo, ge | PSG v Barcelona - Europe's most exciting match-up? |
+| Tottenham | 9 | BBC, Daily Mail, Foot Mercato, FourFourTwo, Google News EN, Guardian, Mirror, r/ | Maddison shines on return - Tottenham v Coventry ratings |
+| Erik | 8 | Daily Mail, Foot Mercato, FourFourTwo, Google News EN, Guardian, L'Equipe, Mirro | Erik ten Hag accuses Cristiano Ronaldo of ‘letting down’ Manchester United |
+| Bayern | 8 | Daily Mail, FourFourTwo, Google News EN, Guardian, L'Equipe, Yahoo, ge.globo, ta | Konsa bullish about Arsenal’s Champions League hopes as Bayern clash looms |
+| Ten | 7 | BBC, Football Italia, Google News ES, Kicker, Sky Sports, Yahoo, talkSPORT | Ronaldo let Manchester United down - Ten Hag |
+| Man | 7 | BBC, Daily Mail, Mirror, Sky Sports, Yahoo, r/soccer (top día), talkSPORT | Liverpool and Man Utd eye Nmecha - Tuesday's gossip |
+| Spurs | 7 | BBC, Daily Mail, Google News EN, Planet Football, Yahoo, r/soccer (top día), tal | Maddison's magic moment for Spurs - 18 months in the making |
+| Palace | 7 | BBC, Google News EN, Guardian, Sky Sports, Yahoo, r/soccer (top día), talkSPORT | Palace manager Sage facing fight to keep his job |
 | Barça | 7 | AS, Foot Mercato, Google News ES, Guardian, L'Equipe, Mundo Deportivo, r/soccer  | Will that do? Lamine Yamal conjures another magical spell as Barça pass first test | Sid Lowe |
-| Lamine | 7 | AS, Foot Mercato, Guardian, Infobae, Kicker, L'Equipe, Yahoo | Will that do? Lamine Yamal conjures another magical spell as Barça pass first test | Sid Lowe |
-| Maddison | 6 | BBC, Daily Mail, L'Equipe, Sky Sports, r/soccer (top día), talkSPORT | Maddison shines on return - Tottenham v Coventry ratings |
-| Carrick | 6 | Daily Mail, FourFourTwo, Guardian, Mirror, Yahoo, talkSPORT | Brighton peck Palace and will a point silence the noise around Carrick? | Football Weekly – video |
-| Ten | 6 | Infobae, Mundo Deportivo, Record, Sky Sports, ge.globo, talkSPORT | Transfer Centre LIVE! Ten Hag reveals FIVE players he wanted at Man Utd |
-| FIFA | 6 | Foot Mercato, Google News AR, Kicker, L'Equipe, Record, talkSPORT | UEFA piles pressure on FIFA demanding more from Gianni Infantino in damning letter |
-| Roberto | 6 | Foot Mercato, FourFourTwo, Google News EN, Mirror, Yahoo, talkSPORT | Roberto De Zerbi bans Tottenham players from key item in bid to turn form around |
-| Palace | 5 | BBC, Daily Mail, Foot Mercato, Guardian, talkSPORT | Palace manager Sage facing fight to keep his job |
+| Carrick | 7 | Daily Mail, FourFourTwo, Guardian, Mirror, Yahoo, r/soccer (top día), talkSPORT | Brighton peck Palace and will a point silence the noise around Carrick? | Football Weekly – video |
+| Villarreal | 7 | AS, FourFourTwo, Mirror, Mundo Deportivo, Yahoo, ge.globo, talkSPORT | Where to watch Liverpool vs Villarreal? TV channel and how to follow Champions League clash for FREE |
+| Maddison | 6 | BBC, Daily Mail, Google News EN, Guardian, r/soccer (top día), talkSPORT | Maddison shines on return - Tottenham v Coventry ratings |
+| England | 6 | BBC, Daily Mail, FourFourTwo, Guardian, Sky Sports, talkSPORT | England manager Wiegman signs contract extension |
+| Kulusevski | 6 | Daily Mail, Google News EN, Guardian, Mirror, Planet Football, r/soccer (top día | Football Daily | Kulusevski and Maddison return to form but are Tottenham also back? |
+| Kompany | 6 | Daily Mail, Guardian, Kicker, L'Equipe, Mundo Deportivo, Yahoo | Vincent Kompany may miss Bayern’s clash with Arsenal due to legs-affecting virus |
+| Crystal | 6 | Daily Mail, Google News EN, Guardian, Yahoo, r/soccer (top día), talkSPORT | Animal rights group urges Crystal Palace to retire bald eagle mascot |
+| Michael | 6 | Daily Mail, FourFourTwo, Mirror, Yahoo, r/soccer (top día), talkSPORT | Harry Kane and Michael Olise decisions mean Liverpool star would get games at Bayern Munich amid surprise tran |
+| Pukki | 5 | BBC, Google News EN, Kicker, Yahoo, r/soccer (top día) | Former Norwich and Celtic striker Pukki to retire |
 
 ## Titulares por medio
 
-**BBC** (36)
-- Maddison's magic moment for Spurs - 18 months in the making
+**BBC** (39)
+- Webb backs VAR over Botman challenge on Jackson
+- Ronaldo let Manchester United down - Ten Hag
 - PSG v Barcelona - Europe's most exciting match-up?
 - What does Celtic's demolition of Hearts mean for Hogh?
+- Former Norwich and Celtic striker Pukki to retire
+- Liverpool and Man Utd eye Nmecha - Tuesday's gossip
+- What is the longest a team has gone without winning a league game at home?
+- Maddison's magic moment for Spurs - 18 months in the making
 - Spurs beat Coventry to earn first league win of the season
 - Ronaldo given 30-day suspension and £215 fine by Portuguese FA
 - Who has made Troy's Premier League team of the week?
 - Building Lionesses 2.0 - Wiegman's new challenge awaits
-- Maddison shines on return - Tottenham v Coventry ratings
-- Who am I? Plus today's other quizzes
-- Uefa gives Infantino two-week deadline to release key documents
-- Palace manager Sage facing fight to keep his job
-- Leicester to visit Oxford City in FA Cup first round - full draw
 
-**Guardian** (14)
+**Guardian** (19)
+- How Brazil’s election result could shape women’s football in the country
+- Football Daily | Kulusevski and Maddison return to form but are Tottenham also back?
+- Vincent Kompany may miss Bayern’s clash with Arsenal due to legs-affecting virus
 - David Squires on … Manchester City sailing into unknown Premier League waters
-- Dwight Yorke: ‘I’m not a kid trying to get into management – I’m a manager’
+- Animal rights group urges Crystal Palace to retire bald eagle mascot
 - Erik ten Hag accuses Cristiano Ronaldo of ‘letting down’ Manchester United
-- ‘Like a family’: De Zerbi credits players’ talk and bonding trip for improving Tottenham
-- Villarreal’s Iñigo Pérez ready to meet Iraola again in test of old bond
 - Brighton are the apex B club – their next target should be a Champions League place | Jonathan Wilson
-- Crystal Palace to give Sage more time but manager under serious scrutiny
-- Football Australia chair Anter Isaac dismisses recent Fifa ructions as ‘growing pains’
+- Villarreal’s Iñigo Pérez ready to meet Iraola again in test of old bond
+- Dwight Yorke: ‘I’m not a kid trying to get into management – I’m a manager’
 - Konsa bullish about Arsenal’s Champions League hopes as Bayern clash looms
 - Will that do? Lamine Yamal conjures another magical spell as Barça pass first test | Sid Lowe
-- ‘Leaving England is scary but I’m here to win’: Charlie Cresswell on Ligue 1 life and his international dream
-- Houdini act in Venice leaves Massimiliano Allegri searching for an escape at Napoli | Nicky Bandini
+- US under-17 women beat Samoa 17-0 for biggest win in World Cup history
 
 **Sky Sports** (20)
-- Five Man Utd players miss training ahead of Como Champions League trip
-- Warner slams 'pathetic' Test crowds in South Africa
-- Pakistan set England 303 to win after middle order heroics LIVE!
-- Transfer Centre LIVE! Ten Hag reveals FIVE players he wanted at Man Utd
-- Lowry moves to McIlroy's Boston Common Golf team in TGL's first-ever trade
-- Boulter puts rain delays behind her to progress at Japan Open
-- Scorecard: Pakistan vs England, ODI tri-series
-- England unchanged for World Cup clash vs France with Lewis absent again
-- Highlights: Washington Commanders vs San Francisco 49ers
-- One last dance? LeBron begins final chapter with NBA's new super team
-- Reese scores 30 points as Atlanta win at Golden State to level WNBA Finals
-- Explained: Why there was tension between Ten Hag and Ronaldo
+- Former world boxing champion cleared of petrol station assault
+- Palace latest: Brighton thrashing must be a wake-up call, says Timber
+- England crumble to defeat versus Pakistan in ODI tri-series opener
+- Dubois: Fight with Fury would be 'ground-breaking'
+- Bavuma's Test-best ton has South Africa in dominant position vs Australia
+- Webb backs Botman decision despite pundits' calls for red card
+- Ryan to partner Constitution Hill in Milan
+- Horner: Wolff and Mercedes finding life easier without me
+- Stembridge appointed new England netball head coach
+- 'Respect' - Fabregas refuses to comment on Man Utd job
+- Cadillac reveal cowboy-themed livery for United States GP
+- 'Appalling batting' - Broad HAMMERS Overton for losing wicket
 
 **talkSPORT** (40)
-- Man City&#8217;s appeal process facing complications as new concerns emerge
-- I agree with Graeme Souness &#8211; Bukayo Saka is a cheat and I refuse to watch Arsenal now
-- Cesc Fabregas would only leave Como in two major scenarios amid top club interest
-- Trent Alexander-Arnold reaches new Real Madrid low but warned against January transfer
-- What time is Como vs Manchester United? Red Devils winless in six as pressure builds on Carrick
-- Erik ten Hag eviscerates Cristiano Ronaldo with bombshell claims &#8211; &#8216;he let his team down&#8217;
-- James Maddison opens up on &#8216;dark days&#8217; and jokes why family and friends are angry at Spurs goal
-- The top five goalkeepers in the world right now according to Premier League winner
-- Football news LIVE: Man City sanction &#8216;very unlikely&#8217; to be handed out soon, Man United stars miss training, Ten Hag drops Ronal
-- talkSPORT tips – Best football bets and expert advice for Tuesday 20 October
-- Arsenal and Liverpool backed to take advantage of Barcelona&#8217;s mad decision to sell best defender
-- Furious Jamie O&#8217;Hara demands Tottenham sell £52m summer signing in expletive-laden rant
+- Former Man United star released on free transfer would be their best defender right now &#8211; &#8216;A revelation&#8217;
+- Thomas Tuchel&#8217;s long-time assistant Anthony Barry could land Premier League job
+- Premier League outright odds: Man Utd title odds stretch to a MASSIVE 100/1 and Rory Jennings&#8217; relegation tip
+- Harry Kane and Michael Olise decisions mean Liverpool star would get games at Bayern Munich amid surprise transfer rumour
+- Ousmane Dembele gone and Pau Cubarsí replaced in combined PSG and Barcelona XI
+- Who are Aston Villa&#8217;s opponents Viking? Champions League debutants who once shocked Chelsea
+- Two £100m England superstars and keep Scott McTominay &#8211; how Erik ten Hag nearly built Man United dream team
+- Man City&#8217;s &#8216;irrefutable evidence&#8217; revealed in full including new information
+- Bayern Munich vs Arsenal LIVE commentary: Harry Kane looks to continue scoring record against Gunners
+- Six Manchester United players miss training in major concern for Michael Carrick
+- Where to watch Liverpool vs Villarreal? TV channel and how to follow Champions League clash for FREE
+- Transfer Notebook: Man United striker target keen on January move from rival Premier League club
 
 **Daily Mail** (40)
-- Man United have a 'toxic culture', sparked by the 'Madrid' trio of Cristiano Ronaldo, Raphael Varane and Casemiro, claims ex-boss Erik ten H
+- Awful moment Leeds United fan verbally abuses Sir Alex Ferguson, 84, as he watches his beloved Man United at Elland Road
 - Erik ten Hag accuses Man United chiefs of breaking 'promises' that they would not sell Scott McTominay, made in infamous Ibiza contract summ
-- Untidy Tottenham settled by James Maddison ending 610-day drought on a night of hope that things can only get better against Coventry - but 
-- Graeme Souness labels Bukayo Saka a CHEAT: Liverpool legend claims Arsenal star 'dives all over the place' - leaving Piers Morgan in shock
-- Zlatan Ibrahimovic's acrobatic brilliance against England, Jamie Vardy's volley and a belter at Blackpool... after Diego Gomez's halfway-lin
-- Brentford report fan to police after rugby ball is kicked onto the pitch from high-rise flat during Liverpool defeat
-- Cristiano Ronaldo will miss NO games and is handed a measly £215 fine - which will take the £488,000-a-day superstar just 38 SECONDS to pay 
+- Erik ten Hag attacks Cristiano Ronaldo: Man United legend 'let the club down', failed heart rate tests, pulled out of training and was a bad
+- James Maddison apologises to Coventry fans over goal celebration - as Tottenham star explains why he kissed their badge after netting agains
+- Broken promises and nobody taking responsibility: Erik ten Hag is right - Man United are addicted to going around in circles, writes NATHAN 
+- Why defiant Man City fans are going bananas: former forward Imre Varadi on his trademarked giant inflatable fruit based on his famous terrac
+- The Premier League's new most-wanted manager Fabian Hurzeler 'secretly marries' the actress girlfriend he kept quiet about for years
+- Piers Morgan disagreed with me but Martin Keown was wrong to question my motives in branding Arsenal 'The Unwatchables'... I have a duty to 
+- Man United face defensive crisis with Lisandro Martinez missing training ahead of Champions League trip to Como... giving Michael Carrick a 
+- Man United have a 'toxic culture', sparked by the 'Madrid' trio of Cristiano Ronaldo, Raphael Varane and Casemiro, claims ex-boss Erik ten H
+- Dejan Kulusevski thanks Tottenham fans as star completes 'impossible journey' after 526-day absence with serious knee injury... and admits h
 - Why Brighton are scoring SO many goals
-- Everton legend Duncan Ferguson, 54, makes surprise return to management as he takes reins at Irish Premiership club Glentoran
-- Emiliano Buendia closes in on new contract with Aston Villa - after battling back from the brink to become one of Unai Emery's favourites
-- How can Man City survive without Erling Haaland? These are Enzo Maresca's four options - from an ideal replica and two false-nine candidates
-- 'He's like a Formula One car on the pitch': Inside the rapid rise of Victor Munoz - and how electrifying talent who trains in mindfulness, r
 
 **Mirror** (25)
-- Mikel Arteta praised for 'surprise' Arsenal decision that 'won them Premier League title'
 - Man City charges LIVE: Huge points deduction leaked as EFL 'ready to agree' punishment
-- Marcus Rashford and Lisandro Martinez absent as EIGHT players miss Man Utd training
-- Dejan Kulusevski opens up on 'impossible' comeback after 526-day injury nightmare
-- Erik ten Hag blasts Cristiano Ronaldo and reveals real reason for Man Utd bust-up
-- Andy Burnham airs major gripe with VAR as Prime Minister pushed on banning technology
-- Piers Morgan accuses Erik ten Hag of LYING about Cristiano Ronaldo in furious response
-- Ex-Liverpool and Tottenham star Steven Caulker reveals 49 offers after sad LinkedIn post
-- Simon Jordan claims Chelsea 'bigger and worse offenders' than Man City
-- Erik ten Hag slams Man Utd for breaking promises and 'embarrassing' Scott McTominay transfer
-- Man City 'punishment plan' faces problem as staggering points deductions likely
-- Bukayo Saka row erupts as Graeme Souness calls Arsenal star a CHEAT in public attack
+- Dele Alli had offer from Gary Neville's Salford City as wait for a club goes on
+- Man Utd set to admit Lisandro Martinez was right as chiefs draw up transfer plan
+- How to watch Man City vs AEK – TV channel, live stream and kick-off time
+- How to watch Liverpool vs Villarreal for free – TV channel, live stream and kick-off time
+- Newcastle's major Mikel Arteta offer failed months before Arsenal appointment
+- Real Madrid tell Premier League 'Big Six' to pay for European Super League costs
+- Man City's Champions League wildcard with UEFA battle serving as Premier League warning
+- Frenkie de Jong's 'dream' transfer remark, wife dropping hint and Man Utd U-turn
+- Roy Keane finally breaks golden rule as Gary Neville mocks 'fawning' Man Utd legend
+- Andoni Iraola must overcome Liverpool weakness to unlock Florian Wirtz and Bradley Barcola
+- Ex-Man Utd star makes Michael Carrick U-turn and names ideal Old Trafford replacement
 
 **Telegraph** (0)
 
 **90min** (0)
 
 **Planet Football** (10)
+- PSG v Barcelona: The ridiculous combined XI ahead of Champions League clash
+- Six legends Lamine Yamal could overtake for Champions League assists this season
+- Can you name every team Liverpool have played in Europe since 2000?
+- Matt Jansen: The man who turned down Fergie & the agony of ‘what if?’
 - Can you name Barcelona’s XI from the ‘Remontada’ win over PSG in 2017?
 - Can you name everybody to have played for Barcelona & PSG since 2000?
 - Gabriel Martinelli’s latest Al-Hilal goal is just what Arsenal & Arteta are missing
 - Can you name all 19 teams that Claudio Ranieri has managed?
 - Celebrating every Dejan Kulusevski touch for Spurs after his 526-day absence
 - 13 of Claudio Ranieri’s most memorable quotes: Tinkerman, Mary Poppins & Dilly Dong…
-- Can you name the top 15 Champions League goalscorers of the 1990s?
-- Every Premier League club’s most underpaid player: Lewis-Skelly, Hall, Wharton…
-- Can you name the top 25 Premier League appearance makers of the Barclays era?
-- 16 big-name footballers who have retired in 2026: Berahino, Podolski, Costa…
 
-**FourFourTwo** (27)
+**FourFourTwo** (36)
+- How to watch Manchester City vs AEK Athens: Live Streams
+- Alex Scott signs, with right-back and right wing switch-up: Liverpool’s dream January window
+- Watch Liverpool vs Villarreal: Free Streams and TV Channels
+- Erik ten Hag reveals why Cristiano Ronaldo was 'not capable' of pressing in Manchester United spell
+- How to watch PSG vs Barcelona: FREE Streams and TV Channels
+- Bayern Munich in virus panic ahead of Arsenal clash: report
+- Liverpool star Rio Ngumoha opens up following Arsenal links
+- Ruben Amorim reveals blocking Aston Villa signing and his reasons for doing so
+- Investigation into ‘dangerous’ behaviour launched by police after Liverpool match
+- Ex-Manchester United manager reveals how star was forced out amid Old Trafford return rumours
 - Ex Arsenal star admits, 'My biggest mistake was leaving for Barcelona'
 - Premier League sack race odds: Favourites for the first manager to be sacked
-- Cristiano Ronaldo issued Portugal return date, fine and suspension after Jorge Jesus row
-- 'Fans threw a severed bull’s head onto the pitch in protest. It only motivated us more’ Ex-Bundesliga man reveals craziest tales from time r
-- Thomas Hitzlsperger criticises media for 'obsessive' coverage of gay footballers
-- Quiz! Can you name the starting line-up from PSG's 6-1 Champions League loss against Barcelona in 2017?
-- 10 iconic football stadiums you need to visit (before the wrecking balldoes)
-- Quickfire Quiz 227: Can you answer 10 questions in 90 seconds?
-- Which European club offers the cheapest pint for travelling Premier League supporters?
-- Manchester United risk huge managerial misstep amid Antonio Conte u-turn: report
-- Watch Tottenham Hotspur vs Coventry City: Live streams
-- Manchester United record-breaker eyed up by Barcelona for January swoop: report
 
 **Yahoo** (40)
-- Cornish Pirates sign Scotland Under-19s hooker Neill
-- Chelsea sign forward Adedini on professional deal
-- 2 injured Arsenal players return to training pre-Bayern clash
-- Mourinho talks Vinicius, Guler, Valverde, Mbappe, Espi, Diomande ahead of Real Madrid vs RB Leipzig
-- Liverpool re-ignite interest in former target, the deal could be on
-- Spurs have no right to complain about north London derby scheduling
-- Roberto De Zerbi confirms Spurs injury blow after Coventry City win
-- How to watch Liverpool vs Villarreal Champions League match tonight
-- Konate talks Diomande, Mourinho, Sevilla controversy, Negreira case, El Clasico, Ceuta incident ahead of Real Madrid vs RB Leipzig
-- Erik ten Hag accuses Cristiano Ronaldo of unprofessionalism at Manchester United
-- Premier League rivals nearly hired Mikel Arteta before joining Arsenal
-- Ismaelo Ganiou&#8217;s absence gives Lens manager defensive headache ahead of Champions League tie
+- Webb backs VAR over Botman challenge on Jackson
+- Michael Carrick will ‘never scream like crazy’ despite difficult start to season
+- Newport&#39;s Gwengwe banned for violent conduct
+- Real Madrid expect influential defender to reclaim his place in the lineup soon
+- Bastoni warning ‘Inter not the same as in Champions League Finals’
+- Liverpool vs Villarreal: Reds Look to Continue European Momentum at Anfield
+- Arsenal receive injury update ahead of Bayern Munich clash
+- McTominay sale ’embarrassed and disappointed’ Ten Hag at Manchester United
+- Champions League Preview | Bayern Munich vs. Arsenal: A score to settle, with or without Vincent Kompany
+- Peta urges Crystal Palace to retire bald eagle mascot
+- Goals flying in for UCL early kick-offs! PSG-Barça blockbuster to come
+- Report Como ready to exchange injured Jesus Rodriguez for Champions League list
 
 **Google News EN** (40)
 - Scores & Fixtures - Football
 - Championship news, transfer latest and gossip plus EFL updates from League One and League Two | Football News
-- More than £100,000 investment to create new community football opportunities in Scunthorpe
-- College Football Playoff Bubble Watch after Week 7
-- Scores & Fixtures - Football
+- David Squires on … Manchester City sailing into unknown Premier League waters
+- What is the longest a team has gone without winning a league game at home?
 - European football news and transfers: Barcelona, Real Madrid, PSG, Bayern Munich latest and more
+- How Brazil’s election result could shape women’s football in the country
 - Scores & Fixtures - Football
-- Manchester United weigh up stunning move for Real Betis and ex-Tottenham forward Troy Parrott - Paper Talk
-- PSG v Barcelona - Europe's most exciting match-up?
-- Arsenal and Spurs in battle for Club Brugge striker Nicolo Tresoldi, Barcelona consider Virgil van Dijk move - Paper Talk
-- SPFL invites bids for new Scottish Premiership TV deal
-- Liam Millar: In-form winger says he has freedom at Birmingham
+- Coventry transfers, latest news, rumours and gossip: Live updates, goals and highlights
+- Football Daily | Kulusevski and Maddison return to form but are Tottenham also back?
+- Former Norwich and Finland striker Pukki to retire
+- Cristiano Ronaldo and Erik ten Hag: Why there was tension EXPLAINED
+- What are the yellow card suspension rules in Champions League?
 
-**AS** (26)
-- “Mañana tenemos un árbitro que no necesita del VAR...”
+**AS** (27)
+- Dro, el dolor más grande de Flick
+- PSG - Barcelona hoy, en directo: previa de Champions League, última hora de la fase liga
+- Stuttgart - Atlético, en directo: Champions League, hoy, en vivo
+- Fenerbahçe - Slavia Praga, en directo: Champions League, hoy en vivo
+- Sabah Bakú - Borussia Dortmund, en directo: Champions League hoy en vivo
+- Qué explicaciones hay a la polémica captada por la Refcam del Betis-Barcelona
+- El gif definitivo de Messi en sus 25 años de carrera: vacile histórico a su rival
 - “Ahora los jugadores del Barça arbitran, es escandaloso”
+- “Mañana tenemos un árbitro que no necesita del VAR...”
 - Laporta: “Del Madrid hablaremos a partir de mañana, porque tiene miga”
-- PSG - Barcelona hoy, en directo: fase liga de Champions League, última hora en vivo
-- Valverde convence y se convence
 - Nuevas imágenes de la acción de Konaté con Ure en el gol de Mbappé: “Es falta clara”
-- El caño de Mendy a Dumfries que desató las risas de los jugadores del Madrid: Vinicius y Mbappé no podían parar de reir
-- PSG-Barça: de irreconciliables a compatibles
-- Konaté, sobre la camiseta de Ceuta: “No sabía qué ponía ni qué hacer”
-- Robert Schlienz, el ídolo de Stuttgart que, sin un brazo, impresionó a Di Stéfano
-- De la Zona Cesarini a la Zona Varini
-- Lamine, Mbappé, Kane, Rodri, Messi... ¿A quién darías el Balón de Oro? Vota
+- Los 10 nominados al mejor Balón de Oro de la historia
 
 **Mundo Deportivo** (40)
-- Lookman, cumpleaños para relanzarse en un estadio talismán para él
-- Tatiana Ferrer: "Debemos llevar el deporte allí donde más se necesita y garantizar que nadie se quede fuera por su género, origen, situación
-- El Madrid ultima la visita del Leipzig sin registrar problemas
-- Así fueron los inicios de Aguirre: necesita tiempo para arrancar
-- "Errores los hubo, los hay y los habrá. Ya sabemos que es semana de Clásico"
-- Mourinho: "¿Vinicius intocable? Intocable es el escudo"
-- La Centuria Germana, de un encuentro con Pubill y Hancko al MHPArena
-- Laporta: "Es el mejor partido que se puede ver en Europa"
-- Alaba, visto y no visto
-- Enrique Cerezo: "¿La jugada de Guler? Yo lo vi claro, pero igual el árbitro no lo vio"
-- Konaté: "No entendí muy bien toda la polémica que hubo con lo de Ceuta"
-- El presidente del Sevilla viaja a Madrid para reunirse con los árbitros
+- Fàbregas: "¿El United en crisis? Una gran mentira"
+- Turquía pone a un ex de la Premier al frente del Comité de Árbitros
+- "¿Dónde está el VAR? ¡Qué vergüenza!": estallan con el pie ensangrentado de Pau Víctor
+- Kompany no comparece ante la prensa y peligra ante el Arsenal
+- El Real Madrid pide ahora a seis clubes ingleses su parte del dinero por la Superliga fallida
+- ¿Qué es el Balón de Oro de la historia? La nueva batalla entre Messi y Cristiano
+- El Barça prepara una camiseta al estilo Lakers para el curso que viene
+- Nuevo técnico para Arda Güler
+- 6º episodio de #FutFem: El Barça pierde su condición de invicto
+- 2-4: El Atlético tira de autoridad en Stuttgart para soñar con el top-6
+- Euskal Selekzioa jugará ante Venezuela en noviembre y la Real tiene a 11 seleccionables
+- Movimiento en el banquillo de la UE Tavernes antes de jugar en Mestalla
 
 **Google News ES** (40)
+- Día de fútbol
+- Récord de candidatos interesados en acoger la Eurocopa de Fútbol Sala de la UEFA 2030
+- "Lo llevó muy mal, le afectó y no lo pasó bien…": el lado más desconocido de los primeros duelos entre Luis Enrique y el Barça
+- Real Sociedad
 - La RFEF y la FFH se reúnen en la Ciudad del Fútbol | www.rfef.es
-- El Gobierno acelera para inyectarle cinco millones de euros al fútbol femenino antes de las elecciones
-- Las Palmas de Gran Canaria promociona su oferta de turismo de fútbol en las plataformas de FNZN
-- Vuelve el Tour de Anoeta
-- Fútbol sala: España - Finlandia, en directo | Mundial
-- Crónicas del fútbol formativo del fin de semana (17-18 octubre)
-- Del mundo del fútbol al Carnaval y el sector del metal: los emotivos mensajes de despedida a 'Carlete' en Cádiz
-- José Bordalás agradece la llegada de Dani Carvajal y ya está haciendo mella en el Getafe: "Es un líder"
-- El Cádiz CF y Kappa presentan una nueva colección retro inspirada en el fútbol de los 90
-- La meteorología obliga a suspender numerosos partidos de fútbol en la comarca ONC
-- El fútbol español que conocíamos desaparece entre polémicas y despachos
-- Héctor Bellerín interpone una querella contra el youtuber Iñaki Angulo por delito de odio
+- Etiqueta: fútbol y toros
+- La Euskal Selekzioa jugará ante Venezuela el 14 de noviembre en San Mamés
+- XVIII Campeonato de Fútbol Aficionado de Calahorra
+- España, entre las candidatas para acoger la Eurocopa de Fútbol Sala de 2030
+- España también pide la Eurocopa de fútbol sala de 2030
+- El Cabildo culminará el Campo de Fútbol de Tarajalejo con financiación del PICOs
+- Horario y canal del PSG - FC Barcelona: dónde ver por TV el partido de la Champions League de fútbol en París
 
 **Gazzetta** (0)
 
+**Football Italia** (20)
+- Champions League Liveblog: Roma vs. Slovan, Napoli vs. Bodo/Glimt
+- Bastoni warning ‘Inter not the same as in Champions League Finals’
+- McTominay sale ’embarrassed and disappointed’ Ten Hag at Manchester United
+- Report Como ready to exchange injured Jesus Rodriguez for Champions League list
+- Bologna confirm Piccoli out for at least three weeks with fresh injury
+- Lucca potential Udinese return as comedian apologises for ‘bullying’ Napoli flop
+- Fabregas: ‘No crisis at Manchester United, but Como have new injury problems’
+- Football Italia Show: Serie A’s three biggest disappointments of 2026-27
+- Chivu: ‘Inter aren’t perfect, feels like we are obliged to win where others aren’t’
+- Fofana insists ‘there were other ways to handle’ Milan exit: ‘They have the squad they wanted’
+- Buffon: ‘The coach isn’t the problem for Juventus, I understand Bremer’s outburst’
+- Buffon: ‘Gattuso deserves compliments, would recommend him 1,000 times for CT’
+
 **Kicker** (20)
-- Kompany verpasst Training und PK - Neuer vor Rückkehr
-- BVB-Gegner Sabah: Der Underdog mit den vielen Feel-Good-Storys
-- Mutmacher für den VfB: Atleticos jüngste Bilanz in Deutschland ist erschreckend
-- WM-Nachspiel für Ägypten: FIFA sperrt Trainer, Teammanager und Spieler
-- Mit Sachspenden aus Silber: Maradona-Statue bei Argentinos Juniors
-- LIVE! Wie schlägt sich Dortmunds U 19 in Aserbaidschan?
-- Ein Protagonist der Werder-Comebacks: Wer weicht für Weiser?
-- USA in der Weltrangliste fest im Blick: DFB-Frauen machen Punkte gut
-- Liverpools kuriose Ballung, die nicht nur den Greenkeeper besorgt
-- Derby-Nachwehen bei 1860 München: Gevorgyan fällt lange aus
-- Traumsolo: Baur fährt Slalom mit der Hearts-Abwehr
-- Alter Bekannter bei der Fortuna: Bodzek wird Co-Trainer von Langeneke
+- LIVE! BVB arbeitet am 2:0 - Sabah hat seine Momente
+- "An der Zeit, Abschied zu nehmen": Ex-Schalker Pukki beendet seine Karriere
+- Boniface ausgestochen: Bayer nominiert Hofmann nach
+- Klare Sache im Reserveduell: Köln II beendet Schalker Serie
+- "Virus strahlt in die Beine aus": Wie geht es Kompany vor dem Arsenal-Spiel?
+- Danks: "Kompany dazu zu bringen, sich auszuruhen, ist schwierig"
+- Gnabrys große Chance: "Ich brauche die Minuten"
+- Gnabry: "Rechnung aus dem letzten Jahr ist noch offen"
+- Montellas Nachfolger gefunden: Yalcin übernimmt bei der Türkei
+- Kompany fraglich für Arsenal-Spiel - Neuer vor Rückkehr, Kimmich fehlt im Training
+- Elfmeter-Festival in Stuttgart: VfB verliert trotz Redzepis Doppelpack
+- Der Mann, der aufsteht, wenn Kompany sich hinsetzt
 
 **L'Equipe** (40)
-- « Je souffre énormément à l'entraînement ou sur le terrain » : l'entraîneur de Rodez, Didier Santini, va se faire opérer et sera absent plus
-- Triplé de Mbappé, masterclass de Navas, Gonçalo Ramos en supersub... Le PSG a pris sa revanche sur le Barça depuis la Remontada
+- 147 dirigeants de clubs turcs suspendus pour violation des règles sur les paris sportifs
+- L'affiche de Ligue 2 entre Montpellier et le Red Star décalée à cause de la mobilisation sociale prévue le 24 octobre
 - Que peut-il nous arriver de mieux que ce PSG-Barça ?
-- Kovac : «Nous sommes loin d'une crise»
-- Suspension de Cristiano Ronaldo : les médias portugais pointent le manque de cohérence de la Fédération
-- Les supporters de Nantes interdits de déplacement à Saint-Étienne en Ligue 2
-- Erik ten Hag revient sur sa collaboration avec Cristiano Ronaldo à Manchester United : « Il a laissé tomber l'équipe, et il m'a laissé tombe
-- PSG-Barça : les magiciens de l'attaque
-- Le groupe du PSG pour affronter le Barça en Ligue des champions : Nuno Mendes forfait, Marquinhos et Senny Mayulu de retour
-- Solution collective, prises à deux : comment le PSG va essayer de limiter l'influence de Lamine Yamal sans Nuno Mendes
+- Alexsandro : «Imagine qu’on gagne les six matches, on va passer, c’est sûr»
+- Neuer-Urbig, une passation compliquée dans le but
+- Toujours malade, Vincent Kompany a raté l'entraînement et la conférence de presse à la veille de Bayern Munich-Arsenal
+- Gnabry vote Kane : «Il en a fait assez»
+- « Ça nous a changé la vie et ça a surtout changé la vie d'Emily » : Jean-Pierre Papin raconte l'accompagnement au quotidien de sa fille, att
+- Les traumatismes crâniens au coeur des préoccupations médicales
 - Qui est Yoann Damet, l'entraîneur français de Saint-Louis qui monte ?
-- Ronaldo quasi absous avant un dernier tour de piste ?
+- Mourinho «ravi d'avoir un arbitre comme Kovacs» contre le RB Leipzig
+- Gnabry : «Arteta nous aidait beaucoup quand nous étions jeunes»
 
 **Foot Mercato** (40)
-- AS Roma : gros coup dur pour Paulo Dybala
-- Arda Güler va faire plusieurs victimes au Real Madrid
-- Pourquoi le FC Barcelone ne portera aucun de ses 3 maillots face au PSG
-- Maxwell a fait son choix entre le PSG et le Barça
-- Cristiano Ronaldo est en train d’humilier le Portugal !
-- « Il ne courait ni avec le ballon ni sans » : Erik ten Hag allume Cristiano Ronaldo
-- Ligue 1 : la programmation de la 13e à la 18e journée
-- FC Barcelone : pourquoi la Catalogne rêve d’un retour de Luis Enrique
-- Liga : un dispositif XXL prévu pour Barça-Real Madrid
-- Ballon d’Or : le nombre hallucinant de nommés présents pour PSG-Barça
-- PSG - FC Barcelone : les compos probables
-- Ligue 1 : l’arbitre du choc PSG-OL est connu
+- PSG-FC Barcelone : comment Dro Fernández a terriblement fait souffrir Hansi Flick
+- Ligue 2 : la rencontre Montpellier-Red Star reportée à cause de la manifestation du 24 octobre
+- Une star de Premier League surprise à Paris par les manifestations du 17 octobre
+- Le PSG punit le Barça
+- PSG-Barça : Flick pense à laisser un cadre sur le banc
+- Ibrahima Konaté hallucine au Real Madrid
+- Turquie : Sergen Yalçın nommé sélectionneur avant d’affronter les Bleus
+- Sabah FK - Borussia Dortmund : les compositions officielles
+- Sergio Rico victime d’un cambriolage ultra violent
+- Le Ballon d’Or of All-Time : l’étrange nouveau trophée au système de vote particulier
+- LOSC : Davide Ancelotti réagit aux violences du 17 octobre
+- JT Foot Mercato : Rio Ngumoha se livre sur son avenir
 
 **Record** (20)
-- <![CDATA[ Omonia, o clube onde os adeptos pagam a festa do próprio bolso e o Benfica é convidado de luxo  ]]>
-- <![CDATA[ Guimarães recebe Portugal-Islândia do playoff de apuramento para o Mundial ]]>
-- <![CDATA[ Obras do TGV já arrancaram: por onde vai passar e quanto custará? Tudo o que se sabe sobre o projeto ]]>
-- <![CDATA[ Cristiano Ronaldo lidera corrida à 'Bola de Ouro de Todos os Tempos' ]]>
-- <![CDATA[ O filme dos acontecimentos numa manhã de tensão na acampada de Lisboa ]]>
-- <![CDATA[ Carlos Vicens despedido do Sp. Braga e Franclim Carvalho será o sucessor ]]>
+- <![CDATA[ Fatal Fury: DLC clássico chega em breve  ]]>
+- <![CDATA[ Sabah-Borussia Dortmund, em direto ]]>
 - <![CDATA[ FC Porto-PSV, em direto ]]>
-- <![CDATA[ Alexandre Santos já não é treinador do Nacional ]]>
-- <![CDATA[ Erik ten Hag revela três estrelas mundiais que pediu à direção do Man. United ]]>
-- <![CDATA[ Diogo Moreira junta-se a Quartararo na equipa oficial Honda de MotoGP em 2027 ]]>
-- <![CDATA[ Ex-namorada de Justin Bieber morre aos 34 anos ]]>
-- <![CDATA[ Sérgio Fonseca está de saída e Jorge Silas prestes a assumir o comando do AVS SAD ]]>
+- <![CDATA[ Benfica e Sporting atacam invencibilidade na FIBA Europe Cup ]]>
+- <![CDATA[ Al Nassr-Neom, em direto ]]>
+- <![CDATA[ Djé Tavares está fora: João Vasconcelos e Daniel Borges são os candidatos ao onze  ]]>
+- <![CDATA[ Tiago Fernandes espera resposta do Sporting na Youth League: «Temos de ter maior consistência» ]]>
+- <![CDATA[ Bruno Abreu vai orientar Nacional frente ao Sp. Braga ]]>
+- <![CDATA[ Comitiva do LASK Linz chega alertada para o jogo em Alvalade: «O Sporting não é inferior ao Liverpool» ]]>
+- <![CDATA[ Com pouco espaço na equipa principal, Mitongo roda nos sub-23 ]]>
+- <![CDATA[ Hugo Martins afasta regresso a Portugal: «Gostava de ser campeão da 1.ª liga do Chipre» ]]>
+- <![CDATA[ Rui Borges: «Suárez sabe que se não der à perna temos mais dois jogadores para jogar» ]]>
 
 **Ole** (10)
-- Héctor Bellerín denunció a un youtuber por insultos homófobos
-- Partidos de fútbol de HOY, martes 20 de octubre: horario y cómo ver por TV y online
-- Fuertísima acusación de Marabel: "Jugar contra Barracas es muy difícil"
-- El Ángel que ilusiona a River: los secretos detrás de la figura de Correa
-- Las disculpas de Espino
-- Las razones de Boca para creer en la remontada y de ir por la otra Copa
-- Qué dijo Facundo Sava luego de las tres dudosas que beneficiaron a Barracas
-- Maxi Levy y su frase desopilante: "¿Secanucas? Por salir campeón del mundo, le seco las bolas a Tapia con una toalla"
-- El polémico antecedente de Daniel Zamora en un Ferro-All Boys
-- Díaz Acosta se quedó con el duelo de argentinos en Almaty: así sigue la semana para los tenistas albicelestes
+- Rusia vuelve a un torneo de la FIFA tras cuatro años de suspensión
+- Olé y un recorrido por las entrañas del Sao Januario, la casa de Vasco Da Gama
+- Racing y una buena noticia con Leandro Córdoba: volvió a pisar el campo tras su lesión de tobillo
+- Sueñan con Primera División: las cuentas de los seis equipos con chances de ascenso directo
+- Qué dijo Damián Ayude de las polémicas en Sarmiento - Barracas
+- La visita sorpresa de Andrada en medio de su auspicioso presente en River
+- La trastienda de la cumbre entre Paredes y Arruabarrena en la concentración de Boca en Brasil
+- La insólita jugada del Deportivo Pasto que se hizo viral: "¡juguemos en el bosque!"
+- Sebastián Domínguez respondió a las críticas por el presente de Central Córdoba: "No tengo redes sociales"
+- Alarma en Racing: si no le gana a River en el Monumental cerrará un año histórico sin triunfos en clásicos
 
 **Infobae** (40)
+- El descenso de categorías sin fin que podría ser “el peor escenario posible” para el Manchester City si lo declaran culpable de las infracci
+- Impactante revelación del ex jefe de Red Bull sobre las presiones para beneficiar a Max Verstappen dentro del equipo: “Fue muy claro el mens
 - Boca Juniors buscará dar vuelta la serie contra Vasco da Gama para avanzar a la final de la Copa Sudamericana: hora, TV y formaciones
-- “No quería vivir una vida sin ser verdaderamente feliz”: nuevo comunicado de Svitolina tras el divorcio que conmocionó al mundo del tenis
 - Franco Colapinto saldrá a pista este fin de semana en el Gran Premio de Estados Unidos de la F1: todo lo que hay que saber
-- Manchester City, Atlético de Madrid y Roma salen a la cancha en el inicio de la fecha 3 de la Champions League: la agenda completa
-- El video inédito del golazo de Messi tras ridiculizar a Junior Alonso y la inesperada reacción de los hinchas rivales
-- “Dios me puso ahí”: fue quien le dejó su lugar a Maradona el día de su debut y desde hace 42 años trabaja en una inmobiliaria
-- La curiosa historia que une a Juan Román Riquelme con el presidente del Vasco da Gama
-- Una tarde de miércoles con aroma a domingo que cambió la historia del fútbol argentino: a 50 años del debut de Diego Maradona
-- Se completó la fecha 13 del Torneo Clausura: así quedaron las tablas de posiciones y la clasificación a las copas internacionales
-- La sorprendente sentencia de Dani Alves sobre cómo trataban a Messi en Argentina antes de los títulos
-- “En todas partes”: así fue el banderazo de los hinchas de Boca en Río de Janeiro antes del duelo con Vasco Da Gama por la Sudamericana
-- Arturo Vidal eligió a Lionel Messi como su favorito al Balón de Oro: quiénes completan el podio
+- La FIFA sancionó al entrenador y a una figura de la selección de Egipto por sus declaraciones tras perder con Argentina en el Mundial
+- Mariano Navone venció a Juan Manuel Cerúndolo en el duelo argentino y avanzó en el ATP de Bruselas
+- La historia detrás del retorno del Rally Dakar a África luego de 20 años: las razones y las claves de la negociación
+- Con un gol en la última acción del partido, Gimnasia venció a Huracán por la fecha 13 del Torneo Clausura
+- Fingió quedar inconsciente, se zafó de su rival y ganó el combate: la inesperada maniobra de un luchador de MMA que revolucionó las redes so
+- Asombro en el automovilismo por la aparición de “El Monstruo”, el hiperdeportivo que aseguran es más rápido que un Fórmula 1
+- Un futbolista de Racing desafió a los hinchas mostrándoles la panza tras el clásico y debió salir a pedir disculpas: “No aguanté una falta d
+- “No quería vivir una vida sin ser verdaderamente feliz”: nuevo comunicado de Svitolina tras el divorcio que conmocionó al mundo del tenis
 
 **Google News AR** (40)
+- Nueva denuncia sacude a la Liga Tucumana de Fútbol por presuntas maniobras ilegales para alterar su Comité Ejecutivo
+- Maxi Levy defendió el formato del fútbol argentino y cuestionó las comparaciones con Europa
+- Familia se busca para C. y su maravilloso mundo entre el fútbol, el cine y las salidas acompañado
+- Ningún positivo en cinco años: qué cambió en el fútbol argentino para que ahora el antidoping sea “light”
+- Un DT de fútbol no miró a la periodista durante todo el reportaje por orden de su mujer
+- Jugaba al fútbol en Mar del Plata, chocó contra una pared a 50 centímetros de la cancha y terminó con dos operaciones: la Justicia ordenó in
+- En Abasto, ante la T
+- Fútbol Femenino: Atlético lanza una promoción para viajar a Floresta
+- Maradona: el ‘pibe’ de rulos que sorprendió al fútbol argentino hace 50 años en su debut
+- ¡Traigan copas, que vino y goles sobran! El fútbol mendocino brilla por sus goleadores
 - Facundo Farías con Olé: el fútbol como "salvación" y su ambicioso sueño en San Lorenzo
-- Más infraestructura para el Eva Fútbol Club: inauguraron vestuarios y el cierre de su cancha
-- Liga Regional de Fútbol. No habrá modificaciones en el formato del campeonato de divisiones inferiores
-- Hace 50 años, Diego Maradona daba su primer paso en Primera División
-- En 1976, Diego Armando Maradona cambiaba el fútbol para siempre: a 50 años de su debut en Argentinos
-- La fecha 28 del torneo local de fútbol se jugará este martes y miércoles
-- El clásico moderno del fútbol de Olavarría, esta vez en la versión local
-- A 50 años del debut de Diego Maradona: de “Caradona” a mito del fútbol mundial
-- La Federación española de fútbol explica su modelo a de trabajo a Honduras
-- Liga Profesional de Fútbol: Instituto y Central continúan a buen ritmo
-- Liga del Sur: todos los resultados de la fecha 13 del fútbol femenino
-- Jugaba al fútbol con amigos, chocó contra una pared detrás del arco y la Justicia ordenó indemnizarlo con $99 millones
+- La reflexión de Javier “el Vasco” Aguirre sobre por qué muchos jóvenes dejan el fútbol: “Y la salud mental qué”
 
 **ge.globo** (40)
-- Fogos de artifício são disparados perto de hotel do Barcelona antes de jogo com PSG; veja vídeo
-- Protagonistas em Vasco x Boca, Thiago Mendes e Paredes foram disputados pelo PSG na mesma janela
-- Como Newton ganhou espaço na zaga do São Paulo mesmo improvisado
-- A evolução como mandante que anima o Palmeiras na reta final do Brasileirão e nas semis das Copas
-- Corinthians atrasa nova parcela da CNRD, e Cuiabá pede extensão do transfer ban por seis meses
-- Segunda divisão do Mineiro sub-20 tem semifinais definidas; veja confrontos
-- Ten Hag lembra trabalho com Cristiano Ronaldo no United: "Me decepcionou muito"
-- Corinthians: Seedorf terá de provar que é mais do que pensamento mágico
-- Martinelli vai jogar? Entenda situação do volante às vésperas da semifinal da Libertadores
-- Boca Juniors e Enner Valencia voltam ao Rio para enfrentar Vasco depois de 2023 traumático
-- Embalou na hora certa? Palmeiras busca recorde de vitórias no ano para voltar à final da Libertadores
-- Análise: Seedorf tenta algo novo ao mudar esquema, mas Corinthians mantém agonia à beira do Z-4
+- Justino perde espaço com Tite, e Marçal ganha vaga na zaga do Botafogo mesmo com desfalques
+- Com Martinelli e Cano, Fluminense embarca para o segundo jogo da semifinal da Libertadores
+- Classificação do segundo turno: Flamengo lidera; Botafogo deixa o Z-4, que agora tem o Grêmio
+- Os Riquelmes do Vasco: as histórias dos jogadores que têm nome inspirado no presidente do Boca
+- Compare a reta final do Avaí com os adversários da luta contra o rebaixamento na Série B
+- U2 fará apresentação no intervalo do jogo entre Packers e Rams em 25 de novembro
+- Atlético-MG leva Everson para Uruguai, mas tem desfalque no ataque contra City Torque
+- Bayern de Munique x Arsenal na Champions League: onde assistir ao vivo, horário e escalações
+- São Paulo supera mudanças constantes e mantém terceira melhor defesa do Brasileirão
+- Seedorf escolhe música-tema do Chicago Bulls para a entrada do Corinthians em campo; entenda
+- Reportagem do Esporte Espetacular vence prêmio internacional de jornalismo
+- Agência de Fair Play tem 24 clubes na mira a 40 dias do fim do período de transição para dívidas
 
 **r/soccer (top día)** (25)
-- Kulusevski’s Return to Tottenham After 526 Days
 - Hector Bellerin's REFCAM reaction after being told Lo Celso's goal could be disallowed
-- In J3 League Coach gets sent off with a straight red card after kicking a bottle towards the linesman.
+- Kulusevski’s Return to Tottenham After 526 Days
 - Ref-cam view of James Maddison's goal vs Coventry.
-- Cristiano Ronaldo has been sanctioned with a 30-day suspension and a fine of 255 euros for abandoning the national team's training camp in D
-- Diogo Dalot defending against Leeds
-- Brentford vs Liverpool on Saturday, as a supporter attempted to boot a RUGBY BALL onto the pitch from the roof of a nearby building. Brentfo
-- Thierry Henry and Kate Scott will host the 2026 Ballon d’Or ceremony
+- Barca have to play in their last season kit because UEFA decided all their kits have color clashes with PSG
+- San Diego Wave's Kenza Dali improvises a two-footed scoop while on the ground to retain possession
 - Tottenham [1] - 0 Coventry City - James Maddison 14' (Great Goal)
-- 3-time CL winner Luis Enrique: "Hansi Flick has improved Barca's results and solidified an idea similar to the one he had at Bayern Munich. 
+- The Clásico between Barça and Madrid will have up to 40 cameras. There will be super long-range, cinematic and other advanced cameras, and t
+- Teemu Pukki is retiring from professional football
 - Cristiano Ronaldo's sanction: 19 days of the suspension have already been served, with 11 days remaining, meaning Ronaldo will be available 
-- Norwegian 3rd Division: Strong winds blow away the goal in Skjervøy
+- Ronaldo's original words: "I believe my punishment should have no mitigating factors". However, the Portuguese Federation's disciplinary hea
+- Derek Rae shared his notes for Real Madrid vs Sevilla.
+- Tottenham [2] - 1 Coventry City - Omar Marmoush 59'
 
-Fallaron: ESPN (ParseError), Goal (HTTPError), Independent (ParseError), Football365 (HTTPError), Marca (HTTPError), Sport (HTTPError), Football Italia (URLError), Calciomercato (HTTPError), TN (HTTPError)
+Fallaron: ESPN (ParseError), Goal (HTTPError), Independent (ParseError), Football365 (HTTPError), Marca (HTTPError), Sport (HTTPError), Calciomercato (HTTPError), TN (HTTPError)

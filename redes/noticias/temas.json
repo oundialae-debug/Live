@@ -1,13 +1,14 @@
 {
- "generado": "2026-10-20T11:59+00:00",
+ "generado": "2026-10-20T17:27+00:00",
  "temas": [
   {
    "tema": "Ronaldo",
-   "medios": 18,
+   "medios": 19,
    "lista_medios": [
     "BBC",
     "Daily Mail",
     "Foot Mercato",
+    "Football Italia",
     "FourFourTwo",
     "Google News AR",
     "Google News EN",
@@ -198,8 +199,105 @@
    ]
   },
   {
+   "tema": "Hag",
+   "medios": 16,
+   "lista_medios": [
+    "BBC",
+    "Daily Mail",
+    "Foot Mercato",
+    "FourFourTwo",
+    "Google News EN",
+    "Google News ES",
+    "Guardian",
+    "Kicker",
+    "L'Equipe",
+    "Mirror",
+    "Mundo Deportivo",
+    "Record",
+    "Sky Sports",
+    "Yahoo",
+    "ge.globo",
+    "talkSPORT"
+   ],
+   "primera_vez": "2026-10-20T11:59+00:00",
+   "titulares": [
+    {
+     "medio": "Guardian",
+     "titulo": "Erik ten Hag accuses Cristiano Ronaldo of ‘letting down’ Manchester United",
+     "url": "https://www.theguardian.com/football/2026/oct/20/erik-ten-hag-accuses-cristiano-ronaldo-of-letting-down-manchester-united",
+     "pub": "2026-10-20T10:43+00:00"
+    },
+    {
+     "medio": "Sky Sports",
+     "titulo": "Transfer Centre LIVE! Ten Hag reveals FIVE players he wanted at Man Utd",
+     "url": "https://www.skysports.com/football/live-blog/12040/12476234/transfer-centre-live-football-transfer-news-updates-and-rumours",
+     "pub": "2026-10-20T10:25+00:00"
+    },
+    {
+     "medio": "Sky Sports",
+     "titulo": "Explained: Why there was tension between Ten Hag and Ronaldo",
+     "url": "https://www.skysports.com/watch/video/13601277/explained-why-was-there-tension-between-erik-ten-hag-and-cristiano-ronaldo",
+     "pub": "2026-10-20T10:50+00:00"
+    },
+    {
+     "medio": "Sky Sports",
+     "titulo": "Ten Hag on Man Utd's broken 'promises', wanting Kane and Ronaldo tension",
+     "url": "https://www.skysports.com/football/news/12040/13601227/erik-ten-hag-interview-man-utds-broken-promises-wanting-kane-ronaldo-tension-fa-cup-glory",
+     "pub": "2026-10-20T08:10+00:00"
+    },
+    {
+     "medio": "talkSPORT",
+     "titulo": "Erik ten Hag eviscerates Cristiano Ronaldo with bombshell claims – ‘he let his team down’",
+     "url": "https://talksport.com/football/4654965/erik-ten-hag-cristiano-ronaldo-professionalism-manchester-united/",
+     "pub": "2026-10-20T08:33+00:00"
+    },
+    {
+     "medio": "Daily Mail",
+     "titulo": "Man United have a 'toxic culture', sparked by the 'Madrid' trio of Cristiano Ronaldo, Raphael Varane and Casemiro, claims ex-boss Erik ten Hag in damning breakdown of player discipline",
+     "url": "https://www.dailymail.com/sport/football/article-16222781/man-united-toxic-culture-erik-ten-hag-cristiano-ronaldo-real-madrid-trio.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+     "pub": "2026-10-20T11:26+00:00"
+    },
+    {
+     "medio": "Daily Mail",
+     "titulo": "Erik ten Hag accuses Man United chiefs of breaking 'promises' that they would not sell Scott McTominay, made in infamous Ibiza contract summit, as he picks apart their transfer business",
+     "url": "https://www.dailymail.com/sport/football/article-16222779/Erik-ten-Hag-accuses-Man-United-chiefs-breaking-promises-selling-Scott-McTominay.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+     "pub": "2026-10-20T08:25+00:00"
+    },
+    {
+     "medio": "Mirror",
+     "titulo": "Erik ten Hag blasts Cristiano Ronaldo and reveals real reason for Man Utd bust-up",
+     "url": "https://www.mirror.co.uk/sport/football/news/man-utd-ronaldo-ten-hag-37790665",
+     "pub": "2026-10-20T10:55+00:00"
+    },
+    {
+     "medio": "Mirror",
+     "titulo": "Piers Morgan accuses Erik ten Hag of LYING about Cristiano Ronaldo in furious response",
+     "url": "https://www.mirror.co.uk/sport/football/news/piers-morgan-ten-hag-ronaldo-37790281",
+     "pub": "2026-10-20T09:42+00:00"
+    },
+    {
+     "medio": "Mirror",
+     "titulo": "Erik ten Hag slams Man Utd for breaking promises and 'embarrassing' Scott McTominay transfer",
+     "url": "https://www.mirror.co.uk/sport/football/news/ten-hag-man-utd-mctominay-37789847",
+     "pub": "2026-10-20T08:52+00:00"
+    },
+    {
+     "medio": "Yahoo",
+     "titulo": "Erik ten Hag accuses Cristiano Ronaldo of unprofessionalism at Manchester United",
+     "url": "https://sports.yahoo.com/articles/erik-ten-hag-accuses-cristiano-104722624.html",
+     "pub": "2026-10-20T10:47+00:00"
+    },
+    {
+     "medio": "Yahoo",
+     "titulo": "Erik ten Hag recalls being ‘embarrassed’ by Man United after promise broken over keeping player",
+     "url": "https://sports.yahoo.com/articles/erik-ten-hag-recalls-being-091501262.html",
+     "pub": "2026-10-20T09:15+00:00"
+    }
+   ]
+  },
+  {
    "tema": "Madrid",
-   "medios": 14,
+   "medios": 15,
    "lista_medios": [
     "AS",
     "Daily Mail",
@@ -210,6 +308,7 @@
     "Google News ES",
     "Infobae",
     "L'Equipe",
+    "Mirror",
     "Mundo Deportivo",
     "Ole",
     "Yahoo",
@@ -289,6 +388,290 @@
      "titulo": "Real Madrid : la grosse menace Yan Diomandé plane au-dessus de Vinicius Jr",
      "url": "https://www.footmercato.net/a2116259382979286223-real-madrid-la-grosse-menace-yan-diomande-plane-au-dessus-de-vinicius-jr",
      "pub": "2026-10-19T09:03+00:00"
+    }
+   ]
+  },
+  {
+   "tema": "Manchester",
+   "medios": 14,
+   "lista_medios": [
+    "BBC",
+    "Foot Mercato",
+    "FourFourTwo",
+    "Google News AR",
+    "Google News EN",
+    "Google News ES",
+    "Guardian",
+    "Infobae",
+    "L'Equipe",
+    "Mundo Deportivo",
+    "Planet Football",
+    "Yahoo",
+    "ge.globo",
+    "talkSPORT"
+   ],
+   "primera_vez": "2026-10-19T13:50+00:00",
+   "titulares": [
+    {
+     "medio": "Guardian",
+     "titulo": "Semenyo’s eight-week injury absence leaves Manchester City short on cover for Haaland",
+     "url": "https://www.theguardian.com/football/2026/oct/19/antoine-semenyo-eight-week-knee-injury-absence-manchester-city-short-cover-erling-haaland",
+     "pub": "2026-10-19T13:03+00:00"
+    },
+    {
+     "medio": "talkSPORT",
+     "titulo": "Manchester United told to play new man as striker after Bruno Fernandes failure as false 9",
+     "url": "https://talksport.com/football/4652858/bryan-mbeumo-manchester-united-striker-analysis-lineup/",
+     "pub": "2026-10-19T09:15+00:00"
+    },
+    {
+     "medio": "Planet Football",
+     "titulo": "Unai Emery is performing miracles which should infuriate Manchester United",
+     "url": "https://www.planetfootball.com/premier-league/unai-emery-aston-villa-miracles-infuriate-man-utd",
+     "pub": "2026-10-19T10:55+00:00"
+    },
+    {
+     "medio": "Yahoo",
+     "titulo": "Manchester City star ruled out of Arsenal clash with 8-week injury",
+     "url": "https://sports.yahoo.com/articles/manchester-city-star-ruled-arsenal-115000675.html",
+     "pub": "2026-10-19T11:50+00:00"
+    },
+    {
+     "medio": "Google News EN",
+     "titulo": "Champions League: Manchester City manager Enzo Maresca on Antoine Semenyo injury and Erling Haaland possibly missing game against AEK Athens",
+     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBGaGxpQmZGRkZKaE00dUhJemJBNllVcTQxZGlpSXo1bnBMbXdRd2pJYS1lWGNXaV8zMVFJWDlJVXEyV1BsOHJIRzB1cmU4bHVFeVBHaGtTWDVhMWx5RllPcjBGTE1PS3Zn?oc=5",
+     "pub": "2026-10-19T13:07+00:00"
+    },
+    {
+     "medio": "L'Equipe",
+     "titulo": "L'ailier de Manchester City Antoine Semenyo absent huit semaines selon Enzo Maresca",
+     "url": "https://www.lequipe.fr/Football/Actualites/L-ailier-de-manchester-city-antoine-semenyo-absent-huit-semaines-selon-enzo-maresca/1736967#at_medium=RSS_feeds",
+     "pub": "2026-10-19T13:14+00:00"
+    },
+    {
+     "medio": "ge.globo",
+     "titulo": "Jogadores do Manchester United estão proibidos de falar com a imprensa, diz jornal",
+     "url": "https://ge.globo.com/futebol/futebol-internacional/noticia/2026/10/19/jogadores-do-manchester-united-sao-proibidos-de-falar-com-a-imprensa-diz-jornal.ghtml",
+     "pub": "2026-10-19T12:59+00:00"
+    },
+    {
+     "medio": "talkSPORT",
+     "titulo": "Crystal Palace hit with unusual kick-off time double-whammy as Manchester United and Arsenal games rearranged",
+     "url": "https://talksport.com/football/4654232/crystal-palace-fixture-change-kick-off-time-date-man-utd-arsenal/",
+     "pub": "2026-10-19T16:54+00:00"
+    },
+    {
+     "medio": "FourFourTwo",
+     "titulo": "Manchester United risk huge managerial misstep amid Antonio Conte u-turn: report",
+     "url": "https://www.fourfourtwo.com/person/coaches-managers/manchester-united-risk-huge-managerial-misstep-amid-antonio-conte-u-turn-report",
+     "pub": "2026-10-19T16:00+00:00"
+    },
+    {
+     "medio": "FourFourTwo",
+     "titulo": "Manchester United record-breaker eyed up by Barcelona for January swoop: report",
+     "url": "https://www.fourfourtwo.com/transfer/manchester-united-record-breaker-eyed-up-by-barcelona-for-january-swoop-report",
+     "pub": "2026-10-19T15:59+00:00"
+    },
+    {
+     "medio": "FourFourTwo",
+     "titulo": "Manchester City to receive HUGE points deduction guaranteeing relegation: report",
+     "url": "https://www.fourfourtwo.com/team/manchester-city-to-receive-huge-points-deduction-guaranteeing-relegation-report",
+     "pub": "2026-10-19T15:21+00:00"
+    },
+    {
+     "medio": "FourFourTwo",
+     "titulo": "Manchester United star plans swift exit amid Michael Carrick tensions: report",
+     "url": "https://www.fourfourtwo.com/transfer/manchester-united-star-plans-swift-exit-amid-michael-carrick-tensions-report",
+     "pub": "2026-10-19T14:00+00:00"
+    }
+   ]
+  },
+  {
+   "tema": "Portugal",
+   "medios": 14,
+   "lista_medios": [
+    "AS",
+    "Daily Mail",
+    "Foot Mercato",
+    "FourFourTwo",
+    "Google News AR",
+    "Google News EN",
+    "Google News ES",
+    "Guardian",
+    "Infobae",
+    "Mirror",
+    "Record",
+    "Sky Sports",
+    "Yahoo",
+    "talkSPORT"
+   ],
+   "primera_vez": "2026-10-19T20:07+00:00",
+   "titulares": [
+    {
+     "medio": "Guardian",
+     "titulo": "Cristiano Ronaldo receives 30-day suspension and £215 fine over Portugal walkout",
+     "url": "https://www.theguardian.com/football/2026/oct/19/cristiano-ronaldo-30-day-suspension-and-215-fine-portugal-walkout",
+     "pub": "2026-10-19T18:07+00:00"
+    },
+    {
+     "medio": "Sky Sports",
+     "titulo": "Ronaldo punished over Portugal walkout with fine he can pay off in 39 seconds",
+     "url": "https://www.skysports.com/football/news/12040/13601082/cristiano-ronaldo-portugal-captain-punished-over-walkout-following-explosive-row-with-head-coach-jorge-jesus",
+     "pub": "2026-10-19T19:06+00:00"
+    },
+    {
+     "medio": "talkSPORT",
+     "titulo": "Cristiano Ronaldo gets meaningless ban and receives miniscule fine for Portugal walkout",
+     "url": "https://talksport.com/football/4654582/cristiano-ronaldo-ban-small-fine-portugal-walkout/",
+     "pub": "2026-10-19T17:54+00:00"
+    },
+    {
+     "medio": "Daily Mail",
+     "titulo": "Cristiano Ronaldo will miss NO games and is handed a measly £215 fine - which will take the £488,000-a-day superstar just 38 SECONDS to pay off - for walking out of Portugal camp",
+     "url": "https://www.dailymail.com/sport/football/article-16221551/cristiano-ronaldo-ban-fine-portugal.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+     "pub": "2026-10-19T18:38+00:00"
+    },
+    {
+     "medio": "Mirror",
+     "titulo": "Cristiano Ronaldo suspended by Portugal FA and fined minimal three-figure sum after walk out",
+     "url": "https://www.mirror.co.uk/sport/football/news/cristiano-ronaldo-portugal-suspension-fine-37788918",
+     "pub": "2026-10-19T18:44+00:00"
+    },
+    {
+     "medio": "Yahoo",
+     "titulo": "Cristiano Ronaldo receives 30-day suspension and £215 fine for walking out on Portugal squad",
+     "url": "https://sports.yahoo.com/articles/cristiano-ronaldo-receives-30-day-193000208.html",
+     "pub": "2026-10-19T19:30+00:00"
+    },
+    {
+     "medio": "Google News ES",
+     "titulo": "¿Qué ha pasado con Cristiano Ronaldo y qué sanción tiene que cumplir con Portugal?",
+     "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPbDJmLTdkaWtrZkI5MkhMSGZpNGFhUVI3NEhta0RNeXNtQThJaGFMNUNpZ2VOY0hEUlM5dkY5QzNEbkRIOFVfOXpfaFNsZUktQUpFYVpoT2F3ZkV5MjQwa0lQczZEcjRkMmxNbmpKZ2t0UEh6d0FXSGg3d1dJVC1leWVnOFI2bkRYUEgxTy1DMGVqTTQ2NzRWYTR4V0hpaFpPamVIRkJJMEFBSFVnVVBUNjJKWGtUcWRib09lUW1uVHpvWGFqWmlkcEYzLWhyanhXSFVR?oc=5",
+     "pub": "2026-10-19T18:02+00:00"
+    },
+    {
+     "medio": "Foot Mercato",
+     "titulo": "Portugal : Cristiano Ronaldo écope d’une amende de 255 euros après avoir quitté le rassemblement",
+     "url": "https://www.footmercato.net/a4085482573856023024-portugal-cristiano-ronaldo-ecope-dune-amende-de-255-euros-apres-avoir-quitte-le-rassemblement",
+     "pub": "2026-10-19T17:26+00:00"
+    },
+    {
+     "medio": "Record",
+     "titulo": "<![CDATA[ Victor Nicolatti e o êxito do Olhanense na Taça de Portugal: «Adeptos criaram atmosfera espetacular\" ]]>",
+     "url": "https://www.record.pt/futebol/futebol-nacional/taca-de-portugal/detalhe/victor-nicolatti-e-o-exito-do-olhanense-na-taca-de-portugal-adeptos-criaram-atmosfera-espetacular",
+     "pub": "2026-10-19T18:34+00:00"
+    },
+    {
+     "medio": "Infobae",
+     "titulo": "Se conoció la curiosa sanción a Cristiano Ronaldo tras el escándalo en la selección de Portugal: el detalle que causó furor",
+     "url": "https://www.infobae.com/deportes/2026/10/19/se-conocio-la-sancion-a-cristiano-ronaldo-tras-el-escandalo-en-la-seleccion-de-portugal-el-detalle-que-causo-furor/",
+     "pub": "2026-10-19T19:06+00:00"
+    },
+    {
+     "medio": "Google News AR",
+     "titulo": "La insólita sanción que recibió Cristiano Ronaldo por abandonar la concentración de Portugal",
+     "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPM2RVTm1jeWhSVjRSWEQ1MmRYQXc5TU1JV2RTdzJYM1RraEtFbEJxRlNaaDB4bHZvUE1XZ19SbTZtU2JTaVZ0UUg2NGZaNzNzVEZfTko4S3M2dnJhY1BEMUpqYTUwOEE3YWp3R2FaRzh2UWRBVDRTSEozTGlmcEpzT281TGczLTR4VF9welBWejNSUWxXN09fQlRjWHlfYVEtT2dveEg0aW9SemdjX1dlaU85RXJpRlVhMVRTUTZEdUpjTkRSRDU3cjFtd3R3N2xHcWl4ckhJc1AxZ3g5WGU1UVVxdURNRWtzYk1WNUpmeDZsTWMzQVgtWW9jdWdnYUJ50gGUAkFVX3lxTE9VZkQzX2hEOVE0OFMtUFl4SkFheVdkWVVNLVBPaU1SZFFxUlF6OGgzOGowTXg4LVp6SFFVcE5YNzRhUHVFd3Jfc1oyczR1ZlpOTkxwYUZ3T2JZQ0xTWGxkY1NZdV9PTDgxYW91OHdpUmxNVG9fc09xV3ZEcXNBZDgxaURWMy1FLUJZYmlJVE9hVEpEUDFjclhpcGVUcHZpUndhSVRvTlMtOXM0YnBfMGdFWWplWGpuRFFqNHVWTHBYU015c1VrV2hlUzBETjd5VlpqZHAyV1BBZzR1VWdSV2NOMUJEWnVaRF84cWYwcnV5YXFNbkE4YlhqUXVLRm9rMUttZTg5d3VWV0F5bEgxWUQ0YmlpYg?oc=5",
+     "pub": "2026-10-19T18:24+00:00"
+    },
+    {
+     "medio": "Google News AR",
+     "titulo": "La sanción de Portugal para Cristiano Ronaldo",
+     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNSUxFWElNRUptVWxTTkt1OHAtcVZ3RUh2VWNwTkhERC00MnZqVlNMRHg1NWhwVTFVc3dIQl9jQjhwWUsyN240STNQMEJoRUw1WVM4VnBZUzBUYndUR3cxWllwaVhyUEpaUmZUa2NPblY0dlRvVC0tVTVyc194enJuZXpEdGo1SnAzZU8zZUpneGpnODd1dVHSAZsBQVVfeXFMUEQzaWNjY2EwaXZiQkR5ck9Qc3FsX21FSk1ZbElDNVhiblR2MHRaTmMySTVmUTMyOVI5bkFqRkhfU3NGMm0wbWp6NUhoOEMxc08wYW9PM2NRbldVc3E1LXBuSmNOSTcwWjR5Z0w0TWJmWW8zODY0RnpJbHhmajc1VVpzUS1OMnlyV000WmhqTmJHTE0wNTFuZGxSRW8?oc=5",
+     "pub": "2026-10-19T18:05+00:00"
+    }
+   ]
+  },
+  {
+   "tema": "Arsenal",
+   "medios": 13,
+   "lista_medios": [
+    "Daily Mail",
+    "Foot Mercato",
+    "FourFourTwo",
+    "Google News EN",
+    "Guardian",
+    "Kicker",
+    "Mirror",
+    "Mundo Deportivo",
+    "Planet Football",
+    "Sky Sports",
+    "Yahoo",
+    "ge.globo",
+    "talkSPORT"
+   ],
+   "primera_vez": "2026-10-19T13:50+00:00",
+   "titulares": [
+    {
+     "medio": "Guardian",
+     "titulo": "Bayern and Luis Díaz warm up for Arsenal revenge mission with furious rout of Leipzig | Andy Brassell",
+     "url": "https://www.theguardian.com/football/2026/oct/19/bayern-munich-luis-diaz-arsenal-revenge-mission-leipzig-bundesliga",
+     "pub": "2026-10-19T11:49+00:00"
+    },
+    {
+     "medio": "Sky Sports",
+     "titulo": "Merson: Brighton defeat scared Arsenal – they won’t beat Bayern",
+     "url": "https://www.skysports.com/football/news/12040/13600922/arsenal-were-spooked-by-brighton-defeat-and-have-reverted-to-type-they-wont-beat-bayern-munich-says-paul-merson",
+     "pub": "2026-10-19T11:34+00:00"
+    },
+    {
+     "medio": "Sky Sports",
+     "titulo": "London City developing at a rapid rate as Arsenal flop again",
+     "url": "https://www.skysports.com/football/news/12040/13600861/wsl-london-city-lionesses-showing-rapid-development-in-pursuit-of-champions-league-football-as-arsenal-flop-again",
+     "pub": "2026-10-19T12:00+00:00"
+    },
+    {
+     "medio": "talkSPORT",
+     "titulo": "Arsenal held secret talks with Mauricio Pochettino as surprise shortlist before hiring Mikel Arteta revealed",
+     "url": "https://talksport.com/football/4653300/mauricio-pochettino-arsenal-managerial-shortlist-revealed-mikel-arteta/",
+     "pub": "2026-10-19T12:04+00:00"
+    },
+    {
+     "medio": "Daily Mail",
+     "titulo": "The unsustainable trend and underlying deficiency Arsenal have to address if they're to keep winning - and why Eberechi Eze being Mikel Arteta's fall guy is a worrying case of deja-vu, writes ISAAN KHAN",
+     "url": "https://www.dailymail.com/sport/football/article-16214377/arsenal-nottingham-forest-analysis-premier-league.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+     "pub": "2026-10-19T08:32+00:00"
+    },
+    {
+     "medio": "Mirror",
+     "titulo": "Ezri Konsa relishing Harry Kane duel as he bids to help Arsenal end Champions League hoodoo",
+     "url": "https://www.mirror.co.uk/sport/football/news/ezri-konsa-relishing-harry-kane-37787178",
+     "pub": "2026-10-19T13:00+00:00"
+    },
+    {
+     "medio": "FourFourTwo",
+     "titulo": "HENRY WINTER: Viktor Gyokeres has reason to feel frustrated, as Arsenal can't find a formula up front",
+     "url": "https://www.fourfourtwo.com/team/henry-winter-viktor-gyokeres-has-reason-to-feel-frustrated-as-arsenal-cant-find-a-formula-up-front",
+     "pub": "2026-10-19T09:46+00:00"
+    },
+    {
+     "medio": "Yahoo",
+     "titulo": "Forest boss names Arsenal pairing ‘best in the world’",
+     "url": "https://sports.yahoo.com/articles/forest-boss-names-arsenal-pairing-120500183.html",
+     "pub": "2026-10-19T12:05+00:00"
+    },
+    {
+     "medio": "Yahoo",
+     "titulo": "Arsenal and Spurs keeping tabs on La Liga starlet",
+     "url": "https://sports.yahoo.com/articles/arsenal-spurs-keeping-tabs-la-115000472.html",
+     "pub": "2026-10-19T11:50+00:00"
+    },
+    {
+     "medio": "Yahoo",
+     "titulo": "Manchester City star ruled out of Arsenal clash with 8-week injury",
+     "url": "https://sports.yahoo.com/articles/manchester-city-star-ruled-arsenal-115000675.html",
+     "pub": "2026-10-19T11:50+00:00"
+    },
+    {
+     "medio": "Google News EN",
+     "titulo": "WSL: London City Lionesses showing rapid development in pursuit of Champions League football as Arsenal flop again",
+     "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOY0pGUUo2WGE0WWR3NnpheWpYMzF6S2NocS14aThqYWJVUE1QRTV1eWtLRkFZeEdVSkV2YTloM1o4RDk5Vng3VVB4SHc0MVRKVGhVMHdsV1RsMHpDaHNJLUFaanAxSFd0UDZMbUs3eDRJZUxHc2E2QS1na3A1M2lwX0lfVllYTzlpVTRxOVJFVUdGXzVoUWIyTUNYTmN0VTgxeFJLaHpEWENiWVFjOWJneGJ3S1hPNzU4WTh3ZGhMWDhhUWxWNEZxdVNmTTBjaDh2Y3JJZXVnaXhvcTNtQzNMZV9QT0x5cHpWeDVEVDRoTFdQSXVI?oc=5",
+     "pub": "2026-10-19T11:18+00:00"
+    },
+    {
+     "medio": "Kicker",
+     "titulo": "Ein Abend voller Patzer: Bayerns bitterer Abend gegen Arsenal",
+     "url": "https://www.kicker.de/ein-abend-voller-patzer-bayerns-bitterer-abend-gegen-arsenal-1263019/video#omrss",
+     "pub": "2026-10-19T13:03+00:00"
     }
    ]
   },
@@ -383,193 +766,6 @@
      "titulo": "Tottenham vs Coventry LIVE! Premier League match updates, teams, news and score",
      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPbFM3aE8yamgyMVVnZUVtY3ZFa29KRmpOaWNrWDdwU1p0bWgwdFIxZ3dFeEZhNUczeW01V2k2SS1TMHlHVUNIZ040RU9ETVZnZVJDRmJucDZnSW1qOGpVR25VTUhIX2d6bHNmWml3cENtSi1NQTd0SV9mbmdLZFExaEZXS0Jrc1FRWDBqQ09TZEpXcGw3QXZMWUZxV0xBTWNFd2ZncUN6djhwUnYzOHo3U1N1Y1NLLXpzUmtlRkt4UV9xNUsyeXNEeHZn?oc=5",
      "pub": "2026-10-19T17:35+00:00"
-    }
-   ]
-  },
-  {
-   "tema": "Portugal",
-   "medios": 13,
-   "lista_medios": [
-    "Daily Mail",
-    "Foot Mercato",
-    "FourFourTwo",
-    "Google News AR",
-    "Google News EN",
-    "Google News ES",
-    "Guardian",
-    "Infobae",
-    "Mirror",
-    "Record",
-    "Sky Sports",
-    "Yahoo",
-    "talkSPORT"
-   ],
-   "primera_vez": "2026-10-19T20:07+00:00",
-   "titulares": [
-    {
-     "medio": "Guardian",
-     "titulo": "Cristiano Ronaldo receives 30-day suspension and £215 fine over Portugal walkout",
-     "url": "https://www.theguardian.com/football/2026/oct/19/cristiano-ronaldo-30-day-suspension-and-215-fine-portugal-walkout",
-     "pub": "2026-10-19T18:07+00:00"
-    },
-    {
-     "medio": "Sky Sports",
-     "titulo": "Ronaldo punished over Portugal walkout with fine he can pay off in 39 seconds",
-     "url": "https://www.skysports.com/football/news/12040/13601082/cristiano-ronaldo-portugal-captain-punished-over-walkout-following-explosive-row-with-head-coach-jorge-jesus",
-     "pub": "2026-10-19T19:06+00:00"
-    },
-    {
-     "medio": "talkSPORT",
-     "titulo": "Cristiano Ronaldo gets meaningless ban and receives miniscule fine for Portugal walkout",
-     "url": "https://talksport.com/football/4654582/cristiano-ronaldo-ban-small-fine-portugal-walkout/",
-     "pub": "2026-10-19T17:54+00:00"
-    },
-    {
-     "medio": "Daily Mail",
-     "titulo": "Cristiano Ronaldo will miss NO games and is handed a measly £215 fine - which will take the £488,000-a-day superstar just 38 SECONDS to pay off - for walking out of Portugal camp",
-     "url": "https://www.dailymail.com/sport/football/article-16221551/cristiano-ronaldo-ban-fine-portugal.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-     "pub": "2026-10-19T18:38+00:00"
-    },
-    {
-     "medio": "Mirror",
-     "titulo": "Cristiano Ronaldo suspended by Portugal FA and fined minimal three-figure sum after walk out",
-     "url": "https://www.mirror.co.uk/sport/football/news/cristiano-ronaldo-portugal-suspension-fine-37788918",
-     "pub": "2026-10-19T18:44+00:00"
-    },
-    {
-     "medio": "Yahoo",
-     "titulo": "Cristiano Ronaldo receives 30-day suspension and £215 fine for walking out on Portugal squad",
-     "url": "https://sports.yahoo.com/articles/cristiano-ronaldo-receives-30-day-193000208.html",
-     "pub": "2026-10-19T19:30+00:00"
-    },
-    {
-     "medio": "Google News ES",
-     "titulo": "¿Qué ha pasado con Cristiano Ronaldo y qué sanción tiene que cumplir con Portugal?",
-     "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPbDJmLTdkaWtrZkI5MkhMSGZpNGFhUVI3NEhta0RNeXNtQThJaGFMNUNpZ2VOY0hEUlM5dkY5QzNEbkRIOFVfOXpfaFNsZUktQUpFYVpoT2F3ZkV5MjQwa0lQczZEcjRkMmxNbmpKZ2t0UEh6d0FXSGg3d1dJVC1leWVnOFI2bkRYUEgxTy1DMGVqTTQ2NzRWYTR4V0hpaFpPamVIRkJJMEFBSFVnVVBUNjJKWGtUcWRib09lUW1uVHpvWGFqWmlkcEYzLWhyanhXSFVR?oc=5",
-     "pub": "2026-10-19T18:02+00:00"
-    },
-    {
-     "medio": "Foot Mercato",
-     "titulo": "Portugal : Cristiano Ronaldo écope d’une amende de 255 euros après avoir quitté le rassemblement",
-     "url": "https://www.footmercato.net/a4085482573856023024-portugal-cristiano-ronaldo-ecope-dune-amende-de-255-euros-apres-avoir-quitte-le-rassemblement",
-     "pub": "2026-10-19T17:26+00:00"
-    },
-    {
-     "medio": "Record",
-     "titulo": "<![CDATA[ Victor Nicolatti e o êxito do Olhanense na Taça de Portugal: «Adeptos criaram atmosfera espetacular\" ]]>",
-     "url": "https://www.record.pt/futebol/futebol-nacional/taca-de-portugal/detalhe/victor-nicolatti-e-o-exito-do-olhanense-na-taca-de-portugal-adeptos-criaram-atmosfera-espetacular",
-     "pub": "2026-10-19T18:34+00:00"
-    },
-    {
-     "medio": "Infobae",
-     "titulo": "Se conoció la curiosa sanción a Cristiano Ronaldo tras el escándalo en la selección de Portugal: el detalle que causó furor",
-     "url": "https://www.infobae.com/deportes/2026/10/19/se-conocio-la-sancion-a-cristiano-ronaldo-tras-el-escandalo-en-la-seleccion-de-portugal-el-detalle-que-causo-furor/",
-     "pub": "2026-10-19T19:06+00:00"
-    },
-    {
-     "medio": "Google News AR",
-     "titulo": "La insólita sanción que recibió Cristiano Ronaldo por abandonar la concentración de Portugal",
-     "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPM2RVTm1jeWhSVjRSWEQ1MmRYQXc5TU1JV2RTdzJYM1RraEtFbEJxRlNaaDB4bHZvUE1XZ19SbTZtU2JTaVZ0UUg2NGZaNzNzVEZfTko4S3M2dnJhY1BEMUpqYTUwOEE3YWp3R2FaRzh2UWRBVDRTSEozTGlmcEpzT281TGczLTR4VF9welBWejNSUWxXN09fQlRjWHlfYVEtT2dveEg0aW9SemdjX1dlaU85RXJpRlVhMVRTUTZEdUpjTkRSRDU3cjFtd3R3N2xHcWl4ckhJc1AxZ3g5WGU1UVVxdURNRWtzYk1WNUpmeDZsTWMzQVgtWW9jdWdnYUJ50gGUAkFVX3lxTE9VZkQzX2hEOVE0OFMtUFl4SkFheVdkWVVNLVBPaU1SZFFxUlF6OGgzOGowTXg4LVp6SFFVcE5YNzRhUHVFd3Jfc1oyczR1ZlpOTkxwYUZ3T2JZQ0xTWGxkY1NZdV9PTDgxYW91OHdpUmxNVG9fc09xV3ZEcXNBZDgxaURWMy1FLUJZYmlJVE9hVEpEUDFjclhpcGVUcHZpUndhSVRvTlMtOXM0YnBfMGdFWWplWGpuRFFqNHVWTHBYU015c1VrV2hlUzBETjd5VlpqZHAyV1BBZzR1VWdSV2NOMUJEWnVaRF84cWYwcnV5YXFNbkE4YlhqUXVLRm9rMUttZTg5d3VWV0F5bEgxWUQ0YmlpYg?oc=5",
-     "pub": "2026-10-19T18:24+00:00"
-    },
-    {
-     "medio": "Google News AR",
-     "titulo": "La sanción de Portugal para Cristiano Ronaldo",
-     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNSUxFWElNRUptVWxTTkt1OHAtcVZ3RUh2VWNwTkhERC00MnZqVlNMRHg1NWhwVTFVc3dIQl9jQjhwWUsyN240STNQMEJoRUw1WVM4VnBZUzBUYndUR3cxWllwaVhyUEpaUmZUa2NPblY0dlRvVC0tVTVyc194enJuZXpEdGo1SnAzZU8zZUpneGpnODd1dVHSAZsBQVVfeXFMUEQzaWNjY2EwaXZiQkR5ck9Qc3FsX21FSk1ZbElDNVhiblR2MHRaTmMySTVmUTMyOVI5bkFqRkhfU3NGMm0wbWp6NUhoOEMxc08wYW9PM2NRbldVc3E1LXBuSmNOSTcwWjR5Z0w0TWJmWW8zODY0RnpJbHhmajc1VVpzUS1OMnlyV000WmhqTmJHTE0wNTFuZGxSRW8?oc=5",
-     "pub": "2026-10-19T18:05+00:00"
-    }
-   ]
-  },
-  {
-   "tema": "Manchester",
-   "medios": 12,
-   "lista_medios": [
-    "Foot Mercato",
-    "FourFourTwo",
-    "Google News AR",
-    "Google News EN",
-    "Guardian",
-    "Infobae",
-    "L'Equipe",
-    "Mundo Deportivo",
-    "Planet Football",
-    "Yahoo",
-    "ge.globo",
-    "talkSPORT"
-   ],
-   "primera_vez": "2026-10-19T13:50+00:00",
-   "titulares": [
-    {
-     "medio": "Guardian",
-     "titulo": "Semenyo’s eight-week injury absence leaves Manchester City short on cover for Haaland",
-     "url": "https://www.theguardian.com/football/2026/oct/19/antoine-semenyo-eight-week-knee-injury-absence-manchester-city-short-cover-erling-haaland",
-     "pub": "2026-10-19T13:03+00:00"
-    },
-    {
-     "medio": "talkSPORT",
-     "titulo": "Manchester United told to play new man as striker after Bruno Fernandes failure as false 9",
-     "url": "https://talksport.com/football/4652858/bryan-mbeumo-manchester-united-striker-analysis-lineup/",
-     "pub": "2026-10-19T09:15+00:00"
-    },
-    {
-     "medio": "Planet Football",
-     "titulo": "Unai Emery is performing miracles which should infuriate Manchester United",
-     "url": "https://www.planetfootball.com/premier-league/unai-emery-aston-villa-miracles-infuriate-man-utd",
-     "pub": "2026-10-19T10:55+00:00"
-    },
-    {
-     "medio": "Yahoo",
-     "titulo": "Manchester City star ruled out of Arsenal clash with 8-week injury",
-     "url": "https://sports.yahoo.com/articles/manchester-city-star-ruled-arsenal-115000675.html",
-     "pub": "2026-10-19T11:50+00:00"
-    },
-    {
-     "medio": "Google News EN",
-     "titulo": "Champions League: Manchester City manager Enzo Maresca on Antoine Semenyo injury and Erling Haaland possibly missing game against AEK Athens",
-     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBGaGxpQmZGRkZKaE00dUhJemJBNllVcTQxZGlpSXo1bnBMbXdRd2pJYS1lWGNXaV8zMVFJWDlJVXEyV1BsOHJIRzB1cmU4bHVFeVBHaGtTWDVhMWx5RllPcjBGTE1PS3Zn?oc=5",
-     "pub": "2026-10-19T13:07+00:00"
-    },
-    {
-     "medio": "L'Equipe",
-     "titulo": "L'ailier de Manchester City Antoine Semenyo absent huit semaines selon Enzo Maresca",
-     "url": "https://www.lequipe.fr/Football/Actualites/L-ailier-de-manchester-city-antoine-semenyo-absent-huit-semaines-selon-enzo-maresca/1736967#at_medium=RSS_feeds",
-     "pub": "2026-10-19T13:14+00:00"
-    },
-    {
-     "medio": "ge.globo",
-     "titulo": "Jogadores do Manchester United estão proibidos de falar com a imprensa, diz jornal",
-     "url": "https://ge.globo.com/futebol/futebol-internacional/noticia/2026/10/19/jogadores-do-manchester-united-sao-proibidos-de-falar-com-a-imprensa-diz-jornal.ghtml",
-     "pub": "2026-10-19T12:59+00:00"
-    },
-    {
-     "medio": "talkSPORT",
-     "titulo": "Crystal Palace hit with unusual kick-off time double-whammy as Manchester United and Arsenal games rearranged",
-     "url": "https://talksport.com/football/4654232/crystal-palace-fixture-change-kick-off-time-date-man-utd-arsenal/",
-     "pub": "2026-10-19T16:54+00:00"
-    },
-    {
-     "medio": "FourFourTwo",
-     "titulo": "Manchester United risk huge managerial misstep amid Antonio Conte u-turn: report",
-     "url": "https://www.fourfourtwo.com/person/coaches-managers/manchester-united-risk-huge-managerial-misstep-amid-antonio-conte-u-turn-report",
-     "pub": "2026-10-19T16:00+00:00"
-    },
-    {
-     "medio": "FourFourTwo",
-     "titulo": "Manchester United record-breaker eyed up by Barcelona for January swoop: report",
-     "url": "https://www.fourfourtwo.com/transfer/manchester-united-record-breaker-eyed-up-by-barcelona-for-january-swoop-report",
-     "pub": "2026-10-19T15:59+00:00"
-    },
-    {
-     "medio": "FourFourTwo",
-     "titulo": "Manchester City to receive HUGE points deduction guaranteeing relegation: report",
-     "url": "https://www.fourfourtwo.com/team/manchester-city-to-receive-huge-points-deduction-guaranteeing-relegation-report",
-     "pub": "2026-10-19T15:21+00:00"
-    },
-    {
-     "medio": "FourFourTwo",
-     "titulo": "Manchester United star plans swift exit amid Michael Carrick tensions: report",
-     "url": "https://www.fourfourtwo.com/transfer/manchester-united-star-plans-swift-exit-amid-michael-carrick-tensions-report",
-     "pub": "2026-10-19T14:00+00:00"
     }
    ]
   },
@@ -853,187 +1049,94 @@
    ]
   },
   {
-   "tema": "Hag",
-   "medios": 12,
-   "lista_medios": [
-    "Daily Mail",
-    "Foot Mercato",
-    "Google News EN",
-    "Guardian",
-    "L'Equipe",
-    "Mirror",
-    "Mundo Deportivo",
-    "Record",
-    "Sky Sports",
-    "Yahoo",
-    "ge.globo",
-    "talkSPORT"
-   ],
-   "primera_vez": "2026-10-20T11:59+00:00",
-   "titulares": [
-    {
-     "medio": "Guardian",
-     "titulo": "Erik ten Hag accuses Cristiano Ronaldo of ‘letting down’ Manchester United",
-     "url": "https://www.theguardian.com/football/2026/oct/20/erik-ten-hag-accuses-cristiano-ronaldo-of-letting-down-manchester-united",
-     "pub": "2026-10-20T10:43+00:00"
-    },
-    {
-     "medio": "Sky Sports",
-     "titulo": "Transfer Centre LIVE! Ten Hag reveals FIVE players he wanted at Man Utd",
-     "url": "https://www.skysports.com/football/live-blog/12040/12476234/transfer-centre-live-football-transfer-news-updates-and-rumours",
-     "pub": "2026-10-20T10:25+00:00"
-    },
-    {
-     "medio": "Sky Sports",
-     "titulo": "Explained: Why there was tension between Ten Hag and Ronaldo",
-     "url": "https://www.skysports.com/watch/video/13601277/explained-why-was-there-tension-between-erik-ten-hag-and-cristiano-ronaldo",
-     "pub": "2026-10-20T10:50+00:00"
-    },
-    {
-     "medio": "Sky Sports",
-     "titulo": "Ten Hag on Man Utd's broken 'promises', wanting Kane and Ronaldo tension",
-     "url": "https://www.skysports.com/football/news/12040/13601227/erik-ten-hag-interview-man-utds-broken-promises-wanting-kane-ronaldo-tension-fa-cup-glory",
-     "pub": "2026-10-20T08:10+00:00"
-    },
-    {
-     "medio": "talkSPORT",
-     "titulo": "Erik ten Hag eviscerates Cristiano Ronaldo with bombshell claims – ‘he let his team down’",
-     "url": "https://talksport.com/football/4654965/erik-ten-hag-cristiano-ronaldo-professionalism-manchester-united/",
-     "pub": "2026-10-20T08:33+00:00"
-    },
-    {
-     "medio": "Daily Mail",
-     "titulo": "Man United have a 'toxic culture', sparked by the 'Madrid' trio of Cristiano Ronaldo, Raphael Varane and Casemiro, claims ex-boss Erik ten Hag in damning breakdown of player discipline",
-     "url": "https://www.dailymail.com/sport/football/article-16222781/man-united-toxic-culture-erik-ten-hag-cristiano-ronaldo-real-madrid-trio.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-     "pub": "2026-10-20T11:26+00:00"
-    },
-    {
-     "medio": "Daily Mail",
-     "titulo": "Erik ten Hag accuses Man United chiefs of breaking 'promises' that they would not sell Scott McTominay, made in infamous Ibiza contract summit, as he picks apart their transfer business",
-     "url": "https://www.dailymail.com/sport/football/article-16222779/Erik-ten-Hag-accuses-Man-United-chiefs-breaking-promises-selling-Scott-McTominay.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-     "pub": "2026-10-20T08:25+00:00"
-    },
-    {
-     "medio": "Mirror",
-     "titulo": "Erik ten Hag blasts Cristiano Ronaldo and reveals real reason for Man Utd bust-up",
-     "url": "https://www.mirror.co.uk/sport/football/news/man-utd-ronaldo-ten-hag-37790665",
-     "pub": "2026-10-20T10:55+00:00"
-    },
-    {
-     "medio": "Mirror",
-     "titulo": "Piers Morgan accuses Erik ten Hag of LYING about Cristiano Ronaldo in furious response",
-     "url": "https://www.mirror.co.uk/sport/football/news/piers-morgan-ten-hag-ronaldo-37790281",
-     "pub": "2026-10-20T09:42+00:00"
-    },
-    {
-     "medio": "Mirror",
-     "titulo": "Erik ten Hag slams Man Utd for breaking promises and 'embarrassing' Scott McTominay transfer",
-     "url": "https://www.mirror.co.uk/sport/football/news/ten-hag-man-utd-mctominay-37789847",
-     "pub": "2026-10-20T08:52+00:00"
-    },
-    {
-     "medio": "Yahoo",
-     "titulo": "Erik ten Hag accuses Cristiano Ronaldo of unprofessionalism at Manchester United",
-     "url": "https://sports.yahoo.com/articles/erik-ten-hag-accuses-cristiano-104722624.html",
-     "pub": "2026-10-20T10:47+00:00"
-    },
-    {
-     "medio": "Yahoo",
-     "titulo": "Erik ten Hag recalls being ‘embarrassed’ by Man United after promise broken over keeping player",
-     "url": "https://sports.yahoo.com/articles/erik-ten-hag-recalls-being-091501262.html",
-     "pub": "2026-10-20T09:15+00:00"
-    }
-   ]
-  },
-  {
-   "tema": "Arsenal",
+   "tema": "Liverpool",
    "medios": 11,
    "lista_medios": [
+    "AS",
+    "BBC",
     "Daily Mail",
-    "Foot Mercato",
     "FourFourTwo",
-    "Google News EN",
-    "Guardian",
-    "Kicker",
     "Mirror",
+    "Mundo Deportivo",
     "Planet Football",
-    "Sky Sports",
+    "Record",
     "Yahoo",
+    "ge.globo",
     "talkSPORT"
    ],
    "primera_vez": "2026-10-19T13:50+00:00",
    "titulares": [
     {
-     "medio": "Guardian",
-     "titulo": "Bayern and Luis Díaz warm up for Arsenal revenge mission with furious rout of Leipzig | Andy Brassell",
-     "url": "https://www.theguardian.com/football/2026/oct/19/bayern-munich-luis-diaz-arsenal-revenge-mission-leipzig-bundesliga",
-     "pub": "2026-10-19T11:49+00:00"
-    },
-    {
-     "medio": "Sky Sports",
-     "titulo": "Merson: Brighton defeat scared Arsenal – they won’t beat Bayern",
-     "url": "https://www.skysports.com/football/news/12040/13600922/arsenal-were-spooked-by-brighton-defeat-and-have-reverted-to-type-they-wont-beat-bayern-munich-says-paul-merson",
-     "pub": "2026-10-19T11:34+00:00"
-    },
-    {
-     "medio": "Sky Sports",
-     "titulo": "London City developing at a rapid rate as Arsenal flop again",
-     "url": "https://www.skysports.com/football/news/12040/13600861/wsl-london-city-lionesses-showing-rapid-development-in-pursuit-of-champions-league-football-as-arsenal-flop-again",
-     "pub": "2026-10-19T12:00+00:00"
-    },
-    {
      "medio": "talkSPORT",
-     "titulo": "Arsenal held secret talks with Mauricio Pochettino as surprise shortlist before hiring Mikel Arteta revealed",
-     "url": "https://talksport.com/football/4653300/mauricio-pochettino-arsenal-managerial-shortlist-revealed-mikel-arteta/",
-     "pub": "2026-10-19T12:04+00:00"
-    },
-    {
-     "medio": "Daily Mail",
-     "titulo": "The unsustainable trend and underlying deficiency Arsenal have to address if they're to keep winning - and why Eberechi Eze being Mikel Arteta's fall guy is a worrying case of deja-vu, writes ISAAN KHAN",
-     "url": "https://www.dailymail.com/sport/football/article-16214377/arsenal-nottingham-forest-analysis-premier-league.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-     "pub": "2026-10-19T08:32+00:00"
-    },
-    {
-     "medio": "Mirror",
-     "titulo": "Ezri Konsa relishing Harry Kane duel as he bids to help Arsenal end Champions League hoodoo",
-     "url": "https://www.mirror.co.uk/sport/football/news/ezri-konsa-relishing-harry-kane-37787178",
-     "pub": "2026-10-19T13:00+00:00"
+     "titulo": "Where to watch Liverpool vs Villarreal? TV channel and how to follow Champions League clash for FREE",
+     "url": "https://talksport.com/football/4653151/liverpool-vs-villarreal-tv-channel-where-to-watch-free-stream-teams-champions-league/",
+     "pub": "2026-10-19T12:28+00:00"
     },
     {
      "medio": "FourFourTwo",
-     "titulo": "HENRY WINTER: Viktor Gyokeres has reason to feel frustrated, as Arsenal can't find a formula up front",
-     "url": "https://www.fourfourtwo.com/team/henry-winter-viktor-gyokeres-has-reason-to-feel-frustrated-as-arsenal-cant-find-a-formula-up-front",
-     "pub": "2026-10-19T09:46+00:00"
+     "titulo": "Liverpool stumbled upon a tactical solution to their Florian Wirtz problem – and it’s disarmingly simple",
+     "url": "https://www.fourfourtwo.com/tactic/liverpool-stumbled-upon-a-tactical-solution-to-their-florian-wirtz-problem-and-its-disarmingly-simple",
+     "pub": "2026-10-19T11:00+00:00"
+    },
+    {
+     "medio": "FourFourTwo",
+     "titulo": "Florian Wirtz considers future at Liverpool amid growing interest from Chelsea and Bayern Munich: report",
+     "url": "https://www.fourfourtwo.com/transfer/florian-wirtz-considers-future-at-liverpool-amid-growing-interest-from-chelsea-and-bayern-munich-report",
+     "pub": "2026-10-19T09:37+00:00"
     },
     {
      "medio": "Yahoo",
-     "titulo": "Forest boss names Arsenal pairing ‘best in the world’",
-     "url": "https://sports.yahoo.com/articles/forest-boss-names-arsenal-pairing-120500183.html",
-     "pub": "2026-10-19T12:05+00:00"
-    },
-    {
-     "medio": "Yahoo",
-     "titulo": "Arsenal and Spurs keeping tabs on La Liga starlet",
-     "url": "https://sports.yahoo.com/articles/arsenal-spurs-keeping-tabs-la-115000472.html",
+     "titulo": "Report: Liverpool would rather wait until summer to move for £100m target",
+     "url": "https://sports.yahoo.com/articles/report-liverpool-rather-wait-until-115000465.html",
      "pub": "2026-10-19T11:50+00:00"
     },
     {
      "medio": "Yahoo",
-     "titulo": "Manchester City star ruled out of Arsenal clash with 8-week injury",
-     "url": "https://sports.yahoo.com/articles/manchester-city-star-ruled-arsenal-115000675.html",
-     "pub": "2026-10-19T11:50+00:00"
+     "titulo": "Fantastic news, Liverpool deal should be official soon thanks to Andoni Iraola",
+     "url": "https://sports.yahoo.com/articles/fantastic-news-liverpool-deal-official-114000437.html",
+     "pub": "2026-10-19T11:40+00:00"
     },
     {
-     "medio": "Google News EN",
-     "titulo": "WSL: London City Lionesses showing rapid development in pursuit of Champions League football as Arsenal flop again",
-     "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOY0pGUUo2WGE0WWR3NnpheWpYMzF6S2NocS14aThqYWJVUE1QRTV1eWtLRkFZeEdVSkV2YTloM1o4RDk5Vng3VVB4SHc0MVRKVGhVMHdsV1RsMHpDaHNJLUFaanAxSFd0UDZMbUs3eDRJZUxHc2E2QS1na3A1M2lwX0lfVllYTzlpVTRxOVJFVUdGXzVoUWIyTUNYTmN0VTgxeFJLaHpEWENiWVFjOWJneGJ3S1hPNzU4WTh3ZGhMWDhhUWxWNEZxdVNmTTBjaDh2Y3JJZXVnaXhvcTNtQzNMZV9QT0x5cHpWeDVEVDRoTFdQSXVI?oc=5",
-     "pub": "2026-10-19T11:18+00:00"
+     "medio": "talkSPORT",
+     "titulo": "Liverpool star picks up new injury in major squad blow for Andoni Iraola",
+     "url": "https://talksport.com/football/4653897/jeremie-frimpong-new-injury-liverpool-andoni-iraola/",
+     "pub": "2026-10-19T15:03+00:00"
     },
     {
-     "medio": "Kicker",
-     "titulo": "Ein Abend voller Patzer: Bayerns bitterer Abend gegen Arsenal",
-     "url": "https://www.kicker.de/ein-abend-voller-patzer-bayerns-bitterer-abend-gegen-arsenal-1263019/video#omrss",
-     "pub": "2026-10-19T13:03+00:00"
+     "medio": "Yahoo",
+     "titulo": "Liverpool have incredible new playmaker, he's better than Florian Wirtz",
+     "url": "https://sports.yahoo.com/articles/liverpool-incredible-playmaker-hes-better-194000814.html",
+     "pub": "2026-10-19T19:40+00:00"
+    },
+    {
+     "medio": "Yahoo",
+     "titulo": "Gomez, Tsimikas And Gravenberch To Start | 4-2-3-1 Liverpool Predicted Lineup Vs Villarreal",
+     "url": "https://sports.yahoo.com/articles/gomez-tsimikas-gravenberch-start-4-192000328.html",
+     "pub": "2026-10-19T19:20+00:00"
+    },
+    {
+     "medio": "Yahoo",
+     "titulo": "Andoni Iraola provides positive Liverpool injury update after double blow",
+     "url": "https://sports.yahoo.com/articles/andoni-iraola-provides-positive-liverpool-185000426.html",
+     "pub": "2026-10-19T18:50+00:00"
+    },
+    {
+     "medio": "Yahoo",
+     "titulo": "Liverpool to explore cheaper Ronald Araujo summer option",
+     "url": "https://sports.yahoo.com/articles/liverpool-explore-cheaper-ronald-araujo-184000925.html",
+     "pub": "2026-10-19T18:40+00:00"
+    },
+    {
+     "medio": "Mundo Deportivo",
+     "titulo": "Araújo, sobre la opción de compra del Liverpool: \"Aún es pronto\"",
+     "url": "https://www.mundodeportivo.com/futbol/champions-league/20261019/1004240714/araujo-sobre-opcion-compra-liverpool-aun-pronto.html",
+     "pub": ""
+    },
+    {
+     "medio": "Record",
+     "titulo": "<![CDATA[ FC Porto anuncia que bilhetes para Liverpool já esgotaram ]]>",
+     "url": "https://www.record.pt/futebol/futebol-nacional/liga-betclic/fc-porto/detalhe/fc-porto-anuncia-que-bilhetes-para-liverpool-ja-esgotaram",
+     "pub": "2026-10-19T18:40+00:00"
     }
    ]
   },
@@ -1091,12 +1194,6 @@
      "pub": "2026-10-19T07:07+00:00"
     },
     {
-     "medio": "Daily Mail",
-     "titulo": "After nearly seven years of being Man United's main man is the time drawing near when Bruno Fernandes will have to pass on that mantle? His display vs Leeds was a microcosm of his season, writes CHRIS WHEELER",
-     "url": "https://www.dailymail.com/sport/football/article-16214367/bruno-fernandes-manchester-united.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-     "pub": "2026-10-19T01:00+00:00"
-    },
-    {
      "medio": "Mirror",
      "titulo": "Man City charges LIVE: BBC pundit 'leaks punishment' as Premier League clubs left 'fuming'",
      "url": "https://www.mirror.co.uk/sport/football/news/man-city-charges-live-punishment-37785643",
@@ -1125,93 +1222,113 @@
      "titulo": "Man Utd may be rushed to appoint Michael Carrick's successor as new twist emerges",
      "url": "https://www.mirror.co.uk/sport/football/news/man-utd-carrick-antonio-conte-37785802",
      "pub": "2026-10-19T07:29+00:00"
+    },
+    {
+     "medio": "Mirror",
+     "titulo": "Gary Neville thinks Man Utd dressing room have 'definitely had a tear up'",
+     "url": "https://www.mirror.co.uk/sport/football/news/man-utd-gary-neville-martinez-37785684",
+     "pub": "2026-10-19T07:11+00:00"
     }
    ]
   },
   {
-   "tema": "Haaland",
-   "medios": 9,
+   "tema": "Bayern",
+   "medios": 10,
    "lista_medios": [
-    "BBC",
     "Daily Mail",
-    "Foot Mercato",
+    "FourFourTwo",
     "Google News EN",
     "Guardian",
-    "Mirror",
-    "Mundo Deportivo",
+    "Kicker",
+    "L'Equipe",
+    "Sky Sports",
     "Yahoo",
+    "ge.globo",
     "talkSPORT"
    ],
    "primera_vez": "2026-10-19T13:50+00:00",
    "titulares": [
     {
-     "medio": "BBC",
-     "titulo": "Haaland a doubt, Semenyo out - what are Man City's options?",
-     "url": "https://www.bbc.co.uk/sport/football/articles/c5djv21rkekwo?at_medium=RSS&at_campaign=rss",
-     "pub": "2026-10-19T13:11+00:00"
+     "medio": "Guardian",
+     "titulo": "Bayern and Luis Díaz warm up for Arsenal revenge mission with furious rout of Leipzig | Andy Brassell",
+     "url": "https://www.theguardian.com/football/2026/oct/19/bayern-munich-luis-diaz-arsenal-revenge-mission-leipzig-bundesliga",
+     "pub": "2026-10-19T11:49+00:00"
+    },
+    {
+     "medio": "Sky Sports",
+     "titulo": "Merson: Brighton defeat scared Arsenal – they won’t beat Bayern",
+     "url": "https://www.skysports.com/football/news/12040/13600922/arsenal-were-spooked-by-brighton-defeat-and-have-reverted-to-type-they-wont-beat-bayern-munich-says-paul-merson",
+     "pub": "2026-10-19T11:34+00:00"
+    },
+    {
+     "medio": "FourFourTwo",
+     "titulo": "Florian Wirtz considers future at Liverpool amid growing interest from Chelsea and Bayern Munich: report",
+     "url": "https://www.fourfourtwo.com/transfer/florian-wirtz-considers-future-at-liverpool-amid-growing-interest-from-chelsea-and-bayern-munich-report",
+     "pub": "2026-10-19T09:37+00:00"
     },
     {
      "medio": "Guardian",
-     "titulo": "Semenyo’s eight-week injury absence leaves Manchester City short on cover for Haaland",
-     "url": "https://www.theguardian.com/football/2026/oct/19/antoine-semenyo-eight-week-knee-injury-absence-manchester-city-short-cover-erling-haaland",
-     "pub": "2026-10-19T13:03+00:00"
+     "titulo": "Konsa bullish about Arsenal’s Champions League hopes as Bayern clash looms",
+     "url": "https://www.theguardian.com/football/2026/oct/19/ezri-konsa-arsenal-champions-league-bayern-munich",
+     "pub": "2026-10-19T14:00+00:00"
     },
     {
-     "medio": "Mirror",
-     "titulo": "Enzo Maresca confirms huge Man City injury blow and gives Erling Haaland update",
-     "url": "https://www.mirror.co.uk/sport/football/news/maresca-haaland-man-city-semenyo-37787653",
-     "pub": "2026-10-19T13:13+00:00"
+     "medio": "Kicker",
+     "titulo": "Bühl schaltet den Turbo an: Bayern überrollt den VfB",
+     "url": "https://www.kicker.de/buehl-schaltet-den-turbo-an-bayern-ueberrollt-den-vfb-1263089/video#omrss",
+     "pub": "2026-10-19T18:16+00:00"
     },
     {
      "medio": "Yahoo",
-     "titulo": "Enzo Maresca provides Erling Haaland injury update and confirms Antoine Semenyo blow",
-     "url": "https://sports.yahoo.com/articles/enzo-maresca-provides-erling-haaland-114948556.html",
-     "pub": "2026-10-19T11:56+00:00"
+     "titulo": "2 injured Arsenal players return to training pre-Bayern clash",
+     "url": "https://sports.yahoo.com/articles/2-injured-arsenal-players-return-112000168.html",
+     "pub": "2026-10-20T11:20+00:00"
+    },
+    {
+     "medio": "Yahoo",
+     "titulo": "How to watch Bayern Munich vs Arsenal live: Stream, TV, team news, prediction",
+     "url": "https://sports.yahoo.com/articles/watch-bayern-munich-vs-arsenal-085054568.html",
+     "pub": "2026-10-20T08:50+00:00"
     },
     {
      "medio": "Google News EN",
-     "titulo": "Erling Haaland: Who could replace Man City striker against AEK Athens if he is injured?",
-     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE11dDFpRWFWZ1dqMWRBV2swNm9BeGpFcVllRzhmX3JZMEVCTUJhS004b2RmQlJFRWZwaGYtX0dweGVjb2tCXzAyN0dkdU9aRWZOZkU2Qm1hRWhCem5BQ3h2LTBQZ2RSY1R0dUpZ?oc=5",
-     "pub": "2026-10-19T13:11+00:00"
-    },
-    {
-     "medio": "Google News EN",
-     "titulo": "Champions League: Manchester City manager Enzo Maresca on Antoine Semenyo injury and Erling Haaland possibly missing game against AEK Athens",
-     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBGaGxpQmZGRkZKaE00dUhJemJBNllVcTQxZGlpSXo1bnBMbXdRd2pJYS1lWGNXaV8zMVFJWDlJVXEyV1BsOHJIRzB1cmU4bHVFeVBHaGtTWDVhMWx5RllPcjBGTE1PS3Zn?oc=5",
-     "pub": "2026-10-19T13:07+00:00"
-    },
-    {
-     "medio": "Foot Mercato",
-     "titulo": "Man City : grosse tuile pour Antoine Semenyo, inquiétude pour Haaland",
-     "url": "https://www.footmercato.net/a7704255592288683102-man-city-grosse-tuile-pour-antoine-semenyo-inquietude-pour-haaland",
-     "pub": "2026-10-19T11:26+00:00"
+     "titulo": "European football news and transfers: Barcelona, Real Madrid, PSG, Bayern Munich latest and more",
+     "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOY1Z2bEVib3I5Skd5TUdnQkR4TnhlYjZ0UDI1QWFqMmxGd3M5WENFa1FaRmVjR01JRmpOeG1BRWxRSDBPNU41YTYtMEl6ZFlLeUxPWUx0Q05lVGM5MV9ScVpyRjFJVFA0TGw2NHRtRl9qLUZwWUpvdThaallfb0h2NUFpd2VxYjkzclNEUm1pYTdaeG1iV0Vkb1Q5d3dlX0FMSFRJelkzQU5MQmpBNGhpM1VDQTlmT2V4V29XeGE3d29Qd2lLaEdfZm1NVXhGR1BLZmk4VURndnRUUzh5MnRV?oc=5",
+     "pub": "2026-10-20T10:45+00:00"
     },
     {
      "medio": "talkSPORT",
-     "titulo": "Enzo Maresca confirms huge Antoine Semenyo injury blow and gives Erling Haaland update",
-     "url": "https://talksport.com/football/4653895/antoine-semenyo-injury-update-return-erling-haaland-manchester-city/",
-     "pub": "2026-10-19T14:01+00:00"
+     "titulo": "Harry Kane and Michael Olise decisions mean Liverpool star would get games at Bayern Munich amid surprise transfer rumour",
+     "url": "https://talksport.com/football/4655797/rio-ngumoha-bayern-rumours-contract-liverpool-harry-kane/",
+     "pub": "2026-10-20T15:11+00:00"
+    },
+    {
+     "medio": "talkSPORT",
+     "titulo": "Bayern Munich vs Arsenal LIVE commentary: Harry Kane looks to continue scoring record against Gunners",
+     "url": "https://talksport.com/football/4655580/bayern-munich-arsenal-live-commentary-harry-kane/",
+     "pub": "2026-10-20T13:29+00:00"
     },
     {
      "medio": "Daily Mail",
-     "titulo": "How can Man City survive without Erling Haaland? These are Enzo Maresca's four options - from an ideal replica and two false-nine candidates to the academy wild card",
-     "url": "https://www.dailymail.com/sport/football/article-16220891/Manchester-City-Erling-Haaland-injury.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-     "pub": "2026-10-19T16:37+00:00"
+     "titulo": "Bayern Munich boss Vincent Kompany could MISS Champions League clash against Arsenal - after suffering virus that leaves him in pain when he walks",
+     "url": "https://www.dailymail.com/sport/football/article-16223999/Vincent-Kompany-MISS-Bayern-Munichs-clash-against-Arsenal-suffering-virus.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+     "pub": "2026-10-20T14:53+00:00"
     },
     {
-     "medio": "Mundo Deportivo",
-     "titulo": "El City, con la duda de Haaland y una baja importante",
-     "url": "https://www.mundodeportivo.com/futbol/champions-league/20261019/1004240683/haaland.html",
-     "pub": ""
+     "medio": "FourFourTwo",
+     "titulo": "Bayern Munich in virus panic ahead of Arsenal clash: report",
+     "url": "https://www.fourfourtwo.com/person/player/bayern-munich-in-virus-panic-ahead-of-arsenal-clash-report",
+     "pub": "2026-10-20T15:31+00:00"
     }
    ]
   },
   {
    "tema": "Luis",
-   "medios": 9,
+   "medios": 10,
    "lista_medios": [
     "AS",
     "Foot Mercato",
+    "Google News AR",
     "Google News ES",
     "Guardian",
     "Infobae",
@@ -1293,6 +1410,448 @@
      "titulo": "PSG : Luis Enrique répond sèchement sur les violences du 17 octobre",
      "url": "https://www.footmercato.net/a103069651249876749-psg-luis-enrique-repond-sechement-sur-les-violences-du-17-octobre",
      "pub": "2026-10-19T11:48+00:00"
+    }
+   ]
+  },
+  {
+   "tema": "Lamine",
+   "medios": 10,
+   "lista_medios": [
+    "AS",
+    "Foot Mercato",
+    "Google News ES",
+    "Guardian",
+    "Infobae",
+    "Kicker",
+    "L'Equipe",
+    "Mundo Deportivo",
+    "Planet Football",
+    "Yahoo"
+   ],
+   "primera_vez": "2026-10-19T13:50+00:00",
+   "titulares": [
+    {
+     "medio": "Yahoo",
+     "titulo": "Luis Enrique explains how PSG plan to stop Lamine Yamal ahead of Barcelona clash: ‘We must not let him get the ball’",
+     "url": "https://sports.yahoo.com/articles/luis-enrique-explains-psg-plan-115600017.html",
+     "pub": "2026-10-19T11:56+00:00"
+    },
+    {
+     "medio": "Yahoo",
+     "titulo": "Vitinha praises Lamine Yamal and identifies key battle ahead of PSG vs Barcelona: ‘Best in the world along with Mbappe’",
+     "url": "https://sports.yahoo.com/articles/vitinha-praises-lamine-yamal-identifies-113800191.html",
+     "pub": "2026-10-19T11:38+00:00"
+    },
+    {
+     "medio": "AS",
+     "titulo": "Fíjense lo que hace Lamine nada más bajar del avión en París: miles de gif en camino",
+     "url": "https://as.com/futbol/videos/la-llegada-del-barca-a-paris-tiene-nombre-propio-el-flow-de-lamine-es-tremendo-f202610-v/",
+     "pub": "2026-10-19T12:33+00:00"
+    },
+    {
+     "medio": "Mundo Deportivo",
+     "titulo": "Vitinha también se rinde a Lamine: \"Lo que está haciendo es increíble\"",
+     "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261019/1004240561/vitinha-rinde-lamine-haciendo-increible.html",
+     "pub": ""
+    },
+    {
+     "medio": "L'Equipe",
+     "titulo": "Vitinha avant PSG-FC Barcelone : « Lamine Yamal ? Ce qu'il fait en ce moment, c'est incroyable »",
+     "url": "https://www.lequipe.fr/Football/Actualites/Vitinha-avant-psg-fc-barcelone-lamine-yamal-ce-qu-il-fait-en-ce-moment-c-est-incroyable/1736947#at_medium=RSS_feeds",
+     "pub": "2026-10-19T12:23+00:00"
+    },
+    {
+     "medio": "L'Equipe",
+     "titulo": "Sans Nuno Mendes, qui face à Lamine Yamal ?",
+     "url": "https://www.lequipe.fr/Football/Article/Lucas-hernandez-zaire-emery-digne-sans-nuno-mendes-qui-sera-aligne-face-a-lamine-yamal-lors-de-psg-barca-en-ligue-des-champions/1736773#at_medium=RSS_feeds",
+     "pub": "2026-10-19T06:28+00:00"
+    },
+    {
+     "medio": "Foot Mercato",
+     "titulo": "Lamine Yamal envoie un message au PSG",
+     "url": "https://www.footmercato.net/a3031583083151287210-lamine-yamal-envoie-un-message-au-psg",
+     "pub": "2026-10-19T12:31+00:00"
+    },
+    {
+     "medio": "Foot Mercato",
+     "titulo": "PSG : Luis Enrique a un plan pour neutraliser Lamine Yamal",
+     "url": "https://www.footmercato.net/a7275849256022169316-psg-luis-enrique-a-un-plan-pour-neutraliser-lamine-yamal",
+     "pub": "2026-10-19T12:20+00:00"
+    },
+    {
+     "medio": "Foot Mercato",
+     "titulo": "PSG : Vitinha n’a pas peur de Lamine Yamal",
+     "url": "https://www.footmercato.net/a1889023781360650055-psg-vitinha-na-pas-peur-de-lamine-yamal",
+     "pub": "2026-10-19T12:12+00:00"
+    },
+    {
+     "medio": "Guardian",
+     "titulo": "Will that do? Lamine Yamal conjures another magical spell as Barça pass first test | Sid Lowe",
+     "url": "https://www.theguardian.com/football/2026/oct/19/lamine-yamal-wonder-goal-barcelona-real-betis-la-liga",
+     "pub": "2026-10-19T17:29+00:00"
+    },
+    {
+     "medio": "AS",
+     "titulo": "Lamine, Mbappé, Kane, Rodri, Messi... ¿A quién darías el Balón de Oro? Vota",
+     "url": "https://as.com/futbol/internacional/lamine-mbappe-kane-rodri-messi-a-quien-darias-el-balon-de-oro-vota-f202610-n/",
+     "pub": "2026-10-19T17:03+00:00"
+    },
+    {
+     "medio": "Mundo Deportivo",
+     "titulo": "Reacción del Betis tras la expulsión de Facundo Bernal por la agresión a Lamine Yamal",
+     "url": "https://www.mundodeportivo.com/futbol/betis/20261019/1004240727/reaccion-betis-expulsion-facundo-bernal-agresion-lamine-yamal.html",
+     "pub": ""
+    }
+   ]
+  },
+  {
+   "tema": "FIFA",
+   "medios": 10,
+   "lista_medios": [
+    "Foot Mercato",
+    "Google News ES",
+    "Infobae",
+    "Kicker",
+    "L'Equipe",
+    "Ole",
+    "Record",
+    "Sky Sports",
+    "Yahoo",
+    "talkSPORT"
+   ],
+   "primera_vez": "2026-10-19T20:07+00:00",
+   "titulares": [
+    {
+     "medio": "Sky Sports",
+     "titulo": "UEFA demands answers from FIFA over Infantino dealings in urgent letter",
+     "url": "https://www.skysports.com/football/news/12040/13601072/uefa-writes-letter-to-fifa-demanding-answers-over-gianni-infantinos-presidency-and-his-relationship-with-donald-trump",
+     "pub": "2026-10-19T19:25+00:00"
+    },
+    {
+     "medio": "Yahoo",
+     "titulo": "UEFA give FIFA two-week ultimatum to release key documents over failed World Cup sell-off plan",
+     "url": "https://sports.yahoo.com/articles/uefa-fifa-two-week-ultimatum-182000919.html",
+     "pub": "2026-10-19T18:20+00:00"
+    },
+    {
+     "medio": "Google News ES",
+     "titulo": "España vs México en la Copa Mundial Femenina Sub-17 FIFA 2026: horario y dónde ver hoy por TV y online el partido de la fase de grupos",
+     "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQVVB4NnBudVJTUUlJMktDYllUaldKNnFXT0R0cUVxNGg1N1o2MFBKcF8zWWg5MV9WRHlqNHluOVg0RjIxLUJVYmo1dEt4UnFKVVZyZmc1X0wyOEpVMHpJU0Y5dzUySjJBb0phNzU2Qk5kVXY1dU5JNHYtNzlSRW5fYXdsT2lQVTNmdW0tN3ZOOTR5YklCeWpXRHlaYTJNeWxqRmhkRUVsbG12TlItR1cwcUg2MEd0cW9lUjRvbEtnX19PaGlJb19iODk0c3lZckxEQlNST0xZcw?oc=5",
+     "pub": "2026-10-19T08:43+00:00"
+    },
+    {
+     "medio": "L'Equipe",
+     "titulo": "L'UEFA a envoyé une liste de 42 questions à la FIFA sur le prix de la paix, le carton rouge de Folarin Balogun et le projet FFE",
+     "url": "https://www.lequipe.fr/Football/Actualites/L-uefa-a-envoye-une-liste-de-42-questions-a-la-fifa-sur-le-prix-de-la-paix-le-carton-rouge-de-folarin-balogun-et-le-projet-ffe/1737099#at_medium=RSS_feeds",
+     "pub": "2026-10-19T19:43+00:00"
+    },
+    {
+     "medio": "Record",
+     "titulo": "<![CDATA[ CD \"remete\" para Direção Jurídica a comunicação do castigo de Ronaldo à UEFA e FIFA ]]>",
+     "url": "https://www.record.pt/futebol/selecoes/detalhe/cd-remete-para-direcao-juridica-a-comunicacao-do-castigo-de-ronaldo-a-uefa-e-fifa",
+     "pub": "2026-10-19T18:43+00:00"
+    },
+    {
+     "medio": "Record",
+     "titulo": "<![CDATA[ UEFA lança estas 42 perguntas à FIFA ]]>",
+     "url": "https://www.record.pt/internacional/detalhe/uefa-lanca-estas-42-perguntas-a-fifa",
+     "pub": "2026-10-19T18:33+00:00"
+    },
+    {
+     "medio": "Ole",
+     "titulo": "De la roja a Balogun al financiamiento privado del fútbol: la UEFA le puso un plazo de dos semanas a la FIFA para responder 42 preguntas clave",
+     "url": "https://www.ole.com.ar/futbol-internacional/roja-balogun-fifa-forward-enterprise-financiamiento-reclamo-uefa-gianni-infantino-carta-42-preguntas-ultimatum_0_x5x44HP8tV.html",
+     "pub": "2026-10-19T19:26+00:00"
+    },
+    {
+     "medio": "talkSPORT",
+     "titulo": "UEFA piles pressure on FIFA demanding more from Gianni Infantino in damning letter",
+     "url": "https://talksport.com/football/4654735/uefa-fifa-demand-gianni-infantino-letter-donald-trump/",
+     "pub": "2026-10-19T20:34+00:00"
+    },
+    {
+     "medio": "Kicker",
+     "titulo": "WM-Nachspiel für Ägypten: FIFA sperrt Trainer, Teammanager und Spieler",
+     "url": "https://www.kicker.de/wm-nachspiel-fuer-aegypten-fifa-sperrt-trainer-teammanager-und-spieler-1263276/artikel#omrss",
+     "pub": "2026-10-20T11:08+00:00"
+    },
+    {
+     "medio": "Foot Mercato",
+     "titulo": "FIFA : l’UEFA exige des réponses à 42 questions taboues à Infantino",
+     "url": "https://www.footmercato.net/a1988575350381864245-fifa-luefa-exigent-des-reponses-a-42-questions-taboues-a-infantino",
+     "pub": "2026-10-19T21:48+00:00"
+    },
+    {
+     "medio": "Foot Mercato",
+     "titulo": "Coupe du Monde 2026 : un sélectionneur suspendu par la FIFA",
+     "url": "https://www.footmercato.net/a1486154445610674758-coupe-du-monde-2026-un-selectionneur-suspendu-par-la-fifa",
+     "pub": "2026-10-19T21:33+00:00"
+    },
+    {
+     "medio": "Record",
+     "titulo": "<![CDATA[ Portugal desce dois lugares no ranking feminino da FIFA ]]>",
+     "url": "https://www.record.pt/futebol/selecao-feminina/detalhe/portugal-desce-dois-lugares-no-ranking-feminino-da-fifa",
+     "pub": "2026-10-20T09:55+00:00"
+    }
+   ]
+  },
+  {
+   "tema": "UEFA",
+   "medios": 10,
+   "lista_medios": [
+    "Foot Mercato",
+    "Google News ES",
+    "Kicker",
+    "Mirror",
+    "Mundo Deportivo",
+    "Ole",
+    "Record",
+    "Sky Sports",
+    "Yahoo",
+    "talkSPORT"
+   ],
+   "primera_vez": "2026-10-19T20:07+00:00",
+   "titulares": [
+    {
+     "medio": "Sky Sports",
+     "titulo": "UEFA demands answers from FIFA over Infantino dealings in urgent letter",
+     "url": "https://www.skysports.com/football/news/12040/13601072/uefa-writes-letter-to-fifa-demanding-answers-over-gianni-infantinos-presidency-and-his-relationship-with-donald-trump",
+     "pub": "2026-10-19T19:25+00:00"
+    },
+    {
+     "medio": "Yahoo",
+     "titulo": "Three talking points ahead of PSG vs Barcelona | UEFA Champions League",
+     "url": "https://sports.yahoo.com/articles/three-talking-points-ahead-psg-190000900.html",
+     "pub": "2026-10-19T19:00+00:00"
+    },
+    {
+     "medio": "Yahoo",
+     "titulo": "UEFA give FIFA two-week ultimatum to release key documents over failed World Cup sell-off plan",
+     "url": "https://sports.yahoo.com/articles/uefa-fifa-two-week-ultimatum-182000919.html",
+     "pub": "2026-10-19T18:20+00:00"
+    },
+    {
+     "medio": "Mundo Deportivo",
+     "titulo": "La UEFA da un ultimátum a Infantino",
+     "url": "https://www.mundodeportivo.com/futbol/internacional/20261019/1004240705/uefa-da-ultimatum-infantino.html",
+     "pub": ""
+    },
+    {
+     "medio": "Kicker",
+     "titulo": "UEFA erhöht Druck: 42 Fragen an Infantino",
+     "url": "https://www.kicker.de/uefa-erhoeht-druck-42-fragen-an-infantino-1263096/artikel#omrss",
+     "pub": "2026-10-19T18:44+00:00"
+    },
+    {
+     "medio": "Record",
+     "titulo": "<![CDATA[ CD \"remete\" para Direção Jurídica a comunicação do castigo de Ronaldo à UEFA e FIFA ]]>",
+     "url": "https://www.record.pt/futebol/selecoes/detalhe/cd-remete-para-direcao-juridica-a-comunicacao-do-castigo-de-ronaldo-a-uefa-e-fifa",
+     "pub": "2026-10-19T18:43+00:00"
+    },
+    {
+     "medio": "Record",
+     "titulo": "<![CDATA[ UEFA lança estas 42 perguntas à FIFA ]]>",
+     "url": "https://www.record.pt/internacional/detalhe/uefa-lanca-estas-42-perguntas-a-fifa",
+     "pub": "2026-10-19T18:33+00:00"
+    },
+    {
+     "medio": "Ole",
+     "titulo": "De la roja a Balogun al financiamiento privado del fútbol: la UEFA le puso un plazo de dos semanas a la FIFA para responder 42 preguntas clave",
+     "url": "https://www.ole.com.ar/futbol-internacional/roja-balogun-fifa-forward-enterprise-financiamiento-reclamo-uefa-gianni-infantino-carta-42-preguntas-ultimatum_0_x5x44HP8tV.html",
+     "pub": "2026-10-19T19:26+00:00"
+    },
+    {
+     "medio": "talkSPORT",
+     "titulo": "UEFA piles pressure on FIFA demanding more from Gianni Infantino in damning letter",
+     "url": "https://talksport.com/football/4654735/uefa-fifa-demand-gianni-infantino-letter-donald-trump/",
+     "pub": "2026-10-19T20:34+00:00"
+    },
+    {
+     "medio": "Yahoo",
+     "titulo": "🤩 European nights are back! Follow Italian clubs in UEFA action on NOW📺",
+     "url": "https://sports.yahoo.com/articles/european-nights-back-italian-clubs-091000508.html",
+     "pub": "2026-10-20T09:10+00:00"
+    },
+    {
+     "medio": "Foot Mercato",
+     "titulo": "FIFA : l’UEFA exige des réponses à 42 questions taboues à Infantino",
+     "url": "https://www.footmercato.net/a1988575350381864245-fifa-luefa-exigent-des-reponses-a-42-questions-taboues-a-infantino",
+     "pub": "2026-10-19T21:48+00:00"
+    },
+    {
+     "medio": "Mirror",
+     "titulo": "Man City's Champions League wildcard with UEFA battle serving as Premier League warning",
+     "url": "https://www.mirror.co.uk/sport/football/news/man-city-champions-league-uefa-37792029",
+     "pub": "2026-10-20T14:56+00:00"
+    }
+   ]
+  },
+  {
+   "tema": "Erik",
+   "medios": 10,
+   "lista_medios": [
+    "Daily Mail",
+    "Foot Mercato",
+    "FourFourTwo",
+    "Google News EN",
+    "Guardian",
+    "L'Equipe",
+    "Mirror",
+    "Record",
+    "Yahoo",
+    "talkSPORT"
+   ],
+   "primera_vez": "2026-10-20T11:59+00:00",
+   "titulares": [
+    {
+     "medio": "Guardian",
+     "titulo": "Erik ten Hag accuses Cristiano Ronaldo of ‘letting down’ Manchester United",
+     "url": "https://www.theguardian.com/football/2026/oct/20/erik-ten-hag-accuses-cristiano-ronaldo-of-letting-down-manchester-united",
+     "pub": "2026-10-20T10:43+00:00"
+    },
+    {
+     "medio": "talkSPORT",
+     "titulo": "Erik ten Hag eviscerates Cristiano Ronaldo with bombshell claims – ‘he let his team down’",
+     "url": "https://talksport.com/football/4654965/erik-ten-hag-cristiano-ronaldo-professionalism-manchester-united/",
+     "pub": "2026-10-20T08:33+00:00"
+    },
+    {
+     "medio": "Daily Mail",
+     "titulo": "Man United have a 'toxic culture', sparked by the 'Madrid' trio of Cristiano Ronaldo, Raphael Varane and Casemiro, claims ex-boss Erik ten Hag in damning breakdown of player discipline",
+     "url": "https://www.dailymail.com/sport/football/article-16222781/man-united-toxic-culture-erik-ten-hag-cristiano-ronaldo-real-madrid-trio.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+     "pub": "2026-10-20T11:26+00:00"
+    },
+    {
+     "medio": "Daily Mail",
+     "titulo": "Erik ten Hag accuses Man United chiefs of breaking 'promises' that they would not sell Scott McTominay, made in infamous Ibiza contract summit, as he picks apart their transfer business",
+     "url": "https://www.dailymail.com/sport/football/article-16222779/Erik-ten-Hag-accuses-Man-United-chiefs-breaking-promises-selling-Scott-McTominay.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+     "pub": "2026-10-20T08:25+00:00"
+    },
+    {
+     "medio": "Mirror",
+     "titulo": "Erik ten Hag blasts Cristiano Ronaldo and reveals real reason for Man Utd bust-up",
+     "url": "https://www.mirror.co.uk/sport/football/news/man-utd-ronaldo-ten-hag-37790665",
+     "pub": "2026-10-20T10:55+00:00"
+    },
+    {
+     "medio": "Mirror",
+     "titulo": "Piers Morgan accuses Erik ten Hag of LYING about Cristiano Ronaldo in furious response",
+     "url": "https://www.mirror.co.uk/sport/football/news/piers-morgan-ten-hag-ronaldo-37790281",
+     "pub": "2026-10-20T09:42+00:00"
+    },
+    {
+     "medio": "Mirror",
+     "titulo": "Erik ten Hag slams Man Utd for breaking promises and 'embarrassing' Scott McTominay transfer",
+     "url": "https://www.mirror.co.uk/sport/football/news/ten-hag-man-utd-mctominay-37789847",
+     "pub": "2026-10-20T08:52+00:00"
+    },
+    {
+     "medio": "Yahoo",
+     "titulo": "Erik ten Hag accuses Cristiano Ronaldo of unprofessionalism at Manchester United",
+     "url": "https://sports.yahoo.com/articles/erik-ten-hag-accuses-cristiano-104722624.html",
+     "pub": "2026-10-20T10:47+00:00"
+    },
+    {
+     "medio": "Yahoo",
+     "titulo": "Erik ten Hag recalls being ‘embarrassed’ by Man United after promise broken over keeping player",
+     "url": "https://sports.yahoo.com/articles/erik-ten-hag-recalls-being-091501262.html",
+     "pub": "2026-10-20T09:15+00:00"
+    },
+    {
+     "medio": "Google News EN",
+     "titulo": "Cristiano Ronaldo and Erik ten Hag: Why there was tension EXPLAINED",
+     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNUUVIOHdmV0ZOQm50SVhXWlp5M25RaGlIektmX0FBTE13bklDamJpaTdsUzFLRks1elkxYkJFSGxZUTBKc1FGazAzSDBRZkZ6ODFEbUl1R2FNWEU4YlBPNzYwMXM5a1g2YlJrc09yQkJIYk9hVHBrMURMaXRCZXNsVHV4Y1BRRmRJN0s3UnNBVzBMVHBmSEFLNV9aQUZmQ1JxTXBUWnVTN3gtRENjN0V2U0hmeG5tOGktVTRwWTZRUUcydw?oc=5",
+     "pub": "2026-10-20T10:16+00:00"
+    },
+    {
+     "medio": "L'Equipe",
+     "titulo": "Erik ten Hag revient sur sa collaboration avec Cristiano Ronaldo à Manchester United : « Il a laissé tomber l'équipe, et il m'a laissé tomber aussi »",
+     "url": "https://www.lequipe.fr/Football/Actualites/Erik-ten-hag-revient-sur-sa-collaboration-avec-cristiano-ronaldo-a-manchester-united-il-a-laisse-tomber-l-equipe-et-il-m-a-laisse-tomber-aussi/1737163#at_medium=RSS_feeds",
+     "pub": "2026-10-20T09:20+00:00"
+    },
+    {
+     "medio": "Foot Mercato",
+     "titulo": "« Il ne courait ni avec le ballon ni sans » : Erik ten Hag allume Cristiano Ronaldo",
+     "url": "https://www.footmercato.net/a5942653654218832341-il-ne-courait-ni-avec-le-ballon-ni-sans-erik-ten-hag-allume-cristiano-ronaldo",
+     "pub": "2026-10-20T10:35+00:00"
+    }
+   ]
+  },
+  {
+   "tema": "Haaland",
+   "medios": 9,
+   "lista_medios": [
+    "BBC",
+    "Daily Mail",
+    "Foot Mercato",
+    "Google News EN",
+    "Guardian",
+    "Mirror",
+    "Mundo Deportivo",
+    "Yahoo",
+    "talkSPORT"
+   ],
+   "primera_vez": "2026-10-19T13:50+00:00",
+   "titulares": [
+    {
+     "medio": "BBC",
+     "titulo": "Haaland a doubt, Semenyo out - what are Man City's options?",
+     "url": "https://www.bbc.co.uk/sport/football/articles/c5djv21rkekwo?at_medium=RSS&at_campaign=rss",
+     "pub": "2026-10-19T13:11+00:00"
+    },
+    {
+     "medio": "Guardian",
+     "titulo": "Semenyo’s eight-week injury absence leaves Manchester City short on cover for Haaland",
+     "url": "https://www.theguardian.com/football/2026/oct/19/antoine-semenyo-eight-week-knee-injury-absence-manchester-city-short-cover-erling-haaland",
+     "pub": "2026-10-19T13:03+00:00"
+    },
+    {
+     "medio": "Mirror",
+     "titulo": "Enzo Maresca confirms huge Man City injury blow and gives Erling Haaland update",
+     "url": "https://www.mirror.co.uk/sport/football/news/maresca-haaland-man-city-semenyo-37787653",
+     "pub": "2026-10-19T13:13+00:00"
+    },
+    {
+     "medio": "Yahoo",
+     "titulo": "Enzo Maresca provides Erling Haaland injury update and confirms Antoine Semenyo blow",
+     "url": "https://sports.yahoo.com/articles/enzo-maresca-provides-erling-haaland-114948556.html",
+     "pub": "2026-10-19T11:56+00:00"
+    },
+    {
+     "medio": "Google News EN",
+     "titulo": "Erling Haaland: Who could replace Man City striker against AEK Athens if he is injured?",
+     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE11dDFpRWFWZ1dqMWRBV2swNm9BeGpFcVllRzhmX3JZMEVCTUJhS004b2RmQlJFRWZwaGYtX0dweGVjb2tCXzAyN0dkdU9aRWZOZkU2Qm1hRWhCem5BQ3h2LTBQZ2RSY1R0dUpZ?oc=5",
+     "pub": "2026-10-19T13:11+00:00"
+    },
+    {
+     "medio": "Google News EN",
+     "titulo": "Champions League: Manchester City manager Enzo Maresca on Antoine Semenyo injury and Erling Haaland possibly missing game against AEK Athens",
+     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBGaGxpQmZGRkZKaE00dUhJemJBNllVcTQxZGlpSXo1bnBMbXdRd2pJYS1lWGNXaV8zMVFJWDlJVXEyV1BsOHJIRzB1cmU4bHVFeVBHaGtTWDVhMWx5RllPcjBGTE1PS3Zn?oc=5",
+     "pub": "2026-10-19T13:07+00:00"
+    },
+    {
+     "medio": "Foot Mercato",
+     "titulo": "Man City : grosse tuile pour Antoine Semenyo, inquiétude pour Haaland",
+     "url": "https://www.footmercato.net/a7704255592288683102-man-city-grosse-tuile-pour-antoine-semenyo-inquietude-pour-haaland",
+     "pub": "2026-10-19T11:26+00:00"
+    },
+    {
+     "medio": "talkSPORT",
+     "titulo": "Enzo Maresca confirms huge Antoine Semenyo injury blow and gives Erling Haaland update",
+     "url": "https://talksport.com/football/4653895/antoine-semenyo-injury-update-return-erling-haaland-manchester-city/",
+     "pub": "2026-10-19T14:01+00:00"
+    },
+    {
+     "medio": "Daily Mail",
+     "titulo": "How can Man City survive without Erling Haaland? These are Enzo Maresca's four options - from an ideal replica and two false-nine candidates to the academy wild card",
+     "url": "https://www.dailymail.com/sport/football/article-16220891/Manchester-City-Erling-Haaland-injury.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+     "pub": "2026-10-19T16:37+00:00"
+    },
+    {
+     "medio": "Mundo Deportivo",
+     "titulo": "El City, con la duda de Haaland y una baja importante",
+     "url": "https://www.mundodeportivo.com/futbol/champions-league/20261019/1004240683/haaland.html",
+     "pub": ""
     }
    ]
   },
@@ -1459,17 +2018,107 @@
    ]
   },
   {
-   "tema": "Lamine",
+   "tema": "Messi",
    "medios": 9,
    "lista_medios": [
     "AS",
     "Foot Mercato",
+    "Google News AR",
     "Google News ES",
-    "Guardian",
     "Infobae",
-    "Kicker",
     "L'Equipe",
     "Mundo Deportivo",
+    "Ole",
+    "Yahoo"
+   ],
+   "primera_vez": "2026-10-19T13:50+00:00",
+   "titulares": [
+    {
+     "medio": "Yahoo",
+     "titulo": "Neymar calls Santos Brazil's Inter Miami and tags Messi and Beckham",
+     "url": "https://sports.yahoo.com/articles/neymar-calls-santos-brazils-inter-133800408.html",
+     "pub": "2026-10-19T13:38+00:00"
+    },
+    {
+     "medio": "Ole",
+     "titulo": "La comparación que hizo Neymar y el guiño a Messi",
+     "url": "https://www.ole.com.ar/futbol-internacional/neymar-santos-brasileirao-messi-inter-miami_0_2v02CXsblo.html",
+     "pub": "2026-10-19T12:32+00:00"
+    },
+    {
+     "medio": "AS",
+     "titulo": "Lamine, Mbappé, Kane, Rodri, Messi... ¿A quién darías el Balón de Oro? Vota",
+     "url": "https://as.com/futbol/internacional/lamine-mbappe-kane-rodri-messi-a-quien-darias-el-balon-de-oro-vota-f202610-n/",
+     "pub": "2026-10-19T17:03+00:00"
+    },
+    {
+     "medio": "L'Equipe",
+     "titulo": "Une plante, des fossiles, un lézard et un champignon : Lionel Messi établit un nouveau record insolite, celui du plus grand nombre d'espèces nommées d'après un footballeur",
+     "url": "https://www.lequipe.fr/Football/Actualites/Une-plante-des-fossiles-un-lezard-et-un-champignon-lionel-messi-etablit-un-nouveau-record-insolite-celui-du-plus-grand-nombre-d-especes-nommees-d-apres-un-footballeur/1737012#at_medium=RSS_feeds",
+     "pub": "2026-10-19T15:22+00:00"
+    },
+    {
+     "medio": "Ole",
+     "titulo": "Antes de enfrentar al Madrid, Demichelis habló del caso Mastantuono y se puso nostálgico por Messi",
+     "url": "https://www.ole.com.ar/futbol-internacional/martin-demichelis-franco-mastantuono-lionel-messi-re-leipzig-real-madrid-river_0_p9fVFChFdz.html",
+     "pub": "2026-10-19T19:05+00:00"
+    },
+    {
+     "medio": "Infobae",
+     "titulo": "La contundente reflexión de Luis Enrique sobre las comparaciones entre Lionel Messi y Lamine Yamal",
+     "url": "https://www.infobae.com/deportes/2026/10/19/la-contundente-reflexion-de-luis-enrique-sobre-las-comparaciones-entre-lionel-messi-y-lamine-yamal/",
+     "pub": "2026-10-19T15:09+00:00"
+    },
+    {
+     "medio": "Google News AR",
+     "titulo": "Gran inicio del torneo formativo \"Lionel Messi\"",
+     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPY1VvQVYxRnpHTGNMQ2FHSzQ0YWRiazFUYkVSUVZsbVRvTzYzQ3F5bGRlSm5DM1lMZGNDWGFQV1FtNFM5NW93NDZnSW1tWFd3N29oQW1wT0gtMVlEYURLZ25GQWEzQVA0Nm10Vzg3X19hZXFMaDl3NXRKblFCYlFuNXEtaw?oc=5",
+     "pub": "2026-10-19T14:40+00:00"
+    },
+    {
+     "medio": "Google News AR",
+     "titulo": "Un campeón del mundo con España se refirió a la comparación entre Yamal y Messi: \"Es complicado\"",
+     "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPV3VPLUxjd25OWTVxU0t3SnhOYVRzeVpWNUNJc2l6akliVW1GaHVCTlBEeVo4WEoxVlg2QWtLc2oxMDF2cjA2Y0w0QnBMMHM4WHZTVEVBSzJCeHcwTlFrV0NSaDl3U3NhTGhOYmxXdEtWZGJuZnU4Wm9xS3VTTHNJOUQ2dHo0V3gtQzhiY0h3QWV1RTROc0lMdHNJMHBNMzlzYlIxWDRfeXpqbExTcS1tMGFWVjdUc0cycUFCeGpWUURLeFotVTEtSW9jMmxvOXpQNkltUFNR0gHbAUFVX3lxTE1mT2phSmdWcjV1ekxER01NLVRoSW9xaXdJcUl2dHZVbHNkRzROVGlTYmI4c3J4dG1KdmQ2aE56UDRRNkw4MEpNQUd2dFRRNEFsT0g5dHRNQ0VqUWRKWjNPNlVDUjV0Q05ueEllOTNaZ2pHX1EwcGxDc0tITE9IVUNTMVdTYXBFMlY1ZnZUZU1Xai10QXkyNWZqc2tBYzRtVTM4aXhmaGZraHJhZlJoSzdBdHp3OEZ2TjNjcC1RRU55ZElQeHFWcjdxUS1iV0lNS3lxSWg4bVNKWHdEOA?oc=5",
+     "pub": "2026-10-19T19:40+00:00"
+    },
+    {
+     "medio": "AS",
+     "titulo": "“Es mejor mi dupla con Cristo que con Messi...”",
+     "url": "https://as.com/futbol/internacional/es-mejor-mi-dupla-con-cristo-que-con-messi-f202610-n/",
+     "pub": "2026-10-20T08:56+00:00"
+    },
+    {
+     "medio": "Google News ES",
+     "titulo": "Dani Alves reflexiona sobre su pasado en el fútbol con una homilía religiosa: \"Es mejor mi dupla con Cristo que con Messi\"",
+     "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQSzFqWTJ4S253SHpyQWw4dlZhSUNHOUZrWE5zRk5SaE9zaUNPZG9qUFYzNjE0TVRGQmRYOEl1QmJ5SVJJUkxvdnUzRWxmVzV4Zmk5OGVOQVJPY3lVOXpMcS1YVGlXNGoxLWNiTkppd2J1UjhUTHFaLXdCd1k0clVyX3RldndMYkItMTZCdzV2LU4wbEFhV1ozWElEU2hSVmdwR0p4VkdpcnlqQnR0R3RMM0JhYTg2VnI2cGpBUzVxWURDX2ZoUUFrQkhHbEVTSTVWdDd2UVl1SmVaU05NdlgtZWhnOVM4NU9WNjM1RTl6TVZfUGh4djlaQm1IbnpqQQ?oc=5",
+     "pub": "2026-10-20T11:22+00:00"
+    },
+    {
+     "medio": "Infobae",
+     "titulo": "El video inédito del golazo de Messi tras ridiculizar a Junior Alonso y la inesperada reacción de los hinchas rivales",
+     "url": "https://www.infobae.com/deportes/2026/10/19/el-video-inedito-del-golazo-de-messi-tras-ridiculizar-a-junior-alonso-la-inesperada-reaccion-de-los-hinchas-rivales/",
+     "pub": "2026-10-20T10:26+00:00"
+    },
+    {
+     "medio": "Infobae",
+     "titulo": "La sorprendente sentencia de Dani Alves sobre cómo trataban a Messi en Argentina antes de los títulos",
+     "url": "https://www.infobae.com/deportes/2026/10/20/la-sorprendente-sentencia-de-dani-alves-sobre-como-trataban-a-messi-en-argentina-antes-de-los-titulos/",
+     "pub": "2026-10-20T03:36+00:00"
+    }
+   ]
+  },
+  {
+   "tema": "Enrique",
+   "medios": 9,
+   "lista_medios": [
+    "AS",
+    "Foot Mercato",
+    "Google News AR",
+    "Google News ES",
+    "Infobae",
+    "L'Equipe",
+    "Mundo Deportivo",
+    "Record",
     "Yahoo"
    ],
    "primera_vez": "2026-10-19T13:50+00:00",
@@ -1481,40 +2130,52 @@
      "pub": "2026-10-19T11:56+00:00"
     },
     {
-     "medio": "Yahoo",
-     "titulo": "Vitinha praises Lamine Yamal and identifies key battle ahead of PSG vs Barcelona: ‘Best in the world along with Mbappe’",
-     "url": "https://sports.yahoo.com/articles/vitinha-praises-lamine-yamal-identifies-113800191.html",
-     "pub": "2026-10-19T11:38+00:00"
-    },
-    {
-     "medio": "AS",
-     "titulo": "Fíjense lo que hace Lamine nada más bajar del avión en París: miles de gif en camino",
-     "url": "https://as.com/futbol/videos/la-llegada-del-barca-a-paris-tiene-nombre-propio-el-flow-de-lamine-es-tremendo-f202610-v/",
-     "pub": "2026-10-19T12:33+00:00"
+     "medio": "Mundo Deportivo",
+     "titulo": "Luis Enrique, a vueltas con el ADN del Barça: \"Flick encaja\"",
+     "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261019/1004240584/luis-enrique-vueltas-adn-barca-flick-encaja.html",
+     "pub": ""
     },
     {
      "medio": "Mundo Deportivo",
-     "titulo": "Vitinha también se rinde a Lamine: \"Lo que está haciendo es increíble\"",
-     "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261019/1004240561/vitinha-rinde-lamine-haciendo-increible.html",
+     "titulo": "Luis Enrique, contundente en la comparación Messi-Lamine y explica cómo frenarlo",
+     "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261019/1004240576/luis-enrique-contundente-comparacion-messi-lamine-explica-frenar-crack-cule.html",
+     "pub": ""
+    },
+    {
+     "medio": "Mundo Deportivo",
+     "titulo": "Rueda de prensa de Luis Enrique y Vitinha, en directo: previa y última hora del PSG - FC Barcelona de la Champions League",
+     "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261019/1004240308/rueda-prensa-luis-enrique-directo-previa-ultima-hora-psg-fc-barcelona-champions-league.html",
+     "pub": ""
+    },
+    {
+     "medio": "Mundo Deportivo",
+     "titulo": "Crispación interna en el PSG por el trato de favor de Luis Enrique a Dro, según L'Équipe",
+     "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261019/1004240504/crispacion-interna-psg-trato-favor-luis-enrique-dro-l-equipe.html",
      "pub": ""
     },
     {
      "medio": "L'Equipe",
-     "titulo": "Vitinha avant PSG-FC Barcelone : « Lamine Yamal ? Ce qu'il fait en ce moment, c'est incroyable »",
-     "url": "https://www.lequipe.fr/Football/Actualites/Vitinha-avant-psg-fc-barcelone-lamine-yamal-ce-qu-il-fait-en-ce-moment-c-est-incroyable/1736947#at_medium=RSS_feeds",
-     "pub": "2026-10-19T12:23+00:00"
+     "titulo": "Luis Enrique avant le choc en Ligue des champions entre le PSG et le Barça : « On se ressemble beaucoup »",
+     "url": "https://www.lequipe.fr/Football/Actualites/Luis-enrique-avant-le-choc-en-ligue-des-champions-entre-le-psg-et-le-barca-on-se-ressemble-beaucoup/1736953#at_medium=RSS_feeds",
+     "pub": "2026-10-19T12:41+00:00"
     },
     {
      "medio": "L'Equipe",
-     "titulo": "Sans Nuno Mendes, qui face à Lamine Yamal ?",
-     "url": "https://www.lequipe.fr/Football/Article/Lucas-hernandez-zaire-emery-digne-sans-nuno-mendes-qui-sera-aligne-face-a-lamine-yamal-lors-de-psg-barca-en-ligue-des-champions/1736773#at_medium=RSS_feeds",
-     "pub": "2026-10-19T06:28+00:00"
+     "titulo": "Luis Enrique : «La meilleure manière de défendre devant Yamal, c'est avoir le ballon»",
+     "url": "https://www.lequipe.fr/Football/Video/Ligue-des-champions-psg-luis-enrique-la-meilleure-maniere-de-defendre-devant-yamal-c-est-d-avoir-le-ballon/20243542#at_medium=RSS_feeds",
+     "pub": "2026-10-19T12:14+00:00"
     },
     {
-     "medio": "Foot Mercato",
-     "titulo": "Lamine Yamal envoie un message au PSG",
-     "url": "https://www.footmercato.net/a3031583083151287210-lamine-yamal-envoie-un-message-au-psg",
-     "pub": "2026-10-19T12:31+00:00"
+     "medio": "L'Equipe",
+     "titulo": "« Je ne suis personne pour parler de ce sujet » : Luis Enrique botte en touche au sujet des manifestations et des violences avant PSG-FC Barcelone",
+     "url": "https://www.lequipe.fr/Football/Actualites/-je-ne-suis-personne-pour-parler-de-ce-sujet-luis-enrique-botte-en-touche-au-sujet-des-manifestations-et-des-violences-avant-psg-fc-barcelone/1736945#at_medium=RSS_feeds",
+     "pub": "2026-10-19T11:58+00:00"
+    },
+    {
+     "medio": "L'Equipe",
+     "titulo": "De la Pena, l'ami fidèle dans l'ombre de Luis Enrique",
+     "url": "https://www.lequipe.fr/Football/Article/Amitie-fidelite-et-discretion-les-trois-maitres-mots-qui-font-d-ivan-de-la-pena-le-plus-proche-conseiller-de-luis-enrique-l-entraineur-du-psg/1736771#at_medium=RSS_feeds",
+     "pub": "2026-10-19T10:30+00:00"
     },
     {
      "medio": "Foot Mercato",
@@ -1524,207 +2185,188 @@
     },
     {
      "medio": "Foot Mercato",
-     "titulo": "PSG : Vitinha n’a pas peur de Lamine Yamal",
-     "url": "https://www.footmercato.net/a1889023781360650055-psg-vitinha-na-pas-peur-de-lamine-yamal",
-     "pub": "2026-10-19T12:12+00:00"
-    },
-    {
-     "medio": "Guardian",
-     "titulo": "Will that do? Lamine Yamal conjures another magical spell as Barça pass first test | Sid Lowe",
-     "url": "https://www.theguardian.com/football/2026/oct/19/lamine-yamal-wonder-goal-barcelona-real-betis-la-liga",
-     "pub": "2026-10-19T17:29+00:00"
+     "titulo": "PSG : Luis Enrique répond sèchement sur les violences du 17 octobre",
+     "url": "https://www.footmercato.net/a103069651249876749-psg-luis-enrique-repond-sechement-sur-les-violences-du-17-octobre",
+     "pub": "2026-10-19T11:48+00:00"
     },
     {
      "medio": "AS",
-     "titulo": "Lamine, Mbappé, Kane, Rodri, Messi... ¿A quién darías el Balón de Oro? Vota",
-     "url": "https://as.com/futbol/internacional/lamine-mbappe-kane-rodri-messi-a-quien-darias-el-balon-de-oro-vota-f202610-n/",
-     "pub": "2026-10-19T17:03+00:00"
-    },
-    {
-     "medio": "Mundo Deportivo",
-     "titulo": "Reacción del Betis tras la expulsión de Facundo Bernal por la agresión a Lamine Yamal",
-     "url": "https://www.mundodeportivo.com/futbol/betis/20261019/1004240727/reaccion-betis-expulsion-facundo-bernal-agresion-lamine-yamal.html",
-     "pub": ""
+     "titulo": "Luis Enrique: “¿La mejor manera de defender a Yamal? Teniendo todo el rato el balón\"",
+     "url": "https://as.com/futbol/champions/luis-enrique-la-mejor-manera-de-defender-a-yamal-teniendo-todo-el-rato-el-balon-f202610-n/",
+     "pub": "2026-10-19T11:49+00:00"
     }
    ]
   },
   {
-   "tema": "FIFA",
+   "tema": "Ten",
    "medios": 9,
    "lista_medios": [
-    "Foot Mercato",
+    "BBC",
     "Google News ES",
+    "Infobae",
     "Kicker",
-    "L'Equipe",
-    "Ole",
+    "Mundo Deportivo",
     "Record",
     "Sky Sports",
     "Yahoo",
-    "talkSPORT"
+    "ge.globo"
    ],
    "primera_vez": "2026-10-19T20:07+00:00",
    "titulares": [
     {
+     "medio": "Infobae",
+     "titulo": "El ranking ATP se mueve: Novak Djokovic volvió a salir del Top Ten y 10 argentinos siguen entre los 100 primeros",
+     "url": "https://www.infobae.com/deportes/2026/10/19/el-ranking-atp-se-mueve-novak-djokovic-volvio-a-salir-del-top-ten-y-10-argentinos-siguen-entre-los-100-primeros/",
+     "pub": "2026-10-19T18:47+00:00"
+    },
+    {
      "medio": "Sky Sports",
-     "titulo": "UEFA demands answers from FIFA over Infantino dealings in urgent letter",
-     "url": "https://www.skysports.com/football/news/12040/13601072/uefa-writes-letter-to-fifa-demanding-answers-over-gianni-infantinos-presidency-and-his-relationship-with-donald-trump",
-     "pub": "2026-10-19T19:25+00:00"
+     "titulo": "Transfer Centre LIVE! Ten Hag reveals FIVE players he wanted at Man Utd",
+     "url": "https://www.skysports.com/football/live-blog/12040/12476234/transfer-centre-live-football-transfer-news-updates-and-rumours",
+     "pub": "2026-10-20T10:25+00:00"
+    },
+    {
+     "medio": "Sky Sports",
+     "titulo": "Explained: Why there was tension between Ten Hag and Ronaldo",
+     "url": "https://www.skysports.com/watch/video/13601277/explained-why-was-there-tension-between-erik-ten-hag-and-cristiano-ronaldo",
+     "pub": "2026-10-20T10:50+00:00"
+    },
+    {
+     "medio": "Sky Sports",
+     "titulo": "Ten Hag on Man Utd's broken 'promises', wanting Kane and Ronaldo tension",
+     "url": "https://www.skysports.com/football/news/12040/13601227/erik-ten-hag-interview-man-utds-broken-promises-wanting-kane-ronaldo-tension-fa-cup-glory",
+     "pub": "2026-10-20T08:10+00:00"
+    },
+    {
+     "medio": "Mundo Deportivo",
+     "titulo": "Ten Hag se confiesa sobre el frustrado fichaje de Frenkie de Jong",
+     "url": "https://www.mundodeportivo.com/futbol/20261020/1004240967/ten-hag-confiesa-sobre-jong-haber-sido-importante-construir-equipo.html",
+     "pub": ""
+    },
+    {
+     "medio": "Record",
+     "titulo": "<![CDATA[ Ten Hag 'volta' ao Man. United: «Cristiano Ronaldo desiludiu a equipa e desiludiu-me a mim» ]]>",
+     "url": "https://www.record.pt/internacional/paises/inglaterra/detalhe/erik-ten-hag-e-a-relacao-com-cristiano-ronaldo-tive-de-tomar-uma-decisao-racional",
+     "pub": "2026-10-20T09:42+00:00"
+    },
+    {
+     "medio": "ge.globo",
+     "titulo": "Ten Hag lembra trabalho com Cristiano Ronaldo no United: \"Me decepcionou muito\"",
+     "url": "https://ge.globo.com/futebol/futebol-internacional/futebol-ingles/noticia/2026/10/20/ten-hag-relembra-passagem-com-cristiano-ronaldo-no-united-me-decepcionou-muito.ghtml",
+     "pub": "2026-10-20T10:05+00:00"
+    },
+    {
+     "medio": "BBC",
+     "titulo": "Ronaldo let Manchester United down - Ten Hag",
+     "url": "https://www.bbc.co.uk/sport/football/articles/c8dx32rn297wo?at_medium=RSS&at_campaign=rss",
+     "pub": "2026-10-20T12:12+00:00"
     },
     {
      "medio": "Yahoo",
-     "titulo": "UEFA give FIFA two-week ultimatum to release key documents over failed World Cup sell-off plan",
-     "url": "https://sports.yahoo.com/articles/uefa-fifa-two-week-ultimatum-182000919.html",
-     "pub": "2026-10-19T18:20+00:00"
+     "titulo": "McTominay sale ’embarrassed and disappointed’ Ten Hag at Manchester United",
+     "url": "https://sports.yahoo.com/articles/mctominay-sale-embarrassed-disappointed-ten-164000216.html",
+     "pub": "2026-10-20T16:40+00:00"
     },
     {
      "medio": "Google News ES",
-     "titulo": "España vs México en la Copa Mundial Femenina Sub-17 FIFA 2026: horario y dónde ver hoy por TV y online el partido de la fase de grupos",
-     "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQVVB4NnBudVJTUUlJMktDYllUaldKNnFXT0R0cUVxNGg1N1o2MFBKcF8zWWg5MV9WRHlqNHluOVg0RjIxLUJVYmo1dEt4UnFKVVZyZmc1X0wyOEpVMHpJU0Y5dzUySjJBb0phNzU2Qk5kVXY1dU5JNHYtNzlSRW5fYXdsT2lQVTNmdW0tN3ZOOTR5YklCeWpXRHlaYTJNeWxqRmhkRUVsbG12TlItR1cwcUg2MEd0cW9lUjRvbEtnX19PaGlJb19iODk0c3lZckxEQlNST0xZcw?oc=5",
-     "pub": "2026-10-19T08:43+00:00"
-    },
-    {
-     "medio": "L'Equipe",
-     "titulo": "L'UEFA a envoyé une liste de 42 questions à la FIFA sur le prix de la paix, le carton rouge de Folarin Balogun et le projet FFE",
-     "url": "https://www.lequipe.fr/Football/Actualites/L-uefa-a-envoye-une-liste-de-42-questions-a-la-fifa-sur-le-prix-de-la-paix-le-carton-rouge-de-folarin-balogun-et-le-projet-ffe/1737099#at_medium=RSS_feeds",
-     "pub": "2026-10-19T19:43+00:00"
-    },
-    {
-     "medio": "Record",
-     "titulo": "<![CDATA[ CD \"remete\" para Direção Jurídica a comunicação do castigo de Ronaldo à UEFA e FIFA ]]>",
-     "url": "https://www.record.pt/futebol/selecoes/detalhe/cd-remete-para-direcao-juridica-a-comunicacao-do-castigo-de-ronaldo-a-uefa-e-fifa",
-     "pub": "2026-10-19T18:43+00:00"
-    },
-    {
-     "medio": "Record",
-     "titulo": "<![CDATA[ UEFA lança estas 42 perguntas à FIFA ]]>",
-     "url": "https://www.record.pt/internacional/detalhe/uefa-lanca-estas-42-perguntas-a-fifa",
-     "pub": "2026-10-19T18:33+00:00"
-    },
-    {
-     "medio": "Ole",
-     "titulo": "De la roja a Balogun al financiamiento privado del fútbol: la UEFA le puso un plazo de dos semanas a la FIFA para responder 42 preguntas clave",
-     "url": "https://www.ole.com.ar/futbol-internacional/roja-balogun-fifa-forward-enterprise-financiamiento-reclamo-uefa-gianni-infantino-carta-42-preguntas-ultimatum_0_x5x44HP8tV.html",
-     "pub": "2026-10-19T19:26+00:00"
-    },
-    {
-     "medio": "talkSPORT",
-     "titulo": "UEFA piles pressure on FIFA demanding more from Gianni Infantino in damning letter",
-     "url": "https://talksport.com/football/4654735/uefa-fifa-demand-gianni-infantino-letter-donald-trump/",
-     "pub": "2026-10-19T20:34+00:00"
+     "titulo": "Ten Hag no se muerde la lengua sobre Cristiano Ronaldo y su etapa en el Manchester United: \"Nos falló a mí y al equipo, no corría ni con balón ni sin él\"",
+     "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxPQkNIbkpORzlFYXo2Qy1YNXU5YWJoSENoc0tUS2lZSUhmNnVZX0FLUm5NaV9GajF3emJySlpxZm5RUV9ZNXA4Q3dqRnNlZXJVaG0wclh1ZHlZaGxVNDFjcVRVT2VIdjVEYmhZOV9BSUdlV3VhcUhIbWF4Ry1Qa2hkZ2tMeTJhRUZmenc1NGRJbXlidTRaZVpzTlV1eVJubDNvVUdEMUhibms5N1FlNGdlQXd5X2VHRlFXV0R5WjRhSXVlTWY1cHZ4a0hBOS1vVUhGcDQyOTRIN2NmT3hkYi1jcDVjRTRXczV6NjBSS1JHTlhJeWRudjVqMllWdmlURFhOTXpWcGdKTzlnOFZMeHhRUjRB?oc=5",
+     "pub": "2026-10-20T16:38+00:00"
     },
     {
      "medio": "Kicker",
-     "titulo": "WM-Nachspiel für Ägypten: FIFA sperrt Trainer, Teammanager und Spieler",
-     "url": "https://www.kicker.de/wm-nachspiel-fuer-aegypten-fifa-sperrt-trainer-teammanager-und-spieler-1263276/artikel#omrss",
-     "pub": "2026-10-20T11:08+00:00"
-    },
-    {
-     "medio": "Foot Mercato",
-     "titulo": "FIFA : l’UEFA exige des réponses à 42 questions taboues à Infantino",
-     "url": "https://www.footmercato.net/a1988575350381864245-fifa-luefa-exigent-des-reponses-a-42-questions-taboues-a-infantino",
-     "pub": "2026-10-19T21:48+00:00"
-    },
-    {
-     "medio": "Foot Mercato",
-     "titulo": "Coupe du Monde 2026 : un sélectionneur suspendu par la FIFA",
-     "url": "https://www.footmercato.net/a1486154445610674758-coupe-du-monde-2026-un-selectionneur-suspendu-par-la-fifa",
-     "pub": "2026-10-19T21:33+00:00"
-    },
-    {
-     "medio": "Record",
-     "titulo": "<![CDATA[ Portugal desce dois lugares no ranking feminino da FIFA ]]>",
-     "url": "https://www.record.pt/futebol/selecao-feminina/detalhe/portugal-desce-dois-lugares-no-ranking-feminino-da-fifa",
-     "pub": "2026-10-20T09:55+00:00"
+     "titulo": "\"Er hat die Mannschaft im Stich gelassen\": Ten Hag attackiert Cristiano Ronaldo",
+     "url": "https://www.kicker.de/er-hat-die-mannschaft-im-stich-gelassen-ten-hag-attackiert-cristiano-ronaldo-1263321/artikel#omrss",
+     "pub": "2026-10-20T13:29+00:00"
     }
    ]
   },
   {
-   "tema": "Erik",
-   "medios": 9,
+   "tema": "England",
+   "medios": 8,
    "lista_medios": [
+    "BBC",
     "Daily Mail",
-    "Foot Mercato",
+    "FourFourTwo",
     "Google News EN",
     "Guardian",
-    "L'Equipe",
-    "Mirror",
-    "Record",
-    "Yahoo",
+    "Kicker",
+    "Sky Sports",
     "talkSPORT"
    ],
-   "primera_vez": "2026-10-20T11:59+00:00",
+   "primera_vez": "2026-10-19T13:50+00:00",
    "titulares": [
     {
+     "medio": "BBC",
+     "titulo": "England manager Wiegman signs contract extension",
+     "url": "https://www.bbc.co.uk/sport/football/articles/c679plpvellgo?at_medium=RSS&at_campaign=rss",
+     "pub": "2026-10-19T10:08+00:00"
+    },
+    {
      "medio": "Guardian",
-     "titulo": "Erik ten Hag accuses Cristiano Ronaldo of ‘letting down’ Manchester United",
-     "url": "https://www.theguardian.com/football/2026/oct/20/erik-ten-hag-accuses-cristiano-ronaldo-of-letting-down-manchester-united",
-     "pub": "2026-10-20T10:43+00:00"
+     "titulo": "Sarina Wiegman signs contract extension to stay as England women head coach until 2029",
+     "url": "https://www.theguardian.com/football/2026/oct/19/sarina-wiegman-signs-contract-extension-england-women-euro-2029",
+     "pub": "2026-10-19T10:00+00:00"
     },
     {
-     "medio": "talkSPORT",
-     "titulo": "Erik ten Hag eviscerates Cristiano Ronaldo with bombshell claims – ‘he let his team down’",
-     "url": "https://talksport.com/football/4654965/erik-ten-hag-cristiano-ronaldo-professionalism-manchester-united/",
-     "pub": "2026-10-20T08:33+00:00"
+     "medio": "Sky Sports",
+     "titulo": "Brook wants to be captain 'England fans can rely on'",
+     "url": "https://www.skysports.com/cricket/news/12040/13600921/harry-brook-wants-to-be-captain-england-fans-can-rely-on-odi-skipper-says-ahead-of-pakistan-sri-lanka-tri-series",
+     "pub": "2026-10-19T11:34+00:00"
+    },
+    {
+     "medio": "Sky Sports",
+     "titulo": "England Women boss Wiegman signs new deal through to Euro 2029",
+     "url": "https://www.skysports.com/football/news/12040/13600890/sarina-wiegman-england-women-boss-signs-new-two-year-contract-extension-through-to-end-of-euro-2029",
+     "pub": "2026-10-19T10:20+00:00"
+    },
+    {
+     "medio": "Sky Sports",
+     "titulo": "Spin, Crocombe and Curran: Questions for England in ODI tri-series",
+     "url": "https://www.skysports.com/cricket/news/12040/13600845/england-begin-odi-tri-series-with-pakistan-and-sri-lanka-as-henry-crocombe-sam-curran-and-spinners-look-to-impress",
+     "pub": "2026-10-19T07:30+00:00"
+    },
+    {
+     "medio": "Sky Sports",
+     "titulo": "What did we learn from England in the first round of RLWC 2026?",
+     "url": "https://www.skysports.com/rugby-league/news/12040/13600528/rugby-league-world-cup-2026-what-we-learnt-from-englands-opener-the-australia-test-and-ignoring-points-require",
+     "pub": "2026-10-19T12:20+00:00"
     },
     {
      "medio": "Daily Mail",
-     "titulo": "Man United have a 'toxic culture', sparked by the 'Madrid' trio of Cristiano Ronaldo, Raphael Varane and Casemiro, claims ex-boss Erik ten Hag in damning breakdown of player discipline",
-     "url": "https://www.dailymail.com/sport/football/article-16222781/man-united-toxic-culture-erik-ten-hag-cristiano-ronaldo-real-madrid-trio.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-     "pub": "2026-10-20T11:26+00:00"
+     "titulo": "Former England footballer Steven Caulker pleads for work on LinkedIn as he says he's now stuck unemployed and 'can't even get an interview'",
+     "url": "https://www.dailymail.com/sport/football/article-16219937/stephen-caulker-footballer-unemployed-linkedin.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+     "pub": "2026-10-19T12:56+00:00"
     },
     {
      "medio": "Daily Mail",
-     "titulo": "Erik ten Hag accuses Man United chiefs of breaking 'promises' that they would not sell Scott McTominay, made in infamous Ibiza contract summit, as he picks apart their transfer business",
-     "url": "https://www.dailymail.com/sport/football/article-16222779/Erik-ten-Hag-accuses-Man-United-chiefs-breaking-promises-selling-Scott-McTominay.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-     "pub": "2026-10-20T08:25+00:00"
+     "titulo": "England star Marc Guehi suggests taking the knee may have 'lost its meaning' and questions its significance as he leads Premier League stars in rejecting the anti-racism gesture",
+     "url": "https://www.dailymail.com/sport/football/article-16220539/Marc-Guehi-suggests-taking-knee-lost-meaning-questions-significance.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+     "pub": "2026-10-19T12:43+00:00"
     },
     {
-     "medio": "Mirror",
-     "titulo": "Erik ten Hag blasts Cristiano Ronaldo and reveals real reason for Man Utd bust-up",
-     "url": "https://www.mirror.co.uk/sport/football/news/man-utd-ronaldo-ten-hag-37790665",
-     "pub": "2026-10-20T10:55+00:00"
+     "medio": "Daily Mail",
+     "titulo": "'Completely unaware Paris is in ruins': England keeper Jordan Pickford and wife Megan's romantic 24-hour private jet break is derailed by rioting - and they had no idea it was happening!",
+     "url": "https://www.dailymail.com/sport/football/article-16219855/Megan-Jordan-Pickford-detour-escape-chaos-Paris-England-star-WAG-romantic-24-hour-private-jet-break-watch-Celine-Dion.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+     "pub": "2026-10-19T12:17+00:00"
     },
     {
-     "medio": "Mirror",
-     "titulo": "Piers Morgan accuses Erik ten Hag of LYING about Cristiano Ronaldo in furious response",
-     "url": "https://www.mirror.co.uk/sport/football/news/piers-morgan-ten-hag-ronaldo-37790281",
-     "pub": "2026-10-20T09:42+00:00"
-    },
-    {
-     "medio": "Mirror",
-     "titulo": "Erik ten Hag slams Man Utd for breaking promises and 'embarrassing' Scott McTominay transfer",
-     "url": "https://www.mirror.co.uk/sport/football/news/ten-hag-man-utd-mctominay-37789847",
-     "pub": "2026-10-20T08:52+00:00"
-    },
-    {
-     "medio": "Yahoo",
-     "titulo": "Erik ten Hag accuses Cristiano Ronaldo of unprofessionalism at Manchester United",
-     "url": "https://sports.yahoo.com/articles/erik-ten-hag-accuses-cristiano-104722624.html",
-     "pub": "2026-10-20T10:47+00:00"
-    },
-    {
-     "medio": "Yahoo",
-     "titulo": "Erik ten Hag recalls being ‘embarrassed’ by Man United after promise broken over keeping player",
-     "url": "https://sports.yahoo.com/articles/erik-ten-hag-recalls-being-091501262.html",
-     "pub": "2026-10-20T09:15+00:00"
+     "medio": "FourFourTwo",
+     "titulo": "Sarina Wiegman signs new England women's deal",
+     "url": "https://www.fourfourtwo.com/person/coaches-managers/sarina-wiegman-signs-new-england-womens-deal",
+     "pub": "2026-10-19T13:21+00:00"
     },
     {
      "medio": "Google News EN",
-     "titulo": "Cristiano Ronaldo and Erik ten Hag: Why there was tension EXPLAINED",
-     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNUUVIOHdmV0ZOQm50SVhXWlp5M25RaGlIektmX0FBTE13bklDamJpaTdsUzFLRks1elkxYkJFSGxZUTBKc1FGazAzSDBRZkZ6ODFEbUl1R2FNWEU4YlBPNzYwMXM5a1g2YlJrc09yQkJIYk9hVHBrMURMaXRCZXNsVHV4Y1BRRmRJN0s3UnNBVzBMVHBmSEFLNV9aQUZmQ1JxTXBUWnVTN3gtRENjN0V2U0hmeG5tOGktVTRwWTZRUUcydw?oc=5",
-     "pub": "2026-10-20T10:16+00:00"
+     "titulo": "Match Centre: Spain v England",
+     "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQUmNaMVhWTjR4VnhlZWZld1ppbE5YdnlfaWZ3Yi16NURlNTNyVkNXSC13ajNkVGpFQkFzTUlrU3FwRFEtSVd6aGQxOEw3Rk1zV0tTaDdCbUppellkc2tWX0hoTFdzNXpES1dFZnhWQmdzU3BjNlZia0xvUmdPRjBjWUVLSmszTTR1emhwbW1sUjlKU01tNmdLRGRoTFNISWRDQTNDVXc1dHlxTEROcW9EU3RHYWpvUjFlTzdsOVV6azN3RC1yZzRBRW52RlVUSjVGRWo4VGc1Y2U0LVNiemgxU080Y2xyNWpZUkJEdDIxTV9CS3JGZnE2TkVGeG5HZw?oc=5",
+     "pub": "2026-10-19T13:20+00:00"
     },
     {
-     "medio": "L'Equipe",
-     "titulo": "Erik ten Hag revient sur sa collaboration avec Cristiano Ronaldo à Manchester United : « Il a laissé tomber l'équipe, et il m'a laissé tomber aussi »",
-     "url": "https://www.lequipe.fr/Football/Actualites/Erik-ten-hag-revient-sur-sa-collaboration-avec-cristiano-ronaldo-a-manchester-united-il-a-laisse-tomber-l-equipe-et-il-m-a-laisse-tomber-aussi/1737163#at_medium=RSS_feeds",
-     "pub": "2026-10-20T09:20+00:00"
-    },
-    {
-     "medio": "Foot Mercato",
-     "titulo": "« Il ne courait ni avec le ballon ni sans » : Erik ten Hag allume Cristiano Ronaldo",
-     "url": "https://www.footmercato.net/a5942653654218832341-il-ne-courait-ni-avec-le-ballon-ni-sans-erik-ten-hag-allume-cristiano-ronaldo",
-     "pub": "2026-10-20T10:35+00:00"
+     "medio": "Google News EN",
+     "titulo": "Match Centre: England v Croatia",
+     "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNaEFJeGdlS1dMLVJYLThUbW5qMFZrQzR6MUh1NUJqdXVQWXRGNjVXLVQ3RXV0MGlvVHR6aGNRT2R5WDNjd0ZzMUhGUjJCU3owcFBhTUpCYTNLQWFpOHQwX043LUttUDlEMjh4ZkhyUkpwb2xJdjNPaXhWQ3lsR2h6Mm5wZDk1a0JWV3NCSjVlZFdqQ1BPOFRudW45Ujk3WUREWHA2azFpYXNPaXVYM2kxeEMzb1g1SjFkMEhlTHJoRjNzaVgyWDZBR2ZnLUhnSkM1WlhhYUpERmFGencwUHhQcjBCYjNDazB2ZWZjRjNtZTlWVjJDekM4ZE1IY3B4OTBKbnJr?oc=5",
+     "pub": "2026-10-19T12:49+00:00"
     }
    ]
   },
@@ -1889,184 +2531,6 @@
    ]
   },
   {
-   "tema": "Liverpool",
-   "medios": 8,
-   "lista_medios": [
-    "BBC",
-    "Daily Mail",
-    "FourFourTwo",
-    "Mirror",
-    "Mundo Deportivo",
-    "Record",
-    "Yahoo",
-    "talkSPORT"
-   ],
-   "primera_vez": "2026-10-19T13:50+00:00",
-   "titulares": [
-    {
-     "medio": "talkSPORT",
-     "titulo": "Where to watch Liverpool vs Villarreal? TV channel and how to follow Champions League clash for FREE",
-     "url": "https://talksport.com/football/4653151/liverpool-vs-villarreal-tv-channel-where-to-watch-free-stream-teams-champions-league/",
-     "pub": "2026-10-19T12:28+00:00"
-    },
-    {
-     "medio": "Mirror",
-     "titulo": "Liverpool news: Alex Scott back-up plan emerges as worrying issue highlighted",
-     "url": "https://www.mirror.co.uk/sport/football/news/liverpool-alex-scott-danny-murphy-37784606",
-     "pub": "2026-10-19T04:00+00:00"
-    },
-    {
-     "medio": "FourFourTwo",
-     "titulo": "Liverpool stumbled upon a tactical solution to their Florian Wirtz problem – and it’s disarmingly simple",
-     "url": "https://www.fourfourtwo.com/tactic/liverpool-stumbled-upon-a-tactical-solution-to-their-florian-wirtz-problem-and-its-disarmingly-simple",
-     "pub": "2026-10-19T11:00+00:00"
-    },
-    {
-     "medio": "FourFourTwo",
-     "titulo": "Florian Wirtz considers future at Liverpool amid growing interest from Chelsea and Bayern Munich: report",
-     "url": "https://www.fourfourtwo.com/transfer/florian-wirtz-considers-future-at-liverpool-amid-growing-interest-from-chelsea-and-bayern-munich-report",
-     "pub": "2026-10-19T09:37+00:00"
-    },
-    {
-     "medio": "Yahoo",
-     "titulo": "Report: Liverpool would rather wait until summer to move for £100m target",
-     "url": "https://sports.yahoo.com/articles/report-liverpool-rather-wait-until-115000465.html",
-     "pub": "2026-10-19T11:50+00:00"
-    },
-    {
-     "medio": "Yahoo",
-     "titulo": "Fantastic news, Liverpool deal should be official soon thanks to Andoni Iraola",
-     "url": "https://sports.yahoo.com/articles/fantastic-news-liverpool-deal-official-114000437.html",
-     "pub": "2026-10-19T11:40+00:00"
-    },
-    {
-     "medio": "talkSPORT",
-     "titulo": "Liverpool star picks up new injury in major squad blow for Andoni Iraola",
-     "url": "https://talksport.com/football/4653897/jeremie-frimpong-new-injury-liverpool-andoni-iraola/",
-     "pub": "2026-10-19T15:03+00:00"
-    },
-    {
-     "medio": "Yahoo",
-     "titulo": "Liverpool have incredible new playmaker, he's better than Florian Wirtz",
-     "url": "https://sports.yahoo.com/articles/liverpool-incredible-playmaker-hes-better-194000814.html",
-     "pub": "2026-10-19T19:40+00:00"
-    },
-    {
-     "medio": "Yahoo",
-     "titulo": "Gomez, Tsimikas And Gravenberch To Start | 4-2-3-1 Liverpool Predicted Lineup Vs Villarreal",
-     "url": "https://sports.yahoo.com/articles/gomez-tsimikas-gravenberch-start-4-192000328.html",
-     "pub": "2026-10-19T19:20+00:00"
-    },
-    {
-     "medio": "Yahoo",
-     "titulo": "Andoni Iraola provides positive Liverpool injury update after double blow",
-     "url": "https://sports.yahoo.com/articles/andoni-iraola-provides-positive-liverpool-185000426.html",
-     "pub": "2026-10-19T18:50+00:00"
-    },
-    {
-     "medio": "Yahoo",
-     "titulo": "Liverpool to explore cheaper Ronald Araujo summer option",
-     "url": "https://sports.yahoo.com/articles/liverpool-explore-cheaper-ronald-araujo-184000925.html",
-     "pub": "2026-10-19T18:40+00:00"
-    },
-    {
-     "medio": "Mundo Deportivo",
-     "titulo": "Araújo, sobre la opción de compra del Liverpool: \"Aún es pronto\"",
-     "url": "https://www.mundodeportivo.com/futbol/champions-league/20261019/1004240714/araujo-sobre-opcion-compra-liverpool-aun-pronto.html",
-     "pub": ""
-    }
-   ]
-  },
-  {
-   "tema": "Enrique",
-   "medios": 8,
-   "lista_medios": [
-    "AS",
-    "Foot Mercato",
-    "Google News ES",
-    "Infobae",
-    "L'Equipe",
-    "Mundo Deportivo",
-    "Record",
-    "Yahoo"
-   ],
-   "primera_vez": "2026-10-19T13:50+00:00",
-   "titulares": [
-    {
-     "medio": "Yahoo",
-     "titulo": "Luis Enrique explains how PSG plan to stop Lamine Yamal ahead of Barcelona clash: ‘We must not let him get the ball’",
-     "url": "https://sports.yahoo.com/articles/luis-enrique-explains-psg-plan-115600017.html",
-     "pub": "2026-10-19T11:56+00:00"
-    },
-    {
-     "medio": "Mundo Deportivo",
-     "titulo": "Luis Enrique, a vueltas con el ADN del Barça: \"Flick encaja\"",
-     "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261019/1004240584/luis-enrique-vueltas-adn-barca-flick-encaja.html",
-     "pub": ""
-    },
-    {
-     "medio": "Mundo Deportivo",
-     "titulo": "Luis Enrique, contundente en la comparación Messi-Lamine y explica cómo frenarlo",
-     "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261019/1004240576/luis-enrique-contundente-comparacion-messi-lamine-explica-frenar-crack-cule.html",
-     "pub": ""
-    },
-    {
-     "medio": "Mundo Deportivo",
-     "titulo": "Rueda de prensa de Luis Enrique y Vitinha, en directo: previa y última hora del PSG - FC Barcelona de la Champions League",
-     "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261019/1004240308/rueda-prensa-luis-enrique-directo-previa-ultima-hora-psg-fc-barcelona-champions-league.html",
-     "pub": ""
-    },
-    {
-     "medio": "Mundo Deportivo",
-     "titulo": "Crispación interna en el PSG por el trato de favor de Luis Enrique a Dro, según L'Équipe",
-     "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261019/1004240504/crispacion-interna-psg-trato-favor-luis-enrique-dro-l-equipe.html",
-     "pub": ""
-    },
-    {
-     "medio": "L'Equipe",
-     "titulo": "Luis Enrique avant le choc en Ligue des champions entre le PSG et le Barça : « On se ressemble beaucoup »",
-     "url": "https://www.lequipe.fr/Football/Actualites/Luis-enrique-avant-le-choc-en-ligue-des-champions-entre-le-psg-et-le-barca-on-se-ressemble-beaucoup/1736953#at_medium=RSS_feeds",
-     "pub": "2026-10-19T12:41+00:00"
-    },
-    {
-     "medio": "L'Equipe",
-     "titulo": "Luis Enrique : «La meilleure manière de défendre devant Yamal, c'est avoir le ballon»",
-     "url": "https://www.lequipe.fr/Football/Video/Ligue-des-champions-psg-luis-enrique-la-meilleure-maniere-de-defendre-devant-yamal-c-est-d-avoir-le-ballon/20243542#at_medium=RSS_feeds",
-     "pub": "2026-10-19T12:14+00:00"
-    },
-    {
-     "medio": "L'Equipe",
-     "titulo": "« Je ne suis personne pour parler de ce sujet » : Luis Enrique botte en touche au sujet des manifestations et des violences avant PSG-FC Barcelone",
-     "url": "https://www.lequipe.fr/Football/Actualites/-je-ne-suis-personne-pour-parler-de-ce-sujet-luis-enrique-botte-en-touche-au-sujet-des-manifestations-et-des-violences-avant-psg-fc-barcelone/1736945#at_medium=RSS_feeds",
-     "pub": "2026-10-19T11:58+00:00"
-    },
-    {
-     "medio": "L'Equipe",
-     "titulo": "De la Pena, l'ami fidèle dans l'ombre de Luis Enrique",
-     "url": "https://www.lequipe.fr/Football/Article/Amitie-fidelite-et-discretion-les-trois-maitres-mots-qui-font-d-ivan-de-la-pena-le-plus-proche-conseiller-de-luis-enrique-l-entraineur-du-psg/1736771#at_medium=RSS_feeds",
-     "pub": "2026-10-19T10:30+00:00"
-    },
-    {
-     "medio": "Foot Mercato",
-     "titulo": "PSG : Luis Enrique a un plan pour neutraliser Lamine Yamal",
-     "url": "https://www.footmercato.net/a7275849256022169316-psg-luis-enrique-a-un-plan-pour-neutraliser-lamine-yamal",
-     "pub": "2026-10-19T12:20+00:00"
-    },
-    {
-     "medio": "Foot Mercato",
-     "titulo": "PSG : Luis Enrique répond sèchement sur les violences du 17 octobre",
-     "url": "https://www.footmercato.net/a103069651249876749-psg-luis-enrique-repond-sechement-sur-les-violences-du-17-octobre",
-     "pub": "2026-10-19T11:48+00:00"
-    },
-    {
-     "medio": "AS",
-     "titulo": "Luis Enrique: “¿La mejor manera de defender a Yamal? Teniendo todo el rato el balón\"",
-     "url": "https://as.com/futbol/champions/luis-enrique-la-mejor-manera-de-defender-a-yamal-teniendo-todo-el-rato-el-balon-f202610-n/",
-     "pub": "2026-10-19T11:49+00:00"
-    }
-   ]
-  },
-  {
    "tema": "Como",
    "medios": 8,
    "lista_medios": [
@@ -2146,434 +2610,101 @@
      "titulo": "Como o Atlético-MG superou anos traumáticos e fez do Brasileirão caminho para Libertadores",
      "url": "https://ge.globo.com/futebol/times/atletico-mg/noticia/2026/10/20/como-o-atletico-mg-superou-anos-traumaticos-e-fez-do-brasileirao-caminho-para-libertadores.ghtml",
      "pub": "2026-10-20T07:00+00:00"
+    },
+    {
+     "medio": "Yahoo",
+     "titulo": "Report Como ready to exchange injured Jesus Rodriguez for Champions League list",
+     "url": "https://sports.yahoo.com/articles/report-como-ready-exchange-injured-161500781.html",
+     "pub": "2026-10-20T16:15+00:00"
     }
    ]
   },
   {
-   "tema": "Infantino",
+   "tema": "Mourinho",
    "medios": 8,
    "lista_medios": [
     "AS",
-    "BBC",
     "Foot Mercato",
+    "Google News AR",
+    "Google News ES",
     "Kicker",
-    "Mundo Deportivo",
-    "Sky Sports",
-    "Yahoo",
-    "talkSPORT"
-   ],
-   "primera_vez": "2026-10-19T20:07+00:00",
-   "titulares": [
-    {
-     "medio": "BBC",
-     "titulo": "Uefa gives Infantino two-week deadline to release key documents",
-     "url": "https://www.bbc.co.uk/sport/football/articles/cq398rkpjljlo?at_medium=RSS&at_campaign=rss",
-     "pub": "2026-10-19T18:20+00:00"
-    },
-    {
-     "medio": "Sky Sports",
-     "titulo": "UEFA demands answers from FIFA over Infantino dealings in urgent letter",
-     "url": "https://www.skysports.com/football/news/12040/13601072/uefa-writes-letter-to-fifa-demanding-answers-over-gianni-infantinos-presidency-and-his-relationship-with-donald-trump",
-     "pub": "2026-10-19T19:25+00:00"
-    },
-    {
-     "medio": "Yahoo",
-     "titulo": "Uefa sets Fifa deadline for answers on Gianni Infantino controversies",
-     "url": "https://sports.yahoo.com/articles/uefa-sets-fifa-deadline-answers-191000211.html",
-     "pub": "2026-10-19T19:10+00:00"
-    },
-    {
-     "medio": "AS",
-     "titulo": "Ramón Vega, primer rival para Infantino",
-     "url": "https://as.com/futbol/internacional/ramon-vega-primer-rival-para-infantino-f202610-n/",
-     "pub": "2026-10-19T13:49+00:00"
-    },
-    {
-     "medio": "Mundo Deportivo",
-     "titulo": "La UEFA da un ultimátum a Infantino",
-     "url": "https://www.mundodeportivo.com/futbol/internacional/20261019/1004240705/uefa-da-ultimatum-infantino.html",
-     "pub": ""
-    },
-    {
-     "medio": "Kicker",
-     "titulo": "UEFA erhöht Druck: 42 Fragen an Infantino",
-     "url": "https://www.kicker.de/uefa-erhoeht-druck-42-fragen-an-infantino-1263096/artikel#omrss",
-     "pub": "2026-10-19T18:44+00:00"
-    },
-    {
-     "medio": "talkSPORT",
-     "titulo": "UEFA piles pressure on FIFA demanding more from Gianni Infantino in damning letter",
-     "url": "https://talksport.com/football/4654735/uefa-fifa-demand-gianni-infantino-letter-donald-trump/",
-     "pub": "2026-10-19T20:34+00:00"
-    },
-    {
-     "medio": "Foot Mercato",
-     "titulo": "FIFA : l’UEFA exige des réponses à 42 questions taboues à Infantino",
-     "url": "https://www.footmercato.net/a1988575350381864245-fifa-luefa-exigent-des-reponses-a-42-questions-taboues-a-infantino",
-     "pub": "2026-10-19T21:48+00:00"
-    }
-   ]
-  },
-  {
-   "tema": "UEFA",
-   "medios": 8,
-   "lista_medios": [
-    "Foot Mercato",
-    "Kicker",
-    "Mundo Deportivo",
-    "Ole",
-    "Record",
-    "Sky Sports",
-    "Yahoo",
-    "talkSPORT"
-   ],
-   "primera_vez": "2026-10-19T20:07+00:00",
-   "titulares": [
-    {
-     "medio": "Sky Sports",
-     "titulo": "UEFA demands answers from FIFA over Infantino dealings in urgent letter",
-     "url": "https://www.skysports.com/football/news/12040/13601072/uefa-writes-letter-to-fifa-demanding-answers-over-gianni-infantinos-presidency-and-his-relationship-with-donald-trump",
-     "pub": "2026-10-19T19:25+00:00"
-    },
-    {
-     "medio": "Yahoo",
-     "titulo": "Three talking points ahead of PSG vs Barcelona | UEFA Champions League",
-     "url": "https://sports.yahoo.com/articles/three-talking-points-ahead-psg-190000900.html",
-     "pub": "2026-10-19T19:00+00:00"
-    },
-    {
-     "medio": "Yahoo",
-     "titulo": "UEFA give FIFA two-week ultimatum to release key documents over failed World Cup sell-off plan",
-     "url": "https://sports.yahoo.com/articles/uefa-fifa-two-week-ultimatum-182000919.html",
-     "pub": "2026-10-19T18:20+00:00"
-    },
-    {
-     "medio": "Mundo Deportivo",
-     "titulo": "La UEFA da un ultimátum a Infantino",
-     "url": "https://www.mundodeportivo.com/futbol/internacional/20261019/1004240705/uefa-da-ultimatum-infantino.html",
-     "pub": ""
-    },
-    {
-     "medio": "Kicker",
-     "titulo": "UEFA erhöht Druck: 42 Fragen an Infantino",
-     "url": "https://www.kicker.de/uefa-erhoeht-druck-42-fragen-an-infantino-1263096/artikel#omrss",
-     "pub": "2026-10-19T18:44+00:00"
-    },
-    {
-     "medio": "Record",
-     "titulo": "<![CDATA[ CD \"remete\" para Direção Jurídica a comunicação do castigo de Ronaldo à UEFA e FIFA ]]>",
-     "url": "https://www.record.pt/futebol/selecoes/detalhe/cd-remete-para-direcao-juridica-a-comunicacao-do-castigo-de-ronaldo-a-uefa-e-fifa",
-     "pub": "2026-10-19T18:43+00:00"
-    },
-    {
-     "medio": "Record",
-     "titulo": "<![CDATA[ UEFA lança estas 42 perguntas à FIFA ]]>",
-     "url": "https://www.record.pt/internacional/detalhe/uefa-lanca-estas-42-perguntas-a-fifa",
-     "pub": "2026-10-19T18:33+00:00"
-    },
-    {
-     "medio": "Ole",
-     "titulo": "De la roja a Balogun al financiamiento privado del fútbol: la UEFA le puso un plazo de dos semanas a la FIFA para responder 42 preguntas clave",
-     "url": "https://www.ole.com.ar/futbol-internacional/roja-balogun-fifa-forward-enterprise-financiamiento-reclamo-uefa-gianni-infantino-carta-42-preguntas-ultimatum_0_x5x44HP8tV.html",
-     "pub": "2026-10-19T19:26+00:00"
-    },
-    {
-     "medio": "talkSPORT",
-     "titulo": "UEFA piles pressure on FIFA demanding more from Gianni Infantino in damning letter",
-     "url": "https://talksport.com/football/4654735/uefa-fifa-demand-gianni-infantino-letter-donald-trump/",
-     "pub": "2026-10-19T20:34+00:00"
-    },
-    {
-     "medio": "Yahoo",
-     "titulo": "🤩 European nights are back! Follow Italian clubs in UEFA action on NOW📺",
-     "url": "https://sports.yahoo.com/articles/european-nights-back-italian-clubs-091000508.html",
-     "pub": "2026-10-20T09:10+00:00"
-    },
-    {
-     "medio": "Foot Mercato",
-     "titulo": "FIFA : l’UEFA exige des réponses à 42 questions taboues à Infantino",
-     "url": "https://www.footmercato.net/a1988575350381864245-fifa-luefa-exigent-des-reponses-a-42-questions-taboues-a-infantino",
-     "pub": "2026-10-19T21:48+00:00"
-    }
-   ]
-  },
-  {
-   "tema": "England",
-   "medios": 7,
-   "lista_medios": [
-    "BBC",
-    "Daily Mail",
-    "FourFourTwo",
-    "Google News EN",
-    "Guardian",
-    "Kicker",
-    "Sky Sports"
-   ],
-   "primera_vez": "2026-10-19T13:50+00:00",
-   "titulares": [
-    {
-     "medio": "BBC",
-     "titulo": "England manager Wiegman signs contract extension",
-     "url": "https://www.bbc.co.uk/sport/football/articles/c679plpvellgo?at_medium=RSS&at_campaign=rss",
-     "pub": "2026-10-19T10:08+00:00"
-    },
-    {
-     "medio": "Guardian",
-     "titulo": "Sarina Wiegman signs contract extension to stay as England women head coach until 2029",
-     "url": "https://www.theguardian.com/football/2026/oct/19/sarina-wiegman-signs-contract-extension-england-women-euro-2029",
-     "pub": "2026-10-19T10:00+00:00"
-    },
-    {
-     "medio": "Sky Sports",
-     "titulo": "Brook wants to be captain 'England fans can rely on'",
-     "url": "https://www.skysports.com/cricket/news/12040/13600921/harry-brook-wants-to-be-captain-england-fans-can-rely-on-odi-skipper-says-ahead-of-pakistan-sri-lanka-tri-series",
-     "pub": "2026-10-19T11:34+00:00"
-    },
-    {
-     "medio": "Sky Sports",
-     "titulo": "England Women boss Wiegman signs new deal through to Euro 2029",
-     "url": "https://www.skysports.com/football/news/12040/13600890/sarina-wiegman-england-women-boss-signs-new-two-year-contract-extension-through-to-end-of-euro-2029",
-     "pub": "2026-10-19T10:20+00:00"
-    },
-    {
-     "medio": "Sky Sports",
-     "titulo": "Spin, Crocombe and Curran: Questions for England in ODI tri-series",
-     "url": "https://www.skysports.com/cricket/news/12040/13600845/england-begin-odi-tri-series-with-pakistan-and-sri-lanka-as-henry-crocombe-sam-curran-and-spinners-look-to-impress",
-     "pub": "2026-10-19T07:30+00:00"
-    },
-    {
-     "medio": "Sky Sports",
-     "titulo": "What did we learn from England in the first round of RLWC 2026?",
-     "url": "https://www.skysports.com/rugby-league/news/12040/13600528/rugby-league-world-cup-2026-what-we-learnt-from-englands-opener-the-australia-test-and-ignoring-points-require",
-     "pub": "2026-10-19T12:20+00:00"
-    },
-    {
-     "medio": "Daily Mail",
-     "titulo": "Former England footballer Steven Caulker pleads for work on LinkedIn as he says he's now stuck unemployed and 'can't even get an interview'",
-     "url": "https://www.dailymail.com/sport/football/article-16219937/stephen-caulker-footballer-unemployed-linkedin.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-     "pub": "2026-10-19T12:56+00:00"
-    },
-    {
-     "medio": "Daily Mail",
-     "titulo": "England star Marc Guehi suggests taking the knee may have 'lost its meaning' and questions its significance as he leads Premier League stars in rejecting the anti-racism gesture",
-     "url": "https://www.dailymail.com/sport/football/article-16220539/Marc-Guehi-suggests-taking-knee-lost-meaning-questions-significance.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-     "pub": "2026-10-19T12:43+00:00"
-    },
-    {
-     "medio": "Daily Mail",
-     "titulo": "'Completely unaware Paris is in ruins': England keeper Jordan Pickford and wife Megan's romantic 24-hour private jet break is derailed by rioting - and they had no idea it was happening!",
-     "url": "https://www.dailymail.com/sport/football/article-16219855/Megan-Jordan-Pickford-detour-escape-chaos-Paris-England-star-WAG-romantic-24-hour-private-jet-break-watch-Celine-Dion.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-     "pub": "2026-10-19T12:17+00:00"
-    },
-    {
-     "medio": "FourFourTwo",
-     "titulo": "Sarina Wiegman signs new England women's deal",
-     "url": "https://www.fourfourtwo.com/person/coaches-managers/sarina-wiegman-signs-new-england-womens-deal",
-     "pub": "2026-10-19T13:21+00:00"
-    },
-    {
-     "medio": "Google News EN",
-     "titulo": "Match Centre: Spain v England",
-     "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQUmNaMVhWTjR4VnhlZWZld1ppbE5YdnlfaWZ3Yi16NURlNTNyVkNXSC13ajNkVGpFQkFzTUlrU3FwRFEtSVd6aGQxOEw3Rk1zV0tTaDdCbUppellkc2tWX0hoTFdzNXpES1dFZnhWQmdzU3BjNlZia0xvUmdPRjBjWUVLSmszTTR1emhwbW1sUjlKU01tNmdLRGRoTFNISWRDQTNDVXc1dHlxTEROcW9EU3RHYWpvUjFlTzdsOVV6azN3RC1yZzRBRW52RlVUSjVGRWo4VGc1Y2U0LVNiemgxU080Y2xyNWpZUkJEdDIxTV9CS3JGZnE2TkVGeG5HZw?oc=5",
-     "pub": "2026-10-19T13:20+00:00"
-    },
-    {
-     "medio": "Google News EN",
-     "titulo": "Match Centre: England v Croatia",
-     "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNaEFJeGdlS1dMLVJYLThUbW5qMFZrQzR6MUh1NUJqdXVQWXRGNjVXLVQ3RXV0MGlvVHR6aGNRT2R5WDNjd0ZzMUhGUjJCU3owcFBhTUpCYTNLQWFpOHQwX043LUttUDlEMjh4ZkhyUkpwb2xJdjNPaXhWQ3lsR2h6Mm5wZDk1a0JWV3NCSjVlZFdqQ1BPOFRudW45Ujk3WUREWHA2azFpYXNPaXVYM2kxeEMzb1g1SjFkMEhlTHJoRjNzaVgyWDZBR2ZnLUhnSkM1WlhhYUpERmFGencwUHhQcjBCYjNDazB2ZWZjRjNtZTlWVjJDekM4ZE1IY3B4OTBKbnJr?oc=5",
-     "pub": "2026-10-19T12:49+00:00"
-    }
-   ]
-  },
-  {
-   "tema": "Semenyo",
-   "medios": 7,
-   "lista_medios": [
-    "BBC",
-    "Foot Mercato",
-    "Google News EN",
     "L'Equipe",
-    "Yahoo",
-    "ge.globo",
-    "talkSPORT"
+    "Mundo Deportivo",
+    "Yahoo"
    ],
    "primera_vez": "2026-10-19T13:50+00:00",
    "titulares": [
     {
-     "medio": "BBC",
-     "titulo": "Haaland a doubt, Semenyo out - what are Man City's options?",
-     "url": "https://www.bbc.co.uk/sport/football/articles/c5djv21rkekwo?at_medium=RSS&at_campaign=rss",
-     "pub": "2026-10-19T13:11+00:00"
+     "medio": "Mundo Deportivo",
+     "titulo": "La respuesta de Mourinho con 'dardo' al Barça que pasó desapercibida",
+     "url": "https://www.mundodeportivo.com/futbol/real-madrid/20261019/1004240556/respuesta-mourinho-dardo-barca-paso-desapercibida.html",
+     "pub": ""
     },
     {
-     "medio": "Yahoo",
-     "titulo": "Maresca reveals how long Antoine Semenyo could be sidelined with injury",
-     "url": "https://sports.yahoo.com/articles/maresca-reveals-long-antoine-semenyo-122000818.html",
-     "pub": "2026-10-19T12:20+00:00"
-    },
-    {
-     "medio": "Yahoo",
-     "titulo": "Enzo Maresca provides Erling Haaland injury update and confirms Antoine Semenyo blow",
-     "url": "https://sports.yahoo.com/articles/enzo-maresca-provides-erling-haaland-114948556.html",
-     "pub": "2026-10-19T11:56+00:00"
-    },
-    {
-     "medio": "Google News EN",
-     "titulo": "Champions League: Manchester City manager Enzo Maresca on Antoine Semenyo injury and Erling Haaland possibly missing game against AEK Athens",
-     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBGaGxpQmZGRkZKaE00dUhJemJBNllVcTQxZGlpSXo1bnBMbXdRd2pJYS1lWGNXaV8zMVFJWDlJVXEyV1BsOHJIRzB1cmU4bHVFeVBHaGtTWDVhMWx5RllPcjBGTE1PS3Zn?oc=5",
-     "pub": "2026-10-19T13:07+00:00"
+     "medio": "Google News ES",
+     "titulo": "Mourinho nos convierte en charca: los árbitros no nos dejan ver el fútbol",
+     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQU1dhOXYtOExiQmhfMU5zallVMzFkQWd2cUptLUwzekxqeXpNR09tVlBaZTRHVjVHbUdsMlEwUk9XWktsc0JFM2lvU1NlZF8wMzVkR2gxLTBNNXozZGc3bEdDNGtxMkYxNkxKTWZDSndxTkNJVHM3c3FNaG9TZy04TWo4RDRPZ9IBhgFBVV95cUxNcGlNNVQ2QlYxWEoyaXpuUUJmYkVRcjdEYkF2TGJQLTVGUmplTjNKbVNoSVVLaUh6Nmd6WDNad3hwMDYzME9nLWc3a2c5RTJUR201Y1J3Tmc3RHd4NEhLdVlHcWhDbnVXRUM0X3VYUENVTmV6WFh2V3NsNEZoeEVGNW9NYXVLZw?oc=5",
+     "pub": "2026-10-19T11:00+00:00"
     },
     {
      "medio": "L'Equipe",
-     "titulo": "L'ailier de Manchester City Antoine Semenyo absent huit semaines selon Enzo Maresca",
-     "url": "https://www.lequipe.fr/Football/Actualites/L-ailier-de-manchester-city-antoine-semenyo-absent-huit-semaines-selon-enzo-maresca/1736967#at_medium=RSS_feeds",
-     "pub": "2026-10-19T13:14+00:00"
+     "titulo": "Mourinho défend Güler",
+     "url": "https://www.lequipe.fr/Football/Video/Liga-real-madrid-un-carton-rouge-oublie-pour-arda-guler-jose-mourinho-n-a-pas-vu-la-moindre-image/20243524#at_medium=RSS_feeds",
+     "pub": "2026-10-19T08:59+00:00"
     },
     {
-     "medio": "Foot Mercato",
-     "titulo": "Man City : grosse tuile pour Antoine Semenyo, inquiétude pour Haaland",
-     "url": "https://www.footmercato.net/a7704255592288683102-man-city-grosse-tuile-pour-antoine-semenyo-inquietude-pour-haaland",
-     "pub": "2026-10-19T11:26+00:00"
+     "medio": "AS",
+     "titulo": "Nadie se percató y es digno de mencionar: el gesto de Mourinho en pleno Real Madrid vs. Sevilla",
+     "url": "https://as.com/futbol/videos/el-gesto-que-nadie-vio-de-mourinho-en-el-cambio-de-militao-absolutamente-ejemplar-f202610-v/",
+     "pub": "2026-10-19T17:05+00:00"
     },
     {
-     "medio": "talkSPORT",
-     "titulo": "Enzo Maresca confirms huge Antoine Semenyo injury blow and gives Erling Haaland update",
-     "url": "https://talksport.com/football/4653895/antoine-semenyo-injury-update-return-erling-haaland-manchester-city/",
-     "pub": "2026-10-19T14:01+00:00"
+     "medio": "Google News ES",
+     "titulo": "\"A Mourinho no le ha podido salir 'mejor' la sanción de Vinícius\": el debate sobre el estado del Real Madrid aviva 'Trending'",
+     "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxON0VXYUpZT3NzQU5IcG1uNEVuNk9pTGlJR1FGLVY0eHdGbGFTcV9xQW5NQjA0a2g2Und1eXc0YnFBLU00S3ZUT3dXeGZjVXFQdXA5S19DdkhWTXUyTDc3Nkcwb1dqenFCYWdLMlhValBmcTFzV0pBS3pyc0RoX3JwRldHbGpKOEw3djVoTGtZYnJZSlN1aUszTUIwYTRJWUU1WC1lRTU5OFh6RVN3T0ZUemFvbWRkckV1YWk0TVJDWjB0MVFDdnRQM3plOTVISzFJSk9mRkw5T0duX0l4cGk2T2VNVUtncnphU0ZtbmJQUDRjd1JoVy14LURzcw?oc=5",
+     "pub": "2026-10-19T14:48+00:00"
     },
     {
-     "medio": "ge.globo",
-     "titulo": "Técnico do City confirma lesão de Semenyo; veja tempo de recuperação",
-     "url": "https://ge.globo.com/futebol/futebol-internacional/noticia/2026/10/19/tecnico-do-city-confirma-lesao-de-semenyo-veja-tempo-de-recuperacao.ghtml",
-     "pub": "2026-10-19T16:17+00:00"
-    }
-   ]
-  },
-  {
-   "tema": "Brighton",
-   "medios": 7,
-   "lista_medios": [
-    "BBC",
-    "Daily Mail",
-    "Google News EN",
-    "Guardian",
-    "Planet Football",
-    "Sky Sports",
-    "talkSPORT"
-   ],
-   "primera_vez": "2026-10-19T13:50+00:00",
-   "titulares": [
-    {
-     "medio": "Sky Sports",
-     "titulo": "Merson: Brighton defeat scared Arsenal – they won’t beat Bayern",
-     "url": "https://www.skysports.com/football/news/12040/13600922/arsenal-were-spooked-by-brighton-defeat-and-have-reverted-to-type-they-wont-beat-bayern-munich-says-paul-merson",
-     "pub": "2026-10-19T11:34+00:00"
+     "medio": "Yahoo",
+     "titulo": "Mourinho talks Vinicius, Guler, Valverde, Mbappe, Espi, Diomande ahead of Real Madrid vs RB Leipzig",
+     "url": "https://sports.yahoo.com/articles/mourinho-talks-vinicius-guler-valverde-111900629.html",
+     "pub": "2026-10-20T11:19+00:00"
     },
     {
-     "medio": "Planet Football",
-     "titulo": "Big-six Brighton? Table since Hurzeler took over illustrates sustained Seagulls success",
-     "url": "https://www.planetfootball.com/premier-league/premier-league-table-brighton-fabian-hurzeler",
-     "pub": "2026-10-19T09:46+00:00"
+     "medio": "Yahoo",
+     "titulo": "Konate talks Diomande, Mourinho, Sevilla controversy, Negreira case, El Clasico, Ceuta incident ahead of Real Madrid vs RB Leipzig",
+     "url": "https://sports.yahoo.com/articles/konate-talks-diomande-mourinho-sevilla-104900895.html",
+     "pub": "2026-10-20T10:49+00:00"
     },
     {
-     "medio": "BBC",
-     "titulo": "Are free-scoring Brighton genuine title contenders?",
-     "url": "https://www.bbc.co.uk/sport/football/articles/cwn8d48je057o?at_medium=RSS&at_campaign=rss",
-     "pub": "2026-10-19T14:52+00:00"
+     "medio": "AS",
+     "titulo": "Güler conquista a Mourinho",
+     "url": "https://as.com/futbol/primera/guler-conquista-a-mourinho-f202610-n/",
+     "pub": "2026-10-20T00:01+00:00"
     },
     {
-     "medio": "Guardian",
-     "titulo": "Brighton are the apex B club – their next target should be a Champions League place | Jonathan Wilson",
-     "url": "https://www.theguardian.com/football/2026/oct/19/brighton-premier-league-start",
-     "pub": "2026-10-19T14:51+00:00"
+     "medio": "Mundo Deportivo",
+     "titulo": "Mourinho: \"¿Vinicius intocable? Intocable es el escudo\"",
+     "url": "https://www.mundodeportivo.com/futbol/real-madrid/20261020/1004241003/mourinho-arbitro-manana-no-necesitara-var-bueno.html",
+     "pub": ""
     },
     {
-     "medio": "Guardian",
-     "titulo": "Brighton peck Palace and will a point silence the noise around Carrick? | Football Weekly – video",
-     "url": "https://www.theguardian.com/football/video/2026/oct/19/brighton-peck-palace-and-will-a-point-silence-the-noise-around-carrick-football-weekly-video",
-     "pub": "2026-10-19T13:32+00:00"
+     "medio": "Google News AR",
+     "titulo": "\"Lo único intocable es el escudo\": la tajante respuesta de Mourinho sobre Vinicius",
+     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQR2ltdnpDeVZzT3VtSW8zVDFwV2NrSnFkQXlaSWZjTWJoNUh5d0lvdTFndWJnYlRLeTBXd3laRDdPenRIVWlicHNWY1BiMW9LSjktNUxrLW5jUy03bHFOTjdzWTRVME9VeGktOG1jel9aYnpaWWJRSlZDVXdITUlON0ZvTlRVZ2lzWkY2YkdmVDAwdG8?oc=5",
+     "pub": "2026-10-20T11:52+00:00"
     },
     {
-     "medio": "talkSPORT",
-     "titulo": "Crystal Palace star apologises to fans for actions moments after embarrassing defeat to Brighton",
-     "url": "https://talksport.com/football/4653981/crystal-palace-chris-richards-apology-brighton/",
-     "pub": "2026-10-19T15:32+00:00"
-    },
-    {
-     "medio": "Daily Mail",
-     "titulo": "Why Brighton are scoring SO many goals",
-     "url": "https://www.dailymail.com/sport/football/article-16220345/Brighton-goals-Premier-League-Hurzeler.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-     "pub": "2026-10-19T17:39+00:00"
-    },
-    {
-     "medio": "Google News EN",
-     "titulo": "Monday Night Football: Jamie Carragher praises Brighton after entertaining start to season",
-     "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQbGl5VTBSNVFZRTBOR1p5UUkxVG5jSXF4MlVlZi0yQnBGYy0yUm9wUHMyNUZ4VG9tZ3RBV3FJMkNYRFhLZXNHLVhBTm1YcG9pdU53T1FTZW5wQlFTNXFYTGxqQ25pdDVxVm11SllyZlNEQk5PSTBTaE53U3dvVTZNLTNXSWRhVFM3THp5elJjT25Pa0RCdVU5QU1TSmlreVBKR1N6TUNrN3NDNWJmWDVZdkZYU2NmTWxWY1VFOGFCUFVYYXNOc2ZUQXFac25YM3ROQXBiOG5n?oc=5",
-     "pub": "2026-10-19T18:57+00:00"
-    },
-    {
-     "medio": "Daily Mail",
-     "titulo": "Zlatan Ibrahimovic's acrobatic brilliance against England, Jamie Vardy's volley and a belter at Blackpool... after Diego Gomez's halfway-line stunner for Brighton, our experts pick their favourite goal",
-     "url": "https://www.dailymail.com/sport/football/article-16219895/Zlatan-Ibrahimovics-acrobatic-stunner-against-England-Jamie-Vardys-volley-belter-Blackpool-Diego-Gomezs-halfway-line-stunner-Brighton-experts-pick-favourite-goal.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-     "pub": "2026-10-19T22:37+00:00"
-    }
-   ]
-  },
-  {
-   "tema": "Brentford",
-   "medios": 7,
-   "lista_medios": [
-    "BBC",
-    "Daily Mail",
-    "FourFourTwo",
-    "Kicker",
-    "Mirror",
-    "Record",
-    "talkSPORT"
-   ],
-   "primera_vez": "2026-10-19T13:50+00:00",
-   "titulares": [
-    {
-     "medio": "FourFourTwo",
-     "titulo": "Liverpool’s pursuit of Alex Scott intensifies after comeback Brentford win: report",
-     "url": "https://www.fourfourtwo.com/transfer/liverpools-pursuit-of-alex-scott-intensifies-after-comeback-brentford-win-report",
-     "pub": "2026-10-19T12:00+00:00"
-    },
-    {
-     "medio": "BBC",
-     "titulo": "Brentford contact police after rugby ball kicked into stadium during game",
-     "url": "https://www.bbc.co.uk/sport/football/articles/cm4g17d11zvwo?at_medium=RSS&at_campaign=rss",
-     "pub": "2026-10-19T16:26+00:00"
-    },
-    {
-     "medio": "talkSPORT",
-     "titulo": "Next Crystal Palace manager odds: Former Spurs and Brentford boss now favourite",
-     "url": "https://talksport.com/football/4653974/next-crystal-palace-manager-odds-2026/",
-     "pub": "2026-10-19T14:50+00:00"
-    },
-    {
-     "medio": "Record",
-     "titulo": "<![CDATA[ Adepto chutou bola de râguebi de varanda para dentro do estádio do Brentford durante jogo com o Liverpool ]]>",
-     "url": "https://www.record.pt/multimedia/videos/detalhe/adepto-chutou-bola-de-raguebi-de-varanda-para-dentro-do-estadio-do-brentford-durante-jogo-com-o-liverpool",
-     "pub": "2026-10-19T18:25+00:00"
-    },
-    {
-     "medio": "Daily Mail",
-     "titulo": "Brentford report fan to police after rugby ball is kicked onto the pitch from high-rise flat during Liverpool defeat",
-     "url": "https://www.dailymail.com/sport/football/article-16221613/ford-fan-rugby-ball-police-liverpool.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-     "pub": "2026-10-19T21:53+00:00"
-    },
-    {
-     "medio": "Mirror",
-     "titulo": "Brentford confirm bizarre and 'dangerous' incident during Liverpool clash referred to police",
-     "url": "https://www.mirror.co.uk/sport/football/news/brentford-liverpool-police-incident-prem-37788964",
-     "pub": "2026-10-19T20:15+00:00"
+     "medio": "Google News ES",
+     "titulo": "José Mourinho, encantado con tener a Kovács como árbitro en Champions: \"Es de una calidad y personalidad altísima\"",
+     "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPczZ3WHl6LUJCTmhBYllxXzBtUXB2ZV9YU3BDM1plMU8wWjU3VHlDNXY2X0dZcUZEU1JuWDF3dXNGWGhGaXBYNXAzQ3o5ZzYyeWlVSTlBcWVDNGQxaFp0TDlZV2Y1RTZiWVNjNHNDbFZTWGMycnlkV1RSZGdtdk9iNG1LREtwV0Mtck1VQXJVTFJISUJYWmFkNWdkUmVTZlhvV1RZdVgyR0RmWDNvby1GVVJGbTE3NlpZRkdlRmNRLWxJcjkxUzNXd052cGwweUVtMmdFemhNN0ZOOGRCajNBUWwwVWMwcW1VMFJqQVFNUFlnWEU1WVpxNkhBUTNjVWM?oc=5",
+     "pub": "2026-10-20T13:20+00:00"
     },
     {
      "medio": "Kicker",
-     "titulo": "Rugby-Ei ins Stadion gekickt: Polizei ermittelt nach \"gefährlichem\" Vorfall in Brentford",
-     "url": "https://www.kicker.de/rugby-ei-ins-stadion-gekickt-polizei-ermittelt-nach-gefaehrlichem-vorfall-in-brentford-1263232/artikel#omrss",
-     "pub": "2026-10-20T08:39+00:00"
+     "titulo": "Referee-Diskussionen ohne Ende - aber gegen Leipzig erwartet Mourinho keine",
+     "url": "https://www.kicker.de/referee-diskussionen-ohne-ende-aber-gegen-leipzig-erwartet-mourinho-keine-1263292/artikel#omrss",
+     "pub": "2026-10-20T13:30+00:00"
     }
    ]
   }
