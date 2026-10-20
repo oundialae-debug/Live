@@ -1,5 +1,5 @@
 {
- "red": "tiktok",
+ "red": "instagram",
  "hora": "2026-10-20T22:53:15+02:00",
  "tipo": "noticia",
  "partido": "Bayern Gear Up for Arsenal",
@@ -9,5 +9,7 @@
  "musica": "hh09",
  "variante": "seg=5.0;arranque=s0;hook=pregunta;musica=hh09;formato=auto_noticia;hora=22",
  "notas": "noticia automática (IA + reglas): Guardian: Bayern and Luis Díaz warm up for Arsenal revenge mission with furious rout of Leipzig | Andy Brassell; Sky Sports: Merson: Brighton defeat scared Arsenal – they won’t beat Bayern",
- "titulo": "Bayern's Leipzig rout sets stage for Arsenal clash"
+ "estado": "enviado",
+ "buffer_id": "6ad7d421a2af9351fbbf567f",
+ "dueAt": "2026-10-20T20:53:41+00:00"
 }
