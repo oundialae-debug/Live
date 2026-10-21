@@ -1,0 +1,13 @@
+{
+ "red": "tiktok",
+ "hora": "2026-10-21T23:37:47+02:00",
+ "tipo": "post",
+ "partido": "Real Madrid-RB Leipzig",
+ "text": "Real Madrid 4-1 RB Leipzig\nExpected goals: 2.9 vs 1.4, Real Madrid created more. Did the better team win?\n\n#football #UCL #RealMadrid #RBLeipzig #fulltime",
+ "video": "https://raw.githubusercontent.com/oundialae-debug/live/main/media/post_partido/2026-10-21_Real_Madrid_RB_Leipzig.mp4",
+ "recordatorio": false,
+ "musica": "hh06",
+ "variante": "seg=2.8;arranque=s0;hook=dato;musica=hh06;formato=auto_post",
+ "notas": "post-partido automático (futbol-pipeline -6106244, 6 tarjetas)",
+ "titulo": "Real Madrid 4-1 RB Leipzig | Expected goals: 2.9 vs 1.4, Real Madrid created more."
+}

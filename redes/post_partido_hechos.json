@@ -1,11 +1,5 @@
 {
- "en_curso": {
-  "-6106244": {
-   "arranque": "s0",
-   "musica": "hh06",
-   "tarjetas": 6
-  }
- },
+ "en_curso": {},
  "partidos": {
   "-6106234": {
    "arranque": "s1",
@@ -30,6 +24,18 @@
    "resultado": "2-2",
    "tarjetas": 6,
    "video": "https://raw.githubusercontent.com/oundialae-debug/live/main/media/post_partido/2026-10-21_Bayern_Munich_Arsenal.mp4"
+  },
+  "-6106244": {
+   "arranque": "s0",
+   "estado": "en_cola",
+   "fecha": "2026-10-21",
+   "hora": "2026-10-21T21:34:15+00:00",
+   "musica": "hh06",
+   "partido": "Real Madrid-RB Leipzig",
+   "publicar": "2026-10-21T23:37:47+02:00",
+   "resultado": "4-1",
+   "tarjetas": 6,
+   "video": "https://raw.githubusercontent.com/oundialae-debug/live/main/media/post_partido/2026-10-21_Real_Madrid_RB_Leipzig.mp4"
   },
   "-6106248": {
    "arranque": "s0",
