@@ -342,3 +342,21 @@
 - Mundo Deportivo: La UEFA da un ultimátum a Infantino
 - Kicker: UEFA erhöht Druck: 42 Fragen an Infantino
 
+## 21/10 14:15 · Madrid trio sparks toxicity · revisar
+- Motivo: datos que no salen en los titulares: Manchester
+- Temas: Madrid
+- talkSPORT: Trent Alexander-Arnold reaches new Real Madrid low but warned against January transfer
+- Daily Mail: Man United have a 'toxic culture', sparked by the 'Madrid' trio of Cristiano Ronaldo, Raphael Varane and Casemiro, claims ex-boss Erik ten Hag in damning breakdown of player discipline
+- Yahoo: Mourinho talks Vinicius, Guler, Valverde, Mbappe, Espi, Diomande ahead of Real Madrid vs RB Leipzig
+- Yahoo: Konate talks Diomande, Mourinho, Sevilla controversy, Negreira case, El Clasico, Ceuta incident ahead of Real Madrid vs RB Leipzig
+- Yahoo: Real Madrid midfielder could play in makeshift role in El Clasico vs Barcelona
+
+## 21/10 14:15 · United miss training · revisar
+- Motivo: datos que no salen en los titulares: 5
+- Temas: Como, Manchester
+- Sky Sports: Five Man Utd players miss training ahead of Como Champions League trip
+- talkSPORT: Cesc Fabregas would only leave Como in two major scenarios amid top club interest
+- talkSPORT: What time is Como vs Manchester United? Red Devils winless in six as pressure builds on Carrick
+- Daily Mail: Man United face defensive crisis with Lisandro Martinez missing training ahead of Champions League trip to Como... giving Michael Carrick a huge headache over who partners Harry Maguire
+- Yahoo: How to watch Como vs Manchester United live: Stream, TV, team news, prediction
+
