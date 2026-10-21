@@ -17,25 +17,13 @@
    "arranque": "s1",
    "estado": "en_cola",
    "fecha": "2026-10-21",
-   "hora": "2026-10-21T21:34:15+00:00",
+   "hora": "2026-10-21T21:36:25+00:00",
    "musica": "techno",
    "partido": "Bayern Munich-Arsenal",
-   "publicar": "2026-10-21T23:37:31+02:00",
+   "publicar": "2026-10-21T23:39:40+02:00",
    "resultado": "2-2",
    "tarjetas": 6,
    "video": "https://raw.githubusercontent.com/oundialae-debug/live/main/media/post_partido/2026-10-21_Bayern_Munich_Arsenal.mp4"
-  },
-  "-6106244": {
-   "arranque": "s0",
-   "estado": "en_cola",
-   "fecha": "2026-10-21",
-   "hora": "2026-10-21T21:34:15+00:00",
-   "musica": "hh06",
-   "partido": "Real Madrid-RB Leipzig",
-   "publicar": "2026-10-21T23:37:47+02:00",
-   "resultado": "4-1",
-   "tarjetas": 6,
-   "video": "https://raw.githubusercontent.com/oundialae-debug/live/main/media/post_partido/2026-10-21_Real_Madrid_RB_Leipzig.mp4"
   },
   "-6106248": {
    "arranque": "s0",
