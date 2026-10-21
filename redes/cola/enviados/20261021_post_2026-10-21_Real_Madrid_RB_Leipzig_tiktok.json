@@ -9,5 +9,8 @@
  "musica": "hh06",
  "variante": "seg=2.8;arranque=s0;hook=dato;musica=hh06;formato=auto_post",
  "notas": "post-partido automático (futbol-pipeline -6106244, 6 tarjetas)",
- "titulo": "Real Madrid 4-1 RB Leipzig | Expected goals: 2.9 vs 1.4, Real Madrid created more."
+ "titulo": "Real Madrid 4-1 RB Leipzig | Expected goals: 2.9 vs 1.4, Real Madrid created more.",
+ "estado": "enviado",
+ "buffer_id": "6ad92ffb9c05f711d3c2485b",
+ "dueAt": "2026-10-21T21:37:50+00:00"
 }

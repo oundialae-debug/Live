@@ -1,5 +1,5 @@
 {
- "red": "tiktok",
+ "red": "instagram",
  "hora": "2026-10-21T23:37:31+02:00",
  "tipo": "post",
  "partido": "Bayern Munich-Arsenal",
@@ -9,5 +9,7 @@
  "musica": "techno",
  "variante": "seg=2.8;arranque=s1;hook=dato;musica=techno;formato=auto_post",
  "notas": "post-partido automático (futbol-pipeline -6106238, 6 tarjetas)",
- "titulo": "Bayern Munich 2-2 Arsenal | Expected goals: 2.5 vs 1.4, Bayern Munich created more."
+ "estado": "enviado",
+ "buffer_id": "6ad92ffa65ffc170d009b41b",
+ "dueAt": "2026-10-21T21:37:50+00:00"
 }
