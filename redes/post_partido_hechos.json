@@ -1,11 +1,5 @@
 {
- "en_curso": {
-  "-6106238": {
-   "arranque": "s1",
-   "musica": "techno",
-   "tarjetas": 6
-  }
- },
+ "en_curso": {},
  "partidos": {
   "-6106234": {
    "arranque": "s1",
@@ -18,6 +12,18 @@
    "resultado": "4-2",
    "tarjetas": 6,
    "video": "https://raw.githubusercontent.com/oundialae-debug/live/main/media/post_partido/2026-10-20_Paris_Saint_Germain_Barcelona.mp4"
+  },
+  "-6106238": {
+   "arranque": "s1",
+   "estado": "en_cola",
+   "fecha": "2026-10-21",
+   "hora": "2026-10-21T21:34:15+00:00",
+   "musica": "techno",
+   "partido": "Bayern Munich-Arsenal",
+   "publicar": "2026-10-21T23:37:31+02:00",
+   "resultado": "2-2",
+   "tarjetas": 6,
+   "video": "https://raw.githubusercontent.com/oundialae-debug/live/main/media/post_partido/2026-10-21_Bayern_Munich_Arsenal.mp4"
   },
   "-6106248": {
    "arranque": "s0",
