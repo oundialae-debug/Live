@@ -360,3 +360,12 @@
 - Daily Mail: Man United face defensive crisis with Lisandro Martinez missing training ahead of Champions League trip to Como... giving Michael Carrick a huge headache over who partners Harry Maguire
 - Yahoo: How to watch Como vs Manchester United live: Stream, TV, team news, prediction
 
+## 21/10 19:36 · Kvaratskhelia out for season · revisar
+- Motivo: categoría sensible: injury
+- Temas: Kvaratskhelia
+- Yahoo: PSG lose Dembele, Kvaratskhelia and Marquinhos in injury-plagued Barcelona clash
+- Foot Mercato: Ligue des Champions : Marquinhos et Kvaratskhelia se blessent à leur tour !
+- BBC: PSG's Kvaratskhelia to have surgery on ruptured ACL
+- Guardian: Khvicha Kvaratskhelia sustains ACL rupture in most serious of three PSG injuries
+- Sky Sports: PSG's Kvaratskhelia set for surgery after ACL rupture in win over Barca
+

@@ -93,3 +93,6 @@
 {"t": "2026-10-21T12:15+00:00", "estado": "descartar", "temas": ["Manchester", "Erik"], "clave": "man-utd-ten-hag-ronaldo-row", "motivo": "repetida (ya publicada/decidida)"}
 {"t": "2026-10-21T12:15+00:00", "estado": "revisar", "temas": ["Madrid"], "clave": "real-madrid-toxicity", "motivo": "datos que no salen en los titulares: Manchester"}
 {"t": "2026-10-21T12:15+00:00", "estado": "revisar", "temas": ["Como", "Manchester"], "clave": "man-utd-como-prep", "motivo": "datos que no salen en los titulares: 5"}
+{"t": "2026-10-21T17:36+00:00", "estado": "revisar", "temas": ["Kvaratskhelia"], "clave": "kvaratskhelia-acl-injury", "motivo": "categoría sensible: injury"}
+{"t": "2026-10-21T17:36+00:00", "estado": "descartar", "temas": ["Mourinho", "Vinicius"], "clave": "mourinho-vinicius-intouchable", "motivo": "importancia 6 < 7"}
+{"t": "2026-10-21T17:36+00:00", "estado": "descartar", "temas": ["Arteta"], "clave": "arteta-manager-controversy", "motivo": "importancia 5 < 7"}
