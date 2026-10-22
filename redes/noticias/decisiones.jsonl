@@ -96,3 +96,5 @@
 {"t": "2026-10-21T17:36+00:00", "estado": "revisar", "temas": ["Kvaratskhelia"], "clave": "kvaratskhelia-acl-injury", "motivo": "categoría sensible: injury"}
 {"t": "2026-10-21T17:36+00:00", "estado": "descartar", "temas": ["Mourinho", "Vinicius"], "clave": "mourinho-vinicius-intouchable", "motivo": "importancia 6 < 7"}
 {"t": "2026-10-21T17:36+00:00", "estado": "descartar", "temas": ["Arteta"], "clave": "arteta-manager-controversy", "motivo": "importancia 5 < 7"}
+{"t": "2026-10-22T18:26+00:00", "estado": "revisar", "temas": ["Carrick", "Fernandes", "Bruno"], "clave": "man-utd-carrick-fernandes-feud", "motivo": "palabra sensible en los titulares: killed"}
+{"t": "2026-10-22T18:26+00:00", "estado": "publicado", "temas": ["Kane"], "clave": "kane-ballondor-push", "video": "https://raw.githubusercontent.com/oundialae-debug/live/main/media/noticias/2026-10-22_2026_kane-ballondor-push.mp4"}
