@@ -369,3 +369,21 @@
 - Guardian: Khvicha Kvaratskhelia sustains ACL rupture in most serious of three PSG injuries
 - Sky Sports: PSG's Kvaratskhelia set for surgery after ACL rupture in win over Barca
 
+## 22/10 20:26 · Carrick vs Fernandes feud · revisar
+- Motivo: palabra sensible en los titulares: killed
+- Temas: Carrick, Fernandes, Bruno
+- talkSPORT: Man United warned against hiring World Cup manager if Michael Carrick is sacked
+- Mirror: Cesc Fabregas already has green light for Man Utd job as he snubs Michael Carrick question
+- Google News EN: Man United’s Carrick doesn’t ‘need reassurance’ despite team’s horror start
+- Mirror: Four issues Man Utd boss Michael Carrick must overcome against Como after 'toxic culture' claim
+- Yahoo: Carrick: ‘Como are a really good team, United want to control the game’
+
+## 22/10 20:26 · Ronaldo's night of errors · revisar
+- Motivo: palabra sensible en los titulares: rupture
+- Temas: Cristiano
+- Daily Mail: Cristiano Ronaldo's night to forget: Star, 41, misses huge chance AND a penalty in Al-Nassr win, hours after being attacked by Erik ten Hag for 'letting down' Man United
+- Mirror: Inside Harry Kane's Ballon d'Or charge as Cristiano Ronaldo record eyed vs Arsenal
+- Mundo Deportivo: El Al-Nassr está en crisis financiera y Cristiano podría ser la solución
+- Google News ES: El Al-Nassr descarta un puesto para Cristiano Ronaldo tras su retiro del fútbol
+- Record: <![CDATA[ Cristiano Ronaldo é o jogador mais bem pago segundo a 'Forbes' ]]>
+
