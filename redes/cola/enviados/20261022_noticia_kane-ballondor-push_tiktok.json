@@ -1,5 +1,5 @@
 {
- "red": "instagram",
+ "red": "tiktok",
  "hora": "2026-10-22T20:29:29+02:00",
  "tipo": "noticia",
  "partido": "Kane eyes Ballon d'Or",
@@ -8,5 +8,9 @@
  "recordatorio": false,
  "musica": "drill",
  "variante": "seg=5.0;arranque=s0;hook=pregunta;musica=drill;formato=auto_noticia;hora=20",
- "notas": "noticia automática (IA + reglas): talkSPORT: Tottenham urged to make immediate move for €18m-rated star outscoring Harry Kane; Daily Mail: Arsenal's meeting with Bayern Munich and Harry Kane is a litmus test in Europe for a team playi"
+ "notas": "noticia automática (IA + reglas): talkSPORT: Tottenham urged to make immediate move for €18m-rated star outscoring Harry Kane; Daily Mail: Arsenal's meeting with Bayern Munich and Harry Kane is a litmus test in Europe for a team playi",
+ "titulo": "Harry Kane’s Ballon d'Or campaign",
+ "estado": "enviado",
+ "buffer_id": "6ada557577984f39b2b12612",
+ "dueAt": "2026-10-22T18:30:00+00:00"
 }
