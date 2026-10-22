@@ -1,18 +1,38 @@
-# Tendencias de fútbol (2026-10-22 12:16 UTC, Google Trends)
+# Tendencias de fútbol (2026-10-22 17:31 UTC, Google Trends)
 
 Generado por el workflow `tendencias`. Úsalo para elegir temas de memes, curiosos y jugador vs jugador.
 
 | País | Búsqueda | Tráfico | Titular |
 |---|---|---|---|
-| UK | kyle walker | 200+ | Kyle Walker may be forced to remove ‘four in a row’ tattoo if Man City stripped of titles |
-| UK | john vaughan | 100+ | Former Cambridge goalkeeper Vaughan dies aged 62 |
-| UK | andy woodman bromley manager departure | 2000+ | Bromley FC: Andy Woodman leaves League One club after five years |
-| Spain | gianluca prestianni | 200+ | Benfica to hold firm in January, Gianluca Prestianni and Vangelis Pavlidis off market |
-| Italy | kokus bar | 2000+ | Donne violentate e spari. Il far west del Kokus bar, il locale chiuso per 11 volte e ora anche per l |
-| France | fff | 2000+ | Ligue 3 : face à la fronde des clubs, la Fédération et le diffuseur s’apprêtent à changer les jours  |
-| Argentina | milei | 500+ | Milei mendiga fotos en Madrid y hasta los candidatos de la derecha lo desairaron |
-| Argentina | posiciones de club de fútbol pachuca contra club de fútbol cruz azul | 500+ | Cruz Azul se acerca a la Liguilla y agudiza la crisis del Pachuca |
-| Portugal | vangelis pavlidis | 200+ | Espanhóis dizem que Tottenham pondera bater cláusula de Pavlidis |
-| Portugal | associazione calcio milan | 100+ | Primavera al lavoro in vista del Milan - |
-| Portugal | ruben amorim | 2000+ | Rúben Amorim sobre o Manchester United: "Eu amo mesmo esse clube" |
-| Mexico | bournemouth | 100+ | Bournemouth owner Bill Foley makes Champions League vow and gives Alex Scott transfer update |
+| UK | juventus - rennes | 100+ | Juventus vs Rennes: UEFA Europa League stats & head-to-head |
+| UK | trent alexander-arnold transfer rumors | 200+ | Trent Alexander-Arnold’s Real Madrid adventure is not working out |
+| UK | unai emery | 10000+ | Emery and Nagelsmann are top targets if Manchester United sack Carrick |
+| Spain | maccabi tel aviv - real madrid | 500+ | Maccabi-Real Madrid: a prolongar la racha de victorias |
+| Spain | uefa europa league | 500+ | Juventus vs Rennes: UEFA Europa League stats & head-to-head |
+| Spain | trabzonspor vs hearts | 100+ | Conference League: Build-up as Hearts visit Trabzonspor |
+| Spain | inter escaldes - u craiova | 500+ | Inter Club d'Escaldes vs Universitatea Craiova: UEFA Conference League stats & head-to-head |
+| Spain | pablo iglesias | 200+ | ¿Por qué Pablo Iglesias propuso, sin éxito, que Podemos se abstuviera ante la suspensión del acta de |
+| Spain | lech poznań vs sunderland | 200+ | Lech Poznan vs Sunderland: UEFA Europa League stats & head-to-head |
+| Italy | stade rennais football club | 500+ | « C'était la première fois que le club rencontrait un adversaire avec une telle aura » : quand Renne |
+| Italy | zeki çelik | 500+ | Juventus - Rennes Maç Öncesi Analizi: Zirve Yarışında Heyecan Dolu Bir Nokta |
+| Germany | europa league spiele | 1000+ | Liveticker | Juventus Turin - Stade Rennes 0:0 | 3. Spieltag | Europa League 2026/27 |
+| France | juventus | 500+ | LIVE Alle 18.45 Juventus-Rennes, le ufficiali: Spalletti col doppio centravanti, gioca Gatti |
+| France | flavio cobolli | 200+ | What happened when Stan Wawrinka played Flavio Cobolli’s Dad 23 years ago ahead of Lyon meeting |
+| France | oumar diakité | 500+ | Football: Diakité, Diomandé, Bonny and Wahi shine for their clubs |
+| USA | trabzonspor | 500+ | Canlı Anlatım: Trabzonspor Hearts (UEFA Konferans Ligi maçı) |
+| USA | juventus | 1000+ | LIVE Alle 18.45 Juventus-Rennes, le ufficiali: Spalletti col doppio centravanti, gioca Gatti |
+| Argentina | brighton | 200+ | Leipzig likely to retain Brighton's Gruda and Roma's El Aynaoui for €50m package |
+| Argentina | juventus | 500+ | LIVE Alle 18.45 Juventus-Rennes, le ufficiali: Spalletti col doppio centravanti, gioca Gatti |
+| Argentina | sturm - marsella | 200+ | How to watch Sturm Graz v Marseille: Live stream, TV channel and kick-off time |
+| Argentina | europa league | 1000+ | D. Zagreb vs NEC, en vivo, por la UEFA Europa League: minuto a minuto y qué canal pasa el partido po |
+| Brazil | juventus | 1000+ | LIVE Alle 18.45 Juventus-Rennes, le ufficiali: Spalletti col doppio centravanti, gioca Gatti |
+| Brazil | trabzonspor | 200+ | Folcarelli, 174 gün sonra ilk 11'de! |
+| Brazil | europa league | 2000+ | Preview: Lech Poznan vs Sunderland - prediction, team news, lineups |
+| Brazil | conference league | 500+ | %*[[[SPORT TV>]* Kairat Almaty vs Panathinaikos LIVE STreams On TV Channel 22 October |
+| Portugal | juventus - rennes | 1000+ | Europa League Liveblog: Juventus-Rennes, Bournemouth-Milan, Ajax-Atalanta |
+| Mexico | uefa conference league | 100+ | Europa & Conference League: Sunderland, Brighton & Hearts in action in early matches |
+| Mexico | ferencvaros vs | 100+ | Ferencváros vs Torreense: UEFA Europa League stats & head-to-head |
+| Mexico | juventus | 1000+ | LIVE Alle 18.45 Juventus-Rennes, le ufficiali: Spalletti col doppio centravanti, gioca Gatti |
+| Mexico | juventus vs | 1000+ | Cuándo juegan Juventus vs. Rennes por la Europa League: equipo, fecha, hora y TV en vivo |
+| Mexico | bayer leverkusen | 500+ | Tickets: OFI Crete - Bayer 04 Leverkusen, Europa League |
+| Mexico | getafe vs lugano | 200+ | Getafe vs Lugano: UEFA Conference League stats & head-to-head |
