@@ -387,3 +387,39 @@
 - Google News ES: El Al-Nassr descarta un puesto para Cristiano Ronaldo tras su retiro del fútbol
 - Record: <![CDATA[ Cristiano Ronaldo é o jogador mais bem pago segundo a 'Forbes' ]]>
 
+## 23/10 19:24 · United in crisis · revisar
+- Motivo: datos que no salen en los titulares: Bournemouth
+- Temas: Manchester, Man
+- Guardian: Enzo Maresca says honest talks have revitalised Foden’s Manchester City form
+- talkSPORT: Aston Villa vs Manchester City LIVE commentary: Erling Haaland ‘100 per cent available’ after rest as Johan Manzambi remains doubt
+- Mirror: Should Manchester United SACK Michael Carrick? Have your say
+- Planet Football: Manchester United’s most embarrassing European defeats ranked after Como humiliation
+- FourFourTwo: 'That's not on me' Manchester United captain Bruno Fernandes savages Michael Carrick after Como defeat
+
+## 23/10 19:24 · Kompany hospitalised · revisar
+- Motivo: categoría sensible: injury
+- Temas: Kompany
+- L'Equipe: Kompany : «Kane prend incroyablement souvent les bonnes décisions»
+- BBC: Kompany taken to hospital after collapsing at training
+- Guardian: Vincent Kompany taken to hospital after collapsing at Bayern training
+- Sky Sports: Kompany taken to hospital after collapsing at Bayern's training ground
+- talkSPORT: Bayern Munich boss Vincent Kompany rushed to hospital by ambulance immediately after training
+
+## 23/10 19:24 · Infantino gains Asia backing · revisar
+- Motivo: categoría sensible: politics
+- Temas: Infantino
+- BBC: Infantino re-election hopes boosted by Asia support
+- Guardian: Asian Football Confederation backs Gianni Infantino in U-turn on Fifa presidency
+- Google News EN: Gianni Infantino: Asian football chief gives Fifa president re-election lift
+- AS: Giro de guion con Infantino: la Confederación asiática lo apoya
+- Mundo Deportivo: Asia da carta blanca a Infantino
+
+## 23/10 19:24 · Bournemouth eye Europe · revisar
+- Motivo: palabra sensible en los titulares: war
+- Temas: Bournemouth
+- talkSPORT: Bournemouth owner Bill Foley makes Champions League vow and gives Alex Scott transfer update
+- Daily Mail: Chelsea set to move for £90m-rated Alex Scott in January, as Bournemouth owner Bill Foley says 'sometimes players get stars in their eyes' and refuses to give up on keeping him
+- Daily Mail: How Bournemouth became favourites to beat AC Milan: From copying the Italians' famous kit to just £100,000 saving them from extinction... now the Cherries are ready to beat their idols
+- Google News EN: STAR FOOTBALL PREVIEW Thurs: Bournemouth v AC Milan
+- Football Italia: Europa League: Bournemouth vs. Milan – probable line-ups, where to watch on TV
+
