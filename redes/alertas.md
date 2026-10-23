@@ -1,32 +1,24 @@
-# Alertas de noticias (2026-10-22 17:32 UTC)
+# Alertas de noticias (2026-10-23 11:59 UTC)
 
 Temas en >= 7 medios. La rutina diaria y cualquier sesión deben mirar esto ANTES de elegir tema (regla 6: la noticia que todos comentan va primero).
 
 ## Grandes SIN publicar en las últimas 48 h (hacer post si pasa el listón: nada repetido, foto del momento)
 
-- **Fernandes** (14 medios): Fernandes to stay captain as Rooney calls Man Utd players babies
-- **Bruno** (13 medios): Bruno Guimarães had sleepless nights before Newcastle exit but hopes for same ‘love’ at Arsenal
-- **Carrick** (12 medios): Carrick carrying on but senior Man Utd figures concerned by performances
-- **Como** (12 medios): Man Utd humbled by four-goal Como to pile pressure on Carrick
-- **Manchester** (11 medios): Enzo Maresca says honest talks have revitalised Foden’s Manchester City form
-- **Man** (10 medios): Fernandes to stay captain as Rooney calls Man Utd players babies
-- **Kane** (10 medios): Goal, assist... goal-kick - Kane underlines Ballon d'Or credentials
-- **Europa** (10 medios): Lech Poznan v Sunderland, Juventus v Rennes, and more: Europa League – live
-- **Ballon** (9 medios): Goal, assist... goal-kick - Kane underlines Ballon d'Or credentials
-- **Paz** (9 medios): Paz, Fabregas and Como teach Man Utd a lesson
-- **Utd** (8 medios): Fernandes to stay captain as Rooney calls Man Utd players babies
-- **Michael** (8 medios): Neil Warnock outlines how Michael Carrick should deal with Bruno Fernandes at Man United
-- **Chelsea** (7 medios): Chelsea eye Brighton's Ayari - Thursday's gossip
-- **Saka** (7 medios): Saka injury 'does not look good' - how will Arsenal cope?
-- **Juventus** (7 medios): Lech Poznan v Sunderland, Juventus v Rennes, and more: Europa League – live
-- **Harry** (7 medios): Harry Kane admits wait to learn if he has won Ballon d’Or is ‘very stressful’ for family
-- **Nico** (7 medios): Champions League Team of the Week has Nico Paz, McTominay and Carlos Augusto
+- **Carrick** (11 medios): Should Man Utd boss Carrick drop captain Fernandes?
+- **Bournemouth** (11 medios): Dream night for Bournemouth - win over Milan a sign of Premier League power
+- **Man** (10 medios): Should Man Utd boss Carrick drop captain Fernandes?
+- **Infantino** (10 medios): Infantino re-election hopes boosted by Asia support
+- **Milan** (10 medios): Dream night for Bournemouth - win over Milan a sign of Premier League power
+- **Europa** (9 medios): Europa League: Celtic lose to Celta after leading, Mateta returns in Palace draw
+- **Fernandes** (8 medios): Should Man Utd boss Carrick drop captain Fernandes?
+- **Utd** (8 medios): Should Man Utd boss Carrick drop captain Fernandes?
+- **Howe** (7 medios): Man Utd chief keen on Howe - Friday's gossip
+- **Manchester** (7 medios): Wilcox wants Howe if Manchester United sack Carrick; Dortmund fight back against influencers: football news –
+- **Bruno** (7 medios): Bruno Guimarães had sleepless nights before Newcastle exit but hopes for same ‘love’ at Arsenal
+- **Michael** (7 medios): Kai Rooney should start over Bruno Fernandes as Michael Carrick told to pick Man United kids in emotional rant
 
 ## Grandes ya cubiertas
 
-- Bayern (14): Rice strikes to earn Arsenal draw at Bayern
-- Arsenal (14): Rice strikes to earn Arsenal draw at Bayern
-- Madrid (13): Real Madrid dominate Leipzig for third straight win
-- Liverpool (10): Mac Allister scores twice as Liverpool fight back to beat Villarreal
-- Munich (9): ‘It doesn’t look good’: Arteta concerned as Saka limps off against Bayern Munich
-- Barcelona (7): PSG come out on top in six-goal thriller against Barcelona
+- Ballon (10): Pride, prestige, profile - the great Ballon d'Or campaign
+- Madrid (10): Is el clásico still the world’s biggest match? Three questions before Barcelona v Real Madrid
+- Bayern (7): Manchester United bin-fire keeps blazing and Arsenal draw at Bayern
