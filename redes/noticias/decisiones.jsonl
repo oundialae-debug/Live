@@ -105,3 +105,8 @@
 {"t": "2026-10-23T17:24+00:00", "estado": "revisar", "temas": ["Infantino"], "clave": "infantino-asia-support", "motivo": "categoría sensible: politics"}
 {"t": "2026-10-23T17:24+00:00", "estado": "revisar", "temas": ["Bournemouth"], "clave": "bournemouth-champions-league-ambition", "motivo": "palabra sensible en los titulares: war"}
 {"t": "2026-10-23T17:24+00:00", "estado": "descartar", "temas": ["Europa"], "clave": "europa-league-updates", "motivo": "importancia 5 < 7"}
+{"t": "2026-10-23T20:37+00:00", "estado": "revisar", "temas": ["Liverpool"], "clave": "liverpool-jota-death", "motivo": "categoría sensible: death"}
+{"t": "2026-10-23T20:37+00:00", "estado": "descartar", "temas": ["Conte"], "clave": "man-utd-conte-rumour", "motivo": "repetida (ya publicada/decidida)"}
+{"t": "2026-10-23T20:37+00:00", "estado": "revisar", "temas": ["Barcelona"], "clave": "barcelona-clasico-advantage", "motivo": "datos que no salen en los titulares: 12"}
+{"t": "2026-10-23T20:37+00:00", "estado": "descartar", "temas": ["Chelsea"], "clave": "chelsea-brighton-target", "motivo": "importancia 6 < 7"}
+{"t": "2026-10-23T20:37+00:00", "estado": "descartar", "temas": ["Milan"], "clave": "ac-milan-bournemouth-defeat", "motivo": "importancia 6 < 7"}

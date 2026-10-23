@@ -423,3 +423,21 @@
 - Google News EN: STAR FOOTBALL PREVIEW Thurs: Bournemouth v AC Milan
 - Football Italia: Europa League: Bournemouth vs. Milan – probable line-ups, where to watch on TV
 
+## 23/10 22:37 · Jota dies in crash · revisar
+- Motivo: categoría sensible: death
+- Temas: Liverpool
+- talkSPORT: Trent Alexander-Arnold would have to join a different club from Liverpool to seal Premier League return
+- Daily Mail: 'Keep your eyes on the road': Diogo Jota's new wife's text message to husband revealed in her heartbreaking account of how tragic Liverpool star's Lamborghini crash death unfolded
+- Mirror: Diogo Jota's wife recalls heartbreaking moment she learned of Liverpool star's death
+- Yahoo: Journalist: Liverpool have set their sights on contract talks with forward
+- Yahoo: Liverpool in three-horse race with Champions League winners for €50m sensation
+
+## 23/10 22:37 · Barcelona eye Clasico edge · revisar
+- Motivo: datos que no salen en los titulares: 12
+- Temas: Barcelona
+- Yahoo: Former Barcelona defender explains why Flick’s side have the edge over Real Madrid: ‘Not a normal match’
+- Yahoo: Barcelona adviser takes aim at Real Madrid manager ahead of El Clasico: ‘With him, it’s always someone else’s fault’
+- Yahoo: Luis Figo in awe of Barcelona sensation, expects Mourinho to have a plan to stop him in Clasico
+- Yahoo: Barcelona summer signing’s impressive record vs Real Madrid offers club a Clasico advantage
+- Yahoo: Barcelona legend Pique expects emphatic Clasico win over Real Madrid: ‘I predict a 4-1 victory’
+
