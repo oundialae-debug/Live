@@ -441,3 +441,21 @@
 - Yahoo: Barcelona summer signing’s impressive record vs Real Madrid offers club a Clasico advantage
 - Yahoo: Barcelona legend Pique expects emphatic Clasico win over Real Madrid: ‘I predict a 4-1 victory’
 
+## 24/10 20:20 · Chelsea vs Tottenham preview · revisar
+- Motivo: datos que no salen en los titulares: Blues
+- Temas: Chelsea, Tottenham
+- Daily Mail: Tottenham's defensive dilemma unpacked: Why Roberto De Zerbi went to a back-three against Coventry and why it may work at Chelsea, the problem with 'Double Dutch' pairing and the pitfalls of shifting Micky van de Ven
+- Daily Mail: Jordan Henderson's Chelsea revival: How he's still running Premier League midfields at 36, why Xabi Alonso is so enamoured with his role as dressing-room mentor and referee whisperer, and why he hasn't given up on England dream
+- Yahoo: Tottenham finally have lift-off, but Chelsea could quickly spoil the party
+- Google News EN: FPL 2026/27: Chelsea Gameweek eight | News | Official Site
+- BBC: Derby day - when Chelsea and Spurs meet, is chaos guaranteed?
+
+## 24/10 20:20 · Flick eyes Clasico win · revisar
+- Motivo: sin foto buena con cara visible
+- Temas: Flick, Clásico
+- Yahoo: Barcelona closely following Serie A manager as potential successor for Hansi Flick
+- Mundo Deportivo: Flick y su colección de golpes al Madrid: siete Clásicos, seis victorias y cuatro títulos
+- Mundo Deportivo: Koundé sigue al margen y Flick llama a Goren y Tunkara a dos días del Clásico
+- Foot Mercato: L’arme secrète de Flick pour le Clásico, le vestiaire de Manchester United se fissure autour de Michael Carrick
+- Mundo Deportivo: Adeyemi: "Flick es la razón por la que estoy aquí"
+
