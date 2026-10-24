@@ -459,3 +459,12 @@
 - Foot Mercato: L’arme secrète de Flick pour le Clásico, le vestiaire de Manchester United se fissure autour de Michael Carrick
 - Mundo Deportivo: Adeyemi: "Flick es la razón por la que estoy aquí"
 
+## 24/10 23:08 · Saka Injury Rocks Arsenal · revisar
+- Motivo: categoría sensible: injury
+- Temas: Arteta, Saka
+- Mirror: Jamie Carragher pinpoints Mikel Arteta change as he bids to end 92-year Arsenal hoodoo
+- Guardian: Arteta concerned over Saka’s durability as forward faces possible six-week absence
+- FourFourTwo: 'It's difficult to understand the extent' Arsenal manager Mikel Arteta drops Bukayo Saka injury update
+- Yahoo: Bukayo Saka injury update: Arteta issues latest news as Arsenal star to miss time
+- Mundo Deportivo: Saltan las alarmas para Arteta con Saka: "No pinta bien"
+
