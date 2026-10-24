@@ -110,3 +110,8 @@
 {"t": "2026-10-23T20:37+00:00", "estado": "revisar", "temas": ["Barcelona"], "clave": "barcelona-clasico-advantage", "motivo": "datos que no salen en los titulares: 12"}
 {"t": "2026-10-23T20:37+00:00", "estado": "descartar", "temas": ["Chelsea"], "clave": "chelsea-brighton-target", "motivo": "importancia 6 < 7"}
 {"t": "2026-10-23T20:37+00:00", "estado": "descartar", "temas": ["Milan"], "clave": "ac-milan-bournemouth-defeat", "motivo": "importancia 6 < 7"}
+{"t": "2026-10-24T11:29+00:00", "estado": "descartar", "temas": ["Madrid"], "clave": "el-clasico-hype", "motivo": "falta tag"}
+{"t": "2026-10-24T11:29+00:00", "estado": "descartar", "temas": ["Bayern", "Arsenal"], "clave": "bayern-arsenal-injury", "motivo": "falta tag"}
+{"t": "2026-10-24T11:29+00:00", "estado": "descartar", "temas": ["Villa"], "clave": "villa-emery-reboot", "motivo": "falta tag"}
+{"t": "2026-10-24T11:29+00:00", "estado": "descartar", "temas": ["Conte"], "clave": "conte-man-utd-denial", "motivo": "falta tag"}
+{"t": "2026-10-24T11:29+00:00", "estado": "descartar", "temas": ["Bayern"], "clave": "bayern-250m-spend", "motivo": "importancia 6 < 7"}
