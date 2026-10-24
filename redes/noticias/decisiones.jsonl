@@ -120,3 +120,4 @@
 {"t": "2026-10-24T18:20+00:00", "estado": "revisar", "temas": ["Chelsea", "Tottenham"], "clave": "chelsea-tottenham-preview", "motivo": "datos que no salen en los titulares: Blues"}
 {"t": "2026-10-24T18:20+00:00", "estado": "revisar", "temas": ["Flick", "Clásico"], "clave": "flick-barcelona-clasico", "motivo": "sin foto buena con cara visible"}
 {"t": "2026-10-24T18:20+00:00", "estado": "descartar", "temas": ["Everton"], "clave": "arsenal-everton-preview", "motivo": "importancia 6 < 7"}
+{"t": "2026-10-24T21:08+00:00", "estado": "publicado", "temas": ["Carrick", "Michael"], "clave": "man-utd-carrick-replacement", "video": "https://raw.githubusercontent.com/oundialae-debug/live/main/media/noticias/2026-10-24_2307_man-utd-carrick-replacement.mp4"}
