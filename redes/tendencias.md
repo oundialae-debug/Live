@@ -1,36 +1,43 @@
-# Tendencias de fútbol (2026-10-24 11:28 UTC, Google Trends)
+# Tendencias de fútbol (2026-10-24 14:49 UTC, Google Trends)
 
 Generado por el workflow `tendencias`. Úsalo para elegir temas de memes, curiosos y jugador vs jugador.
 
 | País | Búsqueda | Tráfico | Titular |
 |---|---|---|---|
-| UK | aston villa – man city | 1000+ | Aston Villa vs Manchester City: Premier League preview, team news, stats & head-to-head |
-| UK | sean dyche | 200+ | Kettering Ise Lodge football manager honoured with reunion celebration led by Sean Dyche |
-| UK | zion suzuki | 200+ | PSG open to signing a goalkeeper in January |
-| UK | tottenham vs arsenal | 2000+ | Tottenham vs Arsenal: Why north London derby could define seasons |
-| UK | bristol rovers vs swindon town | 200+ | Bristol Rovers vs Swindon Town: League Two stats & head-to-head |
-| Spain | rayo vallecano - elche c. f. | 5000+ | Tregua temporal en Vallecas |
-| Spain | ffcv | 200+ | La FFCV sigue sin dar a conocer el sistema de competición del Fútbol 8 en Castellón |
-| Spain | aston villa - manchester city | 5000+ | Aston Villa vs Manchester City: Premier League preview, team news, stats & head-to-head |
-| Spain | aston villa vs man city | 1000+ | Mourinho labels Madrid-Barça comparison ‘unfair’, Kompany to miss ‘weeks’ say Bayern, and more |
-| Spain | leonor premios princesa asturias | 2000+ | Los Premios Princesa de Asturias 2026, en siete momentos: Del mensaje a los jóvenes de Leonor, la em |
-| Italy | avellino | 200+ | Lista dei convocati per Avellino-Padova |
-| Italy | open parc auvergne-rhône-alpes lyon | 1000+ | Highlights: Cobolli battles past Nakashima, reaches Lyon SFs |
-| Italy | aston villa - manchester city | 5000+ | Aston Villa vs Manchester City: Premier League preview, team news, stats & head-to-head |
-| Germany | hansa rostock – düsseldorf | 500+ | Fußball - 3. Liga: Jens Langeneke gibt als Trainer von Fortuna Düsseldorf Profidebüt in Rostock |
-| France | rodez | 100+ | Dijon - Rodez, Ligue 2, match en direct le 24/10/2026 |
-| France | ucl | 200+ | 'We should've killed it off' – Kane rues Bayern's missed chances in Arsenal draw |
-| France | aston villa – manchester city | 20000+ | Aston Villa vs Manchester City: Premier League preview, team news, stats & head-to-head |
-| USA | rayo vallecano - elche c. f. | 200+ | Las peñas celebran el acuerdo... pero avisan: "Esta batalla supone un avance, pero no la salvación d |
-| USA | rayo vs elche | 200+ | Preview: Rayo Vallecano vs Elche - prediction, team news, lineups |
-| USA | voley | 100+ | Alianza Lima vs Regatas Lima EN VIVO: Hora y canal para ver la Liga Peruana de Vóley |
-| USA | college gameday this week | 200+ | Utah fans camp out as 'College GameDay' returns for second straight week |
-| USA | lyon open | 500+ | Cobolli vs. Musetti Prediction at the Open Parc Auvergne-Rhone-Alpes Lyon - Saturday, October 24 |
-| Argentina | antonela roccuzzo | 2000+ | Antonela Roccuzzo, el mejor apoyo de Leo Messi en los Princesa de Asturias: analizamos sus 3 looks e |
-| Argentina | aston villa - manchester city | 5000+ | Maresca says Haaland is 100% available for Villa trip |
-| Brazil | aston villa x city | 20000+ | Maresca says Haaland is 100% available for Villa trip |
-| Portugal | aston villa vs man city | 200+ | Aston Villa vs Manchester City: Premier League preview, team news, stats & head-to-head |
-| Portugal | aston villa - city | 1000+ | Aston Villa-Manchester City: 'citizens' querem manter registo perfeito |
-| Mexico | aston villa - manchester city | 2000+ | Maresca says Haaland is 100% available for Villa trip |
-| Mexico | j league | 100+ | Football: Asano nets 1st goal since return as Hiroshima thump Shimizu |
-| Mexico | como vs sassuolo | 200+ | Como vs Sassuolo: Italian Serie A stats & head-to-head |
+| UK | arsenal game | 500+ | Arsenal fear Saka could be out for two months |
+| UK | bromley fc | 200+ | Third-longest standing manager in England loses his job |
+| UK | cardiff city fc | 200+ | Cardiff City v Birmingham City: Championship stats & head-to-head |
+| UK | stevenage fc | 200+ | Stevenage vs MK Dons: League One stats & head-to-head |
+| Spain | valencia | 500+ | Los dueños del 'Mercadona americano' y el grupo de grandes inversores que picotean en deporte ponen  |
+| Spain | classement aston villa – manchester city | 200+ | Premier League 2026/2027 : Revivez le match de la 8e journée entre Aston Villa et Manchester City (2 |
+| Spain | coventry vs fulham | 100+ | FOOTBALL – Coventry City boss Frank Lampard on Fulham, Bobby Thomas and Gus Hamer |
+| Spain | mainz – werder bremen | 100+ | Liveticker | 1. FSV Mainz 05 - Werder Bremen 0:0 | 7. Spieltag | Bundesliga 2026/27 |
+| Spain | posiciones de rayo vallecano contra elche c. f. | 5000+ | Rayo - Elche LIVE. LALIGA EA Sports latest updates |
+| Italy | inter under 23 | 100+ | Inter U23-Sorrento, le formazioni ufficiali |
+| Italy | arsenal everton | 200+ | Premier League: Arsenal leading Everton, Coventry still goalless with Fulham |
+| Italy | tasos douvikas | 500+ | 🔥 Douvikas always scores! Two in 11', disaster for Sassuolo |
+| Germany | müller wohlfahrt | 1000+ | Bayern: Müller-Wohlfahrt: "Man wollte meine Existenz vernichten" |
+| Germany | karl-heinz rummenigge | 1000+ | Der Stress des Ballon-d'Or-Traums: Anspannung bei Kane wächst |
+| France | flavio cobolli | 500+ | ATP Lyon: Flavio Cobolli escapes the Nakashima trap and edges closer to Turin |
+| France | mainz 05 – werder | 100+ | Liveticker | 1. FSV Mainz 05 - Werder Bremen 0:0 | 7. Spieltag | Bundesliga 2026/27 |
+| USA | urban meyer | 200+ | A College Football Playoff rankings logjam is looming, and the 24-team plan will solve it |
+| USA | saka injury | 200+ | Arsenal fear Saka could be out for two months |
+| USA | ezri konsa | 500+ | FOOTBALL - Matt Grimes insists Coventry City must continue 'learning and adapting' to life in the Pr |
+| USA | byu vs ucf | 500+ | No. 2 Cougars face another big challenge some 2,000 miles away from Provo |
+| Argentina | west ham - southampton | 200+ | West Ham United vs Southampton LIVE Score Updates in EFL Championship Match |
+| Argentina | river vs racing | 500+ | Sin dos piezas claves, el once que se perfila en River para el clásico ante Racing |
+| Argentina | como fc | 200+ | Michael Carrick is now in peril, but Manchester United’s problems run so much deeper - The Athletic |
+| Argentina | racing de santander - rcd espanyol | 200+ | Racing S. vs Espanyol, en vivo, por La Liga de España: minuto a minuto y qué canal pasa el partido p |
+| Argentina | como vs | 500+ | Como vs Sassuolo: Italian Serie A stats & head-to-head |
+| Brazil | ezri konsa | 200+ | FOOTBALL - Matt Grimes insists Coventry City must continue 'learning and adapting' to life in the Pr |
+| Brazil | west ham | 200+ | Carlton Cole reveals the outrageous reason he had to travel to a heated derby match in a tank |
+| Portugal | como - sassuolo | 100+ | Como - Sassuolo LIVE. Serie A latest updates |
+| Portugal | aston villa vs man city standings | 2000+ | Aston Villa 2-1 Manchester City: Nicolas Jackson double ends City's 100% start |
+| Portugal | arsenal vs everton | 500+ | Premier League: Arsenal leading Everton, Coventry still goalless with Fulham |
+| Portugal | arsenal - everton | 1000+ | 'The other side' - David Moyes ponders what Mikel Arteta has taken from him |
+| Mexico | racing de santander | 100+ | ¿Quién es Jesús Gil Manzano? Árbitro del Racing de Santander vs Espanyol de la jornada 10 de LALIGA |
+| Mexico | clasico español | 200+ | Barcelona vs Real Madrid: ¿Cuándo y dónde ver El Clásico? |
+| Mexico | posiciones de rayo vallecano contra elche c. f. | 500+ | Rayo - Elche LIVE. LALIGA EA Sports latest updates |
+| Mexico | augsburgo - fc union berlin | 200+ | Preview: Augsburg vs Union Berlin - prediction, team news, lineups |
+| Mexico | mainz 05 - werder bremen | 200+ | Bundesliga im Liveticker: SC Paderborn 07 gegen Hamburger SV |
+| Mexico | west ham - southampton | 500+ | West Ham United vs Southampton LIVE Score Updates in EFL Championship Match |
