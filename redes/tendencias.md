@@ -1,43 +1,53 @@
-# Tendencias de fútbol (2026-10-24 14:49 UTC, Google Trends)
+# Tendencias de fútbol (2026-10-24 18:18 UTC, Google Trends)
 
 Generado por el workflow `tendencias`. Úsalo para elegir temas de memes, curiosos y jugador vs jugador.
 
 | País | Búsqueda | Tráfico | Titular |
 |---|---|---|---|
-| UK | arsenal game | 500+ | Arsenal fear Saka could be out for two months |
-| UK | bromley fc | 200+ | Third-longest standing manager in England loses his job |
-| UK | cardiff city fc | 200+ | Cardiff City v Birmingham City: Championship stats & head-to-head |
-| UK | stevenage fc | 200+ | Stevenage vs MK Dons: League One stats & head-to-head |
-| Spain | valencia | 500+ | Los dueños del 'Mercadona americano' y el grupo de grandes inversores que picotean en deporte ponen  |
-| Spain | classement aston villa – manchester city | 200+ | Premier League 2026/2027 : Revivez le match de la 8e journée entre Aston Villa et Manchester City (2 |
-| Spain | coventry vs fulham | 100+ | FOOTBALL – Coventry City boss Frank Lampard on Fulham, Bobby Thomas and Gus Hamer |
-| Spain | mainz – werder bremen | 100+ | Liveticker | 1. FSV Mainz 05 - Werder Bremen 0:0 | 7. Spieltag | Bundesliga 2026/27 |
-| Spain | posiciones de rayo vallecano contra elche c. f. | 5000+ | Rayo - Elche LIVE. LALIGA EA Sports latest updates |
-| Italy | inter under 23 | 100+ | Inter U23-Sorrento, le formazioni ufficiali |
-| Italy | arsenal everton | 200+ | Premier League: Arsenal leading Everton, Coventry still goalless with Fulham |
-| Italy | tasos douvikas | 500+ | 🔥 Douvikas always scores! Two in 11', disaster for Sassuolo |
-| Germany | müller wohlfahrt | 1000+ | Bayern: Müller-Wohlfahrt: "Man wollte meine Existenz vernichten" |
-| Germany | karl-heinz rummenigge | 1000+ | Der Stress des Ballon-d'Or-Traums: Anspannung bei Kane wächst |
-| France | flavio cobolli | 500+ | ATP Lyon: Flavio Cobolli escapes the Nakashima trap and edges closer to Turin |
-| France | mainz 05 – werder | 100+ | Liveticker | 1. FSV Mainz 05 - Werder Bremen 0:0 | 7. Spieltag | Bundesliga 2026/27 |
-| USA | urban meyer | 200+ | A College Football Playoff rankings logjam is looming, and the 24-team plan will solve it |
-| USA | saka injury | 200+ | Arsenal fear Saka could be out for two months |
-| USA | ezri konsa | 500+ | FOOTBALL - Matt Grimes insists Coventry City must continue 'learning and adapting' to life in the Pr |
-| USA | byu vs ucf | 500+ | No. 2 Cougars face another big challenge some 2,000 miles away from Provo |
-| Argentina | west ham - southampton | 200+ | West Ham United vs Southampton LIVE Score Updates in EFL Championship Match |
-| Argentina | river vs racing | 500+ | Sin dos piezas claves, el once que se perfila en River para el clásico ante Racing |
-| Argentina | como fc | 200+ | Michael Carrick is now in peril, but Manchester United’s problems run so much deeper - The Athletic |
-| Argentina | racing de santander - rcd espanyol | 200+ | Racing S. vs Espanyol, en vivo, por La Liga de España: minuto a minuto y qué canal pasa el partido p |
-| Argentina | como vs | 500+ | Como vs Sassuolo: Italian Serie A stats & head-to-head |
-| Brazil | ezri konsa | 200+ | FOOTBALL - Matt Grimes insists Coventry City must continue 'learning and adapting' to life in the Pr |
-| Brazil | west ham | 200+ | Carlton Cole reveals the outrageous reason he had to travel to a heated derby match in a tank |
-| Portugal | como - sassuolo | 100+ | Como - Sassuolo LIVE. Serie A latest updates |
-| Portugal | aston villa vs man city standings | 2000+ | Aston Villa 2-1 Manchester City: Nicolas Jackson double ends City's 100% start |
-| Portugal | arsenal vs everton | 500+ | Premier League: Arsenal leading Everton, Coventry still goalless with Fulham |
-| Portugal | arsenal - everton | 1000+ | 'The other side' - David Moyes ponders what Mikel Arteta has taken from him |
-| Mexico | racing de santander | 100+ | ¿Quién es Jesús Gil Manzano? Árbitro del Racing de Santander vs Espanyol de la jornada 10 de LALIGA |
-| Mexico | clasico español | 200+ | Barcelona vs Real Madrid: ¿Cuándo y dónde ver El Clásico? |
-| Mexico | posiciones de rayo vallecano contra elche c. f. | 500+ | Rayo - Elche LIVE. LALIGA EA Sports latest updates |
-| Mexico | augsburgo - fc union berlin | 200+ | Preview: Augsburg vs Union Berlin - prediction, team news, lineups |
-| Mexico | mainz 05 - werder bremen | 200+ | Bundesliga im Liveticker: SC Paderborn 07 gegen Hamburger SV |
-| Mexico | west ham - southampton | 500+ | West Ham United vs Southampton LIVE Score Updates in EFL Championship Match |
+| UK | mikel arteta | 200+ | Mikel Arteta: Arsenal boss keeping tabs on Premier League managers leaving the technical area |
+| UK | barcelona vs granada | 200+ | Las imágenes de la goleada rojiblanca al Valencia |
+| UK | dortmund | 200+ | DFB-Pokal 2026/27 live im TV, Livestream & Ticker: Infos zu Auslosung, Spielplan & Übertragungen |
+| UK | cole palmer | 1000+ | João Pedro: I told Cole Palmer 'I didn't want to take his spot' at Chelsea |
+| UK | scott mctominay | 200+ | Champions League: Scott McTominay scores double as Napoli beat Bodo/Glimt |
+| UK | napoli fc | 200+ | Probable Formation: Napoli vs Roma |
+| Spain | barça - zaragoza | 200+ | PARTE MÉDICO: TRAE BELL-HAYNES |
+| Spain | protesta | 200+ | La tensión por las protestas vuelve a estallar en Francia con cargas policiales en Marsella y Lyon |
+| Spain | cfo lol | 200+ | Horarios de hoy de los 'Worlds' de 'League of Legends' 2026: partidos, equipos y dónde ver gratis el |
+| Spain | fc barcelona - granada | 1000+ | Barcelona - Granada: TV, horario y cómo ver la Liga F online |
+| Spain | sport huancayo - alianza atlético | 200+ | Pronósticos Sport Huancayo vs Alianza Atlético: predicciones y apuesta recomendada |
+| Spain | dominick reyes | 200+ | UFC 333 Highlights! Reyes Smokes ‘The Professional’ With Devastating Head Kick TKO |
+| Spain | plaça catalunya | 200+ | Tensió al centre de Barcelona per una manifestació convocada per xarxes socials |
+| Italy | beukema | 200+ | Napoli vs AS Roma voorspelling: Kans om de eerste plaats na te jagen |
+| Italy | seria a | 200+ | Le partite di Serie A di oggi, il calendario e gli orari della 8^ giornata |
+| Italy | ponte maddalena cerasuolo | 200+ | Investito e ucciso a Napoli. Travolto prima da uno scooter e poi da un furgone |
+| Italy | lazio - parma | 10000+ | LIVE Alle 20.45 Lazio-Parma, le ufficiali: Gattuso punta su Noslin, Gilardino con Romero-Tourè |
+| Italy | paolo pierobon | 200+ | Festa di Roma, vince il realismo sociale dell'inglese Clio Barnard (ma sfoltire i titoli sarebbe d'a |
+| Italy | leonardo balerdi | 5000+ | Napoli v Roma: Match preview |
+| Germany | luke littler | 2000+ | Darts-EM 2026: Übertragung, Spielplan, Ergebnisse |
+| Germany | demichelis | 500+ | Alineaciones confirmadas del RB Leipzig vs. SV Elversberg |
+| Germany | maximilian beier | 200+ | BVB & Schalke verbünden sich für wichtige Aktion |
+| Germany | barca real | 200+ | Five Of The Best El Clásico Matches In Soccer History |
+| France | twitch | 2000+ | The suicide of Manuel Otto, creator of Stick Run, following an incident during a live stream on Twit |
+| France | leonardo balerdi | 200+ | Naples 3-3 AS Rome, Serie A : Match fou au Maradona ! |
+| France | lens – paris fc | 2000+ | Lens - Paris FC, Ligue 1, match en direct le 24/10/2026 |
+| France | saint-étienne – nantes | 2000+ | #ASSEFCN : Ce qu'il faut savoir avant ASSE - Nantes à Geoffroy-Guichard ! |
+| France | aaron pico | 200+ | Pico vs Keita Prediction, Odds & UFC 333 Opening Fight Picks |
+| USA | cole palmer | 500+ | Joao Pedro reveals Cole Palmer's role in dream Chelsea transfer and explains Xabi Alonso impact |
+| USA | barcelona - granada cf | 5000+ | Las imágenes de la goleada rojiblanca al Valencia |
+| Argentina | leonardo balerdi | 200+ | Soulé Has Chance to Shine as Roma Attempts to Exorcise Napoli Demons |
+| Argentina | roma vs | 500+ | Arsenal 2-0 Everton (Oct 24, 2026) Team Stats |
+| Argentina | chelsea | 1000+ |  |
+| Argentina | montréal - nashville sc | 100+ | CF Montreal vs Nashville Soccer Club: Lineups, Prediction, Odds & Bet Builder Tip |
+| Argentina | villarreal | 200+ | Valencia vs Villarreal, en vivo, por La Liga de España: minuto a minuto y qué canal pasa el partido  |
+| Brazil | lazio x parma | 200+ | Horário e onde assistir ao vivo Lazio x Parma, pela Serie A |
+| Brazil | roma | 1000+ | Manifestazioni a Roma, il corteo non autorizzato si sposta: lanci di bottiglie e idranti |
+| Brazil | tom hanks | 200+ | Tom Hanks, sobre Clint Eastwood como diretor: "Obrigado por nos tratar como cavalos" |
+| Brazil | montréal x nashville sc | 2000+ | Melhores momentos: FC Cincinnati 2 x 1 D.C. United (MLS) |
+| Portugal | gil vicente porto | 200+ | Gil Vicente-FC Porto: dragão quer (finalmente) cantar de galo |
+| Portugal | chelsea | 1000+ | Chelsea vs Tottenham Hotspur: Premier League preview, team news, stats & head-to-head |
+| Mexico | lazio - parma | 500+ | Gattuso Warns Lazio About Parma: “We’ll Get Slapped in the Face” |
+| Mexico | lone'er kavanagh | 100+ | Ramazan Temirov vs Lone'er Kavanagh preview, prediction videos and how to watch |
+| Mexico | lens vs paris fc | 100+ | Ils avaient les mêmes cibles, mais pas les mêmes moyens financiers : entre Lens et le Paris FC, une  |
+| Mexico | barcelona - granada cf | 1000+ | Las imágenes de la goleada rojiblanca al Valencia |
+| Mexico | banfield vs lanús | 200+ | Cuándo juegan Banfield vs. Lanús por el Torneo Clausura 2026: equipo, fecha, hora y TV en vivo |
+| Mexico | aaron pico | 100+ | UFC 333 Main Card Odds, Picks & Predictions (2026) |
