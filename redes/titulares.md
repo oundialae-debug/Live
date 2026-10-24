@@ -1,4 +1,4 @@
-# Titulares de fútbol (2026-10-24 18:19 UTC, últimas 36 h)
+# Titulares de fútbol (2026-10-24 21:06 UTC, últimas 36 h)
 
 Generado por `scripts/titulares.py` (workflow `tendencias`). Leídos 26 de 34 medios; fuentes en `redes/fuentes.md`.
 
@@ -6,78 +6,78 @@ Generado por `scripts/titulares.py` (workflow `tendencias`). Leídos 26 de 34 me
 
 | Tema | Nº medios | Medios | Ejemplo |
 |---|---|---|---|
-| Chelsea | 17 | AS, BBC, Daily Mail, Foot Mercato, Football Italia, FourFourTwo, Google News EN, | From Chelsea reject to Watkins 'upgrade' - Jackson makes fast Villa start |
-| Arsenal | 15 | BBC, Daily Mail, Foot Mercato, FourFourTwo, Google News EN, Guardian, L'Equipe,  | Donnarumma & Guehi highlight Man City issues as solid Arsenal move level |
-| Tottenham | 14 | AS, BBC, Daily Mail, Foot Mercato, Football Italia, FourFourTwo, Google News EN, | Arsenal fight back to beat Tottenham and ease pressure on Slegers |
-| Villa | 12 | BBC, Daily Mail, Foot Mercato, FourFourTwo, Google News EN, Guardian, L'Equipe,  | From Chelsea reject to Watkins 'upgrade' - Jackson makes fast Villa start |
-| Aston | 12 | BBC, Daily Mail, Foot Mercato, FourFourTwo, Google News EN, Guardian, L'Equipe,  | Jackson stars with two goals - player ratings for Aston Villa v Man City |
-| Everton | 12 | Daily Mail, Foot Mercato, FourFourTwo, Google News EN, Guardian, L'Equipe, Mundo | Clinical Arsenal earn precious win against Everton thanks to Konsa and Gabriel |
-| Man | 11 | BBC, Daily Mail, Foot Mercato, FourFourTwo, Google News EN, Mirror, Planet Footb | Donnarumma & Guehi highlight Man City issues as solid Arsenal move level |
-| Arteta | 9 | AS, BBC, FourFourTwo, Google News EN, Guardian, Mirror, Yahoo, r/soccer (top día | Leaving the technical area? Arteta has the receipts |
-| Bayern | 9 | Daily Mail, Foot Mercato, Guardian, Infobae, Kicker, Mundo Deportivo, Planet Foo | Vincent Kompany to miss ‘weeks, not days’ with virus treatment, say Bayern Munich |
-| Liverpool | 9 | Daily Mail, Foot Mercato, Football Italia, FourFourTwo, Mirror, Mundo Deportivo, | Ex-Premier League star desperate to see Trent Alexander-Arnold back at Liverpool |
-| Kompany | 8 | BBC, Daily Mail, Guardian, Infobae, Mundo Deportivo, ge.globo, r/soccer (top día | Kompany recovery will take 'weeks' as tests continue |
-| Manchester | 8 | Foot Mercato, FourFourTwo, Google News EN, Guardian, L'Equipe, Yahoo, r/soccer ( | Nicolas Jackson double sees Aston Villa end Manchester City’s perfect start |
-| Madrid | 8 | AS, Foot Mercato, Google News ES, Guardian, L'Equipe, Mundo Deportivo, Yahoo, ge | Older, calmer, but still playing the hits: Mourinho and Madrid primed for clásico |
-| Mourinho | 8 | AS, Foot Mercato, Google News ES, Guardian, L'Equipe, Mundo Deportivo, Record, g | Older, calmer, but still playing the hits: Mourinho and Madrid primed for clásico |
-| Barcelona | 8 | AS, Daily Mail, Google News ES, Guardian, Infobae, Planet Football, Yahoo, ge.gl | Is el clásico still the world’s biggest match? Three questions before Barcelona v Real Madrid |
-| Flick | 8 | AS, Foot Mercato, Google News EN, Google News ES, L'Equipe, Record, Yahoo, ge.gl | De Jong sends clear message to Flick over Barcelona starting place: &#8216;Don&#8217;t want to get used to bei |
-| Clásico | 8 | AS, Foot Mercato, Google News EN, Google News ES, Infobae, Mundo Deportivo, Ole, | Flick: El Clásico is the best game football offers |
-| Carrick | 7 | BBC, Daily Mail, FourFourTwo, L'Equipe, Mirror, Telegraph, talkSPORT | Carrick refuses to rule out dropping Fernandes in emotional address |
-| Pedro | 7 | Daily Mail, Foot Mercato, Google News AR, Mirror, Yahoo, ge.globo, talkSPORT | Chelsea name surprise striker for Tottenham clash after unexpected Joao Pedro blow |
-| Jackson | 6 | BBC, Google News EN, Guardian, Yahoo, ge.globo, r/soccer (top día) | From Chelsea reject to Watkins 'upgrade' - Jackson makes fast Villa start |
-| Spurs | 6 | BBC, Daily Mail, Google News EN, Sky Sports, Yahoo, r/soccer (top día) | Arsenal relieve pressure with Spurs win - can they kick on now? |
-| Konsa | 6 | Daily Mail, Google News EN, Guardian, Telegraph, Yahoo, r/soccer (top día) | Clinical Arsenal earn precious win against Everton thanks to Konsa and Gabriel |
-| London | 6 | FourFourTwo, Google News EN, Guardian, Sky Sports, Yahoo, talkSPORT | Slegers and misfiring Arsenal badly need a result in WSL north London derby |
-| Michael | 6 | Daily Mail, FourFourTwo, Infobae, L'Equipe, Mirror, talkSPORT | Michael Carrick stuns reporters with unorthodox start to Man United press conference |
-| Messi | 6 | Google News AR, Google News ES, Infobae, Ole, r/soccer (top día), talkSPORT | Lamine Yamal backed to break Ronaldo&#8217;s Ballon d&#8217;Or record but won&#8217;t get close to Lionel Mess |
+| Chelsea | 17 | BBC, Daily Mail, Foot Mercato, Football Italia, FourFourTwo, Google News EN, Gua | From Chelsea reject to Watkins 'upgrade' - Jackson makes fast Villa start |
+| Tottenham | 15 | BBC, Daily Mail, Foot Mercato, Football Italia, FourFourTwo, Google News EN, Gua | Arsenal fight back to beat Tottenham and ease pressure on Slegers |
+| Arsenal | 13 | BBC, Daily Mail, Foot Mercato, FourFourTwo, Google News EN, Guardian, L'Equipe,  | Arsenal beat Everton to go level on points with leaders Man City |
+| Everton | 11 | BBC, Daily Mail, Foot Mercato, FourFourTwo, Google News AR, Google News EN, Guar | Arsenal beat Everton to go level on points with leaders Man City |
+| Aston | 11 | BBC, Daily Mail, Foot Mercato, FourFourTwo, Google News EN, Guardian, Mirror, Pl | Jackson scores twice as Aston Villa end Man City's perfect start |
+| Villa | 11 | BBC, Daily Mail, Foot Mercato, FourFourTwo, Google News AR, Google News EN, Guar | Jackson scores twice as Aston Villa end Man City's perfect start |
+| Arteta | 11 | AS, BBC, FourFourTwo, Google News EN, Guardian, Kicker, Mirror, Mundo Deportivo, | 'A massive storage of images': Arteta has technical area receipts |
+| Man | 10 | BBC, Daily Mail, Foot Mercato, FourFourTwo, Google News EN, Mirror, Telegraph, Y | Arsenal beat Everton to go level on points with leaders Man City |
+| Palmer | 9 | BBC, Daily Mail, Google News EN, Guardian, Mirror, Sky Sports, Telegraph, Yahoo, | Spurs clinch rare Stamford Bridge win as Palmer sent off |
+| Kompany | 9 | BBC, Daily Mail, Foot Mercato, Guardian, Kicker, Mirror, ge.globo, r/soccer (top | Kompany recovery will take 'weeks' as tests continue |
+| Liverpool | 8 | BBC, Daily Mail, Football Italia, FourFourTwo, Mirror, Yahoo, r/soccer (top día) | Liverpool among clubs keen on Vuskovic - Sunday's gossip |
+| Bayern | 8 | Daily Mail, Foot Mercato, Guardian, Kicker, Mirror, Planet Football, ge.globo, t | Vincent Kompany to miss ‘weeks, not days’ with virus treatment, say Bayern Munich |
+| Manchester | 8 | Foot Mercato, FourFourTwo, Google News EN, Guardian, L'Equipe, Yahoo, r/soccer ( | Change captain? Play the kids? How to solve the problems at Manchester United |
+| Bridge | 7 | BBC, Daily Mail, Planet Football, Sky Sports, Telegraph, Yahoo, r/soccer (top dí | Spurs clinch rare Stamford Bridge win as Palmer sent off |
+| Spurs | 7 | BBC, Daily Mail, Google News EN, Sky Sports, Telegraph, Yahoo, r/soccer (top día | Spurs clinch rare Stamford Bridge win as Palmer sent off |
+| Penders | 7 | AS, BBC, Google News EN, L'Equipe, Mundo Deportivo, Sky Sports, r/soccer (top dí | Penders error & Palmer sees red - player ratings for Chelsea v Spurs |
+| Roma | 7 | Foot Mercato, Football Italia, Google News EN, Guardian, Infobae, Mundo Deportiv | European football: Roma snatch late draw in 3-3 thriller as Como win again |
+| Madrid | 7 | AS, Foot Mercato, Google News ES, Guardian, L'Equipe, Yahoo, ge.globo | Older, calmer, but still playing the hits: Mourinho and Madrid primed for clásico |
+| Mourinho | 7 | AS, Foot Mercato, Google News ES, Guardian, L'Equipe, Mundo Deportivo, ge.globo | Older, calmer, but still playing the hits: Mourinho and Madrid primed for clásico |
+| Lazio | 7 | Foot Mercato, Football Italia, Kicker, L'Equipe, Mundo Deportivo, Record, Yahoo | Serie A | Lazio 2-1 Parma: Eagles keep flying high in top spot |
+| Stamford | 6 | BBC, Daily Mail, Sky Sports, Telegraph, Yahoo, r/soccer (top día) | Spurs clinch rare Stamford Bridge win as Palmer sent off |
+| Coventry | 6 | BBC, Daily Mail, FourFourTwo, Google News EN, Guardian, r/soccer (top día) | Bobb's late strike secures Fulham win at Coventry |
+| Rangers | 6 | BBC, Daily Mail, Google News EN, Guardian, Sky Sports, Yahoo | Strikers finding form as Rangers bounce back |
+| Ballon | 6 | BBC, Foot Mercato, Guardian, L'Equipe, Yahoo, talkSPORT | All you need to know about the 2026 Ballon d'Or |
+| Vincent | 6 | Daily Mail, Foot Mercato, Guardian, Mirror, r/soccer (top día), talkSPORT | Vincent Kompany to miss ‘weeks, not days’ with virus treatment, say Bayern Munich |
 
 ## Titulares por medio
 
-**BBC** (24)
-- Donnarumma & Guehi highlight Man City issues as solid Arsenal move level
+**BBC** (34)
+- Spurs clinch rare Stamford Bridge win as Palmer sent off
+- Arsenal beat Everton to go level on points with leaders Man City
+- Jackson scores twice as Aston Villa end Man City's perfect start
+- Bobb's late strike secures Fulham win at Coventry
 - From Chelsea reject to Watkins 'upgrade' - Jackson makes fast Villa start
+- 'A massive storage of images': Arteta has technical area receipts
+- Man City's leaky defence highlights Donnarumma & Guehi struggles
+- Penders error & Palmer sees red - player ratings for Chelsea v Spurs
+- Liverpool among clubs keen on Vuskovic - Sunday's gossip
 - Hayen sacked by Burnley after just 14 games
-- Leaving the technical area? Arteta has the receipts
+- Strikers finding form as Rangers bounce back
 - Arsenal relieve pressure with Spurs win - can they kick on now?
-- Spurs boss Ho wants 'more support and training' for WSL referees
-- Infantino says he is backed by 'vast majority'
-- Jackson stars with two goals - player ratings for Aston Villa v Man City
-- Kompany recovery will take 'weeks' as tests continue
-- Who am I? Plus today's other quizzes
-- Arsenal fight back to beat Tottenham and ease pressure on Slegers
-- 'It's harsh' - was Arsenal's winning penalty a controversial decision?
 
-**Guardian** (22)
-- Chelsea v Tottenham: Premier League – live
+**Guardian** (20)
+- Tottenham stun Chelsea for second league win in a week as Cole Palmer is sent off
 - Clinical Arsenal earn precious win against Everton thanks to Konsa and Gabriel
 - Fulham climb out of drop zone after Oscar Bobb’s late show sinks Coventry
 - Relief for Slegers as Russo rescues Arsenal against Tottenham in WSL
-- Nicolas Jackson double sees Aston Villa end Manchester City’s perfect start
+- Maresca ‘not worried’ by Guéhi’s gaffes as Aston Villa end City’s flawless start
+- European football: Roma snatch late draw in 3-3 thriller as Como win again
 - Burnley sack Nicky Hayen after Lincoln rout leaves them in bottom three
 - Scottish Premiership: Kelsy fires Rangers to emphatic win; Dundee United pip Aberdeen
-- Vincent Kompany to miss ‘weeks, not days’ with virus treatment, say Bayern Munich
+- Why Stanley Matthews’ Ballon d’Or triumph echoes down the years for Harry Kane | Jonathan Wilson
 - Older, calmer, but still playing the hits: Mourinho and Madrid primed for clásico
-- Change captain? Play the kids? How to solve the problems at Manchester United
 - Crystal Palace and Newcastle face off with both in search of season kickstart
 - Premier League, Antonelli goes for F1 title, plus WSL and clásico action – follow with us
 
 **Sky Sports** (20)
+- Alonso 'out-coached', 'petulant' Palmer and Penders howler: Chelsea's horror night
+- Hits and misses: De Zerbi's 'complete team' and 'genius' Emery impress
+- Knicks employees to get NBA championship rings after phishing email 'mistake'
+- Arteta collating evidence of other managers stepping out of technical area
+- Golden State beat Atlanta in Game 4 to level WNBA Finals
+- Rangers 4-0 St Johnstone
+- United States GP: Ferrari, Red Bull set for pole battle as qualifying begins LIVE!
 - Murrell on target as Falkirk breeze past Kilmarnock stormy conditions
-- United States GP: Leclerc fastest from Hamilton in final practice LIVE!
-- Ramsay and Sule fire St Mirren to victory over Dundee
-- Excellent Spurs double lead vs 10-man Chelsea LIVE! & highlights
-- Giant Sequoia stakes Classic claims in Futurity
-- Lincoln thump four past sorry Burnley
-- Giant Sequoia storms to success in the Futurity Trophy!
-- Gudjohnsen double steers Blackburn past Wrexham
-- Preston claim first point under Alexander
-- West Ham 2-3 Southampton
-- Arsenal come from behind to win huge North London derby
-- Stoke and Bristol City battle to draw
+- Hamilton fastest from Verstappen ahead of US GP Qualifying
+- Leicester down holders Northampton as Bristol beat Exeter
+- Falkirk 3-0 Kilmarnock
+- St Mirren 2-1 Dundee
 
-**talkSPORT** (35)
-- Devastated James Maddison holds back tears as Tottenham star suffers fresh injury blow
+**talkSPORT** (34)
+- James Maddison suffers devastating injury blow as Tottenham secure historic win at Chelsea
 - Mikel Arteta issues fresh Bukayo Saka update amid reports he faces two months out
 - EFL boss immediately sacked just hours after latest defeat
 - Chelsea name surprise striker for Tottenham clash after unexpected Joao Pedro blow
@@ -90,35 +90,36 @@ Generado por `scripts/titulares.py` (workflow `tendencias`). Leídos 26 de 34 me
 - Harry Redknapp claims Frank Lampard would be perfect candidate for &#8216;impossible job&#8217;
 - Jadon Sancho offered contract by Spanish club with 96 per cent wage cut from Man United deal
 
-**Daily Mail** (40)
-- Chelsea vs Spurs: Game FINALLY comes to life as players and benches clash following incident involving Cole Palmer
+**Daily Mail** (39)
+- Roberto De Zerbi's new Tottenham: Spurs often crumble when the going gets tough but this group showed they are stronger and more mature in d
+- Chelsea 0-2 Spurs PLAYER RATINGS: Which Blues star endured a nightmare outing? Who was an 'absolute nuisance' for the visitors? And how did 
+- Cole Palmer 'lost his head' in Chelsea's defeat by Spurs: Gary Neville hits out at Blues star after sending off and claims Morgan Rogers sho
+- They're taking the Mik! Arsenal boss reveals he is collecting dossier of other managers breaching technical area in bizarre rant - despite c
 - Arsenal rediscover magic touch at corners as Ezri Konsa and Gabriel punish wasteful Everton and move Gunners level at top with Man City
+- Oscar Bobb's moment of magic breathes life into Alvaro Arbeloa's return from the dead... but Coventry lack cutting edge required for big tim
 - England defender Marc Guehi rejects the knee AGAIN: Man City star doubles down against anti-racism gesture after suggesting it had 'lost its
 - Man City's perfect record is over and now we'll see what Enzo Maresca's side are really made of, writes TOM COLLOMOSSE - it's easy to ignore
 - Bayern Munich insiders were worried about 'workaholic' Vincent Kompany weeks before Man City legend's training ground collapse, new report c
-- Defiant Michael Carrick's monologue was straight out of the Sir Alex Ferguson playbook but his powerful words will be empty unless he can dr
-- Chelsea vs Tottenham combined XI according to the stats: In-form Cole Palmer and Joao Pedro make the cut, while a World Cup villain earns a 
 - Tyrell Malacia reveals brutal reality of life in Ruben Amorim's bomb squad as Man United flop claims former boss gave him NO explanation for
+- How Erling Haaland's dad has masterminded the Man City's star meteoric rise: Alf-Inge Haaland has reinvented himself after Roy Keane feud - 
 - How John Murtough will supercharge Birmingham City's Premier League mission: Cutting out expensive mistakes, elite contacts book and academy
-- Former Man United star Brandon Williams joins League Two side - as he attempts to rebuild his career after dangerous driving conviction
-- Inside Matthias Jaissle's Newcastle struggles: 'Vertical football' philosophy that led to crisis meeting, fan concern at Ruben Amorim echoes
-- Antonio Conte speaks out on links to Man United to DENY he's demanding full control of transfers to replace Michael Carrick - with talks 'no
 
 **Mirror** (25)
-- Erling Haaland gives Man City teammate dressing down as he pulls rank during loss
 - Man City charges LIVE: Premier League face 'worst case scenario' after 'surprise' decision claim
+- Non-league fans told to go home after 14 minutes as match abandoned and statement released
+- Arsenal rocked by Riccardo Calafiori injury as Mikel Arteta confirms latest blow
+- Vincent Kompany health update as Bayern Munich give recovery timeline on hospitalised boss
+- Tottenham take advantage as Chelsea implode and Cole Palmer sees red in feisty derby
+- Erling Haaland gives Man City teammate dressing down as he pulls rank during loss
 - Mikel Arteta fumes at Premier League over 'terrible' fixture schedule after Arsenal win
 - Why Joao Pedro is not in Chelsea squad vs Tottenham as youngster given huge debut
 - Kai Rooney stuns fans as they call for Man Utd promotion after win over Liverpool U18s
 - Arsenal capitalise on Man City slip-up but Mikel Arteta still left with glaring concern
 - Senne Lammens goes against the grain with Michael Carrick comments as Man Utd boss under pressure
 - Michael Carrick told Man Utd squad revolt 'wouldn't have happened' under Sir Alex Ferguson
-- 'I played against Rio Ferdinand and John Terry but another Barclaysman was better'
-- Man City fall short in Premier League record attempt as Aston Villa's revival continues
-- Ex-Man Utd star opens up on Ruben Amorim ‘bomb squad’ with no reason given for ‘tough’ time
-- Former Man Utd chief who Sir Jim Ratcliffe axed lands new job with EFL club
 
-**Telegraph** (4)
+**Telegraph** (5)
+- Sensational Spurs storm Stamford Bridge as Palmer loses his head
 - Pollock at heart of scuffle that inspires Leicester to thumping win in feisty derby
 - Saliba has fight on his hands to usurp ‘unbelievable’ Konsa
 - ‘Tactical genius’ Emery outsmarts Maresca as City crash to first league defeat
@@ -127,6 +128,8 @@ Generado por `scripts/titulares.py` (workflow `tendencias`). Leídos 26 de 34 me
 **90min** (0)
 
 **Planet Football** (10)
+- The Premier League table since Tottenham appointed Roberto De Zerbi
+- Harvey Elliott’s remarkable fall from grace continues with disastrous Valencia red card
 - Can you name every player to play for Chelsea and Tottenham in the PL?
 - Can you name Tottenham’s XI from the ‘Battle of the Bridge’ in 2016?
 - Can you name every Tottenham player to score vs. Chelsea in PL since 2000?
@@ -135,10 +138,8 @@ Generado por `scripts/titulares.py` (workflow `tendencias`). Leídos 26 de 34 me
 - The incredible Premier League table since Aston Villa appointed Unai Emery
 - Can you name everybody to play for Arsenal and Everton in the Premier League?
 - Aston Villa among Erling Haaland’s Premier League bogey teams
-- Clinton Morrison names surprise candidate as manager with the biggest temper
-- Can you name every player to play for both Aston Villa and Man City since 1992?
 
-**FourFourTwo** (23)
+**FourFourTwo** (21)
 - Jonjo Shelvey opens up on the Voldemort chants he has had to endure
 - Watch Chelsea vs Tottenham: FREE streams and TV info
 - Alex Scott on the move that kicked on his career
@@ -153,213 +154,213 @@ Generado por `scripts/titulares.py` (workflow `tendencias`). Leídos 26 de 34 me
 - How to watch Ipswich Town vs Nottingham Forest for FREE: Live streams
 
 **Yahoo** (40)
-- Leaving the technical area? Arteta has the receipts
-- Barcelona Vs Real Madrid Preview: Team News, Predicted XI And Prediction
-- Serie A | Napoli 3-3 Roma: Epic battle with McTominay and Balerdi braces
-- James Maddison suffers another heartbreaking injury setback for Tottenham in London derby
-- Serie A line-ups: Lazio vs. Parma
-- Three things Real Madrid must do to defeat Barcelona in El Clasico
-- Julian Ward can solve Richard Hughes&#39; worst Liverpool mistake
-- Arsenal Player Ratings vs Everton: Gabriel Shines in Comfortable 2-0 Victory
-- De Jong sends clear message to Flick over Barcelona starting place: &#8216;Don&#8217;t want to get used to being a substitute&#8217;
-- Tarkowski, Armstrong And Barry Get 7 | Everton Players Rated In Poor Loss Vs Arsenal
-- Matos rues QPR display as Swansea suffer Yeo blow
-- Ball proud as Torquay held to late draw by Maidstone
+- Palmeiras name line-up to face Bragantino in bid to go top
+- Serie A | Lazio 2-1 Parma: Eagles keep flying high in top spot
+- Barcelona Track Teenage Midfielder Amid Manchester City Doubts: Should Deco Pursue Him?
+- Liverpool among clubs keen on Vuskovic - Sunday&#39;s gossip
+- Domino effect? Nicky Hayen&#8217;s sacking by Burnley could put Belgian clubs on high alert
+- It&#39;s official, Liverpool have secured their new Trent Alexander-Arnold
+- Update In Newcastle United’s Chase For This €50m Midfielder: Should Jaissle Push For A Deal?
+- Strikers finding form as Rangers bounce back
+- Rangers Face January Fight For £8.5m Winger: Should McInnes Reject Big Offers?
+- Bombshell approach confirms it, Liverpool&#39;s dream signings now crystal clear
+- Cole Palmer’s moment of madness lights the fuse as Chelsea implode in derby defeat by Tottenham
+- Leeds United Consider Contract Extension For Their Main Man: Can His System Deliver Europe?
 
 **Google News EN** (40)
+- Scores & Fixtures - Football
 - Football accumulator tips: This Week's Acca from Sporting Life for Saturday 24/10/26
-- Arsenal 2-0 Everton | Premier League highlights
-- Vitor Matos says Swansea City mujst 'listen to performance' after QPR thrashing
-- Aston Villa vs Manchester City: Unai Emery's animated response to Man City verdict question
-- Aston Villa 2-1 Man City: Gianluigi Donnarumma and Marc Guehi under spotlight
-- Spurs boss Ho wants 'more support and training' for WSL referees
-- Women's Super League: Arsenal release pressure but can they kick on?
-- Aston Villa 2-1 Man City: How the players rated
+- European football: Roma snatch late draw in 3-3 thriller as Como win again
+- Football gossip: Vuskovic, Alexander-Arnold, Otorbi, Loftus-Cheek, Tomori, Yoro
+- Huddersfield on top, but difficult days for Derby - Sam Parkin's EFL takeaways
 - Nicolas Jackson: Striker caps fine start to Aston Villa career with two goals to beat Manchester City
-- Torquay United draw 1-1 with Maidstone United
-- Mikel Arteta: Arsenal boss keeping tabs on Premier League managers leaving the technical area
-- Gianni Infantino: Fifa president says he is backed by 'vast majority' in world football
+- Rangers: Strikers finding form as Derek McInnes's side bounce back with 4-0 over St Johnstone
+- Nicky Hayen: Burnley head coach sacked after just 14 games
+- Cardiff's Aberfan inspiration after emotional tribute
+- Women's Super League: Martin Ho wants 'more support' for WSL referees
+- Women's Super League: Tottenham 1-2 Arsenal - highlights
+- Vitor Matos says Swansea City mujst 'listen to performance' after QPR thrashing
 
 **AS** (27)
-- Valencia - Villarreal, en directo: LaLiga EA Sports, hoy en vivo
-- Atlético de Madrid - Deportivo, en directo: LaLiga EA Sports hoy, en vivo
+- Atlético de Madrid - Deportivo hoy, en directo: partido de LaLiga EA Sports, en vivo
+- Derbi amarillo, luz roja en Mestalla
 - Zabiri siempre aparece
 - Manolo agota su crédito
-- El Elche gana en los penaltis
+- El Elche gana a los penaltis
 - Las polémicas de la jornada 10 de LaLiga EA Sports: penaltis, expulsiones y jugadas controvertidas
-- Xabi Alonso revoluciona la Premier con esta forma surrealista de defender los córners: vean porque es inédito
+- Resumen y goles del Castellón vs. Celta de Vigo B, jornada 11 de LaLiga Hypermotion
 - Barcelona - Real Madrid, en directo: rueda de prensa de Mourinho y Flick, última hora del Clásico, en vivo
 - Mourinho responde a Fermín: “A nosotros nos cansan otras cosas y siguen pasando...”
 - Martínez Munuera, el árbitro elegido para pitar el Clásico
 - Flick: “¿Cansado del tema árbitros? No quiero ningún titular”
-- Jordi Alba: “Mourinho tiene carácter, es un entrenador que me gusta”
+- Emery frena al City
 
 **Mundo Deportivo** (40)
-- Almería - Real Oviedo, en directo | LaLiga Hypermotion de fútbol: Segunda división
-- Lazio - Parma, en directo | Serie A
-- Lens - Paris FC, en directo | Ligue 1
-- Simeone deja un par de sorpresas en el once ante el Deportivo
-- Los números de Mourinho como entrenador visitante en el Camp Nou
-- Txus Vizcay apunta a la convocatoria del Athletic
-- Cala: "No supimos aguantar el marcador, nos vinimos demasiado atrás"
-- Racing - Espanyol, en imágenes
-- 1-1: Arnau Tenas evita el estreno perfecto de Carrión con el Leganés
-- Manolo González, al límite: "Tendré que hablar con Monchi"
-- No se fue perro, sigue el año horribilis y se cae al descenso
-- La marca del Clásico
+- La Lazio de Gattuso se pone líder
+- Tres partidos para iniciar la jornada de juveniles: El Espanyol pierde sus primeros puntos y goleada del Badalona
+- El Atlético no falla ante el Deportivo
+- Previas de toda la jornada de Tercera Federación (grupo 5)
+- El Metropolitano empieza a perdonar a un Julián que coge carrerilla goleadora
+- 3-0: Graham acaba con la resistencia nazarí para devolver al Barça a la victoria
+- Íñigo Pérez: "Es una victoria merecida, pero es cierto que se ha puesto complicada"
+- Aguirre: "Llevamos tres partidos sin ganar y eso me inquieta mucho"
+- Arteta estalla: "Nos han puesto un calendario terrible"
+- Joao Cancelo vs. Bernardo Silva, el pulso en el Clásico de dos amigos íntimos
+- 2-1: El Bilbao Athletic no levanta cabeza
+- En el Metropolitano volvió a sonar el "¡U-ru-guayo!"; Giménez, 'uno di noi'
 
 **Google News ES** (40)
-- Fútbol: Barcelona - Granada, en directo | Liga F Moeve
 - FC Barcelona femenino vs Granada CF: horario y dónde ver hoy por TV y online Liga F 2026/27 a través de DAZN
-- Cien partidos, un sentimiento
+- Sin premio
 - El clásico como síntoma
-- Samu Castillejo anuncia su retirada del fútbol a los 31 años
+- 23-24 OCT/ Resultados del fútbol y el fútbol sala en Ciudad Rodrigo este fin de semana
 - Más allá del fútbol y los conciertos: los problemas del principal estadio de Bogotá
 - Madrid in Game lleva al Riyadh Air Metropolitano el torneo ‘Esports + Sports’, que une fútbol físico y virtual
-- La última sesión antes del Clásico, en imágenes
-- Valencia vs Villarreal: horario y dónde ver hoy por TV y online el partido de LaLiga 2026/27
-- Hora y dónde ver hoy a España en el Mundial de fútbol femenino sub-17
-- ¿Cuándo es la gala del Balón de Oro 2026? Fecha, horario, sede y cómo ver la entrega del galardón
+- Samu Castillejo anuncia su retirada del fútbol a los 31 años
 - "Le tiró una bandeja de marisco a la cabeza": la intrahistoria del enfado de Yaya Touré con Iniesta tras el triplete del Barça
+- Almería - Real Oviedo, en directo | LaLiga Hypermotion de fútbol: Segunda división
+- Cien partidos, un sentimiento
+- Abraham González desvela la increíble anécdota que vivió con Thierry Henry en el Barça: "Me invitó a su casa y acabamos tomando una cerveza"
+- Samu Castillejo deja el fútbol con 31 años
 
 **Gazzetta** (0)
 
 **Football Italia** (20)
-- Serie A | Napoli 3-3 Roma: Epic battle with McTominay and Balerdi braces
+- Serie A | Lazio 2-1 Parma: Eagles keep flying high in top spot
+- Allegri accusation: ‘They put Champions League in Roma’s pocket, I paid for it at Milan’
 - Serie A Liveblog: Napoli-Roma, Lazio-Parma, Como-Sassuolo, Cagliari-Bologna
+- Gasperini: ‘Roma felt we could win, 3-3 at Napoli a positive confidence booster’
+- Allegri enraged after Napoli 3-3 Roma: ‘Maybe I shouldn’t be on the touchline’
+- Serie A | Napoli 3-3 Roma: Epic battle with McTominay and Balerdi braces
 - Serie A line-ups: Lazio vs. Parma
 - Juventus squad for Lecce trip sees nine out amid injury crisis
 - Video: Anguissa scores spectacular bicycle kick for 1-0 against Roma
 - Fabregas: ‘Como underestimated Matic quality’ and reveals what ex-Chelsea teammate said
 - Allegri strong on Napoli bench: ‘I just told De Bruyne that’s where he was playing’
 - Gasperini: ‘Cristante gives Roma different variables, victory would show strength’
-- Serie A official line-ups: Napoli vs. Roma
-- Milan among Serie A clubs eyeing Chiesa as Liverpool open to January exit
-- Serie A | Como 2-0 Sassuolo: Douvikas at the double for impressive Lariani
-- Serie A | Cagliari 0-2 Bologna: Sardinian bubble has burst
 
 **Kicker** (20)
-- Trotz Zambo Anguissas Kunststück: Die Roma wahrt auch in Neapel ihren Nimbus
-- Neuer fehlt den Bayern in Freiburg - Auch Pavlovic fällt wohl aus
-- LIVE! Chelsea-Keeper Penders unterläuft bitteres Eigentor - Palmer fliegt vom Platz
-- Valencia - Villarreal: Tor zum 1:1 durch Freeman in der 69. Minute
-- Dank Doppelpacker Taritas: Oldenburg feiert dritten Sieg in Serie
-- "Zuschauern stockte der Atem": Zusammenprall überschattet Schalke-Remis
-- Neapel - Roma: Rote Karte für in der 91. Minute
-- Neapel - Roma: Tor zum 3:3 durch Balerdi in der 89. Minute
-- Neapel - Roma: Tor zum 3:2 durch McTominay in der 83. Minute
-- Rekordsieg ohne Glanz: "Ergebnis besser als der Vortrag"
-- "Jetzt hat er Riesen-Theater": Aufregung beim HSV wegen Schiedsrichter-Entscheidung
-- Neapel - Roma: Tor zum 2:2 durch Balerdi in der 74. Minute
+- Lazio - Parma: Tor zum 2:1 durch Lontani in der 90.+5 Minute
+- Nürnberg verzweifelt an Krahl: FCK fügt dem Club die erste Saison-Niederlage zu
+- Lens - FC Paris: Tor zum 2:1 durch Hazard in der 83. Minute
+- Hütter schwärmt von Aseko: "Das gefällt uns Trainern"
+- Lens - FC Paris: Tor zum 1:1 durch Thauvin in der 63. Minute
+- Grimaldo legt vor, Alvarez vollendet: Atletico jubelt über Führung
+- Lazio - Parma: Eigentor zum 2:0 durch Diego Carlos in der 58. Minute
+- Kovac gibt Darts-Ticket an Beier weiter: "Er ist ein toller Kerl"
+- Kovac und Hütter schicken Genesungswünsche an Kompany
+- FCA kündigt Anzeigen an: Bah nach Platzverweis rassistisch beleidigt
+- LEN - PFC: Rote Karte für in der 49. Minute
+- Lazio - Parma: Tor zum 1:0 durch Taylor in der 50. Minute
 
 **L'Equipe** (40)
-- Le Borussia Dortmund va récompenser ses supporters qui n'utilisent pas leur téléphone au stade
-- Genesio toujours soutenu malgré les mauvais résultats
-- Où voir Lens - Paris FC ?
-- « Si vous devez lui tirer les oreilles, n'hésitez pas » : Lenny Videira, le fils de l'entraîneur du Mans, lancé dans le grand bain à Auxerre
-- « JPP », un homme ordinaire au destin extraordinaire
-- Lula ou Flavio Bolsonaro  ? Les joueurs brésiliens plus discrets mais toujours impliqués avant le second tour de l'élection présidentielle
-- Après cinq défaites d'affilée en Ligue 1, Troyes doit impérativement réagir à Toulouse
-- Flick : «J’ai le plus grand respect pour Mourinho»
-- Leipzig assure, un match fou entre Mayence et le Werder Brême, Philippe marque contre le club qui le prête... Les résultats du multiplex de 
-- Le Havre en quête de guerriers pour enfin gagner
-- Arsenal coleader de Premier League avec Manchester City après son succès tout en maîtrise face à Everton
-- Franck Haise revient sur son changement de système avec Rennes : « Bien d'avoir différentes cordes à notre arc »
+- Julian Alvarez débloque l'Atlético de Madrid face à La Corogne pour sa première titularisation en Liga cette saison
+- Tombeuse de Parme, la Lazio Rome poursuit son sans-faute et prend la tête de la Serie A
+- Saint-Étienne vient à bout de Nantes dans le temps additionnel en Ligue 2
+- Thorgan Hazard et Florian Thauvin permettent à Lens de faire tomber le Paris FC
+- Florian Thauvin a encore frappé : son superbe but pour égaliser avec Lens contre le Paris FC en vidéo
+- Phenix Capital, la chimère du rachat du FC Nantes
+- Les Girondins de Bordeaux dépassent les 10 000 réservations pour leur retour au stade Atlantique en Régional 1
+- La contre-attaque éclaire du Paris FC pour ouvrir le score contre Lens en vidéo
+- Georges Mikautadze délivre Villarreal au bout du temps additionnel dans le derby valencien
+- De Zerbi : «Nous sommes très fiers pour le club»
+- Olivier Giroud attendu devant contre Monaco et un 4-2-3-1 probablement reconduit malgré la défaite face à Galatasaray
+- Les drôles de soirées du PSG pour le Ballon d'Or
 
 **Foot Mercato** (40)
-- Lens - Paris FC : les compositions officielles
-- Bordeaux : le très beau message du club à ses anciens joueurs
-- Serie A : double buteur, Leonardo Balerdi sauve l’AS Roma à Naples
-- PSG : Luis Enrique refuse de mettre une pression supplémentaire sur Désiré Doué
-- FC Barcelone - Real Madrid : La Fabrica rattrape son retard sur La Masia !
-- Barça : Hansi Flick revient sur la défaite contre le PSG
-- Naples : le superbe retourné de Zambo Anguissa contre l’AS Rome
-- Ballon d’Or 2026 : les Français ont choisi leur grand favori
-- JT Foot Mercato : le Barça et le Real Madrid lancent déjà les hostilités
-- Man City : Erling Haaland encense Unai Emery après la défaite contre Aston Villa
-- PSG : Luis Enrique prévient l’OL avant le choc pour la première place
-- Premier League : mais où s’arrêtera Brighton ?
+- Liga : l’Atlético de Madrid domine La Corogne grâce à Julián Álvarez
+- Lens : la joie de Hazard après son premier but en Ligue 1
+- Ligue 1 : le RC Lens d’un grand Thauvin renverse le Paris FC dans une fin de match de folie
+- Serie A : la Lazio de Gattuso domine Parme et prend seule la tête du championnat
+- Ligue 2 : l’ASSE arrache la victoire sur le fil face à Nantes
+- Lens : le bijou de Thauvin face au Paris FC
+- ASSE : la banderole piquante des ultras stéphanois sur les manifestations
+- « Changer l’histoire de Tottenham » : Roberto De Zerbi s’enflamme après le succès historique à Chelsea
+- FC Barcelone : des billets jusqu’à 8000 euros pour le Clásico face au Real
+- Bayern Munich : les raisons des soucis de santé de Vincent Kompany dévoilées !
+- Le Qatar prête des équipements de la Coupe du Monde 2022 au Sénégal
+- AS Roma : le héros Leonardo Balerdi est en train de choquer la Serie A
 
 **Record** (20)
-- <![CDATA[ Insólito: jogador do Peñarol assobiado pelos próprios adeptos e advertido pelos colegas por... ato de fair-play ]]>
-- <![CDATA[ Nápoles e Roma empatam em jogo de loucos com segunda parte frenética ]]>
-- <![CDATA[ Miguel Cardoso fatura e celebra à Ronaldo na Turquia ]]>
-- <![CDATA[ Flick rende-se a Mourinho antes do 'El Clásico': «Todos os jogadores falam maravilhas dele» ]]>
-- <![CDATA[ Alverca-Arouca, 0-1 (intervalo) ]]>
-- <![CDATA[ Jorge Silas e a estreia no comando do AVS SAD: «As expectativas são sempre altas» ]]>
-- <![CDATA[ Flamengo recorre à secretaria para ter lugar na final da Libertadores por causa de um ex-Sporting ]]>
-- <![CDATA[ FC Porto perde antes do arranque oficial da época: «Não nos podemos expor desta forma» ]]>
-- <![CDATA[ Nycole Raysla e a vitória no dérbi: «Alcançámos o 1.º lugar que era o nosso objetivo» ]]>
-- <![CDATA[ José Morais segue em frente na Taça do Presidente  ]]>
-- <![CDATA[ Quotização cresce apesar da quebra dos prémios UEFA: mais de 23 mil sócios do Benfica esperam por Red Pass ]]>
-- <![CDATA[ Chelsea-Tottenham, em direto ]]>
+- <![CDATA[ João Rodrigues anuncia o adeus à Seleção: «Saio com a paz de quem deixou tudo na pista» ]]>
+- <![CDATA[ Gil Vicente-FC Porto, 0-0 (2.ª parte) ]]>
+- <![CDATA[ Gianmarco Tamberi e Audrey Werro eleitos atletas europeus do ano ]]>
+- <![CDATA[ Lazio mantém-se no topo da Serie A com Nuno Tavares em evidência ]]>
+- <![CDATA[ Vítor Pinto: «Até o Stevie Wonder e o Ray Charles percebiam que o Sporting não ia ganhar aquele jogo...» ]]>
+- <![CDATA[ Sesks lidera Rali Seis Cidades e Armindo Araújo comanda entre os portugueses ]]>
+- <![CDATA[ Atletas online: entre a liberdade de expressão e o ódio digital ]]>
+- <![CDATA[ Dois treinos e nova viagem: Benfica coleciona quilómetros em ciclo infernal ]]>
+- <![CDATA[ Quem sabe não esquece: Federer 'despacha' desafio da pancada impossível ]]>
+- <![CDATA[ Claques do Sp. Braga anunciam fim do boicote aos jogos da Allianz Cup ]]>
+- <![CDATA[ Kuwait: João Mota soma primeira vitória e lança Al Yarmouk na luta pela subida ]]>
+- <![CDATA[ Kaminski luta pela titularidade no Benfica: «Gosto desta pressão, não baixo os braços» ]]>
 
 **Ole** (10)
-- El artista español que hinchó por Messi en la final del Mundial y se tatuó su firma en vivo: "Es el sueño de mi vida"
-- El desafío defensivo que tendrá River en la recta final del Clausura
-- Los concentrados de Boca vs. Independiente con Paredes y una baja de mucho peso
-- La llave del Mundial Femenino Sub 17: ¿contra quién se enfrenta Argentina en octavos de final?
-- Balón de Oro 2026: cuándo es, a qué hora y dónde ver la gala
-- Por qué no prosperaría el reclamo de Flamengo contra Estudiantes
-- Francisco Cerúndolo perdió ante Griekspoor y se quedó sin el pase a la final del ATP de Bruselas
-- Banfield vs. Lanús, EN VIVO, por el Torneo Clausura: empatan en el Clásico del Sur
-- Una semana después de su operación, Dibu Martínez fue al partido de Chelsea por Premier
-- Central Córdoba vs. Vélez, por el Torneo Clausura 2026: día, horario y canal de TV
+- Tristán Suárez erró un penal clave y no se pudo acercar a la final del Nacional
+- Video: Julián y su segundo gol consecutivo con la camiseta del Atlético
+- Lionel Messi en New York RB vs. Inter Miami, hoy EN VIVO, por la MLS: el 10 arranca en el banco
+- Moto3 en Australia: a qué hora corren Valentín Perrone y Marco Morelli y dónde se podrá ver la carrera
+- Balón de Oro 2026: quiénes son los favoritos a ganar el premio
+- TC en Rosario: Lambiris le sacó la pole a Rossi y cortó cuatro años de sequía
+- La figura de MotoGP que se fracturó la muñeca y le allanó el camino al título a Marc Márquez
+- Argentina perdió ante Argelia en el debut del Mundial Sub 15: ¿cómo sigue su camino en el torneo?
+- Excursionistas es campeón de la Primera B y jugará en la segunda división después de medio siglo
+- Insólito: Ferro entró dormido, empezó perdiendo a los 13 segundos y luego le expulsaron a un jugador
 
 **Infobae** (40)
-- Banfield vence a Lanús en una nueva edición del Clásico del Sur
-- Antes de la clasificación, Franco Colapinto afronta la última práctica libre en el Gran Premio de Estados Unidos
+- Sorpresa en la Fórmula 1 por el inesperado movimiento de pilotos que modificaría la grilla del 2027
+- Defensa y Justicia visita a Talleres en un duelo clave por los primeros puestos de la Zona A del Torneo Clausura
+- Con una penalización de 10 lugares a cumplir, Franco Colapinto afronta la clasificación del GP de Estados Unidos
+- Histórico: Excursionistas ascendió a la B Nacional y jugará en la segunda división del fútbol argentino tras 54 años
+- Así está la Tabla Anual que repartirá los boletos a las copas internacionales: por qué podrían habilitarse otros dos cupos
+- Banfield y Lanús empataron 1-1 en una nueva edición del Clásico del Sur
+- El homenaje de Ciudad Bolívar a Daniel Castellani por su legado en el vóley: “Puso en marcha un sueño”
+- El insólito gol en contra que se hizo el arquero del Chelsea que reemplazó al Dibu Martínez tras su operación: la imagen del argentino en la
+- Espectacular remontada de Roma con tres tantos argentinos ante Napoli: el golazo de Soulé y el doblete de Balerdi de cabeza
 - El día que Gabriela Sabatini sorprendió al mundo del tenis: las razones de su retiro hace 30 años
 - Pierre Gasly dio una inédita entrevista a bordo de su Alpine en plena práctica del Gran Premio de Estados Unidos
 - Diego Dabove se fue de Tigre: el Clausura ya tuvo ocho cambios de técnico y suman 27 en la temporada
-- Francisco Cerúndolo quedó eliminado en las semifinales de Bruselas tras caer ante Griekspoor
-- Chicho Serna dio detalles de la “fuerte discusión” que mantuvo con Carlos Izquierdoz y los referentes del plantel de Boca Juniors por los pr
-- El Inter Miami de Lionel Messi visitará el New York RB por uno de los últimos partidos de la fase regular de la MLS: hora, TV y formaciones
-- Defensa visitará a Talleres, San Lorenzo chocará ante Newell’s y Rosario Central recibirá a Huracán por la fecha 14 del Torneo Clausura
-- Las imágenes del espectacular casamiento de un figura del fútbol en las pirámides de Egipto
-- Flamengo hizo un reclamo por la inclusión de Marcos Rojo tras ser eliminado por Estudiantes: el caso en Santos-Independiente que plantean
-- Nacho Fernández convirtió el gol más insólito del año en el fútbol argentino
 
 **Google News AR** (40)
-- Resultados de Fútbol
-- Nacho Fernández convirtió el gol más insólito del año en el fútbol argentino
-- Patricio Hernández, una mirada profunda del fútbol: se educó con Bilardo y Menotti y fue el catequista de Maradona
 - Tras la fecha de los clásicos, vuelve Estudio Fútbol, un clásico de la pantalla de TyC Sports
-- El mal tiempo obligó a suspender los partidos del sábado del fútbol de Gualeguaychú
-- El Mundial de Fútbol Femenino 2027 podría dejar más de US$ 1.700 millones en la economía de Brasil
-- ➡ Este certamen, que es el más importante en la provincia en lo que hace al fútbol femenino, es organizado por el Partido Justicialista Dist
-- Domingo sin fútbol: la fecha 29 del torneo local se jugará el próximo martes
-- Facundo Farías con Olé: el fútbol como "salvación" y su ambicioso sueño en San Lorenzo
-- Cerca: entregaron kits deportivos a clubes de fútbol de Bariloche que participaron de las capacitaciones barriales
-- El clásico como síntoma
-- Fútbol/Absoluto: Triunfazo de Centro en Morteros
+- Ver EN VIVO Fútbol libre de riesgo: dónde seguir Banfield vs. Lanús por TV y ONLINE
+- Resultados de Fútbol
+- El impactante negocio lejos del fútbol que une a Messi y Di María
+- Nacho Fernández convirtió el gol más insólito del año en el fútbol argentino
+- La Escuela de Fútbol de Ciudadela organiza una venta de sorrentinos para cumplir el sueño de viajar a Trevelin
+- El paranaense “Matute” Roskopf, un auténtico trotamundos del fútbol
+- Baby Fútbol postergado
+- Fútbol de salón: Mendoza es finalista del Argentino C17
+- Fútbol Femenino: se reprogramará la actividad de este sábado
+- Con la presencia de Claudio Tapia y la asistencia de más de cuarenta Clubes se realizó el Plenario 2026 de Cultura AFA
+- Patricio Hernández, una mirada profunda del fútbol: se educó con Bilardo y Menotti y fue el catequista de Maradona
 
 **ge.globo** (40)
-- Chelsea x Tottenham - Campeonato Inglês 2026/27 - Ao vivo - globoesporte.com
-- Vai ficar? Atacante completa 100 jogos pelo Cruzeiro e comenta futuro
-- Análise: Criciúma precisa controlar a ansiedade para sonhar com um desfecho diferente de 2025
+- Sorocaba elimina o Corinthians e vai à semifinal da Liga Futsal
+- Tottenham vence Chelsea em clássico londrino pela Premier League
+- Adriana marca quatro gols em goleada do Al-Qadisiyah e mantém equipe invicta na Liga Saudita
+- Barcelona x Real Madrid em LaLiga: onde assistir ao vivo e horário
+- Após vitória na Champions, Gabriel Sara mira clássico contra o Fenerbahçe: "Jogo à parte"
 - Com gol de Gabriel Magalhães, Arsenal vence o Everton e alcança o líder City
 - Nicolas Jackson faz dois, e Aston Villa impõe primeira derrota ao City no Inglês
-- Vice-artilheiro do Atlético-MG vira dúvida para enfrentar o Flamengo; entenda
-- Mirando vaga direta na Libertadores, Fluminense vive cenário semelhante a 2025 no Brasileirão
-- Flick elogia Mourinho antes de Barcelona x Real Madrid: "Tenho o maior respeito"
-- Contas: veja como uma vitória sobre o Corinthians pode dar tranquilidade ao Vasco no Brasileirão
-- Escalação do Vasco: Puma será titular contra o Corinthians, e Marino pode ganhar chance
-- Izabela chega à quarta final pelo Prosperidade na busca pelo tri do Capixaba Feminino
-- Eliminação na Libertadores afeta finanças do Flamengo e impede chance de cobrir déficits em 2026
+- João Gomes vibra após Aston Villa encerrar invencibilidade do City: "Entramos sem medo"
+- Barcelona x Real Madrid coloca dupla de ex-Palmeiras, Gabriel Jesus e Endrick, em lados opostos
+- Vasco abre venda de ingressos para jogo contra o Flamengo no Nilton Santos e indica público 90/10
+- Vai ficar? Atacante completa 100 jogos pelo Cruzeiro e comenta futuro
+- Análise: Criciúma precisa controlar a ansiedade para sonhar com um desfecho diferente de 2025
 
 **r/soccer (top día)** (25)
-- Liam Delap goes for the ball
-- Lionel Messi receives the 2026 Princess of Asturias Award for Sports
+- Viktor Gyokeres Pass against Everton
 - Aston Villa fans John McGinn goggles
+- Lionel Messi receives the 2026 Princess of Asturias Award for Sports
 - [Biz] Vincent Kompany was already at the hospital a few days ago, where he spent the night and got checked, the results came negative. Kompa
 - Aston Villa [2] - 1 Manchester City - N. Jackson 60'
-- Viktor Gyokeres Pass against Everton
 - Coventry City 0-[1] Fulham - Oscar Bobb 80'
+- Chelsea 0 - [2] Tottenham - Mathys Tel 87'
 - Arteta in response to Raya saying he wants to play in Spain!
 - Jorginho (Flamengo, former Chelsea and Arsenal) has reportedly tested positive on the doping test after last night's Libertadores match
 - Villa penalty shout against City 30'
+- Tottenham Hotspur have won against Chelsea at Stamford Bridge for the first time in 8 years, and only the 2nd time in Premier League history
 - Aston Villa [1] - 0 Manchester City - N. Jackson 6'
-- on this dat 10 years ago: Jeremiah St Juste scores a wonder goal after losing a boot
 
 Fallaron: ESPN (ParseError), Goal (HTTPError), Independent (ParseError), Football365 (HTTPError), Marca (HTTPError), Sport (HTTPError), Calciomercato (HTTPError), TN (HTTPError)
