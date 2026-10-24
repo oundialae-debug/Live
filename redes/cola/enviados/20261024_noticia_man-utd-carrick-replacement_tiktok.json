@@ -1,5 +1,5 @@
 {
- "red": "instagram",
+ "red": "tiktok",
  "hora": "2026-10-24T23:11:13+02:00",
  "tipo": "noticia",
  "partido": "United's Carrick Future in Turmoil",
@@ -8,5 +8,9 @@
  "recordatorio": false,
  "musica": "hh03",
  "variante": "seg=5.0;arranque=s1;hook=pregunta;musica=hh03;formato=auto_noticia;hora=23",
- "notas": "noticia automática (IA + reglas): Guardian: Wilcox wants Howe if Manchester United sack Carrick; Dortmund fight back against influencers: football news – live; talkSPORT: Kai Rooney should start over Bruno Fernandes as Michael Carrick"
+ "notas": "noticia automática (IA + reglas): Guardian: Wilcox wants Howe if Manchester United sack Carrick; Dortmund fight back against influencers: football news – live; talkSPORT: Kai Rooney should start over Bruno Fernandes as Michael Carrick",
+ "titulo": "Man United manager saga: shortlist and potential successors",
+ "estado": "enviado",
+ "buffer_id": "6add1e573d5b27036ba21e68",
+ "dueAt": "2026-10-24T21:11:38+00:00"
 }
