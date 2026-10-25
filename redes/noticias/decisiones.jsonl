@@ -123,3 +123,5 @@
 {"t": "2026-10-24T21:08+00:00", "estado": "publicado", "temas": ["Carrick", "Michael"], "clave": "man-utd-carrick-replacement", "video": "https://raw.githubusercontent.com/oundialae-debug/live/main/media/noticias/2026-10-24_2307_man-utd-carrick-replacement.mp4"}
 {"t": "2026-10-24T21:08+00:00", "estado": "revisar", "temas": ["Arteta", "Saka"], "clave": "arsenal-saka-injury", "motivo": "categoría sensible: injury"}
 {"t": "2026-10-24T21:08+00:00", "estado": "descartar", "temas": ["Dortmund"], "clave": "dortmund-phone-reward", "motivo": "importancia 5 < 7"}
+{"t": "2026-10-25T11:56+00:00", "estado": "revisar", "temas": ["Madrid", "Mourinho"], "clave": "mourinho-clasico-preview", "motivo": "sin foto buena con cara visible"}
+{"t": "2026-10-25T11:56+00:00", "estado": "descartar", "temas": ["Alonso"], "clave": "alonso-chelsea-criticism", "motivo": "falta question"}

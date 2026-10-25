@@ -468,3 +468,12 @@
 - Yahoo: Bukayo Saka injury update: Arteta issues latest news as Arsenal star to miss time
 - Mundo Deportivo: Saltan las alarmas para Arteta con Saka: "No pinta bien"
 
+## 25/10 12:56 · Mourinho gears up for clásico · revisar
+- Motivo: sin foto buena con cara visible
+- Temas: Madrid, Mourinho
+- Guardian: Older, calmer, but still playing the hits: Mourinho and Madrid primed for clásico
+- Yahoo: Real Madrid consider activating €80 million buyback clause for Nico Paz in 2027 – report
+- Yahoo: “We’ll see what happens” – Liverpool could have the chance to finally sign Real Madrid star
+- Yahoo: Cubarsi explains how Barcelona can Flick’s high defensive line work vs Real Madrid: ‘Press like animals’
+- Yahoo: Real Madrid blockbuster summer signing is rewarding Mourinho’s faith with explosive form
+
