@@ -1,33 +1,33 @@
-# Alertas de noticias (2026-10-25 11:55 UTC)
+# Alertas de noticias (2026-10-25 16:43 UTC)
 
 Temas en >= 7 medios. La rutina diaria y cualquier sesión deben mirar esto ANTES de elegir tema (regla 6: la noticia que todos comentan va primero).
 
 ## Grandes SIN publicar en las últimas 48 h (hacer post si pasa el listón: nada repetido, foto del momento)
 
-- **Madrid** (15 medios): Older, calmer, but still playing the hits: Mourinho and Madrid primed for clásico
-- **Chelsea** (12 medios): Penders error & Palmer sees red - player ratings for Chelsea v Spurs
-- **Tottenham** (10 medios): Arsenal fight back to beat Tottenham and ease pressure on Slegers
-- **Inter** (9 medios): Chivu: Why Provedel and Mkhitaryan ‘deserve to start’ in Inter vs. Fiorentina
-- **Liverpool** (8 medios): Why are Liverpool struggling for Premier League goals?
-- **Everton** (8 medios): Arsenal beat Everton to go level on points with leaders Man City
-- **Arsenal** (8 medios): Arsenal beat Everton to go level on points with leaders Man City
-- **Alonso** (8 medios): 'We could have played better' - Alonso disappointed after defeat
-- **Kompany** (8 medios): Kompany recovery will take 'weeks' as tests continue
-- **Mourinho** (8 medios): Older, calmer, but still playing the hits: Mourinho and Madrid primed for clásico
+- **Bournemouth** (17 medios): Fernandes left out - Man Utd hammered, Bournemouth brilliant - how they rated
+- **Madrid** (16 medios): Older, calmer, but still playing the hits: Mourinho and Madrid primed for clásico
+- **Liverpool** (14 medios): Isak, Barcola and Wirtz turn up - player ratings for Liverpool v Brighton
+- **Brighton** (13 medios): Isak, Barcola and Wirtz turn up - player ratings for Liverpool v Brighton
+- **Barcelona** (11 medios): Can you name every player to play for Real Madrid & Barcelona since 1990?
+- **Chelsea** (10 medios): Tottenham stun Chelsea for second league win in a week as Cole Palmer is sent off
+- **Tottenham** (9 medios): Arsenal fight back to beat Tottenham and ease pressure on Slegers
+- **Palace** (9 medios): Osula and Barnes’ second-half burst sees Newcastle pile pressure on lacklustre Palace
+- **Courtois** (9 medios): Will Real Madrid goalkeeper Thibaut Courtois play against Barcelona in El Clasico?
 - **Bayern** (8 medios): Vincent Kompany to miss ‘weeks, not days’ with virus treatment, say Bayern Munich
-- **Vincent** (8 medios): Vincent Kompany to miss ‘weeks, not days’ with virus treatment, say Bayern Munich
-- **Barcelona** (8 medios): Barcelona&#8217;s record against Real Madrid&#8217;s backup goalkeeper offers hope and concern
-- **Courtois** (8 medios): Confirmed: Real Madrid suffer major last-minute blow as Thibaut Courtois ruled out of El Clasico
-- **Neymar** (8 medios): 😡 Neymar speaks out on red card, launches angry rant and insults Nestor
+- **Palmer** (7 medios): Spurs clinch rare Stamford Bridge win as Palmer sent off
 - **Clasico** (7 medios): 'This is the only Clasico' - Mourinho's Real trying to stop Barca's shot at history
-- **Palmer** (7 medios): Penders error & Palmer sees red - player ratings for Chelsea v Spurs
-- **Brighton** (7 medios): Symonds scores screamer as Brighton beat West Ham
-- **Gabriel** (7 medios): Clinical Arsenal earn precious win against Everton thanks to Konsa and Gabriel
-- **Clásico** (7 medios): 📸 The 5 most legendary celebrations in El Clásico
+- **Alonso** (7 medios): 'We could have played better' - Alonso disappointed after defeat
+- **Newcastle** (7 medios): Osula and Barnes’ second-half burst sees Newcastle pile pressure on lacklustre Palace
+- **Crystal** (7 medios): Clinical Newcastle victory over Crystal Palace relieves pressure on Matthias Jaissle while Pierre Sage's days
+- **Neymar** (7 medios): 📝 Bahia issues official statement after Neymar x Nestor spat
+- **Clásico** (7 medios): Courtois, baja definitiva para el Clásico
+- **Atlético** (7 medios): 1-1: El Atlético Madrileño se pega otro tiro en el pie ante el Jaén
 
 ## Grandes ya cubiertas
 
-- Man (7): What Man Utd need now is stability, not more changes - Pulis
-- Aston (7): Jackson scores twice as Aston Villa end Man City's perfect start
-- Villa (7): Jackson scores twice as Aston Villa end Man City's perfect start
-- Manchester (7): Carrick denies Manchester United are ‘unmanageable’, clásico buildup and more – matchday live
+- Fernandes (12): Fernandes left out - Man Utd hammered, Bournemouth brilliant - how they rated
+- Carrick (11): Michael Carrick on the brink after Manchester United are humiliated by Bournemouth
+- Man (10): Fernandes left out - Man Utd hammered, Bournemouth brilliant - how they rated
+- Michael (9): Michael Carrick on the brink after Manchester United are humiliated by Bournemouth
+- Manchester (9): Michael Carrick on the brink after Manchester United are humiliated by Bournemouth
+- Bruno (9): Michael Carrick drops Man United captain Bruno Fernandes after critical comments
