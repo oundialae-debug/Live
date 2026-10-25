@@ -1,4 +1,4 @@
-# Titulares de fútbol (2026-10-25 16:43 UTC, últimas 36 h)
+# Titulares de fútbol (2026-10-25 19:54 UTC, últimas 36 h)
 
 Generado por `scripts/titulares.py` (workflow `tendencias`). Leídos 26 de 34 medios; fuentes en `redes/fuentes.md`.
 
@@ -6,120 +6,122 @@ Generado por `scripts/titulares.py` (workflow `tendencias`). Leídos 26 de 34 me
 
 | Tema | Nº medios | Medios | Ejemplo |
 |---|---|---|---|
-| Bournemouth | 17 | AS, BBC, Daily Mail, Foot Mercato, FourFourTwo, Google News EN, Guardian, Kicker | Fernandes left out - Man Utd hammered, Bournemouth brilliant - how they rated |
-| Madrid | 16 | AS, Daily Mail, Foot Mercato, FourFourTwo, Google News AR, Google News ES, Guard | Older, calmer, but still playing the hits: Mourinho and Madrid primed for clásico |
-| Liverpool | 14 | BBC, Daily Mail, Foot Mercato, FourFourTwo, Google News EN, Guardian, Kicker, Mi | Isak, Barcola and Wirtz turn up - player ratings for Liverpool v Brighton |
-| Brighton | 13 | BBC, Daily Mail, Foot Mercato, FourFourTwo, Google News EN, Guardian, Mirror, Re | Isak, Barcola and Wirtz turn up - player ratings for Liverpool v Brighton |
-| Fernandes | 12 | BBC, Daily Mail, Foot Mercato, Google News EN, L'Equipe, Mirror, Mundo Deportivo | Fernandes left out - Man Utd hammered, Bournemouth brilliant - how they rated |
-| Carrick | 11 | Daily Mail, Google News EN, Guardian, L'Equipe, Mirror, Mundo Deportivo, Record, | Michael Carrick on the brink after Manchester United are humiliated by Bournemouth |
-| Barcelona | 11 | AS, Football Italia, FourFourTwo, Google News AR, Google News ES, Infobae, Mundo | Can you name every player to play for Real Madrid & Barcelona since 1990? |
-| Man | 10 | BBC, Daily Mail, Foot Mercato, FourFourTwo, Google News EN, Mirror, Record, Sky  | Fernandes left out - Man Utd hammered, Bournemouth brilliant - how they rated |
-| Chelsea | 10 | Daily Mail, Foot Mercato, FourFourTwo, Guardian, Infobae, Planet Football, Sky S | Tottenham stun Chelsea for second league win in a week as Cole Palmer is sent off |
-| Tottenham | 9 | BBC, Daily Mail, Foot Mercato, FourFourTwo, Guardian, Mirror, Planet Football, r | Arsenal fight back to beat Tottenham and ease pressure on Slegers |
-| Michael | 9 | Daily Mail, FourFourTwo, Google News EN, Guardian, L'Equipe, Mirror, Yahoo, r/so | Michael Carrick on the brink after Manchester United are humiliated by Bournemouth |
-| Manchester | 9 | Daily Mail, FourFourTwo, Google News EN, Guardian, L'Equipe, Mundo Deportivo, Ya | Michael Carrick on the brink after Manchester United are humiliated by Bournemouth |
-| Palace | 9 | Daily Mail, Foot Mercato, FourFourTwo, Google News EN, Guardian, L'Equipe, Mundo | Osula and Barnes’ second-half burst sees Newcastle pile pressure on lacklustre Palace |
-| Bruno | 9 | Daily Mail, Foot Mercato, Google News EN, L'Equipe, Mirror, Mundo Deportivo, Rec | Michael Carrick drops Man United captain Bruno Fernandes after critical comments |
-| Courtois | 9 | AS, Foot Mercato, Google News ES, L'Equipe, Mundo Deportivo, Record, Yahoo, ge.g | Will Real Madrid goalkeeper Thibaut Courtois play against Barcelona in El Clasico? |
-| Bayern | 8 | Daily Mail, Guardian, Infobae, Kicker, L'Equipe, Mundo Deportivo, Yahoo, talkSPO | Vincent Kompany to miss ‘weeks, not days’ with virus treatment, say Bayern Munich |
-| Palmer | 7 | BBC, Daily Mail, Guardian, L'Equipe, Telegraph, r/soccer (top día), talkSPORT | Spurs clinch rare Stamford Bridge win as Palmer sent off |
-| Clasico | 7 | BBC, Foot Mercato, Google News EN, L'Equipe, Planet Football, Yahoo, r/soccer (t | 'This is the only Clasico' - Mourinho's Real trying to stop Barca's shot at history |
-| Alonso | 7 | BBC, Daily Mail, Google News EN, Guardian, L'Equipe, Mirror, Yahoo | 'We could have played better' - Alonso disappointed after defeat |
-| Newcastle | 7 | Daily Mail, FourFourTwo, Google News EN, Guardian, Mundo Deportivo, Sky Sports,  | Osula and Barnes’ second-half burst sees Newcastle pile pressure on lacklustre Palace |
-| Crystal | 7 | Daily Mail, Foot Mercato, FourFourTwo, Google News EN, L'Equipe, Mundo Deportivo | Clinical Newcastle victory over Crystal Palace relieves pressure on Matthias Jaissle while Pierre Sage's days  |
-| Neymar | 7 | Foot Mercato, Google News AR, Infobae, L'Equipe, Ole, Yahoo, r/soccer (top día) | 📝 Bahia issues official statement after Neymar x Nestor spat |
-| Clásico | 7 | AS, Foot Mercato, Google News ES, Infobae, Mundo Deportivo, Record, ge.globo | Courtois, baja definitiva para el Clásico |
-| Atlético | 7 | Foot Mercato, Google News AR, Google News ES, Infobae, L'Equipe, Mundo Deportivo | 1-1: El Atlético Madrileño se pega otro tiro en el pie ante el Jaén |
-| Isak | 6 | AS, BBC, Google News EN, Guardian, Sky Sports, Yahoo | Isak, Barcola and Wirtz turn up - player ratings for Liverpool v Brighton |
+| Madrid | 17 | AS, Daily Mail, Foot Mercato, FourFourTwo, Google News AR, Google News ES, Guard | Barcelona v Real Madrid: El Clásico – live |
+| Carrick | 15 | BBC, Daily Mail, Foot Mercato, Google News EN, Guardian, Kicker, L'Equipe, Mirro | Carrick future under major threat - can he survive? |
+| Liverpool | 14 | BBC, Daily Mail, Foot Mercato, FourFourTwo, Google News EN, Guardian, Infobae, M | Isak finally living up to price tag as Liverpool patience rewarded |
+| Barcelona | 14 | AS, Daily Mail, Football Italia, FourFourTwo, Google News AR, Google News ES, Gu | Barcelona v Real Madrid: El Clásico – live |
+| Bournemouth | 13 | BBC, Daily Mail, Foot Mercato, Football Italia, FourFourTwo, Google News EN, L'E | Fernandes left out - Man Utd hammered, Bournemouth brilliant - how they rated |
+| Manchester | 13 | Daily Mail, Foot Mercato, FourFourTwo, Google News EN, Guardian, Infobae, L'Equi | Manchester United board hold crisis talks over Carrick’s future and Howe approach |
+| Man | 12 | BBC, Daily Mail, Foot Mercato, FourFourTwo, Google News EN, Mirror, Planet Footb | Fernandes left on bench for Man Utd defeat - a failed gamble? |
+| Palace | 11 | BBC, Daily Mail, Foot Mercato, FourFourTwo, Google News EN, Guardian, L'Equipe,  | Pressure grows on Sage as fans turn on Palace boss |
+| Michael | 10 | Daily Mail, Foot Mercato, FourFourTwo, Google News EN, L'Equipe, Mirror, Planet  | Michael Carrick accused of trying to embarrass Bruno Fernandes as Man United boss insists horror defeat is not |
+| Chelsea | 9 | BBC, Daily Mail, FourFourTwo, Google News EN, Guardian, Infobae, Planet Football | Malard stars as Chelsea beat Palace to extend unbeaten start |
+| Leeds | 9 | AS, Daily Mail, FourFourTwo, Google News EN, Guardian, L'Equipe, Sky Sports, Tel | Roefs and Trafford stand firm as Sunderland and Leeds battle for point |
+| Bayern | 9 | Foot Mercato, Guardian, Infobae, L'Equipe, Mundo Deportivo, Record, Yahoo, r/soc | Vincent Kompany to miss ‘weeks, not days’ with virus treatment, say Bayern Munich |
+| Brighton | 9 | Daily Mail, Foot Mercato, FourFourTwo, Google News EN, Mirror, Sky Sports, Yahoo | Isak on target again as Liverpool beat Brighton |
+| Fernandes | 8 | BBC, Daily Mail, Foot Mercato, Guardian, Mirror, Sky Sports, r/soccer (top día), | Fernandes left on bench for Man Utd defeat - a failed gamble? |
+| Clasico | 8 | BBC, Daily Mail, Google News EN, Kicker, L'Equipe, Planet Football, Yahoo, r/soc | 'This is the only Clasico' - Mourinho's Real trying to stop Barca's shot at history |
+| Ballon | 8 | BBC, Foot Mercato, Football Italia, Guardian, L'Equipe, Mirror, Yahoo, r/soccer  | Weir would swap Ballon d'Or nominations for World Cup |
+| Clásico | 8 | AS, Foot Mercato, Google News ES, Guardian, Infobae, Mundo Deportivo, Yahoo, ge. | Barcelona v Real Madrid: El Clásico – live |
+| Sunderland | 8 | AS, FourFourTwo, Google News EN, Guardian, L'Equipe, Sky Sports, Telegraph, Yaho | Roefs and Trafford stand firm as Sunderland and Leeds battle for point |
+| Isak | 7 | AS, BBC, Google News EN, Guardian, Sky Sports, Yahoo, r/soccer (top día) | Isak finally living up to price tag as Liverpool patience rewarded |
+| Utd | 7 | BBC, Google News EN, Mirror, Planet Football, Sky Sports, Telegraph, r/soccer (t | Fernandes left on bench for Man Utd defeat - a failed gamble? |
+| Trafford | 7 | Daily Mail, Guardian, Mirror, Telegraph, Yahoo, r/soccer (top día), talkSPORT | Roefs and Trafford stand firm as Sunderland and Leeds battle for point |
+| Crystal | 7 | Daily Mail, Foot Mercato, FourFourTwo, Google News EN, L'Equipe, Mundo Deportivo | Crystal Palace consider moves for three ex-Premier League managers as pressure grows on Pierre Sage |
+| Juventus | 7 | AS, Foot Mercato, Football Italia, Kicker, L'Equipe, Mundo Deportivo, Yahoo | Douglas Luiz: ‘Juventus have to improve and play better for the whole game’ |
+| Courtois | 7 | AS, Foot Mercato, Google News ES, Kicker, L'Equipe, ge.globo, r/soccer (top día) | Courtois, baja definitiva para el Clásico |
+| Tottenham | 6 | BBC, Daily Mail, FourFourTwo, Guardian, Mirror, talkSPORT | Arsenal fight back to beat Tottenham and ease pressure on Slegers |
 
 ## Titulares por medio
 
-**BBC** (34)
-- Fernandes left out - Man Utd hammered, Bournemouth brilliant - how they rated
-- Isak, Barcola and Wirtz turn up - player ratings for Liverpool v Brighton
+**BBC** (37)
+- Carrick future under major threat - can he survive?
+- Isak finally living up to price tag as Liverpool patience rewarded
+- Pressure grows on Sage as fans turn on Palace boss
 - Fernandes left on bench for Man Utd defeat - a failed gamble?
+- The Football Hub: Reaction to Sunday's action
+- 'This is the only Clasico' - Mourinho's Real trying to stop Barca's shot at history
 - Spurs clinch rare Stamford Bridge win as Palmer sent off
 - Arsenal beat Everton to go level on points with leaders Man City
 - Jackson scores twice as Aston Villa end Man City's perfect start
 - Bobb's late strike secures Fulham win at Coventry
-- Watch Match of the Day on iPlayer
-- 'This is the only Clasico' - Mourinho's Real trying to stop Barca's shot at history
+- Fernandes left out - Man Utd hammered, Bournemouth brilliant - how they rated
 - When is Premier League 'sacking season' - and who should be worried?
-- What Man Utd need now is stability, not more changes - Pulis
-- Sheffield Wednesday sack Pedersen after 15 months
 
-**Guardian** (20)
-- Sunderland v Leeds: Premier League – live
-- Michael Carrick on the brink after Manchester United are humiliated by Bournemouth
-- Manchester United 0-3 Bournemouth, Liverpool 2-0 Brighton and more: clockwatch – live
+**Guardian** (22)
+- Barcelona v Real Madrid: El Clásico – live
+- Manchester United board hold crisis talks over Carrick’s future and Howe approach
+- Roefs and Trafford stand firm as Sunderland and Leeds battle for point
 - Isak applies finishing touch as Liverpool bring Brighton’s winning run to an end
-- Osula and Barnes’ second-half burst sees Newcastle pile pressure on lacklustre Palace
+- Osula and Barnes strike as Newcastle pile pressure on lacklustre Palace
+- Ouattara rescues point for Brentford as Hull maintain unbeaten home record
 - Scottish Premiership: Durán caps Celtic’s comeback win over Hibernian
 - Ian Holloway’s circus: why the manager’s antics are no laughing matter for fans
 - Relief for Slegers as Russo rescues Arsenal against Tottenham in WSL
-- Maresca ‘not worried’ by Guéhi’s gaffes as Aston Villa end City’s flawless start
-- Glitch in Chelsea’s coding costs Alonso while resurgent Spurs are all systems go | Barney Ronay
-- Older, calmer, but still playing the hits: Mourinho and Madrid primed for clásico
+- Fernandes gamble leaves Carrick to carry the can for United’s institutional failures | Will Unwin
+- Ballon d’Or ceremony returns to England in nod to ‘revolutionary’ Stanley Matthews
 - Tottenham stun Chelsea for second league win in a week as Cole Palmer is sent off
 
 **Sky Sports** (20)
-- Neville fears Carrick on the brink as Carra calls for decision tonight
+- Rodgers backs 16-game 'NFL International week' after Paris history
+- Carrick future in huge doubt as Man Utd consider alternatives
+- United States GP: Antonelli on pole from Verstappen and with title chance LIVE!
+- Neville fears Carrick set to be sacked as Carra calls for decision tonight
+- Highlights: Pakistan stun England in Lahore as Brook's side beaten again
 - Isak on target again as Liverpool beat Brighton
-- Can Carrick survive Man Utd's mauling by Bournemouth? LIVE!
-- Littler's Euro dreams ended by shock defeat to Ratajski
-- 'Players have completely gone' - Nev dissects 'toxic' atmosphere at Man Utd
-- 'That's ridiculous!' Fils wows crowd with incredible tweener!
-- 'Fantastic' Duckett battles to superb ODI century
-- 'It was my chance and I took it!' - Ratajski savours shock Littler win
-- UNBELIEVABLE! Pakistan put on 88-run last-wicket stand to beat England LIVE!
-- Ouattara rescues point for Brentford at Hull
-- Braga and Miller score as Hearts win at Motherwell
-- England's HORROR start! Three early wickets fall
+- Cunningham-South out of three-day England training squad due to injury
+- Drumbeat adds to O'Brien's two-year-old roll of honour
+- Terland hits late leveller in Manchester derby LIVE!
+- Neville: Man Utd players downed tools and turned on Carrick
+- Sunderland remain bottom after drab draw against Leeds
+- Barcelona vs Real Madrid LIVE!
 
-**talkSPORT** (27)
+**talkSPORT** (29)
+- Crystal Palace consider moves for three ex-Premier League managers as pressure grows on Pierre Sage
+- Furious Man United fan says he wants them to be RELEGATED in shock claim after latest humiliation
+- Michael Carrick accused of trying to embarrass Bruno Fernandes as Man United boss insists horror defeat is not a farewell
 - Every diabolical Man United player was a 0/10 and they revel in finding new ways to disgrace the badge
 - Manchester United relax controversial Old Trafford rule for one game only
-- Florian Wirtz has first Premier League goal of season taken off him before Liverpool injury
+- Florian Wirtz has first Premier League goal of season taken off him as update on injury given
 - Man United &#8216;humiliate themselves&#8217; as Michael Carrick told he&#8217;ll be sacked at full-time
 - New footage shows Chelsea fans rowing with Levi Colwill moments after Tottenham loss
 - EFL promotion contenders sack manager just 11 games into season
 - Cole Palmer&#8217;s poor record against big six exposed as Chelsea star called out
 - Michael Carrick drops Man United captain Bruno Fernandes after critical comments
 - Eli Junior Kroupi makes national team decision after rejecting World Cup place
-- Trent Alexander-Arnold warned he may be fourth choice Real Madrid right-back as team news leaked
-- Storm cancels major sports event four miles from Anfield just hours before Liverpool vs Brighton
-- Mikel Arteta gathering evidence on rival Premier League managers as he calls for new technology
 
-**Daily Mail** (34)
-- Man United vs Bournemouth - Premier League LIVE: All the reaction as Michael Carrick looks destined for the sack after another dismal Red De
-- Three Man United and Bournemouth stars join those refusing to take the knee in Premier League - after Chelsea fans booed the gesture before 
+**Daily Mail** (35)
+- Michael Carrick insists he was NOT waving an emotional farewell to fans after Man United's humiliating 3-0 thrashing by Bournemouth - but ad
+- Barcelona vs Real Madrid - El Clasico LIVE: Jude Bellingham and Anthony Gordon go head-to-head as Jose Mourinho looks to spoil hosts' perfec
+- Michael Carrick 'deliberately tried to EMBARRASS' Bruno Fernandes by dropping him against Bournemouth, claims Jamie Carragher - as Man Unite
+- Bitter Brighton boss Fabian Hurzeler bizarrely claims Liverpool were NOT trying to 'win the game' - after watching his side lose at Anfield
+- This was the end for Michael Carrick after his gang of the damned were relentlessly dismantled 3-0 by Bournemouth... he will be the next to 
+- Man United 0-3 Bournemouth PLAYER RATINGS: Which 3/10 star was totally off the pace in Old Trafford disaster? Who looked reckless and naive?
+- Three Man United and Bournemouth stars and Leeds striker Dominic Calvert-Lewin join those refusing to take the knee in Premier League - afte
+- Storm Liverpool blows Brighton away! Andoni Iraola claims first Anfield win in Premier League as £100m stars combine - and Seagulls' early m
 - Dele Alli pokes fun at Chelsea legend John Terry with video from Stamford Bridge as he watches former club Tottenham earn surprise 2-0 win..
 - Bruno Fernandes is DROPPED from Manchester United's starting XI for Bournemouth - with Red Devils captain on the bench for the first time in
 - Fans show concern for Mark Chapman after presenter's 'subdued' display on Match of the Day
-- Levi Colwill clashes with angry Chelsea fan at Stamford Bridge after shock Premier League defeat by Tottenham
-- The night Mateus Fernandes finally came of age in a Spurs shirt: Talented £85m star shone in Chelsea win as he showed Roberto De Zerbi what 
-- Xabi Alonso has lost goodwill of Chelsea fans with his tactical disaster against Spurs... they cannot be considered title contenders with so
-- Inside Harry Kane's business empire: Ballon d'Or favourite shares ticketing venture with John Terry, launched his own golfwear brand and has
-- Inside Trent Alexander-Arnold's Real Madrid struggles: How injury setbacks and Jose Mourinho's indifference - despite flashes of 'awesome' b
-- Man United vs Bournemouth - Premier League LIVE: All the reaction as Michael Carrick looks destined for the sack after another dismal Red De
-- HIBERNIAN 1 CELTIC 2: O'Neill's men weather the storm but too many of his players are still blowing hot and cold
+- Michael Carrick insists he was NOT waving an emotional farewell to fans after Man United's humiliating 3-0 thrashing by Bournemouth - but ad
 
 **Mirror** (25)
-- Michael Carrick future LIVE: Latest updates as Man Utd boss faces sack after Bournemouth loss
+- 7 managers Man Utd can appoint immediately with Michael Carrick under immense pressure
+- Michael Carrick future LIVE: Calls to sack Man Utd boss TONIGHT as big decision incoming
+- Harry Maguire points finger for Man Utd loss and speaks out on Michael Carrick's future
+- Gary Neville sends blunt Michael Carrick sack message and points finger of blame at Man Utd
+- Is Barcelona vs Real Madrid on TV tonight? Channel, live stream and kick off time
+- Michael Carrick resigned to his fate after defeat sees Man Utd hit 40-year low
+- The game is up for Michael Carrick - but Man Utd are a shambles of a football club
 - Michael Carrick is a scapegoat - the Old Trafford faithful know who is to blame at Man Utd
 - Liverpool blunt free-scoring Brighton as star man proves his worth in impressive win
 - Michael Carrick on brink as Man Utd fans make voices heard in Bournemouth hammering
 - Man Utd next manager odds as clear favourite emerges to replace Michael Carrick
 - Man City charges news: Punishment fear as Premier League clubs might worry about outcome
-- Sheffield Wednesday SACK boss Henrik Pedersen after 11 games of League One season
-- Jamie Carragher claims Man Utd stars 'don't like playing' with Bruno Fernandes as star axed
-- Man Utd vs Bournemouth travel closures latest as statement released and fans warned
-- Bruno Fernandes DROPPED as Man Utd boss Michael Carrick reacts to midweek outburst
-- Ex-Premier League boss stuns with Marc Cucurella Ballon d'Or pick as Harry Kane eyes award
-- Andoni Iraola puts limit on Florian Wirtz as Liverpool boss defends goalless run
 
-**Telegraph** (5)
-- Iraola era taking shape as Liverpool see off high-flying Brighton
+**Telegraph** (7)
+- Trafford shows England credentials to help Leeds take point from Sunderland
+- Hapless and hopeless Man Utd bring curtain down on out-of-depth Carrick
+- Most expensive goal in Liverpool history gives Iraola era lift-off
 - Sensational Spurs storm Stamford Bridge as Palmer loses his head
 - Pollock at heart of scuffle that inspires Leicester to thumping win in feisty derby
 - Saliba has fight on his hands to usurp ‘unbelievable’ Konsa
@@ -128,6 +130,7 @@ Generado por `scripts/titulares.py` (workflow `tendencias`). Leídos 26 de 34 me
 **90min** (0)
 
 **Planet Football** (10)
+- 10 damning stats that show why Michael Carrick sack is imminent at Man Utd
 - Can you name every British player to score in El Clasico since 1970?
 - Can you name every player to play for Real Madrid & Barcelona since 1990?
 - Ultimate El Clasico quiz: 30 questions on Real Madrid & Barcelona’s red-hot rivalry
@@ -137,230 +140,229 @@ Generado por `scripts/titulares.py` (workflow `tendencias`). Leídos 26 de 34 me
 - Can you name every Chelsea player to be sent off in the Premier League?
 - ‘We’re the best, f*ck you’: The story of Barca & Real’s four Clasicos in 18 days
 - Sportword: Play daily football word game on Planet Sport
-- The Premier League table since Tottenham appointed Roberto De Zerbi
 
-**FourFourTwo** (23)
+**FourFourTwo** (21)
 - Gazza on his best mate in football and their Italia 90 antics
 - How to watch Barcelona vs Real Madrid for FREE: Live Streams
 - Watch Sunderland vs Leeds United for FREE: Live streams
 - Maniche on Cristiano Ronaldo’s early days in the Portugal squad
 - Watch Hull City vs Brentford: Live streams and TV channels
 - Watch Crystal Palace vs Newcastle United: FREE streams
-- Michael Laudrup on what it meant to guide Swansea to their first major silverware
 - Watch Liverpool vs Brighton: Live streams and TV channels
+- Michael Laudrup on what it meant to guide Swansea to their first major silverware
 - How to watch Manchester United vs Bournemouth: FREE streams
 - Sir Alex Ferguson opens up on his emotional final days at Manchester United
 - 'When Gattuso hugs you before a game, it gives you a crazy kick. He was my idol, then all of a sudden I was playing for him’
 - Pre-Match Poser no.50: Can you answer this elite-level football quiz question?
 
 **Yahoo** (40)
-- Premier League: Reaction as Carrick position under major threat plus Leeds host Sunderland
-- Liverpool 2–0 Brighton: Ronald Araújo Dominates in Anfield Victory
-- Hornicek Gets 8, Burn With 7.5 | Newcastle United Players Rated In Impressive Win Vs Crystal Palace
-- 📝 Bahia issues official statement after Neymar x Nestor spat
-- Serie A | Genoa 1-0 Venezia: Ellertsson breaks his old club
-- Fernandes left out - Man Utd hammered, Bournemouth brilliant - how they rated
-- Man United’s latest abject display spells the end for Michael Carrick after huge call backfires
-- Xabi Alonso provides Joao Pedro update after Chelsea&#8217;s loss to Spurs
-- PLAYER RATINGS | Monaco 1-1 Lille: 10-men Lille secure draw against an up-and-down Monaco team
-- Araujo, Van Dijk And Gakpo Get 7.5 | Liverpool Players Rated In Solid Win Vs Brighton
-- Isak scores again as Liverpool beat Brighton
-- Alexander Isak Fires Liverpool to Huge Win Over Brighton
+- 🚨Confirmed XIs: Boca and Independiente face off in another Clásico
+- 🚨Line-ups confirmed: Milan face a test of character against Udinese
+- Andoni Iraola has to let Liverpool legend go, it&#39;s over
+- Douglas Luiz: ‘Juventus have to improve and play better for the whole game’
+- Aston Villa’s Win Over Man City Sparks Comparison Between These Two Stars: Is Emery Right?
+- Pressure grows on Sage as fans turn on Palace boss
+- Team news in as Barcelona host Real Madrid in Clásico clash
+- Amorim: ‘Milan players unavailable, Bournemouth were not better than us’
+- Lyon midfielder Pavel Šulc to be sidelined for four months with a meniscus injury
+- Is Barcelona v Real Madrid on TV? How to watch El Clasico in the UK
+- Serie A | Lecce 0-2 Juventus: Douglas Luiz gives best performance
+- West Ham Boss Nuno Admits That This Creates Doubt In Players: Why Does Respect Matter?
 
 **Google News EN** (40)
+- Football Scores & Fixtures
+- Alexander Isak tap-in doubles Liverpool's lead against Brighton.
 - Scores & Fixtures - Football
-- Man Utd vs Bournemouth: Evanilson makes it three for the Cherries!
-- Liverpool 2-0 Brighton | Premier League highlights
-- Man Utd 0-3 Bournemouth: Have your say
-- Follow Sunday's Premier League games live
-- Henrik Pedersen: Sheffield Wednesday sack head coach after less than 15 months in charge
+- Derry Senior Football Championship: Magherafelt win first title since 2019 with Newbridge win
+- Manchester United - Michael Carrick future as manager under major threat
+- Man Utd 0 Bournemouth 3 - how the players rated
+- Liverpool beat Brighton: Alexander Isak living up to price tag as Liverpool's winning run continues
+- Premier league: Micheal Carrick post-match interview
 - Isak, Barcola and Wirtz turn up - player ratings for Liverpool v Brighton
-- 'This is the only Clasico' - Mourinho's Real trying to stop Barca's shot at history
-- Stoke City opinion: Point gained as Potters try to go on a run
-- Team A v Team B: How the players rated
-- Blackburn Rovers opinion: Tony Mowbray helps belief grow at Ewood Park
-- Man Utd captain Bruno Fernandes left on bench by manager Michael Carrick during Bournemouth defeat
+- Henrik Pedersen: Sheffield Wednesday sack head coach after less than 15 months in charge
+- Sunderland 0-0 Leeds United: Have your say
+- Sunderland 0-0 Leeds: What Daniel Farke said
 
 **AS** (25)
-- Courtois, baja definitiva para el Clásico
-- Barcelona - Real Madrid hoy, en directo: previa y última hora del Clásico de LaLiga EA Sports, en vivo
-- Celta - Betis, en directo: LaLiga EA Sports hoy en vivo
-- Real Sociedad - Levante en directo: LaLiga EA Sports hoy, en vivo
+- Barcelona - Real Madrid hoy, en directo: última hora del Clásico de LaLiga EA Sports, en vivo
+- La Real sigue disparada y llega como un cohete al derbi vasco
+- Valles salva al Betis
 - Bordalás, tenemos un problema
 - Bordalás: “Estoy dolido, hemos tocado fondo, no podemos dar esta imagen”
-- Lo del United hoy puede hacer reventar todo: vean los tres goles del Bournemouth y alucinen
+- Resumen y goles del Sunderland vs Leeds United, jornada 8 de Premier League
 - Julián: cronología del perdón
 - Vendaval Isak
 - Tablas entre Davide y Filipe y lesión de Ansu
 - El United es un drama
-- Cádiz CF - AD Ceuta, en directo: LaLiga Hypermotion, hoy en vivo
+- Antoñito resucita al Cádiz y le saca del descenso
+- El Castellón se da un festín de líder
 
 **Mundo Deportivo** (40)
-- La Real Sociedad sale con todo a por el Levante
-- Nico Williams rebate a su agente: "Nunca he dudado de estar aquí"
-- Olot - Barça Atlètic, en directo
-- 0-2: El Newcastle despierta tras el descanso para imponerse al Crystal Palace
-- Bordalás: "Hemos tocado de alguna manera fondo"
-- Militao y Yan Diomande, protagonistas en el hotel del Real Madrid en Barcelona
-- Elliott pide perdón por su expulsión: "Estoy verdaderamente arrepentido"
-- 0-3: El Bournemouth agrava las pesadillas del Manchester United y de Carrick
-- Lecce - Juventus, en directo | Serie A
-- 1-1: Empate con sabor agridulce en la Nova Creu Alta
-- García Plaza olvida la polémica del Bernabéu: "Yo ya pasé página"
-- 2-0: El Liverpool se mete de lleno en la parte alta con partidazo de Araujo
+- Flick: "Quiero al equipo concentrado"
+- El atrevido vaticinio de Suárez para el Clásico
+- La Juventus recupera la sonrisa y Douglas Luiz luce
+- 1-3: Urbig evita un disgusto al Bayern
+- Berenguer: "Ha salido todo, el equipo ha hecho un gran fútbol"
+- ¡Ya están aquí! Barça y Madrid llegan al Spotify Camp Nou
+- Este es el once del Real Madrid para el Clásico
+- Flick saca su once más potente y con más pólvora
+- Udinese - AC Milan, en directo | Serie A
+- 2-0: Un Barça Atlètic gris cae en Olot
+- Álvaro Valles, MVP en Balaídos: "El partido ha sido duro"
+- El vestuario celebra la mejoría y el perdón de Julián Alvarez
 
 **Google News ES** (40)
-- Sin suerte
-- Algeciras vs Real Madrid Castilla de Primera Federación: horario y dónde ver hoy por TV y online el partido de Primera RFEF a través de DAZN
-- Resultados de fútbol de los equipos de Sobrarbe
-- Lanzarote y el fútbol insular: los clubes que mantuvieron viva la competición
-- P30 Sports Partners cierra la compra del Algeciras CF a Fútbol Coalition
-- Tirando de épica
+- Y tres más
+- "Reyes del Mundo" - Exposición Copa del Mundo de Fútbol
+- Samuel Umtiti alucina con Lamine Yamal y desvela qué le hace único: "Tiene algo... hoy en día no hay un jugador como él"
+- Fútbol | Primera Federación: Un diablo anda suelto en la UD Logroñés
+- Max Verstappen y la respuesta más suya sobre el Balón de Oro: "Prefiero ganar Mundiales a tener una pequeña pelota de oro en el escritorio"
+- José Bordalás enciende las alarmas por la delicada situación del Getafe: "Sentimos que hemos tocado fondo..."
+- Alineaciones FC Barcelona vs Real Madrid hoy: once inicial y banquillo de suplentes de Hansi Flick y José Mourinho para el Clásico de LaLiga
+- "Aparte del jugador que es, me llevo espectacular con él": Ivan Rakitic escoge al mejor centrocampista de la historia del FC Barcelona
+- Guti analiza la ausencia de Courtois en El Clásico y sale en defensa de Lunin: "Todos los madridistas confiamos en él…"
+- Jordi Alba elige a Messi para el Balón de Oro y lanza un aviso: “Si no se lo dan a Leo, tiene que ser Lamine Yamal”
 - David Soria habla claro sobre la situación del Getafe: "El equipo ahora mismo es anticompetitivo, nadie está dando nivel de Primera División
-- Brasil, en jaque: cuando la política se mezcla con el fútbol
-- Marcelo, Jordi Alba y el recuerdo de una polémica jugada que protagonizaron en el Clásico: "No entiendo qué hacía ahí"
-- Aquí tienes el boletín
-- Así se van a preparar
-- Cádiz - Ceuta, en directo | LaLiga Hypermotion
+- Resultados y clasificaciones del fútbol altoaragonés del 24 y 25 de octubre
 
 **Gazzetta** (0)
 
 **Football Italia** (20)
+- Spalletti: ‘Juventus system brings solidity, but we went backwards in the second half’
+- Serie A Liveblog: Inter-Fiorentina, Lecce-Juventus, Udinese-Milan and more
+- Douglas Luiz: ‘Juventus have to improve and play better for the whole game’
+- Amorim: ‘Milan players unavailable, Bournemouth were not better than us’
+- Serie A | Lecce 0-2 Juventus: Douglas Luiz gives best performance
+- Serie A official line-ups: Udinese vs. Milan
+- Napoli star Alisson Santos woken by burglars after 3-3 Roma draw
+- Sarri: ‘Atalanta feared Frosinone’ ahead of crazy 4-4 draw
 - Spalletti ignores Juventus injury crisis: ‘Woltemade-Kolo Muani not logical’
 - Serie A official line-ups: Lecce vs. Juventus
-- Serie A Liveblog: Inter-Fiorentina, Lecce-Juventus, Udinese-Milan and more
 - Serie A | Atalanta 4-4 Frosinone: Eight-goal thriller is pure entertainment
 - Serie A | Genoa 1-0 Venezia: Ellertsson breaks his old club
-- Chivu: ‘Injustices’ made Inter stronger against Fiorentina
-- Vanoli: Fiorentina ‘improving’ despite 2-1 loss vs. Inter
-- Thuram dedicates Inter goal to Lautaro, hopes French compatriot wins Ballon d’Or
-- Serie A | Inter 2-1 Fiorentina: Thuram and Zielinski complete another comeback
-- Fiorentina confirm Dodo will leave amid Juventus, Milan and Barcelona speculation
-- Chivu: Why Provedel and Mkhitaryan ‘deserve to start’ in Inter vs. Fiorentina
-- Serie A official line-ups: Inter vs. Fiorentina
 
 **Kicker** (20)
-- 1000. BL-Tor der TSG: Kramaric leitet 3:0 Sieg ein
-- "Das ist asozial": Stamm ärgert das Elfmeterpunkt-Treten und fordert eine Regelanpassung
-- Marseille - Le Havre: Tor zum 1:0 durch Egan-Riley in der 5. Minute
-- El-Helwes Elfmeter entreißt Ulm den zweiten Saisonsieg
-- 0:3-Niederlage gegen Roses Bournemouth: ManUnited-Talfahrt hält an
-- Wirtz erzwingt Führung: Liverpool springt auf Rang 4
-- Pick stinksauer auf Schiri: "Ist das schon Matchfixing?"
-- LIVE! Personalgeschwächtes Bayern mit Karl und Gnabry in Freiburg
-- Kesim trifft doppelt gegen Wattenscheid: Oberhausen kontert Dortmunder Sieg
-- Atalanta - Frosinone: Tor zum 4:4 durch Terzic in der 82. Minute
-- Monaco - Lille: Tor zum 1:1 durch Diop in der 74. Minute
-- Ein Eigentor leitet ein: Löwen feiern in Eichstätt ersten Auswärtserfolg seit August
+- Kramaric nach Prass-Jubel: "Ein guter Spieler, aber ein bisschen dumm"
+- Warum Gadou in Baku und gegen Frankfurt auf der Bank saß
+- Lecce - Juventus: Gelb-Rote Karte für Gaspar in der 90.+4 Minute
+- LIVE! Clasico startet mit Extra-Zündstoff - und ohne Adeyemi, Rüdiger und Courtois
+- Erst Schützenfest, dann Elfer-Glück: Marseille gibt 4:0 fast aus der Hand
+- Hoffenheims perfekte Woche: "Das kann die Wende sein"
+- 4:4 im Volkspark: Freistoß-Kracher und Elfer-Doppelpack reichen dem HSV nicht
+- Mink: "Es gab nur einen Sieger und das können wir sein"
+- Kiel belohnt Walters Systemumstellung - Weiner dankt dem Torwarttrainer
+- Marseille - Le Havre: Tor zum 4:3 durch Maja in der 89. Minute
+- Marseille - Le Havre: Tor zum 4:2 durch Ndiaye in der 86. Minute
+- San Sebastian - Levante: Tor zum 2:1 durch Turrientes in der 27. Minute
 
 **L'Equipe** (40)
-- Yves Triantafilos : «On se croyait dans un salon de coiffure»
-- En supériorité numérique, l'AS Monaco bute sur le LOSC
-- Pierre Sage et Michael Carrick sur un siège éjectable après les nouvelles défaites de Crystal Palace et de Manchester United
-- Corentin Tolisso sur ses responsabilités offensives en l'absence de plusieurs attaquants à l'OL : « Quand on n'a pas de réel buteur, j'essai
-- Bruno Genesio change huit joueurs face au Havre : l'OM démarrera avec Igor Paixao et Pierre-Emile Höjbjerg
-- Une glissade de Leny Yoro a permis à Bournemouth de mener 2-0 sur la pelouse de Manchester United
-- Eli Junior Kroupi bel et bien de retour sur le banc de Bournemouth face à Manchester United après sa blessure
-- Isaak Touré sur le chemin de la rédemption
-- Ballon d'Or 2026 : les paris de la rédaction de « L'Équipe »
-- Où est la patte Ancelotti ?
-- L'Inter Milan renverse la Fiorentina dans le temps additionnel et rejoint la Lazio en tête de la Serie A
-- Corentin Tolisso, milieu de terrain et capitaine de l'OL : « J'espère pouvoir jouer » face au PSG, en Ligue 1
+- Carrick : «Mon avenir ? Je ne m'attends à rien»
+- La Juventus maîtrise facilement Lecce grâce à un grand Douglas Luiz
+- Lunin dans les buts pour remplacer Courtois, aucune surprise côté Barça : les compositions du Clasico
+- Les notes de Rennes-Strasbourg : Szymanski régale, Nagida dans les bons coups
+- Torres, Akliouche, Godts et Digne, ces recrues qui sont très attendues
+- Les notes d'Auxerre-Le Mans : Sy percutant, Buades omniprésent
+- Où voir Barcelone - Real Madrid ?
+- Didier Digard regrette l'arbitrage après la défaite du Havre à Marseille : « Pour moi, il y a main »
+- Koleosho et Matondo incertains, Chergui et Traoré au repos... Le Paris FC amoindri avant son prochain rendez-vous contre Monaco ?
+- Sunderland reste dernier de Premier League, après un nul concédé face à Leeds
+- Dumornay face aux Barcelonaises
+- Grâce à des buts de Dayot Upamecano et de Michael Olise, le Bayern Munich maîtrise Fribourg et reprend la tête de la Bundesliga
 
 **Foot Mercato** (40)
-- Real Madrid : Thibaut Courtois définitivement forfait pour le Clásico
-- Ligue 1 : le LOSC réduit à dix s’en sort bien face à l’AS Monaco
-- Premier League : Liverpool assure contre Brighton, la crise continue pour MU et Crystal Palace
-- Man United : la terrible erreur de Yoro face à Bournemouth
-- OM - Le Havre : les compositions officielles
-- Eredivisie : Hadj Moussa permet à Feyenoord d’accrocher le nul face au PSV
-- Ballon d’Or : le choix surprenant de Jean-Pierre Papin
-- Lazio : Gennaro Gattuso est en train de réaliser un exploit historique !
-- Lille : le joli but d’Ethan Mbappé face à Monaco
-- Monaco : Ansu Fati sorti sur blessure contre Lille
-- Naples : De Laurentiis révèle avoir refusé une offre de 3,5 milliards d’euros
-- L’OL ouvre la porte à un nouvel attaquant cet hiver !
+- Bertrand Latour : « si Mbappé est Ballon d’Or, c’est le Ballon d’Or de la honte !  »
+- OM : Bruno Genesio en remet une couche sur Keyliane Abdallah et Nouhoum Kamissoko !
+- Manchester United : les supporters ont applaudi Carrick et hué leurs joueurs
+- OM : Bruno Genesio massacre les jeunes et annonce des sanctions !
+- Serie A : la Juventus se rassure à Lecce
+- HAC : Didier Digard fustige l’arbitrage après la défaite à Marseille
+- Real Madrid, Équipe de France : Rio Mavuba s’enflamme pour Eduardo Camavinga
+- Barcelone - Real Madrid : les compositions sont tombées
+- OM : l’énorme coup de gueule d’Himad Abdelli après la victoire face au Havre !
+- Bundesliga : le Bayern Munich s’offre Fribourg
+- OM - Le Havre : les notes du match
+- OM : la piqûre de rappel d’Amine Harit après la fin de match compliquée contre Le Havre
 
 **Record** (20)
-- <![CDATA[ Sporting acerta calendário com triunfo frente aos tigres ]]>
-- <![CDATA[ Estoril-Moreirense, 0-3 (2ª parte) ]]>
-- <![CDATA[ Yaya Bojang aponta à titularidade no jogo do Alverca com o Benfica ]]>
-- <![CDATA[ Jota Silva brilha com hat trick na Grécia ]]>
-- <![CDATA[ Jogo entre Cristiano Ronaldo e Rui Vitória na Champions asiática adiado e sem nova data definida ]]>
-- <![CDATA[ Rui Lacerda e Ricardo Coelho campeões mundiais de C2 em maratonas ]]>
-- <![CDATA[ Dakar deixa Arábia Saudita em 2027 e pode mudar-se para Portugal e Marrocos ]]>
-- <![CDATA[ Rio Ave-Famalicão, em direto ]]>
-- <![CDATA[ Liverpool bate Brighton com dois golos na 1ª parte ]]>
-- <![CDATA[ Decisão final: Courtois não joga mesmo o 'El Clásico' e dá baliza do Real Madrid a Lunin ]]>
-- <![CDATA[ Crise sem fim: Man. United afunda-se após perder com o Bournemouth num jogo em que Bruno Fernandes ficou no banco ]]>
-- <![CDATA[ Adeptos do Bournemouth silenciam Old Trafford com cântico para Carrick: «Vais ser despedido de manhã!» ]]>
+- <![CDATA[ Ricardo Formosinho alcança o primeiro triunfo em Marrocos ]]>
+- <![CDATA[ Pode haver campeão: Grande Prémio dos Estados Unidos, em direto ]]>
+- <![CDATA[ Di Maria marca e sobe ao topo do campeonato argentino ]]>
+- <![CDATA[ Miguel Moreira: «Só pensamos em crescer e trabalhar porque nesta casa ninguém desiste» ]]>
+- <![CDATA[ Barcelona-Real Madrid, em direto ]]>
+- <![CDATA[ O onze do Sporting para o jogo com o Académico Viseu ]]>
+- <![CDATA[ Teatro dos horrores: os números que pioram cada vez mais o pesadelo do Manchester United ]]>
+- <![CDATA[ Erick admite "regresso difícil" ao Sporting: «Querer dar o meu contributo e não ser possível...» ]]>
+- <![CDATA[ Rio Ave-Famalicão, 0-1 (2.ª parte) ]]>
+- <![CDATA[ Atenção, Benfica: Lech Poznan vence em casa do Legia Varsóvia e lidera Liga polaca ]]>
+- <![CDATA[ UP Venda Nova garante segunda vitória na Liga Placard  ]]>
+- <![CDATA[ Nacional-Sp. Braga, 1-0 (2.ª parte) ]]>
 
 **Ole** (10)
-- El duro mensaje del manager de Colapinto tras la desagradable burla de Clarkson: "Franco y sus seguidores merecen algo mejor"
-- Video: el blooper de un brasileño a los 25 segundos del tremendo empate 4-4 entre Atalanta y Frosinone
-- Las bombas de los arqueros de Central y Huracán: "Desde la tribuna es muy fácil opinar" y "esta no es mi casa"
-- Prueba de fuego para Racing ante River: la racha negativa en el Monumental, el recuerdo de 2017 y la posible formación
-- River vs. Racing, hoy EN VIVO por el Torneo Clausura 2026: formaciones, horario y por dónde ver
-- Independiente vs. Boca, hoy EN VIVO el Torneo Clausura 2026: formaciones, horario y por dónde ver
-- Balón de Oro 2026: todos los nominados, categoría por categoría
-- Licha Martínez volvió a jugar en el United: dura goleada en contra 3-0 ante Bournemouth
-- El fuerte descargo de Neymar tras su expulsión: "Le di la oportunidad a un idiota de hacerse notar"
-- La ventaja de Boca en la pelea por la tabla anual antes de visitar a Independiente
+- Las razones por las que Paredes será titular ante Independiente
+- La pelea por no descender: ganó Aldosivi y Riestra está obligado a sumar
+- Lionel Messi no para: en cuatro días, Oviedo, Nueva York, Miami y ¿Londres?
+- Cristiano Ronaldo y el gesto viral de la "M": ¿Qué quiere decir?
+- Se canceló el GP de Australia: cuál fue la razón y cómo quedó el campeonato de MotoGP
+- Quién es Jeremy Clarkson, el famoso inglés que se burló de Colapinto y generó un comunicado de Alpine
+- TC en Rosario: Lambiris ganó de punta a punta y se prendió en la Copa de Oro
+- Bomba en Independiente: Viera borró a Rey y Mele será titular ante Boca
+- Con Lionel como hincha: Mateo Messi metió un gol y la sub 12 de Inter Miami gritó campeón
+- Cómo se elige al ganador del Balón de Oro: quiénes votan y qué criterios se utilizan
 
 **Infobae** (40)
-- Franco Colapinto largará desde el fondo de la grilla el Gran Premio de Estados Unidos de la Fórmula 1: todo lo que hay que saber
-- Boca Juniors visitará a Independiente por el Torneo Clausura tras clasificar a la final de la Copa Sudamericana: hora, TV y formaciones
+- Franco Colapinto larga 20° Gran Premio de Estados Unidos de la Fórmula 1
+- Boca Juniors visita a Independiente por el Torneo Clausura tras clasificar a la final de la Sudamericana: formaciones confirmadas
+- Aldosivi le ganó 1-0 a Belgrano y se mantiene en la lucha por la permanencia en la Primera División
+- Manchester United volvió a perder y Gary Neville lanzó una dura advertencia: qué dijo sobre Lisandro Martínez y la crisis interna
 - River Plate recibirá a Racing en el Monumental en uno de los clásicos de la fecha 14 del Torneo Clausura: hora, TV y formaciones
+- Mateo Messi convirtió un golazo y se consagró campeón con el Inter Miami en un torneo Sub 12
+- La “resurrección” de Alexis Mac Allister en Liverpool: las razones de su crecimiento y el factor que podría ser clave en su futuro
+- La selección argentina logró dos triunfos en un día en el Mundial Sub 15: el inédito formato del torneo que incluye a 189 países
 - El Rally Dakar confirmó que la edición 2027 no será en Arabia Saudita: las razones y el posible regreso a África tras 20 años
 - Malik Beasley negocia un acuerdo de culpabilidad: el ex NBA podría admitir su rol en un esquema de apuestas ilegales
 - Un piloto de la F1 recibió una “penalización masiva” de 80 puestos, rompió el récord de sanciones y largará último el Gran Premio de EEUU
 - La revelación sobre la misteriosa separación de Vinicius en medio de su ausencia del clásico entre Real Madrid y Barcelona
-- Max Verstappen reveló los dolores que sufre por el circuito del GP de EEUU de Fórmula 1 y lanzó una advertencia: “No podría caminar”
-- Quién es Jeremy Clarkson, el presentador británico que se burló de Colapinto: la historia de su visita a la Argentina que desató un conflict
-- Insólito accidente en una pelea de MMA: noqueó a su rival, pero el árbitro lo lesionó cuando paró el combate
-- Polémica con Neymar en Brasil: fue expulsado por un gesto contra un rival y estalló con un duro descargo
-- Ganó un partido que le convenía perder y hoy entrena a Nadia Podoroska: “Sumar puntos ATP era una masacre”
 
 **Google News AR** (40)
 - Juveniles LPF: Saldo a favor con dos triunfos en Rosario
 - El mal tiempo obligó a suspender otra jornada del fútbol departamental
+- Murió un histórico barrabrava del fútbol argentino: el cortejo que sorprendió a los hinchas
+- Cinco partidos del fútbol local le ponen color a la tarde de domingo
+- Ver Barcelona vs Real Madrid en Fútbol Libre o Roja Directa: los peligros ocultos de buscar partidos gratis
 - Última jornada del fútbol rural: se define la Copa Desafío
+- Domingo de clásicos en el fútbol argentino: Independiente recibe a Boca y River se enfrenta a Racing
+- Pelota Libre de riesgo: ver partido de River vs. Racing EN VIVO, por TV y online
+- Colectivo judío condena nuevo incidente antisemita en partido de fútbol argentino
 - Juan Sebastián Verón: "Muslera no se merecía irse del fútbol de esa manera"
-- Abel Ferreira y su palazo a Flamengo por el caso Rojo: "Palmeiras ganó en la cancha"
-- Berenguer: “Hemos hecho un gran fútbol, hemos jugado muy bien”
-- Boca y la escuela donada que el fútbol argentino olvidó
-- Guadalupe volvió a festejar con los pibes como protagonistas
-- Por el mal estado de los campos de juego, suspendieron el fútbol local
 - Baby Fútbol Barrio Industrial ya tiene agua potable y mejoras en su predio
-- Cipolletti y San Martín de Formosa definen en San Francisco el primer ascenso del Federal A
-- Los dos ascensos que se definirán este domingo en el fútbol argentino
+- Boca y la escuela donada que el fútbol argentino olvidó
 
 **ge.globo** (40)
-- Com gols de Rayan e Evanilson, Bournemouth vence e aumenta crise no United
+- NFL: Green Bay Packers x Detroit Lions ao vivo
+- Escalação do Flamengo: Jardim pode fazer mudanças nas laterais e no ataque contra o Atlético-MG
+- Barcelona x Real Madrid - Campeonato Espanhol 2026/27 - Ao vivo - globoesporte.com
+- Soteldo, do Fluminense, acusa dores na coxa e passa por recondicionamento físico
+- Mexicano Reyes faz golaço e marca pela primeira vez na base do Flamengo; veja vídeo
+- Bola de Ouro 2026 tem disputa acirrada e sem favorito; veja prós e contras dos principais nomes
+- Bola de Ouro 2026 - Acompanhe a premiação
+- Tite se iguala a Tiago Nunes e tem pior aproveitamento no início de trabalho no Botafogo; veja números da SAF
+- Pittsburgh Steelers vence New Orleans Saints em Paris; veja melhores momentos
 - Monaco, de Filipe Luís, e Lille, de Davide Ancelotti, empatam no Francês
-- Cássio supera preconceito com psicólogo e rebate críticas a jogadores: "Não é dinheiro"
-- De reservas a titulares: Atlético-MG liga alerta com sete pendurados para o clássico
-- Luciano Juba, do Bahia, está em pré-lista da Seleção para amistosos contra Japão e Singapura
-- Tite aposta em experiência, mas atuações reacendem debate sobre meio-campo do Botafogo
-- Barcelona x Real Madrid - Campeonato Espanhol 2026/27 - globoesporte.com
-- Deportivo Cali x Olimpia - Taça Libertadores Feminina 2026 - globoesporte.com
-- NFL: Pittsburgh Steelers x New Orleans Saints ao vivo
-- Prazer, Marino! Atacante tem primeiro grande jogo pelo Vasco e é herói em virada sobre Corinthians
-- Gabriel Pec avança em recuperação no Cruzeiro e treina em campo
-- Real Madrid anuncia desfalque de Courtois contra o Barcelona, mas goleiro ainda tenta ir a campo
+- Com gols de Rayan e Evanilson, Bournemouth vence e aumenta crise no United
+- Steelers abusam do jogo corrido e vencem Saints no primeiro jogo da NFL na França
 
 **r/soccer (top día)** (25)
 - In liga mx player accidentally kicks the linesman while trying to take a corner kick
-- Uruguay's Estadio Centenario, where the final of the blessed Copa Libertadores will be played
-- Tottenham Hotspur have won against Chelsea at Stamford Bridge for the first time in 8 years, and only the 2nd time in Premier League history
-- Chelsea 0 - [2] Tottenham - Mathys Tel 87'
-- [Sam Dean]: Mikel Arteta says he has been clipping up footage of other managers leaving the technical area during matches. He says he has ev
 - Araujo unusual last ditch defending vs Brighton
-- Replay of Cole Palmer's second yellow card Vs Spurs 80'
+- Manchester United 0 - [3] AFC Bournemouth - Evanilson 71'
+- Utd throw in glitches
 - Neymar is sent off for covering his mouth before the second half begins (Santos 0-1 Bahia - Brasileirão Série A 2026)
 - Neymar on his prime "For me it was at PSG. I know that people remember my time at Barça with MSN but in Paris I felt strong, fast and intell
-- Chelsea 0-[1] Tottenham - Mike Penders own goal 77'
-- Alternative angles of Mike Penders' own goal against Tottenham 77'
-- Manchester United 0 - [3] AFC Bournemouth - Evanilson 71'
+- Michael Carrick being visibly emotional at FT after Manchester United's 3-0 defeat to Bournemouth
+- Courtois misses El classico due to a flu.
+- Bruno Fernandes left out of Manchester United starting line-up vs. Bournemouth after Como outburst
+- Unai Emery gets angry at a journalist asking about Manchester City's charges: "I was focused on the match. I was not (*turns around*) like t
+- Neymar loses his temper and tries to assault a Bahia player
+- Manchester United 0 - [2] AFC Bournemouth - M. Tavernier 43'
 
 Fallaron: ESPN (ParseError), Goal (HTTPError), Independent (ParseError), Football365 (HTTPError), Marca (HTTPError), Sport (HTTPError), Calciomercato (HTTPError), TN (HTTPError)

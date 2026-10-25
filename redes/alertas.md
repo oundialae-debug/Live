@@ -1,33 +1,33 @@
-# Alertas de noticias (2026-10-25 16:43 UTC)
+# Alertas de noticias (2026-10-25 19:54 UTC)
 
 Temas en >= 7 medios. La rutina diaria y cualquier sesión deben mirar esto ANTES de elegir tema (regla 6: la noticia que todos comentan va primero).
 
 ## Grandes SIN publicar en las últimas 48 h (hacer post si pasa el listón: nada repetido, foto del momento)
 
-- **Bournemouth** (17 medios): Fernandes left out - Man Utd hammered, Bournemouth brilliant - how they rated
-- **Madrid** (16 medios): Older, calmer, but still playing the hits: Mourinho and Madrid primed for clásico
-- **Liverpool** (14 medios): Isak, Barcola and Wirtz turn up - player ratings for Liverpool v Brighton
-- **Brighton** (13 medios): Isak, Barcola and Wirtz turn up - player ratings for Liverpool v Brighton
-- **Barcelona** (11 medios): Can you name every player to play for Real Madrid & Barcelona since 1990?
-- **Chelsea** (10 medios): Tottenham stun Chelsea for second league win in a week as Cole Palmer is sent off
-- **Tottenham** (9 medios): Arsenal fight back to beat Tottenham and ease pressure on Slegers
-- **Palace** (9 medios): Osula and Barnes’ second-half burst sees Newcastle pile pressure on lacklustre Palace
-- **Courtois** (9 medios): Will Real Madrid goalkeeper Thibaut Courtois play against Barcelona in El Clasico?
-- **Bayern** (8 medios): Vincent Kompany to miss ‘weeks, not days’ with virus treatment, say Bayern Munich
-- **Palmer** (7 medios): Spurs clinch rare Stamford Bridge win as Palmer sent off
-- **Clasico** (7 medios): 'This is the only Clasico' - Mourinho's Real trying to stop Barca's shot at history
-- **Alonso** (7 medios): 'We could have played better' - Alonso disappointed after defeat
-- **Newcastle** (7 medios): Osula and Barnes’ second-half burst sees Newcastle pile pressure on lacklustre Palace
-- **Crystal** (7 medios): Clinical Newcastle victory over Crystal Palace relieves pressure on Matthias Jaissle while Pierre Sage's days
-- **Neymar** (7 medios): 📝 Bahia issues official statement after Neymar x Nestor spat
-- **Clásico** (7 medios): Courtois, baja definitiva para el Clásico
-- **Atlético** (7 medios): 1-1: El Atlético Madrileño se pega otro tiro en el pie ante el Jaén
+- **Madrid** (17 medios): Barcelona v Real Madrid: El Clásico – live
+- **Liverpool** (14 medios): Isak finally living up to price tag as Liverpool patience rewarded
+- **Barcelona** (14 medios): Barcelona v Real Madrid: El Clásico – live
+- **Bournemouth** (13 medios): Fernandes left out - Man Utd hammered, Bournemouth brilliant - how they rated
+- **Palace** (11 medios): Pressure grows on Sage as fans turn on Palace boss
+- **Leeds** (9 medios): Roefs and Trafford stand firm as Sunderland and Leeds battle for point
+- **Bayern** (9 medios): Vincent Kompany to miss ‘weeks, not days’ with virus treatment, say Bayern Munich
+- **Brighton** (9 medios): Isak on target again as Liverpool beat Brighton
+- **Clasico** (8 medios): 'This is the only Clasico' - Mourinho's Real trying to stop Barca's shot at history
+- **Ballon** (8 medios): Weir would swap Ballon d'Or nominations for World Cup
+- **Clásico** (8 medios): Barcelona v Real Madrid: El Clásico – live
+- **Sunderland** (8 medios): Roefs and Trafford stand firm as Sunderland and Leeds battle for point
+- **Isak** (7 medios): Isak finally living up to price tag as Liverpool patience rewarded
+- **Utd** (7 medios): Fernandes left on bench for Man Utd defeat - a failed gamble?
+- **Trafford** (7 medios): Roefs and Trafford stand firm as Sunderland and Leeds battle for point
+- **Crystal** (7 medios): Crystal Palace consider moves for three ex-Premier League managers as pressure grows on Pierre Sage
+- **Juventus** (7 medios): Douglas Luiz: ‘Juventus have to improve and play better for the whole game’
+- **Courtois** (7 medios): Courtois, baja definitiva para el Clásico
 
 ## Grandes ya cubiertas
 
-- Fernandes (12): Fernandes left out - Man Utd hammered, Bournemouth brilliant - how they rated
-- Carrick (11): Michael Carrick on the brink after Manchester United are humiliated by Bournemouth
-- Man (10): Fernandes left out - Man Utd hammered, Bournemouth brilliant - how they rated
-- Michael (9): Michael Carrick on the brink after Manchester United are humiliated by Bournemouth
-- Manchester (9): Michael Carrick on the brink after Manchester United are humiliated by Bournemouth
-- Bruno (9): Michael Carrick drops Man United captain Bruno Fernandes after critical comments
+- Carrick (15): Carrick future under major threat - can he survive?
+- Manchester (13): Manchester United board hold crisis talks over Carrick’s future and Howe approach
+- Man (12): Fernandes left on bench for Man Utd defeat - a failed gamble?
+- Michael (10): Michael Carrick accused of trying to embarrass Bruno Fernandes as Man United boss insists horror defeat is not
+- Chelsea (9): Malard stars as Chelsea beat Palace to extend unbeaten start
+- Fernandes (8): Fernandes left on bench for Man Utd defeat - a failed gamble?

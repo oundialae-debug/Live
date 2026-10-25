@@ -1,9 +1,9 @@
 {
- "generado": "2026-10-25T16:43+00:00",
+ "generado": "2026-10-25T19:54+00:00",
  "temas": [
   {
    "tema": "Madrid",
-   "medios": 17,
+   "medios": 18,
    "lista_medios": [
     "AS",
     "Daily Mail",
@@ -19,18 +19,13 @@
     "Ole",
     "Planet Football",
     "Record",
+    "Sky Sports",
     "Yahoo",
     "ge.globo",
     "talkSPORT"
    ],
    "primera_vez": "2026-10-24T11:28+00:00",
    "titulares": [
-    {
-     "medio": "Guardian",
-     "titulo": "Older, calmer, but still playing the hits: Mourinho and Madrid primed for clásico",
-     "url": "https://www.theguardian.com/football/2026/oct/24/la-liga-clasico-barcelona-real-madrid-jose-mourinho",
-     "pub": "2026-10-24T07:00+00:00"
-    },
     {
      "medio": "Yahoo",
      "titulo": "Real Madrid consider activating €80 million buyback clause for Nico Paz in 2027 – report",
@@ -95,6 +90,12 @@
      "medio": "Mundo Deportivo",
      "titulo": "Rueda de prensa de Mourinho, en directo: previa y última hora del Barcelona - Real Madrid",
      "url": "https://www.mundodeportivo.com/futbol/real-madrid/20261024/1004241694/rueda-prensa-mourinho-directo-previa-ultima-hora-barca-real-madrid.html",
+     "pub": ""
+    },
+    {
+     "medio": "Mundo Deportivo",
+     "titulo": "El dato que explica la distancia a la que está el Atlético de Barcelona y Real Madrid",
+     "url": "https://www.mundodeportivo.com/futbol/atletico-madrid/20261024/1004242340/dato-explica-distancia-atletico-barcelona-real-madrid.html",
      "pub": ""
     }
    ]
@@ -199,7 +200,7 @@
   },
   {
    "tema": "Liverpool",
-   "medios": 16,
+   "medios": 17,
    "lista_medios": [
     "BBC",
     "Daily Mail",
@@ -208,6 +209,7 @@
     "FourFourTwo",
     "Google News EN",
     "Guardian",
+    "Infobae",
     "Kicker",
     "Mirror",
     "Mundo Deportivo",
@@ -257,12 +259,6 @@
      "pub": "2026-10-24T10:52+00:00"
     },
     {
-     "medio": "Foot Mercato",
-     "titulo": "Liverpool : Ronald Araujo se livre sur son combat contre la dépression",
-     "url": "https://www.footmercato.net/a2089361061122360207-liverpool-ronald-araujo-se-livre-sur-son-combat-contre-lanxiete-et-la-depression",
-     "pub": "2026-10-24T07:44+00:00"
-    },
-    {
      "medio": "Yahoo",
      "titulo": "Liverpool LB To Leave In January Amid Celtic Interest",
      "url": "https://sports.yahoo.com/articles/liverpool-lb-leave-january-amid-135000009.html",
@@ -291,102 +287,12 @@
      "titulo": "Ex-Premier League star desperate to see Trent Alexander-Arnold back at Liverpool",
      "url": "https://talksport.com/football/4664836/trent-alexander-arnold-real-madrid-liverpool-charlie-austin/",
      "pub": "2026-10-24T14:53+00:00"
-    }
-   ]
-  },
-  {
-   "tema": "Tottenham",
-   "medios": 15,
-   "lista_medios": [
-    "AS",
-    "BBC",
-    "Daily Mail",
-    "Foot Mercato",
-    "FourFourTwo",
-    "Google News EN",
-    "Google News ES",
-    "Guardian",
-    "L'Equipe",
-    "Mirror",
-    "Mundo Deportivo",
-    "Planet Football",
-    "Sky Sports",
-    "Yahoo",
-    "talkSPORT"
-   ],
-   "primera_vez": "2026-10-24T11:28+00:00",
-   "titulares": [
-    {
-     "medio": "BBC",
-     "titulo": "Why Tottenham v Arsenal could define their seasons - live on BBC One",
-     "url": "https://www.bbc.co.uk/sport/football/articles/ck240l3n774zo?at_medium=RSS&at_campaign=rss",
-     "pub": "2026-10-24T06:02+00:00"
     },
     {
-     "medio": "Sky Sports",
-     "titulo": "WSL: Tottenham vs Arsenal LIVE!",
-     "url": "https://www.skysports.com/football/tottenham-hotspur-women-vs-arsenal-women/live/575803",
-     "pub": "2026-10-24T12:20+00:00"
-    },
-    {
-     "medio": "Daily Mail",
-     "titulo": "Chelsea vs Tottenham combined XI according to the stats: In-form Cole Palmer and Joao Pedro make the cut, while a World Cup villain earns a surprise play - but which FOUR Spurs stars get the nod?",
-     "url": "https://www.dailymail.com/sport/football/article-16229395/chelsea-tottenham-combined-xi-stats.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-     "pub": "2026-10-24T08:03+00:00"
-    },
-    {
-     "medio": "FourFourTwo",
-     "titulo": "How to watch Tottenham Hotspur vs Arsenal: Free streams and TV channels for WSL North London derby",
-     "url": "https://www.fourfourtwo.com/competition/watch-tottenham-hotspur-vs-arsenal-wsl-north-london-derby-free",
-     "pub": "2026-10-24T08:00+00:00"
-    },
-    {
-     "medio": "Yahoo",
-     "titulo": "Roberto De Zerbi defends Tottenham medical staff amid more Spurs injury woes",
-     "url": "https://sports.yahoo.com/articles/roberto-zerbi-defends-tottenham-medical-090441118.html",
-     "pub": "2026-10-24T09:04+00:00"
-    },
-    {
-     "medio": "Google News EN",
-     "titulo": "Tottenham vs Arsenal: Why north London derby could define seasons",
-     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBrdmxFZjBUQ01CZlh1bEpCX0NybXI2LVJqREZVbXBzdVA2RTA3Q01WRkdfZnZ0QzBONC1mMlBvWEk1Wkx2NEZfZVlwTXdlQVQzZlhfVFk5OUt2WFMtLWRZUXd4Q1UzNXV4N0c4?oc=5",
-     "pub": "2026-10-24T06:02+00:00"
-    },
-    {
-     "medio": "Google News ES",
-     "titulo": "Chelsea vs Tottenham: horario y dónde ver hoy por TV y online el partido de la Premier League 2026/27 a través de DAZN",
-     "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPVEZCeGdUUFpSbXpuOUl5LWI5QW9kdVZ4UlNaRmtCUVg4ZkZqMWxycnl1QmhXZ1Y4REJZdW9NbVVqMFFYM205eGxDOUxEVXE0clFqbXczakVXcUlaWkVydUU1emItOUpxbTVSVFZ3T2NFSW9ZVlAxODZpLXVTdE4tWHRXVTQwa1ZFYkg0dVZJajFHQVR6NkdrdTIwek9aWVRSSGxxQ0Nkd1J2Vmd2WjAyQUFoZW8xUWpMXzNsY3ZvZVd4bWVsTVZBaHF3dnhhb213TllySEdiT0pLbUhfTVdQOU9SS0RPSkR1OGNRMXZyTGM?oc=5",
-     "pub": "2026-10-24T10:28+00:00"
-    },
-    {
-     "medio": "L'Equipe",
-     "titulo": "Véritable rebond ou simple illusion : Tottenham a enfin gagné, mais tous les doutes ne sont pas encore effacés",
-     "url": "https://www.lequipe.fr/Football/Article/Veritable-rebond-ou-simple-illusion-tottenham-a-enfin-gagne-mais-tous-les-doutes-ne-sont-pas-encore-effaces/1738054#at_medium=RSS_feeds",
-     "pub": "2026-10-24T06:01+00:00"
-    },
-    {
-     "medio": "BBC",
-     "titulo": "Arsenal fight back to beat Tottenham and ease pressure on Slegers",
-     "url": "https://www.bbc.co.uk/sport/football/videos/cmy0r7epegd4o?at_medium=RSS&at_campaign=rss",
-     "pub": "2026-10-24T14:20+00:00"
-    },
-    {
-     "medio": "Guardian",
-     "titulo": "Relief for Slegers as Russo rescues Arsenal against Tottenham in WSL",
-     "url": "https://www.theguardian.com/football/2026/oct/24/tottenham-arsenal-wsl-match-report",
-     "pub": "2026-10-24T13:59+00:00"
-    },
-    {
-     "medio": "FourFourTwo",
-     "titulo": "Watch Chelsea vs Tottenham: FREE streams and TV info",
-     "url": "https://www.fourfourtwo.com/competition/watch-chelsea-vs-tottenham-premier-league-2026-27-free",
-     "pub": "2026-10-24T13:30+00:00"
-    },
-    {
-     "medio": "Yahoo",
-     "titulo": "Arsenal finally end WSL slump with contentious derby win at Tottenham",
-     "url": "https://sports.yahoo.com/articles/arsenal-finally-end-wsl-slump-140907333.html",
-     "pub": "2026-10-24T14:09+00:00"
+     "medio": "Mirror",
+     "titulo": "Kai Rooney stuns fans as they call for Man Utd promotion after win over Liverpool U18s",
+     "url": "https://www.mirror.co.uk/sport/football/news/kai-rooney-man-utd-liverpool-37807171",
+     "pub": "2026-10-24T15:57+00:00"
     }
    ]
   },
@@ -679,6 +585,198 @@
    ]
   },
   {
+   "tema": "Tottenham",
+   "medios": 15,
+   "lista_medios": [
+    "AS",
+    "BBC",
+    "Daily Mail",
+    "Foot Mercato",
+    "FourFourTwo",
+    "Google News EN",
+    "Google News ES",
+    "Guardian",
+    "L'Equipe",
+    "Mirror",
+    "Mundo Deportivo",
+    "Planet Football",
+    "Sky Sports",
+    "Yahoo",
+    "talkSPORT"
+   ],
+   "primera_vez": "2026-10-24T11:28+00:00",
+   "titulares": [
+    {
+     "medio": "Sky Sports",
+     "titulo": "WSL: Tottenham vs Arsenal LIVE!",
+     "url": "https://www.skysports.com/football/tottenham-hotspur-women-vs-arsenal-women/live/575803",
+     "pub": "2026-10-24T12:20+00:00"
+    },
+    {
+     "medio": "Daily Mail",
+     "titulo": "Chelsea vs Tottenham combined XI according to the stats: In-form Cole Palmer and Joao Pedro make the cut, while a World Cup villain earns a surprise play - but which FOUR Spurs stars get the nod?",
+     "url": "https://www.dailymail.com/sport/football/article-16229395/chelsea-tottenham-combined-xi-stats.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+     "pub": "2026-10-24T08:03+00:00"
+    },
+    {
+     "medio": "FourFourTwo",
+     "titulo": "How to watch Tottenham Hotspur vs Arsenal: Free streams and TV channels for WSL North London derby",
+     "url": "https://www.fourfourtwo.com/competition/watch-tottenham-hotspur-vs-arsenal-wsl-north-london-derby-free",
+     "pub": "2026-10-24T08:00+00:00"
+    },
+    {
+     "medio": "Yahoo",
+     "titulo": "Roberto De Zerbi defends Tottenham medical staff amid more Spurs injury woes",
+     "url": "https://sports.yahoo.com/articles/roberto-zerbi-defends-tottenham-medical-090441118.html",
+     "pub": "2026-10-24T09:04+00:00"
+    },
+    {
+     "medio": "Google News ES",
+     "titulo": "Chelsea vs Tottenham: horario y dónde ver hoy por TV y online el partido de la Premier League 2026/27 a través de DAZN",
+     "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPVEZCeGdUUFpSbXpuOUl5LWI5QW9kdVZ4UlNaRmtCUVg4ZkZqMWxycnl1QmhXZ1Y4REJZdW9NbVVqMFFYM205eGxDOUxEVXE0clFqbXczakVXcUlaWkVydUU1emItOUpxbTVSVFZ3T2NFSW9ZVlAxODZpLXVTdE4tWHRXVTQwa1ZFYkg0dVZJajFHQVR6NkdrdTIwek9aWVRSSGxxQ0Nkd1J2Vmd2WjAyQUFoZW8xUWpMXzNsY3ZvZVd4bWVsTVZBaHF3dnhhb213TllySEdiT0pLbUhfTVdQOU9SS0RPSkR1OGNRMXZyTGM?oc=5",
+     "pub": "2026-10-24T10:28+00:00"
+    },
+    {
+     "medio": "BBC",
+     "titulo": "Arsenal fight back to beat Tottenham and ease pressure on Slegers",
+     "url": "https://www.bbc.co.uk/sport/football/videos/cmy0r7epegd4o?at_medium=RSS&at_campaign=rss",
+     "pub": "2026-10-24T14:20+00:00"
+    },
+    {
+     "medio": "Guardian",
+     "titulo": "Relief for Slegers as Russo rescues Arsenal against Tottenham in WSL",
+     "url": "https://www.theguardian.com/football/2026/oct/24/tottenham-arsenal-wsl-match-report",
+     "pub": "2026-10-24T13:59+00:00"
+    },
+    {
+     "medio": "FourFourTwo",
+     "titulo": "Watch Chelsea vs Tottenham: FREE streams and TV info",
+     "url": "https://www.fourfourtwo.com/competition/watch-chelsea-vs-tottenham-premier-league-2026-27-free",
+     "pub": "2026-10-24T13:30+00:00"
+    },
+    {
+     "medio": "Yahoo",
+     "titulo": "Arsenal finally end WSL slump with contentious derby win at Tottenham",
+     "url": "https://sports.yahoo.com/articles/arsenal-finally-end-wsl-slump-140907333.html",
+     "pub": "2026-10-24T14:09+00:00"
+    },
+    {
+     "medio": "Yahoo",
+     "titulo": "Tottenham star Tonali admits: ‘Milan will always be my favourite team’",
+     "url": "https://sports.yahoo.com/articles/tottenham-star-tonali-admits-milan-134000886.html",
+     "pub": "2026-10-24T13:40+00:00"
+    },
+    {
+     "medio": "Yahoo",
+     "titulo": "Tottenham Hotspur Starting XI vs Chelsea: Confirmed Team News and Predicted Lineup",
+     "url": "https://sports.yahoo.com/articles/tottenham-hotspur-starting-xi-vs-122000181.html",
+     "pub": "2026-10-24T12:20+00:00"
+    },
+    {
+     "medio": "Google News EN",
+     "titulo": "Women's Super League: Tottenham 1-2 Arsenal - highlights",
+     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5PeVRFRTVvSXNodFBPckRSYjNkMzBSV21xOWlXY21EbHcwYTAxOGREZGNuM191QUplZndGVmFhSmNFZHBNRU5wRWxTeXRLaGpmYUV4SmNlMjVTeVpnQnRxN21PR1EwTDEy?oc=5",
+     "pub": "2026-10-24T14:20+00:00"
+    }
+   ]
+  },
+  {
+   "tema": "Carrick",
+   "medios": 15,
+   "lista_medios": [
+    "BBC",
+    "Daily Mail",
+    "Foot Mercato",
+    "Google News EN",
+    "Guardian",
+    "Kicker",
+    "L'Equipe",
+    "Mirror",
+    "Mundo Deportivo",
+    "Planet Football",
+    "Record",
+    "Sky Sports",
+    "Telegraph",
+    "Yahoo",
+    "talkSPORT"
+   ],
+   "primera_vez": "2026-10-24T11:28+00:00",
+   "titulares": [
+    {
+     "medio": "Sky Sports",
+     "titulo": "Lammens: We're united and behind Carrick",
+     "url": "https://www.skysports.com/football/news/12040/13602864/senne-lammens-manchester-united-players-are-united-and-behind-under-pressure-boss-michael-carrick",
+     "pub": "2026-10-24T09:00+00:00"
+    },
+    {
+     "medio": "Planet Football",
+     "titulo": "Planet Football Weekend Quiz: Ballon d’Or, Michael Carrick, Jose Mourinho & El Clasico",
+     "url": "https://www.planetfootball.com/quizzes/weekend-football-quiz-ballon-dor-michael-carrick-jose-mourinho-el-clasico",
+     "pub": "2026-10-24T08:22+00:00"
+    },
+    {
+     "medio": "Mirror",
+     "titulo": "Senne Lammens goes against the grain with Michael Carrick comments as Man Utd boss under pressure",
+     "url": "https://www.mirror.co.uk/sport/football/news/senne-lammens-man-utd-carrick-37806836",
+     "pub": "2026-10-24T14:03+00:00"
+    },
+    {
+     "medio": "Mirror",
+     "titulo": "Michael Carrick told Man Utd squad revolt 'wouldn't have happened' under Sir Alex Ferguson",
+     "url": "https://www.mirror.co.uk/sport/football/news/man-utd-michael-carrick-ferguson-37806796",
+     "pub": "2026-10-24T13:50+00:00"
+    },
+    {
+     "medio": "L'Equipe",
+     "titulo": "Michael Carrick pas inquiet : « Je sais ce que nous pouvons accomplir »",
+     "url": "https://www.lequipe.fr/Football/Video/Premier-league-michael-carrick-pas-inquiet-pour-la-suite-je-sais-ce-que-nous-pouvons-accomplir/20243970#at_medium=RSS_feeds",
+     "pub": "2026-10-24T11:38+00:00"
+    },
+    {
+     "medio": "BBC",
+     "titulo": "Man Utd not an unmanageable club - Carrick",
+     "url": "https://www.bbc.co.uk/sport/football/articles/c9ly0dxxgp7lo?at_medium=RSS&at_campaign=rss",
+     "pub": "2026-10-24T21:34+00:00"
+    },
+    {
+     "medio": "Guardian",
+     "titulo": "Carrick denies Manchester United are ‘unmanageable’, clásico buildup and more – matchday live",
+     "url": "https://www.theguardian.com/football/live/2026/oct/25/buildup-liverpool-brighton-manchester-united-bournemouth-matchday-live",
+     "pub": "2026-10-25T11:27+00:00"
+    },
+    {
+     "medio": "Daily Mail",
+     "titulo": "Michael Carrick reveals private chats with Sir Alex Ferguson and Ole Gunner Solskjaer as under-pressure Man United boss tells fans they will see a 'different team' against Bournemouth after Como capitulation",
+     "url": "https://www.dailymail.com/sport/football/article-16235507/michael-carrick-sir-alex-ferguson-ole-gunnar-solskjaer-manchester-united-bournemouth.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+     "pub": "2026-10-24T21:30+00:00"
+    },
+    {
+     "medio": "Mirror",
+     "titulo": "Michael Carrick in regular contact with Sir Alex Ferguson and sacked Man Utd boss",
+     "url": "https://www.mirror.co.uk/sport/football/news/man-utd-carrick-solskjaer-ferguson-37808011",
+     "pub": "2026-10-25T08:59+00:00"
+    },
+    {
+     "medio": "Mirror",
+     "titulo": "Are Man Utd unmanageable? Michael Carrick speaks as club face prospect of another sacking",
+     "url": "https://www.mirror.co.uk/sport/football/news/man-utd-managers-michael-carrick-37807977",
+     "pub": "2026-10-25T08:04+00:00"
+    },
+    {
+     "medio": "Mirror",
+     "titulo": "8 Man Utd players would face frosty reunion as Roy Keane tipped to replace Michael Carrick",
+     "url": "https://www.mirror.co.uk/sport/football/news/man-utd-roy-keane-carrick-37807227",
+     "pub": "2026-10-25T08:00+00:00"
+    },
+    {
+     "medio": "Mirror",
+     "titulo": "Michael Carrick faces make-or-break Bruno Fernandes decision after Cristiano Ronaldo comparison",
+     "url": "https://www.mirror.co.uk/sport/football/news/carrick-fernandes-man-utd-ronaldo-37807652",
+     "pub": "2026-10-25T07:00+00:00"
+    }
+   ]
+  },
+  {
    "tema": "Everton",
    "medios": 15,
    "lista_medios": [
@@ -771,6 +869,102 @@
      "titulo": "'It was comfortable' - Merse on Gunners' straightforward win over Everton",
      "url": "https://www.skysports.com/watch/video/13603258/arsenal-vs-everton-paul-merson-gives-his-view-on-arsenals-comfortable-win-over-evertonon",
      "pub": "2026-10-24T17:30+00:00"
+    }
+   ]
+  },
+  {
+   "tema": "Barcelona",
+   "medios": 15,
+   "lista_medios": [
+    "AS",
+    "Daily Mail",
+    "Football Italia",
+    "FourFourTwo",
+    "Google News AR",
+    "Google News ES",
+    "Guardian",
+    "Infobae",
+    "Mirror",
+    "Mundo Deportivo",
+    "Planet Football",
+    "Record",
+    "Sky Sports",
+    "Yahoo",
+    "ge.globo"
+   ],
+   "primera_vez": "2026-10-24T11:28+00:00",
+   "titulares": [
+    {
+     "medio": "Yahoo",
+     "titulo": "Barcelona team news: Flick prepares for El Clasico without Jules Kounde as youngsters train",
+     "url": "https://sports.yahoo.com/articles/barcelona-team-news-flick-prepares-104000189.html",
+     "pub": "2026-10-24T10:40+00:00"
+    },
+    {
+     "medio": "Yahoo",
+     "titulo": "Joao Cancelo opens up on Barcelona loyalty before El Clasico: ‘Even when Mourinho and Cristiano were there…’",
+     "url": "https://sports.yahoo.com/articles/joao-cancelo-opens-barcelona-loyalty-102900239.html",
+     "pub": "2026-10-24T10:29+00:00"
+    },
+    {
+     "medio": "Yahoo",
+     "titulo": "Cubarsi explains how Barcelona can Flick’s high defensive line work vs Real Madrid: ‘Press like animals’",
+     "url": "https://sports.yahoo.com/articles/cubarsi-explains-barcelona-flick-high-092000252.html",
+     "pub": "2026-10-24T09:20+00:00"
+    },
+    {
+     "medio": "Yahoo",
+     "titulo": "PSG – Barcelona breaks historic French record",
+     "url": "https://sports.yahoo.com/articles/psg-barcelona-breaks-historic-french-090000842.html",
+     "pub": "2026-10-24T09:00+00:00"
+    },
+    {
+     "medio": "AS",
+     "titulo": "Barcelona - Real Madrid, en directo: rueda de prensa de Mourinho y Flick, última hora del Clásico, en vivo",
+     "url": "https://as.com/futbol/primera/barcelona-real-madrid-en-directo-rueda-de-prensa-de-mourinho-y-flick-ultima-hora-del-clasico-de-liga-en-vivo-f202610-d/",
+     "pub": "2026-10-24T11:26+00:00"
+    },
+    {
+     "medio": "AS",
+     "titulo": "El RCDE Stadium, la casa del derbi de Barcelona",
+     "url": "https://as.com/futbol/primera/el-rcde-stadium-la-casa-del-derbi-de-barcelona-f202610-n/",
+     "pub": "2026-10-24T09:07+00:00"
+    },
+    {
+     "medio": "Mundo Deportivo",
+     "titulo": "Jordi Alba y Marcelo, hoy en la Fan Zone en Barcelona",
+     "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261024/1004242255/previa-clasico-fanzone.html",
+     "pub": ""
+    },
+    {
+     "medio": "Mundo Deportivo",
+     "titulo": "Rueda de prensa de Mourinho, en directo: previa y última hora del Barcelona - Real Madrid",
+     "url": "https://www.mundodeportivo.com/futbol/real-madrid/20261024/1004241694/rueda-prensa-mourinho-directo-previa-ultima-hora-barca-real-madrid.html",
+     "pub": ""
+    },
+    {
+     "medio": "Mundo Deportivo",
+     "titulo": "El dato que explica la distancia a la que está el Atlético de Barcelona y Real Madrid",
+     "url": "https://www.mundodeportivo.com/futbol/atletico-madrid/20261024/1004242340/dato-explica-distancia-atletico-barcelona-real-madrid.html",
+     "pub": ""
+    },
+    {
+     "medio": "Mundo Deportivo",
+     "titulo": "Jugar ante el Barcelona, la pesadilla del banquillo del Real Madrid",
+     "url": "https://www.mundodeportivo.com/futbol/real-madrid/20261024/1004242332/jugar-barcelona-pesadilla-banquillo-real-madrid.html",
+     "pub": ""
+    },
+    {
+     "medio": "Google News ES",
+     "titulo": "¿Quién es Juan Martínez Munuera? Árbitro del Clásico entre el FC Barcelona y el Real Madrid de la jornada 10 de LALIGA",
+     "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNT05adHNBWEJHTWlSZ2dQNDZiQ2hUakE1VkRtTmRZY3piX2VXOHB6UThtVFU0bVVsakJuOXpyLXlzekFYNUZROE1jQld2dV94ME9NeTFXVThidTJoNGFqbXRRMXhJQThHUHY1cFcxRHZCQ2dHdXZhRGl6akdKZFZxbk1aaS13Y1J6M3lxT0xjQmhBaWJNTS1Sam5HWDZRNlBSLVhtcnk5UmdXNDdTX1lTOWxMamNBWEJyOEluSGhpSTh1RUY1V3IxVEVyTU1YdjBJbGlhV2tGQ09sQ21ZeXk4Nzk3d2tJdDZHUnA0YlpB?oc=5",
+     "pub": "2026-10-24T10:07+00:00"
+    },
+    {
+     "medio": "Planet Football",
+     "titulo": "The only 7 still unbeaten teams across Europe’s major leagues in 2026-27: Barcelona, Bayern, Inter…",
+     "url": "https://www.planetfootball.com/lists-and-rankings/unbeaten-teams-2026-27-remaining-europe",
+     "pub": "2026-10-24T14:17+00:00"
     }
    ]
   },
@@ -892,12 +1086,6 @@
    "primera_vez": "2026-10-24T11:28+00:00",
    "titulares": [
     {
-     "medio": "BBC",
-     "titulo": "Why Tottenham v Arsenal could define their seasons - live on BBC One",
-     "url": "https://www.bbc.co.uk/sport/football/articles/ck240l3n774zo?at_medium=RSS&at_campaign=rss",
-     "pub": "2026-10-24T06:02+00:00"
-    },
-    {
      "medio": "Sky Sports",
      "titulo": "WSL: Tottenham vs Arsenal LIVE!",
      "url": "https://www.skysports.com/football/tottenham-hotspur-women-vs-arsenal-women/live/575803",
@@ -946,12 +1134,6 @@
      "pub": "2026-10-24T09:00+00:00"
     },
     {
-     "medio": "Google News EN",
-     "titulo": "Tottenham vs Arsenal: Why north London derby could define seasons",
-     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBrdmxFZjBUQ01CZlh1bEpCX0NybXI2LVJqREZVbXBzdVA2RTA3Q01WRkdfZnZ0QzBONC1mMlBvWEk1Wkx2NEZfZVlwTXdlQVQzZlhfVFk5OUt2WFMtLWRZUXd4Q1UzNXV4N0c4?oc=5",
-     "pub": "2026-10-24T06:02+00:00"
-    },
-    {
      "medio": "Google News ES",
      "titulo": "Arsenal vs Everton: horario y dónde ver hoy por TV y online el partido de la Premier League 2026/27 a través de DAZN",
      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPN0FrcWI5bmlmeUVaQUxHUENhWkdFV3ExWFMyWmxxQzZQWTRMTUExSmFEdmNpN3doc2NKYVJyR3otZ25rTWRPNkctX2kwcDU4dGpBTGotU1hQQjhiVm8tS1F1LTlIRjFFVTNZdFBNZEh6UkJHTk1rUF9aY0w5Z2lzd0t0V1l3ZHZES1dTZVAxUEROWkcwZVY2WDJpQURCd2xkSGpoOFZiV2tOODU0WUczZjlfT1BPYXhfaGlYcUlUWVA5d0pVVGdaMlpSR1VCZDRGUEpVZ0pXcjJGZ2FYZDYzUE1MbXRwczYwZXNOUWF3?oc=5",
@@ -962,6 +1144,18 @@
      "titulo": "Arsenal fight back to beat Tottenham and ease pressure on Slegers",
      "url": "https://www.bbc.co.uk/sport/football/videos/cmy0r7epegd4o?at_medium=RSS&at_campaign=rss",
      "pub": "2026-10-24T14:20+00:00"
+    },
+    {
+     "medio": "Guardian",
+     "titulo": "Arsenal v Everton, Coventry v Fulham, EFL, and more – football clockwatch live",
+     "url": "https://www.theguardian.com/football/live/2026/oct/24/tottenham-arsenal-wsl-premier-league-efl-football-clockwatch-live",
+     "pub": "2026-10-24T14:32+00:00"
+    },
+    {
+     "medio": "Guardian",
+     "titulo": "Relief for Slegers as Russo rescues Arsenal against Tottenham in WSL",
+     "url": "https://www.theguardian.com/football/2026/oct/24/tottenham-arsenal-wsl-match-report",
+     "pub": "2026-10-24T13:59+00:00"
     }
    ]
   },
@@ -1155,17 +1349,17 @@
    ]
   },
   {
-   "tema": "Carrick",
+   "tema": "Manchester",
    "medios": 12,
    "lista_medios": [
-    "BBC",
     "Daily Mail",
+    "Foot Mercato",
+    "FourFourTwo",
     "Google News EN",
     "Guardian",
+    "Infobae",
     "L'Equipe",
-    "Mirror",
     "Mundo Deportivo",
-    "Planet Football",
     "Record",
     "Sky Sports",
     "Yahoo",
@@ -1174,76 +1368,169 @@
    "primera_vez": "2026-10-24T11:28+00:00",
    "titulares": [
     {
-     "medio": "BBC",
-     "titulo": "Latte Lath's journey from street games and Carrick to new start in Germany",
-     "url": "https://www.bbc.co.uk/sport/football/articles/cqrkyl1gp4leo?at_medium=RSS&at_campaign=rss",
-     "pub": "2026-10-24T07:51+00:00"
-    },
-    {
-     "medio": "Sky Sports",
-     "titulo": "Lammens: We're united and behind Carrick",
-     "url": "https://www.skysports.com/football/news/12040/13602864/senne-lammens-manchester-united-players-are-united-and-behind-under-pressure-boss-michael-carrick",
-     "pub": "2026-10-24T09:00+00:00"
-    },
-    {
-     "medio": "Planet Football",
-     "titulo": "Planet Football Weekend Quiz: Ballon d’Or, Michael Carrick, Jose Mourinho & El Clasico",
-     "url": "https://www.planetfootball.com/quizzes/weekend-football-quiz-ballon-dor-michael-carrick-jose-mourinho-el-clasico",
-     "pub": "2026-10-24T08:22+00:00"
-    },
-    {
-     "medio": "Mirror",
-     "titulo": "Senne Lammens goes against the grain with Michael Carrick comments as Man Utd boss under pressure",
-     "url": "https://www.mirror.co.uk/sport/football/news/senne-lammens-man-utd-carrick-37806836",
-     "pub": "2026-10-24T14:03+00:00"
-    },
-    {
-     "medio": "Mirror",
-     "titulo": "Michael Carrick told Man Utd squad revolt 'wouldn't have happened' under Sir Alex Ferguson",
-     "url": "https://www.mirror.co.uk/sport/football/news/man-utd-michael-carrick-ferguson-37806796",
-     "pub": "2026-10-24T13:50+00:00"
-    },
-    {
-     "medio": "L'Equipe",
-     "titulo": "Michael Carrick pas inquiet : « Je sais ce que nous pouvons accomplir »",
-     "url": "https://www.lequipe.fr/Football/Video/Premier-league-michael-carrick-pas-inquiet-pour-la-suite-je-sais-ce-que-nous-pouvons-accomplir/20243970#at_medium=RSS_feeds",
-     "pub": "2026-10-24T11:38+00:00"
-    },
-    {
-     "medio": "BBC",
-     "titulo": "Man Utd not an unmanageable club - Carrick",
-     "url": "https://www.bbc.co.uk/sport/football/articles/c9ly0dxxgp7lo?at_medium=RSS&at_campaign=rss",
-     "pub": "2026-10-24T21:34+00:00"
-    },
-    {
      "medio": "Guardian",
-     "titulo": "Carrick denies Manchester United are ‘unmanageable’, clásico buildup and more – matchday live",
-     "url": "https://www.theguardian.com/football/live/2026/oct/25/buildup-liverpool-brighton-manchester-united-bournemouth-matchday-live",
-     "pub": "2026-10-25T11:27+00:00"
+     "titulo": "Aston Villa v Manchester City: Premier League – live",
+     "url": "https://www.theguardian.com/football/live/2026/oct/24/aston-villa-v-manchester-city-premier-league-live",
+     "pub": "2026-10-24T11:10+00:00"
     },
     {
      "medio": "Daily Mail",
-     "titulo": "Michael Carrick reveals private chats with Sir Alex Ferguson and Ole Gunner Solskjaer as under-pressure Man United boss tells fans they will see a 'different team' against Bournemouth after Como capitulation",
-     "url": "https://www.dailymail.com/sport/football/article-16235507/michael-carrick-sir-alex-ferguson-ole-gunnar-solskjaer-manchester-united-bournemouth.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-     "pub": "2026-10-24T21:30+00:00"
+     "titulo": "Aston Villa vs Manchester City - Premier League: Enzo Maresca's side look to maintain 100 per cent record as Erling Haaland shakes off injury concern to START for leaders",
+     "url": "https://www.dailymail.com/sport/football/article-16229467/aston-villa-man-city-premier-league-live.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+     "pub": "2026-10-24T11:22+00:00"
+    },
+    {
+     "medio": "Yahoo",
+     "titulo": "Manchester City vs Aston Villa: Starting lineups revealed as Enzo Maresca makes his big calls",
+     "url": "https://sports.yahoo.com/articles/manchester-city-vs-aston-villa-102000134.html",
+     "pub": "2026-10-24T10:20+00:00"
+    },
+    {
+     "medio": "Google News EN",
+     "titulo": "Manchester United: Senne Lammens reflects Como defeat and team's form",
+     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOVEU0bTZiMTBLQkN1QzNtbnlJaklLZENtYzQ4Mnl2XzBPMm10VXR2NWJBVEhQMmhkQUlMdTlhQmpDc3dsT0FBTHduVGNqOU02eG5kWDdqWERvcFdocXcxOEVDcG1jaDZqN0lSdFludjZhRE5Od0dCUm9oWE5IY0F5RGhkcGYyUEF4VEtHNnprcTJ5emk2aVg2YzV1X3NLYUExUW9QMFJ2N01faF9XLTIyZXV2V01zRXM0?oc=5",
+     "pub": "2026-10-24T11:01+00:00"
+    },
+    {
+     "medio": "Mundo Deportivo",
+     "titulo": "Aston Villa - Manchester City, en directo | Premier League",
+     "url": "https://www.mundodeportivo.com/futbol/premier-league/20261024/1004240630/aston-villa-manchester-city-directo-premier-league.html",
+     "pub": ""
+    },
+    {
+     "medio": "Guardian",
+     "titulo": "Aston Villa and Jackson end Manchester City’s perfect run with stunning win",
+     "url": "https://www.theguardian.com/football/2026/oct/24/aston-villa-manchester-city-premier-league-match-report",
+     "pub": "2026-10-24T13:33+00:00"
+    },
+    {
+     "medio": "Yahoo",
+     "titulo": "Manchester City player ratings: Who failed to deliver in 2-1 defeat to Aston Villa?",
+     "url": "https://sports.yahoo.com/articles/manchester-city-player-ratings-failed-135400155.html",
+     "pub": "2026-10-24T13:54+00:00"
+    },
+    {
+     "medio": "Yahoo",
+     "titulo": "Khusanov Gets 8, Donnarumma With 5 | Manchester City Players Rated In Lackluster Loss Vs Aston Villa",
+     "url": "https://sports.yahoo.com/articles/khusanov-gets-8-donnarumma-5-135000404.html",
+     "pub": "2026-10-24T13:50+00:00"
+    },
+    {
+     "medio": "Yahoo",
+     "titulo": "Manchester City 1 Aston Villa 2 : A common issue resurfaces for City at Villa Park",
+     "url": "https://sports.yahoo.com/articles/manchester-city-1-aston-villa-134000929.html",
+     "pub": "2026-10-24T13:40+00:00"
+    },
+    {
+     "medio": "Yahoo",
+     "titulo": "Jackson Gets 8.5, Suzuki With 7.5 | Aston Villa Players Rated In Hard-Fought Victory Vs Manchester City",
+     "url": "https://sports.yahoo.com/articles/jackson-gets-8-5-suzuki-134000769.html",
+     "pub": "2026-10-24T13:40+00:00"
+    },
+    {
+     "medio": "Yahoo",
+     "titulo": "🚨 Manchester City's first defeat of the season, Jackson scores twice !",
+     "url": "https://sports.yahoo.com/articles/manchester-citys-first-defeat-season-132400023.html",
+     "pub": "2026-10-24T13:24+00:00"
+    },
+    {
+     "medio": "Google News EN",
+     "titulo": "My Moments: Elisabeth Terland on Wembley, family and feeling at home in Manchester",
+     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPNHRuMUlmR2M3QkVDWDhmX0ZXalZwcTVxYzhxQ3NnOEpDMzJtQ09MOEMwLWZIdmZfaV95ZFRCVkp5MU5fSzc1WmEtZ2N6VGd2ZE5Oc1Z1YXE1bXpkUVh4OFZkbHYyUkFmbFdPdUlrOHp6TzBPeURYaWNfTzhONXZzNmVsbXJQaU9KT3RJSHJTdWYzbU0?oc=5",
+     "pub": "2026-10-24T13:22+00:00"
+    }
+   ]
+  },
+  {
+   "tema": "Man",
+   "medios": 12,
+   "lista_medios": [
+    "BBC",
+    "Daily Mail",
+    "Foot Mercato",
+    "FourFourTwo",
+    "Google News EN",
+    "Mirror",
+    "Planet Football",
+    "Record",
+    "Sky Sports",
+    "Telegraph",
+    "Yahoo",
+    "talkSPORT"
+   ],
+   "primera_vez": "2026-10-24T11:28+00:00",
+   "titulares": [
+    {
+     "medio": "Sky Sports",
+     "titulo": "Villa vs Man City: Can Premier League leaders maintain winning start? LIVE!",
+     "url": "https://www.skysports.com/football/aston-villa-vs-manchester-city/live/559515",
+     "pub": "2026-10-24T11:00+00:00"
+    },
+    {
+     "medio": "talkSPORT",
+     "titulo": "Jadon Sancho offered contract by Spanish club with 96 per cent wage cut from Man United deal",
+     "url": "https://talksport.com/football/4664585/jadon-sancho-contract-salary-wage-cut-getafe-transfer/",
+     "pub": "2026-10-24T08:32+00:00"
+    },
+    {
+     "medio": "talkSPORT",
+     "titulo": "Aston Villa vs Man City Super Boost: NOW 7/4 City to win and Haaland to score with talkSPORT BET",
+     "url": "https://talksport.com/football/4661059/aston-villa-man-city-super-boost-haaland-talksport-bet/",
+     "pub": "2026-10-24T08:00+00:00"
+    },
+    {
+     "medio": "Daily Mail",
+     "titulo": "Bayern Munich insiders were worried about 'workaholic' Vincent Kompany weeks before Man City legend's training ground collapse, new report claims - as German giants confirm boss will be out for 'weeks'",
+     "url": "https://www.dailymail.com/sport/football/article-16235131/vincent-kompany-bayern-munich-collapse.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+     "pub": "2026-10-24T10:35+00:00"
+    },
+    {
+     "medio": "Daily Mail",
+     "titulo": "Tyrell Malacia reveals brutal reality of life in Ruben Amorim's bomb squad as Man United flop claims former boss gave him NO explanation for his exile",
+     "url": "https://www.dailymail.com/sport/football/article-16235071/tyrell-malacia-manchester-united-exile.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+     "pub": "2026-10-24T07:55+00:00"
     },
     {
      "medio": "Mirror",
-     "titulo": "Michael Carrick in regular contact with Sir Alex Ferguson and sacked Man Utd boss",
-     "url": "https://www.mirror.co.uk/sport/football/news/man-utd-carrick-solskjaer-ferguson-37808011",
-     "pub": "2026-10-25T08:59+00:00"
+     "titulo": "Former Man Utd chief who Sir Jim Ratcliffe axed lands new job with EFL club",
+     "url": "https://www.mirror.co.uk/sport/football/news/manchester-united-john-murtough-birmingham-37806377",
+     "pub": "2026-10-24T11:07+00:00"
     },
     {
      "medio": "Mirror",
-     "titulo": "Are Man Utd unmanageable? Michael Carrick speaks as club face prospect of another sacking",
-     "url": "https://www.mirror.co.uk/sport/football/news/man-utd-managers-michael-carrick-37807977",
-     "pub": "2026-10-25T08:04+00:00"
+     "titulo": "Man City charges LIVE: Premier League face 'worst case scenario' after 'surprise' decision claim",
+     "url": "https://www.mirror.co.uk/sport/football/news/man-city-premier-league-live-37806060",
+     "pub": "2026-10-24T11:00+00:00"
     },
     {
      "medio": "Mirror",
-     "titulo": "8 Man Utd players would face frosty reunion as Roy Keane tipped to replace Michael Carrick",
-     "url": "https://www.mirror.co.uk/sport/football/news/man-utd-roy-keane-carrick-37807227",
-     "pub": "2026-10-25T08:00+00:00"
+     "titulo": "Gary Lineker warns Cesc Fabregas off 'graveyard' Man Utd - 'He'd be mad'",
+     "url": "https://www.mirror.co.uk/sport/football/news/gary-lineker-warns-cesc-fabregas-37806189",
+     "pub": "2026-10-24T09:09+00:00"
+    },
+    {
+     "medio": "Planet Football",
+     "titulo": "Can you name every player to play for both Aston Villa and Man City since 1992?",
+     "url": "https://www.planetfootball.com/quizzes/aston-villa-man-city-played-both-clubs-since-1992",
+     "pub": "2026-10-24T08:40+00:00"
+    },
+    {
+     "medio": "FourFourTwo",
+     "titulo": "Watch Aston Villa vs Man City: FREE streams and TV channels",
+     "url": "https://www.fourfourtwo.com/competition/watch-aston-villa-vs-man-city-free-stream-premier-league-2026-27",
+     "pub": "2026-10-24T09:00+00:00"
+    },
+    {
+     "medio": "Yahoo",
+     "titulo": "Premier League: Haaland returns as Man City visit Aston Villa in first of four games",
+     "url": "https://sports.yahoo.com/articles/premier-league-aston-villa-host-101900572.html",
+     "pub": "2026-10-24T10:35+00:00"
+    },
+    {
+     "medio": "Yahoo",
+     "titulo": "Aston Villa and Man City kick off Saturday's PL action",
+     "url": "https://sports.yahoo.com/articles/aston-villa-man-city-kick-101100002.html",
+     "pub": "2026-10-24T10:11+00:00"
     }
    ]
   },
@@ -1252,10 +1539,10 @@
    "medios": 12,
    "lista_medios": [
     "AS",
+    "Daily Mail",
     "Foot Mercato",
     "Google News EN",
     "Google News ES",
-    "Guardian",
     "Kicker",
     "L'Equipe",
     "Mundo Deportivo",
@@ -1266,12 +1553,6 @@
    ],
    "primera_vez": "2026-10-24T11:28+00:00",
    "titulares": [
-    {
-     "medio": "Guardian",
-     "titulo": "Older, calmer, but still playing the hits: Mourinho and Madrid primed for clásico",
-     "url": "https://www.theguardian.com/football/2026/oct/24/la-liga-clasico-barcelona-real-madrid-jose-mourinho",
-     "pub": "2026-10-24T07:00+00:00"
-    },
     {
      "medio": "Planet Football",
      "titulo": "Planet Football Weekend Quiz: Ballon d’Or, Michael Carrick, Jose Mourinho & El Clasico",
@@ -1295,12 +1576,6 @@
      "titulo": "Barcelona - Real Madrid, en directo: rueda de prensa de Mourinho y Flick, última hora del Clásico, en vivo",
      "url": "https://as.com/futbol/primera/barcelona-real-madrid-en-directo-rueda-de-prensa-de-mourinho-y-flick-ultima-hora-del-clasico-de-liga-en-vivo-f202610-d/",
      "pub": "2026-10-24T11:26+00:00"
-    },
-    {
-     "medio": "AS",
-     "titulo": "Diomande da la razón a Mourinho",
-     "url": "https://as.com/futbol/primera/diomade-da-la-razon-a-mourinho-f202610-n/",
-     "pub": "2026-10-24T06:14+00:00"
     },
     {
      "medio": "Mundo Deportivo",
@@ -1337,6 +1612,111 @@
      "titulo": "Avant le Clasico, Mourinho trouve « injuste » de comparer le Real Madrid au Barça « qui a le même entraîneur depuis deux ans »",
      "url": "https://www.lequipe.fr/Football/Actualites/Avant-le-clasico-mourinho-trouve-injuste-de-comparer-le-real-madrid-au-barca-qui-a-le-meme-entraineur-depuis-deux-ans/1738270#at_medium=RSS_feeds",
      "pub": "2026-10-24T10:30+00:00"
+    },
+    {
+     "medio": "Foot Mercato",
+     "titulo": "Real Madrid : José Mourinho n’a aucun plan anti-Lamine Yamal pour le Clásico",
+     "url": "https://www.footmercato.net/a1457278597261278524-real-madrid-jose-mourinho-na-aucun-plan-anti-lamine-yamal-pour-le-clasico",
+     "pub": "2026-10-24T10:26+00:00"
+    },
+    {
+     "medio": "Foot Mercato",
+     "titulo": "Real Madrid : José Mourinho dévoile pourquoi il se laisse pousser la barbe",
+     "url": "https://www.footmercato.net/a631468785141612196-real-madrid-jose-mourinho-devoile-pourquoi-il-se-laisse-pousser-la-barbe",
+     "pub": "2026-10-24T09:58+00:00"
+    }
+   ]
+  },
+  {
+   "tema": "Clásico",
+   "medios": 12,
+   "lista_medios": [
+    "AS",
+    "Foot Mercato",
+    "Google News AR",
+    "Google News EN",
+    "Google News ES",
+    "Guardian",
+    "Infobae",
+    "Mundo Deportivo",
+    "Ole",
+    "Record",
+    "Yahoo",
+    "ge.globo"
+   ],
+   "primera_vez": "2026-10-24T11:28+00:00",
+   "titulares": [
+    {
+     "medio": "Yahoo",
+     "titulo": "🚨Martínez Munuera to referee the Clásico with Iglesias Villanueva on VAR",
+     "url": "https://sports.yahoo.com/articles/mart-nez-munuera-referee-cl-101200255.html",
+     "pub": "2026-10-24T10:12+00:00"
+    },
+    {
+     "medio": "AS",
+     "titulo": "Martínez Munuera, el árbitro elegido para pitar el Clásico",
+     "url": "https://as.com/futbol/primera/martinez-munuera-el-arbitro-elegido-para-pitar-el-clasico-f202610-n/",
+     "pub": "2026-10-24T10:01+00:00"
+    },
+    {
+     "medio": "AS",
+     "titulo": "Barcelona - Real Madrid, en directo: rueda de prensa de Mourinho y Flick, última hora del Clásico, en vivo",
+     "url": "https://as.com/futbol/primera/barcelona-real-madrid-en-directo-rueda-de-prensa-de-mourinho-y-flick-ultima-hora-del-clasico-de-liga-en-vivo-f202610-d/",
+     "pub": "2026-10-24T11:26+00:00"
+    },
+    {
+     "medio": "AS",
+     "titulo": "Las confesiones del Clásico: “Me encantaba ganar en el Bernabéu, ir y ver según qué caras”",
+     "url": "https://as.com/futbol/primera/las-confesiones-del-clasico-me-encantaba-ganar-en-el-bernabeu-ir-y-ver-segun-que-caras-f202610-n/",
+     "pub": "2026-10-24T09:55+00:00"
+    },
+    {
+     "medio": "Mundo Deportivo",
+     "titulo": "El Real Madrid acaba de preparar el Clásico",
+     "url": "https://www.mundodeportivo.com/futbol/real-madrid/20261024/1004242574/real-madrid-acaba-preparar-clasico.html",
+     "pub": ""
+    },
+    {
+     "medio": "Mundo Deportivo",
+     "titulo": "Fermín y Gavi dan las claves del Clásico",
+     "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261024/1004242607/fermin-gavi-dan-claves-clasico.html",
+     "pub": ""
+    },
+    {
+     "medio": "Mundo Deportivo",
+     "titulo": "Martínez Munuera, árbitro confirmado para el Clásico con balance favorable al Madrid",
+     "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261024/1004242594/martinez-munuera-arbitro-confirmado-clasico.html",
+     "pub": ""
+    },
+    {
+     "medio": "Mundo Deportivo",
+     "titulo": "Flick ultima el Clásico sin Koundé y tira de juventud",
+     "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261024/1004242542/flick-tira-juventud-kounde-sigue-margen-ultimar-clasico.html",
+     "pub": ""
+    },
+    {
+     "medio": "Mundo Deportivo",
+     "titulo": "Nueve jugadores del Barça ya saben lo que es marcar en un Clásico",
+     "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261024/1004241763/nueve-jugadores-barca-han-marcado-clasico.html",
+     "pub": ""
+    },
+    {
+     "medio": "Mundo Deportivo",
+     "titulo": "\"¿El Clásico, la prueba del algodón del equipo? No, el Madrid con Mourinho gana títulos\"",
+     "url": "https://www.mundodeportivo.com/futbol/real-madrid/20261024/1004242556/clasico-prueba-algodon-equipo-no-madrid-mourinho-gana-titulos.html",
+     "pub": ""
+    },
+    {
+     "medio": "Mundo Deportivo",
+     "titulo": "La rueda de prensa de Hansi Flick previa al Clásico, en streaming",
+     "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261024/1004242199/rueda-prensa-hansi-flick-previa-clasico-streaming.html",
+     "pub": ""
+    },
+    {
+     "medio": "Google News ES",
+     "titulo": "¿Quién es Juan Martínez Munuera? Árbitro del Clásico entre el FC Barcelona y el Real Madrid de la jornada 10 de LALIGA",
+     "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNT05adHNBWEJHTWlSZ2dQNDZiQ2hUakE1VkRtTmRZY3piX2VXOHB6UThtVFU0bVVsakJuOXpyLXlzekFYNUZROE1jQld2dV94ME9NeTFXVThidTJoNGFqbXRRMXhJQThHUHY1cFcxRHZCQ2dHdXZhRGl6akdKZFZxbk1aaS13Y1J6M3lxT0xjQmhBaWJNTS1Sam5HWDZRNlBSLVhtcnk5UmdXNDdTX1lTOWxMamNBWEJyOEluSGhpSTh1RUY1V3IxVEVyTU1YdjBJbGlhV2tGQ09sQ21ZeXk4Nzk3d2tJdDZHUnA0YlpB?oc=5",
+     "pub": "2026-10-24T10:07+00:00"
     }
    ]
   },
@@ -1434,370 +1814,279 @@
    ]
   },
   {
-   "tema": "Man",
-   "medios": 11,
+   "tema": "Palace",
+   "medios": 12,
    "lista_medios": [
     "BBC",
     "Daily Mail",
     "Foot Mercato",
     "FourFourTwo",
+    "Google News AR",
     "Google News EN",
+    "Guardian",
+    "L'Equipe",
+    "Mundo Deportivo",
+    "Sky Sports",
+    "Yahoo",
+    "talkSPORT"
+   ],
+   "primera_vez": "2026-10-24T14:49+00:00",
+   "titulares": [
+    {
+     "medio": "Google News AR",
+     "titulo": "Crystal Palace vs. Newcastle United, EN VIVO: dónde ver por TV y ONLINE",
+     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOWGhyeE13ZmIwV1ZreDZxUWxqVjZXY2VXR1AyQ0VFOThHT2QxajUySm1wY1JCSVljTXByM2hZb2J6UFh6di1iQzF1SUMzSWxwQnBmWjctUDdURERQRTRmRTdNWWhDbmhsNVRsUDExX1FCQlpGNWMzLVJwQkVpMF85ejVseURLTUFxbGtSUFhXVHJnVWhXWElQRDZGWFU1eThVMkpGeld5OVJFa2RHMFlSUlpFMy11TWl1OTllMzRfd3M?oc=5",
+     "pub": "2026-10-24T14:00+00:00"
+    },
+    {
+     "medio": "Sky Sports",
+     "titulo": "WSL: Crystal Palace vs Chelsea LIVE!",
+     "url": "https://www.skysports.com/football/crystal-palace-women-vs-chelsea-women/live/575799",
+     "pub": "2026-10-25T11:45+00:00"
+    },
+    {
+     "medio": "FourFourTwo",
+     "titulo": "Watch Crystal Palace vs Newcastle United: FREE streams",
+     "url": "https://www.fourfourtwo.com/competition/watch-crystal-palace-vs-newcastle-united-premier-league-2026-27-free",
+     "pub": "2026-10-25T11:30+00:00"
+    },
+    {
+     "medio": "Yahoo",
+     "titulo": "WSL: Crystal Palace host Chelsea in first of five games",
+     "url": "https://sports.yahoo.com/articles/wsl-crystal-palace-host-chelsea-111202379.html",
+     "pub": "2026-10-25T11:39+00:00"
+    },
+    {
+     "medio": "Google News EN",
+     "titulo": "Crystal Palace - Newcastle",
+     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQNGlraGJaaG1nQ3NlZGU0cXRwamN5aW04RWJPb0xPbm1reVBzUERFbTFoVnhtUHhhN2lPYTJScEI2alEySnZnY2dkVVpURjAxNmVSWTBVaTd0Mk5hREhYbDB2QUcxSXo2TlJ6TkJQQURTVXZzSHlxVzRXU0RlV0xMZ3RaOGlPbGc5Qm50V2NnbTA0c2M?oc=5",
+     "pub": "2026-10-25T07:49+00:00"
+    },
+    {
+     "medio": "Guardian",
+     "titulo": "Osula and Barnes’ second-half burst sees Newcastle pile pressure on lacklustre Palace",
+     "url": "https://www.theguardian.com/football/2026/oct/25/crystal-palace-newcastle-premier-league-match-report",
+     "pub": "2026-10-25T16:29+00:00"
+    },
+    {
+     "medio": "Sky Sports",
+     "titulo": "Osula and Barnes on target as Newcastle beat sorry Palace",
+     "url": "https://www.skysports.com/watch/video/13603655/crystal-palace-0-2-newcastle-united-premier-league-highlights",
+     "pub": "2026-10-25T16:17+00:00"
+    },
+    {
+     "medio": "Sky Sports",
+     "titulo": "Malard and Baltimore inspire Chelsea in comeback win over Palace",
+     "url": "https://www.skysports.com/football/crystal-palace-women-vs-chelsea-women/report/575799",
+     "pub": "2026-10-25T14:00+00:00"
+    },
+    {
+     "medio": "Daily Mail",
+     "titulo": "Pierre Sage's days at Crystal Palace feel numbered as clinical Newcastle triumph 2-0 to ease pressure on Matthias Jaissle, writes BOBBI MANZI",
+     "url": "https://www.dailymail.com/sport/football/article-16229515/Clinical-Newcastle-victory-Crystal-Palace-relieves-pressure-Matthias-Jaissle-Pierre-Sages-days-numbered.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+     "pub": "2026-10-25T16:39+00:00"
+    },
+    {
+     "medio": "Yahoo",
+     "titulo": "Hornicek Gets 8, Burn With 7.5 | Newcastle United Players Rated In Impressive Win Vs Crystal Palace",
+     "url": "https://sports.yahoo.com/articles/hornicek-gets-8-burn-7-163000484.html",
+     "pub": "2026-10-25T16:30+00:00"
+    },
+    {
+     "medio": "Google News EN",
+     "titulo": "Crystal Palace 0-2 Newcastle United | Premier League highlights",
+     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPNk1ZaVc5eHRZUlIyZmJLSTFoUHBPN1VaOUxLci1qa2VjS1M3QkVQQlUtZkV2UVIxbnNIb3Z3MjlLZi1jTkxyQmtCSkZ2Rno1ckl0UFlMOGZ3ZGI0OFZnR1VBcy1GRlYyMy12TTN0Zm1yU2lfQUUtcWlIamdkRm5MaVhjTDYtaGZZTi0zaE9Mc3RWUk5DckhTMTRsSmM5dFpkd2Fob3RvQkI4bFhoZzlQNg?oc=5",
+     "pub": "2026-10-25T16:19+00:00"
+    },
+    {
+     "medio": "Mundo Deportivo",
+     "titulo": "0-2: El Newcastle despierta tras el descanso para imponerse al Crystal Palace",
+     "url": "https://www.mundodeportivo.com/futbol/premier-league/20261025/1004243033/newcastle-despierta-descanso-imponerse-crystal-palace.html",
+     "pub": ""
+    }
+   ]
+  },
+  {
+   "tema": "Michael",
+   "medios": 11,
+   "lista_medios": [
+    "Daily Mail",
+    "Foot Mercato",
+    "FourFourTwo",
+    "Google News EN",
+    "Guardian",
+    "Infobae",
+    "L'Equipe",
     "Mirror",
     "Planet Football",
-    "Record",
-    "Sky Sports",
     "Yahoo",
     "talkSPORT"
    ],
    "primera_vez": "2026-10-24T11:28+00:00",
    "titulares": [
     {
-     "medio": "Sky Sports",
-     "titulo": "Villa vs Man City: Can Premier League leaders maintain winning start? LIVE!",
-     "url": "https://www.skysports.com/football/aston-villa-vs-manchester-city/live/559515",
-     "pub": "2026-10-24T11:00+00:00"
-    },
-    {
-     "medio": "talkSPORT",
-     "titulo": "Jadon Sancho offered contract by Spanish club with 96 per cent wage cut from Man United deal",
-     "url": "https://talksport.com/football/4664585/jadon-sancho-contract-salary-wage-cut-getafe-transfer/",
-     "pub": "2026-10-24T08:32+00:00"
-    },
-    {
-     "medio": "talkSPORT",
-     "titulo": "Aston Villa vs Man City Super Boost: NOW 7/4 City to win and Haaland to score with talkSPORT BET",
-     "url": "https://talksport.com/football/4661059/aston-villa-man-city-super-boost-haaland-talksport-bet/",
-     "pub": "2026-10-24T08:00+00:00"
-    },
-    {
-     "medio": "Daily Mail",
-     "titulo": "Bayern Munich insiders were worried about 'workaholic' Vincent Kompany weeks before Man City legend's training ground collapse, new report claims - as German giants confirm boss will be out for 'weeks'",
-     "url": "https://www.dailymail.com/sport/football/article-16235131/vincent-kompany-bayern-munich-collapse.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-     "pub": "2026-10-24T10:35+00:00"
-    },
-    {
-     "medio": "Daily Mail",
-     "titulo": "Tyrell Malacia reveals brutal reality of life in Ruben Amorim's bomb squad as Man United flop claims former boss gave him NO explanation for his exile",
-     "url": "https://www.dailymail.com/sport/football/article-16235071/tyrell-malacia-manchester-united-exile.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-     "pub": "2026-10-24T07:55+00:00"
-    },
-    {
-     "medio": "Daily Mail",
-     "titulo": "How Erling Haaland's dad has masterminded the Man City's star meteoric rise: Alf-Inge Haaland has reinvented himself after Roy Keane feud - but wanted his son to pursue GOLF before plotting his football career",
-     "url": "https://www.dailymail.com/sport/football/article-16205769/How-Erling-Haalands-dad-reinvented-image-superstar-son-Remembered-Roy-Keane-feud-known-spearheading-Erlings-incredible-rise.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-     "pub": "2026-10-24T07:47+00:00"
-    },
-    {
-     "medio": "Mirror",
-     "titulo": "Former Man Utd chief who Sir Jim Ratcliffe axed lands new job with EFL club",
-     "url": "https://www.mirror.co.uk/sport/football/news/manchester-united-john-murtough-birmingham-37806377",
-     "pub": "2026-10-24T11:07+00:00"
-    },
-    {
-     "medio": "Mirror",
-     "titulo": "Man City charges LIVE: Premier League face 'worst case scenario' after 'surprise' decision claim",
-     "url": "https://www.mirror.co.uk/sport/football/news/man-city-premier-league-live-37806060",
-     "pub": "2026-10-24T11:00+00:00"
-    },
-    {
-     "medio": "Mirror",
-     "titulo": "Gary Lineker warns Cesc Fabregas off 'graveyard' Man Utd - 'He'd be mad'",
-     "url": "https://www.mirror.co.uk/sport/football/news/gary-lineker-warns-cesc-fabregas-37806189",
-     "pub": "2026-10-24T09:09+00:00"
-    },
-    {
      "medio": "Planet Football",
-     "titulo": "Can you name every player to play for both Aston Villa and Man City since 1992?",
-     "url": "https://www.planetfootball.com/quizzes/aston-villa-man-city-played-both-clubs-since-1992",
-     "pub": "2026-10-24T08:40+00:00"
+     "titulo": "Planet Football Weekend Quiz: Ballon d’Or, Michael Carrick, Jose Mourinho & El Clasico",
+     "url": "https://www.planetfootball.com/quizzes/weekend-football-quiz-ballon-dor-michael-carrick-jose-mourinho-el-clasico",
+     "pub": "2026-10-24T08:22+00:00"
+    },
+    {
+     "medio": "Infobae",
+     "titulo": "La leyenda de la NBA Charles Barkley reveló el consejo financiero que le dio Michael Jordan y lo hizo multimillonario",
+     "url": "https://www.infobae.com/deportes/2026/10/24/la-leyenda-de-la-nba-charles-barkley-revelo-el-consejo-financiero-que-le-dio-michael-jordan-y-lo-hizo-multimillonario/",
+     "pub": "2026-10-24T09:15+00:00"
+    },
+    {
+     "medio": "Mirror",
+     "titulo": "Senne Lammens goes against the grain with Michael Carrick comments as Man Utd boss under pressure",
+     "url": "https://www.mirror.co.uk/sport/football/news/senne-lammens-man-utd-carrick-37806836",
+     "pub": "2026-10-24T14:03+00:00"
+    },
+    {
+     "medio": "Mirror",
+     "titulo": "Michael Carrick told Man Utd squad revolt 'wouldn't have happened' under Sir Alex Ferguson",
+     "url": "https://www.mirror.co.uk/sport/football/news/man-utd-michael-carrick-ferguson-37806796",
+     "pub": "2026-10-24T13:50+00:00"
+    },
+    {
+     "medio": "L'Equipe",
+     "titulo": "Michael Carrick pas inquiet : « Je sais ce que nous pouvons accomplir »",
+     "url": "https://www.lequipe.fr/Football/Video/Premier-league-michael-carrick-pas-inquiet-pour-la-suite-je-sais-ce-que-nous-pouvons-accomplir/20243970#at_medium=RSS_feeds",
+     "pub": "2026-10-24T11:38+00:00"
+    },
+    {
+     "medio": "Daily Mail",
+     "titulo": "Michael Carrick reveals private chats with Sir Alex Ferguson and Ole Gunner Solskjaer as under-pressure Man United boss tells fans they will see a 'different team' against Bournemouth after Como capitulation",
+     "url": "https://www.dailymail.com/sport/football/article-16235507/michael-carrick-sir-alex-ferguson-ole-gunnar-solskjaer-manchester-united-bournemouth.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+     "pub": "2026-10-24T21:30+00:00"
+    },
+    {
+     "medio": "Mirror",
+     "titulo": "Michael Carrick in regular contact with Sir Alex Ferguson and sacked Man Utd boss",
+     "url": "https://www.mirror.co.uk/sport/football/news/man-utd-carrick-solskjaer-ferguson-37808011",
+     "pub": "2026-10-25T08:59+00:00"
+    },
+    {
+     "medio": "Mirror",
+     "titulo": "Are Man Utd unmanageable? Michael Carrick speaks as club face prospect of another sacking",
+     "url": "https://www.mirror.co.uk/sport/football/news/man-utd-managers-michael-carrick-37807977",
+     "pub": "2026-10-25T08:04+00:00"
+    },
+    {
+     "medio": "Mirror",
+     "titulo": "8 Man Utd players would face frosty reunion as Roy Keane tipped to replace Michael Carrick",
+     "url": "https://www.mirror.co.uk/sport/football/news/man-utd-roy-keane-carrick-37807227",
+     "pub": "2026-10-25T08:00+00:00"
+    },
+    {
+     "medio": "Mirror",
+     "titulo": "Michael Carrick faces make-or-break Bruno Fernandes decision after Cristiano Ronaldo comparison",
+     "url": "https://www.mirror.co.uk/sport/football/news/carrick-fernandes-man-utd-ronaldo-37807652",
+     "pub": "2026-10-25T07:00+00:00"
     },
     {
      "medio": "FourFourTwo",
-     "titulo": "Watch Aston Villa vs Man City: FREE streams and TV channels",
-     "url": "https://www.fourfourtwo.com/competition/watch-aston-villa-vs-man-city-free-stream-premier-league-2026-27",
-     "pub": "2026-10-24T09:00+00:00"
+     "titulo": "Michael Laudrup on what it meant to guide Swansea to their first major silverware",
+     "url": "https://www.fourfourtwo.com/person/player/the-2013-league-cup-was-swanseas-first-major-trophy-who-knows-when-theyll-win-another-michael-laudrup-on-guiding-the-swans-to-their-first-major-silverware",
+     "pub": "2026-10-25T11:00+00:00"
     },
     {
-     "medio": "Yahoo",
-     "titulo": "Premier League: Haaland returns as Man City visit Aston Villa in first of four games",
-     "url": "https://sports.yahoo.com/articles/premier-league-aston-villa-host-101900572.html",
-     "pub": "2026-10-24T10:35+00:00"
+     "medio": "Guardian",
+     "titulo": "Michael Carrick on the brink after Manchester United are humiliated by Bournemouth",
+     "url": "https://www.theguardian.com/football/2026/oct/25/manchester-united-bournemouth-premier-league-match-report-michael-carrick",
+     "pub": "2026-10-25T16:19+00:00"
     }
    ]
   },
   {
-   "tema": "Flick",
+   "tema": "Fernandes",
    "medios": 11,
    "lista_medios": [
-    "AS",
+    "BBC",
+    "Daily Mail",
     "Foot Mercato",
-    "Google News AR",
     "Google News EN",
-    "Google News ES",
-    "Kicker",
+    "Guardian",
     "L'Equipe",
+    "Mirror",
     "Mundo Deportivo",
     "Record",
-    "Yahoo",
-    "ge.globo"
+    "Sky Sports",
+    "talkSPORT"
    ],
-   "primera_vez": "2026-10-24T11:28+00:00",
+   "primera_vez": "2026-10-24T21:06+00:00",
    "titulares": [
     {
-     "medio": "Yahoo",
-     "titulo": "Barcelona team news: Flick prepares for El Clasico without Jules Kounde as youngsters train",
-     "url": "https://sports.yahoo.com/articles/barcelona-team-news-flick-prepares-104000189.html",
-     "pub": "2026-10-24T10:40+00:00"
+     "medio": "Sky Sports",
+     "titulo": "Should Palmer have seen straight red for barge on Mateus Fernandes?",
+     "url": "https://www.skysports.com/watch/video/13603322/booked-m-fernandes-72-chelsea-0-0-tottenham-hotspur",
+     "pub": "2026-10-24T19:06+00:00"
     },
     {
-     "medio": "AS",
-     "titulo": "Barcelona - Real Madrid, en directo: rueda de prensa de Mourinho y Flick, última hora del Clásico, en vivo",
-     "url": "https://as.com/futbol/primera/barcelona-real-madrid-en-directo-rueda-de-prensa-de-mourinho-y-flick-ultima-hora-del-clasico-de-liga-en-vivo-f202610-d/",
-     "pub": "2026-10-24T11:26+00:00"
+     "medio": "Daily Mail",
+     "titulo": "The night Mateus Fernandes finally came of age in a Spurs shirt: Talented £85m star shone in Chelsea win as he showed Roberto De Zerbi what he is made of after tough start to Tottenham career, writes MATT BARLOW",
+     "url": "https://www.dailymail.com/sport/football/article-16229493/The-night-Mateus-Fernandes-finally-came-age-Spurs-shirt-Talented-85m-star-shone-Chelsea-win-showed-Roberto-Zerbi-tough-start-Tottenham-career-writes-MATT-BARLOW.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+     "pub": "2026-10-25T09:53+00:00"
     },
     {
-     "medio": "Mundo Deportivo",
-     "titulo": "Rueda de prensa de Flick, en directo",
-     "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261024/1004241693/rueda-prensa-flick-directo-previa-ultima-hora-barcelona-real-madrid.html",
-     "pub": ""
+     "medio": "Mirror",
+     "titulo": "Michael Carrick faces make-or-break Bruno Fernandes decision after Cristiano Ronaldo comparison",
+     "url": "https://www.mirror.co.uk/sport/football/news/carrick-fernandes-man-utd-ronaldo-37807652",
+     "pub": "2026-10-25T07:00+00:00"
     },
     {
-     "medio": "Mundo Deportivo",
-     "titulo": "Flick ultima el Clásico sin Koundé y tira de juventud",
-     "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261024/1004242542/flick-tira-juventud-kounde-sigue-margen-ultimar-clasico.html",
-     "pub": ""
+     "medio": "BBC",
+     "titulo": "Fernandes left out - Man Utd hammered, Bournemouth brilliant - how they rated",
+     "url": "https://www.bbc.co.uk/sport/football/articles/c9ly0mz745dno?at_medium=RSS&at_campaign=rss",
+     "pub": "2026-10-25T16:04+00:00"
     },
     {
-     "medio": "Mundo Deportivo",
-     "titulo": "La rueda de prensa de Hansi Flick previa al Clásico, en streaming",
-     "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261024/1004242199/rueda-prensa-hansi-flick-previa-clasico-streaming.html",
-     "pub": ""
+     "medio": "BBC",
+     "titulo": "Fernandes left on bench for Man Utd defeat - a failed gamble?",
+     "url": "https://www.bbc.co.uk/sport/football/articles/cmrlye5w3p79o?at_medium=RSS&at_campaign=rss",
+     "pub": "2026-10-25T13:26+00:00"
     },
     {
-     "medio": "Google News AR",
-     "titulo": "☕️ Flick quiere 100, ¿lucha libre o fútbol? y las 5 historias del día",
-     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQZnRsWVRpMmZQNXh2alR4MXhsTWQzR1U3eDJDOElQS1BqcjV1VnpBT2h4SEpsbTFWYW5aazB3WUZXdGtRdEx4a0tYa29oQXZZc0pyMGN6bm1NakhIamgzN3ZYSUp5b2pyMkpWLWZaTDV6NmRYQTRSMEdtS2cwSGJuWDJMYVZzbjBRS2lQaGlVT1BHdW1w?oc=5",
-     "pub": "2026-10-24T07:15+00:00"
+     "medio": "Sky Sports",
+     "titulo": "Carrick drops Fernandes only to see Man Utd humbled by Bournemouth",
+     "url": "https://www.skysports.com/football/manchester-united-vs-bournemouth/report/559522",
+     "pub": "2026-10-25T16:00+00:00"
     },
     {
-     "medio": "Yahoo",
-     "titulo": "Jose Mourinho talks Yamal, Flick, Camp Nou ahead of Barcelona vs Real Madrid",
-     "url": "https://sports.yahoo.com/articles/jose-mourinho-talks-yamal-flick-133000362.html",
-     "pub": "2026-10-24T13:30+00:00"
+     "medio": "talkSPORT",
+     "titulo": "Michael Carrick drops Man United captain Bruno Fernandes after critical comments",
+     "url": "https://talksport.com/football/4666007/bruno-fernandes-dropped-manchester-united-michael-carrick-bournemouth/",
+     "pub": "2026-10-25T12:18+00:00"
     },
     {
-     "medio": "AS",
-     "titulo": "Flick: “¿Cansado del tema árbitros? No quiero ningún titular”",
-     "url": "https://as.com/futbol/primera/flick-cansado-de-los-arbitros-no-quiero-ningun-titular-f202610-n/",
-     "pub": "2026-10-24T11:24+00:00"
+     "medio": "Daily Mail",
+     "titulo": "Bruno Fernandes is DROPPED from Manchester United's starting XI for Bournemouth - with Red Devils captain on the bench for the first time in almost five years after questioning Michael Carrick's tactics following Como loss",
+     "url": "https://www.dailymail.com/sport/football/article-16237215/Bruno-Fernandes-DROPPED-Manchester-Uniteds-starting-XI-Bournemouth-Red-Devils-captain-bench-time-five-years-questioning-Michael-Carricks-tactics-following-Como-loss.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+     "pub": "2026-10-25T13:00+00:00"
     },
     {
-     "medio": "Mundo Deportivo",
-     "titulo": "La visita 'secreta' de Flick a Mourinho en Madrid",
-     "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261024/1004242636/visita-flick-mourinho-madrid.html",
-     "pub": ""
+     "medio": "Mirror",
+     "titulo": "Jamie Carragher claims Man Utd stars 'don't like playing' with Bruno Fernandes as star axed",
+     "url": "https://www.mirror.co.uk/sport/football/news/jamie-carragher-claims-man-utd-37808606",
+     "pub": "2026-10-25T13:26+00:00"
     },
     {
-     "medio": "Mundo Deportivo",
-     "titulo": "Flick, para que quede claro: \"Confío en los árbitros\"",
-     "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261024/1004242637/flic-quede-claro-confio-arbitros.html",
-     "pub": ""
+     "medio": "Mirror",
+     "titulo": "Bruno Fernandes DROPPED as Man Utd boss Michael Carrick reacts to midweek outburst",
+     "url": "https://www.mirror.co.uk/sport/football/news/man-utd-fernandes-dropped-carrick-37808422",
+     "pub": "2026-10-25T12:34+00:00"
     },
     {
-     "medio": "Mundo Deportivo",
-     "titulo": "Flick da las claves para frenar a Mbappé",
-     "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261024/1004242624/flick-da-claves-frenar-mbappe.html",
-     "pub": ""
+     "medio": "Google News EN",
+     "titulo": "Man Utd captain Bruno Fernandes left on bench by manager Michael Carrick during Bournemouth defeat",
+     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5sV1h5bWI0dkk5ZTloS1RVZHdRekI2ejBZTl9oTl9oMm1FTmVCcnhGU2tUclB2a25haUhJZ3hvVERDMGYzTDJqUlZiZ0V5a0EyZEhVNVJRY2dJNVBHczZLNnBXSWl4RlQ4V1lr?oc=5",
+     "pub": "2026-10-25T12:58+00:00"
     },
     {
-     "medio": "Mundo Deportivo",
-     "titulo": "Flick descarta a Koundé para el Clásico y pide un plus a Espart",
-     "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261024/1004242626/flick-descarta-kounde-clasico-pide-plus-espart.html",
-     "pub": ""
-    }
-   ]
-  },
-  {
-   "tema": "Barcelona",
-   "medios": 11,
-   "lista_medios": [
-    "AS",
-    "Football Italia",
-    "FourFourTwo",
-    "Google News AR",
-    "Google News ES",
-    "Infobae",
-    "Mundo Deportivo",
-    "Planet Football",
-    "Record",
-    "Yahoo",
-    "ge.globo"
-   ],
-   "primera_vez": "2026-10-24T11:28+00:00",
-   "titulares": [
-    {
-     "medio": "Yahoo",
-     "titulo": "Barcelona team news: Flick prepares for El Clasico without Jules Kounde as youngsters train",
-     "url": "https://sports.yahoo.com/articles/barcelona-team-news-flick-prepares-104000189.html",
-     "pub": "2026-10-24T10:40+00:00"
-    },
-    {
-     "medio": "Yahoo",
-     "titulo": "Joao Cancelo opens up on Barcelona loyalty before El Clasico: ‘Even when Mourinho and Cristiano were there…’",
-     "url": "https://sports.yahoo.com/articles/joao-cancelo-opens-barcelona-loyalty-102900239.html",
-     "pub": "2026-10-24T10:29+00:00"
-    },
-    {
-     "medio": "Yahoo",
-     "titulo": "Cubarsi explains how Barcelona can Flick’s high defensive line work vs Real Madrid: ‘Press like animals’",
-     "url": "https://sports.yahoo.com/articles/cubarsi-explains-barcelona-flick-high-092000252.html",
-     "pub": "2026-10-24T09:20+00:00"
-    },
-    {
-     "medio": "Yahoo",
-     "titulo": "PSG – Barcelona breaks historic French record",
-     "url": "https://sports.yahoo.com/articles/psg-barcelona-breaks-historic-french-090000842.html",
-     "pub": "2026-10-24T09:00+00:00"
-    },
-    {
-     "medio": "AS",
-     "titulo": "Barcelona - Real Madrid, en directo: rueda de prensa de Mourinho y Flick, última hora del Clásico, en vivo",
-     "url": "https://as.com/futbol/primera/barcelona-real-madrid-en-directo-rueda-de-prensa-de-mourinho-y-flick-ultima-hora-del-clasico-de-liga-en-vivo-f202610-d/",
-     "pub": "2026-10-24T11:26+00:00"
-    },
-    {
-     "medio": "AS",
-     "titulo": "El RCDE Stadium, la casa del derbi de Barcelona",
-     "url": "https://as.com/futbol/primera/el-rcde-stadium-la-casa-del-derbi-de-barcelona-f202610-n/",
-     "pub": "2026-10-24T09:07+00:00"
-    },
-    {
-     "medio": "Mundo Deportivo",
-     "titulo": "Jordi Alba y Marcelo, hoy en la Fan Zone en Barcelona",
-     "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261024/1004242255/previa-clasico-fanzone.html",
-     "pub": ""
-    },
-    {
-     "medio": "Mundo Deportivo",
-     "titulo": "Rueda de prensa de Mourinho, en directo: previa y última hora del Barcelona - Real Madrid",
-     "url": "https://www.mundodeportivo.com/futbol/real-madrid/20261024/1004241694/rueda-prensa-mourinho-directo-previa-ultima-hora-barca-real-madrid.html",
-     "pub": ""
-    },
-    {
-     "medio": "Mundo Deportivo",
-     "titulo": "El dato que explica la distancia a la que está el Atlético de Barcelona y Real Madrid",
-     "url": "https://www.mundodeportivo.com/futbol/atletico-madrid/20261024/1004242340/dato-explica-distancia-atletico-barcelona-real-madrid.html",
-     "pub": ""
-    },
-    {
-     "medio": "Mundo Deportivo",
-     "titulo": "Jugar ante el Barcelona, la pesadilla del banquillo del Real Madrid",
-     "url": "https://www.mundodeportivo.com/futbol/real-madrid/20261024/1004242332/jugar-barcelona-pesadilla-banquillo-real-madrid.html",
-     "pub": ""
-    },
-    {
-     "medio": "Google News ES",
-     "titulo": "¿Quién es Juan Martínez Munuera? Árbitro del Clásico entre el FC Barcelona y el Real Madrid de la jornada 10 de LALIGA",
-     "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNT05adHNBWEJHTWlSZ2dQNDZiQ2hUakE1VkRtTmRZY3piX2VXOHB6UThtVFU0bVVsakJuOXpyLXlzekFYNUZROE1jQld2dV94ME9NeTFXVThidTJoNGFqbXRRMXhJQThHUHY1cFcxRHZCQ2dHdXZhRGl6akdKZFZxbk1aaS13Y1J6M3lxT0xjQmhBaWJNTS1Sam5HWDZRNlBSLVhtcnk5UmdXNDdTX1lTOWxMamNBWEJyOEluSGhpSTh1RUY1V3IxVEVyTU1YdjBJbGlhV2tGQ09sQ21ZeXk4Nzk3d2tJdDZHUnA0YlpB?oc=5",
-     "pub": "2026-10-24T10:07+00:00"
-    },
-    {
-     "medio": "ge.globo",
-     "titulo": "Barcelona x Real Madrid: José Mourinho volta ao El Clasico após 13 anos; veja histórico",
-     "url": "https://ge.globo.com/futebol/futebol-internacional/futebol-espanhol/noticia/2026/10/24/barcelona-x-real-madrid-jose-mourinho-volta-ao-el-clasico-apos-13-anos-veja-historico.ghtml",
-     "pub": "2026-10-24T05:00+00:00"
-    }
-   ]
-  },
-  {
-   "tema": "Clásico",
-   "medios": 11,
-   "lista_medios": [
-    "AS",
-    "Foot Mercato",
-    "Google News AR",
-    "Google News EN",
-    "Google News ES",
-    "Infobae",
-    "Mundo Deportivo",
-    "Ole",
-    "Record",
-    "Yahoo",
-    "ge.globo"
-   ],
-   "primera_vez": "2026-10-24T11:28+00:00",
-   "titulares": [
-    {
-     "medio": "Yahoo",
-     "titulo": "🚨Martínez Munuera to referee the Clásico with Iglesias Villanueva on VAR",
-     "url": "https://sports.yahoo.com/articles/mart-nez-munuera-referee-cl-101200255.html",
-     "pub": "2026-10-24T10:12+00:00"
-    },
-    {
-     "medio": "AS",
-     "titulo": "Martínez Munuera, el árbitro elegido para pitar el Clásico",
-     "url": "https://as.com/futbol/primera/martinez-munuera-el-arbitro-elegido-para-pitar-el-clasico-f202610-n/",
-     "pub": "2026-10-24T10:01+00:00"
-    },
-    {
-     "medio": "AS",
-     "titulo": "Barcelona - Real Madrid, en directo: rueda de prensa de Mourinho y Flick, última hora del Clásico, en vivo",
-     "url": "https://as.com/futbol/primera/barcelona-real-madrid-en-directo-rueda-de-prensa-de-mourinho-y-flick-ultima-hora-del-clasico-de-liga-en-vivo-f202610-d/",
-     "pub": "2026-10-24T11:26+00:00"
-    },
-    {
-     "medio": "AS",
-     "titulo": "Las confesiones del Clásico: “Me encantaba ganar en el Bernabéu, ir y ver según qué caras”",
-     "url": "https://as.com/futbol/primera/las-confesiones-del-clasico-me-encantaba-ganar-en-el-bernabeu-ir-y-ver-segun-que-caras-f202610-n/",
-     "pub": "2026-10-24T09:55+00:00"
-    },
-    {
-     "medio": "AS",
-     "titulo": "La solidaridad en el Clásico",
-     "url": "https://as.com/futbol/primera/la-solidaridad-en-el-clasico-f202610-n/",
-     "pub": "2026-10-24T07:43+00:00"
-    },
-    {
-     "medio": "Mundo Deportivo",
-     "titulo": "El Real Madrid acaba de preparar el Clásico",
-     "url": "https://www.mundodeportivo.com/futbol/real-madrid/20261024/1004242574/real-madrid-acaba-preparar-clasico.html",
-     "pub": ""
-    },
-    {
-     "medio": "Mundo Deportivo",
-     "titulo": "Fermín y Gavi dan las claves del Clásico",
-     "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261024/1004242607/fermin-gavi-dan-claves-clasico.html",
-     "pub": ""
-    },
-    {
-     "medio": "Mundo Deportivo",
-     "titulo": "Martínez Munuera, árbitro confirmado para el Clásico con balance favorable al Madrid",
-     "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261024/1004242594/martinez-munuera-arbitro-confirmado-clasico.html",
-     "pub": ""
-    },
-    {
-     "medio": "Mundo Deportivo",
-     "titulo": "Flick ultima el Clásico sin Koundé y tira de juventud",
-     "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261024/1004242542/flick-tira-juventud-kounde-sigue-margen-ultimar-clasico.html",
-     "pub": ""
-    },
-    {
-     "medio": "Mundo Deportivo",
-     "titulo": "Nueve jugadores del Barça ya saben lo que es marcar en un Clásico",
-     "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261024/1004241763/nueve-jugadores-barca-han-marcado-clasico.html",
-     "pub": ""
-    },
-    {
-     "medio": "Mundo Deportivo",
-     "titulo": "\"¿El Clásico, la prueba del algodón del equipo? No, el Madrid con Mourinho gana títulos\"",
-     "url": "https://www.mundodeportivo.com/futbol/real-madrid/20261024/1004242556/clasico-prueba-algodon-equipo-no-madrid-mourinho-gana-titulos.html",
-     "pub": ""
-    },
-    {
-     "medio": "Mundo Deportivo",
-     "titulo": "La rueda de prensa de Hansi Flick previa al Clásico, en streaming",
-     "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261024/1004242199/rueda-prensa-hansi-flick-previa-clasico-streaming.html",
-     "pub": ""
+     "medio": "Google News EN",
+     "titulo": "Man United: Michael Carrick explains why he dropped captain Bruno Fernandes for Bournemouth match",
+     "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOalQzaUhkSXJoeDZlSVZXTTRmR1NIejEzeWk2YnhDOGV1QlF3UFBHanMtUWx3WnptbURDbnFJTlRIel9VTUlkOFpMakF5MW5CbGpDSGN0UkwwTzF1Q2RlRE5hREpQUnkyMnlvSzRneDB0VGdEb0F4dTY2Q1MwU3VRSTZqNG40X2RYSE9ZNlF2MUhWT3Z3alljbzFIMlhYY0xMbzJWUFNQVmdRaDlZRzZrZUNSUVQ2a0pjekdfR2dkN0lMVXlHQ2VOb3RHUVE0cWdk?oc=5",
+     "pub": "2026-10-25T13:08+00:00"
     }
    ]
   },
@@ -1984,93 +2273,184 @@
    ]
   },
   {
-   "tema": "Michael",
+   "tema": "Pedro",
    "medios": 10,
    "lista_medios": [
     "Daily Mail",
-    "FourFourTwo",
+    "Foot Mercato",
+    "Google News AR",
     "Google News EN",
-    "Guardian",
-    "Infobae",
-    "L'Equipe",
+    "Google News ES",
     "Mirror",
-    "Planet Football",
+    "Record",
     "Yahoo",
+    "ge.globo",
     "talkSPORT"
    ],
    "primera_vez": "2026-10-24T11:28+00:00",
    "titulares": [
     {
-     "medio": "Planet Football",
-     "titulo": "Planet Football Weekend Quiz: Ballon d’Or, Michael Carrick, Jose Mourinho & El Clasico",
-     "url": "https://www.planetfootball.com/quizzes/weekend-football-quiz-ballon-dor-michael-carrick-jose-mourinho-el-clasico",
-     "pub": "2026-10-24T08:22+00:00"
-    },
-    {
-     "medio": "Infobae",
-     "titulo": "La leyenda de la NBA Charles Barkley reveló el consejo financiero que le dio Michael Jordan y lo hizo multimillonario",
-     "url": "https://www.infobae.com/deportes/2026/10/24/la-leyenda-de-la-nba-charles-barkley-revelo-el-consejo-financiero-que-le-dio-michael-jordan-y-lo-hizo-multimillonario/",
-     "pub": "2026-10-24T09:15+00:00"
-    },
-    {
-     "medio": "Mirror",
-     "titulo": "Senne Lammens goes against the grain with Michael Carrick comments as Man Utd boss under pressure",
-     "url": "https://www.mirror.co.uk/sport/football/news/senne-lammens-man-utd-carrick-37806836",
-     "pub": "2026-10-24T14:03+00:00"
-    },
-    {
-     "medio": "Mirror",
-     "titulo": "Michael Carrick told Man Utd squad revolt 'wouldn't have happened' under Sir Alex Ferguson",
-     "url": "https://www.mirror.co.uk/sport/football/news/man-utd-michael-carrick-ferguson-37806796",
-     "pub": "2026-10-24T13:50+00:00"
-    },
-    {
-     "medio": "L'Equipe",
-     "titulo": "Michael Carrick pas inquiet : « Je sais ce que nous pouvons accomplir »",
-     "url": "https://www.lequipe.fr/Football/Video/Premier-league-michael-carrick-pas-inquiet-pour-la-suite-je-sais-ce-que-nous-pouvons-accomplir/20243970#at_medium=RSS_feeds",
-     "pub": "2026-10-24T11:38+00:00"
-    },
-    {
      "medio": "Daily Mail",
-     "titulo": "Michael Carrick reveals private chats with Sir Alex Ferguson and Ole Gunner Solskjaer as under-pressure Man United boss tells fans they will see a 'different team' against Bournemouth after Como capitulation",
-     "url": "https://www.dailymail.com/sport/football/article-16235507/michael-carrick-sir-alex-ferguson-ole-gunnar-solskjaer-manchester-united-bournemouth.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-     "pub": "2026-10-24T21:30+00:00"
+     "titulo": "Chelsea vs Tottenham combined XI according to the stats: In-form Cole Palmer and Joao Pedro make the cut, while a World Cup villain earns a surprise play - but which FOUR Spurs stars get the nod?",
+     "url": "https://www.dailymail.com/sport/football/article-16229395/chelsea-tottenham-combined-xi-stats.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+     "pub": "2026-10-24T08:03+00:00"
+    },
+    {
+     "medio": "Google News ES",
+     "titulo": "Muere Juan Pedro Ruiz, leyenda del Real Murcia y pionero del fútbol femenino",
+     "url": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxQRmJvS0hhVTkwSmotYk9Jc2tSbkFRcjZzSk5FUXI0N0dLVnl0YUM2b21CMjNwRV8zRHZOcHc5Y21mY1NOSzFQc2YzSk0xM2kzWUU0RGRMZVd6dkJNSUx0WnlmdC1CUVAxUEpvSmdmNFg2NFpjN1VnTUFFbkxSc2lOZUw3X05DdGFKQWhtUjh2NUc4bUxUNUk3aS1IVW9rd3pfQWU3NE1VdGRLcEx5ellNa2x3eUJKcWdQanJKc0drd2NEdTh3SnNNUlpYOVIycnhjZDNpMkl0THZxdDgzZG9PR3hwNGFyc041RTNnRjhwWHNxamEtd2tqSzB3Tm1vNHQ2WENTa2VHa1hLTGdFWlZaSG1YeVZiY1NSNEhYWDQ0NkFGczNwZXZTddIBrgJBVV95cUxOdmpqa1RGM05yUjZ6N0ZkYnVweWFmZ2hRaXhwM2N4OXdrSzd3cHI1ZXNCZHF1REFPQ0ZHcWpLZ0xuV0V3Rk9YNkhWbGJQd1VfQ2ZPeDloMVZlU3phbzdUdVdQY21LOWQ0SE5HNkZGejA5Z3VSZ01oY1ZRNlZIektscHpIcl9JWVpYQ0ZnRm9laVB2OURzUVNTWGRENXVkTTBEVnRENm1QZTM2YWNvZGdNWUFzN1cybmNHdkJEYWVMZUMtUWxmQzBEWmxhMG1ldjlFMVRCSEpRRm5DbERYOVFWYU5fYVZmbGpZQzZWSTBnOUZVQUw1R0R2Y2xYMm9UUTNjTFhkZmZZUkRVakxUV2liQkt2ckdoVHJTdTl2aXQwaHc2eTNmRXB1M0R6X1Zldw?oc=5",
+     "pub": "2026-10-24T09:52+00:00"
+    },
+    {
+     "medio": "Google News ES",
+     "titulo": "Fallece Juan Pedro Ruiz, un histórico del fútbol regional",
+     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNaE16eklUa2FIeUFzdjJZNlduX3ZySUVXWVVqUHNDLVlWVWRmUWNBYkpQa041MkEydTJYeXlyYTNKMU9sWDNTc1JSNXhfTFNtOFZMUEhVRThETUdkaEpVUDRNMHFBQVg4dlJ2WVlNYjl4MXhkZWFBdzBXM3c0MC1xQXRjTnA3U3o0OXd0bURWdjdFeDdPdDZCUE1DZG9xdmVwSF9j0gGoAUFVX3lxTE5JQ0FMNV95Nm5nb2lDTmlHSzFJVjN1SkdjV0ZwRVhHZk5BWjd5U2YzNU94Tl84YmhGM3I4aVFMdWNFRWZqd1VIYWlRMXR0TlZjU3BMMUt0Z2FVREpGNmZ3SlVHalhzRFp4Uk5WOWlRVXBGRVNfbk5qQXhGWEFZMTBDVFExalJzZHpuQ0NPLTlmRnlZVU1wNTRpRVFrZXpiX2lhby1vbEg5Ng?oc=5",
+     "pub": "2026-10-24T08:59+00:00"
+    },
+    {
+     "medio": "ge.globo",
+     "titulo": "Pedro Lima \"dorme com a camisa\" do São Paulo, acorda titular e domina a posição",
+     "url": "https://ge.globo.com/futebol/times/sao-paulo/noticia/2026/10/24/pedro-lima-dorme-com-a-camisa-do-sao-paulo-acorda-titular-e-domina-a-posicao.ghtml",
+     "pub": "2026-10-24T11:00+00:00"
+    },
+    {
+     "medio": "Google News AR",
+     "titulo": "Jorge Zamora: del fútbol infantil de San Pedro al Club de Pesca en Mar del Plata",
+     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOS2xGa1Fxejg4c2t4bWRHRDdJX3Nqc3dkYUVoUXk2MW11Q3pfSW40NmFleWlzVlVfWUVuU1RZZVFxd2NhcHRjV2NsczkxQmVZU0lpU1B1c3lEM3o2ZE91ckJwRkR5OHNJc3FFdFJrUzN5cTgyM3hWclg3VTh5V1BfMTFXd1JMTS1kOTcyWXJSQ2NlUk90Y3hkT2J5eHhST0VSWlNBbFdhTWNuS0JfQVh6amFsYzYxcEdzc3pqUUMzMTlEYzQ?oc=5",
+     "pub": "2026-10-24T12:52+00:00"
+    },
+    {
+     "medio": "talkSPORT",
+     "titulo": "Chelsea name surprise striker for Tottenham clash after unexpected Joao Pedro blow",
+     "url": "https://talksport.com/football/4665009/chelsea-striker-geovany-quenda-joao-pedro-tottenham/",
+     "pub": "2026-10-24T15:32+00:00"
     },
     {
      "medio": "Mirror",
-     "titulo": "Michael Carrick in regular contact with Sir Alex Ferguson and sacked Man Utd boss",
-     "url": "https://www.mirror.co.uk/sport/football/news/man-utd-carrick-solskjaer-ferguson-37808011",
-     "pub": "2026-10-25T08:59+00:00"
+     "titulo": "Why Joao Pedro is not in Chelsea squad vs Tottenham as youngster given huge debut",
+     "url": "https://www.mirror.co.uk/sport/football/news/chelsea-spurs-joao-pedro-injury-37807231",
+     "pub": "2026-10-24T16:11+00:00"
     },
     {
-     "medio": "Mirror",
-     "titulo": "Are Man Utd unmanageable? Michael Carrick speaks as club face prospect of another sacking",
-     "url": "https://www.mirror.co.uk/sport/football/news/man-utd-managers-michael-carrick-37807977",
-     "pub": "2026-10-25T08:04+00:00"
+     "medio": "Yahoo",
+     "titulo": "Joao Pedro out of Chelsea team to face Tottenham in London derby",
+     "url": "https://sports.yahoo.com/articles/joao-pedro-chelsea-team-face-152648630.html",
+     "pub": "2026-10-24T16:17+00:00"
     },
     {
-     "medio": "Mirror",
-     "titulo": "8 Man Utd players would face frosty reunion as Roy Keane tipped to replace Michael Carrick",
-     "url": "https://www.mirror.co.uk/sport/football/news/man-utd-roy-keane-carrick-37807227",
-     "pub": "2026-10-25T08:00+00:00"
+     "medio": "Yahoo",
+     "titulo": "Joao Pedro injury news: Latest update as Chelsea star out against Tottenham Hotspur",
+     "url": "https://sports.yahoo.com/articles/joao-pedro-injury-news-latest-154750500.html",
+     "pub": "2026-10-24T15:47+00:00"
     },
     {
-     "medio": "Mirror",
-     "titulo": "Michael Carrick faces make-or-break Bruno Fernandes decision after Cristiano Ronaldo comparison",
-     "url": "https://www.mirror.co.uk/sport/football/news/carrick-fernandes-man-utd-ronaldo-37807652",
-     "pub": "2026-10-25T07:00+00:00"
+     "medio": "Foot Mercato",
+     "titulo": "Chelsea : João Pedro forfait de dernière minute contre Tottenham",
+     "url": "https://www.footmercato.net/a8173047468459899972-chelsea-joao-pedro-forfait-de-derniere-minute-contre-tottenham",
+     "pub": "2026-10-24T15:53+00:00"
     },
     {
-     "medio": "FourFourTwo",
-     "titulo": "Michael Laudrup on what it meant to guide Swansea to their first major silverware",
-     "url": "https://www.fourfourtwo.com/person/player/the-2013-league-cup-was-swanseas-first-major-trophy-who-knows-when-theyll-win-another-michael-laudrup-on-guiding-the-swans-to-their-first-major-silverware",
-     "pub": "2026-10-25T11:00+00:00"
+     "medio": "Yahoo",
+     "titulo": "Xabi Alonso reacts Chelsea's rain-soaked loss at Tottenham Hotspur as Blues struggle without Joao Pedro",
+     "url": "https://sports.yahoo.com/articles/xabi-alonso-reacts-cole-palmer-182520638.html",
+     "pub": "2026-10-24T19:01+00:00"
     },
     {
-     "medio": "Guardian",
-     "titulo": "Michael Carrick on the brink after Manchester United are humiliated by Bournemouth",
-     "url": "https://www.theguardian.com/football/2026/oct/25/manchester-united-bournemouth-premier-league-match-report-michael-carrick",
-     "pub": "2026-10-25T16:19+00:00"
+     "medio": "ge.globo",
+     "titulo": "Pedro Emanuel vê \"vitória à Vasco\" em virada sobre Corinthians e exalta Marino: \"Determinante\"",
+     "url": "https://ge.globo.com/futebol/times/vasco/noticia/2026/10/24/pedro-emanuel-vibra-com-virada-no-fim-sobre-o-corinthians-vitoria-a-vasco.ghtml",
+     "pub": "2026-10-25T00:43+00:00"
+    }
+   ]
+  },
+  {
+   "tema": "Flick",
+   "medios": 10,
+   "lista_medios": [
+    "AS",
+    "Foot Mercato",
+    "Google News EN",
+    "Google News ES",
+    "Kicker",
+    "L'Equipe",
+    "Mundo Deportivo",
+    "Record",
+    "Yahoo",
+    "ge.globo"
+   ],
+   "primera_vez": "2026-10-24T11:28+00:00",
+   "titulares": [
+    {
+     "medio": "Yahoo",
+     "titulo": "Barcelona team news: Flick prepares for El Clasico without Jules Kounde as youngsters train",
+     "url": "https://sports.yahoo.com/articles/barcelona-team-news-flick-prepares-104000189.html",
+     "pub": "2026-10-24T10:40+00:00"
+    },
+    {
+     "medio": "AS",
+     "titulo": "Barcelona - Real Madrid, en directo: rueda de prensa de Mourinho y Flick, última hora del Clásico, en vivo",
+     "url": "https://as.com/futbol/primera/barcelona-real-madrid-en-directo-rueda-de-prensa-de-mourinho-y-flick-ultima-hora-del-clasico-de-liga-en-vivo-f202610-d/",
+     "pub": "2026-10-24T11:26+00:00"
+    },
+    {
+     "medio": "Mundo Deportivo",
+     "titulo": "Rueda de prensa de Flick, en directo",
+     "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261024/1004241693/rueda-prensa-flick-directo-previa-ultima-hora-barcelona-real-madrid.html",
+     "pub": ""
+    },
+    {
+     "medio": "Mundo Deportivo",
+     "titulo": "Flick ultima el Clásico sin Koundé y tira de juventud",
+     "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261024/1004242542/flick-tira-juventud-kounde-sigue-margen-ultimar-clasico.html",
+     "pub": ""
+    },
+    {
+     "medio": "Mundo Deportivo",
+     "titulo": "La rueda de prensa de Hansi Flick previa al Clásico, en streaming",
+     "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261024/1004242199/rueda-prensa-hansi-flick-previa-clasico-streaming.html",
+     "pub": ""
+    },
+    {
+     "medio": "Yahoo",
+     "titulo": "Jose Mourinho talks Yamal, Flick, Camp Nou ahead of Barcelona vs Real Madrid",
+     "url": "https://sports.yahoo.com/articles/jose-mourinho-talks-yamal-flick-133000362.html",
+     "pub": "2026-10-24T13:30+00:00"
+    },
+    {
+     "medio": "AS",
+     "titulo": "Flick: “¿Cansado del tema árbitros? No quiero ningún titular”",
+     "url": "https://as.com/futbol/primera/flick-cansado-de-los-arbitros-no-quiero-ningun-titular-f202610-n/",
+     "pub": "2026-10-24T11:24+00:00"
+    },
+    {
+     "medio": "Mundo Deportivo",
+     "titulo": "La visita 'secreta' de Flick a Mourinho en Madrid",
+     "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261024/1004242636/visita-flick-mourinho-madrid.html",
+     "pub": ""
+    },
+    {
+     "medio": "Mundo Deportivo",
+     "titulo": "Flick, para que quede claro: \"Confío en los árbitros\"",
+     "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261024/1004242637/flic-quede-claro-confio-arbitros.html",
+     "pub": ""
+    },
+    {
+     "medio": "Mundo Deportivo",
+     "titulo": "Flick da las claves para frenar a Mbappé",
+     "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261024/1004242624/flick-da-claves-frenar-mbappe.html",
+     "pub": ""
+    },
+    {
+     "medio": "Mundo Deportivo",
+     "titulo": "Flick descarta a Koundé para el Clásico y pide un plus a Espart",
+     "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261024/1004242626/flick-descarta-kounde-clasico-pide-plus-espart.html",
+     "pub": ""
+    },
+    {
+     "medio": "Mundo Deportivo",
+     "titulo": "Flick elogia a Mourinho antes del Clásico",
+     "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261024/1004242623/flick-elogia-mourinho-clasico.html",
+     "pub": ""
     }
    ]
   },
@@ -2257,7 +2637,98 @@
    ]
   },
   {
-   "tema": "Palace",
+   "tema": "Leeds",
+   "medios": 10,
+   "lista_medios": [
+    "AS",
+    "Daily Mail",
+    "FourFourTwo",
+    "Google News EN",
+    "Guardian",
+    "L'Equipe",
+    "Mundo Deportivo",
+    "Sky Sports",
+    "Telegraph",
+    "Yahoo"
+   ],
+   "primera_vez": "2026-10-24T14:49+00:00",
+   "titulares": [
+    {
+     "medio": "Google News EN",
+     "titulo": "Sunderland v Leeds United: Key stats and talking points",
+     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9TcVNmOGQ2dDJQUjljQkhpbkViRXRPenhyaEN6azQ5Z0dob1hhWnBsUHlIRXBnemVSYlBCLW85dF9Vemg4bHZBRDZnS2R0VHNPWGxoYkpWWWFIYXF6X2RnRXhiZWx1X1k0cnIw?oc=5",
+     "pub": "2026-10-24T12:37+00:00"
+    },
+    {
+     "medio": "Yahoo",
+     "titulo": "Leeds United Consider Contract Extension For Their Main Man: Can His System Deliver Europe?",
+     "url": "https://sports.yahoo.com/articles/leeds-united-consider-contract-extension-192500616.html",
+     "pub": "2026-10-24T19:25+00:00"
+    },
+    {
+     "medio": "Google News EN",
+     "titulo": "Sunderland - Leeds",
+     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNZHl2djR0SEE3MVBwYVFqcVE1XzNkRFhrMWpzWEE0VW01NTgySENvazhEcWoxaTlYaHlXMGk5UnFQc0t4eUhMUVhrWE9Hc1VfZUFQbG1VV3EwV0FLeUtPaERZTG9SMExGNFNXU3FOZFpSSGZuT2UxMEVNazlnNW5TcFFDOA?oc=5",
+     "pub": "2026-10-25T08:39+00:00"
+    },
+    {
+     "medio": "Google News EN",
+     "titulo": "Sunderland vs Leeds predictions: Chris Sutton on Premier League game",
+     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE41eEFpQ1BnbnYtOG5WY0RKQlVzWEhEYld2OEZGLTJOdzVsaHJUMXhSR0l4ck1qLTVPZHVPT2pRdVloUHB1TjBncE5ZUkRrU2hpRkwwTllQbFBtODg1RDU5aUdPYkE1ZmlTWXJN?oc=5",
+     "pub": "2026-10-25T11:15+00:00"
+    },
+    {
+     "medio": "Guardian",
+     "titulo": "Sunderland v Leeds: Premier League – live",
+     "url": "https://www.theguardian.com/football/live/2026/oct/25/sunderland-v-leeds-premier-league-live",
+     "pub": "2026-10-25T16:27+00:00"
+    },
+    {
+     "medio": "Daily Mail",
+     "titulo": "Three Man United and Bournemouth stars and Leeds striker Dominic Calvert-Lewin join those refusing to take the knee in Premier League - after Chelsea fans booed the gesture before Tottenham clash",
+     "url": "https://www.dailymail.com/sport/football/article-16237031/Three-Man-United-Bournemouth-stars-join-refusing-knee-Premier-League-Chelsea-fans-booed-gesture-Tottenham-clash.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+     "pub": "2026-10-25T16:42+00:00"
+    },
+    {
+     "medio": "FourFourTwo",
+     "titulo": "Watch Sunderland vs Leeds United for FREE: Live streams",
+     "url": "https://www.fourfourtwo.com/competition/watch-sunderland-vs-leeds-united-premier-league-2026-27-free",
+     "pub": "2026-10-25T14:00+00:00"
+    },
+    {
+     "medio": "Yahoo",
+     "titulo": "Premier League: Reaction as Carrick position under major threat plus Leeds host Sunderland",
+     "url": "https://sports.yahoo.com/articles/premier-league-fernandes-left-man-122917026.html",
+     "pub": "2026-10-25T16:32+00:00"
+    },
+    {
+     "medio": "Mundo Deportivo",
+     "titulo": "Sunderland - Leeds United, en directo | Premier League",
+     "url": "https://www.mundodeportivo.com/futbol/premier-league/20261025/1004241306/sunderland-leeds-united-directo-premier-league.html",
+     "pub": ""
+    },
+    {
+     "medio": "Guardian",
+     "titulo": "Roefs and Trafford stand firm as Sunderland and Leeds battle for point",
+     "url": "https://www.theguardian.com/football/2026/oct/25/sunderland-leeds-premier-league-match-report",
+     "pub": "2026-10-25T18:46+00:00"
+    },
+    {
+     "medio": "Sky Sports",
+     "titulo": "Sunderland remain bottom after drab draw against Leeds",
+     "url": "https://www.skysports.com/football/sunderland-vs-leeds-united/report/559523",
+     "pub": "2026-10-25T18:26+00:00"
+    },
+    {
+     "medio": "Telegraph",
+     "titulo": "Trafford shows England credentials to help Leeds take point from Sunderland",
+     "url": "https://www.telegraph.co.uk/football/2026/10/25/sunderland-vs-leeds-utd-live-score-premier-league-updates/",
+     "pub": "2026-10-25T19:14+00:00"
+    }
+   ]
+  },
+  {
+   "tema": "Crystal",
    "medios": 10,
    "lista_medios": [
     "Daily Mail",
@@ -2265,11 +2736,11 @@
     "FourFourTwo",
     "Google News AR",
     "Google News EN",
-    "Guardian",
     "L'Equipe",
     "Mundo Deportivo",
     "Sky Sports",
-    "Yahoo"
+    "Yahoo",
+    "talkSPORT"
    ],
    "primera_vez": "2026-10-24T14:49+00:00",
    "titulares": [
@@ -2304,24 +2775,6 @@
      "pub": "2026-10-25T07:49+00:00"
     },
     {
-     "medio": "Guardian",
-     "titulo": "Osula and Barnes’ second-half burst sees Newcastle pile pressure on lacklustre Palace",
-     "url": "https://www.theguardian.com/football/2026/oct/25/crystal-palace-newcastle-premier-league-match-report",
-     "pub": "2026-10-25T16:29+00:00"
-    },
-    {
-     "medio": "Sky Sports",
-     "titulo": "Osula and Barnes on target as Newcastle beat sorry Palace",
-     "url": "https://www.skysports.com/watch/video/13603655/crystal-palace-0-2-newcastle-united-premier-league-highlights",
-     "pub": "2026-10-25T16:17+00:00"
-    },
-    {
-     "medio": "Sky Sports",
-     "titulo": "Malard and Baltimore inspire Chelsea in comeback win over Palace",
-     "url": "https://www.skysports.com/football/crystal-palace-women-vs-chelsea-women/report/575799",
-     "pub": "2026-10-25T14:00+00:00"
-    },
-    {
      "medio": "Daily Mail",
      "titulo": "Pierre Sage's days at Crystal Palace feel numbered as clinical Newcastle triumph 2-0 to ease pressure on Matthias Jaissle, writes BOBBI MANZI",
      "url": "https://www.dailymail.com/sport/football/article-16229515/Clinical-Newcastle-victory-Crystal-Palace-relieves-pressure-Matthias-Jaissle-Pierre-Sages-days-numbered.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
@@ -2344,445 +2797,24 @@
      "titulo": "0-2: El Newcastle despierta tras el descanso para imponerse al Crystal Palace",
      "url": "https://www.mundodeportivo.com/futbol/premier-league/20261025/1004243033/newcastle-despierta-descanso-imponerse-crystal-palace.html",
      "pub": ""
-    }
-   ]
-  },
-  {
-   "tema": "Fernandes",
-   "medios": 10,
-   "lista_medios": [
-    "BBC",
-    "Daily Mail",
-    "Foot Mercato",
-    "Google News EN",
-    "L'Equipe",
-    "Mirror",
-    "Mundo Deportivo",
-    "Record",
-    "Sky Sports",
-    "talkSPORT"
-   ],
-   "primera_vez": "2026-10-24T21:06+00:00",
-   "titulares": [
-    {
-     "medio": "Sky Sports",
-     "titulo": "Should Palmer have seen straight red for barge on Mateus Fernandes?",
-     "url": "https://www.skysports.com/watch/video/13603322/booked-m-fernandes-72-chelsea-0-0-tottenham-hotspur",
-     "pub": "2026-10-24T19:06+00:00"
     },
     {
-     "medio": "Daily Mail",
-     "titulo": "The night Mateus Fernandes finally came of age in a Spurs shirt: Talented £85m star shone in Chelsea win as he showed Roberto De Zerbi what he is made of after tough start to Tottenham career, writes MATT BARLOW",
-     "url": "https://www.dailymail.com/sport/football/article-16229493/The-night-Mateus-Fernandes-finally-came-age-Spurs-shirt-Talented-85m-star-shone-Chelsea-win-showed-Roberto-Zerbi-tough-start-Tottenham-career-writes-MATT-BARLOW.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-     "pub": "2026-10-25T09:53+00:00"
-    },
-    {
-     "medio": "Mirror",
-     "titulo": "Michael Carrick faces make-or-break Bruno Fernandes decision after Cristiano Ronaldo comparison",
-     "url": "https://www.mirror.co.uk/sport/football/news/carrick-fernandes-man-utd-ronaldo-37807652",
-     "pub": "2026-10-25T07:00+00:00"
-    },
-    {
-     "medio": "BBC",
-     "titulo": "Fernandes left out - Man Utd hammered, Bournemouth brilliant - how they rated",
-     "url": "https://www.bbc.co.uk/sport/football/articles/c9ly0mz745dno?at_medium=RSS&at_campaign=rss",
-     "pub": "2026-10-25T16:04+00:00"
-    },
-    {
-     "medio": "BBC",
-     "titulo": "Fernandes left on bench for Man Utd defeat - a failed gamble?",
-     "url": "https://www.bbc.co.uk/sport/football/articles/cmrlye5w3p79o?at_medium=RSS&at_campaign=rss",
-     "pub": "2026-10-25T13:26+00:00"
-    },
-    {
-     "medio": "Sky Sports",
-     "titulo": "Carrick drops Fernandes only to see Man Utd humbled by Bournemouth",
-     "url": "https://www.skysports.com/football/manchester-united-vs-bournemouth/report/559522",
-     "pub": "2026-10-25T16:00+00:00"
-    },
-    {
-     "medio": "talkSPORT",
-     "titulo": "Michael Carrick drops Man United captain Bruno Fernandes after critical comments",
-     "url": "https://talksport.com/football/4666007/bruno-fernandes-dropped-manchester-united-michael-carrick-bournemouth/",
-     "pub": "2026-10-25T12:18+00:00"
-    },
-    {
-     "medio": "Daily Mail",
-     "titulo": "Bruno Fernandes is DROPPED from Manchester United's starting XI for Bournemouth - with Red Devils captain on the bench for the first time in almost five years after questioning Michael Carrick's tactics following Como loss",
-     "url": "https://www.dailymail.com/sport/football/article-16237215/Bruno-Fernandes-DROPPED-Manchester-Uniteds-starting-XI-Bournemouth-Red-Devils-captain-bench-time-five-years-questioning-Michael-Carricks-tactics-following-Como-loss.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-     "pub": "2026-10-25T13:00+00:00"
-    },
-    {
-     "medio": "Mirror",
-     "titulo": "Jamie Carragher claims Man Utd stars 'don't like playing' with Bruno Fernandes as star axed",
-     "url": "https://www.mirror.co.uk/sport/football/news/jamie-carragher-claims-man-utd-37808606",
-     "pub": "2026-10-25T13:26+00:00"
-    },
-    {
-     "medio": "Mirror",
-     "titulo": "Bruno Fernandes DROPPED as Man Utd boss Michael Carrick reacts to midweek outburst",
-     "url": "https://www.mirror.co.uk/sport/football/news/man-utd-fernandes-dropped-carrick-37808422",
-     "pub": "2026-10-25T12:34+00:00"
-    },
-    {
-     "medio": "Google News EN",
-     "titulo": "Man Utd captain Bruno Fernandes left on bench by manager Michael Carrick during Bournemouth defeat",
-     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5sV1h5bWI0dkk5ZTloS1RVZHdRekI2ejBZTl9oTl9oMm1FTmVCcnhGU2tUclB2a25haUhJZ3hvVERDMGYzTDJqUlZiZ0V5a0EyZEhVNVJRY2dJNVBHczZLNnBXSWl4RlQ4V1lr?oc=5",
-     "pub": "2026-10-25T12:58+00:00"
-    },
-    {
-     "medio": "Google News EN",
-     "titulo": "Man United: Michael Carrick explains why he dropped captain Bruno Fernandes for Bournemouth match",
-     "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOalQzaUhkSXJoeDZlSVZXTTRmR1NIejEzeWk2YnhDOGV1QlF3UFBHanMtUWx3WnptbURDbnFJTlRIel9VTUlkOFpMakF5MW5CbGpDSGN0UkwwTzF1Q2RlRE5hREpQUnkyMnlvSzRneDB0VGdEb0F4dTY2Q1MwU3VRSTZqNG40X2RYSE9ZNlF2MUhWT3Z3alljbzFIMlhYY0xMbzJWUFNQVmdRaDlZRzZrZUNSUVQ2a0pjekdfR2dkN0lMVXlHQ2VOb3RHUVE0cWdk?oc=5",
-     "pub": "2026-10-25T13:08+00:00"
-    }
-   ]
-  },
-  {
-   "tema": "Manchester",
-   "medios": 9,
-   "lista_medios": [
-    "Daily Mail",
-    "Foot Mercato",
-    "FourFourTwo",
-    "Google News EN",
-    "Guardian",
-    "L'Equipe",
-    "Mundo Deportivo",
-    "Yahoo",
-    "talkSPORT"
-   ],
-   "primera_vez": "2026-10-24T11:28+00:00",
-   "titulares": [
-    {
-     "medio": "Guardian",
-     "titulo": "Aston Villa v Manchester City: Premier League – live",
-     "url": "https://www.theguardian.com/football/live/2026/oct/24/aston-villa-v-manchester-city-premier-league-live",
-     "pub": "2026-10-24T11:10+00:00"
-    },
-    {
-     "medio": "Daily Mail",
-     "titulo": "Aston Villa vs Manchester City - Premier League: Enzo Maresca's side look to maintain 100 per cent record as Erling Haaland shakes off injury concern to START for leaders",
-     "url": "https://www.dailymail.com/sport/football/article-16229467/aston-villa-man-city-premier-league-live.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-     "pub": "2026-10-24T11:22+00:00"
-    },
-    {
-     "medio": "Yahoo",
-     "titulo": "Manchester City vs Aston Villa: Starting lineups revealed as Enzo Maresca makes his big calls",
-     "url": "https://sports.yahoo.com/articles/manchester-city-vs-aston-villa-102000134.html",
-     "pub": "2026-10-24T10:20+00:00"
-    },
-    {
-     "medio": "Google News EN",
-     "titulo": "Manchester United: Senne Lammens reflects Como defeat and team's form",
-     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOVEU0bTZiMTBLQkN1QzNtbnlJaklLZENtYzQ4Mnl2XzBPMm10VXR2NWJBVEhQMmhkQUlMdTlhQmpDc3dsT0FBTHduVGNqOU02eG5kWDdqWERvcFdocXcxOEVDcG1jaDZqN0lSdFludjZhRE5Od0dCUm9oWE5IY0F5RGhkcGYyUEF4VEtHNnprcTJ5emk2aVg2YzV1X3NLYUExUW9QMFJ2N01faF9XLTIyZXV2V01zRXM0?oc=5",
-     "pub": "2026-10-24T11:01+00:00"
-    },
-    {
-     "medio": "Mundo Deportivo",
-     "titulo": "Aston Villa - Manchester City, en directo | Premier League",
-     "url": "https://www.mundodeportivo.com/futbol/premier-league/20261024/1004240630/aston-villa-manchester-city-directo-premier-league.html",
-     "pub": ""
-    },
-    {
-     "medio": "Guardian",
-     "titulo": "Aston Villa and Jackson end Manchester City’s perfect run with stunning win",
-     "url": "https://www.theguardian.com/football/2026/oct/24/aston-villa-manchester-city-premier-league-match-report",
-     "pub": "2026-10-24T13:33+00:00"
-    },
-    {
-     "medio": "Yahoo",
-     "titulo": "Manchester City player ratings: Who failed to deliver in 2-1 defeat to Aston Villa?",
-     "url": "https://sports.yahoo.com/articles/manchester-city-player-ratings-failed-135400155.html",
-     "pub": "2026-10-24T13:54+00:00"
-    },
-    {
-     "medio": "Yahoo",
-     "titulo": "Khusanov Gets 8, Donnarumma With 5 | Manchester City Players Rated In Lackluster Loss Vs Aston Villa",
-     "url": "https://sports.yahoo.com/articles/khusanov-gets-8-donnarumma-5-135000404.html",
-     "pub": "2026-10-24T13:50+00:00"
-    },
-    {
-     "medio": "Yahoo",
-     "titulo": "Manchester City 1 Aston Villa 2 : A common issue resurfaces for City at Villa Park",
-     "url": "https://sports.yahoo.com/articles/manchester-city-1-aston-villa-134000929.html",
-     "pub": "2026-10-24T13:40+00:00"
-    },
-    {
-     "medio": "Yahoo",
-     "titulo": "Jackson Gets 8.5, Suzuki With 7.5 | Aston Villa Players Rated In Hard-Fought Victory Vs Manchester City",
-     "url": "https://sports.yahoo.com/articles/jackson-gets-8-5-suzuki-134000769.html",
-     "pub": "2026-10-24T13:40+00:00"
-    },
-    {
-     "medio": "Yahoo",
-     "titulo": "🚨 Manchester City's first defeat of the season, Jackson scores twice !",
-     "url": "https://sports.yahoo.com/articles/manchester-citys-first-defeat-season-132400023.html",
-     "pub": "2026-10-24T13:24+00:00"
-    },
-    {
-     "medio": "Google News EN",
-     "titulo": "My Moments: Elisabeth Terland on Wembley, family and feeling at home in Manchester",
-     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPNHRuMUlmR2M3QkVDWDhmX0ZXalZwcTVxYzhxQ3NnOEpDMzJtQ09MOEMwLWZIdmZfaV95ZFRCVkp5MU5fSzc1WmEtZ2N6VGd2ZE5Oc1Z1YXE1bXpkUVh4OFZkbHYyUkFmbFdPdUlrOHp6TzBPeURYaWNfTzhONXZzNmVsbXJQaU9KT3RJSHJTdWYzbU0?oc=5",
-     "pub": "2026-10-24T13:22+00:00"
-    }
-   ]
-  },
-  {
-   "tema": "Pedro",
-   "medios": 9,
-   "lista_medios": [
-    "Daily Mail",
-    "Foot Mercato",
-    "Google News AR",
-    "Google News EN",
-    "Google News ES",
-    "Mirror",
-    "Yahoo",
-    "ge.globo",
-    "talkSPORT"
-   ],
-   "primera_vez": "2026-10-24T11:28+00:00",
-   "titulares": [
-    {
-     "medio": "Daily Mail",
-     "titulo": "Chelsea vs Tottenham combined XI according to the stats: In-form Cole Palmer and Joao Pedro make the cut, while a World Cup villain earns a surprise play - but which FOUR Spurs stars get the nod?",
-     "url": "https://www.dailymail.com/sport/football/article-16229395/chelsea-tottenham-combined-xi-stats.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-     "pub": "2026-10-24T08:03+00:00"
-    },
-    {
-     "medio": "Google News ES",
-     "titulo": "Muere Juan Pedro Ruiz, leyenda del Real Murcia y pionero del fútbol femenino",
-     "url": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxQRmJvS0hhVTkwSmotYk9Jc2tSbkFRcjZzSk5FUXI0N0dLVnl0YUM2b21CMjNwRV8zRHZOcHc5Y21mY1NOSzFQc2YzSk0xM2kzWUU0RGRMZVd6dkJNSUx0WnlmdC1CUVAxUEpvSmdmNFg2NFpjN1VnTUFFbkxSc2lOZUw3X05DdGFKQWhtUjh2NUc4bUxUNUk3aS1IVW9rd3pfQWU3NE1VdGRLcEx5ellNa2x3eUJKcWdQanJKc0drd2NEdTh3SnNNUlpYOVIycnhjZDNpMkl0THZxdDgzZG9PR3hwNGFyc041RTNnRjhwWHNxamEtd2tqSzB3Tm1vNHQ2WENTa2VHa1hLTGdFWlZaSG1YeVZiY1NSNEhYWDQ0NkFGczNwZXZTddIBrgJBVV95cUxOdmpqa1RGM05yUjZ6N0ZkYnVweWFmZ2hRaXhwM2N4OXdrSzd3cHI1ZXNCZHF1REFPQ0ZHcWpLZ0xuV0V3Rk9YNkhWbGJQd1VfQ2ZPeDloMVZlU3phbzdUdVdQY21LOWQ0SE5HNkZGejA5Z3VSZ01oY1ZRNlZIektscHpIcl9JWVpYQ0ZnRm9laVB2OURzUVNTWGRENXVkTTBEVnRENm1QZTM2YWNvZGdNWUFzN1cybmNHdkJEYWVMZUMtUWxmQzBEWmxhMG1ldjlFMVRCSEpRRm5DbERYOVFWYU5fYVZmbGpZQzZWSTBnOUZVQUw1R0R2Y2xYMm9UUTNjTFhkZmZZUkRVakxUV2liQkt2ckdoVHJTdTl2aXQwaHc2eTNmRXB1M0R6X1Zldw?oc=5",
-     "pub": "2026-10-24T09:52+00:00"
-    },
-    {
-     "medio": "Google News ES",
-     "titulo": "Fallece Juan Pedro Ruiz, un histórico del fútbol regional",
-     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNaE16eklUa2FIeUFzdjJZNlduX3ZySUVXWVVqUHNDLVlWVWRmUWNBYkpQa041MkEydTJYeXlyYTNKMU9sWDNTc1JSNXhfTFNtOFZMUEhVRThETUdkaEpVUDRNMHFBQVg4dlJ2WVlNYjl4MXhkZWFBdzBXM3c0MC1xQXRjTnA3U3o0OXd0bURWdjdFeDdPdDZCUE1DZG9xdmVwSF9j0gGoAUFVX3lxTE5JQ0FMNV95Nm5nb2lDTmlHSzFJVjN1SkdjV0ZwRVhHZk5BWjd5U2YzNU94Tl84YmhGM3I4aVFMdWNFRWZqd1VIYWlRMXR0TlZjU3BMMUt0Z2FVREpGNmZ3SlVHalhzRFp4Uk5WOWlRVXBGRVNfbk5qQXhGWEFZMTBDVFExalJzZHpuQ0NPLTlmRnlZVU1wNTRpRVFrZXpiX2lhby1vbEg5Ng?oc=5",
-     "pub": "2026-10-24T08:59+00:00"
-    },
-    {
-     "medio": "ge.globo",
-     "titulo": "Pedro Lima \"dorme com a camisa\" do São Paulo, acorda titular e domina a posição",
-     "url": "https://ge.globo.com/futebol/times/sao-paulo/noticia/2026/10/24/pedro-lima-dorme-com-a-camisa-do-sao-paulo-acorda-titular-e-domina-a-posicao.ghtml",
-     "pub": "2026-10-24T11:00+00:00"
-    },
-    {
-     "medio": "Google News AR",
-     "titulo": "Jorge Zamora: del fútbol infantil de San Pedro al Club de Pesca en Mar del Plata",
-     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOS2xGa1Fxejg4c2t4bWRHRDdJX3Nqc3dkYUVoUXk2MW11Q3pfSW40NmFleWlzVlVfWUVuU1RZZVFxd2NhcHRjV2NsczkxQmVZU0lpU1B1c3lEM3o2ZE91ckJwRkR5OHNJc3FFdFJrUzN5cTgyM3hWclg3VTh5V1BfMTFXd1JMTS1kOTcyWXJSQ2NlUk90Y3hkT2J5eHhST0VSWlNBbFdhTWNuS0JfQVh6amFsYzYxcEdzc3pqUUMzMTlEYzQ?oc=5",
-     "pub": "2026-10-24T12:52+00:00"
-    },
-    {
-     "medio": "talkSPORT",
-     "titulo": "Chelsea name surprise striker for Tottenham clash after unexpected Joao Pedro blow",
-     "url": "https://talksport.com/football/4665009/chelsea-striker-geovany-quenda-joao-pedro-tottenham/",
-     "pub": "2026-10-24T15:32+00:00"
-    },
-    {
-     "medio": "Mirror",
-     "titulo": "Why Joao Pedro is not in Chelsea squad vs Tottenham as youngster given huge debut",
-     "url": "https://www.mirror.co.uk/sport/football/news/chelsea-spurs-joao-pedro-injury-37807231",
-     "pub": "2026-10-24T16:11+00:00"
-    },
-    {
-     "medio": "Yahoo",
-     "titulo": "Joao Pedro out of Chelsea team to face Tottenham in London derby",
-     "url": "https://sports.yahoo.com/articles/joao-pedro-chelsea-team-face-152648630.html",
-     "pub": "2026-10-24T16:17+00:00"
-    },
-    {
-     "medio": "Yahoo",
-     "titulo": "Joao Pedro injury news: Latest update as Chelsea star out against Tottenham Hotspur",
-     "url": "https://sports.yahoo.com/articles/joao-pedro-injury-news-latest-154750500.html",
-     "pub": "2026-10-24T15:47+00:00"
+     "medio": "L'Equipe",
+     "titulo": "Pierre Sage et Michael Carrick sur un siège éjectable après les nouvelles défaites de Crystal Palace et de Manchester United",
+     "url": "https://www.lequipe.fr/Football/Actualites/Pierre-sage-et-michael-carrick-sur-un-siege-ejectable-apres-les-nouvelles-defaites-de-crystal-palace-et-manchester-united/1738548#at_medium=RSS_feeds",
+     "pub": "2026-10-25T15:58+00:00"
     },
     {
      "medio": "Foot Mercato",
-     "titulo": "Chelsea : João Pedro forfait de dernière minute contre Tottenham",
-     "url": "https://www.footmercato.net/a8173047468459899972-chelsea-joao-pedro-forfait-de-derniere-minute-contre-tottenham",
-     "pub": "2026-10-24T15:53+00:00"
+     "titulo": "Premier League : Liverpool assure contre Brighton, la crise continue pour MU et Crystal Palace",
+     "url": "https://www.footmercato.net/a1437362315844830663-premier-league-liverpool-assure-contre-brighton-la-crise-continue-pour-mu-et-crystal-palace",
+     "pub": "2026-10-25T15:56+00:00"
     },
     {
-     "medio": "Yahoo",
-     "titulo": "Xabi Alonso reacts Chelsea's rain-soaked loss at Tottenham Hotspur as Blues struggle without Joao Pedro",
-     "url": "https://sports.yahoo.com/articles/xabi-alonso-reacts-cole-palmer-182520638.html",
-     "pub": "2026-10-24T19:01+00:00"
-    },
-    {
-     "medio": "ge.globo",
-     "titulo": "Pedro Emanuel vê \"vitória à Vasco\" em virada sobre Corinthians e exalta Marino: \"Determinante\"",
-     "url": "https://ge.globo.com/futebol/times/vasco/noticia/2026/10/24/pedro-emanuel-vibra-com-virada-no-fim-sobre-o-corinthians-vitoria-a-vasco.ghtml",
-     "pub": "2026-10-25T00:43+00:00"
-    }
-   ]
-  },
-  {
-   "tema": "Coventry",
-   "medios": 9,
-   "lista_medios": [
-    "AS",
-    "BBC",
-    "Daily Mail",
-    "FourFourTwo",
-    "Google News EN",
-    "Guardian",
-    "Mundo Deportivo",
-    "Sky Sports",
-    "Yahoo"
-   ],
-   "primera_vez": "2026-10-24T11:28+00:00",
-   "titulares": [
-    {
-     "medio": "FourFourTwo",
-     "titulo": "Watch Coventry City vs Fulham: Live Streams and TV Channels",
-     "url": "https://www.fourfourtwo.com/competition/watch-coventry-vs-fulham-premier-league-2026-27-free",
-     "pub": "2026-10-24T11:00+00:00"
-    },
-    {
-     "medio": "Guardian",
-     "titulo": "Arsenal v Everton, Coventry v Fulham, EFL, and more – football clockwatch live",
-     "url": "https://www.theguardian.com/football/live/2026/oct/24/tottenham-arsenal-wsl-premier-league-efl-football-clockwatch-live",
-     "pub": "2026-10-24T14:32+00:00"
-    },
-    {
-     "medio": "Sky Sports",
-     "titulo": "King hits the post as Fulham chase opener at Coventry LIVE!",
-     "url": "https://www.skysports.com/football/coventry-city-vs-fulham/live/559517",
-     "pub": "2026-10-24T13:30+00:00"
-    },
-    {
-     "medio": "AS",
-     "titulo": "Coventry - Fulham, en directo: Premier League, hoy en vivo",
-     "url": "https://as.com/futbol/internacional/coventry-fulham-en-directo-premier-league-hoy-en-vivo-f202610-n/",
-     "pub": "2026-10-24T14:44+00:00"
-    },
-    {
-     "medio": "Mundo Deportivo",
-     "titulo": "Coventry City - Fulham, en directo | Premier League",
-     "url": "https://www.mundodeportivo.com/futbol/premier-league/20261024/1004240636/coventry-city-fulham-directo-premier-league.html",
-     "pub": ""
-    },
-    {
-     "medio": "Guardian",
-     "titulo": "Fulham climb out of drop zone after Oscar Bobb’s late show sinks Coventry",
-     "url": "https://www.theguardian.com/football/2026/oct/24/coventry-fulham-premier-league-match-report",
-     "pub": "2026-10-24T16:11+00:00"
-    },
-    {
-     "medio": "Daily Mail",
-     "titulo": "Oscar Bobb's moment of magic breathes life into Alvaro Arbeloa's return from the dead... but Coventry lack cutting edge required for big time, writes JAMES SHARPE",
-     "url": "https://www.dailymail.com/sport/football/article-16229477/oscar-bobb-alvaro-arbeloa-fulham-coventry.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-     "pub": "2026-10-24T17:42+00:00"
-    },
-    {
-     "medio": "Yahoo",
-     "titulo": "Fulham snatch late winner at relegation rivals Coventry to emerge from bottom three",
-     "url": "https://sports.yahoo.com/articles/fulham-snatch-winner-relegation-rivals-162610498.html",
-     "pub": "2026-10-24T16:26+00:00"
-    },
-    {
-     "medio": "BBC",
-     "titulo": "Bobb's late strike secures Fulham win at Coventry",
-     "url": "https://www.bbc.co.uk/sport/football/videos/cx7vpmrzr04do?at_medium=RSS&at_campaign=rss",
-     "pub": "2026-10-24T18:59+00:00"
-    },
-    {
-     "medio": "Google News EN",
-     "titulo": "Premier League highlights: Coventry City 0-1 Fulham",
-     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBxSkdJMExidDE5TGxpbG9FTm9lYVBwREZOVk9xdFAxOHhvMzZhZklGcEtiRjhYTkFYMWl5Vk9zS3NCb0lUZkRNZzBYVDBEMHI4cjJqY2JuNmk2Um1ZZTJfeVpteWt4el9R?oc=5",
-     "pub": "2026-10-24T18:59+00:00"
-    }
-   ]
-  },
-  {
-   "tema": "Roma",
-   "medios": 9,
-   "lista_medios": [
-    "Foot Mercato",
-    "Football Italia",
-    "Google News ES",
-    "Guardian",
-    "Infobae",
-    "Kicker",
-    "Mundo Deportivo",
-    "Record",
-    "Yahoo"
-   ],
-   "primera_vez": "2026-10-24T11:28+00:00",
-   "titulares": [
-    {
-     "medio": "Yahoo",
-     "titulo": "Malen could have joined Napoli: why the deal collapsed before his Roma move",
-     "url": "https://sports.yahoo.com/articles/malen-could-joined-napoli-why-111500624.html",
-     "pub": "2026-10-24T11:15+00:00"
-    },
-    {
-     "medio": "Google News ES",
-     "titulo": "Nápoles vs AS Roma de Serie A 2026/2027: horario y dónde ver hoy por TV y online el partido de la liga italiana a través de DAZN",
-     "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPUFR3ZVlwNTVHQjZueTR2Ry02TlVReVRxRTFrYzVYdkRxalhlZGU4ZXVnR0FJZVVVMTNWOEwyaHFoSXBvM2tpU2NGT1lVS2l3S0JNUHhWQ1JPNThmSFBlUDkxQWtjOXlXbl9FWGFVeFM3WnkwZTR1d015a0YwZ0hGODBpUldIeUtMdnZvcEIwbGoyNHoyTmNPRlhwdVhRUU1JUjktZi1XbUpXNmZGaWlZVFl5OVdiMzAwT0tOV0ZtbDlhUmZiOGtNM0RVZEdrMmV4YkZDUmlBQU1tNUVFejFkSVVXRTNITnZBbFlIVlYta3lONjBY?oc=5",
-     "pub": "2026-10-24T10:00+00:00"
-    },
-    {
-     "medio": "Football Italia",
-     "titulo": "Serie A: Napoli vs. Roma – probable line-ups, where to watch on TV",
-     "url": "https://football-italia.net/serie-a-napoli-roma-probable-line-ups-watch-tv/",
-     "pub": "2026-10-24T08:13+00:00"
-    },
-    {
-     "medio": "Yahoo",
-     "titulo": "Barcelona defender offered to AS Roma by superagent as January exit looms",
-     "url": "https://sports.yahoo.com/articles/barcelona-defender-offered-roma-superagent-143300754.html",
-     "pub": "2026-10-24T14:33+00:00"
-    },
-    {
-     "medio": "Yahoo",
-     "titulo": "Serie A | Napoli 3-3 Roma: Epic battle with McTominay and Balerdi braces",
-     "url": "https://sports.yahoo.com/articles/serie-napoli-3-3-roma-180000987.html",
-     "pub": "2026-10-24T18:00+00:00"
-    },
-    {
-     "medio": "Yahoo",
-     "titulo": "Video: Anguissa scores spectacular bicycle kick for 1-0 against Roma",
-     "url": "https://sports.yahoo.com/articles/video-anguissa-scores-spectacular-bicycle-165000983.html",
-     "pub": "2026-10-24T16:50+00:00"
-    },
-    {
-     "medio": "Yahoo",
-     "titulo": "Gasperini: ‘Cristante gives Roma different variables, victory would show strength’",
-     "url": "https://sports.yahoo.com/articles/gasperini-cristante-gives-roma-different-153500195.html",
-     "pub": "2026-10-24T15:35+00:00"
-    },
-    {
-     "medio": "Mundo Deportivo",
-     "titulo": "La Roma, atenta a Balde para enero",
-     "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261024/1004242696/roma-atenta-balde-enero.html",
-     "pub": ""
-    },
-    {
-     "medio": "Football Italia",
-     "titulo": "Serie A official line-ups: Napoli vs. Roma",
-     "url": "https://football-italia.net/serie-a-official-line-ups-napoli-vs-roma-wk8/",
-     "pub": "2026-10-24T15:01+00:00"
-    },
-    {
-     "medio": "Kicker",
-     "titulo": "Trotz Zambo Anguissas Kunststück: Die Roma wahrt auch in Neapel ihren Nimbus",
-     "url": "https://www.kicker.de/neapel-gegen-roma-2026-serie-a-5204390/spielbericht#omrss",
-     "pub": "2026-10-24T18:14+00:00"
-    },
-    {
-     "medio": "Kicker",
-     "titulo": "Neapel - Roma: Rote Karte für in der 91. Minute",
-     "url": "https://www.kicker.de/neapel-roma-rote-karte-fuer-in-der-91-minute-1264749/video#omrss",
-     "pub": "2026-10-24T17:54+00:00"
-    },
-    {
-     "medio": "Kicker",
-     "titulo": "Neapel - Roma: Tor zum 3:3 durch Balerdi in der 89. Minute",
-     "url": "https://www.kicker.de/neapel-roma-tor-zum-3-3-durch-balerdi-in-der-89-minute-1264748/video#omrss",
-     "pub": "2026-10-24T17:52+00:00"
+     "medio": "talkSPORT",
+     "titulo": "Crystal Palace consider moves for three ex-Premier League managers as pressure grows on Pierre Sage",
+     "url": "https://talksport.com/football/4666705/crystal-palace-next-manager-pierre-sage-sean-dyche-thomas-frank-robbie-keane-vitor-pereira/",
+     "pub": "2026-10-25T19:31+00:00"
     }
    ]
   }
