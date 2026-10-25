@@ -495,3 +495,30 @@
 - BBC: Symonds scores screamer as Brighton beat West Ham
 - talkSPORT: Storm cancels major sports event four miles from Anfield just hours before Liverpool vs Brighton
 
+## 25/10 20:55 · Bournemouth stun United · revisar
+- Motivo: sin foto buena con cara visible
+- Temas: Bournemouth
+- Daily Mail: Michael Carrick reveals private chats with Sir Alex Ferguson and Ole Gunner Solskjaer as under-pressure Man United boss tells fans they will see a 'different team' against Bournemouth after Como capitulation
+- FourFourTwo: How to watch Manchester United vs Bournemouth: FREE streams
+- Yahoo: Manchester United Starting XI vs Bournemouth: Confirmed Team News and Predicted Lineup
+- Google News EN: Man Utd vs Bournemouth predictions: Chris Sutton on Premier League game
+- BBC: Fernandes left out - Man Utd hammered, Bournemouth brilliant - how they rated
+
+## 25/10 20:55 · Kompany out for weeks · revisar
+- Motivo: categoría sensible: injury
+- Temas: Bayern, Kompany
+- Guardian: Vincent Kompany to miss ‘weeks, not days’ with virus treatment, say Bayern Munich
+- Daily Mail: Bayern Munich insiders were worried about 'workaholic' Vincent Kompany weeks before Man City legend's training ground collapse, new report claims - as German giants confirm boss will be out for 'weeks'
+- Yahoo: Bayern Munich issue further Vincent Kompany update after collapse at training ground
+- Google News EN: Bayern Munich boss Vincent Kompany's recovery will take 'weeks'
+- Foot Mercato: Le Bayern Munich annonce une longue absence pour Vincent Kompany !
+
+## 25/10 20:55 · Sancho offered 96% cut · revisar
+- Motivo: palabra sensible en los titulares: bomb
+- Temas: Man
+- Sky Sports: Villa vs Man City: Can Premier League leaders maintain winning start? LIVE!
+- talkSPORT: Jadon Sancho offered contract by Spanish club with 96 per cent wage cut from Man United deal
+- talkSPORT: Aston Villa vs Man City Super Boost: NOW 7/4 City to win and Haaland to score with talkSPORT BET
+- Daily Mail: Bayern Munich insiders were worried about 'workaholic' Vincent Kompany weeks before Man City legend's training ground collapse, new report claims - as German giants confirm boss will be out for 'weeks'
+- Daily Mail: Tyrell Malacia reveals brutal reality of life in Ruben Amorim's bomb squad as Man United flop claims former boss gave him NO explanation for his exile
+
