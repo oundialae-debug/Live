@@ -477,3 +477,21 @@
 - Yahoo: Cubarsi explains how Barcelona can Flick’s high defensive line work vs Real Madrid: ‘Press like animals’
 - Yahoo: Real Madrid blockbuster summer signing is rewarding Mourinho’s faith with explosive form
 
+## 25/10 17:49 · Arsenal hit by fresh injuries · revisar
+- Motivo: categoría sensible: injury
+- Temas: Arsenal
+- BBC: Why Tottenham v Arsenal could define their seasons - live on BBC One
+- Sky Sports: WSL: Tottenham vs Arsenal LIVE!
+- Mirror: Bukayo Saka injury update as Arsenal fear losing star for two months
+- FourFourTwo: Arsenal vs Everton: FREE stream and TV info
+- FourFourTwo: How to watch Tottenham Hotspur vs Arsenal: Free streams and TV channels for WSL North London derby
+
+## 25/10 17:49 · Storm forces Brighton match delay · revisar
+- Motivo: palabra sensible en los titulares: arrêtera
+- Temas: Brighton
+- L'Equipe: Gross, le vétéran plus âgé que son entraîneur qui casse les codes avec Brighton
+- Kicker: Liverpool gegen Brighton droht die Absage
+- Foot Mercato: Premier League : mais où s’arrêtera Brighton ?
+- BBC: Symonds scores screamer as Brighton beat West Ham
+- talkSPORT: Storm cancels major sports event four miles from Anfield just hours before Liverpool vs Brighton
+

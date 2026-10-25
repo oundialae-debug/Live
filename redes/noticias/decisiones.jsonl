@@ -126,3 +126,6 @@
 {"t": "2026-10-25T11:56+00:00", "estado": "revisar", "temas": ["Madrid", "Mourinho"], "clave": "mourinho-clasico-preview", "motivo": "sin foto buena con cara visible"}
 {"t": "2026-10-25T11:56+00:00", "estado": "descartar", "temas": ["Alonso"], "clave": "alonso-chelsea-criticism", "motivo": "falta question"}
 {"t": "2026-10-25T16:49+00:00", "estado": "publicado", "temas": ["Palmer"], "clave": "palmer-red-card", "video": "https://raw.githubusercontent.com/oundialae-debug/live/main/media/noticias/2026-10-25_1749_palmer-red-card.mp4"}
+{"t": "2026-10-25T16:49+00:00", "estado": "revisar", "temas": ["Arsenal"], "clave": "arsenal-injuries-2026", "motivo": "categoría sensible: injury"}
+{"t": "2026-10-25T16:49+00:00", "estado": "revisar", "temas": ["Brighton"], "clave": "brighton-storm-postponement", "motivo": "palabra sensible en los titulares: arrêtera"}
+{"t": "2026-10-25T16:49+00:00", "estado": "descartar", "temas": ["Everton"], "clave": "everton-pickford-loan", "motivo": "importancia 5 < 7"}
