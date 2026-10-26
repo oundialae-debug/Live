@@ -531,3 +531,12 @@
 - Yahoo: Real Madrid rejected the chance to sign Barcelona attacking star back in the summer – Romano
 - Yahoo: Raphinha talks Mourinho, Vinicius, Valverde, fitness ahead of Barcelona vs Real Madrid: ‘Still working towards 100%’
 
+## 26/10 20:32 · Ballon d'Or 2026 buzz · revisar
+- Motivo: sin foto buena con cara visible
+- Temas: Ballon, Kane
+- Guardian: Ballon d’Or ceremony returns to England in nod to ‘revolutionary’ Stanley Matthews
+- Daily Mail: Inside Harry Kane's business empire: Ballon d'Or favourite shares ticketing venture with John Terry, launched his own golfwear brand and has backed the football boffins - with the England captain now closing in on new Bayern Munich deal
+- Mirror: Ex-Premier League boss stuns with Marc Cucurella Ballon d'Or pick as Harry Kane eyes award
+- L'Equipe: Messi, Rodri, Sammer... le top 5 des sacres les plus serrés pour le Ballon d'Or
+- Foot Mercato: Ballon d’Or : Rio Mavuba vote pour Kylian Mbappé
+

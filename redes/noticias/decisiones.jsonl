@@ -133,3 +133,5 @@
 {"t": "2026-10-25T19:55+00:00", "estado": "revisar", "temas": ["Bayern", "Kompany"], "clave": "kompany-health", "motivo": "categoría sensible: injury"}
 {"t": "2026-10-25T19:55+00:00", "estado": "revisar", "temas": ["Man"], "clave": "sancho-contract", "motivo": "palabra sensible en los titulares: bomb"}
 {"t": "2026-10-26T13:40+00:00", "estado": "revisar", "temas": ["Barcelona"], "clave": "barcelona-juventus-defender", "motivo": "datos que no salen en los titulares: Catalans"}
+{"t": "2026-10-26T19:32+00:00", "estado": "revisar", "temas": ["Ballon", "Kane"], "clave": "ballon-dor-2026", "motivo": "sin foto buena con cara visible"}
+{"t": "2026-10-26T19:32+00:00", "estado": "descartar", "temas": ["Alonso"], "clave": "xabi-alonso-criticism", "motivo": "importancia 6 < 7"}
