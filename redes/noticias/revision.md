@@ -522,3 +522,12 @@
 - Daily Mail: Bayern Munich insiders were worried about 'workaholic' Vincent Kompany weeks before Man City legend's training ground collapse, new report claims - as German giants confirm boss will be out for 'weeks'
 - Daily Mail: Tyrell Malacia reveals brutal reality of life in Ruben Amorim's bomb squad as Man United flop claims former boss gave him NO explanation for his exile
 
+## 26/10 14:40 · Barcelona eye Juventus defender · revisar
+- Motivo: datos que no salen en los titulares: Catalans
+- Temas: Barcelona
+- Yahoo: Barcelona revive interest in €30m-rated Juventus defender; move dependent on Alejandro Balde – report
+- Yahoo: Injured Real Madrid defender to travel to Barcelona to support teammates in El Clasico
+- Yahoo: Rival watch: Real Madrid superstar ruled out of Barcelona clash in last-minute blow
+- Yahoo: Real Madrid rejected the chance to sign Barcelona attacking star back in the summer – Romano
+- Yahoo: Raphinha talks Mourinho, Vinicius, Valverde, fitness ahead of Barcelona vs Real Madrid: ‘Still working towards 100%’
+
