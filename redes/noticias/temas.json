@@ -1,15 +1,16 @@
 {
- "generado": "2026-10-26T13:28+00:00",
+ "generado": "2026-10-26T19:31+00:00",
  "temas": [
   {
    "tema": "Madrid",
-   "medios": 19,
+   "medios": 20,
    "lista_medios": [
     "AS",
     "Daily Mail",
     "Foot Mercato",
     "FourFourTwo",
     "Google News AR",
+    "Google News EN",
     "Google News ES",
     "Guardian",
     "Infobae",
@@ -150,12 +151,6 @@
      "pub": "2026-10-25T08:00+00:00"
     },
     {
-     "medio": "Mirror",
-     "titulo": "Michael Carrick faces make-or-break Bruno Fernandes decision after Cristiano Ronaldo comparison",
-     "url": "https://www.mirror.co.uk/sport/football/news/carrick-fernandes-man-utd-ronaldo-37807652",
-     "pub": "2026-10-25T07:00+00:00"
-    },
-    {
      "medio": "Guardian",
      "titulo": "Michael Carrick on the brink after Manchester United are humiliated by Bournemouth",
      "url": "https://www.theguardian.com/football/2026/oct/25/manchester-united-bournemouth-premier-league-match-report-michael-carrick",
@@ -195,6 +190,12 @@
      "medio": "Daily Mail",
      "titulo": "Man United vs Bournemouth - Premier League LIVE: All the reaction as Michael Carrick looks destined for the sack after another dismal Red Devils display - and Liverpool beat Brighton",
      "url": "https://www.dailymail.com/sport/football/article-16229511/Manchester-United-vs-Bournemouth-Liverpool-vs-Brighton-Premier-League-LIVE-fire-Michael-Carrick-searches-response-Reds-battle-form-Seagulls.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+     "pub": "2026-10-25T16:41+00:00"
+    },
+    {
+     "medio": "Daily Mail",
+     "titulo": "This was the end for Michael Carrick after his gang of the damned were relentlessly dismantled 3-0 by Bournemouth... he will be the next to walk into Man United's endless winter, writes OLIVER HOLT",
+     "url": "https://www.dailymail.com/sport/football/article-16229521/This-end-Michael-Carrick-gang-damned-relentlessly-dismantled-3-0-Bournemouth-walk-Man-Uniteds-endless-winter-writes-OLIVER-HOLT.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
      "pub": "2026-10-25T16:41+00:00"
     }
    ]
@@ -299,13 +300,14 @@
   },
   {
    "tema": "Barcelona",
-   "medios": 16,
+   "medios": 17,
    "lista_medios": [
     "AS",
     "Daily Mail",
     "Football Italia",
     "FourFourTwo",
     "Google News AR",
+    "Google News EN",
     "Google News ES",
     "Guardian",
     "Infobae",
@@ -417,12 +419,6 @@
    "primera_vez": "2026-10-25T11:55+00:00",
    "titulares": [
     {
-     "medio": "BBC",
-     "titulo": "Why are Liverpool struggling for Premier League goals?",
-     "url": "https://www.bbc.co.uk/sport/football/articles/c94g1p32gyrro?at_medium=RSS&at_campaign=rss",
-     "pub": "2026-10-25T06:26+00:00"
-    },
-    {
      "medio": "talkSPORT",
      "titulo": "Storm cancels major sports event four miles from Anfield just hours before Liverpool vs Brighton",
      "url": "https://talksport.com/football/4665909/storm-boelo-cancels-aintree-liverpool-brighton/",
@@ -459,24 +455,6 @@
      "pub": "2026-10-25T08:00+00:00"
     },
     {
-     "medio": "Mirror",
-     "titulo": "'I played with Arsenal and Liverpool stars – but now I make music with 500k Spotify fans'",
-     "url": "https://www.mirror.co.uk/sport/football/news/arsenal-liverpool-ajax-spotify-mbinga-37799677",
-     "pub": "2026-10-25T06:30+00:00"
-    },
-    {
-     "medio": "Mirror",
-     "titulo": "Andoni Iraola has made three changes as Liverpool star confirmed things feel different",
-     "url": "https://www.mirror.co.uk/sport/football/news/andoni-iraola-liverpool-changes-slot-37797919",
-     "pub": "2026-10-25T05:00+00:00"
-    },
-    {
-     "medio": "Mirror",
-     "titulo": "Liverpool news: Bayern Munich chief fires accusation at Iraola as star speaks on death threats",
-     "url": "https://www.mirror.co.uk/sport/football/news/liverpool-news-araujo-wirtz-iraola-37807352",
-     "pub": "2026-10-25T05:00+00:00"
-    },
-    {
      "medio": "FourFourTwo",
      "titulo": "Watch Liverpool vs Brighton: Live streams and TV channels",
      "url": "https://www.fourfourtwo.com/competition/watch-liverpool-vs-brighton-premier-league-2026-27",
@@ -487,6 +465,30 @@
      "titulo": "Former Liverpool star confirms reason for new club selection",
      "url": "https://sports.yahoo.com/articles/former-liverpool-star-confirms-reason-105000151.html",
      "pub": "2026-10-25T10:50+00:00"
+    },
+    {
+     "medio": "Yahoo",
+     "titulo": "Liverpool and Man United contacted about transfer of wonderkid",
+     "url": "https://sports.yahoo.com/articles/liverpool-man-united-contacted-transfer-101000465.html",
+     "pub": "2026-10-25T10:10+00:00"
+    },
+    {
+     "medio": "Yahoo",
+     "titulo": "Report: Liverpool have no interest in bringing back star",
+     "url": "https://sports.yahoo.com/articles/report-liverpool-no-interest-bringing-095000534.html",
+     "pub": "2026-10-25T09:50+00:00"
+    },
+    {
+     "medio": "Yahoo",
+     "titulo": "Liverpool Starting XI vs Brighton: Confirmed Team News and Predicted Lineup",
+     "url": "https://sports.yahoo.com/articles/liverpool-starting-xi-vs-brighton-092000258.html",
+     "pub": "2026-10-25T09:20+00:00"
+    },
+    {
+     "medio": "Google News EN",
+     "titulo": "Liverpool v Brighton to go ahead despite Storm Boelo",
+     "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPYVktNU9SSG5nUXl0YVRpWUdOR1J0QVJjM1JtdFNDSG5BU1FFSFBUc001bzJrSDFMWTRXTDF1TTYyWG9OcGpmdlJ5Uk9YUUp4WHZFRkJwWlM3ZlJla19HZ3ZZZVA5UmtibDl4ZGhGTThQNjJsSzdEWFZDcGZ4VUx5ZWVMVm1oMnQtbktSVmRzb1gxTmloaW4wRFZ5eGxIWmxZdTlPMVpxaF9zQnVORC1tdEVhdlBwdzh2ZUhBT3AyYjlyNXpndEpHb251UVJNejVSQkUzNk9YUWwwaHZHdEd1TEtlalc4SDgzUnM2NkFtVQ?oc=5",
+     "pub": "2026-10-25T10:29+00:00"
     }
    ]
   },
@@ -542,12 +544,6 @@
      "pub": "2026-10-25T08:00+00:00"
     },
     {
-     "medio": "L'Equipe",
-     "titulo": "Extraordinaire en C1 le mardi et sorti à la mi-temps en Premier League le samedi : avec Rayan Cherki, c'est tout ou rien cette saison à Manchester City",
-     "url": "https://www.lequipe.fr/Football/Actualites/Sorti-a-la-mi-temps-lors-d-aston-villa-manchester-city-rayan-cherki-a-une-nouvelle-fois-montre-qu-avec-lui-c-etait-tout-ou-rien-cette-saison/1738448#at_medium=RSS_feeds",
-     "pub": "2026-10-25T04:26+00:00"
-    },
-    {
      "medio": "Guardian",
      "titulo": "Michael Carrick on the brink after Manchester United are humiliated by Bournemouth",
      "url": "https://www.theguardian.com/football/2026/oct/25/manchester-united-bournemouth-premier-league-match-report-michael-carrick",
@@ -582,18 +578,25 @@
      "titulo": "0-3: El Bournemouth agrava las pesadillas del Manchester United y de Carrick",
      "url": "https://www.mundodeportivo.com/futbol/premier-league/20261025/1004242989/manchester-united-bournemouth.html",
      "pub": ""
+    },
+    {
+     "medio": "L'Equipe",
+     "titulo": "Pierre Sage et Michael Carrick sur un siège éjectable après les nouvelles défaites de Crystal Palace et de Manchester United",
+     "url": "https://www.lequipe.fr/Football/Actualites/Pierre-sage-et-michael-carrick-sur-un-siege-ejectable-apres-les-nouvelles-defaites-de-crystal-palace-et-manchester-united/1738548#at_medium=RSS_feeds",
+     "pub": "2026-10-25T15:58+00:00"
     }
    ]
   },
   {
    "tema": "Ballon",
-   "medios": 13,
+   "medios": 14,
    "lista_medios": [
     "BBC",
     "Daily Mail",
     "Foot Mercato",
     "Football Italia",
     "FourFourTwo",
+    "Google News EN",
     "Guardian",
     "Kicker",
     "L'Equipe",
@@ -628,12 +631,6 @@
      "titulo": "Messi, Rodri, Sammer... le top 5 des sacres les plus serrés pour le Ballon d'Or",
      "url": "https://www.lequipe.fr/Football/Actualites/Messi-rodri-sammer-le-top-5-des-sacres-les-plus-serres-pour-le-ballon-d-or/1718919#at_medium=RSS_feeds",
      "pub": "2026-10-25T10:10+00:00"
-    },
-    {
-     "medio": "L'Equipe",
-     "titulo": "Lamine Yamal vs Kylian Mbappé, le Clasico des candidats au Ballon d'or 2026",
-     "url": "https://www.lequipe.fr/Football/Video/Liga-lamine-yamal-vs-kylian-mbappe-le-clasico-des-candidats-au-ballon-d-or-2026/20244006#at_medium=RSS_feeds",
-     "pub": "2026-10-25T06:41+00:00"
     },
     {
      "medio": "Foot Mercato",
@@ -676,6 +673,106 @@
      "titulo": "Dutch legend backs Real Madrid superstar to win the Ballon d’Or – “He’s by far the best player”",
      "url": "https://sports.yahoo.com/articles/dutch-legend-backs-real-madrid-180000217.html",
      "pub": "2026-10-25T18:00+00:00"
+    },
+    {
+     "medio": "Foot Mercato",
+     "titulo": "Bertrand Latour : « si Mbappé est Ballon d’Or, c’est le Ballon d’Or de la honte ! »",
+     "url": "https://www.footmercato.net/a4298190974522061355-bertrand-latour-si-mbappe-est-ballon-dor-cest-le-ballon-dor-de-la-honte",
+     "pub": "2026-10-25T19:47+00:00"
+    }
+   ]
+  },
+  {
+   "tema": "Kane",
+   "medios": 13,
+   "lista_medios": [
+    "AS",
+    "BBC",
+    "Daily Mail",
+    "Foot Mercato",
+    "Google News EN",
+    "Kicker",
+    "Mirror",
+    "Mundo Deportivo",
+    "Planet Football",
+    "Sky Sports",
+    "Yahoo",
+    "ge.globo",
+    "talkSPORT"
+   ],
+   "primera_vez": "2026-10-25T11:55+00:00",
+   "titulares": [
+    {
+     "medio": "Mirror",
+     "titulo": "Ex-Premier League boss stuns with Marc Cucurella Ballon d'Or pick as Harry Kane eyes award",
+     "url": "https://www.mirror.co.uk/sport/football/news/marc-cucurella-ballon-dor-prediction-37808341",
+     "pub": "2026-10-25T11:32+00:00"
+    },
+    {
+     "medio": "Daily Mail",
+     "titulo": "Dele Alli pokes fun at Chelsea legend John Terry with video from Stamford Bridge as he watches former club Tottenham earn surprise 2-0 win... just weeks after going viral for his Twitch calls with Harry Kane and Co",
+     "url": "https://www.dailymail.com/sport/football/article-16236065/Dele-Alli-pokes-fun-Chelsea-legend-John-Terry-video-Stamford-Bridge-watches-former-club-Tottenham-earn-surprise-2-0-win-just-weeks-going-viral-Twitch-calls-Harry-Kane-Co.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+     "pub": "2026-10-25T13:57+00:00"
+    },
+    {
+     "medio": "Sky Sports",
+     "titulo": "Kane, Mbappe and Lamine Yamal - who should win men's 2026 Ballon d'Or?",
+     "url": "https://www.skysports.com/football/news/12040/13601847/ballon-dor-2026-harry-kane-kylian-mbappe-and-lamine-yamal-in-race-for-mens-award-stats-and-pundits-opinions",
+     "pub": "2026-10-26T07:00+00:00"
+    },
+    {
+     "medio": "talkSPORT",
+     "titulo": "What time is the 2026 Ballon d’Or ceremony? Red carpet and winner’s press conference info with Kane favourite",
+     "url": "https://talksport.com/football/4526357/what-time-ballon-dor-2026-date-location-favourites/",
+     "pub": "2026-10-26T10:05+00:00"
+    },
+    {
+     "medio": "Yahoo",
+     "titulo": "EXCLUSIVE | Chris Waddle: “Harry Kane should win Ballon d’Or, but Lamine Yamal will win it.”",
+     "url": "https://sports.yahoo.com/articles/exclusive-chris-waddle-harry-kane-124700219.html",
+     "pub": "2026-10-26T12:47+00:00"
+    },
+    {
+     "medio": "AS",
+     "titulo": "Balón de Oro 2026 hoy, en directo: ganadores, votos y última hora de la gala | Lamine, Mbappé, Kane, Alexia...",
+     "url": "https://as.com/futbol/internacional/balon-de-oro-2026-hoy-en-directo-ganadores-votos-y-ultima-hora-de-la-gala-lamine-mbappe-kane-alexia-f202610-n/",
+     "pub": "2026-10-26T13:25+00:00"
+    },
+    {
+     "medio": "Kicker",
+     "titulo": "Gibt es die Krönung für Kane? \"Beim FC Bayern sind sie sich nicht sicher\"",
+     "url": "https://www.kicker.de/gibt-es-die-kroenung-fuer-kane-beim-fc-bayern-sind-sie-sich-nicht-sicher-1265418/video#omrss",
+     "pub": "2026-10-26T12:34+00:00"
+    },
+    {
+     "medio": "BBC",
+     "titulo": "Kane prematurely announced as Ballon d'Or winner - but he wasn't only one",
+     "url": "https://www.bbc.co.uk/sport/football/articles/cmly0g2y7q2zo?at_medium=RSS&at_campaign=rss",
+     "pub": "2026-10-26T18:10+00:00"
+    },
+    {
+     "medio": "talkSPORT",
+     "titulo": "Ex-England striker explains why Harry Kane should not win Ballon d’Or",
+     "url": "https://talksport.com/football/4668738/harry-kane-should-not-win-ballon-dor-dean-ashton/",
+     "pub": "2026-10-26T15:09+00:00"
+    },
+    {
+     "medio": "Daily Mail",
+     "titulo": "Ballon d'Or LIVE: Will Harry Kane become the first English winner since Michael Owen as he looks to beat Lamine Yamal and Kylian Mbappe to prestigious award?",
+     "url": "https://www.dailymail.com/sport/football/article-16238939/Ballon-dOr-LIVE-Harry-Kane-English-winner-Michael-Owen-looks-beat-Lamine-Yamal-Kylian-Mbappe-prestigious-award.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+     "pub": "2026-10-26T19:22+00:00"
+    },
+    {
+     "medio": "Daily Mail",
+     "titulo": "Ballon d'Or plunged into CHAOS as esteemed event announces Harry Kane, Kylian Mbappe and Lamine Yamal ALL as winners on official website just hours before the ceremony",
+     "url": "https://www.dailymail.com/sport/football/article-16240245/Ballon-dOr-plunged-CHAOS-event-announces-Harry-Kane-Kylian-Mbappe-Lamine-Yamal-winners-official-website.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+     "pub": "2026-10-26T18:21+00:00"
+    },
+    {
+     "medio": "Planet Football",
+     "titulo": "The top goalscorers for club & country in 2026 so far: Kane, Yamal, Mbappe, Raphinha…",
+     "url": "https://www.planetfootball.com/stats-tables/2026-top-scorers-europe-club-country-list",
+     "pub": "2026-10-26T13:26+00:00"
     }
    ]
   },
@@ -698,12 +795,6 @@
    ],
    "primera_vez": "2026-10-25T11:55+00:00",
    "titulares": [
-    {
-     "medio": "BBC",
-     "titulo": "What Man Utd need now is stability, not more changes - Pulis",
-     "url": "https://www.bbc.co.uk/sport/football/articles/ck78p37y5508o?at_medium=RSS&at_campaign=rss",
-     "pub": "2026-10-25T06:34+00:00"
-    },
     {
      "medio": "BBC",
      "titulo": "What have Man Utd changed to turn around WSL form?",
@@ -741,12 +832,6 @@
      "pub": "2026-10-25T07:31+00:00"
     },
     {
-     "medio": "Mirror",
-     "titulo": "Man Utd news: 'New JJ Gabriel' proves his worth as huge dressing room problem emerges",
-     "url": "https://www.mirror.co.uk/sport/football/news/manchester-united-jj-gabriel-carrick-37807052",
-     "pub": "2026-10-25T04:30+00:00"
-    },
-    {
      "medio": "Yahoo",
      "titulo": "Liverpool and Man United contacted about transfer of wonderkid",
      "url": "https://sports.yahoo.com/articles/liverpool-man-united-contacted-transfer-101000465.html",
@@ -769,6 +854,18 @@
      "titulo": "Fernandes left out - Man Utd hammered, Bournemouth brilliant - how they rated",
      "url": "https://www.bbc.co.uk/sport/football/articles/c9ly0mz745dno?at_medium=RSS&at_campaign=rss",
      "pub": "2026-10-25T16:04+00:00"
+    },
+    {
+     "medio": "BBC",
+     "titulo": "Fernandes left on bench for Man Utd defeat - a failed gamble?",
+     "url": "https://www.bbc.co.uk/sport/football/articles/cmrlye5w3p79o?at_medium=RSS&at_campaign=rss",
+     "pub": "2026-10-25T13:26+00:00"
+    },
+    {
+     "medio": "Sky Sports",
+     "titulo": "Can Carrick survive Man Utd's mauling by Bournemouth? LIVE!",
+     "url": "https://www.skysports.com/football/manchester-united-vs-bournemouth/live/559522",
+     "pub": "2026-10-25T12:30+00:00"
     }
    ]
   },
@@ -810,12 +907,6 @@
      "pub": "2026-10-25T09:37+00:00"
     },
     {
-     "medio": "Mirror",
-     "titulo": "Arsenal news: Declan Rice injury worry after new footage as Brighton transfer in the works",
-     "url": "https://www.mirror.co.uk/sport/football/news/arsenal-rice-injury-everton-transfer-37807720",
-     "pub": "2026-10-25T04:00+00:00"
-    },
-    {
      "medio": "FourFourTwo",
      "titulo": "Watch Liverpool vs Brighton: Live streams and TV channels",
      "url": "https://www.fourfourtwo.com/competition/watch-liverpool-vs-brighton-premier-league-2026-27",
@@ -826,12 +917,6 @@
      "titulo": "Liverpool Starting XI vs Brighton: Confirmed Team News and Predicted Lineup",
      "url": "https://sports.yahoo.com/articles/liverpool-starting-xi-vs-brighton-092000258.html",
      "pub": "2026-10-25T09:20+00:00"
-    },
-    {
-     "medio": "Google News EN",
-     "titulo": "Premier League archive - Leandro Trossard scores hat-trick as Brighton draw 3-3 with Liverpool",
-     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9FWFc2M0lVbjJYZjN6dXNyTkdINi1abjhIa2I4Q2JvTlc4U0xidnVuV0RBeVk3dkZ2YzEyMjhoejZURHluZEhhazFPb1hGZUZfUlVpcHIyZDZlcHBZeGYtRGpCeUJobGI4?oc=5",
-     "pub": "2026-10-25T07:23+00:00"
     },
     {
      "medio": "Google News EN",
@@ -862,6 +947,18 @@
      "titulo": "Man United vs Bournemouth - Premier League LIVE: All the reaction as Michael Carrick looks destined for the sack after another dismal Red Devils display - and Liverpool beat Brighton",
      "url": "https://www.dailymail.com/sport/football/article-16229511/Manchester-United-vs-Bournemouth-Liverpool-vs-Brighton-Premier-League-LIVE-fire-Michael-Carrick-searches-response-Reds-battle-form-Seagulls.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
      "pub": "2026-10-25T16:41+00:00"
+    },
+    {
+     "medio": "Daily Mail",
+     "titulo": "Storm Liverpool blows Brighton away! Andoni Iraola claims first Anfield win in Premier League as £100m stars combine - and Seagulls' early momentum is rocked",
+     "url": "https://www.dailymail.com/sport/football/article-16229517/liverpool-brighton-andoni-iraola-premier-league.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+     "pub": "2026-10-25T16:23+00:00"
+    },
+    {
+     "medio": "Mirror",
+     "titulo": "Liverpool blunt free-scoring Brighton as star man proves his worth in impressive win",
+     "url": "https://www.mirror.co.uk/sport/football/match-reports/liverpool-brighton-premier-league-highlights-37808987",
+     "pub": "2026-10-25T15:54+00:00"
     }
    ]
   },
@@ -889,12 +986,6 @@
      "titulo": "The night Mateus Fernandes finally came of age in a Spurs shirt: Talented £85m star shone in Chelsea win as he showed Roberto De Zerbi what he is made of after tough start to Tottenham career, writes MATT BARLOW",
      "url": "https://www.dailymail.com/sport/football/article-16229493/The-night-Mateus-Fernandes-finally-came-age-Spurs-shirt-Talented-85m-star-shone-Chelsea-win-showed-Roberto-Zerbi-tough-start-Tottenham-career-writes-MATT-BARLOW.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
      "pub": "2026-10-25T09:53+00:00"
-    },
-    {
-     "medio": "Mirror",
-     "titulo": "Michael Carrick faces make-or-break Bruno Fernandes decision after Cristiano Ronaldo comparison",
-     "url": "https://www.mirror.co.uk/sport/football/news/carrick-fernandes-man-utd-ronaldo-37807652",
-     "pub": "2026-10-25T07:00+00:00"
     },
     {
      "medio": "BBC",
@@ -955,6 +1046,105 @@
      "titulo": "Bruno Fernandes paga sus críticas a Carrick",
      "url": "https://www.mundodeportivo.com/futbol/premier-league/20261025/1004242999/bruno-fernandes-paga-criticas-carrick.html",
      "pub": ""
+    },
+    {
+     "medio": "L'Equipe",
+     "titulo": "Le capitaine de Manchester United Bruno Fernandes laissé sur le banc après ses critiques virulentes contre son entraîneur Michael Carrick",
+     "url": "https://www.lequipe.fr/Football/Actualites/Le-capitaine-de-manchester-united-bruno-fernandes-laisse-sur-le-banc-apres-ses-critiques-virulentes-contre-son-entraineur-michael-carrick/1738521#at_medium=RSS_feeds",
+     "pub": "2026-10-25T13:18+00:00"
+    }
+   ]
+  },
+  {
+   "tema": "Alonso",
+   "medios": 12,
+   "lista_medios": [
+    "Daily Mail",
+    "Foot Mercato",
+    "FourFourTwo",
+    "Google News EN",
+    "Google News ES",
+    "Kicker",
+    "L'Equipe",
+    "Mirror",
+    "Mundo Deportivo",
+    "Sky Sports",
+    "Yahoo",
+    "talkSPORT"
+   ],
+   "primera_vez": "2026-10-25T11:55+00:00",
+   "titulares": [
+    {
+     "medio": "Daily Mail",
+     "titulo": "Xabi Alonso has lost goodwill of Chelsea fans with his tactical disaster against Spurs... they cannot be considered title contenders with so little authority and ingenuity, writes KIERAN GILL",
+     "url": "https://www.dailymail.com/sport/football/article-16229489/Xabi-Alonso-lost-goodwill-Chelsea-fans-tactical-disaster-against-Spurs-considered-title-contenders-little-authority-ingenuity-writes-KIERAN-GILL.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+     "pub": "2026-10-25T09:46+00:00"
+    },
+    {
+     "medio": "Mirror",
+     "titulo": "Gary Neville demands Xabi Alonso action after 'ludicrous' Morgan Rogers moment vs Tottenham",
+     "url": "https://www.mirror.co.uk/sport/football/news/gary-neville-morgan-rogers-chelsea-37807916",
+     "pub": "2026-10-25T08:19+00:00"
+    },
+    {
+     "medio": "Yahoo",
+     "titulo": "The glaring Chelsea problem that Xabi Alonso is yet to solve after Cole Palmer sees red",
+     "url": "https://sports.yahoo.com/articles/glaring-chelsea-problem-xabi-alonso-205912514.html",
+     "pub": "2026-10-25T11:30+00:00"
+    },
+    {
+     "medio": "Yahoo",
+     "titulo": "Xabi Alonso admits Real Madrid spell “ended a little earlier than expected”",
+     "url": "https://sports.yahoo.com/articles/xabi-alonso-admits-real-madrid-095500591.html",
+     "pub": "2026-10-25T09:55+00:00"
+    },
+    {
+     "medio": "Kicker",
+     "titulo": "Xabi Alonso nach Derby-Niederlage: \"Das erste Gegentor hat alles verändert\"",
+     "url": "https://www.kicker.de/xabi-alonso-nach-derby-niederlage-das-erste-gegentor-hat-alles-veraendert-1264838/video#omrss",
+     "pub": "2026-10-25T11:34+00:00"
+    },
+    {
+     "medio": "L'Equipe",
+     "titulo": "Alonso : « C’est une leçon pour Cole Palmer »",
+     "url": "https://www.lequipe.fr/Football/Video/Premier-league-chelsea-xabi-alonso-apres-l-expulsion-de-cole-palmer-c-est-une-lecon-pour-lui/20244029#at_medium=RSS_feeds",
+     "pub": "2026-10-25T10:47+00:00"
+    },
+    {
+     "medio": "L'Equipe",
+     "titulo": "Alonso : « Déçu du résultat et de la performance »",
+     "url": "https://www.lequipe.fr/Football/Video/Premier-league-chelsea-xabi-alonso-apres-la-defaite-de-chelsea-face-a-tottenham-decu-du-resultat-et-de-la-performance/20244028#at_medium=RSS_feeds",
+     "pub": "2026-10-25T10:33+00:00"
+    },
+    {
+     "medio": "Foot Mercato",
+     "titulo": "Real Madrid : Xabi Alonso en remet une couche sur son départ",
+     "url": "https://www.footmercato.net/a3668015721139071187-real-madrid-xabi-alonso-en-remet-une-couche-sur-son-depart",
+     "pub": "2026-10-25T07:39+00:00"
+    },
+    {
+     "medio": "Yahoo",
+     "titulo": "Xabi Alonso provides Joao Pedro update after Chelsea’s loss to Spurs",
+     "url": "https://sports.yahoo.com/articles/xabi-alonso-provides-joao-pedro-162000307.html",
+     "pub": "2026-10-25T16:20+00:00"
+    },
+    {
+     "medio": "Google News EN",
+     "titulo": "'I didn't know that' - Alonso on Joao Pedro injury leak",
+     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9BV1AzMWlNSjJaWU1rRWdkVHE4VkJHU2FlSUdtOXd2UGNaUXp0V2Y2bkpCMjhRSDJRdDJQN1Q3Y0M3dDlhYmdjVlV4TXJyTUxYaG5pcWRjSU5qMng1dlJtdmdhWUhIME9J?oc=5",
+     "pub": "2026-10-25T11:22+00:00"
+    },
+    {
+     "medio": "Yahoo",
+     "titulo": "Chelsea star moves closer to exit door after latest Xabi Alonso snub",
+     "url": "https://sports.yahoo.com/articles/chelsea-star-moves-closer-exit-182000543.html",
+     "pub": "2026-10-25T18:20+00:00"
+    },
+    {
+     "medio": "Foot Mercato",
+     "titulo": "JT Foot Mercato : Xabi Alonso règle ses comptes avec le Real Madrid",
+     "url": "https://www.footmercato.net/a7852603196900011639-jt-foot-mercato-xabi-alonso-regle-ses-comptes-avec-le-real-madrid",
+     "pub": "2026-10-25T17:49+00:00"
     }
    ]
   },
@@ -1048,6 +1238,99 @@
      "titulo": "Real Madrid : pourquoi José Mourinho voue une haine énorme au FC Barcelone",
      "url": "https://www.footmercato.net/a4712802839659671103-real-madrid-pourquoi-jose-mourinho-voue-une-haine-enorme-au-fc-barcelone",
      "pub": "2026-10-25T12:34+00:00"
+    }
+   ]
+  },
+  {
+   "tema": "Yamal",
+   "medios": 12,
+   "lista_medios": [
+    "AS",
+    "Daily Mail",
+    "Foot Mercato",
+    "Google News EN",
+    "Google News ES",
+    "L'Equipe",
+    "Mundo Deportivo",
+    "Ole",
+    "Planet Football",
+    "Sky Sports",
+    "Yahoo",
+    "ge.globo"
+   ],
+   "primera_vez": "2026-10-25T11:55+00:00",
+   "titulares": [
+    {
+     "medio": "Mundo Deportivo",
+     "titulo": "El golazo del amigo de Lamine Yamal que anima El Clásico",
+     "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261025/1004242942/golazo-amigo-lamine-yamal-anima-clasico.html",
+     "pub": ""
+    },
+    {
+     "medio": "Google News ES",
+     "titulo": "Samuel Umtiti alucina con Lamine Yamal y desvela qué le hace único: \"Tiene algo... hoy en día no hay un jugador como él\"",
+     "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNY0R0MUw2SENTRHF4RUlaWmtaT24zYm1uU0JlVlItdnVVZVBiaDYtdElHeDdObDUyeTNSR3Y5ZXVlY3h5RVRRUDU1R1MwWFhSWktheng3ODJGaExEYWtac01kMmFKVTgxSF9rNW1FVHVtT1ZkUXl1MzhEeDBGN3V4eDdmSzhfTW9XTnlyall2V2o4ZU51VFdOTGtncjUwTThsekJySUV5Sm1Ld3hkYW16SXBwY1dFOW9feGs1dVVhWENURTdNMmZ6WE1XaUgtVTFCWlNNSkJVRS1HOGloMGNJT1A5VWNJczhGcV80ZWFYYTVza0xoLVpFWQ?oc=5",
+     "pub": "2026-10-25T19:33+00:00"
+    },
+    {
+     "medio": "Google News ES",
+     "titulo": "Jordi Alba elige a Messi para el Balón de Oro y lanza un aviso: “Si no se lo dan a Leo, tiene que ser Lamine Yamal”",
+     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPOE51ckJ1RUZOWjcwdU9YTWItRmp2RkpHXzlWd3N6QnRYVFFfUXFvNl9iMldLZUFFTjlEY1I4RDBEc29EakwwODhFdlh3MW1xVmR0Q0FGX2ZnV2hvRmxKMVF3OHdSS1UycWhSWUVfeVB5MXgyblhWbjJ5OVNiakxMLW8tQzB6eGdFYncxQWJwMXlXUGdhZk1UYUd6SU5OOTBVREplcTZYeEFvcGRxbjNFd1lIQQ?oc=5",
+     "pub": "2026-10-25T18:43+00:00"
+    },
+    {
+     "medio": "Foot Mercato",
+     "titulo": "FC Barcelone : l’énorme raté de Lamine Yamal face au Real Madrid",
+     "url": "https://www.footmercato.net/a8580528470730303361-fc-barcelone-lenorme-rate-de-lamine-yamal-face-au-real-madrid",
+     "pub": "2026-10-25T21:04+00:00"
+    },
+    {
+     "medio": "Sky Sports",
+     "titulo": "Kane, Mbappe and Lamine Yamal - who should win men's 2026 Ballon d'Or?",
+     "url": "https://www.skysports.com/football/news/12040/13601847/ballon-dor-2026-harry-kane-kylian-mbappe-and-lamine-yamal-in-race-for-mens-award-stats-and-pundits-opinions",
+     "pub": "2026-10-26T07:00+00:00"
+    },
+    {
+     "medio": "Yahoo",
+     "titulo": "EXCLUSIVE | Chris Waddle: “Harry Kane should win Ballon d’Or, but Lamine Yamal will win it.”",
+     "url": "https://sports.yahoo.com/articles/exclusive-chris-waddle-harry-kane-124700219.html",
+     "pub": "2026-10-26T12:47+00:00"
+    },
+    {
+     "medio": "Yahoo",
+     "titulo": "Barcelona certain that Lamine Yamal will win the Kopa Trophy and remain hopeful of Ballon d’Or",
+     "url": "https://sports.yahoo.com/articles/barcelona-certain-lamine-yamal-win-111600820.html",
+     "pub": "2026-10-26T11:16+00:00"
+    },
+    {
+     "medio": "AS",
+     "titulo": "Lamine Yamal, un Clásico para olvidar",
+     "url": "https://as.com/futbol/primera/lamine-yamal-un-clasico-para-olvidar-f202610-n/",
+     "pub": "2026-10-26T10:52+00:00"
+    },
+    {
+     "medio": "Mundo Deportivo",
+     "titulo": "Lamine Yamal y su gente viajaron ayer a Londres en jet privado y Cubarsí se queda en casa",
+     "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261026/1004243291/cubarsi-prioriza-descanso-no-viaja-gala-balon-oro-londres.html",
+     "pub": ""
+    },
+    {
+     "medio": "L'Equipe",
+     "titulo": "Mourinho sur Yamal : «Ce gamin est vraiment très difficile à maîtriser»",
+     "url": "https://www.lequipe.fr/Football/Video/Liga-real-madrid-ce-gamin-est-vraiment-tres-difficile-a-maitriser-mourinho-salue-l-effort-collectif-du-real-pour-neutraliser-lamine-yamal-lors-du-clasico/20244106#at_medium=RSS_feeds",
+     "pub": "2026-10-26T09:11+00:00"
+    },
+    {
+     "medio": "L'Equipe",
+     "titulo": "Les notes de FC Barcelone - Real Madrid : Mbappé à l'affût, Lamine Yamal muselé",
+     "url": "https://www.lequipe.fr/Football/Article/Les-notes-de-fc-barcelone-real-madrid-mbappe-a-l-affut-lamine-yamal-musele/1738705#at_medium=RSS_feeds",
+     "pub": "2026-10-25T22:34+00:00"
+    },
+    {
+     "medio": "Foot Mercato",
+     "titulo": "Barça : Samuel Umtiti très déçu par Lamine Yamal",
+     "url": "https://www.footmercato.net/a2202598195893085978-barca-samuel-umtiti-tres-decu-par-lamine-yamal",
+     "pub": "2026-10-26T11:15+00:00"
     }
    ]
   },
@@ -1180,12 +1463,6 @@
      "pub": "2026-10-25T08:00+00:00"
     },
     {
-     "medio": "Mirror",
-     "titulo": "Michael Carrick faces make-or-break Bruno Fernandes decision after Cristiano Ronaldo comparison",
-     "url": "https://www.mirror.co.uk/sport/football/news/carrick-fernandes-man-utd-ronaldo-37807652",
-     "pub": "2026-10-25T07:00+00:00"
-    },
-    {
      "medio": "FourFourTwo",
      "titulo": "Michael Laudrup on what it meant to guide Swansea to their first major silverware",
      "url": "https://www.fourfourtwo.com/person/player/the-2013-league-cup-was-swanseas-first-major-trophy-who-knows-when-theyll-win-another-michael-laudrup-on-guiding-the-swans-to-their-first-major-silverware",
@@ -1232,6 +1509,104 @@
      "titulo": "Michael Carrick future LIVE: Latest updates as Man Utd boss faces sack after Bournemouth loss",
      "url": "https://www.mirror.co.uk/sport/football/news/michael-carrick-future-latest-live-37808874",
      "pub": "2026-10-25T16:34+00:00"
+    },
+    {
+     "medio": "Mirror",
+     "titulo": "Michael Carrick is a scapegoat - the Old Trafford faithful know who is to blame at Man Utd",
+     "url": "https://www.mirror.co.uk/sport/football/man-utd-bournemouth-michael-carrick-37808928",
+     "pub": "2026-10-25T16:11+00:00"
+    }
+   ]
+  },
+  {
+   "tema": "Leeds",
+   "medios": 11,
+   "lista_medios": [
+    "AS",
+    "BBC",
+    "Daily Mail",
+    "FourFourTwo",
+    "Google News EN",
+    "Guardian",
+    "L'Equipe",
+    "Mundo Deportivo",
+    "Sky Sports",
+    "Telegraph",
+    "Yahoo"
+   ],
+   "primera_vez": "2026-10-25T11:55+00:00",
+   "titulares": [
+    {
+     "medio": "Google News EN",
+     "titulo": "Sunderland - Leeds",
+     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNZHl2djR0SEE3MVBwYVFqcVE1XzNkRFhrMWpzWEE0VW01NTgySENvazhEcWoxaTlYaHlXMGk5UnFQc0t4eUhMUVhrWE9Hc1VfZUFQbG1VV3EwV0FLeUtPaERZTG9SMExGNFNXU3FOZFpSSGZuT2UxMEVNazlnNW5TcFFDOA?oc=5",
+     "pub": "2026-10-25T08:39+00:00"
+    },
+    {
+     "medio": "Google News EN",
+     "titulo": "Sunderland vs Leeds predictions: Chris Sutton on Premier League game",
+     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE41eEFpQ1BnbnYtOG5WY0RKQlVzWEhEYld2OEZGLTJOdzVsaHJUMXhSR0l4ck1qLTVPZHVPT2pRdVloUHB1TjBncE5ZUkRrU2hpRkwwTllQbFBtODg1RDU5aUdPYkE1ZmlTWXJN?oc=5",
+     "pub": "2026-10-25T11:15+00:00"
+    },
+    {
+     "medio": "Guardian",
+     "titulo": "Sunderland v Leeds: Premier League – live",
+     "url": "https://www.theguardian.com/football/live/2026/oct/25/sunderland-v-leeds-premier-league-live",
+     "pub": "2026-10-25T16:27+00:00"
+    },
+    {
+     "medio": "Daily Mail",
+     "titulo": "Three Man United and Bournemouth stars and Leeds striker Dominic Calvert-Lewin join those refusing to take the knee in Premier League - after Chelsea fans booed the gesture before Tottenham clash",
+     "url": "https://www.dailymail.com/sport/football/article-16237031/Three-Man-United-Bournemouth-stars-join-refusing-knee-Premier-League-Chelsea-fans-booed-gesture-Tottenham-clash.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+     "pub": "2026-10-25T16:42+00:00"
+    },
+    {
+     "medio": "FourFourTwo",
+     "titulo": "Watch Sunderland vs Leeds United for FREE: Live streams",
+     "url": "https://www.fourfourtwo.com/competition/watch-sunderland-vs-leeds-united-premier-league-2026-27-free",
+     "pub": "2026-10-25T14:00+00:00"
+    },
+    {
+     "medio": "Yahoo",
+     "titulo": "Premier League: Reaction as Carrick position under major threat plus Leeds host Sunderland",
+     "url": "https://sports.yahoo.com/articles/premier-league-fernandes-left-man-122917026.html",
+     "pub": "2026-10-25T16:32+00:00"
+    },
+    {
+     "medio": "Mundo Deportivo",
+     "titulo": "Sunderland - Leeds United, en directo | Premier League",
+     "url": "https://www.mundodeportivo.com/futbol/premier-league/20261025/1004241306/sunderland-leeds-united-directo-premier-league.html",
+     "pub": ""
+    },
+    {
+     "medio": "Guardian",
+     "titulo": "Roefs and Trafford stand firm as Sunderland and Leeds battle for point",
+     "url": "https://www.theguardian.com/football/2026/oct/25/sunderland-leeds-premier-league-match-report",
+     "pub": "2026-10-25T18:46+00:00"
+    },
+    {
+     "medio": "Sky Sports",
+     "titulo": "Sunderland remain bottom after drab draw against Leeds",
+     "url": "https://www.skysports.com/football/sunderland-vs-leeds-united/report/559523",
+     "pub": "2026-10-25T18:26+00:00"
+    },
+    {
+     "medio": "Telegraph",
+     "titulo": "Trafford shows England credentials to help Leeds take point from Sunderland",
+     "url": "https://www.telegraph.co.uk/football/2026/10/25/sunderland-vs-leeds-utd-live-score-premier-league-updates/",
+     "pub": "2026-10-25T19:14+00:00"
+    },
+    {
+     "medio": "Yahoo",
+     "titulo": "Trafford Gets 8, Calvert-Lewin With 5.5 | Leeds United Players Rated In Hard-Fought Draw Vs Sunderland",
+     "url": "https://sports.yahoo.com/articles/trafford-gets-8-calvert-lewin-185500901.html",
+     "pub": "2026-10-25T18:55+00:00"
+    },
+    {
+     "medio": "Yahoo",
+     "titulo": "O’Nien And Angulo Get 8 | Sunderland Players Rated In Scoreless Draw Vs Leeds United",
+     "url": "https://sports.yahoo.com/articles/o-nien-angulo-8-sunderland-184500868.html",
+     "pub": "2026-10-25T18:45+00:00"
     }
    ]
   },
@@ -1328,94 +1703,93 @@
    ]
   },
   {
-   "tema": "Leeds",
-   "medios": 11,
+   "tema": "Clasico",
+   "medios": 10,
    "lista_medios": [
-    "AS",
     "BBC",
     "Daily Mail",
-    "FourFourTwo",
+    "Foot Mercato",
     "Google News EN",
-    "Guardian",
+    "Kicker",
     "L'Equipe",
-    "Mundo Deportivo",
+    "Mirror",
+    "Planet Football",
     "Sky Sports",
-    "Telegraph",
     "Yahoo"
    ],
    "primera_vez": "2026-10-25T11:55+00:00",
    "titulares": [
     {
-     "medio": "Google News EN",
-     "titulo": "Sunderland - Leeds",
-     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNZHl2djR0SEE3MVBwYVFqcVE1XzNkRFhrMWpzWEE0VW01NTgySENvazhEcWoxaTlYaHlXMGk5UnFQc0t4eUhMUVhrWE9Hc1VfZUFQbG1VV3EwV0FLeUtPaERZTG9SMExGNFNXU3FOZFpSSGZuT2UxMEVNazlnNW5TcFFDOA?oc=5",
-     "pub": "2026-10-25T08:39+00:00"
+     "medio": "BBC",
+     "titulo": "'This is the only Clasico' - Mourinho's Real trying to stop Barca's shot at history",
+     "url": "https://www.bbc.co.uk/sport/football/articles/crgqwzqz8zgwo?at_medium=RSS&at_campaign=rss",
+     "pub": "2026-10-25T07:55+00:00"
     },
     {
-     "medio": "Google News EN",
-     "titulo": "Sunderland vs Leeds predictions: Chris Sutton on Premier League game",
-     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE41eEFpQ1BnbnYtOG5WY0RKQlVzWEhEYld2OEZGLTJOdzVsaHJUMXhSR0l4ck1qLTVPZHVPT2pRdVloUHB1TjBncE5ZUkRrU2hpRkwwTllQbFBtODg1RDU5aUdPYkE1ZmlTWXJN?oc=5",
+     "medio": "Planet Football",
+     "titulo": "Where are they now? Real Madrid’s XI for Jose Mourinho’s last El Clasico in 2013",
+     "url": "https://www.planetfootball.com/real-madrid/where-are-they-now-real-madrid-lineup-jose-mourinho-el-clasico-2013",
+     "pub": "2026-10-25T09:00+00:00"
+    },
+    {
+     "medio": "Yahoo",
+     "titulo": "Injured Real Madrid defender to travel to Barcelona to support teammates in El Clasico",
+     "url": "https://sports.yahoo.com/articles/injured-real-madrid-defender-travel-111500117.html",
      "pub": "2026-10-25T11:15+00:00"
     },
     {
-     "medio": "Guardian",
-     "titulo": "Sunderland v Leeds: Premier League – live",
-     "url": "https://www.theguardian.com/football/live/2026/oct/25/sunderland-v-leeds-premier-league-live",
-     "pub": "2026-10-25T16:27+00:00"
-    },
-    {
-     "medio": "Daily Mail",
-     "titulo": "Three Man United and Bournemouth stars and Leeds striker Dominic Calvert-Lewin join those refusing to take the knee in Premier League - after Chelsea fans booed the gesture before Tottenham clash",
-     "url": "https://www.dailymail.com/sport/football/article-16237031/Three-Man-United-Bournemouth-stars-join-refusing-knee-Premier-League-Chelsea-fans-booed-gesture-Tottenham-clash.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-     "pub": "2026-10-25T16:42+00:00"
-    },
-    {
-     "medio": "FourFourTwo",
-     "titulo": "Watch Sunderland vs Leeds United for FREE: Live streams",
-     "url": "https://www.fourfourtwo.com/competition/watch-sunderland-vs-leeds-united-premier-league-2026-27-free",
-     "pub": "2026-10-25T14:00+00:00"
+     "medio": "Yahoo",
+     "titulo": "Andriy Lunin’s worrying El Clasico record puts Real Madrid under pressure",
+     "url": "https://sports.yahoo.com/articles/andriy-lunin-worrying-el-clasico-105600744.html",
+     "pub": "2026-10-25T10:56+00:00"
     },
     {
      "medio": "Yahoo",
-     "titulo": "Premier League: Reaction as Carrick position under major threat plus Leeds host Sunderland",
-     "url": "https://sports.yahoo.com/articles/premier-league-fernandes-left-man-122917026.html",
-     "pub": "2026-10-25T16:32+00:00"
-    },
-    {
-     "medio": "Mundo Deportivo",
-     "titulo": "Sunderland - Leeds United, en directo | Premier League",
-     "url": "https://www.mundodeportivo.com/futbol/premier-league/20261025/1004241306/sunderland-leeds-united-directo-premier-league.html",
-     "pub": ""
-    },
-    {
-     "medio": "Guardian",
-     "titulo": "Roefs and Trafford stand firm as Sunderland and Leeds battle for point",
-     "url": "https://www.theguardian.com/football/2026/oct/25/sunderland-leeds-premier-league-match-report",
-     "pub": "2026-10-25T18:46+00:00"
-    },
-    {
-     "medio": "Sky Sports",
-     "titulo": "Sunderland remain bottom after drab draw against Leeds",
-     "url": "https://www.skysports.com/football/sunderland-vs-leeds-united/report/559523",
-     "pub": "2026-10-25T18:26+00:00"
-    },
-    {
-     "medio": "Telegraph",
-     "titulo": "Trafford shows England credentials to help Leeds take point from Sunderland",
-     "url": "https://www.telegraph.co.uk/football/2026/10/25/sunderland-vs-leeds-utd-live-score-premier-league-updates/",
-     "pub": "2026-10-25T19:14+00:00"
+     "titulo": "Confirmed: Real Madrid suffer major last-minute blow as Thibaut Courtois ruled out of El Clasico",
+     "url": "https://sports.yahoo.com/articles/confirmed-real-madrid-suffer-major-101900502.html",
+     "pub": "2026-10-25T10:19+00:00"
     },
     {
      "medio": "Yahoo",
-     "titulo": "Trafford Gets 8, Calvert-Lewin With 5.5 | Leeds United Players Rated In Hard-Fought Draw Vs Sunderland",
-     "url": "https://sports.yahoo.com/articles/trafford-gets-8-calvert-lewin-185500901.html",
-     "pub": "2026-10-25T18:55+00:00"
+     "titulo": "Gordon, Fermin start in a 4-2-3-1 – How Barcelona can line up against Real Madrid in El Clasico",
+     "url": "https://sports.yahoo.com/articles/gordon-fermin-start-4-2-090000264.html",
+     "pub": "2026-10-25T09:00+00:00"
     },
     {
-     "medio": "Yahoo",
-     "titulo": "O’Nien And Angulo Get 8 | Sunderland Players Rated In Scoreless Draw Vs Leeds United",
-     "url": "https://sports.yahoo.com/articles/o-nien-angulo-8-sunderland-184500868.html",
-     "pub": "2026-10-25T18:45+00:00"
+     "medio": "Kicker",
+     "titulo": "Torwartwechsel im Clasico: Courtois fehlt Real",
+     "url": "https://www.kicker.de/torwartwechsel-im-clasico-courtois-fehlt-real-1264911/artikel#omrss",
+     "pub": "2026-10-25T10:31+00:00"
+    },
+    {
+     "medio": "L'Equipe",
+     "titulo": "Thibaut Courtois déclare forfait juste avant le Clasico face au Barça pour un état grippal",
+     "url": "https://www.lequipe.fr/Football/Actualites/Thibaut-courtois-declare-forfait-juste-avant-le-clasico-face-au-barca-pour-un-etat-grippal/1738504#at_medium=RSS_feeds",
+     "pub": "2026-10-25T10:36+00:00"
+    },
+    {
+     "medio": "Foot Mercato",
+     "titulo": "Barça : Hansi Flick va convoquer un jeune joueur de 17 ans pour le Clasico",
+     "url": "https://www.footmercato.net/a48998728169851195-barca-hansi-flick-va-convoquer-un-jeune-joueur-de-17-ans-pour-le-clasico",
+     "pub": "2026-10-25T10:39+00:00"
+    },
+    {
+     "medio": "Foot Mercato",
+     "titulo": "Real Madrid : Thibaut Courtois forfait de dernière minute pour le Clasico !",
+     "url": "https://www.footmercato.net/a5019357978059521686-real-madrid-thibaut-courtois-forfait-de-derniere-minute-pour-le-clasico",
+     "pub": "2026-10-25T10:16+00:00"
+    },
+    {
+     "medio": "Foot Mercato",
+     "titulo": "Real Madrid : Florentino Pérez sera encore absent lors du Clasico",
+     "url": "https://www.footmercato.net/a1320333337821680647-real-madrid-florentino-perez-sera-encore-absent-lors-du-clasico",
+     "pub": "2026-10-25T08:32+00:00"
+    },
+    {
+     "medio": "Foot Mercato",
+     "titulo": "Real Madrid : le Clasico pourrait coûter cher à José Mourinho",
+     "url": "https://www.footmercato.net/a4007469851294876040-real-madrid-le-clasico-pourrait-couter-cher-a-jose-mourinho",
+     "pub": "2026-10-25T08:15+00:00"
     }
    ]
   },
@@ -1517,10 +1891,10 @@
     "BBC",
     "Daily Mail",
     "Foot Mercato",
+    "Google News EN",
     "Google News ES",
     "Kicker",
     "L'Equipe",
-    "Mirror",
     "Mundo Deportivo",
     "Record",
     "Yahoo"
@@ -1534,22 +1908,10 @@
      "pub": "2026-10-25T08:51+00:00"
     },
     {
-     "medio": "Mirror",
-     "titulo": "Liverpool news: Bayern Munich chief fires accusation at Iraola as star speaks on death threats",
-     "url": "https://www.mirror.co.uk/sport/football/news/liverpool-news-araujo-wirtz-iraola-37807352",
-     "pub": "2026-10-25T05:00+00:00"
-    },
-    {
      "medio": "Google News ES",
      "titulo": "Friburgo vs Bayern Múnich de Bundesliga 2026/2027: horario y dónde ver hoy por TV y online el partido de la liga alemana a través de DAZN",
      "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNbW01NmlpMkljWHcxX2dncEtvdmJyMU9Jc3Bfc2lCUklXVzRQWW9VR2lfem0wZjkwVUw0ZzNFcnJnektjWF8tbms2T3otMkpueUM3cXJWY0F4MTRrNV90bnBxcjVMaERTc0Q1UG1ieGpWV2tJS1JDaVVTcS05cXNMMDlKLVZKekU0YUd6MHExQ2xGYUlkeXlZY0JIMnlaWFJsQmRiazRKaUlwWDdqUVRYS18wN3BPT0J4MC1IUDB1Y0lQeHF3VlkxYmpIN3VQOTR5dmRGOXE2SFpXMlRhcGxvZlZrOV9HZU9PcjZXSEplLXBKM1BYcnJlMHByVGtfeXp4QlVvbFd3?oc=5",
      "pub": "2026-10-25T10:12+00:00"
-    },
-    {
-     "medio": "L'Equipe",
-     "titulo": "« D'autres examens sont nécessaires pour savoir de quoi il souffre exactement » : l'entraîneur du Bayern Munich Vincent Kompany doit se reposer au moins deux semaines après son malaise",
-     "url": "https://www.lequipe.fr/Football/Article/-d-autres-examens-sont-necessaires-pour-savoir-de-quoi-il-souffre-exactement-l-entraineur-du-bayern-munch-vincent-kompany-doit-se-reposer-au-moins-deux-semaines-apres-son-malaise/1738378#at_medium=RSS_feeds",
-     "pub": "2026-10-25T07:10+00:00"
     },
     {
      "medio": "Yahoo",
@@ -1598,374 +1960,26 @@
      "titulo": "Passe de Michael Olise, traversée du terrain et face-à-face avec le gardien : le but de Dayot Upamecano avec le Bayern Munich en vidéo",
      "url": "https://www.lequipe.fr/Football/Actualites/Passe-de-michael-olise-traversee-du-terrain-et-face-a-face-avec-le-gardien-le-but-de-dayot-upamecano-avec-le-bayern-munich-en-video/1738586#at_medium=RSS_feeds",
      "pub": "2026-10-25T17:27+00:00"
-    }
-   ]
-  },
-  {
-   "tema": "Bruno",
-   "medios": 10,
-   "lista_medios": [
-    "Daily Mail",
-    "Foot Mercato",
-    "FourFourTwo",
-    "Google News EN",
-    "L'Equipe",
-    "Mirror",
-    "Mundo Deportivo",
-    "Record",
-    "Yahoo",
-    "talkSPORT"
-   ],
-   "primera_vez": "2026-10-25T11:55+00:00",
-   "titulares": [
-    {
-     "medio": "Mirror",
-     "titulo": "Michael Carrick faces make-or-break Bruno Fernandes decision after Cristiano Ronaldo comparison",
-     "url": "https://www.mirror.co.uk/sport/football/news/carrick-fernandes-man-utd-ronaldo-37807652",
-     "pub": "2026-10-25T07:00+00:00"
-    },
-    {
-     "medio": "talkSPORT",
-     "titulo": "Michael Carrick drops Man United captain Bruno Fernandes after critical comments",
-     "url": "https://talksport.com/football/4666007/bruno-fernandes-dropped-manchester-united-michael-carrick-bournemouth/",
-     "pub": "2026-10-25T12:18+00:00"
-    },
-    {
-     "medio": "Daily Mail",
-     "titulo": "Bruno Fernandes is DROPPED from Manchester United's starting XI for Bournemouth - with Red Devils captain on the bench for the first time in almost five years after questioning Michael Carrick's tactics following Como loss",
-     "url": "https://www.dailymail.com/sport/football/article-16237215/Bruno-Fernandes-DROPPED-Manchester-Uniteds-starting-XI-Bournemouth-Red-Devils-captain-bench-time-five-years-questioning-Michael-Carricks-tactics-following-Como-loss.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-     "pub": "2026-10-25T13:00+00:00"
-    },
-    {
-     "medio": "Mirror",
-     "titulo": "Jamie Carragher claims Man Utd stars 'don't like playing' with Bruno Fernandes as star axed",
-     "url": "https://www.mirror.co.uk/sport/football/news/jamie-carragher-claims-man-utd-37808606",
-     "pub": "2026-10-25T13:26+00:00"
-    },
-    {
-     "medio": "Mirror",
-     "titulo": "Bruno Fernandes DROPPED as Man Utd boss Michael Carrick reacts to midweek outburst",
-     "url": "https://www.mirror.co.uk/sport/football/news/man-utd-fernandes-dropped-carrick-37808422",
-     "pub": "2026-10-25T12:34+00:00"
-    },
-    {
-     "medio": "Google News EN",
-     "titulo": "Man Utd captain Bruno Fernandes left on bench by manager Michael Carrick during Bournemouth defeat",
-     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5sV1h5bWI0dkk5ZTloS1RVZHdRekI2ejBZTl9oTl9oMm1FTmVCcnhGU2tUclB2a25haUhJZ3hvVERDMGYzTDJqUlZiZ0V5a0EyZEhVNVJRY2dJNVBHczZLNnBXSWl4RlQ4V1lr?oc=5",
-     "pub": "2026-10-25T12:58+00:00"
-    },
-    {
-     "medio": "Google News EN",
-     "titulo": "Man United: Michael Carrick explains why he dropped captain Bruno Fernandes for Bournemouth match",
-     "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOalQzaUhkSXJoeDZlSVZXTTRmR1NIejEzeWk2YnhDOGV1QlF3UFBHanMtUWx3WnptbURDbnFJTlRIel9VTUlkOFpMakF5MW5CbGpDSGN0UkwwTzF1Q2RlRE5hREpQUnkyMnlvSzRneDB0VGdEb0F4dTY2Q1MwU3VRSTZqNG40X2RYSE9ZNlF2MUhWT3Z3alljbzFIMlhYY0xMbzJWUFNQVmdRaDlZRzZrZUNSUVQ2a0pjekdfR2dkN0lMVXlHQ2VOb3RHUVE0cWdk?oc=5",
-     "pub": "2026-10-25T13:08+00:00"
-    },
-    {
-     "medio": "Mundo Deportivo",
-     "titulo": "Bruno Fernandes paga sus críticas a Carrick",
-     "url": "https://www.mundodeportivo.com/futbol/premier-league/20261025/1004242999/bruno-fernandes-paga-criticas-carrick.html",
-     "pub": ""
-    },
-    {
-     "medio": "L'Equipe",
-     "titulo": "Bruno Genesio change huit joueurs face au Havre : l'OM démarrera avec Igor Paixao et Pierre-Emile Höjbjerg",
-     "url": "https://www.lequipe.fr/Football/Actualites/Bruno-genesio-change-huit-joueurs-face-au-havre-l-om-demarrera-avec-igor-paixao-et-pierre-emile-hojbjerg/1738544#at_medium=RSS_feeds",
-     "pub": "2026-10-25T15:47+00:00"
-    },
-    {
-     "medio": "L'Equipe",
-     "titulo": "Le capitaine de Manchester United Bruno Fernandes laissé sur le banc après ses critiques virulentes contre son entraîneur Michael Carrick",
-     "url": "https://www.lequipe.fr/Football/Actualites/Le-capitaine-de-manchester-united-bruno-fernandes-laisse-sur-le-banc-apres-ses-critiques-virulentes-contre-son-entraineur-michael-carrick/1738521#at_medium=RSS_feeds",
-     "pub": "2026-10-25T13:18+00:00"
     },
     {
      "medio": "Foot Mercato",
-     "titulo": "Man United : Bruno Fernandes laissé sur le banc contre Bournemouth",
-     "url": "https://www.footmercato.net/a7915428490654988057-man-united-bruno-fernandes-laisse-sur-le-banc-contre-bournemouth",
-     "pub": "2026-10-25T12:43+00:00"
+     "titulo": "Bundesliga : le Bayern Munich s’offre Fribourg",
+     "url": "https://www.footmercato.net/a1727334387760569441-bundesliga-le-bayern-munich-soffre-fribourg",
+     "pub": "2026-10-25T18:35+00:00"
     },
     {
      "medio": "Record",
-     "titulo": "<![CDATA[ Crise sem fim: Man. United afunda-se após perder com o Bournemouth num jogo em que Bruno Fernandes ficou no banco ]]>",
-     "url": "https://www.record.pt/internacional/paises/inglaterra/detalhe/20261025-104411-manchester-united-bournemouth-em-direto",
-     "pub": "2026-10-25T15:54+00:00"
-    }
-   ]
-  },
-  {
-   "tema": "Clasico",
-   "medios": 9,
-   "lista_medios": [
-    "BBC",
-    "Daily Mail",
-    "Foot Mercato",
-    "Kicker",
-    "L'Equipe",
-    "Mirror",
-    "Planet Football",
-    "Sky Sports",
-    "Yahoo"
-   ],
-   "primera_vez": "2026-10-25T11:55+00:00",
-   "titulares": [
-    {
-     "medio": "BBC",
-     "titulo": "'This is the only Clasico' - Mourinho's Real trying to stop Barca's shot at history",
-     "url": "https://www.bbc.co.uk/sport/football/articles/crgqwzqz8zgwo?at_medium=RSS&at_campaign=rss",
-     "pub": "2026-10-25T07:55+00:00"
-    },
-    {
-     "medio": "Planet Football",
-     "titulo": "Where are they now? Real Madrid’s XI for Jose Mourinho’s last El Clasico in 2013",
-     "url": "https://www.planetfootball.com/real-madrid/where-are-they-now-real-madrid-lineup-jose-mourinho-el-clasico-2013",
-     "pub": "2026-10-25T09:00+00:00"
-    },
-    {
-     "medio": "Yahoo",
-     "titulo": "Injured Real Madrid defender to travel to Barcelona to support teammates in El Clasico",
-     "url": "https://sports.yahoo.com/articles/injured-real-madrid-defender-travel-111500117.html",
-     "pub": "2026-10-25T11:15+00:00"
-    },
-    {
-     "medio": "Yahoo",
-     "titulo": "Andriy Lunin’s worrying El Clasico record puts Real Madrid under pressure",
-     "url": "https://sports.yahoo.com/articles/andriy-lunin-worrying-el-clasico-105600744.html",
-     "pub": "2026-10-25T10:56+00:00"
-    },
-    {
-     "medio": "Yahoo",
-     "titulo": "Confirmed: Real Madrid suffer major last-minute blow as Thibaut Courtois ruled out of El Clasico",
-     "url": "https://sports.yahoo.com/articles/confirmed-real-madrid-suffer-major-101900502.html",
-     "pub": "2026-10-25T10:19+00:00"
-    },
-    {
-     "medio": "Yahoo",
-     "titulo": "Gordon, Fermin start in a 4-2-3-1 – How Barcelona can line up against Real Madrid in El Clasico",
-     "url": "https://sports.yahoo.com/articles/gordon-fermin-start-4-2-090000264.html",
-     "pub": "2026-10-25T09:00+00:00"
-    },
-    {
-     "medio": "Kicker",
-     "titulo": "Torwartwechsel im Clasico: Courtois fehlt Real",
-     "url": "https://www.kicker.de/torwartwechsel-im-clasico-courtois-fehlt-real-1264911/artikel#omrss",
-     "pub": "2026-10-25T10:31+00:00"
-    },
-    {
-     "medio": "L'Equipe",
-     "titulo": "Thibaut Courtois déclare forfait juste avant le Clasico face au Barça pour un état grippal",
-     "url": "https://www.lequipe.fr/Football/Actualites/Thibaut-courtois-declare-forfait-juste-avant-le-clasico-face-au-barca-pour-un-etat-grippal/1738504#at_medium=RSS_feeds",
-     "pub": "2026-10-25T10:36+00:00"
-    },
-    {
-     "medio": "L'Equipe",
-     "titulo": "Lamine Yamal vs Kylian Mbappé, le Clasico des candidats au Ballon d'or 2026",
-     "url": "https://www.lequipe.fr/Football/Video/Liga-lamine-yamal-vs-kylian-mbappe-le-clasico-des-candidats-au-ballon-d-or-2026/20244006#at_medium=RSS_feeds",
-     "pub": "2026-10-25T06:41+00:00"
-    },
-    {
-     "medio": "L'Equipe",
-     "titulo": "« C'est un peu comme Messi contre Cristiano Ronaldo » : Lamine Yamal-Kylian Mbappé, duel brûlant au coeur du Clasico",
-     "url": "https://www.lequipe.fr/Football/Article/-c-est-un-peu-comme-messi-contre-cristiano-ronaldo-lamine-yamal-kylian-mbappe-duel-brulant-au-coeur-du-clasico/1738346#at_medium=RSS_feeds",
-     "pub": "2026-10-25T04:47+00:00"
-    },
-    {
-     "medio": "Foot Mercato",
-     "titulo": "Barça : Hansi Flick va convoquer un jeune joueur de 17 ans pour le Clasico",
-     "url": "https://www.footmercato.net/a48998728169851195-barca-hansi-flick-va-convoquer-un-jeune-joueur-de-17-ans-pour-le-clasico",
-     "pub": "2026-10-25T10:39+00:00"
-    },
-    {
-     "medio": "Foot Mercato",
-     "titulo": "Real Madrid : Thibaut Courtois forfait de dernière minute pour le Clasico !",
-     "url": "https://www.footmercato.net/a5019357978059521686-real-madrid-thibaut-courtois-forfait-de-derniere-minute-pour-le-clasico",
-     "pub": "2026-10-25T10:16+00:00"
-    }
-   ]
-  },
-  {
-   "tema": "Inter",
-   "medios": 9,
-   "lista_medios": [
-    "Foot Mercato",
-    "Football Italia",
-    "Google News EN",
-    "Google News ES",
-    "Infobae",
-    "Mundo Deportivo",
-    "Ole",
-    "Yahoo",
-    "ge.globo"
-   ],
-   "primera_vez": "2026-10-25T11:55+00:00",
-   "titulares": [
-    {
-     "medio": "Yahoo",
-     "titulo": "Chivu: Why Provedel and Mkhitaryan ‘deserve to start’ in Inter vs. Fiorentina",
-     "url": "https://sports.yahoo.com/articles/chivu-why-provedel-mkhitaryan-deserve-112000001.html",
-     "pub": "2026-10-25T11:20+00:00"
-    },
-    {
-     "medio": "Yahoo",
-     "titulo": "Serie A official line-ups: Inter vs. Fiorentina",
-     "url": "https://sports.yahoo.com/articles/serie-official-line-ups-inter-103000813.html",
-     "pub": "2026-10-25T10:30+00:00"
-    },
-    {
-     "medio": "Yahoo",
-     "titulo": "Serie A: Inter vs. Fiorentina – probable line-ups, where to watch on TV",
-     "url": "https://sports.yahoo.com/articles/serie-inter-vs-fiorentina-probable-090500143.html",
-     "pub": "2026-10-25T09:05+00:00"
-    },
-    {
-     "medio": "Google News EN",
-     "titulo": "Inter - Fiorentina",
-     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQZnFvVEM3YUxSUzNJUUp0a25WVDNhdlpDOF9kZnV0ZVhpYXk1eXI2OTRFTVhyQjFRSFZIelRoX29nYlNDZEkzYXV5OTBGcVVLMmo1enpoVWtoRlg1SWFxYzlVekRDMWVnVVQ0Z1NTU3hfU1BHWnlES0xRYnBXaGtzYi1ZVQ?oc=5",
-     "pub": "2026-10-25T07:47+00:00"
-    },
-    {
-     "medio": "Mundo Deportivo",
-     "titulo": "Inter de Milán - Fiorentina, en directo | Serie A",
-     "url": "https://www.mundodeportivo.com/futbol/serie-a/20261025/1004241082/inter-milan-fiorentina-directo-serie.html",
-     "pub": ""
-    },
-    {
-     "medio": "Mundo Deportivo",
-     "titulo": "2-0: Leo Messi no llega a tiempo para salvar al Inter Miami",
-     "url": "https://www.mundodeportivo.com/futbol/internacional/20261025/1004242909/2-0-leo-messi-no-llega-salvar-inter-miami.html",
-     "pub": ""
-    },
-    {
-     "medio": "Google News ES",
-     "titulo": "Fútbol-Sala 1ª division: el tramo final condena al Viña Albali Valdepeñas ante el Inter",
-     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPWEhzTkZ2WHk3SjhaX2NhZkcyUXhtcW8wV2pha1BZaHJkd0xLc0hURVIwOHduQU9IeWlvMGI3ekRvZWtreC1VVFdCakx5ODRrQm5CNzB0c2dVNlBTUlNlYWo1TFh4TmZJZWtQUkdDQnJFTFpsakNaNG80TlM4LUtHRDVoSW1hbmR5OUdpeHhZXzQzNWRDUjlXQjRrNnY4SndnSDhnZEJQMmNwVTFwLWZyRl93?oc=5",
-     "pub": "2026-10-25T07:40+00:00"
-    },
-    {
-     "medio": "Google News ES",
-     "titulo": "Inter de Milán vs Fiorentina de Serie A 2026/2027: horario y dónde ver hoy por TV y online el partido de la liga italiana a través de DAZN",
-     "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNa1RzdmlxdDFCUVVTWGNGRFZrX1Myd00xRmlJRTZ2cm1xMWpaWHRzX2pQWEtxUmpqWU10VEZpdTl1cmlqMzZVVlF3X1hDX09qSXlha3pmbXNzaEtIYmdXSVBtME5XSDNVbWpRYmtpMUR2dkR2VTJWYXBGa2hWcnlxNkJJbVdUM2MtUTFSU1FUN2FmOGx6SWhJSTFUcTBBMVZmWmROalNLc3NYMzAzQjh3NVl0S0tZeVVwTzVLQnhhenRnMDBkSXFpRmd0RE1kUHBDcHJkWkVKTWwydnVkX094TENlMHRVQmpHSENSNUI2UDBMbTJkQW1rQUdCTFR3dy1fVGc?oc=5",
-     "pub": "2026-10-25T05:26+00:00"
-    },
-    {
-     "medio": "Ole",
-     "titulo": "Con Mastantuono y Pellegrino, la Fiorentina ya juega ante el Inter sin Lautaro",
-     "url": "https://www.ole.com.ar/futbol-internacional/italia/mastantuono-pellegrino-fiorentina-juega-inter-lautaro_0_cVeGrIh4Z4.html",
-     "pub": "2026-10-25T11:40+00:00"
-    },
-    {
-     "medio": "Yahoo",
-     "titulo": "Chivu: ‘Injustices’ made Inter stronger against Fiorentina",
-     "url": "https://sports.yahoo.com/articles/chivu-injustices-made-inter-stronger-145000047.html",
-     "pub": "2026-10-25T14:50+00:00"
-    },
-    {
-     "medio": "Mundo Deportivo",
-     "titulo": "2-1: El Inter remonta en el descuento y amarga a la Fiorentina",
-     "url": "https://www.mundodeportivo.com/futbol/serie-a/20261025/1004242976/inter-fiore.html",
-     "pub": ""
-    },
-    {
-     "medio": "Football Italia",
-     "titulo": "Vanoli: Fiorentina ‘improving’ despite 2-1 loss vs. Inter",
-     "url": "https://football-italia.net/vanoli-fiorentina-improving-2-1-loss-inter/",
-     "pub": "2026-10-25T14:23+00:00"
-    }
-   ]
-  },
-  {
-   "tema": "Courtois",
-   "medios": 9,
-   "lista_medios": [
-    "AS",
-    "Foot Mercato",
-    "Google News ES",
-    "Kicker",
-    "L'Equipe",
-    "Mundo Deportivo",
-    "Record",
-    "Yahoo",
-    "ge.globo"
-   ],
-   "primera_vez": "2026-10-25T11:55+00:00",
-   "titulares": [
-    {
-     "medio": "Yahoo",
-     "titulo": "Confirmed: Real Madrid suffer major last-minute blow as Thibaut Courtois ruled out of El Clasico",
-     "url": "https://sports.yahoo.com/articles/confirmed-real-madrid-suffer-major-101900502.html",
-     "pub": "2026-10-25T10:19+00:00"
-    },
-    {
-     "medio": "Yahoo",
-     "titulo": "🚨 Breaking: Courtois out of El Clásico; Lunin steps in",
-     "url": "https://sports.yahoo.com/articles/breaking-courtois-el-cl-sico-100300431.html",
-     "pub": "2026-10-25T10:03+00:00"
-    },
-    {
-     "medio": "AS",
-     "titulo": "¡Courtois se pierde el Clásico!",
-     "url": "https://as.com/futbol/primera/courtois-se-pierde-el-clasico-f202610-n/",
-     "pub": "2026-10-25T09:58+00:00"
-    },
-    {
-     "medio": "AS",
-     "titulo": "¿Cómo afecta la baja de Courtois? ¿Quién es tu favorito para el Clásico? Debate en AS",
-     "url": "https://as.com/futbol/primera/que-once-pondrias-si-fueras-flick-y-mourinho-comparte-tu-opinion-en-el-debate-de-as-f202610-d/",
-     "pub": "2026-10-25T11:51+00:00"
-    },
-    {
-     "medio": "AS",
-     "titulo": "Alineación posible del Real Madrid contra el Barcelona hoy en LaLiga EA Sports: Courtois, baja",
-     "url": "https://as.com/futbol/primera/alineacion-posible-del-real-madrid-contra-el-barcelona-en-laliga-ea-sports-f202610-n/",
-     "pub": "2026-10-25T11:09+00:00"
-    },
-    {
-     "medio": "Mundo Deportivo",
-     "titulo": "Courtois, baja de última hora para el Clásico",
-     "url": "https://www.mundodeportivo.com/futbol/el-clasico-barca-real-madrid/20261025/1004242940/courtois-baja-ultima-hora-clasico-proceso-gripal.html",
-     "pub": ""
-    },
-    {
-     "medio": "Mundo Deportivo",
-     "titulo": "El posible once del Real Madrid para el Clásico, sin Courtois",
-     "url": "https://www.mundodeportivo.com/futbol/real-madrid/20261025/1004242653/posible-once-real-madrid-clasico.html",
-     "pub": ""
-    },
-    {
-     "medio": "Google News ES",
-     "titulo": "¿Por qué no juega Courtois El Clásico entre el FC Barcelona y el Real Madrid de LaLiga?",
-     "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQcEdyZi16ZkJZaVRYaTdleU9vR011VU4tcTBubzZ5MnNlUWxDUG4ycjJzU1dISElpN0VlNDhiTy1uZWVsUmRBdzZ3blcwUW1SNVBjbDQxVVJBYVNiRjNHRmY3bmtKQnExRG41ZHdwalpBQ0xKSTYtREY4ZWRKRlJHWDl2UEhPZ0FzUU5VblJkR2lQQXJrWktZcHNrRDd1SEk1RTZKVTZNVUZpeHUxdWJaS2hST0VHenNIZXhpVDhxNWRoSWljMnFBRDUzdFhjV096LXc?oc=5",
-     "pub": "2026-10-25T10:19+00:00"
-    },
-    {
-     "medio": "Google News ES",
-     "titulo": "Courtois, baja de última hora en El Clásico",
-     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNOU5SR09lTU93YmRkMG9xRVYyWFl3XzhQR1dUUTdIM1ZraUVNZUx2T0FQelRnSFd6cDQ1MTMycWRwbzhJbEVvU1QzLURsZGhCMFNEVGV5dXpBVTRUOUxqcEhTT3U1dHlfODdjb21ybzdCWTZOSExneHpOcjU5c0NLdlp3WEsxbWhmeEZJRXdaWGxQRHVXZmJFM3FjR1F2UjBzYi1UNWFhaUlaYlRQWE1odNIBsAFBVV95cUxNOU5SR09lTU93YmRkMG9xRVYyWFl3XzhQR1dUUTdIM1ZraUVNZUx2T0FQelRnSFd6cDQ1MTMycWRwbzhJbEVvU1QzLURsZGhCMFNEVGV5dXpBVTRUOUxqcEhTT3U1dHlfODdjb21ybzdCWTZOSExneHpOcjU5c0NLdlp3WEsxbWhmeEZJRXdaWGxQRHVXZmJFM3FjR1F2UjBzYi1UNWFhaUlaYlRQWE1odA?oc=5",
-     "pub": "2026-10-25T10:11+00:00"
-    },
-    {
-     "medio": "Kicker",
-     "titulo": "Torwartwechsel im Clasico: Courtois fehlt Real",
-     "url": "https://www.kicker.de/torwartwechsel-im-clasico-courtois-fehlt-real-1264911/artikel#omrss",
-     "pub": "2026-10-25T10:31+00:00"
-    },
-    {
-     "medio": "L'Equipe",
-     "titulo": "Thibaut Courtois déclare forfait juste avant le Clasico face au Barça pour un état grippal",
-     "url": "https://www.lequipe.fr/Football/Actualites/Thibaut-courtois-declare-forfait-juste-avant-le-clasico-face-au-barca-pour-un-etat-grippal/1738504#at_medium=RSS_feeds",
-     "pub": "2026-10-25T10:36+00:00"
-    },
-    {
-     "medio": "Foot Mercato",
-     "titulo": "Real Madrid : Courtois veut jouer face au Barça !",
-     "url": "https://www.footmercato.net/a8274284598026182311-thibaut-courtois-veut-jouer-face-au-barca",
-     "pub": "2026-10-25T11:51+00:00"
+     "titulo": "<![CDATA[ Bayern Munique vence Friburgo e segue no topo da Bundesliga em igualdade com o Dortmund ]]>",
+     "url": "https://www.record.pt/internacional/paises/alemanha/detalhe/20261025-173756-friburgo-bayern-munique-em-direto",
+     "pub": "2026-10-25T18:29+00:00"
     }
    ]
   },
   {
    "tema": "Neymar",
-   "medios": 9,
+   "medios": 10,
    "lista_medios": [
+    "AS",
     "Foot Mercato",
     "Google News AR",
     "Google News ES",
@@ -2027,12 +2041,6 @@
      "pub": "2026-10-25T08:53+00:00"
     },
     {
-     "medio": "Ole",
-     "titulo": "Increíble: Neymar se fue expulsado ¡por taparse la boca! en el partido de Santos",
-     "url": "https://www.ole.com.ar/futbol-internacional/neymar-santos-brasil-bahia-pelea-rogerio-ceni-brasileirao_0_SesJnUONGS.html",
-     "pub": "2026-10-25T01:45+00:00"
-    },
-    {
      "medio": "Infobae",
      "titulo": "Polémica con Neymar en Brasil: fue expulsado por un gesto contra un rival y estalló con un duro descargo",
      "url": "https://www.infobae.com/deportes/2026/10/25/polemica-con-neymar-en-brasil-fue-expulsado-por-un-gesto-contra-un-rival-y-estallo-con-un-duro-descargo/",
@@ -2049,48 +2057,49 @@
      "titulo": "El fuerte descargo de Neymar tras su expulsión: \"Le di la oportunidad a un idiota de hacerse notar\"",
      "url": "https://www.ole.com.ar/futbol-internacional/neymar-santos-bahia-brasileirao-rodrigonestor-expulsion_0_oUVEuvH7An.html",
      "pub": "2026-10-25T14:30+00:00"
+    },
+    {
+     "medio": "Google News AR",
+     "titulo": "Neymar fue expulsado por la ley Prestianni y explotó en redes sociales: \"Fue muy astuto\"",
+     "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxObGJ5OVdiMzRHR2VTNmQ1OXJwQnp6aS01eUlzVHlSX1lMaENGcUhyaFBjcXQ0bHZPU0M1enA4MUJVTVFFdGJZN3h0blhQc0hBZE9oUzdpSnlHWE04bzdRZHZmRnJrXzZCZzk2WTV5UjR1d2dWaG9TWWVSMzVhbDYySlNxcmpwWmdaQXczQll3bjRQNzllS0s3X1pCVzdoUGVBU0Fja3Jfa2JGMzI5R3hsMkU1cV9QY2ZHd0VUeHBsMjFVYVFuUXpqVHR5M2tpTmh5Q2x4TUFQNDZKUQ?oc=5",
+     "pub": "2026-10-25T14:48+00:00"
     }
    ]
   },
   {
-   "tema": "Messi",
-   "medios": 9,
+   "tema": "Lamine",
+   "medios": 10,
    "lista_medios": [
     "AS",
-    "Google News AR",
+    "Daily Mail",
+    "Foot Mercato",
+    "Google News EN",
     "Google News ES",
-    "Infobae",
     "L'Equipe",
     "Mundo Deportivo",
     "Ole",
-    "Record",
+    "Sky Sports",
     "Yahoo"
    ],
    "primera_vez": "2026-10-25T11:55+00:00",
    "titulares": [
     {
      "medio": "Mundo Deportivo",
-     "titulo": "2-0: Leo Messi no llega a tiempo para salvar al Inter Miami",
-     "url": "https://www.mundodeportivo.com/futbol/internacional/20261025/1004242909/2-0-leo-messi-no-llega-salvar-inter-miami.html",
+     "titulo": "El golazo del amigo de Lamine Yamal que anima El Clásico",
+     "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261025/1004242942/golazo-amigo-lamine-yamal-anima-clasico.html",
      "pub": ""
     },
     {
-     "medio": "L'Equipe",
-     "titulo": "Messi, Rodri, Sammer... le top 5 des sacres les plus serrés pour le Ballon d'Or",
-     "url": "https://www.lequipe.fr/Football/Actualites/Messi-rodri-sammer-le-top-5-des-sacres-les-plus-serres-pour-le-ballon-d-or/1718919#at_medium=RSS_feeds",
-     "pub": "2026-10-25T10:10+00:00"
+     "medio": "Mundo Deportivo",
+     "titulo": "Abdellah Ouazane, el fuera de serie de 17 años del Ajax de Míchel que recuerda a Lamine",
+     "url": "https://www.mundodeportivo.com/futbol/internacional/20261025/1004243055/abdellah-ouazane-fuera-serie-17-anos-ajax-michel-recuerda-lamine-yamal.html",
+     "pub": ""
     },
     {
-     "medio": "L'Equipe",
-     "titulo": "« C'est un peu comme Messi contre Cristiano Ronaldo » : Lamine Yamal-Kylian Mbappé, duel brûlant au coeur du Clasico",
-     "url": "https://www.lequipe.fr/Football/Article/-c-est-un-peu-comme-messi-contre-cristiano-ronaldo-lamine-yamal-kylian-mbappe-duel-brulant-au-coeur-du-clasico/1738346#at_medium=RSS_feeds",
-     "pub": "2026-10-25T04:47+00:00"
-    },
-    {
-     "medio": "Google News AR",
-     "titulo": "Ser Messi en Brasil",
-     "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9UdW5ZeUpoMkxLMm5RMENiSUNYUFRLLVVzdlBVVG1YUXZ5TmxqZ3dwVzJOY1NILVcwQ2RXdXVBbDlFSGJmZjVDTWtEcjVOSHBZbHhDN0l2cFR4WDlNeHEwSEFvOUpIemExNTFFSWpENA?oc=5",
-     "pub": "2026-10-25T04:01+00:00"
+     "medio": "Google News ES",
+     "titulo": "Samuel Umtiti alucina con Lamine Yamal y desvela qué le hace único: \"Tiene algo... hoy en día no hay un jugador como él\"",
+     "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNY0R0MUw2SENTRHF4RUlaWmtaT24zYm1uU0JlVlItdnVVZVBiaDYtdElHeDdObDUyeTNSR3Y5ZXVlY3h5RVRRUDU1R1MwWFhSWktheng3ODJGaExEYWtac01kMmFKVTgxSF9rNW1FVHVtT1ZkUXl1MzhEeDBGN3V4eDdmSzhfTW9XTnlyall2V2o4ZU51VFdOTGtncjUwTThsekJySUV5Sm1Ld3hkYW16SXBwY1dFOW9feGs1dVVhWENURTdNMmZ6WE1XaUgtVTFCWlNNSkJVRS1HOGloMGNJT1A5VWNJczhGcV80ZWFYYTVza0xoLVpFWQ?oc=5",
+     "pub": "2026-10-25T19:33+00:00"
     },
     {
      "medio": "Google News ES",
@@ -2099,55 +2108,62 @@
      "pub": "2026-10-25T18:43+00:00"
     },
     {
-     "medio": "Ole",
-     "titulo": "Lionel Messi no para: en cuatro días, Oviedo, Nueva York, Miami y ¿Londres?",
-     "url": "https://www.ole.com.ar/messi/lionel-messi-avion-espana-premio-princesa-asturias-nueva-york-inter-miami-mateo-hijo-campeon-londres-balon-oro_0_OWBuiRDkGF.html",
-     "pub": "2026-10-25T19:31+00:00"
+     "medio": "Mundo Deportivo",
+     "titulo": "Tres faltas de Cucurella a Lamine en la primera parte y amarilla perdonada",
+     "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261025/1004243157/amarilla-perdonada-cucurella-primera-parte-falta-lamine.html",
+     "pub": ""
     },
     {
-     "medio": "Ole",
-     "titulo": "Con Lionel como hincha: Mateo Messi metió un gol y la sub 12 de Inter Miami gritó campeón",
-     "url": "https://www.ole.com.ar/messi/mateo-messi-gol-inter-miami-campeon_0_CAxkYVxax8.html",
-     "pub": "2026-10-25T18:31+00:00"
+     "medio": "L'Equipe",
+     "titulo": "Les pistons droits Lamine Sy et Lucas Buades ont secoué leurs couloirs lors d'Auxerre-Le Mans",
+     "url": "https://www.lequipe.fr/Football/Actualites/Les-pistons-droits-lamine-sy-et-lucas-buades-ont-secoue-leurs-couloirs-lors-d-auxerre-le-mans/1738644#at_medium=RSS_feeds",
+     "pub": "2026-10-25T20:25+00:00"
     },
     {
-     "medio": "Infobae",
-     "titulo": "Mateo Messi convirtió un golazo y se consagró campeón con el Inter Miami en un torneo Sub 12",
-     "url": "https://www.infobae.com/deportes/2026/10/25/mateo-messi-convirtio-un-golazo-y-se-consagro-campeon-con-el-inter-miami-en-un-torneo-sub-12/",
-     "pub": "2026-10-25T18:47+00:00"
+     "medio": "Foot Mercato",
+     "titulo": "FC Barcelone : l’énorme raté de Lamine Yamal face au Real Madrid",
+     "url": "https://www.footmercato.net/a8580528470730303361-fc-barcelone-lenorme-rate-de-lamine-yamal-face-au-real-madrid",
+     "pub": "2026-10-25T21:04+00:00"
     },
     {
-     "medio": "Record",
-     "titulo": "<![CDATA[ Entrada amarga para jovens do Benfica na Messi Cup ]]>",
-     "url": "https://www.record.pt/futebol/futebol-nacional/liga-betclic/benfica/detalhe/entrada-amarga-para-jovens-do-benfica-na-messi-cup",
-     "pub": "2026-10-25T21:20+00:00"
+     "medio": "Sky Sports",
+     "titulo": "Kane, Mbappe and Lamine Yamal - who should win men's 2026 Ballon d'Or?",
+     "url": "https://www.skysports.com/football/news/12040/13601847/ballon-dor-2026-harry-kane-kylian-mbappe-and-lamine-yamal-in-race-for-mens-award-stats-and-pundits-opinions",
+     "pub": "2026-10-26T07:00+00:00"
     },
     {
      "medio": "Yahoo",
-     "titulo": "Arsenal lose Messi Cup opener & face Barcelona next",
-     "url": "https://sports.yahoo.com/articles/arsenal-lose-messi-cup-opener-110500041.html",
-     "pub": "2026-10-26T11:05+00:00"
+     "titulo": "EXCLUSIVE | Chris Waddle: “Harry Kane should win Ballon d’Or, but Lamine Yamal will win it.”",
+     "url": "https://sports.yahoo.com/articles/exclusive-chris-waddle-harry-kane-124700219.html",
+     "pub": "2026-10-26T12:47+00:00"
+    },
+    {
+     "medio": "Yahoo",
+     "titulo": "Barcelona certain that Lamine Yamal will win the Kopa Trophy and remain hopeful of Ballon d’Or",
+     "url": "https://sports.yahoo.com/articles/barcelona-certain-lamine-yamal-win-111600820.html",
+     "pub": "2026-10-26T11:16+00:00"
     },
     {
      "medio": "AS",
-     "titulo": "Los ‘herejes’ del Balón de Oro: “Apagaba el teléfono tras saberse que no voté a Messi”",
-     "url": "https://as.com/futbol/internacional/los-herejes-del-balon-de-oro-apagaba-el-telefono-tras-saberse-que-no-vote-a-messi-f202610-n/",
-     "pub": "2026-10-26T12:25+00:00"
+     "titulo": "Balón de Oro 2026 hoy, en directo: ganadores, votos y última hora de la gala | Lamine, Mbappé, Kane, Alexia...",
+     "url": "https://as.com/futbol/internacional/balon-de-oro-2026-hoy-en-directo-ganadores-votos-y-ultima-hora-de-la-gala-lamine-mbappe-kane-alexia-f202610-n/",
+     "pub": "2026-10-26T13:25+00:00"
     },
     {
-     "medio": "Mundo Deportivo",
-     "titulo": "Leo Messi inaugura en Miami la segunda edición de la Messi Cup, con el doble de participantes",
-     "url": "https://www.mundodeportivo.com/futbol/internacional/20261026/1004243281/leo-messi-inaugura-miami-segunda-edicion-messi-cup-doble-participantes.html",
-     "pub": ""
+     "medio": "AS",
+     "titulo": "Lamine Yamal, un Clásico para olvidar",
+     "url": "https://as.com/futbol/primera/lamine-yamal-un-clasico-para-olvidar-f202610-n/",
+     "pub": "2026-10-26T10:52+00:00"
     }
    ]
   },
   {
    "tema": "Mbappé",
-   "medios": 9,
+   "medios": 10,
    "lista_medios": [
     "AS",
     "Foot Mercato",
+    "Google News ES",
     "Guardian",
     "Kicker",
     "L'Equipe",
@@ -2158,18 +2174,6 @@
    ],
    "primera_vez": "2026-10-25T11:55+00:00",
    "titulares": [
-    {
-     "medio": "L'Equipe",
-     "titulo": "Lamine Yamal vs Kylian Mbappé, le Clasico des candidats au Ballon d'or 2026",
-     "url": "https://www.lequipe.fr/Football/Video/Liga-lamine-yamal-vs-kylian-mbappe-le-clasico-des-candidats-au-ballon-d-or-2026/20244006#at_medium=RSS_feeds",
-     "pub": "2026-10-25T06:41+00:00"
-    },
-    {
-     "medio": "L'Equipe",
-     "titulo": "« C'est un peu comme Messi contre Cristiano Ronaldo » : Lamine Yamal-Kylian Mbappé, duel brûlant au coeur du Clasico",
-     "url": "https://www.lequipe.fr/Football/Article/-c-est-un-peu-comme-messi-contre-cristiano-ronaldo-lamine-yamal-kylian-mbappe-duel-brulant-au-coeur-du-clasico/1738346#at_medium=RSS_feeds",
-     "pub": "2026-10-25T04:47+00:00"
-    },
     {
      "medio": "Foot Mercato",
      "titulo": "Pascal Dupraz : « Mbappé ? En termes de titres collectifs, il incarne le loser par excellence »",
@@ -2229,13 +2233,26 @@
      "titulo": "Así celebró Mourinho el 1-2 de Mbappé",
      "url": "https://www.mundodeportivo.com/futbol/real-madrid/20261025/1004243173/asi-celebro-mourinho-1-2-mbappe.html",
      "pub": ""
+    },
+    {
+     "medio": "Mundo Deportivo",
+     "titulo": "Doblete de Mbappé en el Camp Nou",
+     "url": "https://www.mundodeportivo.com/futbol/real-madrid/20261025/1004243172/doblete-mbappe-camp-nou.html",
+     "pub": ""
+    },
+    {
+     "medio": "Mundo Deportivo",
+     "titulo": "Mbappé abre el marcador en el Camp Nou con un gol lleno de suerte",
+     "url": "https://www.mundodeportivo.com/futbol/real-madrid/20261025/1004243152/mbappe-abre-marcador-camp-nou-gol-lleno-suerte.html",
+     "pub": ""
     }
    ]
   },
   {
    "tema": "Trafford",
-   "medios": 9,
+   "medios": 10,
    "lista_medios": [
+    "AS",
     "Daily Mail",
     "Guardian",
     "L'Equipe",
@@ -2307,17 +2324,115 @@
      "titulo": "Nouvelle humiliation à Old Trafford, cadres intenables, choix tactiques ratés : la place de Michael Carrick ne tient plus qu'à un fil à Manchester United",
      "url": "https://www.lequipe.fr/Football/Article/Nouvelle-humiliation-a-old-trafford-cadres-intenables-choix-tactiques-rates-la-place-de-michael-carrick-ne-tient-plus-qu-a-un-fil-a-manchester-united/1738688#at_medium=RSS_feeds",
      "pub": "2026-10-25T21:47+00:00"
+    },
+    {
+     "medio": "AS",
+     "titulo": "Bayindir, de Old Trafford al Helmántico",
+     "url": "https://as.com/futbol/copa_del_rey/bayindir-de-old-trafford-al-helmantico-f202610-n/",
+     "pub": "2026-10-26T18:58+00:00"
+    }
+   ]
+  },
+  {
+   "tema": "Bruno",
+   "medios": 10,
+   "lista_medios": [
+    "Daily Mail",
+    "Foot Mercato",
+    "FourFourTwo",
+    "Google News EN",
+    "L'Equipe",
+    "Mirror",
+    "Mundo Deportivo",
+    "Record",
+    "Yahoo",
+    "talkSPORT"
+   ],
+   "primera_vez": "2026-10-25T16:43+00:00",
+   "titulares": [
+    {
+     "medio": "talkSPORT",
+     "titulo": "Michael Carrick drops Man United captain Bruno Fernandes after critical comments",
+     "url": "https://talksport.com/football/4666007/bruno-fernandes-dropped-manchester-united-michael-carrick-bournemouth/",
+     "pub": "2026-10-25T12:18+00:00"
+    },
+    {
+     "medio": "Daily Mail",
+     "titulo": "Bruno Fernandes is DROPPED from Manchester United's starting XI for Bournemouth - with Red Devils captain on the bench for the first time in almost five years after questioning Michael Carrick's tactics following Como loss",
+     "url": "https://www.dailymail.com/sport/football/article-16237215/Bruno-Fernandes-DROPPED-Manchester-Uniteds-starting-XI-Bournemouth-Red-Devils-captain-bench-time-five-years-questioning-Michael-Carricks-tactics-following-Como-loss.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+     "pub": "2026-10-25T13:00+00:00"
+    },
+    {
+     "medio": "Mirror",
+     "titulo": "Jamie Carragher claims Man Utd stars 'don't like playing' with Bruno Fernandes as star axed",
+     "url": "https://www.mirror.co.uk/sport/football/news/jamie-carragher-claims-man-utd-37808606",
+     "pub": "2026-10-25T13:26+00:00"
+    },
+    {
+     "medio": "Mirror",
+     "titulo": "Bruno Fernandes DROPPED as Man Utd boss Michael Carrick reacts to midweek outburst",
+     "url": "https://www.mirror.co.uk/sport/football/news/man-utd-fernandes-dropped-carrick-37808422",
+     "pub": "2026-10-25T12:34+00:00"
+    },
+    {
+     "medio": "Google News EN",
+     "titulo": "Man Utd captain Bruno Fernandes left on bench by manager Michael Carrick during Bournemouth defeat",
+     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5sV1h5bWI0dkk5ZTloS1RVZHdRekI2ejBZTl9oTl9oMm1FTmVCcnhGU2tUclB2a25haUhJZ3hvVERDMGYzTDJqUlZiZ0V5a0EyZEhVNVJRY2dJNVBHczZLNnBXSWl4RlQ4V1lr?oc=5",
+     "pub": "2026-10-25T12:58+00:00"
+    },
+    {
+     "medio": "Google News EN",
+     "titulo": "Man United: Michael Carrick explains why he dropped captain Bruno Fernandes for Bournemouth match",
+     "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOalQzaUhkSXJoeDZlSVZXTTRmR1NIejEzeWk2YnhDOGV1QlF3UFBHanMtUWx3WnptbURDbnFJTlRIel9VTUlkOFpMakF5MW5CbGpDSGN0UkwwTzF1Q2RlRE5hREpQUnkyMnlvSzRneDB0VGdEb0F4dTY2Q1MwU3VRSTZqNG40X2RYSE9ZNlF2MUhWT3Z3alljbzFIMlhYY0xMbzJWUFNQVmdRaDlZRzZrZUNSUVQ2a0pjekdfR2dkN0lMVXlHQ2VOb3RHUVE0cWdk?oc=5",
+     "pub": "2026-10-25T13:08+00:00"
+    },
+    {
+     "medio": "Mundo Deportivo",
+     "titulo": "Bruno Fernandes paga sus críticas a Carrick",
+     "url": "https://www.mundodeportivo.com/futbol/premier-league/20261025/1004242999/bruno-fernandes-paga-criticas-carrick.html",
+     "pub": ""
+    },
+    {
+     "medio": "L'Equipe",
+     "titulo": "Bruno Genesio change huit joueurs face au Havre : l'OM démarrera avec Igor Paixao et Pierre-Emile Höjbjerg",
+     "url": "https://www.lequipe.fr/Football/Actualites/Bruno-genesio-change-huit-joueurs-face-au-havre-l-om-demarrera-avec-igor-paixao-et-pierre-emile-hojbjerg/1738544#at_medium=RSS_feeds",
+     "pub": "2026-10-25T15:47+00:00"
+    },
+    {
+     "medio": "L'Equipe",
+     "titulo": "Le capitaine de Manchester United Bruno Fernandes laissé sur le banc après ses critiques virulentes contre son entraîneur Michael Carrick",
+     "url": "https://www.lequipe.fr/Football/Actualites/Le-capitaine-de-manchester-united-bruno-fernandes-laisse-sur-le-banc-apres-ses-critiques-virulentes-contre-son-entraineur-michael-carrick/1738521#at_medium=RSS_feeds",
+     "pub": "2026-10-25T13:18+00:00"
+    },
+    {
+     "medio": "Foot Mercato",
+     "titulo": "Man United : Bruno Fernandes laissé sur le banc contre Bournemouth",
+     "url": "https://www.footmercato.net/a7915428490654988057-man-united-bruno-fernandes-laisse-sur-le-banc-contre-bournemouth",
+     "pub": "2026-10-25T12:43+00:00"
+    },
+    {
+     "medio": "Record",
+     "titulo": "<![CDATA[ Crise sem fim: Man. United afunda-se após perder com o Bournemouth num jogo em que Bruno Fernandes ficou no banco ]]>",
+     "url": "https://www.record.pt/internacional/paises/inglaterra/detalhe/20261025-104411-manchester-united-bournemouth-em-direto",
+     "pub": "2026-10-25T15:54+00:00"
+    },
+    {
+     "medio": "talkSPORT",
+     "titulo": "Michael Carrick accused of trying to embarrass Bruno Fernandes as Man United boss insists horror defeat is not a farewell",
+     "url": "https://talksport.com/football/4666547/michael-carrick-bruno-fernandes-embarrass-man-utd-bournemouth-jamie-carragher/",
+     "pub": "2026-10-25T17:57+00:00"
     }
    ]
   },
   {
    "tema": "England",
-   "medios": 8,
+   "medios": 9,
    "lista_medios": [
     "BBC",
     "Daily Mail",
     "Google News EN",
     "Guardian",
+    "Mirror",
     "Sky Sports",
     "Telegraph",
     "Yahoo",
@@ -2330,12 +2445,6 @@
      "titulo": "Ballon d’Or ceremony returns to England in nod to ‘revolutionary’ Stanley Matthews",
      "url": "https://www.theguardian.com/football/2026/oct/25/ballon-dor-ceremony-returns-to-england-in-nod-to-revolutionary-stanley-matthews",
      "pub": "2026-10-25T08:00+00:00"
-    },
-    {
-     "medio": "Sky Sports",
-     "titulo": "England crumble to 241 all out vs Pakistan despite Duckett century LIVE!",
-     "url": "https://www.skysports.com/cricket/live-blog/12040/13603448/pakistan-vs-england-odi-tri-series-live-latest-cricket-score-updates-video-and-analysis-as-harry-brooks-side-target-first-win",
-     "pub": "2026-10-25T07:25+00:00"
     },
     {
      "medio": "Daily Mail",
@@ -2396,16 +2505,23 @@
      "titulo": "Arsenal 29yo very keen to return to England squad",
      "url": "https://sports.yahoo.com/articles/arsenal-29yo-very-keen-return-130500108.html",
      "pub": "2026-10-26T13:05+00:00"
+    },
+    {
+     "medio": "Sky Sports",
+     "titulo": "Carney: 'England have it all to do to avoid Rugby League World Cup exit'",
+     "url": "https://www.skysports.com/rugby-league/news/12040/13604136/rugby-league-world-cup-brian-carney-warns-england-have-it-all-to-do-to-avoid-group-stage-exit",
+     "pub": "2026-10-26T18:47+00:00"
     }
    ]
   },
   {
    "tema": "Chelsea",
-   "medios": 8,
+   "medios": 9,
    "lista_medios": [
     "BBC",
     "Daily Mail",
     "Foot Mercato",
+    "FourFourTwo",
     "Google News EN",
     "Planet Football",
     "Sky Sports",
@@ -2489,17 +2605,18 @@
    ]
   },
   {
-   "tema": "Alonso",
-   "medios": 8,
+   "tema": "Xabi",
+   "medios": 9,
    "lista_medios": [
     "Daily Mail",
     "Foot Mercato",
-    "Google News EN",
+    "FourFourTwo",
+    "Google News ES",
     "Kicker",
-    "L'Equipe",
     "Mirror",
-    "Sky Sports",
-    "Yahoo"
+    "Mundo Deportivo",
+    "Yahoo",
+    "talkSPORT"
    ],
    "primera_vez": "2026-10-25T11:55+00:00",
    "titulares": [
@@ -2534,18 +2651,6 @@
      "pub": "2026-10-25T11:34+00:00"
     },
     {
-     "medio": "L'Equipe",
-     "titulo": "Alonso : « C’est une leçon pour Cole Palmer »",
-     "url": "https://www.lequipe.fr/Football/Video/Premier-league-chelsea-xabi-alonso-apres-l-expulsion-de-cole-palmer-c-est-une-lecon-pour-lui/20244029#at_medium=RSS_feeds",
-     "pub": "2026-10-25T10:47+00:00"
-    },
-    {
-     "medio": "L'Equipe",
-     "titulo": "Alonso : « Déçu du résultat et de la performance »",
-     "url": "https://www.lequipe.fr/Football/Video/Premier-league-chelsea-xabi-alonso-apres-la-defaite-de-chelsea-face-a-tottenham-decu-du-resultat-et-de-la-performance/20244028#at_medium=RSS_feeds",
-     "pub": "2026-10-25T10:33+00:00"
-    },
-    {
      "medio": "Foot Mercato",
      "titulo": "Real Madrid : Xabi Alonso en remet une couche sur son départ",
      "url": "https://www.footmercato.net/a3668015721139071187-real-madrid-xabi-alonso-en-remet-une-couche-sur-son-depart",
@@ -2558,12 +2663,6 @@
      "pub": "2026-10-25T16:20+00:00"
     },
     {
-     "medio": "Google News EN",
-     "titulo": "'I didn't know that' - Alonso on Joao Pedro injury leak",
-     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9BV1AzMWlNSjJaWU1rRWdkVHE4VkJHU2FlSUdtOXd2UGNaUXp0V2Y2bkpCMjhRSDJRdDJQN1Q3Y0M3dDlhYmdjVlV4TXJyTUxYaG5pcWRjSU5qMng1dlJtdmdhWUhIME9J?oc=5",
-     "pub": "2026-10-25T11:22+00:00"
-    },
-    {
      "medio": "Yahoo",
      "titulo": "Chelsea star moves closer to exit door after latest Xabi Alonso snub",
      "url": "https://sports.yahoo.com/articles/chelsea-star-moves-closer-exit-182000543.html",
@@ -2574,104 +2673,40 @@
      "titulo": "JT Foot Mercato : Xabi Alonso règle ses comptes avec le Real Madrid",
      "url": "https://www.footmercato.net/a7852603196900011639-jt-foot-mercato-xabi-alonso-regle-ses-comptes-avec-le-real-madrid",
      "pub": "2026-10-25T17:49+00:00"
-    }
-   ]
-  },
-  {
-   "tema": "Newcastle",
-   "medios": 8,
-   "lista_medios": [
-    "BBC",
-    "Daily Mail",
-    "FourFourTwo",
-    "Google News EN",
-    "Guardian",
-    "Mundo Deportivo",
-    "Sky Sports",
-    "Yahoo"
-   ],
-   "primera_vez": "2026-10-25T11:55+00:00",
-   "titulares": [
+    },
+    {
+     "medio": "talkSPORT",
+     "titulo": "Xabi Alonso committed cardinal sin against Tottenham, but calls for Chelsea sack are baffling",
+     "url": "https://talksport.com/football/4667629/xabi-alonso-chelsea-tottenham-sack-calls/",
+     "pub": "2026-10-26T18:52+00:00"
+    },
     {
      "medio": "FourFourTwo",
-     "titulo": "Watch Crystal Palace vs Newcastle United: FREE streams",
-     "url": "https://www.fourfourtwo.com/competition/watch-crystal-palace-vs-newcastle-united-premier-league-2026-27-free",
-     "pub": "2026-10-25T11:30+00:00"
-    },
-    {
-     "medio": "Google News EN",
-     "titulo": "Crystal Palace - Newcastle",
-     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQNGlraGJaaG1nQ3NlZGU0cXRwamN5aW04RWJPb0xPbm1reVBzUERFbTFoVnhtUHhhN2lPYTJScEI2alEySnZnY2dkVVpURjAxNmVSWTBVaTd0Mk5hREhYbDB2QUcxSXo2TlJ6TkJQQURTVXZzSHlxVzRXU0RlV0xMZ3RaOGlPbGc5Qm50V2NnbTA0c2M?oc=5",
-     "pub": "2026-10-25T07:49+00:00"
-    },
-    {
-     "medio": "Guardian",
-     "titulo": "Osula and Barnes’ second-half burst sees Newcastle pile pressure on lacklustre Palace",
-     "url": "https://www.theguardian.com/football/2026/oct/25/crystal-palace-newcastle-premier-league-match-report",
-     "pub": "2026-10-25T16:29+00:00"
-    },
-    {
-     "medio": "Sky Sports",
-     "titulo": "Osula and Barnes on target as Newcastle beat sorry Palace",
-     "url": "https://www.skysports.com/watch/video/13603655/crystal-palace-0-2-newcastle-united-premier-league-highlights",
-     "pub": "2026-10-25T16:17+00:00"
-    },
-    {
-     "medio": "Daily Mail",
-     "titulo": "Pierre Sage's days at Crystal Palace feel numbered as clinical Newcastle triumph 2-0 to ease pressure on Matthias Jaissle, writes BOBBI MANZI",
-     "url": "https://www.dailymail.com/sport/football/article-16229515/Clinical-Newcastle-victory-Crystal-Palace-relieves-pressure-Matthias-Jaissle-Pierre-Sages-days-numbered.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-     "pub": "2026-10-25T16:39+00:00"
-    },
-    {
-     "medio": "Yahoo",
-     "titulo": "Hornicek Gets 8, Burn With 7.5 | Newcastle United Players Rated In Impressive Win Vs Crystal Palace",
-     "url": "https://sports.yahoo.com/articles/hornicek-gets-8-burn-7-163000484.html",
-     "pub": "2026-10-25T16:30+00:00"
-    },
-    {
-     "medio": "Google News EN",
-     "titulo": "Crystal Palace 0-2 Newcastle United | Premier League highlights",
-     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPNk1ZaVc5eHRZUlIyZmJLSTFoUHBPN1VaOUxLci1qa2VjS1M3QkVQQlUtZkV2UVIxbnNIb3Z3MjlLZi1jTkxyQmtCSkZ2Rno1ckl0UFlMOGZ3ZGI0OFZnR1VBcy1GRlYyMy12TTN0Zm1yU2lfQUUtcWlIamdkRm5MaVhjTDYtaGZZTi0zaE9Mc3RWUk5DckhTMTRsSmM5dFpkd2Fob3RvQkI4bFhoZzlQNg?oc=5",
-     "pub": "2026-10-25T16:19+00:00"
+     "titulo": "Roberto De Zerbi’s false-nine fury shows Tottenham are up and running, while Xabi Alonso is still adapting to Premier League life with Chelsea",
+     "url": "https://www.fourfourtwo.com/tactic/roberto-de-zerbis-false-nine-fury-shows-tottenham-are-up-and-running-while-xabi-alonso-is-still-adapting-to-premier-league-life-with-chelsea",
+     "pub": "2026-10-26T17:00+00:00"
     },
     {
      "medio": "Mundo Deportivo",
-     "titulo": "0-2: El Newcastle despierta tras el descanso para imponerse al Crystal Palace",
-     "url": "https://www.mundodeportivo.com/futbol/premier-league/20261025/1004243033/newcastle-despierta-descanso-imponerse-crystal-palace.html",
+     "titulo": "El Barça, peor ante Mourinho que contra Ancelotti y Xabi Alonso",
+     "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261026/1004243411/barca-peor-mourinho-ancelotti-xabi-alonso.html",
      "pub": ""
-    },
-    {
-     "medio": "BBC",
-     "titulo": "Sage continues to struggle as Palace lose at home to Newcastle",
-     "url": "https://www.bbc.co.uk/sport/football/videos/c9gkvellmxg1o?at_medium=RSS&at_campaign=rss",
-     "pub": "2026-10-25T19:59+00:00"
-    },
-    {
-     "medio": "Yahoo",
-     "titulo": "Newcastle United sign Aston Villa goalkeeper Kelly on emergency loan",
-     "url": "https://sports.yahoo.com/articles/newcastle-united-sign-aston-villa-220100069.html",
-     "pub": "2026-10-25T22:01+00:00"
-    },
-    {
-     "medio": "Yahoo",
-     "titulo": "Crystal Palace considering options to replace Pierre Sage after Newcastle United defeat",
-     "url": "https://sports.yahoo.com/articles/crystal-palace-considering-options-replace-115000303.html",
-     "pub": "2026-10-26T11:50+00:00"
     }
    ]
   },
   {
-   "tema": "Fiorentina",
-   "medios": 8,
+   "tema": "Inter",
+   "medios": 9,
    "lista_medios": [
     "Foot Mercato",
     "Football Italia",
     "Google News EN",
     "Google News ES",
-    "L'Equipe",
+    "Infobae",
     "Mundo Deportivo",
     "Ole",
-    "Yahoo"
+    "Yahoo",
+    "ge.globo"
    ],
    "primera_vez": "2026-10-25T11:55+00:00",
    "titulares": [
@@ -2706,16 +2741,16 @@
      "pub": ""
     },
     {
-     "medio": "Google News ES",
-     "titulo": "Inter de Milán vs Fiorentina de Serie A 2026/2027: horario y dónde ver hoy por TV y online el partido de la liga italiana a través de DAZN",
-     "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNa1RzdmlxdDFCUVVTWGNGRFZrX1Myd00xRmlJRTZ2cm1xMWpaWHRzX2pQWEtxUmpqWU10VEZpdTl1cmlqMzZVVlF3X1hDX09qSXlha3pmbXNzaEtIYmdXSVBtME5XSDNVbWpRYmtpMUR2dkR2VTJWYXBGa2hWcnlxNkJJbVdUM2MtUTFSU1FUN2FmOGx6SWhJSTFUcTBBMVZmWmROalNLc3NYMzAzQjh3NVl0S0tZeVVwTzVLQnhhenRnMDBkSXFpRmd0RE1kUHBDcHJkWkVKTWwydnVkX094TENlMHRVQmpHSENSNUI2UDBMbTJkQW1rQUdCTFR3dy1fVGc?oc=5",
-     "pub": "2026-10-25T05:26+00:00"
+     "medio": "Mundo Deportivo",
+     "titulo": "2-0: Leo Messi no llega a tiempo para salvar al Inter Miami",
+     "url": "https://www.mundodeportivo.com/futbol/internacional/20261025/1004242909/2-0-leo-messi-no-llega-salvar-inter-miami.html",
+     "pub": ""
     },
     {
-     "medio": "Football Italia",
-     "titulo": "Fiorentina confirm Dodo will leave amid Juventus, Milan and Barcelona speculation",
-     "url": "https://football-italia.net/fiorentina-dodo-leave-milan-juventus-barcelona/",
-     "pub": "2026-10-25T11:55+00:00"
+     "medio": "Google News ES",
+     "titulo": "Fútbol-Sala 1ª division: el tramo final condena al Viña Albali Valdepeñas ante el Inter",
+     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPWEhzTkZ2WHk3SjhaX2NhZkcyUXhtcW8wV2pha1BZaHJkd0xLc0hURVIwOHduQU9IeWlvMGI3ekRvZWtreC1VVFdCakx5ODRrQm5CNzB0c2dVNlBTUlNlYWo1TFh4TmZJZWtQUkdDQnJFTFpsakNaNG80TlM4LUtHRDVoSW1hbmR5OUdpeHhZXzQzNWRDUjlXQjRrNnY4SndnSDhnZEJQMmNwVTFwLWZyRl93?oc=5",
+     "pub": "2026-10-25T07:40+00:00"
     },
     {
      "medio": "Ole",
@@ -2743,9 +2778,9 @@
     },
     {
      "medio": "Football Italia",
-     "titulo": "Serie A | Inter 2-1 Fiorentina: Thuram and Zielinski complete another comeback",
-     "url": "https://football-italia.net/serie-a-inter-2-1-fiorentina-thuram-zielinski/",
-     "pub": "2026-10-25T13:47+00:00"
+     "titulo": "Thuram dedicates Inter goal to Lautaro, hopes French compatriot wins Ballon d’Or",
+     "url": "https://football-italia.net/thuram-inter-goal-lautaro-frenchman-ballon-or/",
+     "pub": "2026-10-25T14:15+00:00"
     }
    ]
   }
