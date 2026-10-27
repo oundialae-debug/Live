@@ -1,4 +1,4 @@
-# Titulares de fútbol (2026-10-27 12:36 UTC, últimas 36 h)
+# Titulares de fútbol (2026-10-27 18:53 UTC, últimas 36 h)
 
 Generado por `scripts/titulares.py` (workflow `tendencias`). Leídos 26 de 34 medios; fuentes en `redes/fuentes.md`.
 
@@ -6,117 +6,117 @@ Generado por `scripts/titulares.py` (workflow `tendencias`). Leídos 26 de 34 me
 
 | Tema | Nº medios | Medios | Ejemplo |
 |---|---|---|---|
-| Kane | 22 | AS, BBC, Daily Mail, Foot Mercato, Football Italia, FourFourTwo, Google News EN, | Kane ends England's 25-year Ballon d'Or wait - how he bucked the trend |
-| Yamal | 18 | AS, Daily Mail, Foot Mercato, FourFourTwo, Google News EN, Google News ES, Infob | 'Cubarsi should've won it' - Lamine Yamal on claiming Young Talent award again |
-| Harry | 17 | AS, Daily Mail, Foot Mercato, FourFourTwo, Google News EN, Infobae, L'Equipe, Mi | Winning MOMENT! Harry Kane claims 2026 Ballon d'Or award! |
-| Lamine | 16 | AS, Daily Mail, Foot Mercato, FourFourTwo, Google News EN, Google News ES, Infob | 'Cubarsi should've won it' - Lamine Yamal on claiming Young Talent award again |
-| Ballon | 15 | BBC, Daily Mail, Foot Mercato, Football Italia, FourFourTwo, Google News EN, Gua | Kane ends England's 25-year Ballon d'Or wait - how he bucked the trend |
-| Kylian | 13 | Daily Mail, Foot Mercato, FourFourTwo, Google News EN, Guardian, Infobae, L'Equi | Kylian Mbappé apologises after being dropped by Chinese brands for Mao Zedong comment |
-| Mbappé | 13 | AS, Foot Mercato, Google News EN, Google News ES, Guardian, Infobae, L'Equipe, M | Kylian Mbappé apologises after being dropped by Chinese brands for Mao Zedong comment |
-| Carrick | 10 | BBC, Daily Mail, Football Italia, FourFourTwo, Google News EN, Guardian, Mirror, | Carrick to stay in charge of Man Utd for Chelsea game |
-| Chelsea | 9 | BBC, Daily Mail, FourFourTwo, Google News EN, Guardian, Mirror, Sky Sports, Yaho | Carrick to stay in charge of Man Utd for Chelsea game |
-| Arsenal | 9 | BBC, Foot Mercato, FourFourTwo, Google News EN, Guardian, Mirror, Sky Sports, Ya | No Saliba, no problem - Konsa stepping up for Arsenal |
-| Mbappe | 9 | BBC, Daily Mail, FourFourTwo, Google News EN, Mirror, Planet Football, Yahoo, r/ | Chinese brands drop Mbappe as backlash grows over Mao joke |
-| Bayern | 9 | BBC, Foot Mercato, Google News EN, Google News ES, L'Equipe, Planet Football, Ya | Bayern continue unbeaten start in Kompany's absence |
-| Michael | 9 | Daily Mail, Foot Mercato, FourFourTwo, Google News EN, Guardian, Mirror, Yahoo,  | Damning data: stats that show Michael Carrick’s luck was bound to run out | Andrew Beasley |
-| Man | 8 | BBC, Daily Mail, Google News EN, Mirror, Planet Football, Sky Sports, Yahoo, tal | Carrick to stay in charge of Man Utd for Chelsea game |
-| Mao | 8 | BBC, Google News EN, Google News ES, Guardian, L'Equipe, Mirror, Record, r/socce | Chinese brands drop Mbappe as backlash grows over Mao joke |
-| Utd | 7 | BBC, Google News EN, Mirror, Planet Football, Sky Sports, Yahoo, talkSPORT | Carrick to stay in charge of Man Utd for Chelsea game |
-| Manchester | 7 | Daily Mail, Football Italia, FourFourTwo, Google News EN, Guardian, Yahoo, talkS | David Squires on … Manchester United’s latest crisis and dirty laundry |
-| Zedong | 7 | Google News EN, Google News ES, Guardian, L'Equipe, Mirror, Record, r/soccer (to | Kylian Mbappé apologises after being dropped by Chinese brands for Mao Zedong comment |
-| Madrid | 7 | Foot Mercato, FourFourTwo, Google News EN, Guardian, Mirror, Mundo Deportivo, Ya | Mourinho’s plan comes together as Real Madrid relaunch with clásico statement | Sid Lowe |
-| Messi | 7 | Foot Mercato, Google News AR, Infobae, L'Equipe, Mirror, Mundo Deportivo, ge.glo | Ballon d'Or judge who put Lionel Messi 3 places above Lamine Yamal explains controversial list |
-| Alexia | 7 | AS, Foot Mercato, Google News EN, Google News ES, L'Equipe, Mundo Deportivo, r/s | 'Football is for everyone!' - Alexia Putellas crowns third women's Ballon d'Or with inspirational speech |
-| Putellas | 6 | BBC, Foot Mercato, Google News EN, Google News ES, L'Equipe, r/soccer (top día) | Putellas wins record-equalling third Ballon d'Or to extend Spanish dominance |
-| Balón | 6 | AS, Google News AR, Google News ES, Infobae, Mundo Deportivo, Ole | Controversias del Balón de Oro: hay cuatro polémicas |
-| Oro | 6 | AS, Google News AR, Google News ES, Infobae, Mundo Deportivo, Ole | Controversias del Balón de Oro: hay cuatro polémicas |
-| Kane's | 5 | BBC, Daily Mail, Mirror, Sky Sports, r/soccer (top día) | Kane's rise from childhood keeper to the best in the world |
+| Kane | 21 | AS, BBC, Daily Mail, Foot Mercato, Football Italia, FourFourTwo, Google News EN, | How 'anti-superstar' Kane defied doubters to become world's best |
+| Carrick | 16 | BBC, Daily Mail, Foot Mercato, Football Italia, FourFourTwo, Google News EN, Gua | Carrick to stay in charge of Man Utd for Chelsea game |
+| Harry | 16 | AS, Daily Mail, Foot Mercato, FourFourTwo, Google News EN, Google News ES, Guard | Football Daily | Harry Kane completes his arc from Orient loanee to Ballon d’Or winner |
+| Ballon | 15 | BBC, Daily Mail, Foot Mercato, Football Italia, FourFourTwo, Google News EN, Gua | Ranking England's Ballon d'Or winners - how does Kane compare? |
+| Chelsea | 13 | BBC, Daily Mail, FourFourTwo, Google News EN, Guardian, Kicker, Mirror, Ole, Sky | Carrick to stay in charge of Man Utd for Chelsea game |
+| Michael | 11 | Daily Mail, Foot Mercato, FourFourTwo, Google News EN, Guardian, L'Equipe, Mirro | Damning data: stats that show Michael Carrick’s luck was bound to run out | Andrew Beasley |
+| Lamine | 11 | AS, Daily Mail, Foot Mercato, FourFourTwo, Google News ES, Infobae, L'Equipe, Mi | Lamine Yamal&#8217;s uncle mocks Harry Kane&#8217;s Ballon d&#8217;Or award with bizarre rant |
+| Man | 10 | BBC, Daily Mail, Foot Mercato, Google News EN, Mirror, Planet Football, Record,  | Carrick to stay in charge of Man Utd for Chelsea game |
+| Arsenal | 10 | BBC, Daily Mail, FourFourTwo, Google News EN, Guardian, Mirror, Planet Football, | No Saliba, no problem - Konsa stepping up for Arsenal |
+| Kylian | 10 | Daily Mail, Foot Mercato, FourFourTwo, Google News EN, Guardian, Infobae, L'Equi | Kylian Mbappé apologises after being dropped by Chinese brands for Mao Zedong comment |
+| Mbappé | 10 | AS, Foot Mercato, Google News AR, Google News ES, Guardian, Infobae, L'Equipe, M | Kylian Mbappé apologises after being dropped by Chinese brands for Mao Zedong comment |
+| Madrid | 9 | Daily Mail, Foot Mercato, FourFourTwo, Guardian, Mundo Deportivo, Record, Yahoo, | Mourinho’s plan comes together as Real Madrid relaunch with clásico statement | Sid Lowe |
+| Yamal | 9 | AS, Foot Mercato, FourFourTwo, Infobae, L'Equipe, Mirror, Planet Football, r/soc | Lamine Yamal&#8217;s uncle mocks Harry Kane&#8217;s Ballon d&#8217;Or award with bizarre rant |
+| Manchester | 8 | Daily Mail, Foot Mercato, FourFourTwo, Guardian, L'Equipe, Mundo Deportivo, Ole, | Carrick given chance to save job as he stays for Manchester United’s game at Chelsea |
+| Utd | 7 | BBC, Foot Mercato, Google News EN, Mirror, Planet Football, Sky Sports, talkSPOR | Carrick to stay in charge of Man Utd for Chelsea game |
+| Mao | 7 | BBC, Google News EN, Guardian, Infobae, L'Equipe, r/soccer (top día), talkSPORT | Chinese brands drop Mbappe as backlash grows over Mao joke |
+| Fleetwood | 7 | Daily Mail, FourFourTwo, Google News EN, Guardian, Mirror, Sky Sports, talkSPORT | Fleetwood Town v Arsenal: Carabao Cup fourth round – live |
+| Liverpool | 7 | Daily Mail, FourFourTwo, Google News EN, L'Equipe, Mirror, Yahoo, talkSPORT | Florian Wirtz is better without injured Liverpool teammate &#8211; and the stats back it up |
+| Xhaka | 6 | BBC, Google News EN, Kicker, Mirror, Mundo Deportivo, Yahoo | Captain Xhaka allowed to play for Switzerland again |
+| Putellas | 6 | BBC, Google News EN, Guardian, L'Equipe, Mundo Deportivo, r/soccer (top día) | Putellas wins record-equalling third Ballon d'Or to extend Spanish dominance |
+| Mbappe | 6 | BBC, Daily Mail, FourFourTwo, Google News EN, Planet Football, talkSPORT | Late Mbappe goal earns Real win at Barca in dramatic Clasico |
+| Carabao | 6 | Daily Mail, FourFourTwo, Guardian, Mirror, Sky Sports, talkSPORT | Fleetwood Town v Arsenal: Carabao Cup fourth round – live |
+| Alexia | 6 | AS, Google News EN, Guardian, L'Equipe, Mundo Deportivo, r/soccer (top día) | Alexia Putellas a worthy Ballon d’Or winner but the limited shortlist illustrates flaws |
+| Zedong | 6 | Foot Mercato, Guardian, Infobae, L'Equipe, r/soccer (top día), talkSPORT | Kylian Mbappé apologises after being dropped by Chinese brands for Mao Zedong comment |
+| England | 6 | Daily Mail, FourFourTwo, Guardian, Mirror, Sky Sports, talkSPORT | England Under-15s walk off pitch against Ireland in World Cup after racism allegation |
 
 ## Titulares por medio
 
-**BBC** (25)
+**BBC** (34)
 - Carrick to stay in charge of Man Utd for Chelsea game
-- Kane ends England's 25-year Ballon d'Or wait - how he bucked the trend
+- How 'anti-superstar' Kane defied doubters to become world's best
+- Where are Celtic & O'Neill a year after Rodgers exit?
 - Ranking England's Ballon d'Or winners - how does Kane compare?
-- Putellas wins record-equalling third Ballon d'Or to extend Spanish dominance
+- Wenger's 'daylight' offside trial unlikely to be extended
+- Captain Xhaka allowed to play for Switzerland again
+- McInnes admits feeling 'guilt' over leaving Hearts for Rangers
+- How have 'best team north or south of border' last season lost six in a row?
+- FAW boss renews call for Infantino to step down
 - No Saliba, no problem - Konsa stepping up for Arsenal
-- Quiz: Kane and who else? Name every men's Ballon d'Or winner
-- Why is Wilcox in line of fire from Man Utd fans?
-- Unattached Coleman 'edging towards' retirement
-- England-Republic of Ireland U15 World Cup game ends over alleged racism
-- Who am I? Plus today's other quizzes
-- Arsenal eye Monza striker Varela - Tuesday's gossip
-- Kane's rise from childhood keeper to the best in the world
+- Ballon d'Or in London - the most chaotic ever?
+- Milan derby to be shown live on BBC Two
 
-**Guardian** (14)
-- Kane’s Ballon d’Or triumph a glorious riposte to celebrity fawning of ceremony | Barney Ronay
-- David Squires on … Manchester United’s latest crisis and dirty laundry
+**Guardian** (20)
+- Fleetwood Town v Arsenal: Carabao Cup fourth round – live
 - Carrick given chance to save job as he stays for Manchester United’s game at Chelsea
-- ‘The wind goes in all directions’: Fleetwood prepare wet welcome for Arsenal at Highbury
+- Kane’s Ballon d’Or triumph a glorious riposte to celebrity fawning of ceremony | Barney Ronay
+- Football Daily | Harry Kane completes his arc from Orient loanee to Ballon d’Or winner
+- Alexia Putellas a worthy Ballon d’Or winner but the limited shortlist illustrates flaws
+- David Squires on … Manchester United’s latest crisis and dirty laundry
+- Pierre Sage given more time by Crystal Palace but remains under pressure
 - Kylian Mbappé apologises after being dropped by Chinese brands for Mao Zedong comment
-- England Under-15s walk off pitch against Ireland in World Cup after racism allegation
-- Mourinho’s plan comes together as Real Madrid relaunch with clásico statement | Sid Lowe
-- McTominay stars in Napoli draw that leaves Allegri ‘not lucid enough’ to talk | Nicky Bandini
-- Davide Ancelotti wants to make a name for himself – will he do it at Lille?
+- Police called to Florida soccer game after parents say three-year-old benched for being too good
+- Team success, the ‘Bundesliga tax’ and the World Cup: three takeaways from the 2026 Ballon d’Or
 - The horse that ushered in Manchester United’s tragic arc | Jonathan Wilson
-- WSL talking points: Russo to Arsenal’s rescue and Olid makes Manchester United progress
-- Premier League: 10 talking points from the weekend’s action
+- Harry Kane claims men’s Ballon d’Or to end England’s 25-year wait for winner
 
 **Sky Sports** (20)
+- Khan backs new inquiry to improve welfare, health and safety in boxing
+- Carabao Cup: Fleetwood vs Arsenal LIVE!
+- Brighton latest: Minteh closes in on return
+- Wolff rejects Marko's doubts over Russell's future F1 title hopes
+- 'Everything about him is world class' - Neville hails Kane after Ballon d'Or win
 - Carrick to remain in charge of Man Utd for Chelsea trip
+- England eliminated from ODI tri-series as Sri Lanka beat Pakistan
+- 'Delaying the inevitable' or right call? Key questions as Carrick stays
 - Are Chelsea back? Have Man Utd weathered early-season storm?
+- EFL latest: Choudhury confident Sheff Utd can finish in top eight
 - Brundle's verdict on 'outstanding' Antonelli and Piastri 'pain' in 2026 cars
-- EFL latest: Edwards not interested in Burnley job after talks
-- Smith ruled out of Cape Town Test late due to neck injury
-- Carabao Cup: Arsenal should unleash Dowman as Liverpool-Chelsea clash
-- 'This one's for all of us' - Kane thanks fans after Ballon d'Or win
-- Hamilton reveals the area where he's 'lost out' to Leclerc
-- Winning MOMENT! Harry Kane claims 2026 Ballon d'Or award!
-- Thunder's Williams requires surgery for broken leg and dislocated ankle
-- The day that rocked Celtic - One year on from O'Neill's return
-- 'Beyond my wildest dreams' - Kane first English winner of Ballon d'Or in 25 years
+- Starc sparks Australia recovery as South Africa stumble after fast start
 
-**talkSPORT** (38)
-- Michael Carrick given more time at Man United and will be in charge for Chelsea game
-- Galatasaray vs Fenerbahce descends into mass brawl as stars wrestled to the ground
-- Get 40/1 on neither Man City nor Man Utd to be in the Premier League next season
-- Harry Kane Premier League transfer prediction made after England captain wins Ballon d&#8217;Or
-- EFL star spotted celebrating with Harry Kane in lavish Ballon d&#8217;Or afterparty
-- Fleetwood vs Arsenal LIVE commentary: &#8216;Excited&#8217; Cods eye huge Carabao Cup shock at Highbury
-- Predict 6: Win £50k this weekend in talkSPORT&#8217;s new free to play Premier League predictor game
-- Bruno Fernandes tipped to leave Manchester United: &#8216;It&#8217;s coming to an end&#8217;
-- talkSPORT tips – Best football bets and expert advice for Tuesday October 27
-- Razor thin points gap between Harry Kane and Kylian Mbappe revealed by Ballon d&#8217;Or chief
-- Carabao Cup quarter-final draw date, time, ball numbers and how to follow as last eight ties decided
-- Transfer Notebook: Man United face compensation bill to hire ex-Newcastle boss Eddie Howe
+**talkSPORT** (40)
+- Morgan Gibbs-White&#8217;s home burgled as fiancee issues vigilance warning
+- Kai Rooney scores four goals for Man United U18s as fans all make same demand
+- Florian Wirtz is better without injured Liverpool teammate &#8211; and the stats back it up
+- Eddie Howe frontrunner for Man United job but Julian Nagelsmann interested and has key advantage
+- EFL striker wants Bundesliga move after Valencia deal fell through
+- Real Madrid told they made transfer mistake not signing Harry Kane to replace legend
+- Jermaine Pennant feared he&#8217;d lose his leg in horror dog attack that left him needing 50 stitches
+- Why there is no early game this Sunday with unique Premier League schedule explained
+- Virgil van Dijk is past his best but still crucial to possible Liverpool title challenge
+- Kylian Mbappe forced to apologise for Mao Zedong joke after backlash in China
+- Will Harry Kane be knighted after Ballon d&#8217;Or glory?
+- Liverpool v Chelsea LIVE commentary: Changes expected for glamour Carabao Cup tie at Anfield
 
-**Daily Mail** (35)
-- Michael Carrick is STAYING: Man United decide against wielding axe after day of crisis talks - with under-pressure boss taking training toda
+**Daily Mail** (36)
+- Harry Kane's rivals spark conspiracy theories over 'orchestrated' Ballon d'Or win: Lamine Yamal's uncle says it's 'not right' as Real Madrid
+- Man United chiefs have been struck by paralysis and indecision again. By not putting Michael Carrick out of his misery, they are letting ano
+- Michael Carrick is STAYING: Man United decide against wielding axe after day of crisis talks - but under-pressure boss must still convince c
+- Wayne Rooney's son Kai, 16, scores FOUR goals for Man United youth team as Under 18s thrash Burnley
+- 'What the f*** are you doing? Stick a firework up their a**e!': Wayne Rooney launches f-word rant about Man United players letting down clos
 - Harry Kane's Ballon d'Or disrespect row: French superstars Kylian Mbappe and Ousmane Dembele fail to stand to shake humble winner's hand - a
-- Michael Owen involved in awkward Ballon d'Or exchange...as he is forced to tell reporter that he is a previous winner of the award!
 - MICHAEL OWEN: I was wrong about Harry Kane, he is England's best ever striker - and he wasn't even born with a finisher's instinct! Here's h
-- What should Man United's beleaguered chiefs do next? With manager Michael Carrick still waiting for a verdict on his future after day of cri
-- The Lionesses big night out! Hannah Hampton stuns on the red carpet as she leads England's Women in supporting Harry Kane at the Ballon d'Or
 - Inside Harry Kane's Ballon d'Or after-party: Wife Kate and his parents join England captain - wearing a £1m Rolex - at exclusive London nigh
 - Harry Kane's Ballon d'Or triumph was vindication for a superstar brimming with quiet excellence who swerves flashy controversy, writes OLIVE
-- How chaos erupted behind the curtain on Harry Kane's big night: I watched embarrassment for Strictly star John Nellis, fights and upset star
-- Michael Carrick is STAYING: Man United decide against wielding axe after day of crisis talks - with under-pressure boss taking training toda
-- Michael Carrick takes Manchester United training despite mounting fears over his job as club bosses weigh up under-fire manager's future in 
-- Vulgar MLS fan caught on camera spitting on female rival's head during heated exchange in the stands
+- Fleetwood Town vs Arsenal - Carabao Cup: Mikel Arteta's side travel to the seaside gunning for a place in the fifth round
+- McInnes admits he felt guilty over leaving Hearts in the summer as Rangers boss braces for hostile reception on his return to Tynecastle
+- Harry Kane's rivals spark conspiracy theories over 'orchestrated' Ballon d'Or win: Lamine Yamal's uncle says it's 'not right' as Real Madrid
 
 **Mirror** (25)
-- Michael Carrick keeps his job as Man Utd chiefs give under-fire boss another chance
 - Michael Carrick future LIVE: Man Utd make decision for Chelsea as players and staff informed
-- Ballon d'Or judge who put Lionel Messi 3 places above Lamine Yamal explains controversial list
-- 'We're fighting to survive' – Jill Douglas sounds alarm for grassroots sports as £500k lifeline opens
-- Entitled Man Utd fans don't deserve Eddie Howe if they can't see that he's the perfect fit
-- Eddie Howe gave clear response when asked about Man Utd job
-- 'I saw Harry Kane score his first ever goal - his rise to Ballon d'Or has been remarkable'
-- Kylian Mbappe forced into China apology after sponsors cut ties over Mao Zedong meme
-- Harry Kane parties at 'London's most exclusive nightclub' after Ballon d'Or triumph
-- Steven Gerrard names seven Man Utd players who aren't good enough including ex-teammate
-- Trent Alexander-Arnold gets Liverpool return transfer approval as 'Real Madrid don't want him'
-- Why Bruno Fernandes was at Carrington as Michael Carrick crisis talks took place
+- Harvey Elliott facing nervous wait after Liverpool outcast's public apology
+- Granit Xhaka learns fate after investigation into fake Covid vaccine certificates
+- Man Utd players have let Michael Carrick down - but Ineos may have repeated £172m error
+- Goal King Kane crowned the best in the world and could now be set for a knighthood
+- When is the Carabao Cup quarter-final draw? Date, time and latest info
+- How to watch Fleetwood vs Arsenal - TV channel, live stream and kick-off time
+- England vs Croatia tickets for first Wembley game after Harry Kane Ballon d'Or win
+- Gary Neville gives instant reaction to Man Utd’s Michael Carrick sack decision
+- PM Andy Burnham responds to calls to knight Harry Kane after Ballon d'Or success
+- Wayne Rooney's son Kai scores FOUR to give Man Utd fans a much-needed boost
+- The four decisions Michael Carrick must make NOW as Man Utd boss gets stay of execution
 
 **Telegraph** (1)
 - Harry Kane ends England’s 25-year wait for Ballon d’Or winner
@@ -124,239 +124,239 @@ Generado por `scripts/titulares.py` (workflow `tendencias`). Leídos 26 de 34 me
 **90min** (0)
 
 **Planet Football** (10)
+- The 10 best teams in world football right now – Our definitive power rankings ft. PSG, Arsenal, Barcelona…
+- How Ferguson saved himself from the brink of the sack at Man Utd
+- Planet Football’s definitive best XI in world football: Rodri, Yamal, Kane but no Mbappe…
+- Can you name every runner-up in the history of the Ballon d’Or?
+- Can you name every English player to have won the Ballon d’Or?
+- England’s next Ballon d’Or winner: Ranking the 5 favourites after Harry Kane’s historic triumph
 - Kylian Mbappe could top the list of the 10 greatest players never to win the Ballon d’Or
 - Can you name every winner of the Women’s Ballon d’Or?
 - 2027 Ballon d’Or Power Rankings: Who is best placed to follow Kane next year?
 - The stat that makes Liverpool’s Premier League campaign so confusing
-- Comparing Carrick’s recent record to the final days of Man Utd managers post-Ferguson
-- Top-scoring attacking trios in 2026-27: Barcelona way out in front already
-- Bayern star creeping up on sublime Barcelona duo in WhoScored rankings for 2026-27
-- The top 10 Premier League goalscorers of the 2020s: When will Haaland catch Salah?
-- The only 6 still unbeaten teams across Europe’s major leagues in 2026-27: Bayern, Inter…
-- Comparing the stats of the main 2027 Ballon d’Or contenders: Kane, Yamal, Olise, Raphinha, Mbappe…
 
-**FourFourTwo** (26)
+**FourFourTwo** (33)
+- Real Madrid plot another Liverpool raid for marquee signing next summer: report
+- Harry Kane has restored some much-needed credibility to Ballon d'Or - an award that desperately needed him to win it this year
+- How to watch Fleetwood Town vs Arsenal: live stream details for Carabao Cup round of 16 tie
+- 'Big mistake' Liverpool legend Jamie Carragher sets out his stance on Trent Alexander-Arnold return
+- Arsenal face new shock Vinicius Jr u-turn following transfer talks: report
+- Manchester United make their Michael Carrick decision as major update issued: report
+- Manchester United face major obstacle in their pursuit of Eddie Howe: report
+- Aston Villa have already begun talks to replace Alejandro Garnacho: report
 - Bruno Fernandes' Atletico Madrid January move 'accelerating', after Manchester United fallout: report
 - Harry Kane earns royal seal of approval after winning the Ballon d'Or
 - Kylian Mbappe led Ballon d'Or rankings until the final stretch - and Harry Kane pipped him for TWO reasons: report
 - Quiz! Can you name the winner of the Ballon d'Or in every World Cup year?
-- England midfielder Alex Scott credits stepsister Maya Le Tissier for inspiration
-- Tottenham Hotspur need the infectious joy of James Maddison – his new injury is a big blow for Roberto De Zerbi
-- Quickfire Quiz 232: Can you answer 10 questions in 90 seconds?
-- England captain Harry Kane wins the Ballon d'Or
-- Lamine Yamal follows Spain's World Cup by winning the Kopa Trophy
-- Manchester United target Eddie Howe already has a £70 million first transfer in mind: report
-- Does Michael Carrick have a break clause?
-- Roberto De Zerbi’s false-nine fury shows Tottenham are up and running, while Xabi Alonso is still adapting to Premier League life with Chels
 
 **Yahoo** (40)
-- Carrick to stay in charge of Man Utd for Chelsea game
-- Michael Carrick avoids sack for now and will take charge of Man United game with Chelsea
-- Faris Moumbagna out of Marseille&#8217;s plans
-- Balogun emerges as Juventus’ top January target after Everton medical chaos
-- Former Real Madrid midfielder slams Pedri after El Clásico defeat: &#8216;Absolutely dreadful&#8217;
-- Furious Wayne Rooney rips into Man United players over vital missing quality
-- Andoni Iraola making huge Liverpool mistake after major transfer development
-- 7 Arsenal youths join first-team training pre-Fleetwood Town clash
-- Kylian Mbappe apologises to China after backlash over controversial comment: &#8216;I am sincerely sorry&#8217;
-- Grant hopes to see more of Walsall&#39;s best &#39;version&#39;
-- Alonso has new headaches at Chelsea in big week
-- Andoni Iraola green lights Liverpool move for £30m-rated star
+- Barcelona identify €70 million-rated Premier League star as potential defensive reinforcement
+- From bad to worse for Liverpool playmaker: Termination of deal discussed
+- Agent Makes Big Claim About 19-Year-Old Leeds United Talent: Smart Signing Or Scouting Miss?
+- 🤯 DFB-Pokal shock incoming? Two Bundesliga clubs struggling badly
+- Ben Jacobs names two midfielders Liverpool could sign after Alex Scott update
+- CTA rules Barcelona star should have received yellow card for stamp on Real Madrid winger in Clasico
+- Refereeing committee delivers verdict on two controversial decisions from Barcelona vs Real Madrid
+- Football Italia Show – No Serie A stop: Hidden traps & injury problems
+- Oxford&#39;s trip to Peterborough postponed
+- Liverpool preparing for outrageous transfer, refuse to give up on historic deal
+- Real Madrid summer signing set for first start of the season against Racing Santander or AEK Athens &#8211; report
+- Chelsea receive massive Alex Scott boost as Bournemouth make transfer decision
 
 **Google News EN** (40)
-- Manchester United: Eddie Howe compensation fee to Newcastle revealed - Paper Talk | Football News
-- Finding Confidence Through Football: Adam and James’ Journey
-- The Ballon d’Or has a narrow definition of footballing greatness
-- Women's Football Awards 2026
-- Which four? College football bowl projections break down state of SEC teams
-- Michael Carrick to stay in charge of Man Utd for Chelsea game
-- Seamus Coleman: Former Everton defender 'edging towards' retirement
-- Five in Five: Football quiz No 72
-- Cardiff Met: The Students competing with European football giants
-- Brainteaser No 68: Will you get today's answer?
-- Who am I? Plus today's other quizzes
-- 'I would do it again' - Kaepernick reflects on price of protest, 10 years on
+- Alexia Putellas a worthy Ballon d’Or winner but the limited shortlist illustrates flaws
+- Gers Prepare For Hearts At Training
+- A Blue in Shanghai: Pandas, football and a global City family
+- McInnes admits 'guilt' over Hearts exit for Rangers
+- McInnes: We Are Ready For Tynecastle Test
+- Granit Xhaka: Switzerland captain and striker Breel Embolo permitted to return to national team
+- Football Daily | Harry Kane completes his arc from Orient loanee to Ballon d’Or winner
+- Milan derby to be shown live on BBC Two
+- Harry Kane - How How Ballon d'Or win could boost the Bundesliga
+- Arsene Wenger's 'daylight' offside goal trial unlikely to be extended over lack of Ifab support
+- How 'anti-superstar' Harry Kane defied doubters to achieve Ballon d'Or greatness
+- Kieron Dyer: Southend United boss to appeal against red card
 
-**AS** (25)
+**AS** (26)
+- Pelotazo de España y del Barça
+- Primera ronda de Copa del Rey, en directo: partidos del martes 27, hoy en vivo
+- Sestao River - Espanyol, en directo: primera ronda de la Copa del Rey, hoy en vivo
+- Pinatar - Elche, en directo: Copa del Rey hoy en vivo
+- Recreativo - Rayo Vallecano, en directo: primera ronda de la Copa del Rey hoy, en vivo
+- ‘Apagón analógico’ para 52 equipos de la Copa
+- La ejemplar frase de Cucurella a Martínez Munuera en El Clásico que habrá encantado en el CTA
+- El CTA analiza las polémicas del Clásico: Cancelo debió ser amonestado
+- LaLiga denuncia 17 incidentes en el Clásico
+- El secreto mejor guardado de la historia del Balón de Oro
 - Mbappé: “Pido disculpas”
 - La televisión china suspende las emisiones de LaLiga tras la polémica con Mbappé
-- Tebas reacciona a la polémica Mbappé-China: “Entendemos el daño ocasionado”
-- Controversias del Balón de Oro: hay cuatro polémicas
-- Alexia, la Reina, vuelve a vestirse de oro
-- Harry Kane, Balón de Oro 2026: todos los ganadores y premiados en la gala de France Football
-- Rodri, a Bernardo Silva: “A tomar por c***”
-- Guti critica el Balón de Oro de Kane: “Qué casualidad...”
-- La primera y accidentada quincena de Carvajal en Getafe
-- “Una estrella normal”
-- Unanimidad con Alexia
-- LaLiga denunciará una agresión a Camavinga en el Camp Nou
 
 **Mundo Deportivo** (40)
-- ¿Sabía Harry Kane que iba a ganar el Balón de Oro? Una frase desata las especulaciones
-- Isaac se quita la presión a base de golazos
-- Lamine tiene tiempo: Messi, Ronaldo o CR7 estrenaron Balón de Oro sobre la veintena
-- Mbappé se pronuncia sobre su polémica: "Siento un profundo respeto por el pueblo chino"
-- Pellegrini: "Tenemos que partir con el pie derecho en la Copa"
-- Lamine Yamal reescribe la historia y sigue rompiendo récords
-- Otorbi sufre una lesión muscular en el muslo derecho
-- Las declaraciones de Laporta, Alexia, Unai Simón y De la Fuente en el Balón de Oro
-- La presión en el Real Madrid: "Llegué a tener miedo de salir a la calle"
-- Canales: "Me levanto a las 6 para pasear con los perros por la playa"
-- Tebas pide disculpas al pueblo chino por la polémica con Mbappé
-- El arbitraje femenino firma su primer convenio colectivo en España
+- Xhaka y Embolo vuelven tras falsificar certificados Covid
+- LaLiga denuncia insultos contra Carvajal y Vito Quiles en San Mamés
+- Declaran intransferible a un delantero que tiene el Atlético en la agenda
+- Declaran intransferible al goleador de moda en Europa
+- La Real vuelve al trabajo este miércoles con la mente en asaltar San Mamés
+- Kvaratskhelia pasa por el quirófano tras su lesión ante el Barça
+- Los secretos del triunfo de Alexia: un vestido exclusivo y las personas que la ayudaron
+- EL CTA vio amarilla de Cancelo pero se olvida de Cucurella y Tchouameni
+- Colocan al Barça tras la pista de otro central zurdo
+- El Madrid, afectado por la polémica de Mbappé en China
+- Problemón para Xabi Alonso
+- Jorge Jesus pasa página con el sancionado Cristiano Ronaldo
 
 **Google News ES** (40)
-- Burgos CF | Web Oficial
-- Hora y dónde ver a España en el Mundial de fútbol femenino sub-17
-- Síguela en directo
-- Unai Simón conquista Londres y entra en el olimpo del fútbol
-- Todos los ganadores de la noche del Balón de Oro 2026, de Alexia Putellas a Unai Simón
-- Lamine Yamal se queda a las puertas y el fútbol español triunfa en el Balón de Oro
-- Navarra presenta a los cuerpos técnicos de sus doce selecciones
-- Alejandro Sandroni: "Estos son momentos donde el fútbol vuelve a lo esencial"
-- Fútbol contra la diabetes: un programa de 12 semanas que mejora la salud y la motivación
+- La televisión estatal china suspende las emisiones de LaLiga tras la polémica con Mbappé y el jugador y Tebas piden disculpas: "Lamentamos e
+- El Polideportivo Municipal acogerá un torneo de convivencia de fútbol 7 en las categorías alevín y benjamín
+- 52 nuevos colegiados en el fútbol navarro
+- Javi Valle y el debate sobre el Balón de Oro más igualado de la historia: "Si se lo hubiese llevado Lamine, hubiese sido tan merecido como M
+- El campo de fútbol de Barrio Atlántico ya lleva el nombre de Gonzalo Moreno Saavedra
+- Quiñones: “La Real tiene un fútbol más bonito y asociativo, pero Fenerbahçe va a ir a competir y son muy físicas”
 - Hasta ocho galardonados hacen que el Balón de Oro tenga más acento español que nunca
-- Información útil para mañana
-- Y el ganador del Balón de Oro es...el Fútbol Club Barcelona
+- La FIFA visitará las sedes del Mundial
+- ‍?!![Fútbol
+- "Resolver mañana"
+- Manu Trigueros, del campo de fútbol al campus universitario
+- Hora y dónde ver a España en el Mundial de fútbol femenino sub-17
 
 **Gazzetta** (0)
 
 **Football Italia** (20)
-- Official: Dybala left out of Roma squad for Cagliari clash
-- Balogun emerges as Juventus’ top January target after Everton medical chaos
-- Pulisic ready to sign Milan contract extension as new salary revealed
-- Newspaper reveals Serie A clubs’ stances on Galliani and Malagò as crucial meeting looms
-- De Gea: Fiorentina goalkeeper posts picture in support of under-fire Carrick
-- Kane mentions in Conte in Ballon d’Or speech: ‘I wouldn’t be standing here’
-- Serie A: Sassuolo vs. Lazio and Torino vs. Como – probable line-ups, where to watch on TV
-- Serie A: Roma vs. Cagliari – probable line-ups, where to watch on TV
-- Today’s Papers – Double Napoli blow, Juventus drop Kolo Muani?
-- Juventus starlet Alajbegovic ranks 7th in Ballon d’Or Young Talent award
-- Milan keeping tabs on Bruno Fernandes as Amorim eyes Manchester United captain
-- Venezia agree 40-year deal with city council for new 18,500-seat stadium
+- Serie A official line-ups: Roma vs. Cagliari
+- Football Italia Show – No Serie A stop: Hidden traps & injury problems
+- Spalletti reacts to ‘frightening’ Kane’s 2026 Ballon d’Or award: ‘How it should be’
+- Gattuso: ‘Make Lazio fans proud, but with 11 players like me, you won’t win much’
+- Serie A Liveblog: Sassuolo vs. Lazio, Roma vs. Cagliari, Torino vs. Como
+- Serie A: Sassuolo vs. Lazio – Confirmed line-ups
+- Spalletti: ‘Juventus players wouldn’t dare to dictate the system we play with’
+- Video: Nottingham Forest give Savona a special welcome back after nightmare injury
+- Official: Allegri confirms 20-man Napoli squad for Monza clash with two absences
+- Allegri: ‘Given up on the appeal, might end up with a four-game ban instead of two’
+- Exclusive: From Pro Patria to the World – Estrella’s new model for running football clubs
+- Spalletti set to drop Kolo Muani for Juventus’ clash against Genoa
 
 **Kicker** (20)
-- Steinbach-Aus und Rechtsstreit: Ex-Geschäftsführer Lepore bricht erstmals sein Schweigen
-- Marcel Wontorra wird erster Geschäftsführer der Frauen-Bundesliga
-- Warum Moerstedt in einem Dilemma steckt
-- Vor Leipzig-Spiel: Unbekannte betonieren Gäste-Eingang in Essen zu
-- Kramaric: "In zwei Spielen sechs Scorerpunkte zu sammeln, ist schon krank"
-- Hoeneß will mit dem VfB "in den Kampfmodus gehen"
-- Aufatmen in Braunschweig: Entwarnung bei Hoffmann
-- 3. Liga: Diese Spiele laufen am Wochenende im Free-TV
-- "Großes gegenseitiges Vertrauen": St. Pauli verlängert mit Voll
-- Lieberknecht stellt FCK auf "Pokal-Schlacht" ein - Pflichtspiel-Comeback für Prtajin?
-- Lieberknecht vor Duell mit 96: "Unser Gegner wird sehr wütend sein"
-- Frankfurter U 21 im Aufwind: Gelingt im Breisgau der nächste Sieg?
+- Sassuolo - Lazio: Elfmeter in der 51. Minute
+- LIVE! FCA-Doppelschlag - HSV verkürzt auf 1:3 - Bochum erhöht - Baumgartner dreht Spiel
+- Keine 24 Stunden nach Derby-Pleite: Fener-Coach Kartal tritt zurück
+- LIVE! Bayern II zu Gast in Nürnberg - und mit dem Comeback nach frühem 0:1
+- Sassuolo - Lazio: Tor zum 2:4 durch Zaccagni in der 45.+1 Minute
+- Schuster scherzt wegen Wolfsburg-Anekdote: "Das war keiner"
+- Sassuolo - Lazio: Tor zum 2:3 durch Esposito in der 43. Minute
+- Sassuolo - Lazio: Rote Karte für Thorstvedt in der 31. Minute
+- Sassuolo - Lazio: Tor in der 18. Minute
+- Sassuolo - Lazio: Tor zum 1:2 durch Isaksen in der 13. Minute
+- Sassuolo - Lazio: Tor zum 1:1 durch Thorstvedt in der 7. Minute
+- Sassuolo - Lazio: Tor zum 0:1 durch Taylor in der 2. Minute
 
 **L'Equipe** (40)
-- « Sincèrement désolé » : Kylian Mbappé présente ses « excuses » après la controverse sur Mao Zedong en Chine
-- La Liga « regrette » les propos de Kylian Mbappé sur Mao Zedong et présente ses excuses à la Chine
+- Toute l'Angleterre se lève pour Kane
+- Quelle place pour Kane dans l'histoire ?
+- Il a commencé à entraîner dès l'âge de 15 ans : Aaron Danks, un adjoint pas comme les autres en première ligne au Bayern Munich pendant la c
+- L'UEFA sanctionne Lens après le comportement de ses supporters à Bruges en Ligue des champions
+- Initialement programmé le 5 novembre, le match entre Rennes et l'Olympiakos en Ligue Europa avancé au 4 novembre à 16h30 en raison des mouve
+- Fonseca : «On a posé plus de difficultés au PSG que Barcelone et City»
 - L'OL en quête de solutions face à ses limites du moment
-- Sacré au Ballon d'Or 2026 devant Mbappé et Lamine Yamal, Harry Kane déjà de retour avec le Bayern en Coupe d'Allemagne ?
-- Trois Français dans le top 10 pour la première fois depuis cinq ans, le PSG toujours bien placé... Les chiffres à retenir du Ballon d'Or 202
-- En 1991, Jean-Pierre Papin avait dédié son Ballon d'Or au gardien remplaçant de l'OM Alain Casanova
-- L'émotion de Harry Kane, la razzia des Espagnols, le sacre d'Alexia Putellas : que retenez-vous de la cérémonie du Ballon d'or 2026 ?
-- Reconnaissance quasi unanime d'une « superstar débordant de discrétion », ton plus offensif en Espagne : la presse étrangère après le sacre 
-- Rennes rafle la mise et l'OM bien représenté : l'équipe type de la 8e journée de Ligue 1
-- Aucun joueur du PSG dans le top 5 du Ballon d'Or 2026 : le classement des dix Parisiens nommés
-- Dans les coulisses de la soirée
-- « Travaille dur en silence, laisse le succès faire du bruit » : le message de Harry Kane après son sacre au Ballon d'Or 2026
+- Tout comprendre à la controverse entre la Chine et Kylian Mbappé en sept questions
+- Hourra Kane : la fin d'une longue quête pour l'ancien loser
+- Harry Kane, reculer pour mieux régner
+- Godts passeur puis buteur, l'éveil qui tombe à pic
+- Iraola : «Xabi Alonso est un très, très bon ami»
 
 **Foot Mercato** (40)
-- Ligue 1 : le match entre l’OL et Angers décalé
-- Ballon d’Or : la gaffe d’un journaliste avec Michael Owen
-- Kylian Mbappé envoie un message d’excuse aux Chinois !
-- Javier Tebas tacle Kylian Mbappé et s’excuse envers la Chine
-- Real Madrid : Mbappé désormais interdit d’utiliser ses réseaux sociaux en Chine
-- OL : Paulo Fonseca craint une terrible hécatombe !
-- Ballon d’Or : quand Harry Kane a failli signer à Livourne
-- Ballon d’Or : les mots forts d’Ousmane Dembélé envers Harry Kane
-- Tensions à l’extérieur, Ousmane Dembélé agacé, leaks : la soirée du Ballon d’Or 2026 marquée par de nombreux couacs
-- Le gouvernement chinois réagit à la polémique autour de Kylian Mbappé
-- Ballon d’Or : Kylian Mbappé était convaincu de gagner
-- La presse mondiale salue le Ballon d’Or d’Harry Kane, la soirée cauchemar de Kylian Mbappé
+- Ballon d’Or : Thomas Tuchel adresse un vibrant hommage à Harry Kane
+- Ballon d’Or : le TikTok de Lamine Yamal après la cérémonie
+- Manchester United : Ineos et Jim Ratcliffe commencent à énerver les Glazer
+- Ballon d’Or : le journaliste chinois explique et défend son vote
+- Le Barça condamné à payer l’Atlético pour Julian Alvarez
+- La presse chinoise ne pardonne pas et incendie encore Kylian Mbappé !
+- Le match Rennes - Olympiakos va être avancé au mercredi 4 novembre
+- Monaco : mauvaise nouvelle pour Ansu Fati
+- Ballon d’Or : Luis de la Fuente envoie un message fort à Lamine Yamal
+- Bayern Munich : le remplaçant de Vincent Kompany donne de bonnes nouvelles
+- Torino : l’Italie est en train de tomber amoureuse de Rafik Belghali
+- L’équipe de The Bridge présente ses excuses à la Chine après la polémique Mbappé-Mao Zedong
 
 **Record** (20)
-- <![CDATA[ Nuno Sousa culpa Varandas pelo mau momento: «Rui Borges não é o principal responsável» ]]>
-- <![CDATA[ Kane merece mais a Bola de Ouro do que Mbappé ou Yamal? Três respostas que explicam a vitória do inglês ]]>
-- <![CDATA[ Mbappé "profundamente arrependido" com comentário sobre 'memes' de Mao Zedong: «Foi infeliz» ]]>
-- <![CDATA[ «Não gostei do que vi»: Seguro quebra o silêncio após violência em manifestações pela habitação ]]>
-- <![CDATA[ Júlio Vieira de Castro apela aos sócios: «Decisão marca o presente e o futuro do V. Guimarães e da sua SAD» ]]>
-- <![CDATA[ O momento em que Benjamin Netanyahu votou nas eleições legislativas em Israel ]]>
-- <![CDATA[ Luxação no tornozelo e fratura no perónio: Jalen Williams vai ser submetido a cirurgia ]]>
-- <![CDATA[ Luís Tralhão de saída do Torreense: João Nuno deverá ser o sucessor ]]>
-- <![CDATA[ Manteigas critica escolha de Cláudio Pereira para o Santa Clara-Benfica: «Gostam de brincar às nomeações» ]]>
-- <![CDATA[ Neemias Queta soma sete pontos no triunfo dos Celtics face aos Bulls ]]>
-- <![CDATA[ João Gabriel volta à carga: «Marco Silva fica sozinho na defesa do Benfica» ]]>
-- <![CDATA[ Fábio Paim acusado de violar estudante universitária em Faro ]]>
+- <![CDATA[ Roma-Cagliari, em direto ]]>
+- <![CDATA[ ESPN Brasil avança que Leonardo Jardim vai deixar o Flamengo no fim da época... mesmo se for campeão ]]>
+- <![CDATA[ Torino-Como 1907, em direto ]]>
+- <![CDATA[ Sporting vence Rio Ave por 2-1 e continua na liderança da Liga Next Gen ]]>
+- <![CDATA[ Sammer explode: «Preocupação com Kompany enojou-me…» ]]>
+- <![CDATA[ Barcelona já sabe que multa vai pagar por ter negociado com Julián Álvarez ]]>
+- <![CDATA[ Dos pontapés na bola aos insultos: há de tudo nas expulsões de quem está no banco ]]>
+- <![CDATA[ Os 20 anos da Allianz Cup ]]>
+- <![CDATA[ Campeonato das expulsões no banco: Benfica sobe ao topo após jogo com final polémico ]]>
+- <![CDATA[ Tribunal suspende encerramento do Boavista por 30 dias a pedido do clube e credores ]]>
+- <![CDATA[ Sporting-Marítimo, em direto ]]>
+- <![CDATA[ Gerrard arrasa Man. United: «Quando eu jogava era contra Giggs, Beckham... Agora é o Diallo?» ]]>
 
 **Ole** (10)
-- Kane le ganó el Balón de Oro a Mbappé por la menor diferencia de la historia
-- Un familiar de Yamal explotó tras el Balón de Oro: "A Harry Kane le quedan tres días de fútbol" y "Lamine seguirá siendo el mejor del mundo"
-- ¿Se terminó la polémica?: Cristiano Ronaldo vuelve a la selección de Portugal
-- Laburantes Episodio 1: La historia de Kelo, el utilero de Victoriano Arenas
-- Previa del superclásico EN VIVO: qué se juegan Boca y River, últimas novedades y más noticias de este martes 27 de octubre
-- Riquelme profundo y de madrugada: la broma al aire, las diferencias con River, su paciencia con las críticas y más…
-- Partidos de HOY, martes 27 de octubre: agenda, horario y por dónde ver fútbol EN VIVO
-- Fuerte apoyo de Qatar a Senegal en los Juegos Olímpicos de la Juventud
-- Semana superclásica: 10 cosas que tenés que saber de Boca - River
-- Riquelme antes del Súper: "No me parece bien salir en la tele a hablar mal de un árbitro"
+- El Bayern recibió a Harry Kane tras ganar su primer Balón de Oro y transformó el Allianz Arena con un dorado
+- Uno por uno, los 22 personajes de los que habló Riquelme en la madrugada del martes
+- Cuti Romero habló sobre las teorías conspirativas de la final: "Alguno dice una boludez y se vuelve todo muy viral" y "dimos hasta lo último
+- El partido al que River estará muy atento en la previa del superclásico
+- Messi Cup con Boca, River y Newell's: todos los resultados, tablas y cómo sigue el torneo
+- Independiente podrá llevar visitantes después de casi tres años
+- De ser rechazado por su físico a ganar el Balón de Oro: la historia de Harry Kane, la estrella de Inglaterra
+- Carrick suspira: el Manchester United no lo echará y dirigirá ante el Chelsea
+- Blas Giunta y su encuentro con Messi: "Apenas lo vi, ya me conoció y me dio un abrazo"
+- La Liga denunciará la agresión a Camavinga en el Camp Nou durante el clásico de España
 
 **Infobae** (40)
-- Franco Colapinto saldrá a pista este fin de semana en el Gran Premio de México de la F1: todo lo que hay que saber
-- El emotivo mensaje de Enzo Fernández para su hijo Benjamín por su cumpleaños: “Mi príncipe”
-- Los detalles de la fiesta privada de Harry Kane en una reconocida discoteca de Londres tras ganar el Balón de Oro
-- Riquelme habló del Superclásico ante River, cuestionó las críticas a los árbitros y se emocionó al recordar el secuestro de su hermano
-- Un tiburón le amputó el brazo a los 13 años, pero reaprendió a surfear y hoy integra el Salón de la Fama, la historia de Bethany Hamilton
+- Franco Colapinto no correrá la primera práctica libre del Gran Premio de México de la Fórmula 1: los motivos
+- Mbappé, el perdón y la hipocresía en el fútbol: cuando a un genocida no se le puede decir “dictador”
+- El conflicto entre una escudería y su piloto estrella por la renovación del contrato que da de qué hablar en la Fórmula 1
+- En un duelo clave por el título de la Tabla Anual, Argentinos Juniors recibirá a Independiente Rivadavia: hora, TV y formaciones
+- ¿Cambia el formato de Primera División en el fútbol argentino? Cómo sería el torneo 2027 con la vuelta del “todos contra todos”
+- La revelación de una joven figura del tenis tras el inesperado encuentro con la ex novia de un piloto de F1: “Empecé a ponerme nervioso”
+- El romance entre Tom Brady y una reconocida supermodelo: el detalle de su vida que los unió
+- La aclaración de Riquelme tras la frase de Cascini sobre Ponzio antes del Boca-River en un programa sin saber que estaban en vivo
+- El inesperado encuentro entre el presidente del club de Paraguay y la fotógrafa tras el escándalo por un código de vestimenta
 - Daniel Orsanic, a 10 años del título en la Copa Davis: en quién pensó al levantar el trofeo y por qué Del Potro fue “el Messi” del equipo
-- Desplazaron a uno de los líderes de la barra de River en la antesala del superclásico: quién es quién en la interna
-- Es hijo de Lalo Maradona y sobrino de Diego, jugó al fútbol hasta los 24 años, trabaja de martillero y lleva la historia familiar al streami
-- Estudiantes perdió y se alejó de la zona de Sudamericana: así quedaron las posiciones y la clasificación a las Copas
-- Instituto le ganó 1-0 a Deportivo Riestra en Córdoba y se aseguró un boleto a la Copa Sudamericana 2027
-- ¿Llega al Superclásico con Boca?: qué arrojaron los estudios a Aníbal Moreno tras la lesión que sufrió en River-Racing
-- La decisión de Lionel Scaloni que puede dejar a Boca sin dos piezas fundamentales antes de la semifinal por Copa Argentina
+- Mbappé pide perdón a China tras la polémica con el ‘meme’ de Mao Zedong: “Tengo un profundo respeto por el pueblo chino y su historia, estoy
+- Franco Colapinto saldrá a pista este fin de semana en el Gran Premio de México de la F1: todo lo que hay que saber
 
 **Google News AR** (40)
+- La AFA participó de un seminario FIFA de Fútbol Base
+- Córdoba: agredieron brutalmente a un técnico de baby fútbol delante de los chicos
+- Mbappé, el perdón y la hipocresía en el fútbol: cuando a un genocida no se le puede decir “dictador”
+- El fútbol femenino de Estudiantes no pudo en playoffs y seguirá por cuarto año consecutivo en Segunda División
+- El fútbol femenino argentino ya no juega en los márgenes
+- Jugó en cinco categorías del fútbol argentino, le hizo goles a River en la B y coqueteó con Boca
+- Club Atlético Once Unidos
+- El fútbol argentino podría eliminar las dos zonas en 2027: qué cambiaría para los equipos que buscan los playoffs
+- El fútbol argentino tendrá un nuevo formato en 2027: 30 fechas, todos contra todos y fecha de clásicos
 - Juan Román Riquelme: los elogios hacia el fútbol cordobés octubre 2026
-- Daniel Teglia brindará una charla sobre fútbol, salud mental y el rol social de los clubes de barrio en Rosario
-- Modificaciones en el fútbol argentino: presentaron un nuevo formato para 2027
-- Liga Profesional de Fútbol: Instituto y Central no paran
-- Riquelme defendió el arbitraje del fútbol argentino y apuntó contra Macri
-- Riquelme eligió a sus jugadores favoritos del fútbol argentino: la comparación con un ídolo de Boca
-- Las finales del Anual de la Liga Jujeña de Fútbol se juegan sábado
-- Es hijo de Lalo Maradona y sobrino de Diego, jugó al fútbol hasta los 24 años, trabaja de martillero y lleva la historia familiar al streami
-- Partidos de HOY, martes 27 de octubre: agenda, horario y por dónde ver fútbol EN VIVO :: Olé - ole.com.ar
-- Messi y Di María, unidos por un impactante negocio lejos del fútbol
-- Basavilbaso es sede de la 2017
-- Debutó en Newell's, se fue libre, estuvo por dejar el fútbol y alcanzó el éxito en Grecia
+- ACUERDO ESTRATEGICO CON BOSS RECOVERY
+- Fútbol Femenino de Tupungato: Resultados de la fecha y así está la tabla de posiciones
 
 **ge.globo** (40)
-- Mbappé perde patrocínios e se desculpa com chineses após reação a meme de "ditador"; entenda
-- Fim da crise? Cristiano Ronaldo entra na pré-lista de Portugal após confusão com Jorge Jesus, diz jornal
-- Veja do que o Athletic precisa para evitar rebaixamento na Série B do Brasileiro
-- Borussia Dortmund cria premiação para torcedores que deixam celular de lado durante jogos
-- Volta de Ronaldinho aos gramados provoca corrida por ingressos e movimenta clube italiano
-- Palmeiras prepara mudanças e vive expectativa por Vitor Roque contra o Santos no Brasileiro
-- Por que o Corinthians prega foco nos dois próximos jogos na luta contra o rebaixamento
-- Só Renato pode fazer o que Renato faz no Grêmio, dentro e fora de campo
-- Veja o que diz o documento que criou confusão na Libertadores; Flamengo mira final: "É possível"
-- Veja os argumentos do Bepe para vetar Vasco x Flamengo em São Januário
-- E o Alisson? Há quase três meses sem ser relacionado, volante tem futuro incerto no Fluminense
-- Pressão, abatimento e nova lesão: como Memphis reage à má fase do Corinthians no Brasileirão
+- Lingard sofre fratura na costela e vira dúvida no Corinthians
+- Palpite ge 2026: rodada tem três vencedores; veja acertos e erros
+- São Paulo faz acordo com André Anderson e parcela dívida de R$ 2 milhões em 20 vezes
+- Mayke trata lesão no Palmeiras depois de rescindir com Santos
+- Deportivo Cali x Olimpia - Taça Libertadores Feminina 2026 - globoesporte.com
+- Ex-Roma e Internacional se despede do Brusque após disputa da Série C
+- Guga alcança ano com mais jogos pelo Fluminense e se salva em instabilidade
+- Danilo desfalca o Botafogo contra o Remo por problema muscular
+- Mbappé decide, Real Madrid vence o Barcelona e põe fogo em LaLiga
+- Dispara o número de finalizações após regras antijogo e Brasileirão 2026 se descola de média histórica
+- Ex-analista da Seleção celebra campanha como treinador na Arábia Saudita
+- Vasco treina no Nilton Santos antes de sequência de jogos no sintético
 
 **r/soccer (top día)** (25)
 - Harry Kane announced as the winner of the 2026 Ballon d'Or
 - Harry Kane on his Instagram right after winning the Ballon d’Or
 - The two Ballon D'Or winners 2026, Alexia Putellas and Harry Kane
-- Kylian Mbappé on his favorite meme: "The one where they put my face on a Chinese dictator (Mao Zedong)? That really makes me laugh, I use it
 - Allianz Arena is celebrating Harry Kane's Ballon D'or win with Golden colours.
 - Harry Kane became the first English Ballon d'Or winner since 2001. He joins previous English recipients Sir Stanley Matthews, Sir Bobby Char
-- Ballon d'Or plunged into chaos as esteemed event announces Harry Kane, Kylian Mbappe and Lamine Yamal ALL as winners on official website jus
-- Jose Mourinho stared down Barcelona’s bench after Mbappe’s late winner
-- Salah's reaction to Rizespor player diving in front of him.
 - Chinese brands Dongpeng and Mengniu cancel sponsorship of Mbappé after he called Mao Zedong a dictator while discussing a meme.
-- Bukayo Saka wins the socrates award
+- Reporter on the red carpet asks Michael Owen: "What was your best standing in the Ballon d'Or when you were active?" Owen: "Well I won it in
+- Salah's reaction to Rizespor player diving in front of him.
+- China's state broadcaster suspends all La Liga broadcasts and removes ads featuring Kylian Mbappé
 - Harry Kane celebrates the Ballon d’Or with fans outside the London Palladium
+- Kylian Mbappé statement: " I apologise to everyone my words have upset. This was absolutely not my intention. I have deep respect for the Ch
+- Bukayo Saka wins the socrates award
 
 Fallaron: ESPN (ParseError), Goal (HTTPError), Independent (ParseError), Football365 (HTTPError), Marca (HTTPError), Sport (HTTPError), Calciomercato (HTTPError), TN (HTTPError)
