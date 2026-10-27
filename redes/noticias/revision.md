@@ -540,3 +540,21 @@
 - L'Equipe: Messi, Rodri, Sammer... le top 5 des sacres les plus serrés pour le Ballon d'Or
 - Foot Mercato: Ballon d’Or : Rio Mavuba vote pour Kylian Mbappé
 
+## 27/10 13:37 · Carrick under fire · revisar
+- Motivo: palabra sensible en los titulares: surgery
+- Temas: Carrick
+- talkSPORT: Bruno Fernandes appears to make cryptic dig at Michael Carrick after Man United benching
+- talkSPORT: Eddie Howe told to steer clear of Man United job as blame shifted away from Michael Carrick
+- talkSPORT: Next Premier League manager to leave odds: Carrick as short as 1/5 after Cherries thrashing
+- talkSPORT: Why Man United could not announce Michael Carrick exit immediately after Bournemouth defeat
+- Daily Mail: Bruno Fernandes aims ANOTHER swipe at Michael Carrick: Captain likes cryptic 'loyalty' social media post less than 24 hours after Man United boss dumped star to the bench
+
+## 27/10 13:37 · Madrid injury scare · revisar
+- Motivo: categoría sensible: injury
+- Temas: Madrid
+- Planet Football: Kylian Mbappe vs Cristiano Ronaldo: Who reached 100 Real Madrid goals faster?
+- Yahoo: Real Madrid locker room believe Kylian Mbappe will win the Ballon d’Or – report
+- Yahoo: The case for Real Madrid superstar Kylian Mbappe winning the Ballon d’Or
+- Yahoo: Real Madrid stunned by €125 million star who continues to exceed expectations
+- Yahoo: Real Madrid sweat over key player’s injury after El Clasico victory as medical tests await
+
