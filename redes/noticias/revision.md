@@ -576,3 +576,12 @@
 - talkSPORT: Fleetwood vs Arsenal LIVE commentary: ‘Excited’ Cods eye huge Carabao Cup shock at Highbury
 - Mirror: Arsenal news: Julian Alvarez January transfer decision and offer for target confirmed
 
+## 28/10 20:04 · Yamal slams Ballon d'Or vote · revisar
+- Motivo: palabra sensible en los titulares: president
+- Temas: Yamal, Barcelona
+- Daily Mail: Harry Kane wins the Ballon d'Or: England captain sends poignant message after emotional speech as he was named the world's best and beat Kylian Mbappe and Lamine Yamal
+- Mirror: Ballon d'Or judge who put Lionel Messi 3 places above Lamine Yamal explains controversial list
+- Mirror: Spanish media react to Harry Kane winning the Ballon d'Or as Lamine Yamal 'penalised'
+- Yahoo: Barcelona president backs Lamine Yamal to win the Ballon d’Or after third-place finish: ‘I’m convinced’
+- Mundo Deportivo: Lamine Yamal reescribe la historia y sigue rompiendo récords
+
