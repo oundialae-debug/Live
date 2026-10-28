@@ -558,3 +558,21 @@
 - Yahoo: Real Madrid stunned by €125 million star who continues to exceed expectations
 - Yahoo: Real Madrid sweat over key player’s injury after El Clasico victory as medical tests await
 
+## 28/10 14:26 · Mbappé apologises to China · revisar
+- Motivo: datos que no salen en los titulares: French
+- Temas: China
+- Mirror: Kylian Mbappe forced into China apology after sponsors cut ties over Mao Zedong meme
+- Yahoo: Kylian Mbappe apologises to China after backlash over controversial comment: ‘I am sincerely sorry’
+- Yahoo: Tebas, La Liga issue official apology to China over Kylian Mbappe controversy
+- Yahoo: 🚨 La Liga apologises to China: we regret Mbappé's comments
+- Google News ES: China suspende la emisión de los partidos de fútbol en los que aparezca Mbappé tras llamar dictador a Mao por un meme
+
+## 28/10 14:26 · Arsenal cope without Saliba · revisar
+- Motivo: palabra sensible en los titulares: broken
+- Temas: Arsenal
+- BBC: No Saliba, no problem - Konsa stepping up for Arsenal
+- Guardian: ‘The wind goes in all directions’: Fleetwood prepare wet welcome for Arsenal at Highbury
+- Sky Sports: Carabao Cup: Arsenal should unleash Dowman as Liverpool-Chelsea clash
+- talkSPORT: Fleetwood vs Arsenal LIVE commentary: ‘Excited’ Cods eye huge Carabao Cup shock at Highbury
+- Mirror: Arsenal news: Julian Alvarez January transfer decision and offer for target confirmed
+

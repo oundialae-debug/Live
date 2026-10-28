@@ -138,3 +138,5 @@
 {"t": "2026-10-27T12:37+00:00", "estado": "revisar", "temas": ["Carrick"], "clave": "carrick-sack", "motivo": "palabra sensible en los titulares: surgery"}
 {"t": "2026-10-27T12:37+00:00", "estado": "revisar", "temas": ["Madrid"], "clave": "real-madrid-injury", "motivo": "categoría sensible: injury"}
 {"t": "2026-10-27T19:22+00:00", "estado": "descartar", "temas": ["Chelsea"], "clave": "chelsea-transfer-spree", "motivo": "calidad 6 < 7"}
+{"t": "2026-10-28T13:26+00:00", "estado": "revisar", "temas": ["China"], "clave": "mbappe-china-apology", "motivo": "datos que no salen en los titulares: French"}
+{"t": "2026-10-28T13:26+00:00", "estado": "revisar", "temas": ["Arsenal"], "clave": "arsenal-saliba-cup", "motivo": "palabra sensible en los titulares: broken"}
