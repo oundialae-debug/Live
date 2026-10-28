@@ -1,5 +1,5 @@
 {
- "generado": "2026-10-28T13:25+00:00",
+ "generado": "2026-10-28T19:03+00:00",
  "temas": [
   {
    "tema": "Kane",
@@ -32,12 +32,6 @@
    "titulares": [
     {
      "medio": "BBC",
-     "titulo": "Ranking England's Ballon d'Or winners - how does Kane compare?",
-     "url": "https://www.bbc.co.uk/sport/football/articles/ckx2qdxgzzz7o?at_medium=RSS&at_campaign=rss",
-     "pub": "2026-10-27T06:20+00:00"
-    },
-    {
-     "medio": "BBC",
      "titulo": "Quiz: Kane and who else? Name every men's Ballon d'Or winner",
      "url": "https://www.bbc.co.uk/sport/football/articles/cn5q170dnwlo?at_medium=RSS&at_campaign=rss",
      "pub": "2026-10-27T09:31+00:00"
@@ -53,12 +47,6 @@
      "titulo": "'This one's for all of us' - Kane thanks fans after Ballon d'Or win",
      "url": "https://www.skysports.com/watch/video/13604287/exclusive-harry-kane-talks-to-sky-sports-after-winning-ballondor",
      "pub": "2026-10-27T09:11+00:00"
-    },
-    {
-     "medio": "Sky Sports",
-     "titulo": "Winning MOMENT! Harry Kane claims 2026 Ballon d'Or award!",
-     "url": "https://www.skysports.com/watch/video/13604240/moment-harry-kane-claims-2026-ballon-dor-award",
-     "pub": "2026-10-27T06:45+00:00"
     },
     {
      "medio": "talkSPORT",
@@ -101,12 +89,24 @@
      "titulo": "Harry Kane wins the Ballon d'Or: England captain sends poignant message after emotional speech as he was named the world's best and beat Kylian Mbappe and Lamine Yamal",
      "url": "https://www.dailymail.com/sport/football/article-16238931/Harry-Kane-wins-Ballon-dOr-England-captain-named-worlds-best-footballer-beating-Kylian-Mbappe-Lamine-Yamal-prize-glittering-ceremony-London.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
      "pub": "2026-10-27T10:00+00:00"
+    },
+    {
+     "medio": "Daily Mail",
+     "titulo": "Chaotic scenes at London Palladium's glitzy Ballon d'Or ceremony as huge crowds of fans try to gain access to red carpet event to catch a glimpse of Harry Kane and Co - and a photographer gets into a spat with security!",
+     "url": "https://www.dailymail.com/sport/football/article-16240643/Chaotic-scenes-London-Palladium-glitzy-Ballon-dOr-ceremony-huge-crowds-fans-try-gain-access-red-carpet-event-catch-glimpse-Harry-Kane-photographer-gets-spat-security.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+     "pub": "2026-10-27T09:00+00:00"
+    },
+    {
+     "medio": "Daily Mail",
+     "titulo": "Stars arrive for glitzy Ballon d'Or bash in London: Game of Thrones star Sophie Turner, Jorja Smith, and Kate Scott join sporting legends Gary Lineker and Ronaldo... with England captain Harry Kane hoping to land top prize",
+     "url": "https://www.dailymail.com/sport/football/article-16238929/Stars-arrive-glitzy-Ballon-dOr-bash-London-Harry-Kane.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+     "pub": "2026-10-27T08:29+00:00"
     }
    ]
   },
   {
    "tema": "Harry",
-   "medios": 19,
+   "medios": 18,
    "lista_medios": [
     "Daily Mail",
     "Foot Mercato",
@@ -122,7 +122,6 @@
     "Ole",
     "Planet Football",
     "Record",
-    "Sky Sports",
     "Telegraph",
     "Yahoo",
     "ge.globo",
@@ -130,12 +129,6 @@
    ],
    "primera_vez": "2026-10-27T12:36+00:00",
    "titulares": [
-    {
-     "medio": "Sky Sports",
-     "titulo": "Winning MOMENT! Harry Kane claims 2026 Ballon d'Or award!",
-     "url": "https://www.skysports.com/watch/video/13604240/moment-harry-kane-claims-2026-ballon-dor-award",
-     "pub": "2026-10-27T06:45+00:00"
-    },
     {
      "medio": "talkSPORT",
      "titulo": "Harry Kane Premier League transfer prediction made after England captain wins Ballon d’Or",
@@ -201,6 +194,12 @@
      "titulo": "Harry Kane wins the Ballon d'Or: England captain sends poignant message after emotional speech as he was named the world's best and beat Kylian Mbappe and Lamine Yamal",
      "url": "https://www.dailymail.com/sport/football/article-16238931/Harry-Kane-wins-Ballon-dOr-England-captain-named-worlds-best-footballer-beating-Kylian-Mbappe-Lamine-Yamal-prize-glittering-ceremony-London.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
      "pub": "2026-10-27T10:00+00:00"
+    },
+    {
+     "medio": "Daily Mail",
+     "titulo": "Chaotic scenes at London Palladium's glitzy Ballon d'Or ceremony as huge crowds of fans try to gain access to red carpet event to catch a glimpse of Harry Kane and Co - and a photographer gets into a spat with security!",
+     "url": "https://www.dailymail.com/sport/football/article-16240643/Chaotic-scenes-London-Palladium-glitzy-Ballon-dOr-ceremony-huge-crowds-fans-try-gain-access-red-carpet-event-catch-glimpse-Harry-Kane-photographer-gets-spat-security.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+     "pub": "2026-10-27T09:00+00:00"
     }
    ]
   },
@@ -294,18 +293,19 @@
      "pub": "2026-10-27T09:24+00:00"
     },
     {
-     "medio": "Mirror",
-     "titulo": "Man Utd news: Sir Jim Ratcliffe's top pick to replace Michael Carrick as key demand revealed",
-     "url": "https://www.mirror.co.uk/sport/football/news/manchester-united-carrick-sack-howe-37811163",
-     "pub": "2026-10-27T04:30+00:00"
+     "medio": "Yahoo",
+     "titulo": "Michael Carrick avoids sack for now and will take charge of Man United game with Chelsea",
+     "url": "https://sports.yahoo.com/articles/michael-carrick-avoids-sack-now-122350426.html",
+     "pub": "2026-10-27T12:23+00:00"
     }
    ]
   },
   {
    "tema": "Madrid",
-   "medios": 15,
+   "medios": 16,
    "lista_medios": [
     "AS",
+    "BBC",
     "Daily Mail",
     "Foot Mercato",
     "FourFourTwo",
@@ -398,303 +398,21 @@
    ]
   },
   {
-   "tema": "Ballon",
-   "medios": 14,
+   "tema": "Chelsea",
+   "medios": 15,
    "lista_medios": [
     "BBC",
     "Daily Mail",
-    "Foot Mercato",
     "Football Italia",
     "FourFourTwo",
+    "Google News AR",
     "Google News EN",
     "Guardian",
-    "L'Equipe",
-    "Mirror",
-    "Planet Football",
-    "Sky Sports",
-    "Telegraph",
-    "Yahoo",
-    "talkSPORT"
-   ],
-   "primera_vez": "2026-10-27T12:36+00:00",
-   "titulares": [
-    {
-     "medio": "BBC",
-     "titulo": "Ranking England's Ballon d'Or winners - how does Kane compare?",
-     "url": "https://www.bbc.co.uk/sport/football/articles/ckx2qdxgzzz7o?at_medium=RSS&at_campaign=rss",
-     "pub": "2026-10-27T06:20+00:00"
-    },
-    {
-     "medio": "BBC",
-     "titulo": "Quiz: Kane and who else? Name every men's Ballon d'Or winner",
-     "url": "https://www.bbc.co.uk/sport/football/articles/cn5q170dnwlo?at_medium=RSS&at_campaign=rss",
-     "pub": "2026-10-27T09:31+00:00"
-    },
-    {
-     "medio": "BBC",
-     "titulo": "Ballon d'Or winner Kane explains how his game has evolved",
-     "url": "https://www.bbc.co.uk/sport/football/videos/cwg7xevnyrjpo?at_medium=RSS&at_campaign=rss",
-     "pub": "2026-10-27T08:53+00:00"
-    },
-    {
-     "medio": "Guardian",
-     "titulo": "Kane’s Ballon d’Or triumph a glorious riposte to celebrity fawning of ceremony | Barney Ronay",
-     "url": "https://www.theguardian.com/football/2026/oct/27/harry-kane-ballon-dor-triumph-ceremony-barney-ronay",
-     "pub": "2026-10-27T08:00+00:00"
-    },
-    {
-     "medio": "Sky Sports",
-     "titulo": "'This one's for all of us' - Kane thanks fans after Ballon d'Or win",
-     "url": "https://www.skysports.com/watch/video/13604287/exclusive-harry-kane-talks-to-sky-sports-after-winning-ballondor",
-     "pub": "2026-10-27T09:11+00:00"
-    },
-    {
-     "medio": "Sky Sports",
-     "titulo": "Winning MOMENT! Harry Kane claims 2026 Ballon d'Or award!",
-     "url": "https://www.skysports.com/watch/video/13604240/moment-harry-kane-claims-2026-ballon-dor-award",
-     "pub": "2026-10-27T06:45+00:00"
-    },
-    {
-     "medio": "talkSPORT",
-     "titulo": "Harry Kane Premier League transfer prediction made after England captain wins Ballon d’Or",
-     "url": "https://talksport.com/football/4670357/harry-kane-premier-league-transfer-return-prediction-ballon-dor/",
-     "pub": "2026-10-27T11:32+00:00"
-    },
-    {
-     "medio": "talkSPORT",
-     "titulo": "EFL star spotted celebrating with Harry Kane in lavish Ballon d’Or afterparty",
-     "url": "https://talksport.com/football/4670356/harry-kane-ballon-dor-party-matt-doherty-eric-dier/",
-     "pub": "2026-10-27T11:06+00:00"
-    },
-    {
-     "medio": "talkSPORT",
-     "titulo": "Razor thin points gap between Harry Kane and Kylian Mbappe revealed by Ballon d’Or chief",
-     "url": "https://talksport.com/football/4669930/harry-kane-kylian-mbappe-ballon-dor-points-gap/",
-     "pub": "2026-10-27T09:29+00:00"
-    },
-    {
-     "medio": "Daily Mail",
-     "titulo": "Harry Kane's Ballon d'Or disrespect row: French superstars Kylian Mbappe and Ousmane Dembele fail to stand to shake humble winner's hand - as it's revealed just how close vote was",
-     "url": "https://www.dailymail.com/sport/football/article-16241843/harry-kane-ballon-dor-row-mbappe-dembele.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-     "pub": "2026-10-27T12:17+00:00"
-    },
-    {
-     "medio": "Daily Mail",
-     "titulo": "Michael Owen involved in awkward Ballon d'Or exchange...as he is forced to tell reporter that he is a previous winner of the award!",
-     "url": "https://www.dailymail.com/sport/football/article-16241683/Michael-Owen-involved-awkward-Ballon-dOr-exchange-forced-tell-reporter-previous-winner-award.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-     "pub": "2026-10-27T11:26+00:00"
-    },
-    {
-     "medio": "Daily Mail",
-     "titulo": "MICHAEL OWEN: I was wrong about Harry Kane, he is England's best ever striker - and he wasn't even born with a finisher's instinct! Here's how Ballon d'Or winner became the greatest player in the world",
-     "url": "https://www.dailymail.com/sport/football/article-15877233/MICHAEL-OWEN-Harry-Kane-Englands-greatest-striker.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-     "pub": "2026-10-27T11:19+00:00"
-    }
-   ]
-  },
-  {
-   "tema": "Arsenal",
-   "medios": 14,
-   "lista_medios": [
-    "BBC",
-    "Daily Mail",
-    "Foot Mercato",
-    "FourFourTwo",
-    "Google News EN",
-    "Guardian",
-    "Infobae",
-    "L'Equipe",
-    "Mirror",
-    "Planet Football",
-    "Sky Sports",
-    "Telegraph",
-    "Yahoo",
-    "talkSPORT"
-   ],
-   "primera_vez": "2026-10-27T12:36+00:00",
-   "titulares": [
-    {
-     "medio": "BBC",
-     "titulo": "No Saliba, no problem - Konsa stepping up for Arsenal",
-     "url": "https://www.bbc.co.uk/sport/football/articles/cw5ynr87jdr0o?at_medium=RSS&at_campaign=rss",
-     "pub": "2026-10-27T07:22+00:00"
-    },
-    {
-     "medio": "Guardian",
-     "titulo": "‘The wind goes in all directions’: Fleetwood prepare wet welcome for Arsenal at Highbury",
-     "url": "https://www.theguardian.com/football/2026/oct/27/the-wind-goes-in-all-directions-fleetwood-prepare-wet-welcome-for-arsenal-at-highbury",
-     "pub": "2026-10-27T08:00+00:00"
-    },
-    {
-     "medio": "Sky Sports",
-     "titulo": "Carabao Cup: Arsenal should unleash Dowman as Liverpool-Chelsea clash",
-     "url": "https://www.skysports.com/football/news/12040/13603943/arsenal-should-unleash-max-dowman-liverpool-and-chelsea-clash-in-battle-of-the-basques-and-man-city-continue-defence-carabao-cup-talking-points",
-     "pub": "2026-10-27T08:00+00:00"
-    },
-    {
-     "medio": "talkSPORT",
-     "titulo": "Fleetwood vs Arsenal LIVE commentary: ‘Excited’ Cods eye huge Carabao Cup shock at Highbury",
-     "url": "https://talksport.com/football/4669055/fleetwood-vs-arsenal-commentary-teams-score-carabao-cup/",
-     "pub": "2026-10-27T10:29+00:00"
-    },
-    {
-     "medio": "Mirror",
-     "titulo": "Arsenal news: Julian Alvarez January transfer decision and offer for target confirmed",
-     "url": "https://www.mirror.co.uk/sport/football/news/arsenal-transfers-julian-alvarez-mora-37811710",
-     "pub": "2026-10-27T04:00+00:00"
-    },
-    {
-     "medio": "Yahoo",
-     "titulo": "7 Arsenal youths join first-team training pre-Fleetwood Town clash",
-     "url": "https://sports.yahoo.com/articles/7-arsenal-youths-join-first-120500868.html",
-     "pub": "2026-10-27T12:05+00:00"
-    },
-    {
-     "medio": "Yahoo",
-     "titulo": "Arsenal 27yo to wear mask vs Fleetwood Town after broken nose",
-     "url": "https://sports.yahoo.com/articles/arsenal-27yo-wear-mask-vs-110500007.html",
-     "pub": "2026-10-27T11:05+00:00"
-    },
-    {
-     "medio": "Google News EN",
-     "titulo": "Ezri Konsa: No William Saliba, no problem, as summer signing steps up for Arsenal",
-     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE4tXy1NbDF3NXdRTU4takV2TERaZ1ExRHlDanc0Q3N6cDRuT2FuV2JsMWZCTXVsTmRvTl9JVkNIYnJLX3dPZUFnVnpUNTcycUJrVnJnZTJRVGVWakhnX1pkRV9xbm00dGxjNmRR?oc=5",
-     "pub": "2026-10-27T07:22+00:00"
-    },
-    {
-     "medio": "Foot Mercato",
-     "titulo": "Arsenal : Mikel Arteta menace de filmer les sorties de zone technique de ses concurrents",
-     "url": "https://www.footmercato.net/a2608165765972803862-arsenal-mikel-arteta-menace-de-filmer-les-sorties-de-zone-technique-de-ses-concurrents",
-     "pub": "2026-10-27T07:09+00:00"
-    },
-    {
-     "medio": "Guardian",
-     "titulo": "Fleetwood Town v Arsenal: Carabao Cup fourth round – live",
-     "url": "https://www.theguardian.com/football/live/2026/oct/27/fleetwood-town-v-arsenal-carabao-cup-fourth-round-live",
-     "pub": "2026-10-27T18:30+00:00"
-    },
-    {
-     "medio": "Daily Mail",
-     "titulo": "Fleetwood Town vs Arsenal - Carabao Cup: Mikel Arteta's side travel to the seaside gunning for a place in the fifth round",
-     "url": "https://www.dailymail.com/sport/football/article-16241979/Fleetwood-Town-vs-Arsenal-Carabao-Cup-LIVE.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-     "pub": "2026-10-27T18:49+00:00"
-    },
-    {
-     "medio": "Mirror",
-     "titulo": "How to watch Fleetwood vs Arsenal - TV channel, live stream and kick-off time",
-     "url": "https://www.mirror.co.uk/sport/football/news/fleetwood-arsenal-tv-channel-stream-37813453",
-     "pub": "2026-10-27T17:00+00:00"
-    }
-   ]
-  },
-  {
-   "tema": "Yamal",
-   "medios": 13,
-   "lista_medios": [
-    "AS",
-    "BBC",
-    "Daily Mail",
-    "Foot Mercato",
-    "Google News ES",
-    "Kicker",
-    "L'Equipe",
-    "Mirror",
-    "Mundo Deportivo",
-    "Ole",
-    "Planet Football",
-    "Record",
-    "Yahoo"
-   ],
-   "primera_vez": "2026-10-27T12:36+00:00",
-   "titulares": [
-    {
-     "medio": "Daily Mail",
-     "titulo": "Harry Kane wins the Ballon d'Or: England captain sends poignant message after emotional speech as he was named the world's best and beat Kylian Mbappe and Lamine Yamal",
-     "url": "https://www.dailymail.com/sport/football/article-16238931/Harry-Kane-wins-Ballon-dOr-England-captain-named-worlds-best-footballer-beating-Kylian-Mbappe-Lamine-Yamal-prize-glittering-ceremony-London.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-     "pub": "2026-10-27T10:00+00:00"
-    },
-    {
-     "medio": "Mirror",
-     "titulo": "Ballon d'Or judge who put Lionel Messi 3 places above Lamine Yamal explains controversial list",
-     "url": "https://www.mirror.co.uk/sport/football/news/ballon-dor-judge-messi-yamal-37813276",
-     "pub": "2026-10-27T11:52+00:00"
-    },
-    {
-     "medio": "Mirror",
-     "titulo": "Spanish media react to Harry Kane winning the Ballon d'Or as Lamine Yamal 'penalised'",
-     "url": "https://www.mirror.co.uk/sport/football/news/kane-ballon-dor-yamal-reaction-37813342",
-     "pub": "2026-10-27T08:35+00:00"
-    },
-    {
-     "medio": "Yahoo",
-     "titulo": "Barcelona president backs Lamine Yamal to win the Ballon d’Or after third-place finish: ‘I’m convinced’",
-     "url": "https://sports.yahoo.com/articles/barcelona-president-backs-lamine-yamal-102400306.html",
-     "pub": "2026-10-27T10:24+00:00"
-    },
-    {
-     "medio": "Mundo Deportivo",
-     "titulo": "Lamine Yamal reescribe la historia y sigue rompiendo récords",
-     "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261027/1004243786/lamine-yamal-reescribe-historia-sigue-rompiendo-records.html",
-     "pub": ""
-    },
-    {
-     "medio": "Google News ES",
-     "titulo": "Lamine Yamal se queda a las puertas y el fútbol español triunfa en el Balón de Oro",
-     "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxORlF2bTJKd0hfUFlNR1o2a1V0ZWEzZTJpOWNWX1hUVjVKclFfWE8tdm85RjEwTzJzVEdiQkpvOXk4RVpCcUtwMEVpTlNXYU9KS0dJcTc5Yk9VcDI0eWFlaVU0RlNvUGlncWcyNzNydU5NSFVnSmdONC1xRC1kQTN2TURVelVUOE1PT2F2Nm95ejVuWkFCMUtxVDU3MUdqclQwZkI5UkRpQjc2dFFaTkpDZTVmc05RY1JEYkkyZm5hNXJvbnY1TWR6M2RVVUlRX1NwM1HSAeYBQVVfeXFMUDJuaUNYdEhOLVZidjVuVHBQRFRJQmlGVWM0MGxvSlFKNWdfdXMtc1BtUEVaeDdKbEVZN0ptOFNXLTI3Z2ItVXJmQjhNMWVJbkNQSG9EUHY2T0NLS0VUajRvLWRXU3hCZHB5QjkxRmpiamdCcXpQVEFyRlplTEYtdXBtRXE5U3NSYnhLWnBzRFV6cFZWZGhPVGxGVmM2d1NaclFBeV84cEEtRktMbHJEMXVCZWFIaXY4SjhnWG10WElfaVFMNmRjOXp3Q1N4OXdBSkxONE1kMkc4M2lzTEh6dE1NbWdmSXc?oc=5",
-     "pub": "2026-10-27T09:31+00:00"
-    },
-    {
-     "medio": "Kicker",
-     "titulo": "Teamkollege im Verdacht: Warum wurde Lamine Yamal nur Dritter?",
-     "url": "https://www.kicker.de/teamkollege-im-verdacht-warum-wurde-lamine-yamal-nur-dritter-1265634/artikel#omrss",
-     "pub": "2026-10-27T09:28+00:00"
-    },
-    {
-     "medio": "L'Equipe",
-     "titulo": "Sacré au Ballon d'Or 2026 devant Mbappé et Lamine Yamal, Harry Kane déjà de retour avec le Bayern en Coupe d'Allemagne ?",
-     "url": "https://www.lequipe.fr/Football/Actualites/Sacre-au-ballon-d-or-2026-devant-mbappe-et-lamine-yamal-harry-kane-deja-de-retour-avec-le-bayern-en-coupe-d-allemagne/1739013#at_medium=RSS_feeds",
-     "pub": "2026-10-27T11:16+00:00"
-    },
-    {
-     "medio": "Foot Mercato",
-     "titulo": "Ballon d’Or 2026 : toute la Catalogne enrage pour Lamine Yamal",
-     "url": "https://www.footmercato.net/a1541866434397183340-ballon-dor-2026-toute-la-catalogne-enrage-pour-lamine-yamal",
-     "pub": "2026-10-27T07:33+00:00"
-    },
-    {
-     "medio": "Record",
-     "titulo": "<![CDATA[ Kane merece mais a Bola de Ouro do que Mbappé ou Yamal? Três respostas que explicam a vitória do inglês ]]>",
-     "url": "https://www.record.pt/multimedia/videos/detalhe/kane-merece-mais-a-bola-de-ouro-do-que-mbappe-ou-yamal-tres-respostas-que-explicam-a-vitoria-do-ingles",
-     "pub": "2026-10-27T12:17+00:00"
-    },
-    {
-     "medio": "Ole",
-     "titulo": "Un familiar de Yamal explotó tras el Balón de Oro: \"A Harry Kane le quedan tres días de fútbol\" y \"Lamine seguirá siendo el mejor del mundo\"",
-     "url": "https://www.ole.com.ar/futbol-internacional/lamine-yamal-harry-kane-balon-oro-familiar-tio-premio-dijo-quedan-dias-futbol_0_2EAlq5mgYL.html",
-     "pub": "2026-10-27T12:10+00:00"
-    },
-    {
-     "medio": "Planet Football",
-     "titulo": "Planet Football’s definitive best XI in world football: Rodri, Yamal, Kane but no Mbappe…",
-     "url": "https://www.planetfootball.com/lists-and-rankings/best-xi-team-world-football-every-position",
-     "pub": "2026-10-27T14:23+00:00"
-    }
-   ]
-  },
-  {
-   "tema": "China",
-   "medios": 13,
-   "lista_medios": [
-    "AS",
-    "Daily Mail",
-    "Google News ES",
-    "Guardian",
-    "Infobae",
     "Kicker",
     "Mirror",
-    "Mundo Deportivo",
     "Ole",
-    "Record",
+    "Planet Football",
+    "Sky Sports",
     "Yahoo",
     "ge.globo",
     "talkSPORT"
@@ -702,85 +420,87 @@
    "primera_vez": "2026-10-27T12:36+00:00",
    "titulares": [
     {
-     "medio": "Mirror",
-     "titulo": "Kylian Mbappe forced into China apology after sponsors cut ties over Mao Zedong meme",
-     "url": "https://www.mirror.co.uk/sport/football/news/kylian-mbappe-china-meme-zedong-37813941",
-     "pub": "2026-10-27T10:40+00:00"
-    },
-    {
-     "medio": "Yahoo",
-     "titulo": "Kylian Mbappe apologises to China after backlash over controversial comment: ‘I am sincerely sorry’",
-     "url": "https://sports.yahoo.com/articles/kylian-mbappe-apologises-china-backlash-115800069.html",
-     "pub": "2026-10-27T11:58+00:00"
-    },
-    {
-     "medio": "Yahoo",
-     "titulo": "Tebas, La Liga issue official apology to China over Kylian Mbappe controversy",
-     "url": "https://sports.yahoo.com/articles/tebas-la-liga-issue-official-114700676.html",
-     "pub": "2026-10-27T11:47+00:00"
-    },
-    {
-     "medio": "Yahoo",
-     "titulo": "🚨 La Liga apologises to China: we regret Mbappé's comments",
-     "url": "https://sports.yahoo.com/articles/la-liga-apologises-china-regret-110200062.html",
-     "pub": "2026-10-27T11:02+00:00"
-    },
-    {
-     "medio": "Google News ES",
-     "titulo": "China suspende la emisión de los partidos de fútbol en los que aparezca Mbappé tras llamar dictador a Mao por un meme",
-     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNOXdfS1djd2NGT1hvOXp5bE9vTThlZVBvNUhIcjF6UHUyWDVBaGd5ZE90d3VDNFRMZXJ6QXZDcUlOV2N4UWxQLTc4WUgybXZkYms3dmR0VEY1SU55Y2VuMF9XVlJ2alp5bkZQeE9oRlhQSkFuYUhsdFBrMUhoTk5oOHlYZWpIQnQ5RmVQNy14VHZmeHhkTWVobEdCWmt3RFE2bHQ0OUx0WE5SMGZTaC1sQnhWNFpCZVdJdmNDS3lIZGt4cVRaM1HSAcsBQVVfeXFMT2N2UkNQWHU3Rkw4cG1nWWFOcEFXZjlZRkdhWl9XemRqcmFMSWlZclhnUmw5RGFUeEhCNlNUN241dm80UWlXalJFQnJqYVAzeWUtbVEzbDJsbzEwSkZ0ZEQydDlMRmhiSWRNNjF0dDh0QjJjWHBlc1FhMV95SnBsSlJDbkJON2JSaDBtUkZReWZiX0tQcmpoVmEybHhLcnAxSTZxdTlKUU1waHBOV3FLdUNId0EtSjBFV0syTXE5LXQ0eEFzSUlTQnNnTGc?oc=5",
-     "pub": "2026-10-27T10:07+00:00"
-    },
-    {
-     "medio": "Record",
-     "titulo": "<![CDATA[ China rejeita declarações que \"firam sentimentos do povo chinês\" após polémica com Mbappé ]]>",
-     "url": "https://www.record.pt/internacional/paises/espanha/real-madrid/detalhe/china-rejeita-declaracoes-que-firam-sentimentos-do-povo-chines-apos-polemica-com-mbappe",
-     "pub": "2026-10-27T09:42+00:00"
-    },
-    {
-     "medio": "talkSPORT",
-     "titulo": "Kylian Mbappe forced to apologise for Mao Zedong joke after backlash in China",
-     "url": "https://talksport.com/football/4671124/kylian-mbappe-apology-chairman-mao-meme-chinese-backlash/",
-     "pub": "2026-10-27T14:56+00:00"
-    },
-    {
-     "medio": "Mundo Deportivo",
-     "titulo": "El Madrid, afectado por la polémica de Mbappé en China",
-     "url": "https://www.mundodeportivo.com/futbol/real-madrid/20261027/1004243909/madrid-afectado-polemica-mbappe-china.html",
-     "pub": ""
-    },
-    {
-     "medio": "Mundo Deportivo",
-     "titulo": "El 'meme' de Mbappé que enfadó a China",
-     "url": "https://www.mundodeportivo.com/futbol/real-madrid/20261027/1004243895/meme-mbappe-enfado-china.html",
-     "pub": ""
-    },
-    {
-     "medio": "Infobae",
-     "titulo": "Mbappé pide perdón a China tras la polémica con el ‘meme’ de Mao Zedong: “Tengo un profundo respeto por el pueblo chino y su historia, estoy sinceramente arrepentido”",
-     "url": "https://www.infobae.com/espana/cultura/2026/10/27/mbappe-pide-perdon-a-china-tras-la-polemica-con-el-meme-de-mao-zedong-tengo-un-profundo-respeto-por-el-pueblo-chino-y-su-historia-estoy-sinceramente-arrepentido/",
-     "pub": "2026-10-27T13:06+00:00"
+     "medio": "BBC",
+     "titulo": "Carrick to stay in charge of Man Utd for Chelsea game",
+     "url": "https://www.bbc.co.uk/sport/football/articles/crlykgeqzypyo?at_medium=RSS&at_campaign=rss",
+     "pub": "2026-10-27T12:10+00:00"
     },
     {
      "medio": "Guardian",
-     "titulo": "Kylian Mbappé’s China crisis shows how sensitive Mao’s legacy remains",
-     "url": "https://www.theguardian.com/football/2026/oct/28/kylian-mbappe-china-crisis-shows-how-sensitive-maos-legacy-remains",
-     "pub": "2026-10-28T10:00+00:00"
+     "titulo": "Carrick given chance to save job as he stays for Manchester United’s game at Chelsea",
+     "url": "https://www.theguardian.com/football/2026/oct/27/manchester-united-eddie-howe-newcastle-compensation-michael-carrick",
+     "pub": "2026-10-27T12:21+00:00"
+    },
+    {
+     "medio": "Sky Sports",
+     "titulo": "Carrick to remain in charge of Man Utd for Chelsea trip",
+     "url": "https://www.skysports.com/football/news/12040/13604347/man-utd-boss-michael-carrick-to-remain-in-charge-vs-chelsea-and-given-chance-to-turn-situation-around",
+     "pub": "2026-10-27T12:03+00:00"
+    },
+    {
+     "medio": "Sky Sports",
+     "titulo": "Are Chelsea back? Have Man Utd weathered early-season storm?",
+     "url": "https://www.skysports.com/football/news/12040/13604005/are-chelsea-finally-playing-the-brand-of-football-sonia-bompastor-wants-and-is-it-wsl-title-worthy",
+     "pub": "2026-10-27T11:45+00:00"
+    },
+    {
+     "medio": "talkSPORT",
+     "titulo": "Michael Carrick given more time at Man United and will be in charge for Chelsea game",
+     "url": "https://talksport.com/football/4670880/man-united-michael-carrick-more-time-chelsea/",
+     "pub": "2026-10-27T12:10+00:00"
     },
     {
      "medio": "Daily Mail",
-     "titulo": "Kylian Mbappe's China row explodes as state broadcaster stands by Real Madrid blackout and REJECTS apology following 'dictator' Chairman Mao quip",
-     "url": "https://www.dailymail.com/sport/football/article-16245009/kylian-mbappe-real-madrid-chairman-mao-china.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-     "pub": "2026-10-28T10:43+00:00"
+     "titulo": "Michael Carrick is STAYING: Man United decide against wielding axe after day of crisis talks - with under-pressure boss taking training today ahead of trip to Chelsea",
+     "url": "https://www.dailymail.com/sport/football/article-16242375/Michael-Carrick-STAYING-Man-United-decide-against-sacking-fire-boss-day-crisis-talks.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+     "pub": "2026-10-27T12:31+00:00"
+    },
+    {
+     "medio": "Mirror",
+     "titulo": "Michael Carrick future LIVE: Man Utd make decision for Chelsea as players and staff informed",
+     "url": "https://www.mirror.co.uk/sport/football/news/man-united-manager-latest-live-37813167",
+     "pub": "2026-10-27T12:04+00:00"
+    },
+    {
+     "medio": "Yahoo",
+     "titulo": "Michael Carrick avoids sack for now and will take charge of Man United game with Chelsea",
+     "url": "https://sports.yahoo.com/articles/michael-carrick-avoids-sack-now-122350426.html",
+     "pub": "2026-10-27T12:23+00:00"
+    },
+    {
+     "medio": "Yahoo",
+     "titulo": "Alonso has new headaches at Chelsea in big week",
+     "url": "https://sports.yahoo.com/articles/alonso-headaches-chelsea-big-week-115544391.html",
+     "pub": "2026-10-27T11:55+00:00"
+    },
+    {
+     "medio": "Yahoo",
+     "titulo": "Liverpool could receive double injury boost ahead of Chelsea clash",
+     "url": "https://sports.yahoo.com/articles/liverpool-could-receive-double-injury-105000480.html",
+     "pub": "2026-10-27T10:50+00:00"
+    },
+    {
+     "medio": "Google News EN",
+     "titulo": "Michael Carrick to stay in charge of Man Utd for Chelsea game",
+     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBRSE5xRzZGSGV6Z0tidjdfZjM4UVF4VHhrVlNZdEhBcEVyOXJPNFA1QzJ4MVlCcHUyWk5EZG9FanI0UlVhaU5RT0d1aTlDemZuUldROTlyLTFIanpzdm02UTNfTlhoOEJaMkpF?oc=5",
+     "pub": "2026-10-27T12:10+00:00"
+    },
+    {
+     "medio": "Google News EN",
+     "titulo": "Are Chelsea finally playing the brand of football Sonia Bompastor wants - and is it WSL title-worthy?",
+     "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNcFBaMFl6M3M1M3ZBYlJKT252VWV4TGpNRnZ2Z053SGVNb3NhZUNUamVxVEVCeDhZNFVEUWpFS29oc2xrZkYtR0F1TnFwV2VOM0t4SDIzbTQ0dHEzV2xfMW8zSW9BRUU1My1NTVZ4NTlOcTR0ZTZjTF9RRVRnRTU0UWNVckhGVk0zbVRsSTNKUWgtSFJhQXZVY3pMYWxpV1RtLVhxMHVuRGZwX200YXlWbmljMXd6ZTlQeEVoRmFKSW12Vy1sTWdxbmg4Rk90Z3dCQ1dHdXJKOEJjZ3lIcTZpSQ?oc=5",
+     "pub": "2026-10-27T12:14+00:00"
     }
    ]
   },
   {
    "tema": "Barcelona",
-   "medios": 13,
+   "medios": 15,
    "lista_medios": [
+    "AS",
     "BBC",
     "Daily Mail",
+    "Football Italia",
     "Google News AR",
     "Google News EN",
     "Google News ES",
@@ -870,18 +590,305 @@
    ]
   },
   {
-   "tema": "Chelsea",
-   "medios": 12,
+   "tema": "Arsenal",
+   "medios": 14,
    "lista_medios": [
     "BBC",
     "Daily Mail",
+    "Foot Mercato",
+    "FourFourTwo",
     "Google News EN",
     "Guardian",
-    "Kicker",
+    "Infobae",
+    "L'Equipe",
     "Mirror",
-    "Ole",
     "Planet Football",
     "Sky Sports",
+    "Telegraph",
+    "Yahoo",
+    "talkSPORT"
+   ],
+   "primera_vez": "2026-10-27T12:36+00:00",
+   "titulares": [
+    {
+     "medio": "BBC",
+     "titulo": "No Saliba, no problem - Konsa stepping up for Arsenal",
+     "url": "https://www.bbc.co.uk/sport/football/articles/cw5ynr87jdr0o?at_medium=RSS&at_campaign=rss",
+     "pub": "2026-10-27T07:22+00:00"
+    },
+    {
+     "medio": "Guardian",
+     "titulo": "‘The wind goes in all directions’: Fleetwood prepare wet welcome for Arsenal at Highbury",
+     "url": "https://www.theguardian.com/football/2026/oct/27/the-wind-goes-in-all-directions-fleetwood-prepare-wet-welcome-for-arsenal-at-highbury",
+     "pub": "2026-10-27T08:00+00:00"
+    },
+    {
+     "medio": "Sky Sports",
+     "titulo": "Carabao Cup: Arsenal should unleash Dowman as Liverpool-Chelsea clash",
+     "url": "https://www.skysports.com/football/news/12040/13603943/arsenal-should-unleash-max-dowman-liverpool-and-chelsea-clash-in-battle-of-the-basques-and-man-city-continue-defence-carabao-cup-talking-points",
+     "pub": "2026-10-27T08:00+00:00"
+    },
+    {
+     "medio": "talkSPORT",
+     "titulo": "Fleetwood vs Arsenal LIVE commentary: ‘Excited’ Cods eye huge Carabao Cup shock at Highbury",
+     "url": "https://talksport.com/football/4669055/fleetwood-vs-arsenal-commentary-teams-score-carabao-cup/",
+     "pub": "2026-10-27T10:29+00:00"
+    },
+    {
+     "medio": "Yahoo",
+     "titulo": "7 Arsenal youths join first-team training pre-Fleetwood Town clash",
+     "url": "https://sports.yahoo.com/articles/7-arsenal-youths-join-first-120500868.html",
+     "pub": "2026-10-27T12:05+00:00"
+    },
+    {
+     "medio": "Yahoo",
+     "titulo": "Arsenal 27yo to wear mask vs Fleetwood Town after broken nose",
+     "url": "https://sports.yahoo.com/articles/arsenal-27yo-wear-mask-vs-110500007.html",
+     "pub": "2026-10-27T11:05+00:00"
+    },
+    {
+     "medio": "Google News EN",
+     "titulo": "Ezri Konsa: No William Saliba, no problem, as summer signing steps up for Arsenal",
+     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE4tXy1NbDF3NXdRTU4takV2TERaZ1ExRHlDanc0Q3N6cDRuT2FuV2JsMWZCTXVsTmRvTl9JVkNIYnJLX3dPZUFnVnpUNTcycUJrVnJnZTJRVGVWakhnX1pkRV9xbm00dGxjNmRR?oc=5",
+     "pub": "2026-10-27T07:22+00:00"
+    },
+    {
+     "medio": "Foot Mercato",
+     "titulo": "Arsenal : Mikel Arteta menace de filmer les sorties de zone technique de ses concurrents",
+     "url": "https://www.footmercato.net/a2608165765972803862-arsenal-mikel-arteta-menace-de-filmer-les-sorties-de-zone-technique-de-ses-concurrents",
+     "pub": "2026-10-27T07:09+00:00"
+    },
+    {
+     "medio": "Guardian",
+     "titulo": "Fleetwood Town v Arsenal: Carabao Cup fourth round – live",
+     "url": "https://www.theguardian.com/football/live/2026/oct/27/fleetwood-town-v-arsenal-carabao-cup-fourth-round-live",
+     "pub": "2026-10-27T18:30+00:00"
+    },
+    {
+     "medio": "Daily Mail",
+     "titulo": "Fleetwood Town vs Arsenal - Carabao Cup: Mikel Arteta's side travel to the seaside gunning for a place in the fifth round",
+     "url": "https://www.dailymail.com/sport/football/article-16241979/Fleetwood-Town-vs-Arsenal-Carabao-Cup-LIVE.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+     "pub": "2026-10-27T18:49+00:00"
+    },
+    {
+     "medio": "Mirror",
+     "titulo": "How to watch Fleetwood vs Arsenal - TV channel, live stream and kick-off time",
+     "url": "https://www.mirror.co.uk/sport/football/news/fleetwood-arsenal-tv-channel-stream-37813453",
+     "pub": "2026-10-27T17:00+00:00"
+    },
+    {
+     "medio": "Planet Football",
+     "titulo": "The 10 best teams in world football right now – Our definitive power rankings ft. PSG, Arsenal, Barcelona…",
+     "url": "https://www.planetfootball.com/lists-and-rankings/best-football-teams-world-ranked",
+     "pub": "2026-10-27T16:14+00:00"
+    }
+   ]
+  },
+  {
+   "tema": "Ballon",
+   "medios": 14,
+   "lista_medios": [
+    "BBC",
+    "Daily Mail",
+    "Foot Mercato",
+    "Football Italia",
+    "FourFourTwo",
+    "Google News EN",
+    "Guardian",
+    "L'Equipe",
+    "Mirror",
+    "Planet Football",
+    "Sky Sports",
+    "Telegraph",
+    "Yahoo",
+    "talkSPORT"
+   ],
+   "primera_vez": "2026-10-27T12:36+00:00",
+   "titulares": [
+    {
+     "medio": "BBC",
+     "titulo": "Quiz: Kane and who else? Name every men's Ballon d'Or winner",
+     "url": "https://www.bbc.co.uk/sport/football/articles/cn5q170dnwlo?at_medium=RSS&at_campaign=rss",
+     "pub": "2026-10-27T09:31+00:00"
+    },
+    {
+     "medio": "BBC",
+     "titulo": "Ballon d'Or winner Kane explains how his game has evolved",
+     "url": "https://www.bbc.co.uk/sport/football/videos/cwg7xevnyrjpo?at_medium=RSS&at_campaign=rss",
+     "pub": "2026-10-27T08:53+00:00"
+    },
+    {
+     "medio": "Guardian",
+     "titulo": "Kane’s Ballon d’Or triumph a glorious riposte to celebrity fawning of ceremony | Barney Ronay",
+     "url": "https://www.theguardian.com/football/2026/oct/27/harry-kane-ballon-dor-triumph-ceremony-barney-ronay",
+     "pub": "2026-10-27T08:00+00:00"
+    },
+    {
+     "medio": "Sky Sports",
+     "titulo": "'This one's for all of us' - Kane thanks fans after Ballon d'Or win",
+     "url": "https://www.skysports.com/watch/video/13604287/exclusive-harry-kane-talks-to-sky-sports-after-winning-ballondor",
+     "pub": "2026-10-27T09:11+00:00"
+    },
+    {
+     "medio": "talkSPORT",
+     "titulo": "Harry Kane Premier League transfer prediction made after England captain wins Ballon d’Or",
+     "url": "https://talksport.com/football/4670357/harry-kane-premier-league-transfer-return-prediction-ballon-dor/",
+     "pub": "2026-10-27T11:32+00:00"
+    },
+    {
+     "medio": "talkSPORT",
+     "titulo": "EFL star spotted celebrating with Harry Kane in lavish Ballon d’Or afterparty",
+     "url": "https://talksport.com/football/4670356/harry-kane-ballon-dor-party-matt-doherty-eric-dier/",
+     "pub": "2026-10-27T11:06+00:00"
+    },
+    {
+     "medio": "talkSPORT",
+     "titulo": "Razor thin points gap between Harry Kane and Kylian Mbappe revealed by Ballon d’Or chief",
+     "url": "https://talksport.com/football/4669930/harry-kane-kylian-mbappe-ballon-dor-points-gap/",
+     "pub": "2026-10-27T09:29+00:00"
+    },
+    {
+     "medio": "Daily Mail",
+     "titulo": "Harry Kane's Ballon d'Or disrespect row: French superstars Kylian Mbappe and Ousmane Dembele fail to stand to shake humble winner's hand - as it's revealed just how close vote was",
+     "url": "https://www.dailymail.com/sport/football/article-16241843/harry-kane-ballon-dor-row-mbappe-dembele.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+     "pub": "2026-10-27T12:17+00:00"
+    },
+    {
+     "medio": "Daily Mail",
+     "titulo": "Michael Owen involved in awkward Ballon d'Or exchange...as he is forced to tell reporter that he is a previous winner of the award!",
+     "url": "https://www.dailymail.com/sport/football/article-16241683/Michael-Owen-involved-awkward-Ballon-dOr-exchange-forced-tell-reporter-previous-winner-award.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+     "pub": "2026-10-27T11:26+00:00"
+    },
+    {
+     "medio": "Daily Mail",
+     "titulo": "MICHAEL OWEN: I was wrong about Harry Kane, he is England's best ever striker - and he wasn't even born with a finisher's instinct! Here's how Ballon d'Or winner became the greatest player in the world",
+     "url": "https://www.dailymail.com/sport/football/article-15877233/MICHAEL-OWEN-Harry-Kane-Englands-greatest-striker.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+     "pub": "2026-10-27T11:19+00:00"
+    },
+    {
+     "medio": "Daily Mail",
+     "titulo": "The Lionesses big night out! Hannah Hampton stuns on the red carpet as she leads England's Women in supporting Harry Kane at the Ballon d'Or ceremony in London",
+     "url": "https://www.dailymail.com/sport/football/article-16241539/hannah-hampton-lionesses-harry-kane-ballon-dor-london.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+     "pub": "2026-10-27T11:06+00:00"
+    },
+    {
+     "medio": "Daily Mail",
+     "titulo": "Inside Harry Kane's Ballon d'Or after-party: Wife Kate and his parents join England captain - wearing a £1m Rolex - at exclusive London nightclub - but champagne's kept to a minimum before he's back at training TODAY!",
+     "url": "https://www.dailymail.com/sport/football/article-16241541/harry-kane-kate-ballon-dor-kiss.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+     "pub": "2026-10-27T10:25+00:00"
+    }
+   ]
+  },
+  {
+   "tema": "Yamal",
+   "medios": 14,
+   "lista_medios": [
+    "AS",
+    "BBC",
+    "Daily Mail",
+    "Foot Mercato",
+    "Google News ES",
+    "Kicker",
+    "L'Equipe",
+    "Mirror",
+    "Mundo Deportivo",
+    "Ole",
+    "Planet Football",
+    "Record",
+    "Yahoo",
+    "ge.globo"
+   ],
+   "primera_vez": "2026-10-27T12:36+00:00",
+   "titulares": [
+    {
+     "medio": "Daily Mail",
+     "titulo": "Harry Kane wins the Ballon d'Or: England captain sends poignant message after emotional speech as he was named the world's best and beat Kylian Mbappe and Lamine Yamal",
+     "url": "https://www.dailymail.com/sport/football/article-16238931/Harry-Kane-wins-Ballon-dOr-England-captain-named-worlds-best-footballer-beating-Kylian-Mbappe-Lamine-Yamal-prize-glittering-ceremony-London.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+     "pub": "2026-10-27T10:00+00:00"
+    },
+    {
+     "medio": "Mirror",
+     "titulo": "Ballon d'Or judge who put Lionel Messi 3 places above Lamine Yamal explains controversial list",
+     "url": "https://www.mirror.co.uk/sport/football/news/ballon-dor-judge-messi-yamal-37813276",
+     "pub": "2026-10-27T11:52+00:00"
+    },
+    {
+     "medio": "Mirror",
+     "titulo": "Spanish media react to Harry Kane winning the Ballon d'Or as Lamine Yamal 'penalised'",
+     "url": "https://www.mirror.co.uk/sport/football/news/kane-ballon-dor-yamal-reaction-37813342",
+     "pub": "2026-10-27T08:35+00:00"
+    },
+    {
+     "medio": "Yahoo",
+     "titulo": "Barcelona president backs Lamine Yamal to win the Ballon d’Or after third-place finish: ‘I’m convinced’",
+     "url": "https://sports.yahoo.com/articles/barcelona-president-backs-lamine-yamal-102400306.html",
+     "pub": "2026-10-27T10:24+00:00"
+    },
+    {
+     "medio": "Mundo Deportivo",
+     "titulo": "Lamine Yamal reescribe la historia y sigue rompiendo récords",
+     "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261027/1004243786/lamine-yamal-reescribe-historia-sigue-rompiendo-records.html",
+     "pub": ""
+    },
+    {
+     "medio": "Google News ES",
+     "titulo": "Lamine Yamal se queda a las puertas y el fútbol español triunfa en el Balón de Oro",
+     "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxORlF2bTJKd0hfUFlNR1o2a1V0ZWEzZTJpOWNWX1hUVjVKclFfWE8tdm85RjEwTzJzVEdiQkpvOXk4RVpCcUtwMEVpTlNXYU9KS0dJcTc5Yk9VcDI0eWFlaVU0RlNvUGlncWcyNzNydU5NSFVnSmdONC1xRC1kQTN2TURVelVUOE1PT2F2Nm95ejVuWkFCMUtxVDU3MUdqclQwZkI5UkRpQjc2dFFaTkpDZTVmc05RY1JEYkkyZm5hNXJvbnY1TWR6M2RVVUlRX1NwM1HSAeYBQVVfeXFMUDJuaUNYdEhOLVZidjVuVHBQRFRJQmlGVWM0MGxvSlFKNWdfdXMtc1BtUEVaeDdKbEVZN0ptOFNXLTI3Z2ItVXJmQjhNMWVJbkNQSG9EUHY2T0NLS0VUajRvLWRXU3hCZHB5QjkxRmpiamdCcXpQVEFyRlplTEYtdXBtRXE5U3NSYnhLWnBzRFV6cFZWZGhPVGxGVmM2d1NaclFBeV84cEEtRktMbHJEMXVCZWFIaXY4SjhnWG10WElfaVFMNmRjOXp3Q1N4OXdBSkxONE1kMkc4M2lzTEh6dE1NbWdmSXc?oc=5",
+     "pub": "2026-10-27T09:31+00:00"
+    },
+    {
+     "medio": "Kicker",
+     "titulo": "Teamkollege im Verdacht: Warum wurde Lamine Yamal nur Dritter?",
+     "url": "https://www.kicker.de/teamkollege-im-verdacht-warum-wurde-lamine-yamal-nur-dritter-1265634/artikel#omrss",
+     "pub": "2026-10-27T09:28+00:00"
+    },
+    {
+     "medio": "L'Equipe",
+     "titulo": "Sacré au Ballon d'Or 2026 devant Mbappé et Lamine Yamal, Harry Kane déjà de retour avec le Bayern en Coupe d'Allemagne ?",
+     "url": "https://www.lequipe.fr/Football/Actualites/Sacre-au-ballon-d-or-2026-devant-mbappe-et-lamine-yamal-harry-kane-deja-de-retour-avec-le-bayern-en-coupe-d-allemagne/1739013#at_medium=RSS_feeds",
+     "pub": "2026-10-27T11:16+00:00"
+    },
+    {
+     "medio": "Foot Mercato",
+     "titulo": "Ballon d’Or 2026 : toute la Catalogne enrage pour Lamine Yamal",
+     "url": "https://www.footmercato.net/a1541866434397183340-ballon-dor-2026-toute-la-catalogne-enrage-pour-lamine-yamal",
+     "pub": "2026-10-27T07:33+00:00"
+    },
+    {
+     "medio": "Record",
+     "titulo": "<![CDATA[ Kane merece mais a Bola de Ouro do que Mbappé ou Yamal? Três respostas que explicam a vitória do inglês ]]>",
+     "url": "https://www.record.pt/multimedia/videos/detalhe/kane-merece-mais-a-bola-de-ouro-do-que-mbappe-ou-yamal-tres-respostas-que-explicam-a-vitoria-do-ingles",
+     "pub": "2026-10-27T12:17+00:00"
+    },
+    {
+     "medio": "Ole",
+     "titulo": "Un familiar de Yamal explotó tras el Balón de Oro: \"A Harry Kane le quedan tres días de fútbol\" y \"Lamine seguirá siendo el mejor del mundo\"",
+     "url": "https://www.ole.com.ar/futbol-internacional/lamine-yamal-harry-kane-balon-oro-familiar-tio-premio-dijo-quedan-dias-futbol_0_2EAlq5mgYL.html",
+     "pub": "2026-10-27T12:10+00:00"
+    },
+    {
+     "medio": "Planet Football",
+     "titulo": "Planet Football’s definitive best XI in world football: Rodri, Yamal, Kane but no Mbappe…",
+     "url": "https://www.planetfootball.com/lists-and-rankings/best-xi-team-world-football-every-position",
+     "pub": "2026-10-27T14:23+00:00"
+    }
+   ]
+  },
+  {
+   "tema": "China",
+   "medios": 14,
+   "lista_medios": [
+    "AS",
+    "Daily Mail",
+    "Google News EN",
+    "Google News ES",
+    "Guardian",
+    "Infobae",
+    "Kicker",
+    "Mirror",
+    "Mundo Deportivo",
+    "Ole",
+    "Record",
     "Yahoo",
     "ge.globo",
     "talkSPORT"
@@ -889,76 +896,76 @@
    "primera_vez": "2026-10-27T12:36+00:00",
    "titulares": [
     {
-     "medio": "BBC",
-     "titulo": "Carrick to stay in charge of Man Utd for Chelsea game",
-     "url": "https://www.bbc.co.uk/sport/football/articles/crlykgeqzypyo?at_medium=RSS&at_campaign=rss",
-     "pub": "2026-10-27T12:10+00:00"
+     "medio": "Mirror",
+     "titulo": "Kylian Mbappe forced into China apology after sponsors cut ties over Mao Zedong meme",
+     "url": "https://www.mirror.co.uk/sport/football/news/kylian-mbappe-china-meme-zedong-37813941",
+     "pub": "2026-10-27T10:40+00:00"
     },
     {
-     "medio": "Guardian",
-     "titulo": "Carrick given chance to save job as he stays for Manchester United’s game at Chelsea",
-     "url": "https://www.theguardian.com/football/2026/oct/27/manchester-united-eddie-howe-newcastle-compensation-michael-carrick",
-     "pub": "2026-10-27T12:21+00:00"
+     "medio": "Yahoo",
+     "titulo": "Kylian Mbappe apologises to China after backlash over controversial comment: ‘I am sincerely sorry’",
+     "url": "https://sports.yahoo.com/articles/kylian-mbappe-apologises-china-backlash-115800069.html",
+     "pub": "2026-10-27T11:58+00:00"
     },
     {
-     "medio": "Sky Sports",
-     "titulo": "Carrick to remain in charge of Man Utd for Chelsea trip",
-     "url": "https://www.skysports.com/football/news/12040/13604347/man-utd-boss-michael-carrick-to-remain-in-charge-vs-chelsea-and-given-chance-to-turn-situation-around",
-     "pub": "2026-10-27T12:03+00:00"
+     "medio": "Yahoo",
+     "titulo": "Tebas, La Liga issue official apology to China over Kylian Mbappe controversy",
+     "url": "https://sports.yahoo.com/articles/tebas-la-liga-issue-official-114700676.html",
+     "pub": "2026-10-27T11:47+00:00"
     },
     {
-     "medio": "Sky Sports",
-     "titulo": "Are Chelsea back? Have Man Utd weathered early-season storm?",
-     "url": "https://www.skysports.com/football/news/12040/13604005/are-chelsea-finally-playing-the-brand-of-football-sonia-bompastor-wants-and-is-it-wsl-title-worthy",
-     "pub": "2026-10-27T11:45+00:00"
+     "medio": "Yahoo",
+     "titulo": "🚨 La Liga apologises to China: we regret Mbappé's comments",
+     "url": "https://sports.yahoo.com/articles/la-liga-apologises-china-regret-110200062.html",
+     "pub": "2026-10-27T11:02+00:00"
+    },
+    {
+     "medio": "Google News ES",
+     "titulo": "China suspende la emisión de los partidos de fútbol en los que aparezca Mbappé tras llamar dictador a Mao por un meme",
+     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNOXdfS1djd2NGT1hvOXp5bE9vTThlZVBvNUhIcjF6UHUyWDVBaGd5ZE90d3VDNFRMZXJ6QXZDcUlOV2N4UWxQLTc4WUgybXZkYms3dmR0VEY1SU55Y2VuMF9XVlJ2alp5bkZQeE9oRlhQSkFuYUhsdFBrMUhoTk5oOHlYZWpIQnQ5RmVQNy14VHZmeHhkTWVobEdCWmt3RFE2bHQ0OUx0WE5SMGZTaC1sQnhWNFpCZVdJdmNDS3lIZGt4cVRaM1HSAcsBQVVfeXFMT2N2UkNQWHU3Rkw4cG1nWWFOcEFXZjlZRkdhWl9XemRqcmFMSWlZclhnUmw5RGFUeEhCNlNUN241dm80UWlXalJFQnJqYVAzeWUtbVEzbDJsbzEwSkZ0ZEQydDlMRmhiSWRNNjF0dDh0QjJjWHBlc1FhMV95SnBsSlJDbkJON2JSaDBtUkZReWZiX0tQcmpoVmEybHhLcnAxSTZxdTlKUU1waHBOV3FLdUNId0EtSjBFV0syTXE5LXQ0eEFzSUlTQnNnTGc?oc=5",
+     "pub": "2026-10-27T10:07+00:00"
+    },
+    {
+     "medio": "Record",
+     "titulo": "<![CDATA[ China rejeita declarações que \"firam sentimentos do povo chinês\" após polémica com Mbappé ]]>",
+     "url": "https://www.record.pt/internacional/paises/espanha/real-madrid/detalhe/china-rejeita-declaracoes-que-firam-sentimentos-do-povo-chines-apos-polemica-com-mbappe",
+     "pub": "2026-10-27T09:42+00:00"
     },
     {
      "medio": "talkSPORT",
-     "titulo": "Michael Carrick given more time at Man United and will be in charge for Chelsea game",
-     "url": "https://talksport.com/football/4670880/man-united-michael-carrick-more-time-chelsea/",
-     "pub": "2026-10-27T12:10+00:00"
+     "titulo": "Kylian Mbappe forced to apologise for Mao Zedong joke after backlash in China",
+     "url": "https://talksport.com/football/4671124/kylian-mbappe-apology-chairman-mao-meme-chinese-backlash/",
+     "pub": "2026-10-27T14:56+00:00"
+    },
+    {
+     "medio": "Mundo Deportivo",
+     "titulo": "El Madrid, afectado por la polémica de Mbappé en China",
+     "url": "https://www.mundodeportivo.com/futbol/real-madrid/20261027/1004243909/madrid-afectado-polemica-mbappe-china.html",
+     "pub": ""
+    },
+    {
+     "medio": "Mundo Deportivo",
+     "titulo": "El 'meme' de Mbappé que enfadó a China",
+     "url": "https://www.mundodeportivo.com/futbol/real-madrid/20261027/1004243895/meme-mbappe-enfado-china.html",
+     "pub": ""
+    },
+    {
+     "medio": "Infobae",
+     "titulo": "Mbappé pide perdón a China tras la polémica con el ‘meme’ de Mao Zedong: “Tengo un profundo respeto por el pueblo chino y su historia, estoy sinceramente arrepentido”",
+     "url": "https://www.infobae.com/espana/cultura/2026/10/27/mbappe-pide-perdon-a-china-tras-la-polemica-con-el-meme-de-mao-zedong-tengo-un-profundo-respeto-por-el-pueblo-chino-y-su-historia-estoy-sinceramente-arrepentido/",
+     "pub": "2026-10-27T13:06+00:00"
+    },
+    {
+     "medio": "Guardian",
+     "titulo": "Kylian Mbappé’s China crisis shows how sensitive Mao’s legacy remains",
+     "url": "https://www.theguardian.com/football/2026/oct/28/kylian-mbappe-china-crisis-shows-how-sensitive-maos-legacy-remains",
+     "pub": "2026-10-28T10:00+00:00"
     },
     {
      "medio": "Daily Mail",
-     "titulo": "Michael Carrick is STAYING: Man United decide against wielding axe after day of crisis talks - with under-pressure boss taking training today ahead of trip to Chelsea",
-     "url": "https://www.dailymail.com/sport/football/article-16242375/Michael-Carrick-STAYING-Man-United-decide-against-sacking-fire-boss-day-crisis-talks.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-     "pub": "2026-10-27T12:31+00:00"
-    },
-    {
-     "medio": "Mirror",
-     "titulo": "Michael Carrick future LIVE: Man Utd make decision for Chelsea as players and staff informed",
-     "url": "https://www.mirror.co.uk/sport/football/news/man-united-manager-latest-live-37813167",
-     "pub": "2026-10-27T12:04+00:00"
-    },
-    {
-     "medio": "Yahoo",
-     "titulo": "Michael Carrick avoids sack for now and will take charge of Man United game with Chelsea",
-     "url": "https://sports.yahoo.com/articles/michael-carrick-avoids-sack-now-122350426.html",
-     "pub": "2026-10-27T12:23+00:00"
-    },
-    {
-     "medio": "Yahoo",
-     "titulo": "Alonso has new headaches at Chelsea in big week",
-     "url": "https://sports.yahoo.com/articles/alonso-headaches-chelsea-big-week-115544391.html",
-     "pub": "2026-10-27T11:55+00:00"
-    },
-    {
-     "medio": "Yahoo",
-     "titulo": "Liverpool could receive double injury boost ahead of Chelsea clash",
-     "url": "https://sports.yahoo.com/articles/liverpool-could-receive-double-injury-105000480.html",
-     "pub": "2026-10-27T10:50+00:00"
-    },
-    {
-     "medio": "Google News EN",
-     "titulo": "Michael Carrick to stay in charge of Man Utd for Chelsea game",
-     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBRSE5xRzZGSGV6Z0tidjdfZjM4UVF4VHhrVlNZdEhBcEVyOXJPNFA1QzJ4MVlCcHUyWk5EZG9FanI0UlVhaU5RT0d1aTlDemZuUldROTlyLTFIanpzdm02UTNfTlhoOEJaMkpF?oc=5",
-     "pub": "2026-10-27T12:10+00:00"
-    },
-    {
-     "medio": "Google News EN",
-     "titulo": "Are Chelsea finally playing the brand of football Sonia Bompastor wants - and is it WSL title-worthy?",
-     "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNcFBaMFl6M3M1M3ZBYlJKT252VWV4TGpNRnZ2Z053SGVNb3NhZUNUamVxVEVCeDhZNFVEUWpFS29oc2xrZkYtR0F1TnFwV2VOM0t4SDIzbTQ0dHEzV2xfMW8zSW9BRUU1My1NTVZ4NTlOcTR0ZTZjTF9RRVRnRTU0UWNVckhGVk0zbVRsSTNKUWgtSFJhQXZVY3pMYWxpV1RtLVhxMHVuRGZwX200YXlWbmljMXd6ZTlQeEVoRmFKSW12Vy1sTWdxbmg4Rk90Z3dCQ1dHdXJKOEJjZ3lIcTZpSQ?oc=5",
-     "pub": "2026-10-27T12:14+00:00"
+     "titulo": "Kylian Mbappe's China row explodes as state broadcaster stands by Real Madrid blackout and REJECTS apology following 'dictator' Chairman Mao quip",
+     "url": "https://www.dailymail.com/sport/football/article-16245009/kylian-mbappe-real-madrid-chairman-mao-china.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+     "pub": "2026-10-28T10:43+00:00"
     }
    ]
   },
@@ -1234,10 +1241,10 @@
      "pub": "2026-10-27T11:32+00:00"
     },
     {
-     "medio": "Google News EN",
-     "titulo": "Thierry Henry, Kylian Mbappe, Zlatan Ibrahimovic and the rise of fake football quotes",
-     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOb25NS1NMQnFSMVNmU2RHcEVTVEo1alhfRC1tdWQ0LXpKTV9zbF9iak5EWjFTWkhCOFRvVGFXM1lhbHNsUlBCWXE3VjFhMkxZdUNZbm50QUlRMjNJdm0tdVVKODVtMmZiTEtsall6OGltY2FRemljZVVacGREcFJ2cWFubG5QRGtNUkFSNmZEZw?oc=5",
-     "pub": "2026-10-27T02:41+00:00"
+     "medio": "Mundo Deportivo",
+     "titulo": "¡Boicot a Kylian Mbappé!",
+     "url": "https://www.mundodeportivo.com/futbol/real-madrid/20261027/1004243670/boicot-kylian-mbappe.html",
+     "pub": ""
     }
    ]
   },
@@ -1335,6 +1342,99 @@
    ]
   },
   {
+   "tema": "Fernandes",
+   "medios": 12,
+   "lista_medios": [
+    "BBC",
+    "Daily Mail",
+    "Foot Mercato",
+    "FourFourTwo",
+    "Google News EN",
+    "Guardian",
+    "Mirror",
+    "Mundo Deportivo",
+    "Record",
+    "Sky Sports",
+    "Yahoo",
+    "talkSPORT"
+   ],
+   "primera_vez": "2026-10-27T12:36+00:00",
+   "titulares": [
+    {
+     "medio": "talkSPORT",
+     "titulo": "Bruno Fernandes tipped to leave Manchester United: ‘It’s coming to an end’",
+     "url": "https://talksport.com/football/4669986/bruno-fernandes-leave-manchester-united-transfer-next-club/",
+     "pub": "2026-10-27T10:13+00:00"
+    },
+    {
+     "medio": "Mirror",
+     "titulo": "Why Bruno Fernandes was at Carrington as Michael Carrick crisis talks took place",
+     "url": "https://www.mirror.co.uk/sport/football/news/man-utd-bruno-fernandes-carrick-37813515",
+     "pub": "2026-10-27T09:24+00:00"
+    },
+    {
+     "medio": "FourFourTwo",
+     "titulo": "Bruno Fernandes' Atletico Madrid January move 'accelerating', after Manchester United fallout: report",
+     "url": "https://www.fourfourtwo.com/transfer/bruno-fernandes-atletico-madrid-january-move-accelerating-after-manchester-united-fallout-report",
+     "pub": "2026-10-27T12:00+00:00"
+    },
+    {
+     "medio": "Record",
+     "titulo": "<![CDATA[ Scholes ataca Bruno Fernandes: «Tem de sair do futebol europeu…» ]]>",
+     "url": "https://www.record.pt/internacional/paises/inglaterra/detalhe/scholes-ataca-bruno-fernandes-tem-de-sair-do-futebol-europeu",
+     "pub": "2026-10-27T17:28+00:00"
+    },
+    {
+     "medio": "BBC",
+     "titulo": "Carrick and Fernandes hold clear-the-air talks",
+     "url": "https://www.bbc.co.uk/sport/football/articles/cje36dn5nx36o?at_medium=RSS&at_campaign=rss",
+     "pub": "2026-10-28T11:48+00:00"
+    },
+    {
+     "medio": "Guardian",
+     "titulo": "Fernandes tells Carrick he is committed to turning season around in clear-the-air talks",
+     "url": "https://www.theguardian.com/football/2026/oct/28/bruno-fernandes-michael-carrick-clear-the-air-talks-manchester-united",
+     "pub": "2026-10-28T12:47+00:00"
+    },
+    {
+     "medio": "Sky Sports",
+     "titulo": "Carrick and Fernandes hold clear-the-air talks ahead of Chelsea fixture",
+     "url": "https://www.skysports.com/football/news/12040/13604738/bruno-fernandes-man-utd-head-coach-michael-carrick-and-club-captain-hold-clear-the-air-talks-ahead-of-chelsea-fixture",
+     "pub": "2026-10-28T10:39+00:00"
+    },
+    {
+     "medio": "Daily Mail",
+     "titulo": "Paul Scholes tells Bruno Fernandes he's FINISHED as Man United captain - and should 'just go to Saudi Arabia to get out of the way' - after 'unforgivable' public criticism of Michael Carrick",
+     "url": "https://www.dailymail.com/sport/football/article-16243615/paul-scholes-bruno-fernandes-finished-captain.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+     "pub": "2026-10-28T11:29+00:00"
+    },
+    {
+     "medio": "Daily Mail",
+     "titulo": "Michael Carrick holds Carrington summit with Bruno Fernandes amid tension between Man United boss and captain after Bournemouth snub and 'loyalty' dig",
+     "url": "https://www.dailymail.com/sport/football/article-16245475/michael-carrick-bruno-fernandes-man-united-carrington.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+     "pub": "2026-10-28T12:12+00:00"
+    },
+    {
+     "medio": "Mirror",
+     "titulo": "Bruno Fernandes broke rank with message to sacked manager - now everything has changed",
+     "url": "https://www.mirror.co.uk/sport/football/news/bruno-fernandes-man-utd-sacked-37818514",
+     "pub": "2026-10-28T13:08+00:00"
+    },
+    {
+     "medio": "Mirror",
+     "titulo": "Michael Carrick makes Bruno Fernandes decision for Chelsea after crunch Man Utd talks",
+     "url": "https://www.mirror.co.uk/sport/football/news/bruno-fernandes-man-utd-carrick-37817491",
+     "pub": "2026-10-28T09:27+00:00"
+    },
+    {
+     "medio": "Mirror",
+     "titulo": "Paul Scholes tells Bruno Fernandes he's 'finished' at Man Utd - 'Just go to Saudi'",
+     "url": "https://www.mirror.co.uk/sport/football/news/bruno-fernandes-man-utd-transfer-37817210",
+     "pub": "2026-10-28T08:13+00:00"
+    }
+   ]
+  },
+  {
    "tema": "Lamine",
    "medios": 12,
    "lista_medios": [
@@ -1424,6 +1524,191 @@
      "titulo": "Ballon d’Or 2026 : toute la Catalogne enrage pour Lamine Yamal",
      "url": "https://www.footmercato.net/a1541866434397183340-ballon-dor-2026-toute-la-catalogne-enrage-pour-lamine-yamal",
      "pub": "2026-10-27T07:33+00:00"
+    }
+   ]
+  },
+  {
+   "tema": "Liverpool",
+   "medios": 12,
+   "lista_medios": [
+    "BBC",
+    "Daily Mail",
+    "FourFourTwo",
+    "Google News AR",
+    "Google News EN",
+    "Guardian",
+    "L'Equipe",
+    "Mirror",
+    "Planet Football",
+    "Sky Sports",
+    "Yahoo",
+    "talkSPORT"
+   ],
+   "primera_vez": "2026-10-27T12:36+00:00",
+   "titulares": [
+    {
+     "medio": "Mirror",
+     "titulo": "Trent Alexander-Arnold gets Liverpool return transfer approval as 'Real Madrid don't want him'",
+     "url": "https://www.mirror.co.uk/sport/football/news/liverpool-trent-return-real-madrid-37813590",
+     "pub": "2026-10-27T09:48+00:00"
+    },
+    {
+     "medio": "Yahoo",
+     "titulo": "Andoni Iraola making huge Liverpool mistake after major transfer development",
+     "url": "https://sports.yahoo.com/articles/andoni-iraola-making-huge-liverpool-120500909.html",
+     "pub": "2026-10-27T12:05+00:00"
+    },
+    {
+     "medio": "Yahoo",
+     "titulo": "Andoni Iraola green lights Liverpool move for £30m-rated star",
+     "url": "https://sports.yahoo.com/articles/andoni-iraola-green-lights-liverpool-115000693.html",
+     "pub": "2026-10-27T11:50+00:00"
+    },
+    {
+     "medio": "Yahoo",
+     "titulo": "Former Liverpool star could be set to land Premier League managerial role",
+     "url": "https://sports.yahoo.com/articles/former-liverpool-star-could-set-105000763.html",
+     "pub": "2026-10-27T10:50+00:00"
+    },
+    {
+     "medio": "Yahoo",
+     "titulo": "Liverpool could receive double injury boost ahead of Chelsea clash",
+     "url": "https://sports.yahoo.com/articles/liverpool-could-receive-double-injury-105000480.html",
+     "pub": "2026-10-27T10:50+00:00"
+    },
+    {
+     "medio": "Yahoo",
+     "titulo": "How are the stars Liverpool loaned out getting on?",
+     "url": "https://sports.yahoo.com/articles/stars-liverpool-loaned-getting-102500783.html",
+     "pub": "2026-10-27T10:25+00:00"
+    },
+    {
+     "medio": "Yahoo",
+     "titulo": "Jose Mourinho wants Real Madrid to sign Liverpool star in huge deal",
+     "url": "https://sports.yahoo.com/articles/jose-mourinho-wants-real-madrid-095000194.html",
+     "pub": "2026-10-27T09:50+00:00"
+    },
+    {
+     "medio": "talkSPORT",
+     "titulo": "Florian Wirtz is better without injured Liverpool teammate – and the stats back it up",
+     "url": "https://talksport.com/football/4671143/florian-wirtz-better-without-dominik-szoboszlai-injury-liverpool-stats/",
+     "pub": "2026-10-27T17:38+00:00"
+    },
+    {
+     "medio": "talkSPORT",
+     "titulo": "Virgil van Dijk is past his best but still crucial to possible Liverpool title challenge",
+     "url": "https://talksport.com/football/4671165/virgil-van-dijk-liverpool-title-challenge-past-best/",
+     "pub": "2026-10-27T16:00+00:00"
+    },
+    {
+     "medio": "talkSPORT",
+     "titulo": "Liverpool v Chelsea LIVE commentary: Changes expected for glamour Carabao Cup tie at Anfield",
+     "url": "https://talksport.com/football/4671053/liverpool-v-chelsea-commentary-team-score-free-live-stream-channel/",
+     "pub": "2026-10-27T14:04+00:00"
+    },
+    {
+     "medio": "Daily Mail",
+     "titulo": "Xabi Alonso is back at Anfield - this is how close he really came to taking the Liverpool job (twice), and why he chose Chelsea instead",
+     "url": "https://www.dailymail.com/sport/football/article-16241831/Xabi-Alonso-Liverpool-Chelsea-Klopp-Slot.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+     "pub": "2026-10-27T18:11+00:00"
+    },
+    {
+     "medio": "Mirror",
+     "titulo": "Harvey Elliott facing nervous wait after Liverpool outcast's public apology",
+     "url": "https://www.mirror.co.uk/sport/football/news/liverpool-valencia-harvey-elliott-aguirre-37816419",
+     "pub": "2026-10-27T18:34+00:00"
+    }
+   ]
+  },
+  {
+   "tema": "Man",
+   "medios": 11,
+   "lista_medios": [
+    "BBC",
+    "Daily Mail",
+    "Foot Mercato",
+    "Football Italia",
+    "Google News EN",
+    "Mirror",
+    "Planet Football",
+    "Record",
+    "Sky Sports",
+    "Yahoo",
+    "talkSPORT"
+   ],
+   "primera_vez": "2026-10-27T12:36+00:00",
+   "titulares": [
+    {
+     "medio": "BBC",
+     "titulo": "Carrick to stay in charge of Man Utd for Chelsea game",
+     "url": "https://www.bbc.co.uk/sport/football/articles/crlykgeqzypyo?at_medium=RSS&at_campaign=rss",
+     "pub": "2026-10-27T12:10+00:00"
+    },
+    {
+     "medio": "Sky Sports",
+     "titulo": "Carrick to remain in charge of Man Utd for Chelsea trip",
+     "url": "https://www.skysports.com/football/news/12040/13604347/man-utd-boss-michael-carrick-to-remain-in-charge-vs-chelsea-and-given-chance-to-turn-situation-around",
+     "pub": "2026-10-27T12:03+00:00"
+    },
+    {
+     "medio": "Sky Sports",
+     "titulo": "Are Chelsea back? Have Man Utd weathered early-season storm?",
+     "url": "https://www.skysports.com/football/news/12040/13604005/are-chelsea-finally-playing-the-brand-of-football-sonia-bompastor-wants-and-is-it-wsl-title-worthy",
+     "pub": "2026-10-27T11:45+00:00"
+    },
+    {
+     "medio": "talkSPORT",
+     "titulo": "Michael Carrick given more time at Man United and will be in charge for Chelsea game",
+     "url": "https://talksport.com/football/4670880/man-united-michael-carrick-more-time-chelsea/",
+     "pub": "2026-10-27T12:10+00:00"
+    },
+    {
+     "medio": "talkSPORT",
+     "titulo": "Get 40/1 on neither Man City nor Man Utd to be in the Premier League next season",
+     "url": "https://talksport.com/football/4670460/man-city-man-utd-premier-league-relegation-betting-offer/",
+     "pub": "2026-10-27T11:51+00:00"
+    },
+    {
+     "medio": "talkSPORT",
+     "titulo": "Transfer Notebook: Man United face compensation bill to hire ex-Newcastle boss Eddie Howe",
+     "url": "https://talksport.com/football/4669939/transfer-notebook-man-united-eddie-howe-newcastle/",
+     "pub": "2026-10-27T08:55+00:00"
+    },
+    {
+     "medio": "Daily Mail",
+     "titulo": "Michael Carrick is STAYING: Man United decide against wielding axe after day of crisis talks - with under-pressure boss taking training today ahead of trip to Chelsea",
+     "url": "https://www.dailymail.com/sport/football/article-16242375/Michael-Carrick-STAYING-Man-United-decide-against-sacking-fire-boss-day-crisis-talks.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+     "pub": "2026-10-27T12:31+00:00"
+    },
+    {
+     "medio": "Daily Mail",
+     "titulo": "What should Man United's beleaguered chiefs do next? With manager Michael Carrick still waiting for a verdict on his future after day of crisis talks, our experts have their say...",
+     "url": "https://www.dailymail.com/sport/football/article-16241795/What-Man-Uniteds-beleaguered-chiefs-manager-Michael-Carrick-limbo-day-crisis-talks-experts-say.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+     "pub": "2026-10-27T11:07+00:00"
+    },
+    {
+     "medio": "Daily Mail",
+     "titulo": "'What the f*** are you doing? Stick a firework up their a**e!': Wayne Rooney launches f-word rant about Man United players letting down close friend Michael Carrick",
+     "url": "https://www.dailymail.com/sport/football/article-16242151/Wayne-Rooney-Man-United-Michael-Carrick-sack.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+     "pub": "2026-10-27T12:18+00:00"
+    },
+    {
+     "medio": "Mirror",
+     "titulo": "Michael Carrick keeps his job as Man Utd chiefs give under-fire boss another chance",
+     "url": "https://www.mirror.co.uk/sport/football/news/man-utd-carrick-keeping-job-37814620",
+     "pub": "2026-10-27T12:20+00:00"
+    },
+    {
+     "medio": "Mirror",
+     "titulo": "Michael Carrick future LIVE: Man Utd make decision for Chelsea as players and staff informed",
+     "url": "https://www.mirror.co.uk/sport/football/news/man-united-manager-latest-live-37813167",
+     "pub": "2026-10-27T12:04+00:00"
+    },
+    {
+     "medio": "Mirror",
+     "titulo": "Entitled Man Utd fans don't deserve Eddie Howe if they can't see that he's the perfect fit",
+     "url": "https://www.mirror.co.uk/sport/football/eddie-howe-newcastle-man-utd-37814141",
+     "pub": "2026-10-27T11:17+00:00"
     }
    ]
   },
@@ -1520,16 +1805,17 @@
    ]
   },
   {
-   "tema": "Man",
-   "medios": 10,
+   "tema": "Arteta",
+   "medios": 11,
    "lista_medios": [
     "BBC",
     "Daily Mail",
     "Foot Mercato",
+    "FourFourTwo",
     "Google News EN",
+    "Guardian",
+    "L'Equipe",
     "Mirror",
-    "Planet Football",
-    "Record",
     "Sky Sports",
     "Yahoo",
     "talkSPORT"
@@ -1537,76 +1823,168 @@
    "primera_vez": "2026-10-27T12:36+00:00",
    "titulares": [
     {
+     "medio": "Daily Mail",
+     "titulo": "Why Mikel Arteta is so impressed by Ceadach O'Neill, Arsenal's prolific 18-year-old vying for his first-team debut against Fleetwood - and how he's justifying Gunners' new recruitment drive",
+     "url": "https://www.dailymail.com/sport/football/article-16240027/Arsenal-Ceadach-ONeill-Mikel-Arteta.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+     "pub": "2026-10-27T10:21+00:00"
+    },
+    {
+     "medio": "Foot Mercato",
+     "titulo": "Arsenal : Mikel Arteta menace de filmer les sorties de zone technique de ses concurrents",
+     "url": "https://www.footmercato.net/a2608165765972803862-arsenal-mikel-arteta-menace-de-filmer-les-sorties-de-zone-technique-de-ses-concurrents",
+     "pub": "2026-10-27T07:09+00:00"
+    },
+    {
      "medio": "BBC",
-     "titulo": "Carrick to stay in charge of Man Utd for Chelsea game",
-     "url": "https://www.bbc.co.uk/sport/football/articles/crlykgeqzypyo?at_medium=RSS&at_campaign=rss",
-     "pub": "2026-10-27T12:10+00:00"
+     "titulo": "Dowman sees red as Arsenal dumped out, but did Arteta go too far?",
+     "url": "https://www.bbc.co.uk/sport/football/articles/cmg47g7dngxlo?at_medium=RSS&at_campaign=rss",
+     "pub": "2026-10-28T00:34+00:00"
     },
     {
      "medio": "Sky Sports",
-     "titulo": "Carrick to remain in charge of Man Utd for Chelsea trip",
-     "url": "https://www.skysports.com/football/news/12040/13604347/man-utd-boss-michael-carrick-to-remain-in-charge-vs-chelsea-and-given-chance-to-turn-situation-around",
-     "pub": "2026-10-27T12:03+00:00"
-    },
-    {
-     "medio": "Sky Sports",
-     "titulo": "Are Chelsea back? Have Man Utd weathered early-season storm?",
-     "url": "https://www.skysports.com/football/news/12040/13604005/are-chelsea-finally-playing-the-brand-of-football-sonia-bompastor-wants-and-is-it-wsl-title-worthy",
-     "pub": "2026-10-27T11:45+00:00"
+     "titulo": "Arteta explains reaction to Dowman red card amid criticism",
+     "url": "https://www.skysports.com/football/news/12040/13604637/max-dowman-red-card-mikel-arteta-explains-what-he-said-to-16-year-old-after-sending-off-in-carabao-cup-exit-to-fleetwood-town",
+     "pub": "2026-10-28T11:21+00:00"
     },
     {
      "medio": "talkSPORT",
-     "titulo": "Michael Carrick given more time at Man United and will be in charge for Chelsea game",
-     "url": "https://talksport.com/football/4670880/man-united-michael-carrick-more-time-chelsea/",
-     "pub": "2026-10-27T12:10+00:00"
-    },
-    {
-     "medio": "talkSPORT",
-     "titulo": "Get 40/1 on neither Man City nor Man Utd to be in the Premier League next season",
-     "url": "https://talksport.com/football/4670460/man-city-man-utd-premier-league-relegation-betting-offer/",
-     "pub": "2026-10-27T11:51+00:00"
-    },
-    {
-     "medio": "talkSPORT",
-     "titulo": "Transfer Notebook: Man United face compensation bill to hire ex-Newcastle boss Eddie Howe",
-     "url": "https://talksport.com/football/4669939/transfer-notebook-man-united-eddie-howe-newcastle/",
-     "pub": "2026-10-27T08:55+00:00"
+     "titulo": "Mikel Arteta swerves question on Max Dowman red card but Arsenal manager’s death stare said it all",
+     "url": "https://talksport.com/football/4672240/mikel-arteta-max-dowman-red-card-reaction-death-stare/",
+     "pub": "2026-10-27T23:20+00:00"
     },
     {
      "medio": "Daily Mail",
-     "titulo": "Michael Carrick is STAYING: Man United decide against wielding axe after day of crisis talks - with under-pressure boss taking training today ahead of trip to Chelsea",
-     "url": "https://www.dailymail.com/sport/football/article-16242375/Michael-Carrick-STAYING-Man-United-decide-against-sacking-fire-boss-day-crisis-talks.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-     "pub": "2026-10-27T12:31+00:00"
+     "titulo": "Arsenal's defeat by Fleetwood is the greatest upset in the history of the Carabao Cup: Premier League champions sunk by League Two side on dismal night for Mikel Arteta, writes OLIVER HOLT",
+     "url": "https://www.dailymail.com/sport/football/article-16241981/arsenal-fleetwood-town-carabao-cup-giant-killing.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+     "pub": "2026-10-28T12:15+00:00"
     },
     {
      "medio": "Daily Mail",
-     "titulo": "What should Man United's beleaguered chiefs do next? With manager Michael Carrick still waiting for a verdict on his future after day of crisis talks, our experts have their say...",
-     "url": "https://www.dailymail.com/sport/football/article-16241795/What-Man-Uniteds-beleaguered-chiefs-manager-Michael-Carrick-limbo-day-crisis-talks-experts-say.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-     "pub": "2026-10-27T11:07+00:00"
+     "titulo": "Mikel Arteta FUMES at Max Dowman after Arsenal star, 16, sent off in shock Carabao Cup defeat by Fleetwood as Gunners manager's angry reaction is caught on camera",
+     "url": "https://www.dailymail.com/sport/football/article-16244085/Mikel-Arteta-FUMES-Max-Dowman-Arsenal-star-16-sent-shock-Carabao-Cup-defeat-Fleetwood.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+     "pub": "2026-10-28T10:26+00:00"
+    },
+    {
+     "medio": "Mirror",
+     "titulo": "Arsenal make fresh Max Dowman decision after Fleetwood red and Mikel Arteta anger",
+     "url": "https://www.mirror.co.uk/sport/football/news/arsenal-max-dowman-red-appeal-37818325",
+     "pub": "2026-10-28T11:39+00:00"
+    },
+    {
+     "medio": "Mirror",
+     "titulo": "'I coached Mikel Arteta, Andoni Iraola and Xabi Alonso – one stood out as a future boss'",
+     "url": "https://www.mirror.co.uk/sport/football/news/arteta-alonso-iraola-future-manager-37817386",
+     "pub": "2026-10-28T09:23+00:00"
+    },
+    {
+     "medio": "Mirror",
+     "titulo": "Mikel Arteta confirms triple Arsenal injury blow ahead of Liverpool clash",
+     "url": "https://www.mirror.co.uk/sport/football/news/arteta-arsenal-calafiori-madueke-rice-37817090",
+     "pub": "2026-10-28T07:01+00:00"
+    },
+    {
+     "medio": "Mirror",
+     "titulo": "Arsenal news: Mikel Arteta sent clear transfer message as £77m star responds to exit claims",
+     "url": "https://www.mirror.co.uk/sport/football/news/arsenal-transfer-news-williams-tresoldi-37815190",
+     "pub": "2026-10-28T04:00+00:00"
+    },
+    {
+     "medio": "Mirror",
+     "titulo": "Mikel Arteta facing fierce criticism as Arsenal boss hints at what he told Max Dowman",
+     "url": "https://www.mirror.co.uk/sport/football/news/mikel-arteta-max-dowman-arsenal-37816881",
+     "pub": "2026-10-27T22:54+00:00"
+    }
+   ]
+  },
+  {
+   "tema": "Bayern",
+   "medios": 11,
+   "lista_medios": [
+    "Daily Mail",
+    "Foot Mercato",
+    "Google News EN",
+    "Google News ES",
+    "Kicker",
+    "L'Equipe",
+    "Mundo Deportivo",
+    "Ole",
+    "Planet Football",
+    "Yahoo",
+    "ge.globo"
+   ],
+   "primera_vez": "2026-10-27T12:36+00:00",
+   "titulares": [
+    {
+     "medio": "Yahoo",
+     "titulo": "From jinxed to Ballon d'Or! Kane's Bayern turnaround in just 18 months",
+     "url": "https://sports.yahoo.com/articles/jinxed-ballon-dor-kanes-bayern-105700912.html",
+     "pub": "2026-10-27T10:57+00:00"
+    },
+    {
+     "medio": "Google News EN",
+     "titulo": "Harry Kane wins 2026 Ballon d'Or: Bayern Munich striker becomes first English winner of award in 25 years",
+     "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPOGxQTlRYY1o5eXBzai1LZndVQnZ3Tm9GcENiVTdJT3huSXpqdlkyWW1oUk9xajJlTTd5d2ZNUklFQzVPTmt1bm9ucUttMUlTcGFuck9aeE5tN2hrRVlXSVJQYV9NdG55UVdLWGNJNjBQMW5TdHJkTHl2N1VMb2tkUzFiUkJWNUdMTFVBWC1ZdnhiS1FxY1R4SmM0RVBzckdjLXlTazQySUNsZ0FJT2FHWDlwU3dLTTdjZml6YjV2dXdCdEtTLXViSlZKM2VBNUEwY3VjQkVxcVE1STBiaFBfUUlFTFhsNUk?oc=5",
+     "pub": "2026-10-27T08:13+00:00"
+    },
+    {
+     "medio": "Google News ES",
+     "titulo": "¡El rey del fútbol! Bayern reconoce a Kane",
+     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOVFhwVFBlRWg5Ylo0V1BPeWNJSGZOY0xwWnRVZVp6aXVxUHJIQlFfZ3dnRUhkcTZGMFFoNHNWdWZ0RWpXNUVleW51STFYX2N6TEExdVZzWnFVOGJIcndQa2c2V0QzX21NNW5lWWNrUlVmZC1zNkd3ckJ2Q2xkdmZCMTNDdG1URW5C0gGIAUFVX3lxTE5CbjlDMEE3cDI1cV9HcllKZFVaaDV5SWNwQ3NCVkFmdUR3eXlYZE1HS2VWb1FGR2JLV0hkck5pMFNONU9HaWFXZlVMbmZGQU12X0ppN1FNVTZKemYyblhLNkJSRy1IYVl2dUNtaUQxWGl2UGl2b0Y1enJ3Y0EtYnJQZjFxUE9NYUk?oc=5",
+     "pub": "2026-10-27T11:10+00:00"
+    },
+    {
+     "medio": "L'Equipe",
+     "titulo": "Sacré au Ballon d'Or 2026 devant Mbappé et Lamine Yamal, Harry Kane déjà de retour avec le Bayern en Coupe d'Allemagne ?",
+     "url": "https://www.lequipe.fr/Football/Actualites/Sacre-au-ballon-d-or-2026-devant-mbappe-et-lamine-yamal-harry-kane-deja-de-retour-avec-le-bayern-en-coupe-d-allemagne/1739013#at_medium=RSS_feeds",
+     "pub": "2026-10-27T11:16+00:00"
     },
     {
      "medio": "Daily Mail",
-     "titulo": "'What the f*** are you doing? Stick a firework up their a**e!': Wayne Rooney launches f-word rant about Man United players letting down close friend Michael Carrick",
-     "url": "https://www.dailymail.com/sport/football/article-16242151/Wayne-Rooney-Man-United-Michael-Carrick-sack.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-     "pub": "2026-10-27T12:18+00:00"
+     "titulo": "Ballon d'Or winner Harry Kane confirms boss Vincent Kompany is still in hospital 'on the mend', with Englishman Aaron Danks to take charge of Bayern Munich again",
+     "url": "https://www.dailymail.com/sport/football/article-16242605/Harry-Kane-Aaron-Danks-Vincent-Kompany-Bayern-Munich.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+     "pub": "2026-10-27T15:12+00:00"
     },
     {
-     "medio": "Mirror",
-     "titulo": "Michael Carrick keeps his job as Man Utd chiefs give under-fire boss another chance",
-     "url": "https://www.mirror.co.uk/sport/football/news/man-utd-carrick-keeping-job-37814620",
-     "pub": "2026-10-27T12:20+00:00"
+     "medio": "Kicker",
+     "titulo": "LIVE! Bayern II zu Gast in Nürnberg - und mit dem Comeback nach frühem 0:1",
+     "url": "https://www.kicker.de/live-bayern-ii-zu-gast-in-nuernberg-und-mit-dem-comeback-nach-fruehem-0-1-1238049/artikel#omrss",
+     "pub": "2026-10-27T18:33+00:00"
     },
     {
-     "medio": "Mirror",
-     "titulo": "Michael Carrick future LIVE: Man Utd make decision for Chelsea as players and staff informed",
-     "url": "https://www.mirror.co.uk/sport/football/news/man-united-manager-latest-live-37813167",
-     "pub": "2026-10-27T12:04+00:00"
+     "medio": "L'Equipe",
+     "titulo": "Il a commencé à entraîner dès l'âge de 15 ans : Aaron Danks, un adjoint pas comme les autres en première ligne au Bayern Munich pendant la convalescence de Vincent Kompany",
+     "url": "https://www.lequipe.fr/Football/Actualites/Il-a-commence-a-entrainer-des-l-age-de-15-ans-aaron-danks-un-adjoint-pas-comme-les-autres-en-premiere-ligne-au-bayern-munich-pendant-la-convalescence-de-vincent-kompany/1739089#at_medium=RSS_feeds",
+     "pub": "2026-10-27T17:48+00:00"
     },
     {
-     "medio": "Mirror",
-     "titulo": "Entitled Man Utd fans don't deserve Eddie Howe if they can't see that he's the perfect fit",
-     "url": "https://www.mirror.co.uk/sport/football/eddie-howe-newcastle-man-utd-37814141",
-     "pub": "2026-10-27T11:17+00:00"
+     "medio": "L'Equipe",
+     "titulo": "Le Bayern Munich commercialise un flocage spécial en l'honneur de Harry Kane, tout juste sacré Ballon d'Or 2026",
+     "url": "https://www.lequipe.fr/Football/Actualites/Le-bayern-munich-commercialise-un-flocage-special-en-l-honneur-de-harry-kane-tout-juste-sacre-ballon-d-or-2026/1739057#at_medium=RSS_feeds",
+     "pub": "2026-10-27T14:58+00:00"
+    },
+    {
+     "medio": "Foot Mercato",
+     "titulo": "Bayern Munich : le remplaçant de Vincent Kompany donne de bonnes nouvelles",
+     "url": "https://www.footmercato.net/a3769177141953406094-bayern-munich-le-remplacant-de-vincent-kompany-donne-de-bonnes-nouvelles",
+     "pub": "2026-10-27T16:19+00:00"
+    },
+    {
+     "medio": "Foot Mercato",
+     "titulo": "Ballon d’Or : les dirigeants du Bayern Munich encensent Harry Kane après son sacre",
+     "url": "https://www.footmercato.net/a5098537462824265711-ballon-dor-les-dirigeants-du-bayern-munich-encensent-harry-kane-apres-son-sacre",
+     "pub": "2026-10-27T13:31+00:00"
+    },
+    {
+     "medio": "Ole",
+     "titulo": "El Bayern recibió a Harry Kane tras ganar su primer Balón de Oro y transformó el Allianz Arena con un dorado",
+     "url": "https://www.ole.com.ar/futbol-internacional/harry-kane-recibida-bayern-munich-balon-oro_0_Py8c0ZTvvb.html",
+     "pub": "2026-10-27T18:32+00:00"
+    },
+    {
+     "medio": "Planet Football",
+     "titulo": "Can you name Bayern Munich’s top 10 goalscorers of all time?",
+     "url": "https://www.planetfootball.com/quizzes/can-you-name-bayern-munich-top-goalscorers-all-time",
+     "pub": "2026-10-28T09:00+00:00"
     }
    ]
   },
@@ -1702,279 +2080,6 @@
    ]
   },
   {
-   "tema": "Fernandes",
-   "medios": 10,
-   "lista_medios": [
-    "BBC",
-    "Daily Mail",
-    "FourFourTwo",
-    "Google News EN",
-    "Guardian",
-    "Mirror",
-    "Record",
-    "Sky Sports",
-    "Yahoo",
-    "talkSPORT"
-   ],
-   "primera_vez": "2026-10-27T12:36+00:00",
-   "titulares": [
-    {
-     "medio": "talkSPORT",
-     "titulo": "Bruno Fernandes tipped to leave Manchester United: ‘It’s coming to an end’",
-     "url": "https://talksport.com/football/4669986/bruno-fernandes-leave-manchester-united-transfer-next-club/",
-     "pub": "2026-10-27T10:13+00:00"
-    },
-    {
-     "medio": "Mirror",
-     "titulo": "Why Bruno Fernandes was at Carrington as Michael Carrick crisis talks took place",
-     "url": "https://www.mirror.co.uk/sport/football/news/man-utd-bruno-fernandes-carrick-37813515",
-     "pub": "2026-10-27T09:24+00:00"
-    },
-    {
-     "medio": "Mirror",
-     "titulo": "Man Utd's 7 biggest social media tantrums as Bruno Fernandes joins Sancho and Garnacho",
-     "url": "https://www.mirror.co.uk/sport/football/news/man-utd-bruno-fernandes-instagram-37811755",
-     "pub": "2026-10-27T06:00+00:00"
-    },
-    {
-     "medio": "FourFourTwo",
-     "titulo": "Bruno Fernandes' Atletico Madrid January move 'accelerating', after Manchester United fallout: report",
-     "url": "https://www.fourfourtwo.com/transfer/bruno-fernandes-atletico-madrid-january-move-accelerating-after-manchester-united-fallout-report",
-     "pub": "2026-10-27T12:00+00:00"
-    },
-    {
-     "medio": "Record",
-     "titulo": "<![CDATA[ Scholes ataca Bruno Fernandes: «Tem de sair do futebol europeu…» ]]>",
-     "url": "https://www.record.pt/internacional/paises/inglaterra/detalhe/scholes-ataca-bruno-fernandes-tem-de-sair-do-futebol-europeu",
-     "pub": "2026-10-27T17:28+00:00"
-    },
-    {
-     "medio": "BBC",
-     "titulo": "Carrick and Fernandes hold clear-the-air talks",
-     "url": "https://www.bbc.co.uk/sport/football/articles/cje36dn5nx36o?at_medium=RSS&at_campaign=rss",
-     "pub": "2026-10-28T11:48+00:00"
-    },
-    {
-     "medio": "Guardian",
-     "titulo": "Fernandes tells Carrick he is committed to turning season around in clear-the-air talks",
-     "url": "https://www.theguardian.com/football/2026/oct/28/bruno-fernandes-michael-carrick-clear-the-air-talks-manchester-united",
-     "pub": "2026-10-28T12:47+00:00"
-    },
-    {
-     "medio": "Sky Sports",
-     "titulo": "Carrick and Fernandes hold clear-the-air talks ahead of Chelsea fixture",
-     "url": "https://www.skysports.com/football/news/12040/13604738/bruno-fernandes-man-utd-head-coach-michael-carrick-and-club-captain-hold-clear-the-air-talks-ahead-of-chelsea-fixture",
-     "pub": "2026-10-28T10:39+00:00"
-    },
-    {
-     "medio": "Daily Mail",
-     "titulo": "Paul Scholes tells Bruno Fernandes he's FINISHED as Man United captain - and should 'just go to Saudi Arabia to get out of the way' - after 'unforgivable' public criticism of Michael Carrick",
-     "url": "https://www.dailymail.com/sport/football/article-16243615/paul-scholes-bruno-fernandes-finished-captain.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-     "pub": "2026-10-28T11:29+00:00"
-    },
-    {
-     "medio": "Daily Mail",
-     "titulo": "Michael Carrick holds Carrington summit with Bruno Fernandes amid tension between Man United boss and captain after Bournemouth snub and 'loyalty' dig",
-     "url": "https://www.dailymail.com/sport/football/article-16245475/michael-carrick-bruno-fernandes-man-united-carrington.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-     "pub": "2026-10-28T12:12+00:00"
-    },
-    {
-     "medio": "Mirror",
-     "titulo": "Bruno Fernandes broke rank with message to sacked manager - now everything has changed",
-     "url": "https://www.mirror.co.uk/sport/football/news/bruno-fernandes-man-utd-sacked-37818514",
-     "pub": "2026-10-28T13:08+00:00"
-    },
-    {
-     "medio": "Mirror",
-     "titulo": "Michael Carrick makes Bruno Fernandes decision for Chelsea after crunch Man Utd talks",
-     "url": "https://www.mirror.co.uk/sport/football/news/bruno-fernandes-man-utd-carrick-37817491",
-     "pub": "2026-10-28T09:27+00:00"
-    }
-   ]
-  },
-  {
-   "tema": "Arteta",
-   "medios": 10,
-   "lista_medios": [
-    "BBC",
-    "Daily Mail",
-    "Foot Mercato",
-    "FourFourTwo",
-    "Google News EN",
-    "L'Equipe",
-    "Mirror",
-    "Sky Sports",
-    "Yahoo",
-    "talkSPORT"
-   ],
-   "primera_vez": "2026-10-27T12:36+00:00",
-   "titulares": [
-    {
-     "medio": "Daily Mail",
-     "titulo": "Why Mikel Arteta is so impressed by Ceadach O'Neill, Arsenal's prolific 18-year-old vying for his first-team debut against Fleetwood - and how he's justifying Gunners' new recruitment drive",
-     "url": "https://www.dailymail.com/sport/football/article-16240027/Arsenal-Ceadach-ONeill-Mikel-Arteta.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-     "pub": "2026-10-27T10:21+00:00"
-    },
-    {
-     "medio": "Foot Mercato",
-     "titulo": "Arsenal : Mikel Arteta menace de filmer les sorties de zone technique de ses concurrents",
-     "url": "https://www.footmercato.net/a2608165765972803862-arsenal-mikel-arteta-menace-de-filmer-les-sorties-de-zone-technique-de-ses-concurrents",
-     "pub": "2026-10-27T07:09+00:00"
-    },
-    {
-     "medio": "BBC",
-     "titulo": "Dowman sees red as Arsenal dumped out, but did Arteta go too far?",
-     "url": "https://www.bbc.co.uk/sport/football/articles/cmg47g7dngxlo?at_medium=RSS&at_campaign=rss",
-     "pub": "2026-10-28T00:34+00:00"
-    },
-    {
-     "medio": "Sky Sports",
-     "titulo": "Arteta explains reaction to Dowman red card amid criticism",
-     "url": "https://www.skysports.com/football/news/12040/13604637/max-dowman-red-card-mikel-arteta-explains-what-he-said-to-16-year-old-after-sending-off-in-carabao-cup-exit-to-fleetwood-town",
-     "pub": "2026-10-28T11:21+00:00"
-    },
-    {
-     "medio": "talkSPORT",
-     "titulo": "Mikel Arteta swerves question on Max Dowman red card but Arsenal manager’s death stare said it all",
-     "url": "https://talksport.com/football/4672240/mikel-arteta-max-dowman-red-card-reaction-death-stare/",
-     "pub": "2026-10-27T23:20+00:00"
-    },
-    {
-     "medio": "Daily Mail",
-     "titulo": "Arsenal's defeat by Fleetwood is the greatest upset in the history of the Carabao Cup: Premier League champions sunk by League Two side on dismal night for Mikel Arteta, writes OLIVER HOLT",
-     "url": "https://www.dailymail.com/sport/football/article-16241981/arsenal-fleetwood-town-carabao-cup-giant-killing.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-     "pub": "2026-10-28T12:15+00:00"
-    },
-    {
-     "medio": "Daily Mail",
-     "titulo": "Mikel Arteta FUMES at Max Dowman after Arsenal star, 16, sent off in shock Carabao Cup defeat by Fleetwood as Gunners manager's angry reaction is caught on camera",
-     "url": "https://www.dailymail.com/sport/football/article-16244085/Mikel-Arteta-FUMES-Max-Dowman-Arsenal-star-16-sent-shock-Carabao-Cup-defeat-Fleetwood.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-     "pub": "2026-10-28T10:26+00:00"
-    },
-    {
-     "medio": "Mirror",
-     "titulo": "Arsenal make fresh Max Dowman decision after Fleetwood red and Mikel Arteta anger",
-     "url": "https://www.mirror.co.uk/sport/football/news/arsenal-max-dowman-red-appeal-37818325",
-     "pub": "2026-10-28T11:39+00:00"
-    },
-    {
-     "medio": "Mirror",
-     "titulo": "'I coached Mikel Arteta, Andoni Iraola and Xabi Alonso – one stood out as a future boss'",
-     "url": "https://www.mirror.co.uk/sport/football/news/arteta-alonso-iraola-future-manager-37817386",
-     "pub": "2026-10-28T09:23+00:00"
-    },
-    {
-     "medio": "Mirror",
-     "titulo": "Mikel Arteta confirms triple Arsenal injury blow ahead of Liverpool clash",
-     "url": "https://www.mirror.co.uk/sport/football/news/arteta-arsenal-calafiori-madueke-rice-37817090",
-     "pub": "2026-10-28T07:01+00:00"
-    },
-    {
-     "medio": "Mirror",
-     "titulo": "Arsenal news: Mikel Arteta sent clear transfer message as £77m star responds to exit claims",
-     "url": "https://www.mirror.co.uk/sport/football/news/arsenal-transfer-news-williams-tresoldi-37815190",
-     "pub": "2026-10-28T04:00+00:00"
-    },
-    {
-     "medio": "Mirror",
-     "titulo": "Mikel Arteta facing fierce criticism as Arsenal boss hints at what he told Max Dowman",
-     "url": "https://www.mirror.co.uk/sport/football/news/mikel-arteta-max-dowman-arsenal-37816881",
-     "pub": "2026-10-27T22:54+00:00"
-    }
-   ]
-  },
-  {
-   "tema": "Bayern",
-   "medios": 10,
-   "lista_medios": [
-    "Daily Mail",
-    "Foot Mercato",
-    "Google News EN",
-    "Google News ES",
-    "Kicker",
-    "L'Equipe",
-    "Mundo Deportivo",
-    "Ole",
-    "Planet Football",
-    "Yahoo"
-   ],
-   "primera_vez": "2026-10-27T12:36+00:00",
-   "titulares": [
-    {
-     "medio": "Yahoo",
-     "titulo": "From jinxed to Ballon d'Or! Kane's Bayern turnaround in just 18 months",
-     "url": "https://sports.yahoo.com/articles/jinxed-ballon-dor-kanes-bayern-105700912.html",
-     "pub": "2026-10-27T10:57+00:00"
-    },
-    {
-     "medio": "Google News EN",
-     "titulo": "Harry Kane wins 2026 Ballon d'Or: Bayern Munich striker becomes first English winner of award in 25 years",
-     "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPOGxQTlRYY1o5eXBzai1LZndVQnZ3Tm9GcENiVTdJT3huSXpqdlkyWW1oUk9xajJlTTd5d2ZNUklFQzVPTmt1bm9ucUttMUlTcGFuck9aeE5tN2hrRVlXSVJQYV9NdG55UVdLWGNJNjBQMW5TdHJkTHl2N1VMb2tkUzFiUkJWNUdMTFVBWC1ZdnhiS1FxY1R4SmM0RVBzckdjLXlTazQySUNsZ0FJT2FHWDlwU3dLTTdjZml6YjV2dXdCdEtTLXViSlZKM2VBNUEwY3VjQkVxcVE1STBiaFBfUUlFTFhsNUk?oc=5",
-     "pub": "2026-10-27T08:13+00:00"
-    },
-    {
-     "medio": "Google News ES",
-     "titulo": "¡El rey del fútbol! Bayern reconoce a Kane",
-     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOVFhwVFBlRWg5Ylo0V1BPeWNJSGZOY0xwWnRVZVp6aXVxUHJIQlFfZ3dnRUhkcTZGMFFoNHNWdWZ0RWpXNUVleW51STFYX2N6TEExdVZzWnFVOGJIcndQa2c2V0QzX21NNW5lWWNrUlVmZC1zNkd3ckJ2Q2xkdmZCMTNDdG1URW5C0gGIAUFVX3lxTE5CbjlDMEE3cDI1cV9HcllKZFVaaDV5SWNwQ3NCVkFmdUR3eXlYZE1HS2VWb1FGR2JLV0hkck5pMFNONU9HaWFXZlVMbmZGQU12X0ppN1FNVTZKemYyblhLNkJSRy1IYVl2dUNtaUQxWGl2UGl2b0Y1enJ3Y0EtYnJQZjFxUE9NYUk?oc=5",
-     "pub": "2026-10-27T11:10+00:00"
-    },
-    {
-     "medio": "L'Equipe",
-     "titulo": "Sacré au Ballon d'Or 2026 devant Mbappé et Lamine Yamal, Harry Kane déjà de retour avec le Bayern en Coupe d'Allemagne ?",
-     "url": "https://www.lequipe.fr/Football/Actualites/Sacre-au-ballon-d-or-2026-devant-mbappe-et-lamine-yamal-harry-kane-deja-de-retour-avec-le-bayern-en-coupe-d-allemagne/1739013#at_medium=RSS_feeds",
-     "pub": "2026-10-27T11:16+00:00"
-    },
-    {
-     "medio": "Foot Mercato",
-     "titulo": "Le Bayern Munich écarte l’option Dante",
-     "url": "https://www.footmercato.net/a1235484930783232208-le-bayern-munich-ecarte-loption-dante",
-     "pub": "2026-10-27T06:34+00:00"
-    },
-    {
-     "medio": "Daily Mail",
-     "titulo": "Ballon d'Or winner Harry Kane confirms boss Vincent Kompany is still in hospital 'on the mend', with Englishman Aaron Danks to take charge of Bayern Munich again",
-     "url": "https://www.dailymail.com/sport/football/article-16242605/Harry-Kane-Aaron-Danks-Vincent-Kompany-Bayern-Munich.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-     "pub": "2026-10-27T15:12+00:00"
-    },
-    {
-     "medio": "Kicker",
-     "titulo": "LIVE! Bayern II zu Gast in Nürnberg - und mit dem Comeback nach frühem 0:1",
-     "url": "https://www.kicker.de/live-bayern-ii-zu-gast-in-nuernberg-und-mit-dem-comeback-nach-fruehem-0-1-1238049/artikel#omrss",
-     "pub": "2026-10-27T18:33+00:00"
-    },
-    {
-     "medio": "L'Equipe",
-     "titulo": "Il a commencé à entraîner dès l'âge de 15 ans : Aaron Danks, un adjoint pas comme les autres en première ligne au Bayern Munich pendant la convalescence de Vincent Kompany",
-     "url": "https://www.lequipe.fr/Football/Actualites/Il-a-commence-a-entrainer-des-l-age-de-15-ans-aaron-danks-un-adjoint-pas-comme-les-autres-en-premiere-ligne-au-bayern-munich-pendant-la-convalescence-de-vincent-kompany/1739089#at_medium=RSS_feeds",
-     "pub": "2026-10-27T17:48+00:00"
-    },
-    {
-     "medio": "L'Equipe",
-     "titulo": "Le Bayern Munich commercialise un flocage spécial en l'honneur de Harry Kane, tout juste sacré Ballon d'Or 2026",
-     "url": "https://www.lequipe.fr/Football/Actualites/Le-bayern-munich-commercialise-un-flocage-special-en-l-honneur-de-harry-kane-tout-juste-sacre-ballon-d-or-2026/1739057#at_medium=RSS_feeds",
-     "pub": "2026-10-27T14:58+00:00"
-    },
-    {
-     "medio": "Foot Mercato",
-     "titulo": "Bayern Munich : le remplaçant de Vincent Kompany donne de bonnes nouvelles",
-     "url": "https://www.footmercato.net/a3769177141953406094-bayern-munich-le-remplacant-de-vincent-kompany-donne-de-bonnes-nouvelles",
-     "pub": "2026-10-27T16:19+00:00"
-    },
-    {
-     "medio": "Foot Mercato",
-     "titulo": "Ballon d’Or : les dirigeants du Bayern Munich encensent Harry Kane après son sacre",
-     "url": "https://www.footmercato.net/a5098537462824265711-ballon-dor-les-dirigeants-du-bayern-munich-encensent-harry-kane-apres-son-sacre",
-     "pub": "2026-10-27T13:31+00:00"
-    },
-    {
-     "medio": "Ole",
-     "titulo": "El Bayern recibió a Harry Kane tras ganar su primer Balón de Oro y transformó el Allianz Arena con un dorado",
-     "url": "https://www.ole.com.ar/futbol-internacional/harry-kane-recibida-bayern-munich-balon-oro_0_Py8c0ZTvvb.html",
-     "pub": "2026-10-27T18:32+00:00"
-    }
-   ]
-  },
-  {
    "tema": "Mbappe",
    "medios": 9,
    "lista_medios": [
@@ -2057,10 +2162,10 @@
      "pub": "2026-10-27T11:32+00:00"
     },
     {
-     "medio": "Google News EN",
-     "titulo": "Thierry Henry, Kylian Mbappe, Zlatan Ibrahimovic and the rise of fake football quotes",
-     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOb25NS1NMQnFSMVNmU2RHcEVTVEo1alhfRC1tdWQ0LXpKTV9zbF9iak5EWjFTWkhCOFRvVGFXM1lhbHNsUlBCWXE3VjFhMkxZdUNZbm50QUlRMjNJdm0tdVVKODVtMmZiTEtsall6OGltY2FRemljZVVacGREcFJ2cWFubG5QRGtNUkFSNmZEZw?oc=5",
-     "pub": "2026-10-27T02:41+00:00"
+     "medio": "talkSPORT",
+     "titulo": "Kylian Mbappe forced to apologise for Mao Zedong joke after backlash in China",
+     "url": "https://talksport.com/football/4671124/kylian-mbappe-apology-chairman-mao-meme-chinese-backlash/",
+     "pub": "2026-10-27T14:56+00:00"
     }
    ]
   },
@@ -2225,12 +2330,6 @@
      "pub": "2026-10-27T09:24+00:00"
     },
     {
-     "medio": "Mirror",
-     "titulo": "Man Utd news: Sir Jim Ratcliffe's top pick to replace Michael Carrick as key demand revealed",
-     "url": "https://www.mirror.co.uk/sport/football/news/manchester-united-carrick-sack-howe-37811163",
-     "pub": "2026-10-27T04:30+00:00"
-    },
-    {
      "medio": "Yahoo",
      "titulo": "Michael Carrick avoids sack for now and will take charge of Man United game with Chelsea",
      "url": "https://sports.yahoo.com/articles/michael-carrick-avoids-sack-now-122350426.html",
@@ -2241,21 +2340,202 @@
      "titulo": "Michael Carrick to stay in charge of Man Utd for Chelsea game",
      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBRSE5xRzZGSGV6Z0tidjdfZjM4UVF4VHhrVlNZdEhBcEVyOXJPNFA1QzJ4MVlCcHUyWk5EZG9FanI0UlVhaU5RT0d1aTlDemZuUldROTlyLTFIanpzdm02UTNfTlhoOEJaMkpF?oc=5",
      "pub": "2026-10-27T12:10+00:00"
+    },
+    {
+     "medio": "Foot Mercato",
+     "titulo": "Ballon d’Or : la gaffe d’un journaliste avec Michael Owen",
+     "url": "https://www.footmercato.net/a5434628872578311838-ballon-dor-la-gaffe-dun-journaliste-avec-michael-owen",
+     "pub": "2026-10-27T12:03+00:00"
+    }
+   ]
+  },
+  {
+   "tema": "Bruno",
+   "medios": 9,
+   "lista_medios": [
+    "Daily Mail",
+    "Foot Mercato",
+    "FourFourTwo",
+    "Google News EN",
+    "Mirror",
+    "Mundo Deportivo",
+    "Record",
+    "Yahoo",
+    "talkSPORT"
+   ],
+   "primera_vez": "2026-10-27T12:36+00:00",
+   "titulares": [
+    {
+     "medio": "talkSPORT",
+     "titulo": "Bruno Fernandes tipped to leave Manchester United: ‘It’s coming to an end’",
+     "url": "https://talksport.com/football/4669986/bruno-fernandes-leave-manchester-united-transfer-next-club/",
+     "pub": "2026-10-27T10:13+00:00"
+    },
+    {
+     "medio": "Mirror",
+     "titulo": "Why Bruno Fernandes was at Carrington as Michael Carrick crisis talks took place",
+     "url": "https://www.mirror.co.uk/sport/football/news/man-utd-bruno-fernandes-carrick-37813515",
+     "pub": "2026-10-27T09:24+00:00"
+    },
+    {
+     "medio": "FourFourTwo",
+     "titulo": "Bruno Fernandes' Atletico Madrid January move 'accelerating', after Manchester United fallout: report",
+     "url": "https://www.fourfourtwo.com/transfer/bruno-fernandes-atletico-madrid-january-move-accelerating-after-manchester-united-fallout-report",
+     "pub": "2026-10-27T12:00+00:00"
+    },
+    {
+     "medio": "Record",
+     "titulo": "<![CDATA[ Scholes ataca Bruno Fernandes: «Tem de sair do futebol europeu…» ]]>",
+     "url": "https://www.record.pt/internacional/paises/inglaterra/detalhe/scholes-ataca-bruno-fernandes-tem-de-sair-do-futebol-europeu",
+     "pub": "2026-10-27T17:28+00:00"
+    },
+    {
+     "medio": "Daily Mail",
+     "titulo": "Paul Scholes tells Bruno Fernandes he's FINISHED as Man United captain - and should 'just go to Saudi Arabia to get out of the way' - after 'unforgivable' public criticism of Michael Carrick",
+     "url": "https://www.dailymail.com/sport/football/article-16243615/paul-scholes-bruno-fernandes-finished-captain.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+     "pub": "2026-10-28T11:29+00:00"
+    },
+    {
+     "medio": "Daily Mail",
+     "titulo": "Michael Carrick holds Carrington summit with Bruno Fernandes amid tension between Man United boss and captain after Bournemouth snub and 'loyalty' dig",
+     "url": "https://www.dailymail.com/sport/football/article-16245475/michael-carrick-bruno-fernandes-man-united-carrington.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+     "pub": "2026-10-28T12:12+00:00"
+    },
+    {
+     "medio": "Mirror",
+     "titulo": "Bruno Fernandes broke rank with message to sacked manager - now everything has changed",
+     "url": "https://www.mirror.co.uk/sport/football/news/bruno-fernandes-man-utd-sacked-37818514",
+     "pub": "2026-10-28T13:08+00:00"
+    },
+    {
+     "medio": "Mirror",
+     "titulo": "Michael Carrick makes Bruno Fernandes decision for Chelsea after crunch Man Utd talks",
+     "url": "https://www.mirror.co.uk/sport/football/news/bruno-fernandes-man-utd-carrick-37817491",
+     "pub": "2026-10-28T09:27+00:00"
+    },
+    {
+     "medio": "Mirror",
+     "titulo": "Paul Scholes tells Bruno Fernandes he's 'finished' at Man Utd - 'Just go to Saudi'",
+     "url": "https://www.mirror.co.uk/sport/football/news/bruno-fernandes-man-utd-transfer-37817210",
+     "pub": "2026-10-28T08:13+00:00"
+    },
+    {
+     "medio": "Yahoo",
+     "titulo": "Michael Carrick and Bruno Fernandes take major step in bid to salvage Man United crisis",
+     "url": "https://sports.yahoo.com/articles/michael-carrick-bruno-fernandes-major-114813116.html",
+     "pub": "2026-10-28T11:48+00:00"
+    },
+    {
+     "medio": "Google News EN",
+     "titulo": "Manchester United: Michael Carrick and Bruno Fernandes hold clear-the-air talks",
+     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFA1QVFYX3F5WlVHenRoM3BBWmNxWFVWUl9LMlBPSGZsdjRGUzVSSW4tcno3YW4xaEdGZFp2OFRLTjQxLW5QRklMb0l2U1ZnWUIwZHpuMnQ2cnFmaE9ZbkhtTHhLa1I1b3Q3dUlV?oc=5",
+     "pub": "2026-10-28T11:48+00:00"
+    },
+    {
+     "medio": "Record",
+     "titulo": "<![CDATA[ Bruno Fernandes e Carrick tiveram reunião determinante no centro de treinos do Man. United, avançam em Inglaterra ]]>",
+     "url": "https://www.record.pt/internacional/paises/inglaterra/man--united/detalhe/bruno-fernandes-e-carrick-tiveram-reuniao-determinante-no-centro-de-treinos-do-man-united-avancam-em-inglaterra",
+     "pub": "2026-10-28T12:41+00:00"
+    }
+   ]
+  },
+  {
+   "tema": "Ronaldo",
+   "medios": 9,
+   "lista_medios": [
+    "Daily Mail",
+    "Foot Mercato",
+    "Google News EN",
+    "Infobae",
+    "Mundo Deportivo",
+    "Ole",
+    "Record",
+    "ge.globo",
+    "talkSPORT"
+   ],
+   "primera_vez": "2026-10-27T12:36+00:00",
+   "titulares": [
+    {
+     "medio": "Daily Mail",
+     "titulo": "Stars arrive for glitzy Ballon d'Or bash in London: Game of Thrones star Sophie Turner, Jorja Smith, and Kate Scott join sporting legends Gary Lineker and Ronaldo... with England captain Harry Kane hoping to land top prize",
+     "url": "https://www.dailymail.com/sport/football/article-16238929/Stars-arrive-glitzy-Ballon-dOr-bash-London-Harry-Kane.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+     "pub": "2026-10-27T08:29+00:00"
+    },
+    {
+     "medio": "Mundo Deportivo",
+     "titulo": "Lamine tiene tiempo: Messi, Ronaldo o CR7 estrenaron Balón de Oro sobre la veintena",
+     "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261027/1004243744/lamine-messi-ronaldo-cr7-estrenaron-balon-oro-sobre-veintena.html",
+     "pub": ""
+    },
+    {
+     "medio": "Ole",
+     "titulo": "¿Se terminó la polémica?: Cristiano Ronaldo vuelve a la selección de Portugal",
+     "url": "https://www.ole.com.ar/futbol-internacional/cristianoronaldo-selecciondeportugal-jorgejesus-federacionportuguesadefutbol_0_lwTxhzngVv.html",
+     "pub": "2026-10-27T12:08+00:00"
+    },
+    {
+     "medio": "ge.globo",
+     "titulo": "Fim da crise? Cristiano Ronaldo entra na pré-lista de Portugal após confusão com Jorge Jesus, diz jornal",
+     "url": "https://ge.globo.com/futebol/futebol-internacional/noticia/2026/10/27/fim-da-crise-cristiano-ronaldo-entra-na-pre-lista-de-portugal-apos-confusao-com-jorge-jesus-diz-jornal.ghtml",
+     "pub": "2026-10-27T12:17+00:00"
+    },
+    {
+     "medio": "Mundo Deportivo",
+     "titulo": "Jorge Jesus pasa página con el sancionado Cristiano Ronaldo",
+     "url": "https://www.mundodeportivo.com/futbol/internacional/20261027/1004243923/jorge-jesus-pasa-pagina-sancionado-cristiano-ronaldo.html",
+     "pub": ""
+    },
+    {
+     "medio": "talkSPORT",
+     "titulo": "When is Cristiano Ronaldo playing next with star ready to return after interrupted schedule",
+     "url": "https://talksport.com/football/4671593/when-is-cristiano-ronaldo-playing-next-al-nassr/",
+     "pub": "2026-10-28T10:51+00:00"
+    },
+    {
+     "medio": "Infobae",
+     "titulo": "Lo comparaban con Cristiano Ronaldo, estuvo preso por tráfico de drogas, se hizo actor porno y ahora fue acusado de violación",
+     "url": "https://www.infobae.com/deportes/2026/10/27/lo-comparaban-con-cristiano-ronaldo-estuvo-preso-por-trafico-de-drogas-se-hizo-actor-porno-y-ahora-fue-acusado-de-violacion/",
+     "pub": "2026-10-27T21:12+00:00"
+    },
+    {
+     "medio": "Google News EN",
+     "titulo": "Ronaldo beats Messi to BOAT award after standout Man Utd season",
+     "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPWHVyaVE3VFozekVkbVdSMTFOZ2pvdUZnVFA5ZVVvMWpKeW5lS0xtcVI3b0NVdW95WmUwa2JUZDlCdXhUd0k3OWhDNG1Nd0V3Q2xUT3I2djRDYV9kWG9aSlgwMUZlVmNaTlBRVUU5eUVVQTBBZ3V3ZzBKdFhaME85dFFIM0dpTlYwLWVnaUQ4Wnoza1JSaGVQSno0ZlFNd3BsWHBZc0ktUFhCcTBxcUpNd3E3ZmlvZkNPLTVaQ19NaTR3aFNJTmljVDFyM09la1ky?oc=5",
+     "pub": "2026-10-28T17:47+00:00"
+    },
+    {
+     "medio": "Foot Mercato",
+     "titulo": "Cristiano Ronaldo 2008 élu plus grand Ballon d’Or de l’histoire",
+     "url": "https://www.footmercato.net/a7976010724410306017-cristiano-ronaldo-2008-elu-plus-grand-ballon-dor-de-lhistoire",
+     "pub": "2026-10-28T18:23+00:00"
+    },
+    {
+     "medio": "Record",
+     "titulo": "<![CDATA[ Cristiano Ronaldo distinguido como o melhor Bola de Ouro de todos os tempos ]]>",
+     "url": "https://www.record.pt/internacional/detalhe/cristiano-ronaldo-distinguido-como-o-melhor-bola-de-ouro-de-todos-os-tempos",
+     "pub": "2026-10-28T18:13+00:00"
+    },
+    {
+     "medio": "ge.globo",
+     "titulo": "Cristiano Ronaldo é eleito o melhor Bola de Ouro de todos os tempos em votação popular",
+     "url": "https://ge.globo.com/futebol/futebol-internacional/noticia/2026/10/28/cristiano-ronaldo-de-2008-e-eleito-o-melhor-bola-de-ouro-de-todos-os-tempos-em-votacao-popular.ghtml",
+     "pub": "2026-10-28T18:09+00:00"
     }
    ]
   },
   {
    "tema": "Messi",
-   "medios": 8,
+   "medios": 9,
    "lista_medios": [
     "AS",
     "Foot Mercato",
     "Google News AR",
+    "Google News EN",
     "Infobae",
-    "L'Equipe",
     "Mirror",
     "Mundo Deportivo",
-    "Ole"
+    "Ole",
+    "ge.globo"
    ],
    "primera_vez": "2026-10-27T12:36+00:00",
    "titulares": [
@@ -2270,18 +2550,6 @@
      "titulo": "Lamine tiene tiempo: Messi, Ronaldo o CR7 estrenaron Balón de Oro sobre la veintena",
      "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261027/1004243744/lamine-messi-ronaldo-cr7-estrenaron-balon-oro-sobre-veintena.html",
      "pub": ""
-    },
-    {
-     "medio": "L'Equipe",
-     "titulo": "Lionel Messi 5e du classement du Ballon d'Or 2026, le crépuscule d'un dieu",
-     "url": "https://www.lequipe.fr/Football/Actualites/Lionel-messi-5e-du-classement-du-ballon-d-or-2026-le-crepuscule-d-un-dieu/1738948#at_medium=RSS_feeds",
-     "pub": "2026-10-27T06:23+00:00"
-    },
-    {
-     "medio": "Infobae",
-     "titulo": "Daniel Orsanic, a 10 años del título en la Copa Davis: en quién pensó al levantar el trofeo y por qué Del Potro fue “el Messi” del equipo",
-     "url": "https://www.infobae.com/deportes/2026/10/27/daniel-orsanic-a-10-anos-del-titulo-en-la-copa-davis-en-quien-penso-al-levantar-el-trofeo-y-por-que-del-potro-fue-el-messi-del-equipo/",
-     "pub": "2026-10-27T06:20+00:00"
     },
     {
      "medio": "Ole",
@@ -2330,103 +2598,27 @@
      "titulo": "Es hijo de un ex campeón con River Plate, deslumbra en el Atlético de Madrid y marcó un golazo en la Messi Cup",
      "url": "https://www.infobae.com/deportes/2026/10/28/es-hijo-de-un-ex-river-plate-deslumbra-en-el-atletico-madrid-y-marco-un-golazo-en-la-messi-cup/",
      "pub": "2026-10-28T00:01+00:00"
-    }
-   ]
-  },
-  {
-   "tema": "Liverpool",
-   "medios": 8,
-   "lista_medios": [
-    "BBC",
-    "Daily Mail",
-    "FourFourTwo",
-    "Google News EN",
-    "L'Equipe",
-    "Mirror",
-    "Yahoo",
-    "talkSPORT"
-   ],
-   "primera_vez": "2026-10-27T12:36+00:00",
-   "titulares": [
-    {
-     "medio": "Mirror",
-     "titulo": "Trent Alexander-Arnold gets Liverpool return transfer approval as 'Real Madrid don't want him'",
-     "url": "https://www.mirror.co.uk/sport/football/news/liverpool-trent-return-real-madrid-37813590",
-     "pub": "2026-10-27T09:48+00:00"
     },
     {
-     "medio": "Mirror",
-     "titulo": "Liverpool news: Florian Wirtz injury latest as 'scary' warning issued",
-     "url": "https://www.mirror.co.uk/sport/football/news/liverpool-news-florian-wirtz-injury-37811186",
-     "pub": "2026-10-27T05:00+00:00"
+     "medio": "Google News EN",
+     "titulo": "Ronaldo beats Messi to BOAT award after standout Man Utd season",
+     "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPWHVyaVE3VFozekVkbVdSMTFOZ2pvdUZnVFA5ZVVvMWpKeW5lS0xtcVI3b0NVdW95WmUwa2JUZDlCdXhUd0k3OWhDNG1Nd0V3Q2xUT3I2djRDYV9kWG9aSlgwMUZlVmNaTlBRVUU5eUVVQTBBZ3V3ZzBKdFhaME85dFFIM0dpTlYwLWVnaUQ4Wnoza1JSaGVQSno0ZlFNd3BsWHBZc0ktUFhCcTBxcUpNd3E3ZmlvZkNPLTVaQ19NaTR3aFNJTmljVDFyM09la1ky?oc=5",
+     "pub": "2026-10-28T17:47+00:00"
     },
     {
-     "medio": "Yahoo",
-     "titulo": "Andoni Iraola making huge Liverpool mistake after major transfer development",
-     "url": "https://sports.yahoo.com/articles/andoni-iraola-making-huge-liverpool-120500909.html",
-     "pub": "2026-10-27T12:05+00:00"
-    },
-    {
-     "medio": "Yahoo",
-     "titulo": "Andoni Iraola green lights Liverpool move for £30m-rated star",
-     "url": "https://sports.yahoo.com/articles/andoni-iraola-green-lights-liverpool-115000693.html",
-     "pub": "2026-10-27T11:50+00:00"
-    },
-    {
-     "medio": "Yahoo",
-     "titulo": "Former Liverpool star could be set to land Premier League managerial role",
-     "url": "https://sports.yahoo.com/articles/former-liverpool-star-could-set-105000763.html",
-     "pub": "2026-10-27T10:50+00:00"
-    },
-    {
-     "medio": "Yahoo",
-     "titulo": "Liverpool could receive double injury boost ahead of Chelsea clash",
-     "url": "https://sports.yahoo.com/articles/liverpool-could-receive-double-injury-105000480.html",
-     "pub": "2026-10-27T10:50+00:00"
-    },
-    {
-     "medio": "Yahoo",
-     "titulo": "How are the stars Liverpool loaned out getting on?",
-     "url": "https://sports.yahoo.com/articles/stars-liverpool-loaned-getting-102500783.html",
-     "pub": "2026-10-27T10:25+00:00"
-    },
-    {
-     "medio": "Yahoo",
-     "titulo": "Jose Mourinho wants Real Madrid to sign Liverpool star in huge deal",
-     "url": "https://sports.yahoo.com/articles/jose-mourinho-wants-real-madrid-095000194.html",
-     "pub": "2026-10-27T09:50+00:00"
-    },
-    {
-     "medio": "talkSPORT",
-     "titulo": "Florian Wirtz is better without injured Liverpool teammate – and the stats back it up",
-     "url": "https://talksport.com/football/4671143/florian-wirtz-better-without-dominik-szoboszlai-injury-liverpool-stats/",
-     "pub": "2026-10-27T17:38+00:00"
-    },
-    {
-     "medio": "talkSPORT",
-     "titulo": "Virgil van Dijk is past his best but still crucial to possible Liverpool title challenge",
-     "url": "https://talksport.com/football/4671165/virgil-van-dijk-liverpool-title-challenge-past-best/",
-     "pub": "2026-10-27T16:00+00:00"
-    },
-    {
-     "medio": "talkSPORT",
-     "titulo": "Liverpool v Chelsea LIVE commentary: Changes expected for glamour Carabao Cup tie at Anfield",
-     "url": "https://talksport.com/football/4671053/liverpool-v-chelsea-commentary-team-score-free-live-stream-channel/",
-     "pub": "2026-10-27T14:04+00:00"
-    },
-    {
-     "medio": "Daily Mail",
-     "titulo": "Xabi Alonso is back at Anfield - this is how close he really came to taking the Liverpool job (twice), and why he chose Chelsea instead",
-     "url": "https://www.dailymail.com/sport/football/article-16241831/Xabi-Alonso-Liverpool-Chelsea-Klopp-Slot.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-     "pub": "2026-10-27T18:11+00:00"
+     "medio": "Ole",
+     "titulo": "Lionel Messi en Inter Miami vs. Cincinnati, hoy EN VIVO, por la MLS: formaciones, horario y cómo ver",
+     "url": "https://www.ole.com.ar/futbol-internacional/mls/lionel-messi-inter-miami-vs-cincinnati-mls-vivo-formaciones-horario-ver_0_dYTI7d0hlW.html",
+     "pub": "2026-10-28T17:34+00:00"
     }
    ]
   },
   {
    "tema": "Alonso",
-   "medios": 8,
+   "medios": 9,
    "lista_medios": [
     "Daily Mail",
+    "FourFourTwo",
     "Guardian",
     "L'Equipe",
     "Mirror",
@@ -2512,243 +2704,92 @@
    ]
   },
   {
-   "tema": "Pedro",
-   "medios": 8,
-   "lista_medios": [
-    "Daily Mail",
-    "Guardian",
-    "Kicker",
-    "L'Equipe",
-    "Record",
-    "Yahoo",
-    "ge.globo",
-    "talkSPORT"
-   ],
-   "primera_vez": "2026-10-27T12:36+00:00",
-   "titulares": [
-    {
-     "medio": "Record",
-     "titulo": "<![CDATA[ Pedro Sousa: «Rafa não merece ser titular e creio que vai passar mais tempo no banco» ]]>",
-     "url": "https://www.record.pt/multimedia/record-na-hora/detalhe/pedro-sousa-rafa-nao-merece-ser-titular-e-creio-que-vai-passar-mais-tempo-no-banco",
-     "pub": "2026-10-27T09:10+00:00"
-    },
-    {
-     "medio": "talkSPORT",
-     "titulo": "Xabi Alonso confirms full extent of Joao Pedro injury in major blow for Chelsea",
-     "url": "https://talksport.com/football/4671186/joao-pedro-injury-xabi-alonso-chelsea/",
-     "pub": "2026-10-27T13:56+00:00"
-    },
-    {
-     "medio": "Yahoo",
-     "titulo": "Who replaces Joao Pedro? How Xabi Alonso can solve Chelsea’s attacking dilemma",
-     "url": "https://sports.yahoo.com/articles/replaces-joao-pedro-xabi-alonso-165305774.html",
-     "pub": "2026-10-27T17:06+00:00"
-    },
-    {
-     "medio": "Yahoo",
-     "titulo": "Xabi Alonso provides Joao Pedro injury update before Chelsea’s League Cup game at Liverpool",
-     "url": "https://sports.yahoo.com/articles/xabi-alonso-provides-joao-pedro-160500922.html",
-     "pub": "2026-10-27T16:05+00:00"
-    },
-    {
-     "medio": "Kicker",
-     "titulo": "\"Werden ihn vermissen\": Joao Pedro fehlt Chelsea wochenlang",
-     "url": "https://www.kicker.de/werden-ihn-vermissen-joao-pedro-fehlt-chelsea-wochenlang-1265781/artikel#omrss",
-     "pub": "2026-10-27T15:22+00:00"
-    },
-    {
-     "medio": "L'Equipe",
-     "titulo": "Joao Pedro, blessé, manquera les chocs contre Liverpool et Manchester United ainsi que plusieurs semaines de compétitions",
-     "url": "https://www.lequipe.fr/Football/Actualites/Joao-pedro-blesse-manquera-les-chocs-contre-liverpool-et-manchester-united-ainsi-que-plusieurs-semaines-de-competitions/1739048#at_medium=RSS_feeds",
-     "pub": "2026-10-27T14:46+00:00"
-    },
-    {
-     "medio": "Guardian",
-     "titulo": "João Pedro out for ‘a few weeks’, reveals Alonso; Donnarumma gets Maresca’s backing",
-     "url": "https://www.theguardian.com/football/2026/oct/27/manchester-city-chelsea-liverpool-carabao-cup",
-     "pub": "2026-10-27T22:30+00:00"
-    },
-    {
-     "medio": "Daily Mail",
-     "titulo": "Xabi Alonso insists he WILL celebrate against his former club Liverpool if Chelsea score - as Blues look to bounce back from dismal Tottenham defeat WITHOUT star striker Joao Pedro",
-     "url": "https://www.dailymail.com/sport/football/article-16242945/Xabi-Alonso-celebrate-Liverpool-Chelsea-Joao-Pedro.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-     "pub": "2026-10-27T23:00+00:00"
-    },
-    {
-     "medio": "ge.globo",
-     "titulo": "Jardim minimiza jejum e valoriza entrega de Pedro, que continua sem reserva no Flamengo",
-     "url": "https://ge.globo.com/futebol/times/flamengo/noticia/2026/10/28/jardim-minimiza-jejum-e-valoriza-entrega-de-pedro-que-continua-sem-reserva-no-flamengo.ghtml",
-     "pub": "2026-10-28T11:00+00:00"
-    },
-    {
-     "medio": "ge.globo",
-     "titulo": "Xabi Alonso diz que João Pedro está lesionado e vai desfalcar o Chelsea nos próximos jogos",
-     "url": "https://ge.globo.com/futebol/futebol-internacional/noticia/2026/10/28/xabi-alonso-diz-que-joao-pedro-esta-lesionado-e-vai-desfalcar-o-chelsea-nos-proximos-jogos.ghtml",
-     "pub": "2026-10-28T10:25+00:00"
-    }
-   ]
-  },
-  {
-   "tema": "Utd",
-   "medios": 7,
+   "tema": "Milan",
+   "medios": 9,
    "lista_medios": [
     "BBC",
     "Foot Mercato",
-    "Google News EN",
+    "Football Italia",
+    "Google News ES",
+    "Kicker",
     "Mirror",
-    "Planet Football",
-    "Sky Sports",
-    "talkSPORT"
+    "Mundo Deportivo",
+    "Yahoo",
+    "ge.globo"
    ],
    "primera_vez": "2026-10-27T12:36+00:00",
    "titulares": [
     {
-     "medio": "BBC",
-     "titulo": "Carrick to stay in charge of Man Utd for Chelsea game",
-     "url": "https://www.bbc.co.uk/sport/football/articles/crlykgeqzypyo?at_medium=RSS&at_campaign=rss",
-     "pub": "2026-10-27T12:10+00:00"
-    },
-    {
-     "medio": "Sky Sports",
-     "titulo": "Carrick to remain in charge of Man Utd for Chelsea trip",
-     "url": "https://www.skysports.com/football/news/12040/13604347/man-utd-boss-michael-carrick-to-remain-in-charge-vs-chelsea-and-given-chance-to-turn-situation-around",
-     "pub": "2026-10-27T12:03+00:00"
-    },
-    {
-     "medio": "Sky Sports",
-     "titulo": "Are Chelsea back? Have Man Utd weathered early-season storm?",
-     "url": "https://www.skysports.com/football/news/12040/13604005/are-chelsea-finally-playing-the-brand-of-football-sonia-bompastor-wants-and-is-it-wsl-title-worthy",
+     "medio": "Yahoo",
+     "titulo": "Pulisic ready to sign Milan contract extension as new salary revealed",
+     "url": "https://sports.yahoo.com/articles/pulisic-ready-sign-milan-contract-114500044.html",
      "pub": "2026-10-27T11:45+00:00"
     },
     {
-     "medio": "talkSPORT",
-     "titulo": "Get 40/1 on neither Man City nor Man Utd to be in the Premier League next season",
-     "url": "https://talksport.com/football/4670460/man-city-man-utd-premier-league-relegation-betting-offer/",
-     "pub": "2026-10-27T11:51+00:00"
+     "medio": "BBC",
+     "titulo": "Milan derby to be shown live on BBC Two",
+     "url": "https://www.bbc.co.uk/sport/football/articles/crvg93zvgjzzo?at_medium=RSS&at_campaign=rss",
+     "pub": "2026-10-27T16:38+00:00"
     },
     {
      "medio": "Mirror",
-     "titulo": "Michael Carrick keeps his job as Man Utd chiefs give under-fire boss another chance",
-     "url": "https://www.mirror.co.uk/sport/football/news/man-utd-carrick-keeping-job-37814620",
-     "pub": "2026-10-27T12:20+00:00"
-    },
-    {
-     "medio": "Mirror",
-     "titulo": "Michael Carrick future LIVE: Man Utd make decision for Chelsea as players and staff informed",
-     "url": "https://www.mirror.co.uk/sport/football/news/man-united-manager-latest-live-37813167",
-     "pub": "2026-10-27T12:04+00:00"
-    },
-    {
-     "medio": "Mirror",
-     "titulo": "Entitled Man Utd fans don't deserve Eddie Howe if they can't see that he's the perfect fit",
-     "url": "https://www.mirror.co.uk/sport/football/eddie-howe-newcastle-man-utd-37814141",
-     "pub": "2026-10-27T11:17+00:00"
-    },
-    {
-     "medio": "Mirror",
-     "titulo": "Eddie Howe gave clear response when asked about Man Utd job",
-     "url": "https://www.mirror.co.uk/sport/football/news/man-utd-eddie-howe-carrick-37814017",
-     "pub": "2026-10-27T11:10+00:00"
-    },
-    {
-     "medio": "Mirror",
-     "titulo": "Steven Gerrard names seven Man Utd players who aren't good enough including ex-teammate",
-     "url": "https://www.mirror.co.uk/sport/football/news/gerrard-man-utd-criticism-transfers-37813719",
-     "pub": "2026-10-27T10:04+00:00"
-    },
-    {
-     "medio": "Mirror",
-     "titulo": "Jamie Carragher reveals Jason Tindall concern as Eddie Howe emerges as Man Utd favourite",
-     "url": "https://www.mirror.co.uk/sport/football/news/carragher-howe-man-utd-tindall-37813433",
-     "pub": "2026-10-27T09:22+00:00"
-    },
-    {
-     "medio": "Mirror",
-     "titulo": "Paul Scholes says Man Utd manager candidate is 'miles ahead' despite 'massive warning'",
-     "url": "https://www.mirror.co.uk/sport/football/news/scholes-man-utd-conte-carrick-37813257",
-     "pub": "2026-10-27T08:09+00:00"
-    },
-    {
-     "medio": "Mirror",
-     "titulo": "Man Utd news: Sir Jim Ratcliffe's top pick to replace Michael Carrick as key demand revealed",
-     "url": "https://www.mirror.co.uk/sport/football/news/manchester-united-carrick-sack-howe-37811163",
-     "pub": "2026-10-27T04:30+00:00"
-    }
-   ]
-  },
-  {
-   "tema": "Town",
-   "medios": 7,
-   "lista_medios": [
-    "Daily Mail",
-    "FourFourTwo",
-    "Guardian",
-    "L'Equipe",
-    "Planet Football",
-    "Sky Sports",
-    "Yahoo"
-   ],
-   "primera_vez": "2026-10-27T12:36+00:00",
-   "titulares": [
-    {
-     "medio": "Sky Sports",
-     "titulo": "Smith ruled out of Cape Town Test late due to neck injury",
-     "url": "https://www.skysports.com/cricket/news/12040/13604271/australia-vs-south-africa-steve-smith-ruled-out-of-cape-town-test-due-to-injury",
-     "pub": "2026-10-27T08:02+00:00"
+     "titulo": "Ruben Amorim ready to exploit Man Utd crisis as AC Milan eye stunning transfer",
+     "url": "https://www.mirror.co.uk/sport/football/transfer-news/amorim-manchester-united-fernandes-milan-37817169",
+     "pub": "2026-10-28T08:32+00:00"
     },
     {
      "medio": "Yahoo",
-     "titulo": "7 Arsenal youths join first-team training pre-Fleetwood Town clash",
-     "url": "https://sports.yahoo.com/articles/7-arsenal-youths-join-first-120500868.html",
-     "pub": "2026-10-27T12:05+00:00"
+     "titulo": "Donadoni: ‘Amorim needs time, hope Milan have fewer ups and downs’",
+     "url": "https://sports.yahoo.com/articles/donadoni-amorim-needs-time-hope-122000707.html",
+     "pub": "2026-10-28T12:20+00:00"
     },
     {
-     "medio": "Yahoo",
-     "titulo": "Arsenal 27yo to wear mask vs Fleetwood Town after broken nose",
-     "url": "https://sports.yahoo.com/articles/arsenal-27yo-wear-mask-vs-110500007.html",
-     "pub": "2026-10-27T11:05+00:00"
+     "medio": "Google News ES",
+     "titulo": "AC Milan vs Bolonia de Serie A 2026/2027: horario y dónde ver hoy por TV y online el partido de la liga italiana a través de DAZN",
+     "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPRmh5THA2OTNtZDFkdzhOVFcxdm84SjU5LVE5dlY2RUtXYVRpVWNPSFIyYlhwckp2V2NPbW9XWE9PcFhMLWtJb1FIQzNrNXhrNmdfV2h1bXliNmJPa0pDZ3h5eVZZeHQzZWVpM1FtYUdWWTB5enRrUk81Wl9wd2JWSnhtd2FFTnp0NUhzVWxscEFXeWc1Q0FvNjluUmZWSlgxX3ktemVvSHRaY1RlS0JfNXJHcGVtZmFFVWtNak11eVBxWWMtOXFNZ01rRUNDM2ZSTi12VFdzR2xvT0hjT0FsekJLcFRwelRxQV9QTjVMTms?oc=5",
+     "pub": "2026-10-28T11:25+00:00"
     },
     {
-     "medio": "Guardian",
-     "titulo": "Fleetwood Town v Arsenal: Carabao Cup fourth round – live",
-     "url": "https://www.theguardian.com/football/live/2026/oct/27/fleetwood-town-v-arsenal-carabao-cup-fourth-round-live",
-     "pub": "2026-10-27T18:30+00:00"
+     "medio": "Football Italia",
+     "titulo": "Milan circle back for Hardung and have agreement in principle with Krösche",
+     "url": "https://football-italia.net/milan-circle-back-hardung-kroesche-agreement/",
+     "pub": "2026-10-28T13:10+00:00"
     },
     {
-     "medio": "Daily Mail",
-     "titulo": "Fleetwood Town vs Arsenal - Carabao Cup: Mikel Arteta's side travel to the seaside gunning for a place in the fifth round",
-     "url": "https://www.dailymail.com/sport/football/article-16241979/Fleetwood-Town-vs-Arsenal-Carabao-Cup-LIVE.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-     "pub": "2026-10-27T18:49+00:00"
+     "medio": "Football Italia",
+     "titulo": "Serie A: Milan vs. Bologna – Probable line-ups and where to watch on TV",
+     "url": "https://football-italia.net/serie-a-milan-vs-bologna-probable-line-ups-4/",
+     "pub": "2026-10-28T09:27+00:00"
     },
     {
-     "medio": "FourFourTwo",
-     "titulo": "How to watch Fleetwood Town vs Arsenal: live stream details for Carabao Cup round of 16 tie",
-     "url": "https://www.fourfourtwo.com/competition/watch-fleetwood-town-vs-arsenal-carabao-cup-round-of-16-tie",
-     "pub": "2026-10-27T17:00+00:00"
+     "medio": "Football Italia",
+     "titulo": "Today’s Papers: Lazio hit six, goals for everyone, over to Inter and Milan",
+     "url": "https://football-italia.net/todays-papers-lazio-hit-six-goals-for-everyone-over-to-inter-and-milan/",
+     "pub": "2026-10-28T08:43+00:00"
     },
     {
-     "medio": "Daily Mail",
-     "titulo": "Sky Sports issue FOUR apologies after Fleetwood Town star's hilarious X-rated interview following stunning win over Arsenal in Carabao Cup",
-     "url": "https://www.dailymail.com/sport/football/article-16244181/Sky-Sports-issue-FOUR-apologies-Fleetwood-Town-stars-hilarious-X-rated-interview-following-shock-win-Arsenal-Carabao-Cup.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-     "pub": "2026-10-28T10:09+00:00"
+     "medio": "Foot Mercato",
+     "titulo": "AC Milan : la fresque hommage à Baresi encore vandalisée",
+     "url": "https://www.footmercato.net/a1303101653924264850-ac-milan-la-fresque-hommage-a-baresi-encore-vandalisee",
+     "pub": "2026-10-27T21:03+00:00"
     },
     {
-     "medio": "Planet Football",
-     "titulo": "7 of Arsenal’s biggest embarrassments after shock EFL Cup exit to Fleetwood Town",
-     "url": "https://www.planetfootball.com/arsenal/arsenal-biggest-embarrassments-defeats",
-     "pub": "2026-10-28T12:28+00:00"
+     "medio": "Mundo Deportivo",
+     "titulo": "AC Milan - Bologna, en directo | Serie A",
+     "url": "https://www.mundodeportivo.com/futbol/serie-a/20261028/1004242492/ac-milan-bologna-directo-serie.html",
+     "pub": ""
     },
     {
-     "medio": "FourFourTwo",
-     "titulo": "Triple Arsenal injury update issued after Carabao Cup upset against Fleetwood Town",
-     "url": "https://www.fourfourtwo.com/team/triple-arsenal-injury-update-issued-after-carabao-cup-upset-against-fleetwood-town",
-     "pub": "2026-10-28T10:06+00:00"
+     "medio": "Football Italia",
+     "titulo": "Serie A official line-ups: Milan vs. Bologna",
+     "url": "https://football-italia.net/serie-a-official-line-ups-milan-vs-bologna-wk9/",
+     "pub": "2026-10-28T16:30+00:00"
     },
     {
-     "medio": "L'Equipe",
-     "titulo": "De Jamie Vardy à Joey Barton, quel est donc ce club de Fleetwood Town, tombeur d'Arsenal en League Cup ?",
-     "url": "https://www.lequipe.fr/Football/Actualites/De-jamie-vardy-a-joey-barton-quel-est-donc-ce-club-de-fleetwood-town-tombeur-d-arsenal-en-league-cup/1739257#at_medium=RSS_feeds",
-     "pub": "2026-10-28T12:32+00:00"
+     "medio": "Football Italia",
+     "titulo": "Goncalo Ramos: ‘I wanted to leave PSG in January, now happy at Milan’",
+     "url": "https://football-italia.net/goncalo-ramos-i-wanted-to-leave-psg-milan/",
+     "pub": "2026-10-28T16:23+00:00"
     }
    ]
   }

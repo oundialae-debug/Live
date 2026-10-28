@@ -1,4 +1,4 @@
-# Titulares de fútbol (2026-10-28 13:25 UTC, últimas 36 h)
+# Titulares de fútbol (2026-10-28 19:03 UTC, últimas 36 h)
 
 Generado por `scripts/titulares.py` (workflow `tendencias`). Leídos 26 de 34 medios; fuentes en `redes/fuentes.md`.
 
@@ -6,117 +6,117 @@ Generado por `scripts/titulares.py` (workflow `tendencias`). Leídos 26 de 34 me
 
 | Tema | Nº medios | Medios | Ejemplo |
 |---|---|---|---|
-| Arsenal | 16 | BBC, Daily Mail, Foot Mercato, FourFourTwo, Google News EN, Guardian, Infobae, L | Arsenal to appeal against Dowman red card |
-| Madrid | 16 | AS, Daily Mail, Foot Mercato, FourFourTwo, Google News EN, Guardian, Infobae, L' | Barcelona fined £503 over their approach for Atlético Madrid star Álvarez |
-| Kane | 14 | BBC, Daily Mail, Foot Mercato, Football Italia, FourFourTwo, Google News EN, Gua | 'Relax, I love Kane and Lamine Yamal' - Henry defends his Ballon d'Or hosting |
-| Mbappé | 14 | AS, Foot Mercato, Google News AR, Google News ES, Guardian, Infobae, Kicker, L'E | Kylian Mbappé apologises after being dropped by Chinese brands for Mao Zedong comment |
-| Ballon | 13 | BBC, Daily Mail, Foot Mercato, Football Italia, FourFourTwo, Google News EN, Gua | 'Relax, I love Kane and Lamine Yamal' - Henry defends his Ballon d'Or hosting |
-| Fleetwood | 13 | BBC, Daily Mail, FourFourTwo, Google News EN, Guardian, L'Equipe, Mirror, Planet | Where does Fleetwood beating Arsenal rank in biggest cup upsets? |
-| Dowman | 12 | BBC, Daily Mail, FourFourTwo, Google News EN, Guardian, L'Equipe, Mirror, Mundo  | Arsenal to appeal against Dowman red card |
-| Carrick | 11 | BBC, Daily Mail, FourFourTwo, Google News EN, Guardian, Mirror, Planet Football, | Carrick and Fernandes hold clear-the-air talks |
-| Harry | 11 | Daily Mail, Foot Mercato, FourFourTwo, Google News EN, Guardian, Kicker, L'Equip | Arise, Sir Harry? Downing Street hints at Kane knighthood after Ballon d’Or win |
-| China | 10 | AS, Daily Mail, Guardian, Kicker, Mundo Deportivo, Ole, Yahoo, ge.globo, r/socce | Kylian Mbappé’s China crisis shows how sensitive Mao’s legacy remains |
-| Fernandes | 9 | BBC, Daily Mail, FourFourTwo, Google News EN, Guardian, Mirror, Record, Sky Spor | Carrick and Fernandes hold clear-the-air talks |
-| Yamal | 9 | BBC, Daily Mail, Foot Mercato, Google News EN, Google News ES, Mirror, Ole, r/so | 'Relax, I love Kane and Lamine Yamal' - Henry defends his Ballon d'Or hosting |
-| Lamine | 9 | BBC, Daily Mail, Foot Mercato, Google News EN, Google News ES, Mirror, Ole, r/so | 'Relax, I love Kane and Lamine Yamal' - Henry defends his Ballon d'Or hosting |
-| Arteta | 9 | BBC, Daily Mail, FourFourTwo, Google News EN, L'Equipe, Mirror, Sky Sports, Yaho | Dowman sees red as Arsenal dumped out, but did Arteta go too far? |
-| Barcelona | 9 | BBC, Daily Mail, Google News EN, Guardian, Infobae, Mirror, Planet Football, Yah | Barcelona fined £503 over approach for Alvarez |
-| Man | 8 | BBC, Daily Mail, Mirror, Planet Football, Record, Sky Sports, Yahoo, talkSPORT | Blackpool beat Villa and Vale thrash Man City in Trophy |
-| Mao | 8 | BBC, Daily Mail, Google News ES, Guardian, L'Equipe, Yahoo, r/soccer (top día),  | Chinese brands drop Mbappe as backlash grows over Mao joke |
-| Kylian | 8 | Daily Mail, Foot Mercato, FourFourTwo, Guardian, L'Equipe, Ole, r/soccer (top dí | Kylian Mbappé’s China crisis shows how sensitive Mao’s legacy remains |
-| Max | 8 | Daily Mail, FourFourTwo, Google News EN, Mirror, Mundo Deportivo, Yahoo, r/socce | Fleetwood goalkeeper reveals specific Arsenal plan that led to Max Dowman red |
-| Henry | 7 | BBC, Daily Mail, Foot Mercato, Google News EN, Mirror, Mundo Deportivo, Yahoo | 'Relax, I love Kane and Lamine Yamal' - Henry defends his Ballon d'Or hosting |
-| Liverpool | 7 | BBC, Daily Mail, FourFourTwo, Google News EN, Mirror, Yahoo, talkSPORT | Liverpool gambled on Jacquet and it is paying off |
-| Infantino | 7 | BBC, Foot Mercato, Google News EN, Guardian, L'Equipe, Mundo Deportivo, Yahoo | FAW boss renews call for Infantino to step down |
-| Chelsea | 7 | Daily Mail, Mirror, Planet Football, Sky Sports, Yahoo, ge.globo, talkSPORT | Carrick and Fernandes hold clear-the-air talks ahead of Chelsea fixture |
-| Carabao | 7 | Daily Mail, FourFourTwo, Google News EN, Mirror, Sky Sports, r/soccer (top día), | Arsenal dumped out of Carabao Cup by League Two Fleetwood |
-| Bruno | 7 | Daily Mail, FourFourTwo, Google News EN, Mirror, Record, Yahoo, ge.globo | Paul Scholes tells Bruno Fernandes he's FINISHED as Man United captain - and should 'just go to Saudi Arabia t |
+| Arsenal | 14 | BBC, Daily Mail, Foot Mercato, FourFourTwo, Google News EN, Guardian, Infobae, L | Arsenal to appeal against Dowman red card |
+| Kane | 13 | BBC, Daily Mail, FourFourTwo, Google News EN, Guardian, Kicker, L'Equipe, Mirror | 'Relax, I love Kane and Lamine Yamal' - Henry defends his Ballon d'Or hosting |
+| Madrid | 13 | AS, BBC, Daily Mail, Foot Mercato, FourFourTwo, Guardian, Infobae, L'Equipe, Mun | All Spanish cup matches suspended after Madrid train collision |
+| Ballon | 12 | BBC, Daily Mail, Foot Mercato, FourFourTwo, Google News EN, Guardian, L'Equipe,  | 'Relax, I love Kane and Lamine Yamal' - Henry defends his Ballon d'Or hosting |
+| Manchester | 12 | Daily Mail, Foot Mercato, FourFourTwo, Google News EN, Guardian, Infobae, L'Equi | Howe, Nagelsmann, Pochettino: can anyone end Manchester United’s doom loop? |
+| Liverpool | 11 | BBC, Daily Mail, FourFourTwo, Google News AR, Google News EN, Guardian, Mirror,  | Liverpool gambled on Jacquet and it is paying off |
+| Fleetwood | 11 | BBC, Daily Mail, FourFourTwo, Google News EN, Guardian, L'Equipe, Mirror, Planet | Where does Fleetwood beating Arsenal rank in biggest cup upsets? |
+| Carrick | 10 | BBC, Daily Mail, Foot Mercato, FourFourTwo, Google News EN, Guardian, Mirror, Mu | Carrick and Fernandes hold clear-the-air talks |
+| Yamal | 10 | BBC, Daily Mail, Foot Mercato, Google News EN, Google News ES, Mirror, Ole, ge.g | 'Relax, I love Kane and Lamine Yamal' - Henry defends his Ballon d'Or hosting |
+| Chelsea | 10 | Daily Mail, Football Italia, FourFourTwo, Google News AR, Guardian, Mirror, Plan | Liverpool v Chelsea: Carabao Cup fourth round – live |
+| Harry | 10 | Daily Mail, FourFourTwo, Google News EN, Guardian, L'Equipe, Mundo Deportivo, Te | Arise, Sir Harry? Downing Street hints at Kane knighthood after Ballon d’Or win |
+| Man | 9 | BBC, Daily Mail, Football Italia, Google News EN, Mirror, Planet Football, Recor | Man Utd stick with Carrick - inside a turbulent 48 hours at Old Trafford |
+| Fernandes | 8 | BBC, Daily Mail, Foot Mercato, FourFourTwo, Google News EN, Mirror, Mundo Deport | Carrick and Fernandes hold clear-the-air talks |
+| Lamine | 8 | BBC, Daily Mail, Foot Mercato, Google News EN, Google News ES, Ole, r/soccer (to | 'Relax, I love Kane and Lamine Yamal' - Henry defends his Ballon d'Or hosting |
+| Dowman | 8 | BBC, Daily Mail, FourFourTwo, L'Equipe, Mirror, Sky Sports, r/soccer (top día),  | Arsenal to appeal against Dowman red card |
+| Barcelona | 8 | AS, BBC, Daily Mail, Football Italia, Google News ES, Guardian, Yahoo, ge.globo | Barcelona fined £503 over approach for Alvarez |
+| Carabao | 8 | Daily Mail, FourFourTwo, Google News EN, Guardian, Mirror, Yahoo, r/soccer (top  | Liverpool v Chelsea: Carabao Cup fourth round – live |
+| Arteta | 7 | BBC, Daily Mail, FourFourTwo, Guardian, L'Equipe, Mirror, talkSPORT | Dowman sees red as Arsenal dumped out, but did Arteta go too far? |
+| Max | 7 | Daily Mail, FourFourTwo, Google News EN, Guardian, Mirror, r/soccer (top día), t | Max Dowman’s Fleetwood fracas leaves him, Arsenal and Arteta red-faced |
+| Kylian | 7 | Daily Mail, Foot Mercato, FourFourTwo, Guardian, L'Equipe, r/soccer (top día), t | Kylian Mbappé’s China crisis shows how sensitive Mao’s legacy remains | Rebecca Bailey |
+| Bayern | 7 | Daily Mail, Foot Mercato, Kicker, L'Equipe, Mundo Deportivo, Planet Football, ge | Vincent Kompany 'dislocated his shoulder' after collapsing at Bayern Munich training ground as doctors 'rule o |
+| Inter | 7 | AS, Football Italia, Infobae, Mundo Deportivo, Ole, Yahoo, ge.globo | Stankovic brothers face off for first time as Dejan watches Aleksandar’s first Inter start |
+| Mbappé | 7 | AS, Foot Mercato, Google News ES, L'Equipe, Mundo Deportivo, ge.globo, r/soccer  | Mbappé, una decepción más con el Balón de Oro |
+| China | 6 | Daily Mail, Google News EN, Guardian, ge.globo, r/soccer (top día), talkSPORT | Kylian Mbappé’s China crisis shows how sensitive Mao’s legacy remains | Rebecca Bailey |
+| Brighton | 6 | Daily Mail, Google News EN, Mirror, Sky Sports, Yahoo, ge.globo | Man City change NINE to host Brighton LIVE! |
 
 ## Titulares por medio
 
-**BBC** (34)
+**BBC** (36)
 - Carrick and Fernandes hold clear-the-air talks
-- Arsenal to appeal against Dowman red card
 - 'Relax, I love Kane and Lamine Yamal' - Henry defends his Ballon d'Or hosting
+- Burnley appoint ex-Basel boss Celestini as head coach
+- All Spanish cup matches suspended after Madrid train collision
+- Arsenal to appeal against Dowman red card
+- Johnstone Burgh to play two cup ties simultaneously after schedule clash
 - Liverpool gambled on Jacquet and it is paying off
-- Kuyt named Fenerbahce interim boss before Liverpool tie
-- Dowman sees red as Arsenal dumped out, but did Arteta go too far?
-- Are Celtic any nearer Ferrari form a year after Rodgers exit?
-- Play the 100th edition of Who am I? Plus today's other quizzes
+- Davies crossing divide between pitch and boardroom
+- McClean leaves Derry City after contract dispute
+- Wrexham fined for fielding ineligible players
 - Can clubs stop team news leaking out through FPL picks?
-- Barcelona fined £503 over approach for Alvarez
-- Blackpool beat Villa and Vale thrash Man City in Trophy
-- Where does Fleetwood beating Arsenal rank in biggest cup upsets?
+- Play the 100th edition of Who am I? Plus today's other quizzes
 
 **Guardian** (18)
-- Fernandes tells Carrick he is committed to turning season around in clear-the-air talks
-- ‘What you live for’: Fleetwood revel in seismic Arsenal shock after Dowman sees red
+- Liverpool v Chelsea: Carabao Cup fourth round – live
+- Arsenal v Benfica: Women’s Champions League – live
+- Football Daily | Fleetwood go their own way to down Arsenal and live Carabao Cup dream
+- Max Dowman’s Fleetwood fracas leaves him, Arsenal and Arteta red-faced
+- Howe, Nagelsmann, Pochettino: can anyone end Manchester United’s doom loop?
 - Lise Klaveness: ‘Certainly there are people that can challenge Infantino’
+- Kylian Mbappé’s China crisis shows how sensitive Mao’s legacy remains | Rebecca Bailey
 - West Ham’s Viviane Asseyi: ‘When I was four I said I wanted to be like Zidane’
-- Kylian Mbappé’s China crisis shows how sensitive Mao’s legacy remains
 - Which footballers have scored in the same minute as their surname? | The Knowledge
-- João Pedro out for ‘a few weeks’, reveals Alonso; Donnarumma gets Maresca’s backing
-- Pierre Sage given more time by Crystal Palace but remains under pressure
-- Barcelona fined £503 over their approach for Atlético Madrid star Álvarez
 - An unmanageable club? Carrick the latest to suffer in Manchester United’s faded grandeur
-- Alexia Putellas a worthy Ballon d’Or winner but the limited shortlist illustrates flaws
-- Kylian Mbappé apologises after being dropped by Chinese brands for Mao Zedong comment
+- Barcelona fined £503 over their approach for Atlético Madrid star Alvarez
+- João Pedro out for ‘a few weeks’, reveals Alonso; Donnarumma gets Maresca’s backing
 
-**Sky Sports** (19)
-- McLaren plan further upgrades after Austin struggles
-- Nations Championship: Schedule as inaugural tournament gears up for finals
-- Carrick and Fernandes hold clear-the-air talks ahead of Chelsea fixture
-- Serrano to have final fight against Falzon with three-minute rounds
-- Vickery's bodybuilding transformation amid life-changing diagnosis
-- Anderson set to continue playing career in Italy
-- Arsenal dumped out of Carabao Cup by League Two Fleetwood
-- The two teenage darts superstars ready to challenge Littler
-- Wawrinka's emotional farewell to tennis in Basel
-- Expectation vs reality: What if Man Utd have become a mid-table team?
-- 'Kimi's above the rest!' | Moments that DEFINED the title race so far
-- Arteta explains reaction to Dowman red card amid criticism
+**Sky Sports** (17)
+- Norris, Verstappen among 10 F1 drivers to miss Mexico first practice
+- Liverpool start the young guns vs Chelsea LIVE!
+- Man City change NINE to host Brighton LIVE!
+- Norris' LN4 fusion given F2 entry for 2027 season
+- WCL: Carpenter smuggles home Chelsea opener vs Roma LIVE!
+- BHA chief predicts 'devastating' impact on racing from Budget tax rise
+- Inglis, Carey dig in to put Australia on top against South Africa in third Test
+- Scottish Premiership team news LIVE!
+- Tucker joins Chiefs after suspension for violating NFL conduct policy
+- Fulham latest: Ali Wahid says Boreham Wood perfect place for him to progress
+- Matthew Hatton: Defeat to Mbilli would tarnish Canelo's legacy
+- Perez signs new Cadillac contract ahead of home race
 
 **talkSPORT** (40)
+- EFL manager warned he&#8217;s sleepwalking into a divorce with club
+- Harry Kane projected for immediate financial windfall after Ballon d&#8217;Or triumph
+- EFL club&#8217;s parent company responds to $142m liquidation threat just days after manager firing
+- James McClean becomes free agent as contract ripped up to end ugly long-running dispute
+- Ex-referee claps back at Mikel Arteta&#8217;s technical area complaint and brings proof
+- Arsenal youth team beat EFL side 25 places above Fleetwood on same night as Carabao Cup nightmare
+- Spanish FA takes significant action after devastating fatal train crash
+- Bruno Fernandes set for Man United return after fresh talks with Michael Carrick
 - Harry Kane&#8217;s ex-teacher reveals inside story behind picture of Ballon d&#8217;Or winner and his wife with David Beckham
 - Fleetwood goalkeeper reveals specific Arsenal plan that led to Max Dowman red
 - Ashley Cole interviewed for first EFL job but faces competition from Championship coach
 - Arsenal made double transfer mistake in the summer and Fleetwood embarrassment proved it
-- Dirk Kuyt handed emergency manager role with imminent Liverpool fixture
-- When is Cristiano Ronaldo playing next with star ready to return after interrupted schedule
-- &#8216;Done my neck in&#8217; &#8211; Fleetwood manager hit by rugby tackle in wild Arsenal celebrations
-- Darragh MacAnthony promises to sell Peterborough if they fail to meet four-month objective
-- Liverpool and Chelsea to set unique Carabao Cup record immediately after kick-off
-- Carabao Cup quarter-final draw date, time, confirmed ball numbers and how to follow as last eight ties decided
-- talkSPORT tips – Best football bets and expert advice for Wednesday October 28
-- Mikel Arteta swerves question on Max Dowman red card but Arsenal manager&#8217;s death stare said it all
 
 **Daily Mail** (36)
-- Arsenal's defeat by Fleetwood is the greatest upset in the history of the Carabao Cup: Premier League champions sunk by League Two side on d
-- Arsenal fans in MELTDOWN after greatest League Cup upset ever: Piers Morgan hits out at 'thuggish' Fleetwood star's 'career-ending' tackle o
-- Paul Scholes tells Bruno Fernandes he's FINISHED as Man United captain - and should 'just go to Saudi Arabia to get out of the way' - after 
+- Derry City TEAR UP James McClean's contract: Poppy protest footballer's nightmare return to childhood club comes to an end amid claims he wa
+- Michael Carrick holds Carrington summit with Bruno Fernandes amid tension between Man United boss and captain after Bournemouth snub and 'lo
+- OLIVER HOLT: Where Fleetwood beating Arsenal ranks in the top 10 biggest Cup upsets I've been to
 - Kylian Mbappe's China row explodes as state broadcaster stands by Real Madrid blackout and REJECTS apology following 'dictator' Chairman Mao
-- Mikel Arteta FUMES at Max Dowman after Arsenal star, 16, sent off in shock Carabao Cup defeat by Fleetwood as Gunners manager's angry reacti
-- Sky Sports issue FOUR apologies after Fleetwood Town star's hilarious X-rated interview following stunning win over Arsenal in Carabao Cup
-- Former Stockport County boss is new favourite to take over Sheffield Wednesday post - with promotion-winning rival also in contention as sho
-- Lamine Yamal FINALLY congratulates Harry Kane on Ballon d'Or win after disrespect row and conspiracy theories - but bitter Barcelona star, 1
-- Harry Kane's rivals spark conspiracy theories over 'orchestrated' Ballon d'Or win: Lamine Yamal's uncle says it's 'not right' as Real Madrid
-- Man United chiefs have been struck by paralysis and indecision again. By not putting Michael Carrick out of his misery, they are letting ano
+- Michael Carrick CAN still save his job at Man United - these are the three things he must do in last roll of the dice at Chelsea, writes NAT
+- Arsenal launch appeal against Max Dowman's red card: Gunners fight to overturn 16-year-old's ban before Liverpool clash following his furiou
+- Vincent Kompany 'dislocated his shoulder' after collapsing at Bayern Munich training ground as doctors 'rule out heart attack and stroke'
 - Thierry Henry hits back at Ballon d'Or hosting backlash after excruciatingly awkward Lamine Yamal 'joke' and the 'disrespectful' moment he c
-- Meet Fleetwood's giant-killers: Victory over Arsenal inspired by an ex-warehouse worker, 'the next Wayne Rooney' and the star romantically l
+- Arsenal fans in MELTDOWN after greatest League Cup upset ever: Piers Morgan hits out at 'thuggish' Fleetwood star's 'career-ending' tackle o
+- Former Stockport County boss is new favourite to take over Sheffield Wednesday post - with promotion-winning rival also in contention as sho
+- Liverpool vs Chelsea - Carabao Cup: Xabi Alonso returns to Anfield for a place in the quarter-finals up with grabs plus updates from Manches
+- Derry City TEAR UP James McClean's contract: Poppy protest footballer's nightmare return to childhood club comes to an end amid claims he wa
 
 **Mirror** (25)
-- Bruno Fernandes broke rank with message to sacked manager - now everything has changed
-- Fleetwood humiliation exposed transfer mistake that could derail Arsenal's season
-- Michael Carrick future LIVE: Bruno Fernandes meeting, duo at risk, Ratcliffe jets in
-- Mikel Arteta's behaviour in Fleetwood tunnel shows he's not like mentor Pep Guardiola
-- Sir Jim Ratcliffe jets in to watch Chelsea vs Man Utd as Michael Carrick pressure ramps up
-- INEOS' 6 biggest mistakes at Man Utd after taking huge Michael Carrick risk
-- Arsenal make fresh Max Dowman decision after Fleetwood red and Mikel Arteta anger
-- Ballon d'Or voter admits he made MISTAKE with Kane sixth and Yamal not in top 10
-- Why Chelsea signed 36-year-old Jordan Henderson and left Liverpool fans furious
-- POLL: Did Max Dowman deserve Mikel Arteta's angry six-word response after Arsenal red card?
-- Terry Butcher hails Premier League's 'Diego Maradona' - 'He can win games on his own'
-- Mikel Arteta's six-word outburst after Max Dowman red card revealed by lip reader
+- Vincent Kompany 'dislocated shoulder' in collapse as doctors rule out heart attack
+- Why is Erling Haaland absent from Man City squad to face Brighton? Everything we know
+- Michael Carrick future LIVE: Eddie Howe plan as sack timeline emerges after Man Utd talks
+- FIFA confirm staggering World Cup revenue after controversial ticket policy
+- How to watch Man City vs Brighton - TV channel, live stream and kick-off time
+- How to watch Liverpool vs Chelsea for free - TV channel, live stream and kick-off time
+- Inside Man Utd's decision to keep Michael Carrick as five reasons for U-turn emerge
+- Man Utd told Michael Carrick answers 'no' to two key questions in brutal reality check
+- Spanish Cup matches postponed after tragic train crash leaves at least 64 dead
+- Kevin Keegan to be given highest honour for the first time in Newcastle's history
+- Sir Alex Ferguson's three picks to become Man Utd boss as pressure grows on Michael Carrick
+- Conor Haughey: British teenager praised for helping Fleetwood Town dump Arsenal out of Carabao Cup
 
 **Telegraph** (2)
 - Fleetwood knock out Arsenal in one of the biggest shocks in League Cup history
@@ -125,6 +125,7 @@ Generado por `scripts/titulares.py` (workflow `tendencias`). Leídos 26 de 34 me
 **90min** (0)
 
 **Planet Football** (10)
+- Can you name every player to play for Chelsea and Liverpool in the Premier League?
 - 7 of Arsenal’s biggest embarrassments after shock EFL Cup exit to Fleetwood Town
 - Can you name every Chelsea club captain of the Premier League era?
 - Can you name every sponsor of the League Cup?
@@ -134,230 +135,229 @@ Generado por `scripts/titulares.py` (workflow `tendencias`). Leídos 26 de 34 me
 - 8 managers who came back from the brink of the sack as Carrick fights for Man Utd future
 - Can you name every team to knock Arsenal out of the League Cup since 2000?
 - Sportword: Play daily football word game on Planet Sport
-- The 10 best teams in world football right now – Our definitive power rankings ft. PSG, Arsenal, Barcelona…
 
-**FourFourTwo** (24)
+**FourFourTwo** (29)
+- In-form striker tipped for Manchester United move as the Red Devils look for an answer to scoring issue
+- Manchester United talks 'productive' as Michael Carrick reaches Bruno Fernandes decision
+- How to watch Arsenal vs Benfica - Free Streams, TV Details for UWCL clash
+- How to watch Liverpool vs Chelsea for FREE: live stream details as Xabi Alonso returns to Anfield in Carabao Cup 4th round
+- Abdellah Ouazane named as the Football Manager 27 wonderkid to sign this time around - by FM27 developer
+- Erling Haaland to 'make next step' towards Manchester City exit: report
+- Football Manager 27's  new tactical system is for 'the real hardcore'
 - Non-league club pledges to become the first club to play two matches at the same time - to solve bizarre calendar conundrum
 - What Mikel Arteta said to Max Dowman: Arsenal manager reveals conversation
 - Triple Arsenal injury update issued after Carabao Cup upset against Fleetwood Town
 - FM27 developer shares his best advice with FourFourTwo ahead of free release
 - Gary Neville reveals Stick To Football’s secret sauce
-- The Premier League Years Picture Quiz
-- Where did it all go wrong for Dele Alli?
-- Quickfire Quiz 233: Can you answer 10 questions in 90 seconds?
-- 'It crushed me' Former team-mate shares reflections and memories of Ballon d'Or winner Harry Kane's rise
-- Real Madrid plot another Liverpool raid for marquee signing next summer: report
-- Harry Kane has restored some much-needed credibility to Ballon d'Or - an award that desperately needed him to win it this year
-- How to watch Fleetwood Town vs Arsenal: live stream details and team news for Carabao Cup round of 16 tie
 
 **Yahoo** (40)
-- Struggling Scunthorpe sack boss Butler
-- The hypocrisy of Mikel Arteta’s scathing reaction towards ‘kid’ Max Dowman
-- How to watch Bayern Munich vs Borussia Dortmund live: Stream, TV, team news, Der Klassiker prediction
-- Arsenal to launch Max Dowman red card appeal after Fleetwood defeat
-- EXCLUSIVE | Gilles Grimandi on Monaco manager Filipe Luís: &#8216;I&#8217;m very impressed.&#8217;
-- Henry defends himself after Ballon d&#39;Or criticism
-- Girona retain interest in Barcelona youngster after failed summer move &#8211; report
-- He&#39;s confirmed it, Liverpool&#39;s perfect midfielder is here
-- How Mourinho has reinvented key superstar&#8217;s role at Real Madrid this season
-- 📸 Too harsh on his youngster?! Star manager faces fierce criticism
-- 📸 Too harsh on his youngster?! Star manager faces fierce criticism
-- Report: Liverpool star&#8217;ss dominance in duels has been key to transformation
+- Report: Everton Target La Liga Striker To Sort Problem Position
+- Wrexham fined for fielding ineligible players
+- 🗣️ Have your say : who is your B.O.A.T. ?
+- Burnley appoint ex-Basel boss Celestini as head coach
+- Napoli revive interest in Udinese defender Solet
+- Liverpool have secured their new Divock Origi
+- 🚨 Changes but Cherki and Foden start: Manchester City-Brighton line-ups
+- Manchester City vs Brighton: The starting lineups are in ahead of tonight&#8217;s Carabao Cup tie
+- Barcelona set for €602 fine over fans throwing object during El Clasico
+- Confirmed Line-Ups: Manchester City vs Brighton & Hove Albion (Carabao Cup Fourth Round)
+- Confirmed Line-Ups: Manchester City vs Brighton & Hove Albion (Carabao Cup Fourth Round)
+- Liverpool v Chelsea TV channel and how to watch Carabao Cup clash for free
 
 **Google News EN** (40)
-- Liverpool gambled on Jacquet and it is paying off
-- Football and Faith: Fábio Carvalho, Josh Dasilva and Igor Thiago
-- Harry Kane? Lamine Yamal? Who should win the Ballon d'Or?
-- If authorities tell people not to travel, should football be asking fans to?
-- Arthur Wharton: Celebrating a football pioneer
 - Arsenal to appeal against Max Dowman's red card against Fleetwood in Carabao Cup
-- Live EFL 2026/27 fixtures on Sky Sports | Championship, League One, League Two games, dates, kick-off times
-- Manchester United: Michael Carrick and Bruno Fernandes hold clear-the-air talks
-- Round-up of the biggest upsets in League Cup history
-- Thierry Henry responds to backlash over Ballon d'Or comments
-- Oxford vs Stockport
-- Play the 100th edition of Who am I? Plus today's other quizzes
+- ‍[WATCHLIVE]TV!] Brighton - Manchester City Football LIVE NOW
+- Summer Residential Football Camps in Manchester
+- Carabao Cup: Fleetwood Town's Conor Haughey on winning penalty and viral post-match interview
+- ‍[[[CBS^Sports]] Bournemouth - Aston Villa Football Live Today
+- Bromley: Andy Woodman sacking 'hurt', says assistant Byron Webster
+- ‍~!!@[LIvE@sTREAMs] Aston Villa - AFC Bournemouth Football live free! 28 October 2026
+- Liverpool gambled on Jacquet and it is paying off
+- ‍[WATCHLIVE]TV!] Aston Villa - Bournemouth Football Live Today
+- Follow Wednesday's Carabao Cup games live
+- 'I had football withdrawals during TV race show'
+- Burnley appoint ex-Basel boss Celestini as head coach
 
 **AS** (27)
-- Suspendida la jornada de Copa tras el accidente de tren
-- Bellingham reformula el ‘10′
+- Cristiano gana el premio BOAT a mejor futbolista de todos los tiempos: sus méritos y datos para hacerse con el galardón
+- Ya hay fechas para los partidos aplazados de Copa
+- Una crisis millonaria
+- Oficial: Sarabia es el nuevo entrenador del Espanyol
+- Las reacciones del mundo del deporte al accidente de tren en Toledo: Real Madrid, FC Barcelona, Rafa Nadal...
+- “Pagaría mucho dinero por vivir otra remontada en el Bernabéu...”
+- Ander Herrera recuerda una frase de Mourinho al hablar del ‘Caso City’ y se hace viral al instante
 - El Madrid se disculpa con el pueblo chino
 - Mbappé, una decepción más con el Balón de Oro
-- “Pagaría mucho dinero por vivir otra remontada en el Bernabéu...”
-- Controversias del Balón de Oro: hay cuatro polémicas
-- Ander Herrera explica por qué no funcionó el PSG de Messi, Neymar y Mbappé y hace un paralelismo con el Madrid
+- España 4 - Ecuador 1: resumen, resultado y goles del partido
+- Sanción categórica a Neymar por la ‘Ley Vinicius’
 - Mercado de fichajes, en directo: rumores, altas y bajas de LaLiga, Premier, Serie A...
-- El Racing expulsará a los socios ‘reventa’ de las entradas contra el Real Madrid
-- Luhay Hamido recibe la Medalla de Oro de la Cámara de Comercio: “El Ceuta se va a salvar”
-- Un derbi para la consagración de la nueva zaga txuri-urdin
-- Aplazado al 11-N el careo entre futbolistas y LaLiga en los juzgados
 
 **Mundo Deportivo** (40)
-- "Estás pensando en el Calatayud y luego te enteras de esto"
-- El Levante, la pesadilla que tendrá el Atlético para Halloween
-- Brian Fariñas sigue gustando al Girona, pero no hay contactos
-- Henry responde a la polémica que le salpicó en el Balón de Oro: "Quiero aclarar algunas cosas"
-- La televisión china retira el Racing de Santander - Real Madrid de su parrilla
-- El drama del Sanse desde que cambió Anoeta por Zubieta que le hunde en la tabla
-- El Atlético recupera al Cuti Romero y su mentalidad ganadora
-- Antonio Hidalgo: "Hay que ir con todo"
-- Temor por exprimir a Pedri: así le dosifican
-- El Sevilla suspende la rueda de prensa de García Plaza por la tragedia ferroviaria
-- ¡Suspendida la jornada de Copa del Rey de este miércoles!
-- El Barça traslada su apoyo a los afectados por el grave accidente ferroviario en Toledo
+- Monza - Nápoles, en directo | Serie A
+- Genoa - Juventus, en directo | Serie A
+- El Lens castiga a sus aficionados
+- La felicitación para Harry Kane de su gran socio en el Tottenham
+- La Real Sociedad vuelve a encender el motor en Zubieta con la mirada fija en el derbi
+- Bayern y Ajax inaugurarán un estadio en Kenia
+- La sanción que le cae a Neymar por la 'Ley Vinicius'
+- Las eliminatorias de Copa aplazadas por el accidente ferroviario ya tienen nuevos horarios
+- Ya es oficial: Eder Sarabia, nuevo entrenador del Espanyol
+- ¡Empata Tanikawa!
+- Carrick y Bruno Fernandes ponen sobre la mesa sus diferencias
+- Eder Sarabia es el elegido de Monchi: el Espanyol trabaja para anunciarlo hoy mismo
 
 **Google News ES** (40)
-- OFICIAL | Suspensión de la jornada de hoy miércoles en la Copa del Rey
-- Síguela en directo
-- Partidos de hoy de fútbol: horario y dónde ver por TV
-- Allá vamos ⚔️ #copadelrey #messi #worldcup #football #futbol
-- Pablo Hernández: «Hay cosas mucho más importantes que el fútbol»
-- Tavernes de la Valldigna vs Valencia de Copa del Rey 2026/27: cuándo se juega, horario y canal de TV en España
-- Mbappé maoísta: el fútbol cobarde
-- Suspendidos los partidos del miércoles en la Copa del Rey debido al grave accidente ferroviario en Toledo
-- Suspendida la jornada de Copa tras el accidente de tren
-- Astorga se vuelca con el fútbol femenino
-- luto: Suspendida la jornada de Copa del Rey de fútbol por el accidente de Urda
-- El fútbol sala vuelve al cole con Lucão y Piqueras
+- Nuevas fechas y horarios de los partidos aplazados este 28 de octubre de la Copa del Rey Mapfre
+- Plan Fútbol, Plan Motor, Plan Baloncesto, Plan Made in USA y Plan Premium: así son los planes de DAZN España
+- Mirando a San Mamés
+- Unas 2.500 personas asisten al espectáculo de Fútbol Freestyle en el Parque de los Príncipes, con algunos de los mejores deportistas del mun
+- Se suspende la jornada de Copa por el accidente ferroviario en Toledo
+- ¿Conoces las reglas del futsal? Lo que debes saber sobre el fútbol sala de cara a Dakar 2026
+- El campo de fútbol Jaime Mata cuenta ya con nuevo césped artificial e iluminación LED
+- Adam Árnason, del Cadete D convocado con las categorías inferiores de Islandia
+- El Segunda B de fútbol sala se impone al Mondrate en un partido de infarto (6-4)
+- La Federación confirma que habrá Copa del Rey este jueves y reparte los partidos suspendidos por el accidente de Urda en las próximas semana
+- Se suspende la jornada del miércoles en la Copa de España de S.M. el Rey de fútbol sala
+- Canal y horario del Barça - Minerva: dónde ver por TV el partido de la Champions League de fútbol sala
 
 **Gazzetta** (0)
 
 **Football Italia** (20)
-- Milan circle back for Hardung and have agreement in principle with Krösche
-- Donadoni: ‘Amorim needs time, hope Milan have fewer ups and downs’
-- Crespo: ‘Lazio deserve their lead, anyone who criticised Gattuso has to apologise’
-- Official: Spalletti names 23-man Juventus squad for Genoa
-- Italian journalist explains why he voted Mbappe over Kane for 2026 Ballon d’Or
-- Serie A: Monza vs. Napoli – Probable line-ups and where to watch on TV
-- Serie A: Genoa vs. Juventus – Probable line-ups and where to watch on TV
-- Serie A: Milan vs. Bologna – Probable line-ups and where to watch on TV
-- Serie A: Venezia vs. Inter – Probable line-ups and where to watch on TV
-- Today’s Papers: Lazio hit six, goals for everyone, over to Inter and Milan
-- Cagliari joy as Trepy returns 2 months after nearly drowning
-- Abate ‘a little angry’ at Torino 3-1 defeat to Como after leading for so long
+- Serie A official line-ups: Monza vs. Napoli
+- Serie A official line-ups: Genoa vs. Juventus
+- Napoli revive interest in Udinese defender Solet
+- Video: Cardinale all smiles at San Siro before Milan-Bologna
+- Stankovic brothers face off for first time as Dejan watches Aleksandar’s first Inter start
+- Serie A Liveblog inc Venezia-Inter, Milan-Bologna, Genoa-Juventus, Monza-Napoli
+- Amorim: ‘Not thinking about Inter, I want Cisse joy and talent’
+- Chivu explains Inter decisions against Venezia: ‘Must not under-estimate anyone’
+- Serie A official line-ups: Parma vs. Udinese
+- Serie A official line-ups: Venezia vs. Inter
+- Serie A official line-ups: Milan vs. Bologna
+- Goncalo Ramos: ‘I wanted to leave PSG in January, now happy at Milan’
 
 **Kicker** (20)
-- Real-Albtraum, Bayern-Schock, Stöger-Pleite: Fleetwoods sensationelle Vorgänger
-- Sander nach "Teambuilding"-Rot für zwei Spiele gesperrt
-- Nach Sieberts Verletzung: Stieler soll den Klassiker pfeifen
-- Nach Zugunglück in Spanien: Verband sagt alle Pokalspiele ab
-- China reagiert auf Mbappés Entschuldigung - Boykott bleibt
-- Daumen schon gesenkt? Rose springt Demichelis zur Seite
-- Nach Alvarez-Werben im Sommer: 602 Euro Strafe für Barca
-- Ristl über Mannheims Ass im Ärmel: "Wir haben drei, vier Pläne pro Partie"
-- Jubiläum für Baumanns Schatten
-- XXL-Kader muss schrumpfen: Klopp legt sich am 5. November fest
-- Regionalliga-Reform: Wäre das 22/5-Modell eine sinnvolle Option zum "Kompass"?
-- Operation droht: Mißner fehlt Meppen länger
+- Milan - Bologna: Eigentor zum 2:2 durch Bartesaghi in der 60. Minute
+- Dresdner Coup - Später VfB - Japanische Doppelpacker im Breisgau - Hertha-Arbeitssieg
+- Starkes Tor zum 3:2: Bremen-Leihgabe Mbangula schockt Milan
+- LIVE! Bayern ohne Kane gegen Magdeburg - Nürnberg mit Haugen zu Gast in Leverkusen
+- LIVE! Doppelpack Zicai, Feyenoord verliert Torfrau - Eintracht auf Kurs
+- LIVE!Tanikawa mit Gefühl: Bayern gleicht gegen Real aus
+- Sorgen nicht nur in Freiburg: Treu frühzeitig ausgewechselt
+- Cissé steht wieder goldrichtig: Milan dreht die Partie dank Doppelpacker
+- Milan - Bologna: Tor zum 1:1 durch Cissé in der 14. Minute
+- Milan - Bologna: Tor zum 0:1 durch Mbangula in der 8. Minute
+- Deutsche WM-Reise endet früh: U-17-Juniorinnen scheitern im Achtelfinale an Venezuela
+- Wenn der Verteidiger stürmt: Wilde Zeiten beim FC Improvisation Cottbus
 
 **L'Equipe** (40)
-- « Les sifflets, j'avoue que c'est un peu chiant », concède Sofiane Diop avant Nice-Rennes
-- Quelle place pour Kane dans l'histoire ?
-- L'attaquant du RC Lens Odsonne Édouard opéré et absent plusieurs semaines
-- La Fédération espagnole annonce le report de 24 matches de Coupe du Roi après la collision mortelle entre deux trains au sud de Madrid
-- De Jamie Vardy à Joey Barton, quel est donc ce club de Fleetwood Town, tombeur d'Arsenal en League Cup ?
-- Nice : Jonathan Clauss est bien opérationnel pour la réception de Rennes ce vendredi
-- Le jour où le bus du Bayern Munich est parti sans Jean-Pierre Papin
-- Les affiches du 7e tour de la Coupe de France : un derby Paris 13 Atletico - Red Star, Nantes face au Stade Castelbourgeois, Montpellier ira
-- La Direction de l'arbitrage valide le « but fantôme » du Mans à Auxerre et les décisions de Clément Turpin lors d'OM-Le Havre en Ligue 1
-- Jérémy Mathieu raconte ses années de galère après sa retraite : « J'ai fait une dépression, il ne faut pas se le cacher »
-- Jean-Pierre Papin, le héros sous-estimé du football français
-- Vice-président de la Fédération japonaise, Takeshi Okada démissionne après le soutien de la Confédération asiatique à Gianni Infantino
+- Neymar écope de deux matches de suspension pour avoir caché sa bouche en s'adressant à un adversaire
+- Strasbourg, de la dégringolade en CFA2 à une renaissance alsacienne
+- « Deux monstres qui ont rendu l'équipe plus forte » : à l'OM, l'immense complicité entre Jean-Pierre Papin et Chris Waddle
+- L'entraîneur de Dunkerque Albert Sanchez vers un départ à Las Palmas quinze mois après son arrivée, son successeur connu jeudi
+- Éric Olhats, l'ancien mentor d'Antoine Griezmann déjà condamné pour atteintes sexuelles sur mineur, visé par une nouvelle enquête
+- L'Association nationale des supporters réclame que « la lumière soit faite » sur des « violences de policier » en marge de Grenoble-ASSE
+- Les anti-Infantino planchent sur un plan B
+- L'émotion d'Harry Kane ou la razzia espagnole ? Les résultats de notre consultation sur votre moment fort de la cérémonie du Ballon d'Or 202
+- Mbappé, petite vidéo, grosses conséquences
+- Harry Kane, reculer pour mieux régner
+- Luis de la Fuente : «Je me sens comme un gladiateur»
+- Le duel entre Montpellier et Metz en Ligue 2 avancé sur demande de la préfecture de l'Hérault
 
 **Foot Mercato** (40)
-- Lazio : Gennaro Gattuso appelle au calme
-- Les premiers votes étranges du Ballon d’Or 2026 sont connus
-- Jérmy Mathieu explique pourquoi il a travaillé chez Intersport
-- OM : le fils de Medhi Benatia cartonne avec l’équipe de France U15
-- Les États-Unis s’invitent dans la bataille entre la Chine et Kylian Mbappé
-- Lens annonce une longue indisponibilité pour Odsonne Édouard
-- Clásico : la Liga va sévir après les jets de projectiles sur Camavinga et Mbappé
-- Coupe de France : le tirage complet des 7e et 8e tours
-- Real Madrid : Dani Carvajal révèle les raisons de son départ
-- Gianni Infantino menace un dirigeant de fédération très puissant
-- PSG, Gonçalo Ramos : « j’en étais à un stade où je ne voulais plus qu’une chose : partir »
-- Ronaldinho provoque la folie en Italie pour son retour
+- FC Barcelone : ça commence à sentir très mauvais pour Gavi
+- Un ancien grand espoir du football portugais accusé de viol
+- Cristiano Ronaldo 2008 élu plus grand Ballon d’Or de l’histoire
+- SS Lazio : Romano Benito Floriani Mussolini impressionne l’Italie
+- MU : le fils de Wayne Rooney affole l’Angleterre avec un quadruplé
+- Jérémy Mathieu est très proche de Bruno Fernandes
+- Le Real Madrid a aussi communiqué sur les réseaux sociaux chinois
+- Hansi Flick réclame un joueur étonnant à sa direction pour régler les soucis défensifs du FC Barcelone
+- JT Foot Mercato : le PSG fonce sur le remplaçant de Kvaratskhelia
+- YL : Clermont battu pour le premier match de Coupe d’Europe de son histoire
+- Le Bayern Munich annonce avoir « les moyens financiers pour réaliser n’importe quel transfert »
+- La LFP a une énorme frayeur après la vague de matchs reportés en Ligue 1
 
 **Record** (20)
-- <![CDATA[ Dupla dos sub-23 do Sporting no radar da federação colombiana: os casos de Osorio e Siza ]]>
-- <![CDATA[ Bruno Fernandes e Carrick tiveram reunião determinante no centro de treinos do Man. United, avançam em Inglaterra ]]>
-- <![CDATA[ Jornada da Taça do Rei adiada após o acidente entre dois comboios que fez pelo menos 50 mortos em Espanha ]]>
-- <![CDATA[ Universo leonino reage ao momento do Sporting: «Com o Marítimo foi como tapar o sol com a peneira» ]]>
-- <![CDATA[ Credores depositaram montante necessário para regularizar parte da dívida fiscal do Boavista ]]>
-- <![CDATA[ Mobilidade será dos "maiores desafios" do Grande Prémio de F1 no Algarve em 2027 ]]>
-- <![CDATA[ «Tentam ridicularizar as manifestações»: Diretor da Amnistia Internacional-Portugal aponta dedo aos políticos  ]]>
-- <![CDATA[ Danny sofre lesão grave e vai falhar o resto da temporada do Lus. Lourosa ]]>
-- <![CDATA[ Greve de sexta-feira na CP desconvocada após "desenvolvimentos positivos" ]]>
-- <![CDATA[ Llorente arrasa ministro dos Transportes após acidente trágico em Espanha: «Hora de deixares o Twitter de lado» ]]>
-- <![CDATA[ Guardia Civil divulga primeiras imagens aéreas do local do acidente entre comboios de alta velocidade em Espanha  ]]>
-- <![CDATA[ Samú Silva feliz em Israel: «Estou numa zona muito tranquila e pacífica» ]]>
+- <![CDATA[ Representantes dos Centros de Desenvolvimento Porto vão assistir ao jogo FC Porto-Académico Viseu ]]>
+- <![CDATA[ Xhaka e Embolo já podem voltar à seleção da Suíça depois da polémica dos certificados de vacinação contra a Covid-19 ]]>
+- <![CDATA[ Sérgio Conceição: «Fase final da minha história com o FC Porto foi feliz em termos desportivos» ]]>
+- <![CDATA[ Sérgio Conceição e o próximo projeto: «Ganhei sempre títulos nos últimos oito anos e é assim que quero continuar» ]]>
+- <![CDATA[ Cyberpunk 2 pode contar com modo multiplayer ]]>
+- <![CDATA[ Exibição e experiência de Rui Silva agitam as águas na baliza... com Kaique ainda a partir da 'pole' ]]>
+- <![CDATA[ Vasco da Gama tenta Carlos Vinícius ]]>
+- <![CDATA[ Oficial: Espanyol anuncia Eder Sarabia como novo treinador ]]>
+- <![CDATA[ FC Porto-Académico Viseu, em direto ]]>
+- <![CDATA[ Liverpool-Chelsea, em direto ]]>
+- <![CDATA[ Man. City-Brighton, em direto ]]>
+- <![CDATA[ Cristiano Ronaldo distinguido como o melhor Bola de Ouro de todos os tempos ]]>
 
 **Ole** (10)
-- Polémica con Kylian Mbappé: el Real Madrid también pidió disculpas, pero China se mantiene inflexible y no volverá a transmitir LaLiga
-- Boca y la chance de lograr un hito sin batir en más de tres décadas de superclásicos
-- El reto de Franco Colapinto en México: sumar puntos a más de 2.200 metros de altura
-- Los números que ponen a Nico Paz tras los pasos de Lamine Yamal
-- Superclásico EN VIVO: cómo se preparan Boca y River, los árbitros confirmados y más noticias de este miércoles 28 de octubre
-- Cómo se juega el Sudamericano de Fútbol Amateur
-- Stan Wawrinka: el campeón que desafió al Big 3 y se retiró del tenis
-- Ingolotti, con Olé: "Queremos empezar a escribir historia"
-- Cozzani con Olé: de atajar en Arabia contra Cristiano a las semis de la Copa Argentina y el deseo de "ganarle a Boca" en una posible final
-- Las historias poco conocidas que unen a Arruabarrena y Ponzio
+- Operación Retorno: Gustavo Benítez vuelve a Deportivo Riestra para sellar la permanencia
+- “No quise herir su ego”: Henry se defendió tras incomodar a Lamine Yamal
+- Boca vs. River: cuándo juegan, a qué hora y cómo ver el superclásico 2026 en vivo
+- ¿No fue gol? La polémica jugada que podría haber evitado la eliminación de Argentina en el Mundial Sub 17
+- Se suspendió la jornada de la Copa del Rey por el choque de trenes en Toledo
+- Los Súper de Paredes: de su debut con 18 años a las alegrías del regreso a casa
+- Malaspina anticipó cambios en el fútbol argentino: "Se escuchó a la gente"
+- Argentina 3x3 ganó la Final Continental del Americas Series con el hijo de un Generación Dorada
+- Lionel Messi en Inter Miami vs. Cincinnati, hoy EN VIVO, por la MLS: formaciones, horario y cómo ver
+- A la vista de Messi, los pibes de River se lo dieron vuelta a Flamengo y están en semifinales de la Messi Cup
 
 **Infobae** (40)
-- El incómodo momento que vivió una leyenda del fútbol por la consulta de un periodista durante la gala del Balón de Oro
-- El campeón del mundo Lando Norris tendrá un equipo en la Fórmula 2 desde 2027
-- Murió Eulalia Marzetti, la mamá del entrenador de la selección argentina Lionel Scaloni
-- Atlético Tucumán y Platense definirán al primer finalista de la Copa Argentina: hora, TV y formaciones
-- Franco Colapinto fue uno de los “perdedores” para la Fórmula 1 del GP de Estados Unidos: el contraste con Pierre Gasly
-- “No voy a fingir que estoy bien”: la cruda reflexión de Monfils tras su separación con Svitolina que impactó al mundo del tenis
-- Cómo están los clubes argentinos en la clasificación Conmebol rumbo al Mundial de Clubes 2029
-- A 75 años del primer título de Fangio en la Fórmula 1: la apuesta con su rival, la mentira de su equipo y qué pasó con el auto de la hazaña
-- Un histórico del Manchester United apuntó contra el plantel por el mal presente y fue directo con Lisandro Martínez: “Da la cara”
-- Las sentencias del Cuti Romero sobre la Selección: qué pasó en la final del Mundial con España y quién debe usar la 10 que dejó Messi
-- Camilo Ugo Carabelli venció a Coria y avanzó a los octavos de final en Guayaquil
-- El álbum de las mini vacaciones de Franco Colapinto antes del GP de México de F1: el paradisíaco lugar que eligió
+- El Inter Miami de Lionel Messi enfrentará a Cincinnati por la MLS: hora, TV y formaciones
+- Argentina perdió por penales con Ghana y quedó eliminada del Mundial Sub 17 femenino
+- Platense se consagró campeón del torneo femenino Sub 12 en una jornada histórica: venció 4-1 a Vélez y levantó el primer trofeo de la catego
+- La respuesta de Verón a la sugerente frase del DT de Flamengo por la final de la Copa Libertadores: qué dicen en Brasil del “Caso Rojo”
+- Camilo Ugo Carabelli venció a Federico Coria y avanzó a los octavos de final en Guayaquil
+- Arrestan en Florida al boxeador puertorriqueño Edgar Berlanga por cargos de agresión agravada
+- Gastón Gaudio, candidato a presidente de Independiente: “Vamos a crear la Ciudad Roja, tenemos que aprovechar el estadio”
+- El fútbol playa salvadoreño se ahogó en la orilla de la World Winners Cup 2026
+- El gesto antideportivo de una atleta a su rival durante el Mundial de lucha que causó indignación: “Tiene una lesión muy grave”
+- Un ex jugador de la selección argentina fue a juicio en España por un presunto delito de “defraudación de fluido eléctrico”
+- La furia de un tenista argentino por el estado de una cancha: “¡Llamá ya al supervisor!”
+- La buena noticia que recibió el Vasco Arruabarrena en Boca Juniors antes del Superclásico contra River Plate
 
 **Google News AR** (40)
-- Tunuyán fortalece a sus clubes de fútbol: El deporte como política de comunidad
-- La calculadora del fútbol a dos fechas del fin del torneo: los que llegan con chances y todos los cruces
-- Cómo se juega el Sudamericano de Fútbol Amateur :: Olé
-- Dolor en el fútbol: murió la madre de Lionel Scaloni
+- Se suspendió el fútbol en España por una tragedia que ya contabiliza 68 muertos
+- Malaspina anticipó cambios en el fútbol argentino: "Se escuchó a la gente"
+- La visita del papa León XIV a la Argentina obliga a cambiar el calendario del fútbol: adelantan el cierre del Clausura y postergan las final
+- Cambios en el fútbol argentino por la visita del Papa: reprogramaron partidos de la Primera Nacional y del Torneo Clausura
+- Cómo cambiarían las fechas y definiciones del fútbol argentino con la llegada del Papa
+- Se hace costumbre - Racing Club
 - El incómodo momento que vivió una leyenda del fútbol por la consulta de un periodista durante la gala del Balón de Oro
-- Se suspendió el fútbol en España por una tragedia que dejó al menos 30 muertos
-- Platense gritó campeón en el primer torneo formativo de fútbol Sub 12 femenino
-- Tragedia en Toledo: la Federación Española de Fútbol suspendió todos los partidos
-- Dolor en el fútbol: murió la madre de Lionel Scaloni
-- Boca y River jugarán el Superclásico con una pelota especial que homenajea al fútbol argentino
-- Liga Regional de Fútbol. Boca Juniors le ganó a Puan F. Club en Reserva y se aferra a la ilusión
-- Liga Santafesina de Fútbol: se juega este miércoles el quinto clásico de San Justo del 2026
+- La última fecha del fútbol argentino se modificaría por la llegada del León XIV
+- El fútbol argentino modificará sus fechas por la visita del papa León XIV
+- Cambios en la definición del Clausura 2026 por la visita del papa León XIV
+- La calculadora del fútbol a dos fechas del fin del torneo: los que llegan con chances y todos los cruces
+- ¿Conoces las reglas del futsal? Lo que debes saber sobre el fútbol sala de cara a Dakar 2026
 
 **ge.globo** (40)
-- Fluminense tem pior sequência no Brasileirão e coloca no Maracanã esperança de G-4
-- Felipe Santiago e Renan Areias deixam o Figueirense
-- A matemática da permanência do Avaí na Série B do Brasileiro
-- Andrés Gómez continua com dores no pé, acumula jogos no sacrifício e é dúvida no Vasco
-- Criciúma prevê déficit contábil de R$ 32 milhões no fim da temporada
-- Espanha suspende jogos da Copa do Rei por conta de acidente com trens no país
-- Laudo da polícia descarta edições e atesta participação de trio em áudio sobre esquema no São Paulo
-- Mirassol tenta quebrar tabu contra o Corinthians fora de casa; veja o retrospecto
-- Corinthians iguala pior campanha em um turno na história do Brasileirão com 20 times
-- Palmeiras defende temporada sem derrotas em clássicos na "despedida" contra o Santos
-- Cartola 2026: veja suspensos, lesionados e escalações prováveis da rodada #33 do Brasileirão
-- Foco na Libertadores cobra preço e coloca Fluminense sob pressão em reta final da temporada
+- Manchester City x Brighton - Copa da Liga Inglesa 2026/2027 - Ao vivo - globoesporte.com
+- Henry explica polêmicas com Yamal e Kane em sua participação como apresentador da Bola de Ouro
+- Final da Libertadores: veja os uniformes de Palmeiras e Estudiantes para a decisão
+- Cristiano Ronaldo é eleito o melhor Bola de Ouro de todos os tempos em votação popular
+- Palpite ge 2026: veja as apostas de apresentadores e comentaristas para a 33ª rodada do Brasileirão
+- Emprestado pelo Cuiabá, Emerson Ramon vive fase artilheira na Coreia do Sul; veja gols
+- Conmebol rejeita ação do Flamengo e mantém Estudiantes na final da Libertadores
+- Ao vivo: veja a convocação de Carlo Ancelotti
+- Harry Kane recebe aplausos no Bayern de Munique e ganha bolo no formato da Bola de Ouro; veja
+- João Pedro sofre lesão muscular e não estará disponível para convocação da Seleção
+- Veja quem ganhou e quem perdeu espaço no Botafogo com Tite
+- Felipe Vizeu se despede do Avaí após não deixar marca positiva
 
 **r/soccer (top día)** (25)
 - Scenes as Fleetwood Town knock Arsenal out of the Carabao Cup
-- (BBC) 4th division Fleetwood are 84 places below Arsenal. It is the biggest upset in the League cups 65 year history
 - A kid watching Fleetwood vs Arsenal from his bedroom window
+- (BBC) 4th division Fleetwood are 84 places below Arsenal. It is the biggest upset in the League cups 65 year history
 - UFO sighted during the Fleetwood-Arsenal game
 - For the first time in their history Fleetwood Town have reached the quarterfinals of a major domestic cup, after defeating Arsenal 5-3 on pe
-- Gerrard "Maguire and Shaw aren't Utd players anymore. They bought Santos for £50M: not a Utd player. Baleba costed £70M but he's not ready t
+- China rejects Mbappe and Real Madrid apologies over ‘outrageous’ Mao joke
+- Comunicado Oficial: Real Madrid CF wishes to express its apologies to the Chinese people for any discomfort caused by the recent words of ou
+- Benatia on Messi's 5th place in the BdO "You’re in Miami all year and you finish 5th? Did Europeans fans watch Messi more than Olise? He was
+- CCTV (China's state broadcaster) "We do not accept Real Madrid's explanation that players have the right to express their personal opinions 
 - Max Dowman (Arsenal) straight red card against Fleetwood Town 86'
-- Luka Modrić (41) tracking back on defense to stop a counter in the 84th minute
 - Borussia Dortmund [3] - 2 Werder Bremen - Marcel Sabitzer 90'+2'
 - [elespanol] Mounir Nasraoui, father of Lamine Yamal, was involved in a altercation in the airport before boarding a plane to London for the 
-- Comunicado Oficial: Real Madrid CF wishes to express its apologies to the Chinese people for any discomfort caused by the recent words of ou
-- CCTV (China's state broadcaster) "We do not accept Real Madrid's explanation that players have the right to express their personal opinions 
 
 Fallaron: ESPN (ParseError), Goal (HTTPError), Independent (ParseError), Football365 (HTTPError), Marca (HTTPError), Sport (HTTPError), Calciomercato (HTTPError), TN (HTTPError)
