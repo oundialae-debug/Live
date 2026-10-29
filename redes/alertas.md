@@ -1,24 +1,28 @@
-# Alertas de noticias (2026-10-29 13:34 UTC)
+# Alertas de noticias (2026-10-29 19:47 UTC)
 
 Temas en >= 7 medios. La rutina diaria y cualquier sesión deben mirar esto ANTES de elegir tema (regla 6: la noticia que todos comentan va primero).
 
 ## Grandes SIN publicar en las últimas 48 h (hacer post si pasa el listón: nada repetido, foto del momento)
 
-- **Liverpool** (14 medios): Kuyt named Fenerbahce interim boss before Liverpool tie
+- **Arsenal** (14 medios): Russo scores hat-trick as Arsenal beat Benfica
 - **Chelsea** (13 medios): 'Stutter' penalty back in the spotlight after Barco miss costs Chelsea
-- **Bayern** (12 medios): How Bayern Munich fell in love with Kane
-- **Arsenal** (11 medios): Russo scores hat-trick as Arsenal beat Benfica
+- **Liverpool** (12 medios): Liverpool beat Chelsea as three more join penalty hall of shame
+- **Everton** (10 medios): Grealish dropped by Everton after 'breach of club discipline'
+- **Ballon** (10 medios): 'Relax, I love Kane and Lamine Yamal' - Henry defends his Ballon d'Or hosting
+- **Manchester** (10 medios): Manchester City v Paris Saint-Germain: Women’s Champions League – live
+- **Carrick** (10 medios): Carrick keeps Fernandes as captain and says he needs no assurances on United future
+- **Ronaldo** (10 medios): Rio Ferdinand: Cristiano Ronaldo is obsessed &#8211; he hears every bad word said about him
+- **Man** (9 medios): 'Fully committed' Fernandes to remain Man Utd captain
+- **Fernandes** (9 medios): 'Fully committed' Fernandes to remain Man Utd captain
 - **Fleetwood** (9 medios): Fleetwood to face Everton or Newcastle in last eight
-- **Man** (9 medios): 'He knows his role' - Man City penalty hero Rulli still Donnarumma deputy
 - **Kompany** (9 medios): Kompany discharged from hospital following collapse
-- **Ballon** (9 medios): 'Relax, I love Kane and Lamine Yamal' - Henry defends his Ballon d'Or hosting
-- **Kane** (8 medios): 'Relax, I love Kane and Lamine Yamal' - Henry defends his Ballon d'Or hosting
-- **Carabao** (8 medios): Liverpool beat Chelsea on penalties yet again to secure Carabao Cup progress
-- **Manchester** (8 medios): Howe, Nagelsmann, Pochettino: can anyone end Manchester United’s doom loop?
-- **Brighton** (7 medios): Rulli’s heroics earn Manchester City shootout success against Brighton
-- **Munich** (7 medios): How Bayern Munich fell in love with Kane
-- **Inter** (7 medios): We’re delighted to announce Luis Suarez has stuck it top bins like the good old days for Inter Miami
-- **Mbappé** (7 medios): Creator of Mao Zedong-Kylian Mbappé meme says he &#8216;feels sorry&#8217; for France captain
+- **Dowman** (8 medios): Dowman to miss three matches after appeal rejected
+- **Max** (8 medios): Max Dowman to miss three games after Arsenal’s red card appeal rejected
+- **Cristiano** (8 medios): Rio Ferdinand: Cristiano Ronaldo is obsessed &#8211; he hears every bad word said about him
+- **Bayern** (8 medios): Vincent Kompany is discharged from hospital as Bayern Munich reveal manager's 'meningeal irritation' diagnosis
+- **Grealish** (7 medios): Grealish dropped by Everton after 'breach of club discipline'
+- **Vincent** (7 medios): Vincent Kompany discharged from hospital as cause of terrifying collapse confirmed
+- **Ancelotti** (7 medios): Brazil and Ancelotti call three Serie A players for friendly matches
 
 ## Grandes ya cubiertas
 
