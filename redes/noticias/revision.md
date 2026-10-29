@@ -585,3 +585,21 @@
 - Yahoo: Barcelona president backs Lamine Yamal to win the Ballon d’Or after third-place finish: ‘I’m convinced’
 - Mundo Deportivo: Lamine Yamal reescribe la historia y sigue rompiendo récords
 
+## 29/10 14:35 · Kane wins Ballon d’Or · revisar
+- Motivo: sin foto buena con cara visible
+- Temas: Kane
+- BBC: 'Relax, I love Kane and Lamine Yamal' - Henry defends his Ballon d'Or hosting
+- Daily Mail: Lamine Yamal FINALLY congratulates Harry Kane on Ballon d'Or win after disrespect row and conspiracy theories - but bitter Barcelona star, 19, refuses to name England captain
+- Mirror: Ballon d'Or voter admits he made MISTAKE with Kane sixth and Yamal not in top 10
+- Yahoo: Ballon d’Or 2026: Harry Kane Makes History As Alexia Putellas Wins Third Award
+- Football Italia: Italian journalist explains why he voted Mbappe over Kane for 2026 Ballon d’Or
+
+## 29/10 14:35 · Kompany shoulder injury · revisar
+- Motivo: categoría sensible: injury
+- Temas: Bayern
+- Planet Football: Can you name Bayern Munich’s top 10 goalscorers of all time?
+- Yahoo: How to watch Bayern Munich vs Borussia Dortmund live: Stream, TV, team news, Der Klassiker prediction
+- Mundo Deportivo: El Barça, entre los clubs interesados en la lateral del Bayern Franziska Kett
+- Kicker: Der Magdeburger, der im Pokal bei den Bayern ein Heimspiel hat
+- L'Equipe: Le jour où le bus du Bayern Munich est parti sans Jean-Pierre Papin
+

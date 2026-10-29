@@ -141,3 +141,5 @@
 {"t": "2026-10-28T13:26+00:00", "estado": "revisar", "temas": ["China"], "clave": "mbappe-china-apology", "motivo": "datos que no salen en los titulares: French"}
 {"t": "2026-10-28T13:26+00:00", "estado": "revisar", "temas": ["Arsenal"], "clave": "arsenal-saliba-cup", "motivo": "palabra sensible en los titulares: broken"}
 {"t": "2026-10-28T19:04+00:00", "estado": "revisar", "temas": ["Yamal", "Barcelona"], "clave": "yamal-ballondor-controversy", "motivo": "palabra sensible en los titulares: president"}
+{"t": "2026-10-29T13:35+00:00", "estado": "revisar", "temas": ["Kane"], "clave": "kane-ballon-dor-2026", "motivo": "sin foto buena con cara visible"}
+{"t": "2026-10-29T13:35+00:00", "estado": "revisar", "temas": ["Bayern"], "clave": "kompany-shoulder-injury-bayern", "motivo": "categoría sensible: injury"}
