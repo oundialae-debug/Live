@@ -143,3 +143,5 @@
 {"t": "2026-10-28T19:04+00:00", "estado": "revisar", "temas": ["Yamal", "Barcelona"], "clave": "yamal-ballondor-controversy", "motivo": "palabra sensible en los titulares: president"}
 {"t": "2026-10-29T13:35+00:00", "estado": "revisar", "temas": ["Kane"], "clave": "kane-ballon-dor-2026", "motivo": "sin foto buena con cara visible"}
 {"t": "2026-10-29T13:35+00:00", "estado": "revisar", "temas": ["Bayern"], "clave": "kompany-shoulder-injury-bayern", "motivo": "categoría sensible: injury"}
+{"t": "2026-10-29T19:48+00:00", "estado": "revisar", "temas": ["Carrick", "Fernandes", "Manchester"], "clave": "man-utd-carrick-fernandes-talks", "motivo": "datos que no salen en los titulares: 15"}
+{"t": "2026-10-29T19:49+00:00", "estado": "publicado", "temas": ["Liverpool", "Chelsea"], "clave": "liverpool-chelsea-cup-record", "video": "https://raw.githubusercontent.com/oundialae-debug/live/main/media/noticias/2026-10-29_2048_liverpool-chelsea-cup-record.mp4"}
