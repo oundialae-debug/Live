@@ -8,5 +8,8 @@
  "recordatorio": false,
  "musica": "hh10",
  "variante": "seg=5.0;arranque=s1;hook=pregunta;musica=hh10;formato=auto_noticia;hora=20",
- "notas": "noticia automática (IA + reglas): BBC: Liverpool gambled on Jacquet and it is paying off; BBC: Kuyt named Fenerbahce interim boss before Liverpool tie"
+ "notas": "noticia automática (IA + reglas): BBC: Liverpool gambled on Jacquet and it is paying off; BBC: Kuyt named Fenerbahce interim boss before Liverpool tie",
+ "estado": "enviado",
+ "buffer_id": "6ae3a35698c11c76e376149c",
+ "dueAt": "2026-10-29T19:52:41+00:00"
 }

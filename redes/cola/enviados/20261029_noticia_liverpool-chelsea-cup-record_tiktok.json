@@ -9,5 +9,8 @@
  "musica": "hh10",
  "variante": "seg=5.0;arranque=s1;hook=pregunta;musica=hh10;formato=auto_noticia;hora=20",
  "notas": "noticia automática (IA + reglas): BBC: Liverpool gambled on Jacquet and it is paying off; BBC: Kuyt named Fenerbahce interim boss before Liverpool tie",
- "titulo": "Liverpool vs Chelsea: Carabao Cup record chase"
+ "titulo": "Liverpool vs Chelsea: Carabao Cup record chase",
+ "estado": "enviado",
+ "buffer_id": "6ae3a356a50b3f7a419383f7",
+ "dueAt": "2026-10-29T19:52:41+00:00"
 }
