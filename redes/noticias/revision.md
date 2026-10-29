@@ -603,3 +603,12 @@
 - Kicker: Der Magdeburger, der im Pokal bei den Bayern ein Heimspiel hat
 - L'Equipe: Le jour où le bus du Bayern Munich est parti sans Jean-Pierre Papin
 
+## 29/10 20:48 · United hold tense talks · revisar
+- Motivo: datos que no salen en los titulares: 15
+- Temas: Carrick, Fernandes, Manchester
+- BBC: Carrick and Fernandes hold clear-the-air talks
+- Guardian: Fernandes tells Carrick he is committed to turning season around in clear-the-air talks
+- Sky Sports: Carrick and Fernandes hold clear-the-air talks ahead of Chelsea fixture
+- Sky Sports: Latte Lath: Carrick never screamed, he knew how to listen
+- Daily Mail: Paul Scholes tells Bruno Fernandes he's FINISHED as Man United captain - and should 'just go to Saudi Arabia to get out of the way' - after 'unforgivable' public criticism of Michael Carrick
+
