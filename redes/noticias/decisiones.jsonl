@@ -147,3 +147,7 @@
 {"t": "2026-10-29T19:49+00:00", "estado": "publicado", "temas": ["Liverpool", "Chelsea"], "clave": "liverpool-chelsea-cup-record", "video": "https://raw.githubusercontent.com/oundialae-debug/live/main/media/noticias/2026-10-29_2048_liverpool-chelsea-cup-record.mp4"}
 {"t": "2026-10-29T19:49+00:00", "estado": "descartar", "temas": ["Dowman"], "clave": "dowman-red-card-arsenal", "motivo": "importancia 6 < 7"}
 {"t": "2026-10-29T19:49+00:00", "estado": "descartar", "temas": ["Chelsea", "Liverpool"], "clave": "chelsea-henderson-fans-furious", "motivo": "importancia 6 < 7"}
+{"t": "2026-10-30T13:25+00:00", "estado": "revisar", "temas": ["Ronaldo", "Cristiano"], "clave": "ronaldo-boat", "motivo": "palabra sensible en los titulares: Bombonera"}
+{"t": "2026-10-30T13:25+00:00", "estado": "revisar", "temas": ["Everton", "Grealish"], "clave": "grealish-dropped", "motivo": "palabra sensible en los titulares: cancer"}
+{"t": "2026-10-30T13:25+00:00", "estado": "revisar", "temas": ["Inter"], "clave": "suarez-inter-miami", "motivo": "palabra sensible en los titulares: president"}
+{"t": "2026-10-30T13:25+00:00", "estado": "descartar", "temas": ["San"], "clave": "san-siro-generali", "motivo": "importancia 5 < 7"}

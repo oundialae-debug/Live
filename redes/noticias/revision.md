@@ -612,3 +612,30 @@
 - Sky Sports: Latte Lath: Carrick never screamed, he knew how to listen
 - Daily Mail: Paul Scholes tells Bruno Fernandes he's FINISHED as Man United captain - and should 'just go to Saudi Arabia to get out of the way' - after 'unforgivable' public criticism of Michael Carrick
 
+## 30/10 14:25 · Ronaldo wins All‑Time Ballon d’Or · revisar
+- Motivo: palabra sensible en los titulares: Bombonera
+- Temas: Ronaldo, Cristiano
+- talkSPORT: Rio Ferdinand: Cristiano Ronaldo is obsessed – he hears every bad word said about him
+- Infobae: Revelaron detalles detrás del “Balón de Oro de todos los tiempos” que Cristiano Ronaldo le ganó a Messi: la lupa sobre 5009 votos
+- Infobae: Con Messi confirmado y a la espera de Cristiano Ronaldo, los nombres de la primera lista de invitados para el partido despedida de Tevez en la Bombonera
+- Infobae: “Hablá si hay un tridente mejor que el tuyo”: el desafío viral de Carlos Tevez con Messi y Cristiano Ronaldo como protagonistas
+- ge.globo: Ex-presidente da Inter revela desespero do Barcelona com venda de Ronaldo: "Ficou furioso"
+
+## 30/10 14:25 · Grealish dropped by Everton · revisar
+- Motivo: palabra sensible en los titulares: cancer
+- Temas: Everton, Grealish
+- Guardian: Time and owners not on Moyes’ side as he tries to end Everton trophy drought
+- Yahoo: Report: Everton considering move to sign La Liga forward
+- Google News EN: Highlights: Sheffield United Women 1-2 Everton
+- L'Equipe: Tombeur d'Arsenal, Fleetwood recevra Newcastle ou Everton en quarts de finale de la League Cup
+- BBC: Grealish dropped by Everton after 'breach of club discipline'
+
+## 30/10 14:25 · Suarez scores stunner for Inter Miami · revisar
+- Motivo: palabra sensible en los titulares: president
+- Temas: Inter
+- Planet Football: We’re delighted to announce Luis Suarez has stuck it top bins like the good old days for Inter Miami
+- Yahoo: Former Inter Milan president claims he ‘enjoyed eliminating Barcelona more’ than winning the 2010 Champions League
+- Yahoo: Former Inter Milan chief opens up on Mourinho joining Real Madrid in 2010: ‘What could I do?’
+- Infobae: Tierno gesto con un niño, sorpresa por una amonestación y destellos de su magia: el partido de Messi en el empate del Inter Miami
+- ge.globo: Ex-presidente da Inter revela desespero do Barcelona com venda de Ronaldo: "Ficou furioso"
+
