@@ -1,29 +1,27 @@
-# Alertas de noticias (2026-10-29 19:47 UTC)
+# Alertas de noticias (2026-10-30 13:24 UTC)
 
 Temas en >= 7 medios. La rutina diaria y cualquier sesión deben mirar esto ANTES de elegir tema (regla 6: la noticia que todos comentan va primero).
 
 ## Grandes SIN publicar en las últimas 48 h (hacer post si pasa el listón: nada repetido, foto del momento)
 
-- **Arsenal** (14 medios): Russo scores hat-trick as Arsenal beat Benfica
-- **Chelsea** (13 medios): 'Stutter' penalty back in the spotlight after Barco miss costs Chelsea
-- **Liverpool** (12 medios): Liverpool beat Chelsea as three more join penalty hall of shame
-- **Everton** (10 medios): Grealish dropped by Everton after 'breach of club discipline'
-- **Ballon** (10 medios): 'Relax, I love Kane and Lamine Yamal' - Henry defends his Ballon d'Or hosting
-- **Manchester** (10 medios): Manchester City v Paris Saint-Germain: Women’s Champions League – live
-- **Carrick** (10 medios): Carrick keeps Fernandes as captain and says he needs no assurances on United future
-- **Ronaldo** (10 medios): Rio Ferdinand: Cristiano Ronaldo is obsessed &#8211; he hears every bad word said about him
-- **Man** (9 medios): 'Fully committed' Fernandes to remain Man Utd captain
-- **Fernandes** (9 medios): 'Fully committed' Fernandes to remain Man Utd captain
-- **Fleetwood** (9 medios): Fleetwood to face Everton or Newcastle in last eight
-- **Kompany** (9 medios): Kompany discharged from hospital following collapse
-- **Dowman** (8 medios): Dowman to miss three matches after appeal rejected
-- **Max** (8 medios): Max Dowman to miss three games after Arsenal’s red card appeal rejected
-- **Cristiano** (8 medios): Rio Ferdinand: Cristiano Ronaldo is obsessed &#8211; he hears every bad word said about him
-- **Bayern** (8 medios): Vincent Kompany is discharged from hospital as Bayern Munich reveal manager's 'meningeal irritation' diagnosis
-- **Grealish** (7 medios): Grealish dropped by Everton after 'breach of club discipline'
-- **Vincent** (7 medios): Vincent Kompany discharged from hospital as cause of terrifying collapse confirmed
-- **Ancelotti** (7 medios): Brazil and Ancelotti call three Serie A players for friendly matches
+- **Chelsea** (12 medios): Chelsea linked with Alexander-Arnold - Friday's gossip
+- **Everton** (12 medios): Fleetwood to face Everton in EFL Cup quarters
+- **Ronaldo** (11 medios): Ronaldo closes in on 1,000th goal with hat-trick
+- **Carrick** (11 medios): Carrick says there are 'no issues' with captain Fernandes
+- **San** (11 medios): Inter and Milan unveil plans for new shared stadium to replace San Siro
+- **Grealish** (10 medios): Grealish dropped over 'breach of club discipline' - what now?
+- **Manchester** (10 medios): PSG claim late point after Shaw penalty to hit Manchester City’s WCL top-four hopes
+- **Cristiano** (10 medios): Boxing superstar Oleksandr Usyk left stunned by Cristiano Ronaldo hat-trick
+- **Milan** (9 medios): Inter and Milan unveil plans for new shared stadium to replace San Siro
+- **Michael** (9 medios): Arsenal fail at Fleetwood and Michael Carrick clings on
+- **Arsenal** (9 medios): Arsenal fail at Fleetwood and Michael Carrick clings on
+- **Bayern** (9 medios): Where to watch Bayern Munich v Borussia Dortmund as Harry Kane looks to celebrate Ballon d’Or
+- **Man** (8 medios): How talking about Man Utd's cycle of doom became an industry
+- **Siro** (8 medios): Inter and Milan unveil plans for new shared stadium to replace San Siro
+- **Jack** (8 medios): Everton drop Jack Grealish from Carabao Cup tie over ‘breach of club discipline’
+- **Barcelona** (7 medios): Two Barcelona stars feature in Europe’s top assisters in 2026-27 so far
 
 ## Grandes ya cubiertas
 
-- (ninguna)
+- Inter (8): Inter and Milan unveil plans for new shared stadium to replace San Siro
+- Liverpool (8): Merson: Liverpool must beat Arsenal to be in the title race
