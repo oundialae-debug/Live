@@ -639,3 +639,39 @@
 - Infobae: Tierno gesto con un niño, sorpresa por una amonestación y destellos de su magia: el partido de Messi en el empate del Inter Miami
 - ge.globo: Ex-presidente da Inter revela desespero do Barcelona com venda de Ronaldo: "Ficou furioso"
 
+## 30/10 19:48 · Tevez's shocking claim · revisar
+- Motivo: categoría sensible: crime
+- Temas: Man
+- Daily Mail: Carlos Tevez reveals he 'wanted to kill Gary Neville' in new claims about Sir Alex Ferguson breaking a promise - and sparking his infamous move to Man City from Man United
+- Daily Mail: Roy Keane takes another swipe at 'lucky boy' Michael Carrick: Man United legend tells under-fire boss to 'grow a pair and start getting results' after surviving the sack
+- Mirror: Gary Neville launches fresh Glazers rant as he demands Man Utd sale - 'Enough is enough'
+- Mirror: Carlos Tevez 'wanted to kill' Gary Neville after acrimonious Man Utd exit
+- Mirror: Would Man Utd benefit from having Roy Keane? Have your say as ex-captain denied return
+
+## 30/10 19:48 · Dowman banned for three games · revisar
+- Motivo: datos que no salen en los titulares: 3
+- Temas: Arteta, Dowman
+- Mirror: Ex-Arsenal duo called out for 'not reaching potential' as Mikel Arteta call vindicated
+- Sky Sports: Arsenal striker dilemma: Should Arteta keep faith in Havertz?
+- Daily Mail: Arsenal's appeal against Max Dowman's red card is REJECTED: Gunners star, 16, to serve ban after sending off in Fleetwood defeat - which left Mikel Arteta fuming - as club legend sends warning
+- Yahoo: Premier League news conferences & team news: Arteta, Iraola and more speaking
+- BBC: Arteta warns Dowman 'we are not in Disneyland' after red card
+
+## 30/10 19:48 · Alonso under fan pressure · revisar
+- Motivo: palabra sensible en los titulares: guerra
+- Temas: Alonso
+- talkSPORT: Chelsea fans will turn on Xabi Alonso if weird treatment of star player continues
+- Daily Mail: Chelsea's rivals eyeing unused Estevao - plus the reason Xabi Alonso is snubbing Brazilian, why other clubs believe Blues will win race for £90m Alex Scott and the Como wonderkid on radar: CHELSEA CONFIDENTIAL
+- Mirror: Xabi Alonso admits Carabao Cup 'least important tournament' as Chelsea lose at Liverpool
+- L'Equipe: Xabi Alonso : «Nous devons passer à autre chose»
+- talkSPORT: ‘Doomsday’ – Jamie O’Hara stunned as Chelsea fan makes Xabi Alonso sack ultimatum
+
+## 30/10 19:48 · Arsenal win Messi Cup · revisar
+- Motivo: palabra sensible en los titulares: Bombonera
+- Temas: Arsenal, Messi
+- Planet Football: Can you name every French player to appear for Arsenal in the Premier League?
+- FourFourTwo: Arsenal report: Bournemouth decision reached on Eli Junior Kroupi transfer
+- FourFourTwo: Quiz! Can you name the starting line-up from Liverpool's 4-4 Premier League draw with Arsenal in 2009?
+- Yahoo: Arsenal notch their 1st win at Messi Cup
+- Yahoo: Arsenal are one of the clubs considering move for Serie A wonderkid
+

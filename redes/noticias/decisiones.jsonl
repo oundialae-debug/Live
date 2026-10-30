@@ -151,3 +151,7 @@
 {"t": "2026-10-30T13:25+00:00", "estado": "revisar", "temas": ["Everton", "Grealish"], "clave": "grealish-dropped", "motivo": "palabra sensible en los titulares: cancer"}
 {"t": "2026-10-30T13:25+00:00", "estado": "revisar", "temas": ["Inter"], "clave": "suarez-inter-miami", "motivo": "palabra sensible en los titulares: president"}
 {"t": "2026-10-30T13:25+00:00", "estado": "descartar", "temas": ["San"], "clave": "san-siro-generali", "motivo": "importancia 5 < 7"}
+{"t": "2026-10-30T18:48+00:00", "estado": "revisar", "temas": ["Man"], "clave": "tevez-gary-neville-threat", "motivo": "categoría sensible: crime"}
+{"t": "2026-10-30T18:48+00:00", "estado": "revisar", "temas": ["Arteta", "Dowman"], "clave": "max-dowman-red-card", "motivo": "datos que no salen en los titulares: 3"}
+{"t": "2026-10-30T18:48+00:00", "estado": "revisar", "temas": ["Alonso"], "clave": "xabi-alonso-controversy", "motivo": "palabra sensible en los titulares: guerra"}
+{"t": "2026-10-30T18:48+00:00", "estado": "revisar", "temas": ["Arsenal", "Messi"], "clave": "arsenal-messi-cup-win", "motivo": "palabra sensible en los titulares: Bombonera"}
