@@ -1,9 +1,9 @@
 {
- "generado": "2026-10-30T13:24+00:00",
+ "generado": "2026-10-30T18:47+00:00",
  "temas": [
   {
    "tema": "Ronaldo",
-   "medios": 16,
+   "medios": 17,
    "lista_medios": [
     "AS",
     "BBC",
@@ -18,6 +18,7 @@
     "Mirror",
     "Mundo Deportivo",
     "Planet Football",
+    "Record",
     "Yahoo",
     "ge.globo",
     "talkSPORT"
@@ -41,12 +42,6 @@
      "titulo": "Con Messi confirmado y a la espera de Cristiano Ronaldo, los nombres de la primera lista de invitados para el partido despedida de Tevez en la Bombonera",
      "url": "https://www.infobae.com/deportes/2026/10/29/a-la-espera-de-messi-y-cristiano-ronaldo-los-nombres-de-la-primera-lista-de-confirmados-para-el-partido-despedida-de-tevez-en-la-bombonera/",
      "pub": "2026-10-29T12:23+00:00"
-    },
-    {
-     "medio": "Infobae",
-     "titulo": "“Hablá si hay un tridente mejor que el tuyo”: el desafío viral de Carlos Tevez con Messi y Cristiano Ronaldo como protagonistas",
-     "url": "https://www.infobae.com/deportes/2026/10/29/habla-si-hay-un-tridente-mejor-que-el-tuyo-el-desafio-viral-de-carlos-tevez-con-messi-y-cristiano-ronaldo-como-protagonistas/",
-     "pub": "2026-10-29T03:13+00:00"
     },
     {
      "medio": "ge.globo",
@@ -95,12 +90,18 @@
      "titulo": "El provocador mensaje de Cristiano Ronaldo tras ganar la votación del “Balón de Oro de todos los tiempos”",
      "url": "https://www.infobae.com/deportes/2026/10/29/el-provocador-mensaje-de-cristiano-ronaldo-tras-ganar-la-votacion-del-balon-de-oro-de-todos-los-tiempos/",
      "pub": "2026-10-29T15:06+00:00"
+    },
+    {
+     "medio": "Google News AR",
+     "titulo": "Ronaldo Martínez se quiere quedar en Vélez",
+     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPZ1pWeDl1RTBGNkMyVEYtMFY4S0ZCTVZHbTB4dkVYU2sxVDU1QktFUWpiWmRmM3BqTGxQNjRGVGNSemFTZGlpbTdTNjZhSmtrenNTZDdVVUM2S2VNdUt3NmkwdGxES0lsVnYzVFJ4bWVLU2FqX3ljN1dPNm5sajN4bHBMbm1LbDhxTmxUSlBnSVdod9IBlwFBVV95cUxNSmE2eU9abm9NMGgzcjZ2b0lyWUM3bld6YXZVMWl1M2N3eDhGdEZHN0w2bVdlR0JkSXRMb3NVa0VWZTRFeGs4UFdTOUQ3YXFkb2w3VXRUcjZjek5nM05POEEzVGRocnBybUdLWkQ1UFUxVjJsZi1fbGstQzVoZ19MSnMyVFVERTFzZ3NyZm51TGVnR09PTDRB?oc=5",
+     "pub": "2026-10-29T19:38+00:00"
     }
    ]
   },
   {
    "tema": "Cristiano",
-   "medios": 14,
+   "medios": 15,
    "lista_medios": [
     "AS",
     "Daily Mail",
@@ -113,6 +114,7 @@
     "L'Equipe",
     "Mirror",
     "Mundo Deportivo",
+    "Record",
     "Yahoo",
     "ge.globo",
     "talkSPORT"
@@ -136,12 +138,6 @@
      "titulo": "Con Messi confirmado y a la espera de Cristiano Ronaldo, los nombres de la primera lista de invitados para el partido despedida de Tevez en la Bombonera",
      "url": "https://www.infobae.com/deportes/2026/10/29/a-la-espera-de-messi-y-cristiano-ronaldo-los-nombres-de-la-primera-lista-de-confirmados-para-el-partido-despedida-de-tevez-en-la-bombonera/",
      "pub": "2026-10-29T12:23+00:00"
-    },
-    {
-     "medio": "Infobae",
-     "titulo": "“Hablá si hay un tridente mejor que el tuyo”: el desafío viral de Carlos Tevez con Messi y Cristiano Ronaldo como protagonistas",
-     "url": "https://www.infobae.com/deportes/2026/10/29/habla-si-hay-un-tridente-mejor-que-el-tuyo-el-desafio-viral-de-carlos-tevez-con-messi-y-cristiano-ronaldo-como-protagonistas/",
-     "pub": "2026-10-29T03:13+00:00"
     },
     {
      "medio": "Google News AR",
@@ -190,6 +186,108 @@
      "titulo": "Cristiano Ronaldo agradece eleição como Bola de Ouro de todos os tempos: \"Futebol pertence aos fãs\"",
      "url": "https://ge.globo.com/futebol/futebol-internacional/noticia/2026/10/29/cristiano-ronaldo-agradece-eleicao-como-bola-de-ouro-de-todos-os-tempos-futebol-e-pertence-aos-fas.ghtml",
      "pub": "2026-10-29T13:44+00:00"
+    },
+    {
+     "medio": "ge.globo",
+     "titulo": "Substituto de Cristiano Ronaldo na última Data Fifa fala firme: \"Se alguém deve jogar sou eu\"",
+     "url": "https://ge.globo.com/futebol/futebol-internacional/noticia/2026/10/29/substituto-de-cristiano-ronaldo-na-ultima-data-fifa-fala-firme-se-alguem-deve-jogar-sou-eu.ghtml",
+     "pub": "2026-10-29T13:32+00:00"
+    }
+   ]
+  },
+  {
+   "tema": "Chelsea",
+   "medios": 15,
+   "lista_medios": [
+    "AS",
+    "BBC",
+    "Daily Mail",
+    "Foot Mercato",
+    "FourFourTwo",
+    "Google News EN",
+    "Guardian",
+    "L'Equipe",
+    "Mirror",
+    "Planet Football",
+    "Sky Sports",
+    "Telegraph",
+    "Yahoo",
+    "ge.globo",
+    "talkSPORT"
+   ],
+   "primera_vez": "2026-10-29T13:34+00:00",
+   "titulares": [
+    {
+     "medio": "talkSPORT",
+     "titulo": "Chelsea fans will turn on Xabi Alonso if weird treatment of star player continues",
+     "url": "https://talksport.com/football/4674499/chelsea-xabi-alonso-estevao-treatment-why-not-playing/",
+     "pub": "2026-10-29T09:08+00:00"
+    },
+    {
+     "medio": "Daily Mail",
+     "titulo": "Former Chelsea star Marc Cucurella's WAG narrowly avoids being caught in Spain's deadly train crash which has killed at least 68",
+     "url": "https://www.dailymail.com/sport/football/article-16248333/Marc-Cucurella-WAG-avoids-Spain-deadly-train-crash-killed-68.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+     "pub": "2026-10-29T09:45+00:00"
+    },
+    {
+     "medio": "Mirror",
+     "titulo": "Xabi Alonso's Carabao Cup comments are disrespectful to competition and Chelsea fans",
+     "url": "https://www.mirror.co.uk/sport/football/news/chelsea-xabi-alonso-carabao-cup-37822219",
+     "pub": "2026-10-29T12:04+00:00"
+    },
+    {
+     "medio": "Mirror",
+     "titulo": "Xabi Alonso admits Carabao Cup 'least important tournament' as Chelsea lose at Liverpool",
+     "url": "https://www.mirror.co.uk/sport/football/news/xabi-alonso-chelsea-carabao-cup-37821169",
+     "pub": "2026-10-29T07:17+00:00"
+    },
+    {
+     "medio": "Telegraph",
+     "titulo": "Wesley Fofana’s Chelsea nightmare continues as Liverpool win shoot-out",
+     "url": "https://www.telegraph.co.uk/football/2026/10/28/liverpool-vs-chelsea-live-score-latest-carabao-cup-updates/",
+     "pub": "2026-10-29T08:26+00:00"
+    },
+    {
+     "medio": "Yahoo",
+     "titulo": "Journalist: Liverpool star ‘could be the future’ after Chelsea performance",
+     "url": "https://sports.yahoo.com/articles/journalist-liverpool-star-could-future-125000309.html",
+     "pub": "2026-10-29T12:50+00:00"
+    },
+    {
+     "medio": "Yahoo",
+     "titulo": "Real Madrid keeping a close eye on former academy graduate amid Arsenal, Chelsea interest",
+     "url": "https://sports.yahoo.com/articles/real-madrid-keeping-close-eye-121000830.html",
+     "pub": "2026-10-29T12:10+00:00"
+    },
+    {
+     "medio": "Yahoo",
+     "titulo": "“We want to win it” – Liverpool star makes Carabao Cup statement after Chelsea win",
+     "url": "https://sports.yahoo.com/articles/want-win-liverpool-star-makes-115000180.html",
+     "pub": "2026-10-29T11:50+00:00"
+    },
+    {
+     "medio": "Yahoo",
+     "titulo": "Report: Chelsea eyeing move to sign Barcelona star",
+     "url": "https://sports.yahoo.com/articles/report-chelsea-eyeing-move-sign-115000544.html",
+     "pub": "2026-10-29T11:50+00:00"
+    },
+    {
+     "medio": "Google News EN",
+     "titulo": "Virgil van Dijk and Emmanuel Emegha: Liverpool defender left fuming after Chelsea new boy throws him to the floor!",
+     "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQaF9paGFINVl5aXNIRWpUOFU3eC01Y29CREcyRmtzb3RQelJjWGpPUV93QWtHb1N6R0NidnRQdEwyNHNVUEJqcUhVbmFPdml3dnJiRzd0R0lxOTBLMlRsYm9saFN1dHJnN3J4VnpGMUdiNDRfcUpNYU1ReU55LTBHQUQ2Zm1HaEpDTHN5WC1PbzNSZG1sZy1FNGZXWkZGTzU5Z3B5MWwtM3dMbjdUNzJFamVvX0NTdy1oWFVXVDZ4RC1jY1RzU19xQnpsVHVSS3FYTTFlQjZlVlFsOHZGSWF0UHRieTdWbGdPem5IUmhxdjBYaV8w?oc=5",
+     "pub": "2026-10-29T11:07+00:00"
+    },
+    {
+     "medio": "L'Equipe",
+     "titulo": "La sale soirée d'Emegha et de Barco, Penders se rachète : où en sont les ex-Strasbourgeois de Chelsea ?",
+     "url": "https://www.lequipe.fr/Football/Actualites/La-sale-soiree-d-emegha-et-de-barco-penders-se-rachete-ou-en-sont-les-ex-strasbourgeois-de-chelsea/1739476#at_medium=RSS_feeds",
+     "pub": "2026-10-29T12:04+00:00"
+    },
+    {
+     "medio": "Foot Mercato",
+     "titulo": "Chelsea : Estevão veut déjà quitter le club",
+     "url": "https://www.footmercato.net/a2841096073229433168-chelsea-estevao-veut-deja-quitter-le-club",
+     "pub": "2026-10-29T10:56+00:00"
     }
    ]
   },
@@ -219,12 +317,6 @@
      "titulo": "Roy Keane takes another swipe at 'lucky boy' Michael Carrick: Man United legend tells under-fire boss to 'grow a pair and start getting results' after surviving the sack",
      "url": "https://www.dailymail.com/sport/football/article-16248805/Roy-Keane-takes-swipe-lucky-boy-Carrick-Legend-tells-fire-boss-grow-pair.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
      "pub": "2026-10-29T12:10+00:00"
-    },
-    {
-     "medio": "Mirror",
-     "titulo": "Man Utd news: Bruno Fernandes told he's 'finished' as Michael Carrick makes bold call",
-     "url": "https://www.mirror.co.uk/sport/football/news/man-utd-bruno-fernandes-carrick-37818639",
-     "pub": "2026-10-29T04:30+00:00"
     },
     {
      "medio": "Guardian",
@@ -285,6 +377,107 @@
      "titulo": "The differences between Spalletti and Carrick amid Conte speculation",
      "url": "https://football-italia.net/differences-spalletti-carrick-conte-speculatio/",
      "pub": "2026-10-29T14:03+00:00"
+    },
+    {
+     "medio": "Kicker",
+     "titulo": "Angezählter Carrick: \"Brauche von niemandem irgendwelche Garantien\"",
+     "url": "https://www.kicker.de/angezaehlter-carrick-brauche-von-niemandem-irgendwelche-garantien-1266660/video#omrss",
+     "pub": "2026-10-29T19:29+00:00"
+    }
+   ]
+  },
+  {
+   "tema": "San",
+   "medios": 14,
+   "lista_medios": [
+    "AS",
+    "Daily Mail",
+    "Foot Mercato",
+    "Football Italia",
+    "Google News AR",
+    "Google News ES",
+    "Guardian",
+    "Kicker",
+    "L'Equipe",
+    "Mundo Deportivo",
+    "Ole",
+    "Planet Football",
+    "ge.globo",
+    "talkSPORT"
+   ],
+   "primera_vez": "2026-10-29T13:34+00:00",
+   "titulares": [
+    {
+     "medio": "Mundo Deportivo",
+     "titulo": "\"Meter gol en San Mamés fue especial y quiero volver a hacerlo\"",
+     "url": "https://www.mundodeportivo.com/futbol/real-sociedad/20261029/1004244639/meter-gol-san-mames-especial-quiero-volver-hacerlo.html",
+     "pub": ""
+    },
+    {
+     "medio": "Mundo Deportivo",
+     "titulo": "La racha de la Real avala su intento de asalto a San Mamés",
+     "url": "https://www.mundodeportivo.com/futbol/real-sociedad/20261029/1004244595/racha-real-avala-intento-asalto-san-mames.html",
+     "pub": ""
+    },
+    {
+     "medio": "Google News ES",
+     "titulo": "San Mamés vibrará de nuevo con la Euskal Selekzioa: se medirá a Venezuela el 14 de noviembre",
+     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPOXUzTXRkZGFNeWo2ZHA4SVk4U2d5NmNscFYwcjQ3ZUNLUTVicVNEUFExbEVDZ1ItSkZpX3BHSWtUdlZ0Z3V6Q3E4V3QyNUZlV1BFdV9HaU83czFGWGJFYlhuVE1qRUVzN2V0WS1vTWVwV1FHZTNsSUUxci1ESmhEcXYzVGY1UV9rcHgwblpNYzA4TnFCQWRLTU1NQnFpQjRoN3Jzak5n0gGrAUFVX3lxTE40aW5CZklILXFELTRzQ2l0ZHBwSDZ3NExvcGVVdkJGX3hqUG1xUmJSWC1XZTNFamZFNGNsQlVaMHRTNUJTTmpjMGFvTXRkRGtoOXF1eXVUZVBUX2pMZjZtM3QyMVM3eWI1czU5U1c5MW10R0N6SjkzSGtlcVVkYXA2c042R0tMVmNweEFkczZYaUU4clpqUm0zWHVod2hEaEZyUTFVekROdTJ5OA?oc=5",
+     "pub": "2026-10-29T12:02+00:00"
+    },
+    {
+     "medio": "Google News ES",
+     "titulo": "¿Fútbol control o locura? El dilema de Matarazzo para asaltar San Mamés",
+     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQRExZazlYSnFtc3ZfZlJKdjM0cHo5a3ZqNWdrWDlpSzBYN3ZMLTJod2pIQVBFV3E4dk13WmhvYm1DQzBJa2dDd3hEVTllZEs1bHR4YndEZ0lWZk9VVm9nNTZHbGVPNEk4RUVsdkxYd05WVUROYWJTLUw1NF9xYmhkZFNoMnZnS2lVXzJQYkVUX1FxZ2JfVWdXS0k4ZDJqYzRTeTNjYnMxaEs1djVscWZhMlhnd2hmY0ZFTU9TX9IBwgFBVV95cUxPUmtEa3ljUWh0aVZhYlpEMmQwdk9oUUxUTk81VXhpTHZaNEZzeGxKUnA5T1o4MWJDYmRGdGJQa3FLZTFwRS11LUNUTTdLQVdOTUZITDFOYWVVNnBlVW8zZ2pYRDlZTzBjamI0YlNCMDdtNEwtcFFOMWo2REhtRGZJcFliX1B0SXJQa3ZsRUNaUm42b1hMQ2Vxc1l6eUNZekNfR2N5aDdXTHdtR3NPUHE2aUxGVGFfYzVBVDRmaHVhZ21aZw?oc=5",
+     "pub": "2026-10-29T18:57+00:00"
+    },
+    {
+     "medio": "Google News ES",
+     "titulo": "El papel clave del agua en el fútbol: FFCV y San Benedetto presentan la importancia de la hidratación en el deporte profesional",
+     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNb0w5UGVUV2Z5MHd1S25XY2lxVFQ4dEx6UXNCMVZiZ0c3ZDZjTDU2dkpxWGppNUhfemdrejdXcUtYMmhmalhHX2pXVm1fa2Q1UWpOQlpLOUpqYnktT1VOaWdqTnZGV0phZWhVbTBaTlo1UEt0RVBxRGVWV0F2Y1B2c0FQN1Bia3ozODBZLVM5NlNjdVXSAZgBQVVfeXFMUG1wY2lPRy1RVG1yTVJVSzlOdnFhTnBaallhbzlmVDEwT0pjdzZseGJ2Sm5FQmZKcDAxQ1RHX0h0bi1Eb01lQWdzeG8xbVB6U0UtYW5jb1JwZjFQZkNvNzIwbThtUnRMQTVYYVNtcUo2QjY0UGliVXlqWGg0SkwzV1Mwc3VSeE1pSGxVaUI1a1FCNUxGQ0FENTg?oc=5",
+     "pub": "2026-10-29T18:56+00:00"
+    },
+    {
+     "medio": "Football Italia",
+     "titulo": "New San Siro to be called Generali Stadium, confirm Inter and Milan",
+     "url": "https://football-italia.net/new-san-siro-to-be-called-generali-stadium/",
+     "pub": "2026-10-29T18:06+00:00"
+    },
+    {
+     "medio": "Football Italia",
+     "titulo": "Inter and Milan present new San Siro stadium amid protests and bad scheduling",
+     "url": "https://football-italia.net/inter-milan-new-san-siro-stadium-amid-protests/",
+     "pub": "2026-10-29T16:33+00:00"
+    },
+    {
+     "medio": "Foot Mercato",
+     "titulo": "Le nom du nouveau San Siro a été dévoilé",
+     "url": "https://www.footmercato.net/a8203340151619075587-le-nom-du-nouveau-san-siro-a-ete-devoile",
+     "pub": "2026-10-29T18:46+00:00"
+    },
+    {
+     "medio": "Google News AR",
+     "titulo": "LLA visitó la Escuela de Fútbol de San Lorenzo de Almagro, sede Escobar",
+     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQZFVvMEVPVHB0ZGt6dVhvNEpBVmV6TG5iRTN2VjR1SnJ0RzN0d3BIaWM3ZUJkM21CY19DZ3pzaGhVdHFnVTRiZUdOZDZiX3kyekVkTWdFakVrbnd4UFhfVUNYX0U2RC1LNGl3OVV1VENaQTMwM2h4ZmhmYW11OFlkakVsa0ZObEtvd0REOUZLUlZWOC16RFVZd3drUFViNjVzQV90YnNUcG9DX2JyZ1BZ?oc=5",
+     "pub": "2026-10-29T17:27+00:00"
+    },
+    {
+     "medio": "Guardian",
+     "titulo": "Inter and Milan unveil plans for new shared stadium to replace San Siro",
+     "url": "https://www.theguardian.com/football/2026/oct/29/inter-milan-generali-stadium-new-venue-san-siro-protests",
+     "pub": "2026-10-29T21:46+00:00"
+    },
+    {
+     "medio": "talkSPORT",
+     "titulo": "AC Milan and Inter unveil stunning images and name of new 71,500 stadium to replace San Siro",
+     "url": "https://talksport.com/football/4677015/ac-milan-inter-unveil-generali-stadium-images-san-siro/",
+     "pub": "2026-10-29T23:10+00:00"
+    },
+    {
+     "medio": "Daily Mail",
+     "titulo": "AC Milan and Inter reveal first pictures of new stadium as San Siro replacement unveiled after £543million naming rights deal",
+     "url": "https://www.dailymail.com/sport/football/article-16250727/AC-Milan-Inter-pictures-new-stadium-San-Siro.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+     "pub": "2026-10-29T23:34+00:00"
     }
    ]
   },
@@ -383,290 +576,8 @@
    ]
   },
   {
-   "tema": "Bayern",
-   "medios": 13,
-   "lista_medios": [
-    "AS",
-    "Daily Mail",
-    "Foot Mercato",
-    "FourFourTwo",
-    "Infobae",
-    "Kicker",
-    "Mirror",
-    "Mundo Deportivo",
-    "Ole",
-    "Sky Sports",
-    "Yahoo",
-    "ge.globo",
-    "talkSPORT"
-   ],
-   "primera_vez": "2026-10-29T13:34+00:00",
-   "titulares": [
-    {
-     "medio": "Sky Sports",
-     "titulo": "How Bayern Munich fell in love with Kane",
-     "url": "https://www.skysports.com/football/news/12040/13605214/harry-kanes-ballon-dor-homecoming-with-bayern-munich-shows-why-germany-has-fallen-in-love-with-englands-captain",
-     "pub": "2026-10-29T09:30+00:00"
-    },
-    {
-     "medio": "Daily Mail",
-     "titulo": "Vincent Kompany is discharged from hospital as Bayern Munich reveal manager's 'meningeal irritation' diagnosis after 'dislocating his shoulder' in collapse at training ground",
-     "url": "https://www.dailymail.com/sport/football/article-16247041/Vincent-Kompany-discharged-hospital-collapse-Bayern-Munich-reveal-reason-manager-fall.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-     "pub": "2026-10-29T08:24+00:00"
-    },
-    {
-     "medio": "Mirror",
-     "titulo": "Harry Kane to lose small fortune with incredible gesture to Bayern and England team-mates",
-     "url": "https://www.mirror.co.uk/sport/football/news/harry-kane-ballon-dor-gifts-37821408",
-     "pub": "2026-10-29T10:45+00:00"
-    },
-    {
-     "medio": "Mirror",
-     "titulo": "Vincent Kompany discharged from hospital as Bayern Munich chief issues health update",
-     "url": "https://www.mirror.co.uk/sport/football/news/kompany-hospital-health-bayern-munich-37821256",
-     "pub": "2026-10-29T08:04+00:00"
-    },
-    {
-     "medio": "FourFourTwo",
-     "titulo": "Doctors rule out heart attack for Vincent Kompany, as Bayern Munich boss is 'getting better every day'",
-     "url": "https://www.fourfourtwo.com/person/coaches-managers/bayern-munich-boss-vincent-kompany-getting-better-every-day-as-doctors-rule-out-heart-attack",
-     "pub": "2026-10-29T12:00+00:00"
-    },
-    {
-     "medio": "AS",
-     "titulo": "Massimo Moratti: “Me puse más contento cuando eliminamos al Barça que en la final contra el Bayern”",
-     "url": "https://as.com/futbol/internacional/massimo-moratti-me-puse-mas-contento-cuando-eliminamos-al-barca-que-en-la-final-contra-el-bayern-f202610-n/",
-     "pub": "2026-10-29T05:34+00:00"
-    },
-    {
-     "medio": "Kicker",
-     "titulo": "BVB \"nah dran\" an Bayern - Karetsas-Entscheidung am Freitag",
-     "url": "https://www.kicker.de/bvb-nah-dran-an-bayern-karetsas-entscheidung-am-freitag-1266524/artikel#omrss",
-     "pub": "2026-10-29T12:52+00:00"
-    },
-    {
-     "medio": "Ole",
-     "titulo": "Bayern Munich, entre problemas de salud, lesiones y una alegría histórica",
-     "url": "https://www.ole.com.ar/futbol-internacional/liga-alemana-bundesliga/bayern-munich-lesiones-problemas-salud-alegria-historica-balon-oro-harry-kane_0_Zk7fmgKEnZ.html",
-     "pub": "2026-10-29T13:14+00:00"
-    },
-    {
-     "medio": "ge.globo",
-     "titulo": "Kompany recebe alta após desmaio, mas ainda não tem previsão de retorno ao Bayern",
-     "url": "https://ge.globo.com/futebol/futebol-internacional/futebol-alemao/noticia/2026/10/29/kompany-recebe-alta-apos-desmaio-mas-ainda-nao-tem-previsao-de-retorno-ao-bayern.ghtml",
-     "pub": "2026-10-29T04:00+00:00"
-    },
-    {
-     "medio": "Kicker",
-     "titulo": "VfB gegen Bayern - Stadtduell in Köln",
-     "url": "https://www.kicker.de/vfb-gegen-bayern-stadtduell-in-koeln-1241394/artikel#omrss",
-     "pub": "2026-10-29T16:12+00:00"
-    },
-    {
-     "medio": "Foot Mercato",
-     "titulo": "Le Bayern Munich envisage une date de retour pour Vincent Kompany",
-     "url": "https://www.footmercato.net/a1213220058550163023-le-bayern-munich-envisage-une-date-de-retour-pour-vincent-kompany",
-     "pub": "2026-10-29T15:48+00:00"
-    },
-    {
-     "medio": "Infobae",
-     "titulo": "Viaje al interior de la pasión en las tribunas durante un partido de la Copa de Alemania: el show de los fanáticos en Bayern Múnich-Magdeburgo",
-     "url": "https://www.infobae.com/deportes/2026/10/29/viaje-al-interior-de-la-pasion-en-las-tribunas-durante-un-partido-de-la-copa-de-alemania-el-show-de-los-fanaticos-en-bayern-munich-magdeburgo/",
-     "pub": "2026-10-29T15:03+00:00"
-    }
-   ]
-  },
-  {
-   "tema": "Chelsea",
-   "medios": 13,
-   "lista_medios": [
-    "BBC",
-    "Daily Mail",
-    "Foot Mercato",
-    "FourFourTwo",
-    "Google News EN",
-    "Guardian",
-    "L'Equipe",
-    "Mirror",
-    "Planet Football",
-    "Telegraph",
-    "Yahoo",
-    "ge.globo",
-    "talkSPORT"
-   ],
-   "primera_vez": "2026-10-29T13:34+00:00",
-   "titulares": [
-    {
-     "medio": "talkSPORT",
-     "titulo": "Chelsea fans will turn on Xabi Alonso if weird treatment of star player continues",
-     "url": "https://talksport.com/football/4674499/chelsea-xabi-alonso-estevao-treatment-why-not-playing/",
-     "pub": "2026-10-29T09:08+00:00"
-    },
-    {
-     "medio": "Daily Mail",
-     "titulo": "Former Chelsea star Marc Cucurella's WAG narrowly avoids being caught in Spain's deadly train crash which has killed at least 68",
-     "url": "https://www.dailymail.com/sport/football/article-16248333/Marc-Cucurella-WAG-avoids-Spain-deadly-train-crash-killed-68.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-     "pub": "2026-10-29T09:45+00:00"
-    },
-    {
-     "medio": "Mirror",
-     "titulo": "Xabi Alonso's Carabao Cup comments are disrespectful to competition and Chelsea fans",
-     "url": "https://www.mirror.co.uk/sport/football/news/chelsea-xabi-alonso-carabao-cup-37822219",
-     "pub": "2026-10-29T12:04+00:00"
-    },
-    {
-     "medio": "Mirror",
-     "titulo": "Xabi Alonso admits Carabao Cup 'least important tournament' as Chelsea lose at Liverpool",
-     "url": "https://www.mirror.co.uk/sport/football/news/xabi-alonso-chelsea-carabao-cup-37821169",
-     "pub": "2026-10-29T07:17+00:00"
-    },
-    {
-     "medio": "Telegraph",
-     "titulo": "Wesley Fofana’s Chelsea nightmare continues as Liverpool win shoot-out",
-     "url": "https://www.telegraph.co.uk/football/2026/10/28/liverpool-vs-chelsea-live-score-latest-carabao-cup-updates/",
-     "pub": "2026-10-29T08:26+00:00"
-    },
-    {
-     "medio": "Yahoo",
-     "titulo": "Journalist: Liverpool star ‘could be the future’ after Chelsea performance",
-     "url": "https://sports.yahoo.com/articles/journalist-liverpool-star-could-future-125000309.html",
-     "pub": "2026-10-29T12:50+00:00"
-    },
-    {
-     "medio": "Yahoo",
-     "titulo": "Real Madrid keeping a close eye on former academy graduate amid Arsenal, Chelsea interest",
-     "url": "https://sports.yahoo.com/articles/real-madrid-keeping-close-eye-121000830.html",
-     "pub": "2026-10-29T12:10+00:00"
-    },
-    {
-     "medio": "Yahoo",
-     "titulo": "“We want to win it” – Liverpool star makes Carabao Cup statement after Chelsea win",
-     "url": "https://sports.yahoo.com/articles/want-win-liverpool-star-makes-115000180.html",
-     "pub": "2026-10-29T11:50+00:00"
-    },
-    {
-     "medio": "Yahoo",
-     "titulo": "Report: Chelsea eyeing move to sign Barcelona star",
-     "url": "https://sports.yahoo.com/articles/report-chelsea-eyeing-move-sign-115000544.html",
-     "pub": "2026-10-29T11:50+00:00"
-    },
-    {
-     "medio": "Google News EN",
-     "titulo": "Virgil van Dijk and Emmanuel Emegha: Liverpool defender left fuming after Chelsea new boy throws him to the floor!",
-     "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQaF9paGFINVl5aXNIRWpUOFU3eC01Y29CREcyRmtzb3RQelJjWGpPUV93QWtHb1N6R0NidnRQdEwyNHNVUEJqcUhVbmFPdml3dnJiRzd0R0lxOTBLMlRsYm9saFN1dHJnN3J4VnpGMUdiNDRfcUpNYU1ReU55LTBHQUQ2Zm1HaEpDTHN5WC1PbzNSZG1sZy1FNGZXWkZGTzU5Z3B5MWwtM3dMbjdUNzJFamVvX0NTdy1oWFVXVDZ4RC1jY1RzU19xQnpsVHVSS3FYTTFlQjZlVlFsOHZGSWF0UHRieTdWbGdPem5IUmhxdjBYaV8w?oc=5",
-     "pub": "2026-10-29T11:07+00:00"
-    },
-    {
-     "medio": "L'Equipe",
-     "titulo": "La sale soirée d'Emegha et de Barco, Penders se rachète : où en sont les ex-Strasbourgeois de Chelsea ?",
-     "url": "https://www.lequipe.fr/Football/Actualites/La-sale-soiree-d-emegha-et-de-barco-penders-se-rachete-ou-en-sont-les-ex-strasbourgeois-de-chelsea/1739476#at_medium=RSS_feeds",
-     "pub": "2026-10-29T12:04+00:00"
-    },
-    {
-     "medio": "Foot Mercato",
-     "titulo": "Chelsea : Estevão veut déjà quitter le club",
-     "url": "https://www.footmercato.net/a2841096073229433168-chelsea-estevao-veut-deja-quitter-le-club",
-     "pub": "2026-10-29T10:56+00:00"
-    }
-   ]
-  },
-  {
-   "tema": "San",
-   "medios": 13,
-   "lista_medios": [
-    "AS",
-    "Daily Mail",
-    "Foot Mercato",
-    "Football Italia",
-    "Google News AR",
-    "Google News ES",
-    "Guardian",
-    "Kicker",
-    "L'Equipe",
-    "Mundo Deportivo",
-    "Ole",
-    "ge.globo",
-    "talkSPORT"
-   ],
-   "primera_vez": "2026-10-29T13:34+00:00",
-   "titulares": [
-    {
-     "medio": "Mundo Deportivo",
-     "titulo": "\"Meter gol en San Mamés fue especial y quiero volver a hacerlo\"",
-     "url": "https://www.mundodeportivo.com/futbol/real-sociedad/20261029/1004244639/meter-gol-san-mames-especial-quiero-volver-hacerlo.html",
-     "pub": ""
-    },
-    {
-     "medio": "Mundo Deportivo",
-     "titulo": "La racha de la Real avala su intento de asalto a San Mamés",
-     "url": "https://www.mundodeportivo.com/futbol/real-sociedad/20261029/1004244595/racha-real-avala-intento-asalto-san-mames.html",
-     "pub": ""
-    },
-    {
-     "medio": "Google News ES",
-     "titulo": "San Mamés vibrará de nuevo con la Euskal Selekzioa: se medirá a Venezuela el 14 de noviembre",
-     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPOXUzTXRkZGFNeWo2ZHA4SVk4U2d5NmNscFYwcjQ3ZUNLUTVicVNEUFExbEVDZ1ItSkZpX3BHSWtUdlZ0Z3V6Q3E4V3QyNUZlV1BFdV9HaU83czFGWGJFYlhuVE1qRUVzN2V0WS1vTWVwV1FHZTNsSUUxci1ESmhEcXYzVGY1UV9rcHgwblpNYzA4TnFCQWRLTU1NQnFpQjRoN3Jzak5n0gGrAUFVX3lxTE40aW5CZklILXFELTRzQ2l0ZHBwSDZ3NExvcGVVdkJGX3hqUG1xUmJSWC1XZTNFamZFNGNsQlVaMHRTNUJTTmpjMGFvTXRkRGtoOXF1eXVUZVBUX2pMZjZtM3QyMVM3eWI1czU5U1c5MW10R0N6SjkzSGtlcVVkYXA2c042R0tMVmNweEFkczZYaUU4clpqUm0zWHVod2hEaEZyUTFVekROdTJ5OA?oc=5",
-     "pub": "2026-10-29T12:02+00:00"
-    },
-    {
-     "medio": "Google News ES",
-     "titulo": "¿Fútbol control o locura? El dilema de Matarazzo para asaltar San Mamés",
-     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQRExZazlYSnFtc3ZfZlJKdjM0cHo5a3ZqNWdrWDlpSzBYN3ZMLTJod2pIQVBFV3E4dk13WmhvYm1DQzBJa2dDd3hEVTllZEs1bHR4YndEZ0lWZk9VVm9nNTZHbGVPNEk4RUVsdkxYd05WVUROYWJTLUw1NF9xYmhkZFNoMnZnS2lVXzJQYkVUX1FxZ2JfVWdXS0k4ZDJqYzRTeTNjYnMxaEs1djVscWZhMlhnd2hmY0ZFTU9TX9IBwgFBVV95cUxPUmtEa3ljUWh0aVZhYlpEMmQwdk9oUUxUTk81VXhpTHZaNEZzeGxKUnA5T1o4MWJDYmRGdGJQa3FLZTFwRS11LUNUTTdLQVdOTUZITDFOYWVVNnBlVW8zZ2pYRDlZTzBjamI0YlNCMDdtNEwtcFFOMWo2REhtRGZJcFliX1B0SXJQa3ZsRUNaUm42b1hMQ2Vxc1l6eUNZekNfR2N5aDdXTHdtR3NPUHE2aUxGVGFfYzVBVDRmaHVhZ21aZw?oc=5",
-     "pub": "2026-10-29T18:57+00:00"
-    },
-    {
-     "medio": "Google News ES",
-     "titulo": "El papel clave del agua en el fútbol: FFCV y San Benedetto presentan la importancia de la hidratación en el deporte profesional",
-     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNb0w5UGVUV2Z5MHd1S25XY2lxVFQ4dEx6UXNCMVZiZ0c3ZDZjTDU2dkpxWGppNUhfemdrejdXcUtYMmhmalhHX2pXVm1fa2Q1UWpOQlpLOUpqYnktT1VOaWdqTnZGV0phZWhVbTBaTlo1UEt0RVBxRGVWV0F2Y1B2c0FQN1Bia3ozODBZLVM5NlNjdVXSAZgBQVVfeXFMUG1wY2lPRy1RVG1yTVJVSzlOdnFhTnBaallhbzlmVDEwT0pjdzZseGJ2Sm5FQmZKcDAxQ1RHX0h0bi1Eb01lQWdzeG8xbVB6U0UtYW5jb1JwZjFQZkNvNzIwbThtUnRMQTVYYVNtcUo2QjY0UGliVXlqWGg0SkwzV1Mwc3VSeE1pSGxVaUI1a1FCNUxGQ0FENTg?oc=5",
-     "pub": "2026-10-29T18:56+00:00"
-    },
-    {
-     "medio": "Football Italia",
-     "titulo": "New San Siro to be called Generali Stadium, confirm Inter and Milan",
-     "url": "https://football-italia.net/new-san-siro-to-be-called-generali-stadium/",
-     "pub": "2026-10-29T18:06+00:00"
-    },
-    {
-     "medio": "Football Italia",
-     "titulo": "Inter and Milan present new San Siro stadium amid protests and bad scheduling",
-     "url": "https://football-italia.net/inter-milan-new-san-siro-stadium-amid-protests/",
-     "pub": "2026-10-29T16:33+00:00"
-    },
-    {
-     "medio": "Foot Mercato",
-     "titulo": "Le nom du nouveau San Siro a été dévoilé",
-     "url": "https://www.footmercato.net/a8203340151619075587-le-nom-du-nouveau-san-siro-a-ete-devoile",
-     "pub": "2026-10-29T18:46+00:00"
-    },
-    {
-     "medio": "Google News AR",
-     "titulo": "LLA visitó la Escuela de Fútbol de San Lorenzo de Almagro, sede Escobar",
-     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQZFVvMEVPVHB0ZGt6dVhvNEpBVmV6TG5iRTN2VjR1SnJ0RzN0d3BIaWM3ZUJkM21CY19DZ3pzaGhVdHFnVTRiZUdOZDZiX3kyekVkTWdFakVrbnd4UFhfVUNYX0U2RC1LNGl3OVV1VENaQTMwM2h4ZmhmYW11OFlkakVsa0ZObEtvd0REOUZLUlZWOC16RFVZd3drUFViNjVzQV90YnNUcG9DX2JyZ1BZ?oc=5",
-     "pub": "2026-10-29T17:27+00:00"
-    },
-    {
-     "medio": "Guardian",
-     "titulo": "Inter and Milan unveil plans for new shared stadium to replace San Siro",
-     "url": "https://www.theguardian.com/football/2026/oct/29/inter-milan-generali-stadium-new-venue-san-siro-protests",
-     "pub": "2026-10-29T21:46+00:00"
-    },
-    {
-     "medio": "talkSPORT",
-     "titulo": "AC Milan and Inter unveil stunning images and name of new 71,500 stadium to replace San Siro",
-     "url": "https://talksport.com/football/4677015/ac-milan-inter-unveil-generali-stadium-images-san-siro/",
-     "pub": "2026-10-29T23:10+00:00"
-    },
-    {
-     "medio": "Daily Mail",
-     "titulo": "AC Milan and Inter reveal first pictures of new stadium as San Siro replacement unveiled after £543million naming rights deal",
-     "url": "https://www.dailymail.com/sport/football/article-16250727/AC-Milan-Inter-pictures-new-stadium-San-Siro.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-     "pub": "2026-10-29T23:34+00:00"
-    }
-   ]
-  },
-  {
    "tema": "Liverpool",
-   "medios": 12,
+   "medios": 13,
    "lista_medios": [
     "Daily Mail",
     "Foot Mercato",
@@ -679,6 +590,7 @@
     "Sky Sports",
     "Telegraph",
     "Yahoo",
+    "ge.globo",
     "talkSPORT"
    ],
    "primera_vez": "2026-10-29T13:34+00:00",
@@ -688,12 +600,6 @@
      "titulo": "Xabi Alonso admits Carabao Cup 'least important tournament' as Chelsea lose at Liverpool",
      "url": "https://www.mirror.co.uk/sport/football/news/xabi-alonso-chelsea-carabao-cup-37821169",
      "pub": "2026-10-29T07:17+00:00"
-    },
-    {
-     "medio": "Mirror",
-     "titulo": "Liverpool news: Key man 'set to leave' against his wishes as reunion planned with fan favourite",
-     "url": "https://www.mirror.co.uk/sport/football/news/liverpool-news-mac-allister-kuyt-37819226",
-     "pub": "2026-10-29T05:00+00:00"
     },
     {
      "medio": "Telegraph",
@@ -754,21 +660,121 @@
      "titulo": "Liverpool Confidential: Inside Harvey Elliott's difficult start to life in Valencia, why experts think move is doomed despite efforts off the pitch, the loanee who IS thriving in Spain and club's stance on making Ronald Araujo deal permanen",
      "url": "https://www.dailymail.com/sport/football/article-16248617/Liverpool-Confidential-Harvey-Elliott-Valencia-Ronald-Araujo.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
      "pub": "2026-10-29T17:05+00:00"
+    },
+    {
+     "medio": "FourFourTwo",
+     "titulo": "Liverpool report: Valencia teenager linked after huge price rise",
+     "url": "https://www.fourfourtwo.com/transfer/liverpools-hopes-of-signing-valencia-teenager-hit-by-a-major-transfer-development-report",
+     "pub": "2026-10-29T14:00+00:00"
     }
    ]
   },
   {
-   "tema": "Inter",
-   "medios": 11,
+   "tema": "Bayern",
+   "medios": 12,
    "lista_medios": [
     "Daily Mail",
-    "Football Italia",
-    "Google News EN",
-    "Guardian",
+    "Foot Mercato",
+    "FourFourTwo",
     "Infobae",
+    "Kicker",
+    "Mirror",
+    "Mundo Deportivo",
+    "Ole",
+    "Sky Sports",
+    "Yahoo",
+    "ge.globo",
+    "talkSPORT"
+   ],
+   "primera_vez": "2026-10-29T13:34+00:00",
+   "titulares": [
+    {
+     "medio": "Sky Sports",
+     "titulo": "How Bayern Munich fell in love with Kane",
+     "url": "https://www.skysports.com/football/news/12040/13605214/harry-kanes-ballon-dor-homecoming-with-bayern-munich-shows-why-germany-has-fallen-in-love-with-englands-captain",
+     "pub": "2026-10-29T09:30+00:00"
+    },
+    {
+     "medio": "Daily Mail",
+     "titulo": "Vincent Kompany is discharged from hospital as Bayern Munich reveal manager's 'meningeal irritation' diagnosis after 'dislocating his shoulder' in collapse at training ground",
+     "url": "https://www.dailymail.com/sport/football/article-16247041/Vincent-Kompany-discharged-hospital-collapse-Bayern-Munich-reveal-reason-manager-fall.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+     "pub": "2026-10-29T08:24+00:00"
+    },
+    {
+     "medio": "Mirror",
+     "titulo": "Harry Kane to lose small fortune with incredible gesture to Bayern and England team-mates",
+     "url": "https://www.mirror.co.uk/sport/football/news/harry-kane-ballon-dor-gifts-37821408",
+     "pub": "2026-10-29T10:45+00:00"
+    },
+    {
+     "medio": "Mirror",
+     "titulo": "Vincent Kompany discharged from hospital as Bayern Munich chief issues health update",
+     "url": "https://www.mirror.co.uk/sport/football/news/kompany-hospital-health-bayern-munich-37821256",
+     "pub": "2026-10-29T08:04+00:00"
+    },
+    {
+     "medio": "FourFourTwo",
+     "titulo": "Doctors rule out heart attack for Vincent Kompany, as Bayern Munich boss is 'getting better every day'",
+     "url": "https://www.fourfourtwo.com/person/coaches-managers/bayern-munich-boss-vincent-kompany-getting-better-every-day-as-doctors-rule-out-heart-attack",
+     "pub": "2026-10-29T12:00+00:00"
+    },
+    {
+     "medio": "Kicker",
+     "titulo": "BVB \"nah dran\" an Bayern - Karetsas-Entscheidung am Freitag",
+     "url": "https://www.kicker.de/bvb-nah-dran-an-bayern-karetsas-entscheidung-am-freitag-1266524/artikel#omrss",
+     "pub": "2026-10-29T12:52+00:00"
+    },
+    {
+     "medio": "Ole",
+     "titulo": "Bayern Munich, entre problemas de salud, lesiones y una alegría histórica",
+     "url": "https://www.ole.com.ar/futbol-internacional/liga-alemana-bundesliga/bayern-munich-lesiones-problemas-salud-alegria-historica-balon-oro-harry-kane_0_Zk7fmgKEnZ.html",
+     "pub": "2026-10-29T13:14+00:00"
+    },
+    {
+     "medio": "Kicker",
+     "titulo": "VfB gegen Bayern - Stadtduell in Köln",
+     "url": "https://www.kicker.de/vfb-gegen-bayern-stadtduell-in-koeln-1241394/artikel#omrss",
+     "pub": "2026-10-29T16:12+00:00"
+    },
+    {
+     "medio": "Foot Mercato",
+     "titulo": "Le Bayern Munich envisage une date de retour pour Vincent Kompany",
+     "url": "https://www.footmercato.net/a1213220058550163023-le-bayern-munich-envisage-une-date-de-retour-pour-vincent-kompany",
+     "pub": "2026-10-29T15:48+00:00"
+    },
+    {
+     "medio": "Infobae",
+     "titulo": "Viaje al interior de la pasión en las tribunas durante un partido de la Copa de Alemania: el show de los fanáticos en Bayern Múnich-Magdeburgo",
+     "url": "https://www.infobae.com/deportes/2026/10/29/viaje-al-interior-de-la-pasion-en-las-tribunas-durante-un-partido-de-la-copa-de-alemania-el-show-de-los-fanaticos-en-bayern-munich-magdeburgo/",
+     "pub": "2026-10-29T15:03+00:00"
+    },
+    {
+     "medio": "talkSPORT",
+     "titulo": "Where to watch Bayern Munich v Borussia Dortmund as Harry Kane looks to celebrate Ballon d’Or",
+     "url": "https://talksport.com/football/4677861/where-to-watch-bayern-munich-v-borussia-dortmund-standings-lineups/",
+     "pub": "2026-10-30T12:05+00:00"
+    },
+    {
+     "medio": "Yahoo",
+     "titulo": "Arsenal push to extend 27yo’s contract amid Bayern reports",
+     "url": "https://sports.yahoo.com/articles/arsenal-push-extend-27yo-contract-110200194.html",
+     "pub": "2026-10-30T11:02+00:00"
+    }
+   ]
+  },
+  {
+   "tema": "Arsenal",
+   "medios": 12,
+   "lista_medios": [
+    "Daily Mail",
+    "Foot Mercato",
+    "FourFourTwo",
+    "Guardian",
     "L'Equipe",
     "Mirror",
+    "Mundo Deportivo",
     "Planet Football",
+    "Sky Sports",
     "Yahoo",
     "ge.globo",
     "talkSPORT"
@@ -777,81 +783,81 @@
    "titulares": [
     {
      "medio": "Planet Football",
-     "titulo": "We’re delighted to announce Luis Suarez has stuck it top bins like the good old days for Inter Miami",
-     "url": "https://www.planetfootball.com/mls/were-delighted-announce-luis-suarez-top-bins-inter-miami",
-     "pub": "2026-10-29T12:06+00:00"
+     "titulo": "Can you name every French player to appear for Arsenal in the Premier League?",
+     "url": "https://www.planetfootball.com/quizzes/can-name-every-french-player-appear-arsenal-pl",
+     "pub": "2026-10-29T08:41+00:00"
+    },
+    {
+     "medio": "FourFourTwo",
+     "titulo": "Arsenal report: Bournemouth decision reached on Eli Junior Kroupi transfer",
+     "url": "https://www.fourfourtwo.com/transfer/arsenal-report-bournemouth-decision-reached-on-eli-junior-kroupi-transfer",
+     "pub": "2026-10-29T11:27+00:00"
+    },
+    {
+     "medio": "FourFourTwo",
+     "titulo": "Quiz! Can you name the starting line-up from Liverpool's 4-4 Premier League draw with Arsenal in 2009?",
+     "url": "https://www.fourfourtwo.com/quiz/quiz-can-you-name-the-starting-line-up-from-liverpools-4-4-premier-league-draw-with-arsenal-in-2009",
+     "pub": "2026-10-29T09:29+00:00"
     },
     {
      "medio": "Yahoo",
-     "titulo": "Former Inter Milan president claims he ‘enjoyed eliminating Barcelona more’ than winning the 2010 Champions League",
-     "url": "https://sports.yahoo.com/articles/former-inter-milan-president-claims-125000458.html",
+     "titulo": "Arsenal notch their 1st win at Messi Cup",
+     "url": "https://sports.yahoo.com/articles/arsenal-notch-1st-win-messi-130100511.html",
+     "pub": "2026-10-29T13:01+00:00"
+    },
+    {
+     "medio": "Yahoo",
+     "titulo": "Arsenal are one of the clubs considering move for Serie A wonderkid",
+     "url": "https://sports.yahoo.com/articles/arsenal-one-clubs-considering-move-125000423.html",
      "pub": "2026-10-29T12:50+00:00"
     },
     {
      "medio": "Yahoo",
-     "titulo": "Former Inter Milan chief opens up on Mourinho joining Real Madrid in 2010: ‘What could I do?’",
-     "url": "https://sports.yahoo.com/articles/former-inter-milan-chief-opens-110700746.html",
-     "pub": "2026-10-29T11:07+00:00"
+     "titulo": "Real Madrid keeping a close eye on former academy graduate amid Arsenal, Chelsea interest",
+     "url": "https://sports.yahoo.com/articles/real-madrid-keeping-close-eye-121000830.html",
+     "pub": "2026-10-29T12:10+00:00"
     },
     {
-     "medio": "Infobae",
-     "titulo": "Tierno gesto con un niño, sorpresa por una amonestación y destellos de su magia: el partido de Messi en el empate del Inter Miami",
-     "url": "https://www.infobae.com/deportes/2026/10/29/tierno-gesto-con-un-nino-una-llamativa-amonestacion-y-destellos-de-su-magia-el-partido-de-messi-en-el-empate-del-inter-miami/",
-     "pub": "2026-10-29T03:18+00:00"
+     "medio": "Yahoo",
+     "titulo": "Early Arsenal vs Liverpool team news confirmed, it's massive",
+     "url": "https://sports.yahoo.com/articles/early-arsenal-vs-liverpool-team-120000342.html",
+     "pub": "2026-10-29T12:00+00:00"
     },
     {
-     "medio": "ge.globo",
-     "titulo": "Ex-presidente da Inter revela desespero do Barcelona com venda de Ronaldo: \"Ficou furioso\"",
-     "url": "https://ge.globo.com/futebol/futebol-internacional/noticia/2026/10/29/ex-presidente-da-inter-revela-desespero-do-barcelona-com-venda-de-ronaldo-ficou-furioso.ghtml",
-     "pub": "2026-10-29T09:26+00:00"
-    },
-    {
-     "medio": "Mirror",
-     "titulo": "Sweet moment David Beckham shares hug with boy, 5, before walking out as Inter Miami mascot",
-     "url": "https://www.mirror.co.uk/news/uk-news/david-beckham-huddy-downs-syndrome-37823156",
-     "pub": "2026-10-29T13:51+00:00"
-    },
-    {
-     "medio": "Google News EN",
-     "titulo": "MLS - Luis Suarez scores stunner for Inter Miami CF",
-     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBGYk5COFN2MG0yb0NKVk43V0d5c1p0Nm83YzJ2MFZIX21fdHhEVUJfV3J6TFI2OW5TVEpUeHRiZkt2dWNMY05kOXA1STNUVVMtakUwRUJqVE5FT3pEdUNTc0VrV1JFTDVI?oc=5",
-     "pub": "2026-10-29T18:39+00:00"
-    },
-    {
-     "medio": "Football Italia",
-     "titulo": "New San Siro to be called Generali Stadium, confirm Inter and Milan",
-     "url": "https://football-italia.net/new-san-siro-to-be-called-generali-stadium/",
-     "pub": "2026-10-29T18:06+00:00"
-    },
-    {
-     "medio": "Football Italia",
-     "titulo": "Inter and Milan present new San Siro stadium amid protests and bad scheduling",
-     "url": "https://football-italia.net/inter-milan-new-san-siro-stadium-amid-protests/",
-     "pub": "2026-10-29T16:33+00:00"
-    },
-    {
-     "medio": "Football Italia",
-     "titulo": "Triple Milan injury boost ahead of derby against Inter",
-     "url": "https://football-italia.net/triple-milan-injury-boost-derby-against-inter/",
-     "pub": "2026-10-29T14:16+00:00"
+     "medio": "L'Equipe",
+     "titulo": "Tombeur d'Arsenal, Fleetwood recevra Newcastle ou Everton en quarts de finale de la League Cup",
+     "url": "https://www.lequipe.fr/Football/Actualites/Tombeur-d-arsenal-fleetwood-recevra-newcastle-ou-everton-en-quarts-de-finale-de-la-league-cup/1739445#at_medium=RSS_feeds",
+     "pub": "2026-10-29T09:09+00:00"
     },
     {
      "medio": "Guardian",
-     "titulo": "Inter and Milan unveil plans for new shared stadium to replace San Siro",
-     "url": "https://www.theguardian.com/football/2026/oct/29/inter-milan-generali-stadium-new-venue-san-siro-protests",
-     "pub": "2026-10-29T21:46+00:00"
+     "titulo": "Arsenal fail at Fleetwood and Michael Carrick clings on | Football Weekly Extra – video",
+     "url": "https://www.theguardian.com/football/video/2026/oct/29/arsenal-fail-at-fleetwood-and-michael-carrick-clings-on-football-weekly-video",
+     "pub": "2026-10-29T13:51+00:00"
+    },
+    {
+     "medio": "Sky Sports",
+     "titulo": "Arsenal fail with appeal against Dowman's red card",
+     "url": "https://www.skysports.com/football/news/12040/13605382/max-dowman-arsenals-appeal-against-teenagers-red-card-in-fleetwood-town-defeat-rejected",
+     "pub": "2026-10-29T14:50+00:00"
+    },
+    {
+     "medio": "Sky Sports",
+     "titulo": "Arsenal striker dilemma: Should Arteta keep faith in Havertz?",
+     "url": "https://www.skysports.com/football/news/12040/13605389/arsenals-kai-havertz-in-goal-drought-so-should-mikel-arteta-keep-faith-in-him-ahead-of-viktor-gyokeres-against-liverpool",
+     "pub": "2026-10-29T15:13+00:00"
     },
     {
      "medio": "talkSPORT",
-     "titulo": "AC Milan and Inter unveil stunning images and name of new 71,500 stadium to replace San Siro",
-     "url": "https://talksport.com/football/4677015/ac-milan-inter-unveil-generali-stadium-images-san-siro/",
-     "pub": "2026-10-29T23:10+00:00"
+     "titulo": "Where to watch Liverpool v Arsenal with surprise referee selection made for Premier League blockbuster",
+     "url": "https://talksport.com/football/4675389/where-to-watch-liverpool-v-arsenal-standings-commentary-lineups-score/",
+     "pub": "2026-10-29T13:59+00:00"
     }
    ]
   },
   {
    "tema": "Manchester",
-   "medios": 11,
+   "medios": 12,
    "lista_medios": [
     "AS",
     "Foot Mercato",
@@ -863,6 +869,7 @@
     "Mirror",
     "Record",
     "Yahoo",
+    "ge.globo",
     "talkSPORT"
    ],
    "primera_vez": "2026-10-29T13:34+00:00",
@@ -890,24 +897,6 @@
      "titulo": "Match Officials: Craig Pawson to referee Manchester City vs Brighton & Hove Albion (Premier League)",
      "url": "https://sports.yahoo.com/articles/match-officials-craig-pawson-referee-123000574.html",
      "pub": "2026-10-29T12:30+00:00"
-    },
-    {
-     "medio": "L'Equipe",
-     "titulo": "À quelle heure et sur quelle chaîne voir Manchester City-PSG en Ligue des champions féminine ?",
-     "url": "https://www.lequipe.fr/Football/Actualites/A-quelle-heure-et-sur-quelle-chaine-voir-manchester-city-psg-en-ligue-des-champions-feminine/1738823#at_medium=RSS_feeds",
-     "pub": "2026-10-29T06:32+00:00"
-    },
-    {
-     "medio": "L'Equipe",
-     "titulo": "Paris doit engranger des points face à Manchester City avant un tableau corsé",
-     "url": "https://www.lequipe.fr/Football/Actualites/Paris-doit-engranger-des-points-face-a-manchester-city-avant-un-tableau-corse/1739384#at_medium=RSS_feeds",
-     "pub": "2026-10-29T05:54+00:00"
-    },
-    {
-     "medio": "L'Equipe",
-     "titulo": "Les joueuses de Manchester City, championnes d'Angleterre et adversaires du PSG en Ligue des champions, devraient aussi pâtir des sanctions qui menacent le club",
-     "url": "https://www.lequipe.fr/Football/Actualites/Les-joueuses-de-manchester-city-championnes-d-angleterre-et-adversaire-du-psg-en-ligue-des-champions-devraient-aussi-patir-des-sanctions-qui-menacent-le-club/1739324#at_medium=RSS_feeds",
-     "pub": "2026-10-29T05:28+00:00"
     },
     {
      "medio": "Foot Mercato",
@@ -938,16 +927,35 @@
      "titulo": "Surprise Manchester United return for Roy Keane was thwarted by Michael Carrick appointment",
      "url": "https://www.fourfourtwo.com/team/surprise-manchester-united-return-for-roy-keane-was-thwarted-by-michael-carrick-appointment",
      "pub": "2026-10-29T16:36+00:00"
+    },
+    {
+     "medio": "FourFourTwo",
+     "titulo": "Manchester City star could make rare cross-city move with Manchester United in transfer 'discussions': report",
+     "url": "https://www.fourfourtwo.com/transfer/manchester-city-star-could-make-rare-cross-city-move-with-manchester-united-in-transfer-discussions-report",
+     "pub": "2026-10-29T15:00+00:00"
+    },
+    {
+     "medio": "Yahoo",
+     "titulo": "Martinez, Mazraoui And Cunha To Start | 4-2-3-1 Manchester United Predicted Lineup Vs Chelsea",
+     "url": "https://sports.yahoo.com/articles/martinez-mazraoui-cunha-start-4-191500029.html",
+     "pub": "2026-10-29T19:15+00:00"
+    },
+    {
+     "medio": "Yahoo",
+     "titulo": "Palmer, Colwill And Hato To Start | 3-4-2-1 Chelsea Predicted Lineup Vs Manchester United",
+     "url": "https://sports.yahoo.com/articles/palmer-colwill-hato-start-3-190000885.html",
+     "pub": "2026-10-29T19:00+00:00"
     }
    ]
   },
   {
    "tema": "Grealish",
-   "medios": 11,
+   "medios": 12,
    "lista_medios": [
     "BBC",
     "Daily Mail",
     "Foot Mercato",
+    "FourFourTwo",
     "Google News EN",
     "Guardian",
     "L'Equipe",
@@ -1034,6 +1042,189 @@
    ]
   },
   {
+   "tema": "Alonso",
+   "medios": 11,
+   "lista_medios": [
+    "AS",
+    "Daily Mail",
+    "Foot Mercato",
+    "Google News EN",
+    "Infobae",
+    "L'Equipe",
+    "Mirror",
+    "Mundo Deportivo",
+    "Sky Sports",
+    "Yahoo",
+    "talkSPORT"
+   ],
+   "primera_vez": "2026-10-29T13:34+00:00",
+   "titulares": [
+    {
+     "medio": "talkSPORT",
+     "titulo": "Chelsea fans will turn on Xabi Alonso if weird treatment of star player continues",
+     "url": "https://talksport.com/football/4674499/chelsea-xabi-alonso-estevao-treatment-why-not-playing/",
+     "pub": "2026-10-29T09:08+00:00"
+    },
+    {
+     "medio": "Daily Mail",
+     "titulo": "Chelsea's rivals eyeing unused Estevao - plus the reason Xabi Alonso is snubbing Brazilian, why other clubs believe Blues will win race for £90m Alex Scott and the Como wonderkid on radar: CHELSEA CONFIDENTIAL",
+     "url": "https://www.dailymail.com/sport/football/article-16248521/Chelsea-Estevao-Alonso-Scott-Como-transfers.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+     "pub": "2026-10-29T12:00+00:00"
+    },
+    {
+     "medio": "Mirror",
+     "titulo": "Xabi Alonso admits Carabao Cup 'least important tournament' as Chelsea lose at Liverpool",
+     "url": "https://www.mirror.co.uk/sport/football/news/xabi-alonso-chelsea-carabao-cup-37821169",
+     "pub": "2026-10-29T07:17+00:00"
+    },
+    {
+     "medio": "L'Equipe",
+     "titulo": "Xabi Alonso : «Nous devons passer à autre chose»",
+     "url": "https://www.lequipe.fr/Football/Video/League-cup-chelsea-nous-devons-passer-a-autre-chose-xabi-alonso-evacue-la-deception-en-carabao-cup-pour-se-projeter-sur-la-premier-league/20244380#at_medium=RSS_feeds",
+     "pub": "2026-10-29T11:15+00:00"
+    },
+    {
+     "medio": "talkSPORT",
+     "titulo": "‘Doomsday’ – Jamie O’Hara stunned as Chelsea fan makes Xabi Alonso sack ultimatum",
+     "url": "https://talksport.com/football/4675401/jamie-ohara-reaction-chelsea-fan-calls-xabi-alonso-sacked/",
+     "pub": "2026-10-29T15:59+00:00"
+    },
+    {
+     "medio": "talkSPORT",
+     "titulo": "Ex-Chelsea player calls out Xabi Alonso over controversial post-match comment",
+     "url": "https://talksport.com/football/4675480/chelsea-xabi-alonso-comments-carabao-cup/",
+     "pub": "2026-10-29T15:31+00:00"
+    },
+    {
+     "medio": "Yahoo",
+     "titulo": "Xabi Alonso wants reunion with his former star",
+     "url": "https://sports.yahoo.com/articles/xabi-alonso-wants-reunion-former-183000987.html",
+     "pub": "2026-10-29T18:30+00:00"
+    },
+    {
+     "medio": "Sky Sports",
+     "titulo": "'Lack of talent' - Alonso doubles down on Albon criticism",
+     "url": "https://www.skysports.com/f1/news/12040/13605423/fernando-alonso-doubles-down-on-alex-albon-and-f1-field-criticism-ahead-of-mexico-city-grand-prix",
+     "pub": "2026-10-29T21:05+00:00"
+    },
+    {
+     "medio": "Infobae",
+     "titulo": "Estalló la guerra de pilotos en la Fórmula 1 tras las críticas de Fernando Alonso a un sector de la parrilla: “Espero que no nos crucemos en pista”",
+     "url": "https://www.infobae.com/deportes/2026/10/30/estallo-la-guerra-de-pilotos-en-la-formula-1-tras-las-criticas-de-fernando-alonso-a-un-sector-de-la-parrilla-espero-que-no-nos-crucemos-en-pista/",
+     "pub": "2026-10-30T12:21+00:00"
+    },
+    {
+     "medio": "Sky Sports",
+     "titulo": "'It's a process' - Alonso explains Estevao's lack of minutes",
+     "url": "https://www.skysports.com/watch/video/13605767/xabi-alonso-on-estevaos-lack-of-playing-time",
+     "pub": "2026-10-30T14:01+00:00"
+    },
+    {
+     "medio": "Daily Mail",
+     "titulo": "PREMIER LEAGUE LIVE: Xabi Alonso on Estevao's future with Chelsea, Roberto De Zerbi confirms James Maddison IS available for Tottenham - and Andoni Iraola on why Liverpool fans can dream",
+     "url": "https://www.dailymail.com/sport/football/article-16252825/PREMIER-LEAGUE-LIVE-chelsea-liverpool-tottenham-man-city.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+     "pub": "2026-10-30T16:04+00:00"
+    },
+    {
+     "medio": "Google News EN",
+     "titulo": "Xabi Alonso explains Estevao’s lack of playing time",
+     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNSnBySE9uaHUtV25vLS1JaUducC1lQkdwU0VnZWRndm1sUFFyWnVBejJsM3lMTXQwVUNSY3ZoVnlzcFYwWjZPX3BXRnBYZmdFTmhKemFPRVdBOVM2ZmJmWGc5TTlxM3NZaGs1VzRtTlFIcUdoMTJlZGo0QzA5UlhIM25yY1hSeGlMY2xvbk14Vy15ZzBjbjNfYkh1NA?oc=5",
+     "pub": "2026-10-30T14:07+00:00"
+    }
+   ]
+  },
+  {
+   "tema": "Kane",
+   "medios": 10,
+   "lista_medios": [
+    "Daily Mail",
+    "Foot Mercato",
+    "FourFourTwo",
+    "Kicker",
+    "Mirror",
+    "Mundo Deportivo",
+    "Ole",
+    "Record",
+    "Sky Sports",
+    "talkSPORT"
+   ],
+   "primera_vez": "2026-10-29T13:34+00:00",
+   "titulares": [
+    {
+     "medio": "Sky Sports",
+     "titulo": "Sir Harry? Kane responds to knighthood talk after Ballon d'Or win",
+     "url": "https://www.skysports.com/football/news/12040/13605259/harry-kane-ballon-dor-2026-winner-responds-to-knighthood-possibility-after-being-crowned-worlds-best",
+     "pub": "2026-10-29T10:31+00:00"
+    },
+    {
+     "medio": "Sky Sports",
+     "titulo": "How Bayern Munich fell in love with Kane",
+     "url": "https://www.skysports.com/football/news/12040/13605214/harry-kanes-ballon-dor-homecoming-with-bayern-munich-shows-why-germany-has-fallen-in-love-with-englands-captain",
+     "pub": "2026-10-29T09:30+00:00"
+    },
+    {
+     "medio": "Daily Mail",
+     "titulo": "Lamine Yamal's dad' 'almost smashes Russian blogger's phone' in bizarre row on streets of London after his Spain star son, 19, lost Ballon d'Or vote to Harry Kane - before Andriy Arshavin steps in!",
+     "url": "https://www.dailymail.com/sport/football/article-16248467/Lamine-Yamals-dad-smashes-Russian-bloggers-phone-bizarre-row-streets-London-Spain-star-son-19-lost-Ballon-dOr-vote-Harry-Kane-Andriy-Arshavin-steps-in.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+     "pub": "2026-10-29T11:57+00:00"
+    },
+    {
+     "medio": "Mirror",
+     "titulo": "Harry Kane to lose small fortune with incredible gesture to Bayern and England team-mates",
+     "url": "https://www.mirror.co.uk/sport/football/news/harry-kane-ballon-dor-gifts-37821408",
+     "pub": "2026-10-29T10:45+00:00"
+    },
+    {
+     "medio": "Kicker",
+     "titulo": "Kovac lobt Kane: \"Richtig großen Sprung gemacht\"",
+     "url": "https://www.kicker.de/kovac-lobt-kane-richtig-grossen-sprung-gemacht-1266529/video#omrss",
+     "pub": "2026-10-29T12:22+00:00"
+    },
+    {
+     "medio": "talkSPORT",
+     "titulo": "Troy Deeney admits he is Harry Kane ‘cheerleader’ in response to viral historic clip",
+     "url": "https://talksport.com/football/4675145/troy-deeney-viral-harry-kane-clip-ballon-dor/",
+     "pub": "2026-10-29T13:42+00:00"
+    },
+    {
+     "medio": "Daily Mail",
+     "titulo": "How 'football geek' Kim Hellberg turned Middlesbrough into the 'PSG of the Championship' - thanks to 'Del Boy and Rodney', the next Harry Kane and the transfer strategy that's taken them to a new level",
+     "url": "https://www.dailymail.com/sport/football/article-16248615/Middlesbrough-Hellberg-Lankshear-PSG-Championship.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+     "pub": "2026-10-29T17:14+00:00"
+    },
+    {
+     "medio": "Mirror",
+     "titulo": "Harry Kane makes knighthood admission as he sets out demand for name change",
+     "url": "https://www.mirror.co.uk/sport/football/news/harry-kane-knighthood-ballon-dor-37823147",
+     "pub": "2026-10-29T13:52+00:00"
+    },
+    {
+     "medio": "talkSPORT",
+     "titulo": "Where to watch Bayern Munich v Borussia Dortmund as Harry Kane looks to celebrate Ballon d’Or",
+     "url": "https://talksport.com/football/4677861/where-to-watch-bayern-munich-v-borussia-dortmund-standings-lineups/",
+     "pub": "2026-10-30T12:05+00:00"
+    },
+    {
+     "medio": "Mundo Deportivo",
+     "titulo": "Niko Kovac tiene la clave para frenar a Harry Kane",
+     "url": "https://www.mundodeportivo.com/futbol/bundesliga/20261030/1004245046/niko-kovac-clave-frenar-harry-kane.html",
+     "pub": ""
+    },
+    {
+     "medio": "Foot Mercato",
+     "titulo": "Ballon d’Or : Hansi Flick valide le sacre d’Harry Kane",
+     "url": "https://www.footmercato.net/a4909225437201404339-ballon-dor-hansi-flick-valide-le-sacre-dharry-kane",
+     "pub": "2026-10-30T12:32+00:00"
+    },
+    {
+     "medio": "Foot Mercato",
+     "titulo": "Bayern : comment Harry Kane est devenu un leader",
+     "url": "https://www.footmercato.net/a7901371252512097832-bayern-comment-harry-kane-est-devenu-un-leader",
+     "pub": "2026-10-29T21:50+00:00"
+    }
+   ]
+  },
+  {
    "tema": "Man",
    "medios": 10,
    "lista_medios": [
@@ -1063,12 +1254,6 @@
      "pub": "2026-10-29T12:10+00:00"
     },
     {
-     "medio": "Daily Mail",
-     "titulo": "'Bournemouth is incredible - in summer it feels like I'm back in Brazil!': EVANILSON on taking down Man United and AC Milan, Marco Rose's 'high expectations', leaving home at 13 and drawing his late mother every day",
-     "url": "https://www.dailymail.com/sport/football/article-16242639/Evanilson-interview-Bournemouth-Brazil.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-     "pub": "2026-10-29T02:00+00:00"
-    },
-    {
      "medio": "Mirror",
      "titulo": "Gary Neville launches fresh Glazers rant as he demands Man Utd sale - 'Enough is enough'",
      "url": "https://www.mirror.co.uk/sport/football/news/gary-neville-man-utd-glazers-37822931",
@@ -1085,12 +1270,6 @@
      "titulo": "Would Man Utd benefit from having Roy Keane? Have your say as ex-captain denied return",
      "url": "https://www.mirror.co.uk/sport/football/news/man-utd-roy-keane-return-37821195",
      "pub": "2026-10-29T07:20+00:00"
-    },
-    {
-     "medio": "Mirror",
-     "titulo": "Man Utd news: Bruno Fernandes told he's 'finished' as Michael Carrick makes bold call",
-     "url": "https://www.mirror.co.uk/sport/football/news/man-utd-bruno-fernandes-carrick-37818639",
-     "pub": "2026-10-29T04:30+00:00"
     },
     {
      "medio": "Planet Football",
@@ -1121,20 +1300,32 @@
      "titulo": "WCL: Man City make three changes as Clinton starts vs PSG LIVE!",
      "url": "https://www.skysports.com/football/manchester-city-women-vs-paris-saint-germain-women/live/578257",
      "pub": "2026-10-29T18:07+00:00"
+    },
+    {
+     "medio": "talkSPORT",
+     "titulo": "Man United explore shock move for 14-cap England international amid Benjamin Sesko injury blow",
+     "url": "https://talksport.com/football/4676595/man-utd-dominic-calvert-lewin-leeds-united-transfer-news/",
+     "pub": "2026-10-29T17:58+00:00"
+    },
+    {
+     "medio": "talkSPORT",
+     "titulo": "Chelsea star linked with Man City transfer accused of ‘going soft’",
+     "url": "https://talksport.com/football/4675305/chelsea-malo-gusto-man-city-transfer/",
+     "pub": "2026-10-29T16:35+00:00"
     }
    ]
   },
   {
-   "tema": "Arsenal",
+   "tema": "Arteta",
    "medios": 10,
    "lista_medios": [
+    "BBC",
+    "Daily Mail",
     "Foot Mercato",
-    "FourFourTwo",
     "Guardian",
     "L'Equipe",
     "Mirror",
     "Mundo Deportivo",
-    "Planet Football",
     "Sky Sports",
     "Yahoo",
     "talkSPORT"
@@ -1143,75 +1334,257 @@
    "titulares": [
     {
      "medio": "Mirror",
-     "titulo": "Arsenal news: PSG reach Desire Doue decision as Mikel Arteta handed transfer verdict",
-     "url": "https://www.mirror.co.uk/sport/football/news/arsenal-desire-doue-viktor-gyokeres-37819256",
-     "pub": "2026-10-29T04:00+00:00"
-    },
-    {
-     "medio": "Planet Football",
-     "titulo": "Can you name every French player to appear for Arsenal in the Premier League?",
-     "url": "https://www.planetfootball.com/quizzes/can-name-every-french-player-appear-arsenal-pl",
-     "pub": "2026-10-29T08:41+00:00"
-    },
-    {
-     "medio": "FourFourTwo",
-     "titulo": "Arsenal report: Bournemouth decision reached on Eli Junior Kroupi transfer",
-     "url": "https://www.fourfourtwo.com/transfer/arsenal-report-bournemouth-decision-reached-on-eli-junior-kroupi-transfer",
-     "pub": "2026-10-29T11:27+00:00"
-    },
-    {
-     "medio": "FourFourTwo",
-     "titulo": "Quiz! Can you name the starting line-up from Liverpool's 4-4 Premier League draw with Arsenal in 2009?",
-     "url": "https://www.fourfourtwo.com/quiz/quiz-can-you-name-the-starting-line-up-from-liverpools-4-4-premier-league-draw-with-arsenal-in-2009",
-     "pub": "2026-10-29T09:29+00:00"
-    },
-    {
-     "medio": "Yahoo",
-     "titulo": "Arsenal notch their 1st win at Messi Cup",
-     "url": "https://sports.yahoo.com/articles/arsenal-notch-1st-win-messi-130100511.html",
-     "pub": "2026-10-29T13:01+00:00"
-    },
-    {
-     "medio": "Yahoo",
-     "titulo": "Arsenal are one of the clubs considering move for Serie A wonderkid",
-     "url": "https://sports.yahoo.com/articles/arsenal-one-clubs-considering-move-125000423.html",
-     "pub": "2026-10-29T12:50+00:00"
-    },
-    {
-     "medio": "Yahoo",
-     "titulo": "Real Madrid keeping a close eye on former academy graduate amid Arsenal, Chelsea interest",
-     "url": "https://sports.yahoo.com/articles/real-madrid-keeping-close-eye-121000830.html",
-     "pub": "2026-10-29T12:10+00:00"
-    },
-    {
-     "medio": "Yahoo",
-     "titulo": "Early Arsenal vs Liverpool team news confirmed, it's massive",
-     "url": "https://sports.yahoo.com/articles/early-arsenal-vs-liverpool-team-120000342.html",
-     "pub": "2026-10-29T12:00+00:00"
-    },
-    {
-     "medio": "L'Equipe",
-     "titulo": "Tombeur d'Arsenal, Fleetwood recevra Newcastle ou Everton en quarts de finale de la League Cup",
-     "url": "https://www.lequipe.fr/Football/Actualites/Tombeur-d-arsenal-fleetwood-recevra-newcastle-ou-everton-en-quarts-de-finale-de-la-league-cup/1739445#at_medium=RSS_feeds",
-     "pub": "2026-10-29T09:09+00:00"
-    },
-    {
-     "medio": "Guardian",
-     "titulo": "Arsenal fail at Fleetwood and Michael Carrick clings on | Football Weekly Extra – video",
-     "url": "https://www.theguardian.com/football/video/2026/oct/29/arsenal-fail-at-fleetwood-and-michael-carrick-clings-on-football-weekly-video",
-     "pub": "2026-10-29T13:51+00:00"
-    },
-    {
-     "medio": "Sky Sports",
-     "titulo": "Arsenal fail with appeal against Dowman's red card",
-     "url": "https://www.skysports.com/football/news/12040/13605382/max-dowman-arsenals-appeal-against-teenagers-red-card-in-fleetwood-town-defeat-rejected",
-     "pub": "2026-10-29T14:50+00:00"
+     "titulo": "Ex-Arsenal duo called out for 'not reaching potential' as Mikel Arteta call vindicated",
+     "url": "https://www.mirror.co.uk/sport/football/news/arsenal-arteta-smith-rowe-nketiah-37821377",
+     "pub": "2026-10-29T09:21+00:00"
     },
     {
      "medio": "Sky Sports",
      "titulo": "Arsenal striker dilemma: Should Arteta keep faith in Havertz?",
      "url": "https://www.skysports.com/football/news/12040/13605389/arsenals-kai-havertz-in-goal-drought-so-should-mikel-arteta-keep-faith-in-him-ahead-of-viktor-gyokeres-against-liverpool",
      "pub": "2026-10-29T15:13+00:00"
+    },
+    {
+     "medio": "Daily Mail",
+     "titulo": "Arsenal's appeal against Max Dowman's red card is REJECTED: Gunners star, 16, to serve ban after sending off in Fleetwood defeat - which left Mikel Arteta fuming - as club legend sends warning",
+     "url": "https://www.dailymail.com/sport/article-16249833/Max-Dowman-learn-mistakes-unlucky-Fleetwood-red-card-says-Arsenal-legend-Ray-Parlour.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+     "pub": "2026-10-29T18:42+00:00"
+    },
+    {
+     "medio": "Yahoo",
+     "titulo": "Premier League news conferences & team news: Arteta, Iraola and more speaking",
+     "url": "https://sports.yahoo.com/articles/premier-league-news-conferences-team-122608775.html",
+     "pub": "2026-10-30T13:06+00:00"
+    },
+    {
+     "medio": "BBC",
+     "titulo": "Arteta warns Dowman 'we are not in Disneyland' after red card",
+     "url": "https://www.bbc.co.uk/sport/football/articles/c875p940g5v2o?at_medium=RSS&at_campaign=rss",
+     "pub": "2026-10-30T15:41+00:00"
+    },
+    {
+     "medio": "Guardian",
+     "titulo": "‘We are not in Disneyland’: Arteta warns Dowman of Arsenal’s demands",
+     "url": "https://www.theguardian.com/football/2026/oct/30/max-dowman-red-card-suspension-mikel-arteta-arsenal-fleetwood-liverpool-premier-league",
+     "pub": "2026-10-30T15:44+00:00"
+    },
+    {
+     "medio": "talkSPORT",
+     "titulo": "Arsenal boss Mikel Arteta doubles down on Max Dowman treatment with Disneyland comment",
+     "url": "https://talksport.com/football/4678504/arsenal-mikel-arteta-max-dowman-treatment-disneyland/",
+     "pub": "2026-10-30T14:29+00:00"
+    },
+    {
+     "medio": "Daily Mail",
+     "titulo": "'We're not in Disneyland!': Mikel Arteta fires warning at Arsenal wonderboy Max Dowman, 16, after red card - and says it's not his first offence... as he admits Fleetwood loss left him 'p***ed off'",
+     "url": "https://www.dailymail.com/sport/football/article-16252717/Were-not-Disneyland-Mikel-Arteta-warns-Max-Dowman-16-year-olds-red-card-against-Fleetwood-admits-dont-win-p-off.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+     "pub": "2026-10-30T18:13+00:00"
+    },
+    {
+     "medio": "Mirror",
+     "titulo": "Mikel Arteta hammers home Arsenal reality to Max Dowman - 'We are not in Disneyland'",
+     "url": "https://www.mirror.co.uk/sport/football/news/arsenal-mikel-arteta-max-dowman-37827980",
+     "pub": "2026-10-30T15:43+00:00"
+    },
+    {
+     "medio": "Mirror",
+     "titulo": "Mikel Arteta doubles down on Max Dowman anger and reveals new disappointment",
+     "url": "https://www.mirror.co.uk/sport/football/news/arsenal-arteta-dowman-red-fleetwood-37827256",
+     "pub": "2026-10-30T13:50+00:00"
+    },
+    {
+     "medio": "Yahoo",
+     "titulo": "Mikel Arteta defends angry reaction to Max Dowman red card: ‘This is not Disneyland’",
+     "url": "https://sports.yahoo.com/articles/mikel-arteta-defends-reaction-max-140117387.html",
+     "pub": "2026-10-30T16:27+00:00"
+    },
+    {
+     "medio": "Mundo Deportivo",
+     "titulo": "El duro aviso de Arteta a Dowman: \"Esto no es Disneylandia\"",
+     "url": "https://www.mundodeportivo.com/futbol/premier-league/20261030/1004245076/duro-aviso-arteta-dowman-esto-no-disneylandia.html",
+     "pub": ""
+    }
+   ]
+  },
+  {
+   "tema": "Inter",
+   "medios": 10,
+   "lista_medios": [
+    "Daily Mail",
+    "Football Italia",
+    "Google News EN",
+    "Guardian",
+    "L'Equipe",
+    "Mirror",
+    "Planet Football",
+    "Yahoo",
+    "ge.globo",
+    "talkSPORT"
+   ],
+   "primera_vez": "2026-10-29T13:34+00:00",
+   "titulares": [
+    {
+     "medio": "Planet Football",
+     "titulo": "We’re delighted to announce Luis Suarez has stuck it top bins like the good old days for Inter Miami",
+     "url": "https://www.planetfootball.com/mls/were-delighted-announce-luis-suarez-top-bins-inter-miami",
+     "pub": "2026-10-29T12:06+00:00"
+    },
+    {
+     "medio": "Yahoo",
+     "titulo": "Former Inter Milan president claims he ‘enjoyed eliminating Barcelona more’ than winning the 2010 Champions League",
+     "url": "https://sports.yahoo.com/articles/former-inter-milan-president-claims-125000458.html",
+     "pub": "2026-10-29T12:50+00:00"
+    },
+    {
+     "medio": "Yahoo",
+     "titulo": "Former Inter Milan chief opens up on Mourinho joining Real Madrid in 2010: ‘What could I do?’",
+     "url": "https://sports.yahoo.com/articles/former-inter-milan-chief-opens-110700746.html",
+     "pub": "2026-10-29T11:07+00:00"
+    },
+    {
+     "medio": "ge.globo",
+     "titulo": "Ex-presidente da Inter revela desespero do Barcelona com venda de Ronaldo: \"Ficou furioso\"",
+     "url": "https://ge.globo.com/futebol/futebol-internacional/noticia/2026/10/29/ex-presidente-da-inter-revela-desespero-do-barcelona-com-venda-de-ronaldo-ficou-furioso.ghtml",
+     "pub": "2026-10-29T09:26+00:00"
+    },
+    {
+     "medio": "Mirror",
+     "titulo": "Sweet moment David Beckham shares hug with boy, 5, before walking out as Inter Miami mascot",
+     "url": "https://www.mirror.co.uk/news/uk-news/david-beckham-huddy-downs-syndrome-37823156",
+     "pub": "2026-10-29T13:51+00:00"
+    },
+    {
+     "medio": "Google News EN",
+     "titulo": "MLS - Luis Suarez scores stunner for Inter Miami CF",
+     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBGYk5COFN2MG0yb0NKVk43V0d5c1p0Nm83YzJ2MFZIX21fdHhEVUJfV3J6TFI2OW5TVEpUeHRiZkt2dWNMY05kOXA1STNUVVMtakUwRUJqVE5FT3pEdUNTc0VrV1JFTDVI?oc=5",
+     "pub": "2026-10-29T18:39+00:00"
+    },
+    {
+     "medio": "Football Italia",
+     "titulo": "New San Siro to be called Generali Stadium, confirm Inter and Milan",
+     "url": "https://football-italia.net/new-san-siro-to-be-called-generali-stadium/",
+     "pub": "2026-10-29T18:06+00:00"
+    },
+    {
+     "medio": "Football Italia",
+     "titulo": "Inter and Milan present new San Siro stadium amid protests and bad scheduling",
+     "url": "https://football-italia.net/inter-milan-new-san-siro-stadium-amid-protests/",
+     "pub": "2026-10-29T16:33+00:00"
+    },
+    {
+     "medio": "Football Italia",
+     "titulo": "Triple Milan injury boost ahead of derby against Inter",
+     "url": "https://football-italia.net/triple-milan-injury-boost-derby-against-inter/",
+     "pub": "2026-10-29T14:16+00:00"
+    },
+    {
+     "medio": "Guardian",
+     "titulo": "Inter and Milan unveil plans for new shared stadium to replace San Siro",
+     "url": "https://www.theguardian.com/football/2026/oct/29/inter-milan-generali-stadium-new-venue-san-siro-protests",
+     "pub": "2026-10-29T21:46+00:00"
+    },
+    {
+     "medio": "talkSPORT",
+     "titulo": "AC Milan and Inter unveil stunning images and name of new 71,500 stadium to replace San Siro",
+     "url": "https://talksport.com/football/4677015/ac-milan-inter-unveil-generali-stadium-images-san-siro/",
+     "pub": "2026-10-29T23:10+00:00"
+    },
+    {
+     "medio": "Daily Mail",
+     "titulo": "AC Milan and Inter reveal first pictures of new stadium as San Siro replacement unveiled after £543million naming rights deal",
+     "url": "https://www.dailymail.com/sport/football/article-16250727/AC-Milan-Inter-pictures-new-stadium-San-Siro.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+     "pub": "2026-10-29T23:34+00:00"
+    }
+   ]
+  },
+  {
+   "tema": "Barcelona",
+   "medios": 10,
+   "lista_medios": [
+    "AS",
+    "Football Italia",
+    "FourFourTwo",
+    "Google News ES",
+    "Infobae",
+    "Mundo Deportivo",
+    "Ole",
+    "Planet Football",
+    "Yahoo",
+    "ge.globo"
+   ],
+   "primera_vez": "2026-10-29T13:34+00:00",
+   "titulares": [
+    {
+     "medio": "Planet Football",
+     "titulo": "Ronald Araujo is thriving at Liverpool after his Barcelona nightmare – and the reason is obvious",
+     "url": "https://www.planetfootball.com/liverpool/ronald-araujo-liverpool-barcelona-cult-hero-comeback",
+     "pub": "2026-10-29T10:32+00:00"
+    },
+    {
+     "medio": "Yahoo",
+     "titulo": "Lamine Yamal’s inner circle confident Barcelona superstar will bounce back strongly after Ballon d’Or blow",
+     "url": "https://sports.yahoo.com/articles/lamine-yamal-inner-circle-confident-131000519.html",
+     "pub": "2026-10-29T13:10+00:00"
+    },
+    {
+     "medio": "Yahoo",
+     "titulo": "Barcelona fan faces stadium ban after assaulting Real Madrid midfielder during El Clasico",
+     "url": "https://sports.yahoo.com/articles/barcelona-fan-faces-stadium-ban-125800393.html",
+     "pub": "2026-10-29T12:58+00:00"
+    },
+    {
+     "medio": "Yahoo",
+     "titulo": "Former Inter Milan president claims he ‘enjoyed eliminating Barcelona more’ than winning the 2010 Champions League",
+     "url": "https://sports.yahoo.com/articles/former-inter-milan-president-claims-125000458.html",
+     "pub": "2026-10-29T12:50+00:00"
+    },
+    {
+     "medio": "Yahoo",
+     "titulo": "Swedish wonderkid names Barcelona as his dream club amid Manchester United interest",
+     "url": "https://sports.yahoo.com/articles/swedish-wonderkid-names-barcelona-dream-123000685.html",
+     "pub": "2026-10-29T12:30+00:00"
+    },
+    {
+     "medio": "Yahoo",
+     "titulo": "Barcelona midfielder’s return sparks internal debate over future as club prioritise other options",
+     "url": "https://sports.yahoo.com/articles/barcelona-midfielder-return-sparks-internal-121000113.html",
+     "pub": "2026-10-29T12:10+00:00"
+    },
+    {
+     "medio": "Yahoo",
+     "titulo": "Report: Chelsea eyeing move to sign Barcelona star",
+     "url": "https://sports.yahoo.com/articles/report-chelsea-eyeing-move-sign-115000544.html",
+     "pub": "2026-10-29T11:50+00:00"
+    },
+    {
+     "medio": "Yahoo",
+     "titulo": "Barcelona turn to La Masia prospect ahead of Alaves clash as Jules Kounde remains sidelined",
+     "url": "https://sports.yahoo.com/articles/barcelona-turn-la-masia-prospect-114900070.html",
+     "pub": "2026-10-29T11:49+00:00"
+    },
+    {
+     "medio": "Yahoo",
+     "titulo": "Just in: Barcelona defender ruled out of Alaves clash",
+     "url": "https://sports.yahoo.com/articles/just-barcelona-defender-ruled-alaves-110200764.html",
+     "pub": "2026-10-29T11:02+00:00"
+    },
+    {
+     "medio": "ge.globo",
+     "titulo": "Ex-presidente da Inter revela desespero do Barcelona com venda de Ronaldo: \"Ficou furioso\"",
+     "url": "https://ge.globo.com/futebol/futebol-internacional/noticia/2026/10/29/ex-presidente-da-inter-revela-desespero-do-barcelona-com-venda-de-ronaldo-ficou-furioso.ghtml",
+     "pub": "2026-10-29T09:26+00:00"
+    },
+    {
+     "medio": "Yahoo",
+     "titulo": "🚨Confirmed XI: Barcelona (W) face a tough trip to Denmark",
+     "url": "https://sports.yahoo.com/articles/confirmed-xi-barcelona-w-face-192400960.html",
+     "pub": "2026-10-29T19:24+00:00"
+    },
+    {
+     "medio": "Yahoo",
+     "titulo": "Barcelona summer signing establishes himself as a captain without the armband",
+     "url": "https://sports.yahoo.com/articles/barcelona-summer-signing-establishes-himself-192000332.html",
+     "pub": "2026-10-29T19:20+00:00"
     }
    ]
   },
@@ -1257,18 +1630,6 @@
      "pub": "2026-10-29T12:23+00:00"
     },
     {
-     "medio": "Infobae",
-     "titulo": "Tierno gesto con un niño, sorpresa por una amonestación y destellos de su magia: el partido de Messi en el empate del Inter Miami",
-     "url": "https://www.infobae.com/deportes/2026/10/29/tierno-gesto-con-un-nino-una-llamativa-amonestacion-y-destellos-de-su-magia-el-partido-de-messi-en-el-empate-del-inter-miami/",
-     "pub": "2026-10-29T03:18+00:00"
-    },
-    {
-     "medio": "Infobae",
-     "titulo": "“Hablá si hay un tridente mejor que el tuyo”: el desafío viral de Carlos Tevez con Messi y Cristiano Ronaldo como protagonistas",
-     "url": "https://www.infobae.com/deportes/2026/10/29/habla-si-hay-un-tridente-mejor-que-el-tuyo-el-desafio-viral-de-carlos-tevez-con-messi-y-cristiano-ronaldo-como-protagonistas/",
-     "pub": "2026-10-29T03:13+00:00"
-    },
-    {
      "medio": "Google News EN",
      "titulo": "Ronaldo pips Messi to win 'Ballon d'Or of All Time' prize",
      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNQ0hYRnRtSFR3bnVHbjI3eGYtSVRMUGt5REpxZ19jMzJMWmhVbjRUWG81ZEV3M3VkQnBJWnhHN2FpOWQtVExBMTNTMVFwYnJncmhxOHM2My1CejM1NkJ0NVRRUUstMnd1MUxRQ0pYcUplcGQzN0ctcWxQZ1AtMTFGcEJpb1FNQ0RXa0NEQlR6TGFieTl5V2x6YnFUbUxHOXJNWFVEQg?oc=5",
@@ -1303,6 +1664,380 @@
      "titulo": "The 25 footballers with 1000+ goals: Messi, Ronaldo, Pele, Romario & more",
      "url": "https://www.planetfootball.com/stats-tables/footballers-1000-goals-including-pele-cristiano-ronaldo",
      "pub": "2026-10-30T08:27+00:00"
+    },
+    {
+     "medio": "Mundo Deportivo",
+     "titulo": "\"Ofrecieron a Leo Messi al Real Madrid\"",
+     "url": "https://www.mundodeportivo.com/futbol/real-madrid/20261030/1004244940/portugal-messi.html",
+     "pub": ""
+    },
+    {
+     "medio": "Google News ES",
+     "titulo": "Futsal: cómo el fútbol sala ha formado a estrellas del fútbol como Lionel Messi o Ronaldinho",
+     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOSHVpZG43anVZeGdxVU9jcmZIMlZ2am1ob3czNExBMm0zR04xSkNYUXNPb1lZa0hqejc4R0Vkbk1XQW4tN1dYaTNOcUNjQ0Y0aXpFLWsxaDE1VTg4ZkdQVHhkMWlWUXZpQ3N0VW1BX3VNZmlfYU82eTNWbWU5OElEZTl0cFlUcDVram1FcklYUmx3U0lSQVE0?oc=5",
+     "pub": "2026-10-30T08:00+00:00"
+    }
+   ]
+  },
+  {
+   "tema": "Dowman",
+   "medios": 10,
+   "lista_medios": [
+    "BBC",
+    "Daily Mail",
+    "Foot Mercato",
+    "Google News EN",
+    "Guardian",
+    "L'Equipe",
+    "Mirror",
+    "Mundo Deportivo",
+    "Yahoo",
+    "talkSPORT"
+   ],
+   "primera_vez": "2026-10-29T19:47+00:00",
+   "titulares": [
+    {
+     "medio": "BBC",
+     "titulo": "Dowman to miss three matches after appeal rejected",
+     "url": "https://www.bbc.co.uk/sport/football/articles/c6kgq9qg28dno?at_medium=RSS&at_campaign=rss",
+     "pub": "2026-10-29T17:19+00:00"
+    },
+    {
+     "medio": "Guardian",
+     "titulo": "Max Dowman to miss three games after Arsenal’s red card appeal rejected",
+     "url": "https://www.theguardian.com/football/2026/oct/29/max-dowman-to-miss-three-arsenal-matches-fa-rejects-red-card-appeal-fleetwood",
+     "pub": "2026-10-29T17:57+00:00"
+    },
+    {
+     "medio": "Mirror",
+     "titulo": "Arsenal learn Max Dowman red card appeal verdict after controversial Fleetwood red card",
+     "url": "https://www.mirror.co.uk/sport/football/news/arsenal-max-dowman-red-card-37824383",
+     "pub": "2026-10-29T17:11+00:00"
+    },
+    {
+     "medio": "Google News EN",
+     "titulo": "Max Dowman: Arsenal's appeal against teenager's red card in Fleetwood Town defeat rejected",
+     "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOUjBHNzktZnZTSkJ0Wjc5M2tFb0tPREh0RFFNaE1oYWpvdjVnUUlTdWo5aWw5bHNIcks3QnFxOGVlQ1FyZjZfT0FqVFhRMXcxQW92TmpMcXhkX040aTZzOV92bHRkcG5QcjZMb05YU0hBNXZkZkFyUXA3bGpsMENHVXd3UWFzR2ZlLVZMYzBzMVlRVU8xOXV4aldwSEFPbjAxd1cwMl96MlltaGNzVkpLVHpSSk1fdzl6SktCU0pSaFlfSHJRMVNfdkZ5R1Yxb1VpN2c?oc=5",
+     "pub": "2026-10-29T18:37+00:00"
+    },
+    {
+     "medio": "Mundo Deportivo",
+     "titulo": "Palo para el Arsenal: esta es la sanción que le cae a Dowman",
+     "url": "https://www.mundodeportivo.com/futbol/premier-league/20261029/1004244785/palo-arsenal-sancion-le-cae-dowman.html",
+     "pub": ""
+    },
+    {
+     "medio": "Foot Mercato",
+     "titulo": "Arsenal : la lourde sanction de Max Dowman confirmée",
+     "url": "https://www.footmercato.net/a3571734039991237258-arsenal-la-lourde-sanction-de-max-dowman-confirmee",
+     "pub": "2026-10-29T17:57+00:00"
+    },
+    {
+     "medio": "Yahoo",
+     "titulo": "Former players defend Max Dowman over red-card incident",
+     "url": "https://sports.yahoo.com/articles/former-players-defend-max-dowman-130100964.html",
+     "pub": "2026-10-30T13:01+00:00"
+    },
+    {
+     "medio": "BBC",
+     "titulo": "Arteta warns Dowman 'we are not in Disneyland' after red card",
+     "url": "https://www.bbc.co.uk/sport/football/articles/c875p940g5v2o?at_medium=RSS&at_campaign=rss",
+     "pub": "2026-10-30T15:41+00:00"
+    },
+    {
+     "medio": "Guardian",
+     "titulo": "‘We are not in Disneyland’: Arteta warns Dowman of Arsenal’s demands",
+     "url": "https://www.theguardian.com/football/2026/oct/30/max-dowman-red-card-suspension-mikel-arteta-arsenal-fleetwood-liverpool-premier-league",
+     "pub": "2026-10-30T15:44+00:00"
+    },
+    {
+     "medio": "talkSPORT",
+     "titulo": "Arsenal boss Mikel Arteta doubles down on Max Dowman treatment with Disneyland comment",
+     "url": "https://talksport.com/football/4678504/arsenal-mikel-arteta-max-dowman-treatment-disneyland/",
+     "pub": "2026-10-30T14:29+00:00"
+    },
+    {
+     "medio": "Daily Mail",
+     "titulo": "'We're not in Disneyland!': Mikel Arteta fires warning at Arsenal wonderboy Max Dowman, 16, after red card - and says it's not his first offence... as he admits Fleetwood loss left him 'p***ed off'",
+     "url": "https://www.dailymail.com/sport/football/article-16252717/Were-not-Disneyland-Mikel-Arteta-warns-Max-Dowman-16-year-olds-red-card-against-Fleetwood-admits-dont-win-p-off.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+     "pub": "2026-10-30T18:13+00:00"
+    },
+    {
+     "medio": "Mirror",
+     "titulo": "Mikel Arteta hammers home Arsenal reality to Max Dowman - 'We are not in Disneyland'",
+     "url": "https://www.mirror.co.uk/sport/football/news/arsenal-mikel-arteta-max-dowman-37827980",
+     "pub": "2026-10-30T15:43+00:00"
+    }
+   ]
+  },
+  {
+   "tema": "Jack",
+   "medios": 10,
+   "lista_medios": [
+    "Daily Mail",
+    "Foot Mercato",
+    "FourFourTwo",
+    "Google News EN",
+    "Guardian",
+    "L'Equipe",
+    "Mirror",
+    "Mundo Deportivo",
+    "Yahoo",
+    "talkSPORT"
+   ],
+   "primera_vez": "2026-10-29T19:47+00:00",
+   "titulares": [
+    {
+     "medio": "Guardian",
+     "titulo": "Everton drop Jack Grealish from Carabao Cup tie over ‘breach of club discipline’",
+     "url": "https://www.theguardian.com/football/2026/oct/29/jack-grealish-axed-everton-breach-club-discipline-newcastle-caraboao-cup",
+     "pub": "2026-10-29T19:23+00:00"
+    },
+    {
+     "medio": "talkSPORT",
+     "titulo": "Jack Grealish left out of Everton squad over shock club discipline breach",
+     "url": "https://talksport.com/football/4676710/jack-grealish-out-everton-squad-club-discipline-breach/",
+     "pub": "2026-10-29T19:00+00:00"
+    },
+    {
+     "medio": "Daily Mail",
+     "titulo": "Jack Grealish is DROPPED by Everton due to 'breach of club discipline' as midfielder misses Carabao Cup clash with Newcastle",
+     "url": "https://www.dailymail.com/sport/football/article-16250391/Jack-Grealish-DROPPED-Everton-club-discipline.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+     "pub": "2026-10-29T19:45+00:00"
+    },
+    {
+     "medio": "Daily Mail",
+     "titulo": "'Absolute gent' Jack Grealish lauded by Everton fans after donating £10,000 to father-of-three, 35, amid cancer battle",
+     "url": "https://www.dailymail.com/sport/football/article-16249279/Absolute-gent-Jack-Grealish-Everton-donating-10K-father-cancer-battle.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+     "pub": "2026-10-29T14:05+00:00"
+    },
+    {
+     "medio": "Mirror",
+     "titulo": "Jack Grealish AXED from Everton squad after 'breaching club discipline'",
+     "url": "https://www.mirror.co.uk/sport/football/news/jack-grealish-everton-newcastle-discipline-37824674",
+     "pub": "2026-10-29T19:37+00:00"
+    },
+    {
+     "medio": "Google News EN",
+     "titulo": "Jack Grealish: England winger dropped by Everton due to 'breach of club discipline'",
+     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1fM05ZeURDZVBmN2FwTnFINnV3WlU2MVlJZnBnSkpWWGtsREktV3dPUVJYNXhyNXY2cTdPcVRnRUFkS1FMYThyWlM2YTZwNjJ1cUpHWWFtUVlQdk1ybXBHREdnQlE5eW50aEI0?oc=5",
+     "pub": "2026-10-29T19:31+00:00"
+    },
+    {
+     "medio": "Daily Mail",
+     "titulo": "Jack Grealish can't turn down a good night out and his attitude is a problem. IAN HERBERT reveals how the magnetic maverick star sparked concern and now faces a tragedy of missed opportunity",
+     "url": "https://www.dailymail.com/sport/football/article-16250953/Inside-Jack-Grealishs-struggles-Everton-concerns-season-acolytes-taking-advantage-issues-attitude-football-writes-IAN-HERBERT.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+     "pub": "2026-10-30T10:26+00:00"
+    },
+    {
+     "medio": "Daily Mail",
+     "titulo": "Jack Grealish has let his team-mates down AGAIN: This latest self-inflicted episode shows he lacks the hard graft and humility so desired by David Moyes - and his team is better off without him, writes LEWIS STEELE",
+     "url": "https://www.dailymail.com/sport/football/article-16248539/Axed-Jack-Grealish-Everton-Newcastle-Carabao-Cup.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+     "pub": "2026-10-30T10:08+00:00"
+    },
+    {
+     "medio": "Mirror",
+     "titulo": "Jack Grealish gesture makes family 'burst into tears' hours before Everton punishment",
+     "url": "https://www.mirror.co.uk/sport/football/news/jack-grealish-everton-donation-punishment-37825421",
+     "pub": "2026-10-30T11:05+00:00"
+    },
+    {
+     "medio": "Mirror",
+     "titulo": "Jack Grealish's Everton future uncertain as disciplinary issue casts shadow over positive impact",
+     "url": "https://www.mirror.co.uk/sport/football/news/jack-grealish-everton-loan-moyes-37825444",
+     "pub": "2026-10-30T10:10+00:00"
+    },
+    {
+     "medio": "Mirror",
+     "titulo": "Mystery surrounds Jack Grealish after David Moyes gives blunt response to Everton axing",
+     "url": "https://www.mirror.co.uk/sport/football/news/jack-grealish-everton-david-moyes-37825175",
+     "pub": "2026-10-30T07:09+00:00"
+    },
+    {
+     "medio": "Mundo Deportivo",
+     "titulo": "El incierto futuro de Jack Grealish tras volver a liarla",
+     "url": "https://www.mundodeportivo.com/futbol/premier-league/20261030/1004245014/incierto-futuro-jack-grealish.html",
+     "pub": ""
+    }
+   ]
+  },
+  {
+   "tema": "Ballon",
+   "medios": 9,
+   "lista_medios": [
+    "Daily Mail",
+    "Foot Mercato",
+    "FourFourTwo",
+    "Google News EN",
+    "Kicker",
+    "L'Equipe",
+    "Sky Sports",
+    "Yahoo",
+    "talkSPORT"
+   ],
+   "primera_vez": "2026-10-29T13:34+00:00",
+   "titulares": [
+    {
+     "medio": "Sky Sports",
+     "titulo": "Sir Harry? Kane responds to knighthood talk after Ballon d'Or win",
+     "url": "https://www.skysports.com/football/news/12040/13605259/harry-kane-ballon-dor-2026-winner-responds-to-knighthood-possibility-after-being-crowned-worlds-best",
+     "pub": "2026-10-29T10:31+00:00"
+    },
+    {
+     "medio": "Daily Mail",
+     "titulo": "Lamine Yamal's dad' 'almost smashes Russian blogger's phone' in bizarre row on streets of London after his Spain star son, 19, lost Ballon d'Or vote to Harry Kane - before Andriy Arshavin steps in!",
+     "url": "https://www.dailymail.com/sport/football/article-16248467/Lamine-Yamals-dad-smashes-Russian-bloggers-phone-bizarre-row-streets-London-Spain-star-son-19-lost-Ballon-dOr-vote-Harry-Kane-Andriy-Arshavin-steps-in.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+     "pub": "2026-10-29T11:57+00:00"
+    },
+    {
+     "medio": "Yahoo",
+     "titulo": "Lamine Yamal’s inner circle confident Barcelona superstar will bounce back strongly after Ballon d’Or blow",
+     "url": "https://sports.yahoo.com/articles/lamine-yamal-inner-circle-confident-131000519.html",
+     "pub": "2026-10-29T13:10+00:00"
+    },
+    {
+     "medio": "L'Equipe",
+     "titulo": "Luis Enrique, entraîneur du PSG, avant Le Havre : « Le Ballon d'Or ? Vitinha n'est pas où il mérite d'être »",
+     "url": "https://www.lequipe.fr/Football/Actualites/Luis-enrique-entraineur-du-psg-avant-le-havre-le-ballon-d-or-vitinha-n-est-pas-ou-il-merite-d-etre/1739491#at_medium=RSS_feeds",
+     "pub": "2026-10-29T13:13+00:00"
+    },
+    {
+     "medio": "Foot Mercato",
+     "titulo": "PSG : Luis Enrique critique le classement de Vitinha au Ballon d’Or",
+     "url": "https://www.footmercato.net/a964994630010423560-psg-luis-enrique-critique-le-classement-de-vitinha-au-ballon-dor",
+     "pub": "2026-10-29T12:58+00:00"
+    },
+    {
+     "medio": "Foot Mercato",
+     "titulo": "L’Allemagne pousse déjà pour Olise Ballon d’Or, Estevão a complètement disparu",
+     "url": "https://www.footmercato.net/a8185129415602638951-lallemagne-pousse-deja-pour-olise-ballon-dor-estevao-a-completement-disparu",
+     "pub": "2026-10-29T09:14+00:00"
+    },
+    {
+     "medio": "Foot Mercato",
+     "titulo": "Ballon d’Or : Adil Rami provoque une énorme polémique en Espagne",
+     "url": "https://www.footmercato.net/a5027812585420591666-ballon-dor-adil-rami-provoque-une-enorme-polemique-apres-ses-propos-sur-alexia-putellas",
+     "pub": "2026-10-29T08:35+00:00"
+    },
+    {
+     "medio": "Yahoo",
+     "titulo": "Ballon d'Or: the leagues with the most winners 🏆",
+     "url": "https://sports.yahoo.com/articles/ballon-dor-leagues-most-winners-183700239.html",
+     "pub": "2026-10-29T18:37+00:00"
+    },
+    {
+     "medio": "Google News EN",
+     "titulo": "Ronaldo pips Messi to win 'Ballon d'Or of All Time' prize",
+     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNQ0hYRnRtSFR3bnVHbjI3eGYtSVRMUGt5REpxZ19jMzJMWmhVbjRUWG81ZEV3M3VkQnBJWnhHN2FpOWQtVExBMTNTMVFwYnJncmhxOHM2My1CejM1NkJ0NVRRUUstMnd1MUxRQ0pYcUplcGQzN0ctcWxQZ1AtMTFGcEJpb1FNQ0RXa0NEQlR6TGFieTl5V2x6YnFUbUxHOXJNWFVEQg?oc=5",
+     "pub": "2026-10-29T10:13+00:00"
+    },
+    {
+     "medio": "Kicker",
+     "titulo": "\"Vitinha steht nicht dort, wo er es verdient\": Enrique kritisiert Ballon d'Or",
+     "url": "https://www.kicker.de/vitinha-steht-nicht-dort-wo-er-es-verdient-enrique-kritisiert-ballon-d-or-1266613/video#omrss",
+     "pub": "2026-10-29T18:40+00:00"
+    },
+    {
+     "medio": "L'Equipe",
+     "titulo": "Ballon d'Or 2026 : quand le détail complet des votes sera-t-il connu ?",
+     "url": "https://www.lequipe.fr/France-Football/Actualites/Ballon-d-or-2026-quand-sera-connu-le-detail-complet-des-votes/1739493#at_medium=RSS_feeds",
+     "pub": "2026-10-29T14:20+00:00"
+    },
+    {
+     "medio": "L'Equipe",
+     "titulo": "Cristiano Ronaldo élu meilleur Ballon d'Or de tous les temps par le public pour son année 2008",
+     "url": "https://www.lequipe.fr/Football/Actualites/Cristiano-ronaldo-elu-meilleur-ballon-d-or-de-tous-les-temps-par-le-public-pour-son-annee-2008/1739503#at_medium=RSS_feeds",
+     "pub": "2026-10-29T14:00+00:00"
+    }
+   ]
+  },
+  {
+   "tema": "Harry",
+   "medios": 9,
+   "lista_medios": [
+    "Daily Mail",
+    "Foot Mercato",
+    "FourFourTwo",
+    "Mirror",
+    "Mundo Deportivo",
+    "Ole",
+    "Record",
+    "Sky Sports",
+    "talkSPORT"
+   ],
+   "primera_vez": "2026-10-29T13:34+00:00",
+   "titulares": [
+    {
+     "medio": "Sky Sports",
+     "titulo": "Sir Harry? Kane responds to knighthood talk after Ballon d'Or win",
+     "url": "https://www.skysports.com/football/news/12040/13605259/harry-kane-ballon-dor-2026-winner-responds-to-knighthood-possibility-after-being-crowned-worlds-best",
+     "pub": "2026-10-29T10:31+00:00"
+    },
+    {
+     "medio": "Daily Mail",
+     "titulo": "Lamine Yamal's dad' 'almost smashes Russian blogger's phone' in bizarre row on streets of London after his Spain star son, 19, lost Ballon d'Or vote to Harry Kane - before Andriy Arshavin steps in!",
+     "url": "https://www.dailymail.com/sport/football/article-16248467/Lamine-Yamals-dad-smashes-Russian-bloggers-phone-bizarre-row-streets-London-Spain-star-son-19-lost-Ballon-dOr-vote-Harry-Kane-Andriy-Arshavin-steps-in.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+     "pub": "2026-10-29T11:57+00:00"
+    },
+    {
+     "medio": "Mirror",
+     "titulo": "Harry Kane to lose small fortune with incredible gesture to Bayern and England team-mates",
+     "url": "https://www.mirror.co.uk/sport/football/news/harry-kane-ballon-dor-gifts-37821408",
+     "pub": "2026-10-29T10:45+00:00"
+    },
+    {
+     "medio": "talkSPORT",
+     "titulo": "Troy Deeney admits he is Harry Kane ‘cheerleader’ in response to viral historic clip",
+     "url": "https://talksport.com/football/4675145/troy-deeney-viral-harry-kane-clip-ballon-dor/",
+     "pub": "2026-10-29T13:42+00:00"
+    },
+    {
+     "medio": "Daily Mail",
+     "titulo": "How 'football geek' Kim Hellberg turned Middlesbrough into the 'PSG of the Championship' - thanks to 'Del Boy and Rodney', the next Harry Kane and the transfer strategy that's taken them to a new level",
+     "url": "https://www.dailymail.com/sport/football/article-16248615/Middlesbrough-Hellberg-Lankshear-PSG-Championship.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+     "pub": "2026-10-29T17:14+00:00"
+    },
+    {
+     "medio": "Mirror",
+     "titulo": "Harry Kane makes knighthood admission as he sets out demand for name change",
+     "url": "https://www.mirror.co.uk/sport/football/news/harry-kane-knighthood-ballon-dor-37823147",
+     "pub": "2026-10-29T13:52+00:00"
+    },
+    {
+     "medio": "talkSPORT",
+     "titulo": "Where to watch Bayern Munich v Borussia Dortmund as Harry Kane looks to celebrate Ballon d’Or",
+     "url": "https://talksport.com/football/4677861/where-to-watch-bayern-munich-v-borussia-dortmund-standings-lineups/",
+     "pub": "2026-10-30T12:05+00:00"
+    },
+    {
+     "medio": "Mirror",
+     "titulo": "Harry Maguire has already given Man Utd green light for blockbuster January transfer",
+     "url": "https://www.mirror.co.uk/sport/football/news/harry-maguire-man-utd-transfer-37825370",
+     "pub": "2026-10-30T11:09+00:00"
+    },
+    {
+     "medio": "Mundo Deportivo",
+     "titulo": "Niko Kovac tiene la clave para frenar a Harry Kane",
+     "url": "https://www.mundodeportivo.com/futbol/bundesliga/20261030/1004245046/niko-kovac-clave-frenar-harry-kane.html",
+     "pub": ""
+    },
+    {
+     "medio": "Foot Mercato",
+     "titulo": "Ballon d’Or : Hansi Flick valide le sacre d’Harry Kane",
+     "url": "https://www.footmercato.net/a4909225437201404339-ballon-dor-hansi-flick-valide-le-sacre-dharry-kane",
+     "pub": "2026-10-30T12:32+00:00"
+    },
+    {
+     "medio": "Foot Mercato",
+     "titulo": "Bayern : comment Harry Kane est devenu un leader",
+     "url": "https://www.footmercato.net/a7901371252512097832-bayern-comment-harry-kane-est-devenu-un-leader",
+     "pub": "2026-10-29T21:50+00:00"
+    },
+    {
+     "medio": "FourFourTwo",
+     "titulo": "Ballon d'Or winner Harry Kane baulks at 'weird' knighthood recognition",
+     "url": "https://www.fourfourtwo.com/person/player/ballon-dor-winner-harry-kane-baulks-at-weird-knighthood-recognition",
+     "pub": "2026-10-30T18:00+00:00"
     }
    ]
   },
@@ -1385,6 +2120,96 @@
    ]
   },
   {
+   "tema": "Xabi",
+   "medios": 9,
+   "lista_medios": [
+    "AS",
+    "Daily Mail",
+    "Foot Mercato",
+    "Google News EN",
+    "L'Equipe",
+    "Mirror",
+    "Mundo Deportivo",
+    "Yahoo",
+    "talkSPORT"
+   ],
+   "primera_vez": "2026-10-29T13:34+00:00",
+   "titulares": [
+    {
+     "medio": "talkSPORT",
+     "titulo": "Chelsea fans will turn on Xabi Alonso if weird treatment of star player continues",
+     "url": "https://talksport.com/football/4674499/chelsea-xabi-alonso-estevao-treatment-why-not-playing/",
+     "pub": "2026-10-29T09:08+00:00"
+    },
+    {
+     "medio": "Daily Mail",
+     "titulo": "Chelsea's rivals eyeing unused Estevao - plus the reason Xabi Alonso is snubbing Brazilian, why other clubs believe Blues will win race for £90m Alex Scott and the Como wonderkid on radar: CHELSEA CONFIDENTIAL",
+     "url": "https://www.dailymail.com/sport/football/article-16248521/Chelsea-Estevao-Alonso-Scott-Como-transfers.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+     "pub": "2026-10-29T12:00+00:00"
+    },
+    {
+     "medio": "Mirror",
+     "titulo": "Xabi Alonso's Carabao Cup comments are disrespectful to competition and Chelsea fans",
+     "url": "https://www.mirror.co.uk/sport/football/news/chelsea-xabi-alonso-carabao-cup-37822219",
+     "pub": "2026-10-29T12:04+00:00"
+    },
+    {
+     "medio": "Mirror",
+     "titulo": "Xabi Alonso admits Carabao Cup 'least important tournament' as Chelsea lose at Liverpool",
+     "url": "https://www.mirror.co.uk/sport/football/news/xabi-alonso-chelsea-carabao-cup-37821169",
+     "pub": "2026-10-29T07:17+00:00"
+    },
+    {
+     "medio": "L'Equipe",
+     "titulo": "Xabi Alonso : «Nous devons passer à autre chose»",
+     "url": "https://www.lequipe.fr/Football/Video/League-cup-chelsea-nous-devons-passer-a-autre-chose-xabi-alonso-evacue-la-deception-en-carabao-cup-pour-se-projeter-sur-la-premier-league/20244380#at_medium=RSS_feeds",
+     "pub": "2026-10-29T11:15+00:00"
+    },
+    {
+     "medio": "talkSPORT",
+     "titulo": "‘Doomsday’ – Jamie O’Hara stunned as Chelsea fan makes Xabi Alonso sack ultimatum",
+     "url": "https://talksport.com/football/4675401/jamie-ohara-reaction-chelsea-fan-calls-xabi-alonso-sacked/",
+     "pub": "2026-10-29T15:59+00:00"
+    },
+    {
+     "medio": "talkSPORT",
+     "titulo": "Ex-Chelsea player calls out Xabi Alonso over controversial post-match comment",
+     "url": "https://talksport.com/football/4675480/chelsea-xabi-alonso-comments-carabao-cup/",
+     "pub": "2026-10-29T15:31+00:00"
+    },
+    {
+     "medio": "Yahoo",
+     "titulo": "Xabi Alonso wants reunion with his former star",
+     "url": "https://sports.yahoo.com/articles/xabi-alonso-wants-reunion-former-183000987.html",
+     "pub": "2026-10-29T18:30+00:00"
+    },
+    {
+     "medio": "Daily Mail",
+     "titulo": "Cole Palmer and Man United unpacked: The truth about Old Trafford links, why he really got a new Chelsea deal, Xabi Alonso's 'emotional control' advice after red card and how he must step up against 'Big Six' rivals",
+     "url": "https://www.dailymail.com/sport/football/article-16251855/Cole-Palmer-Man-United-Chelsea-Xabi-Alonso.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+     "pub": "2026-10-30T12:01+00:00"
+    },
+    {
+     "medio": "Daily Mail",
+     "titulo": "PREMIER LEAGUE LIVE: Xabi Alonso on Estevao's future with Chelsea, Roberto De Zerbi confirms James Maddison IS available for Tottenham - and Andoni Iraola on why Liverpool fans can dream",
+     "url": "https://www.dailymail.com/sport/football/article-16252825/PREMIER-LEAGUE-LIVE-chelsea-liverpool-tottenham-man-city.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+     "pub": "2026-10-30T16:04+00:00"
+    },
+    {
+     "medio": "Google News EN",
+     "titulo": "Xabi Alonso explains Estevao’s lack of playing time",
+     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNSnBySE9uaHUtV25vLS1JaUducC1lQkdwU0VnZWRndm1sUFFyWnVBejJsM3lMTXQwVUNSY3ZoVnlzcFYwWjZPX3BXRnBYZmdFTmhKemFPRVdBOVM2ZmJmWGc5TTlxM3NZaGs1VzRtTlFIcUdoMTJlZGo0QzA5UlhIM25yY1hSeGlMY2xvbk14Vy15ZzBjbjNfYkh1NA?oc=5",
+     "pub": "2026-10-30T14:07+00:00"
+    },
+    {
+     "medio": "AS",
+     "titulo": "Acoso y derribo de la prensa del Chelsea a Xabi Alonso",
+     "url": "https://as.com/futbol/videos/acoso-y-derribo-de-la-prensa-del-chelsea-a-xabi-alonso-f202610-v/",
+     "pub": "2026-10-30T17:28+00:00"
+    }
+   ]
+  },
+  {
    "tema": "Michael",
    "medios": 9,
    "lista_medios": [
@@ -1405,12 +2230,6 @@
      "titulo": "Roy Keane takes another swipe at 'lucky boy' Michael Carrick: Man United legend tells under-fire boss to 'grow a pair and start getting results' after surviving the sack",
      "url": "https://www.dailymail.com/sport/football/article-16248805/Roy-Keane-takes-swipe-lucky-boy-Carrick-Legend-tells-fire-boss-grow-pair.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
      "pub": "2026-10-29T12:10+00:00"
-    },
-    {
-     "medio": "Mirror",
-     "titulo": "Man Utd news: Bruno Fernandes told he's 'finished' as Michael Carrick makes bold call",
-     "url": "https://www.mirror.co.uk/sport/football/news/man-utd-bruno-fernandes-carrick-37818639",
-     "pub": "2026-10-29T04:30+00:00"
     },
     {
      "medio": "Guardian",
@@ -1471,6 +2290,102 @@
      "titulo": "Michael Carrick provides positive Man United update ahead of Chelsea clash",
      "url": "https://sports.yahoo.com/articles/michael-carrick-provides-positive-man-115000819.html",
      "pub": "2026-10-30T11:50+00:00"
+    },
+    {
+     "medio": "Google News EN",
+     "titulo": "Michael Carrick: 'No issues' with Bruno Fernandes says Man Utd boss",
+     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5WaDhjVlN3SzZmYmt4NXJkemhlaElvaUFwZG5nU1JfNms3UUFDZGYtTnBTS2VFa19aUVpmZGVSVWpkd2l1N09jSlJKblY1bzRHNmcwWXR5bXJJZXpjSlZESHVWVEszSTJB?oc=5",
+     "pub": "2026-10-30T09:58+00:00"
+    }
+   ]
+  },
+  {
+   "tema": "Mbappé",
+   "medios": 9,
+   "lista_medios": [
+    "BBC",
+    "Foot Mercato",
+    "Google News ES",
+    "L'Equipe",
+    "Mundo Deportivo",
+    "Ole",
+    "Record",
+    "Yahoo",
+    "ge.globo"
+   ],
+   "primera_vez": "2026-10-29T13:34+00:00",
+   "titulares": [
+    {
+     "medio": "Yahoo",
+     "titulo": "Creator of Mao Zedong-Kylian Mbappé meme says he ‘feels sorry’ for France captain",
+     "url": "https://sports.yahoo.com/articles/creator-mao-zedong-kylian-mbapp-114400324.html",
+     "pub": "2026-10-29T11:44+00:00"
+    },
+    {
+     "medio": "Mundo Deportivo",
+     "titulo": "El lío de Mbappé con China amenaza un negocio millonario",
+     "url": "https://www.mundodeportivo.com/futbol/real-madrid/20261029/1004244599/lio-mbappe-china-costarle-laliga-400-millones-euros.html",
+     "pub": ""
+    },
+    {
+     "medio": "Mundo Deportivo",
+     "titulo": "\"Mbappé, si me llevas a los tribunales, estoy arruinado\"",
+     "url": "https://www.mundodeportivo.com/futbol/real-madrid/20261029/1004244566/mbappe.html",
+     "pub": ""
+    },
+    {
+     "medio": "Google News ES",
+     "titulo": "La cruzada china contra Mbappé y Winnie the Pooh",
+     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNaVZucG1UdkJ4bUtYQXBnU3NvSTFRb01BU0g4ZEloaVNUR1VPYzV5SUFoVHMtbXFfa0ZRSUdPclVSSjNFS09wREhFM0d2Z2d6Mkx3cmVNZFoyemg1UE5Wc3F2RGRNYXNubWxpYS1NeE1qN3U5RVBSSGpXdXV1SHVudFBEQ240MEZGeU80QXpBY0w5WWFQRWRfbFRZXy1PWDdy0gG0AUFVX3lxTFBXTmZGYmRTU3N1N3A4VzBVVkQzQWVvczN2WXkzeDlNTW1zQ3A3cHN1OU5LNU9pWTBpNVpvYWJGakxPZWZvVDRHdXM4TWZYQ1VLTmFwQ1JPc3VjNC1EbEZVMEgydUVEQzYzQ3FvVlMydWZTU1dzNTFRNXhXNnV6SWdkOWk4bENmaUpiNlo5RFd6ajhlM2JFb0JTNDdRdnJSd3ptMF9FMjlESWdJNHc0ZTBPbmVPcw?oc=5",
+     "pub": "2026-10-29T13:20+00:00"
+    },
+    {
+     "medio": "L'Equipe",
+     "titulo": "Le président de la FFF Philippe Diallo défend Kylian Mbappé après la polémique avec la Chine : « Il s'est excusé, je crois qu'il faut en rester là »",
+     "url": "https://www.lequipe.fr/Football/Actualites/Le-president-de-la-fff-philippe-diallo-defend-kylian-mbappe-apres-la-polemique-avec-la-chine-il-s-est-excuse-je-crois-qu-il-faut-en-rester-la/1739489#at_medium=RSS_feeds",
+     "pub": "2026-10-29T13:03+00:00"
+    },
+    {
+     "medio": "Foot Mercato",
+     "titulo": "Real Madrid : Kylian Mbappé pourrait être obligé de verser des millions d’euros à la Chine !",
+     "url": "https://www.footmercato.net/a8966542421035817084-real-madrid-kylian-mbappe-pourrait-etre-oblige-de-verser-des-millions-deuros-a-la-chine",
+     "pub": "2026-10-29T11:01+00:00"
+    },
+    {
+     "medio": "Foot Mercato",
+     "titulo": "FFF : Philippe Diallo réagit à la polémique sur Kylian Mbappé et la Chine",
+     "url": "https://www.footmercato.net/a3091496419452922309-fff-philippe-diallo-reagit-a-la-polemique-sur-kylian-mbappe-et-la-chine",
+     "pub": "2026-10-29T10:26+00:00"
+    },
+    {
+     "medio": "Foot Mercato",
+     "titulo": "Marine Tondelier défend Kylian Mbappé face à la Chine",
+     "url": "https://www.footmercato.net/a4937084077345894697-marine-tondelier-defend-kylian-mbappe-face-a-la-chine",
+     "pub": "2026-10-29T09:05+00:00"
+    },
+    {
+     "medio": "ge.globo",
+     "titulo": "Criador do meme que gerou crise entre Mbappé e China afirma: \"Será que ele vai me processar?\"",
+     "url": "https://ge.globo.com/futebol/futebol-internacional/noticia/2026/10/29/criador-do-meme-que-gerou-crise-entre-mbappe-e-china-afirma-sera-que-ele-vai-me-processar.ghtml",
+     "pub": "2026-10-29T09:11+00:00"
+    },
+    {
+     "medio": "Mundo Deportivo",
+     "titulo": "\"La de Mbappé es una polémica exagerada\"",
+     "url": "https://www.mundodeportivo.com/futbol/20261029/1004244686/mbappe.html",
+     "pub": ""
+    },
+    {
+     "medio": "Google News ES",
+     "titulo": "China borra a Mbappé del fútbol virtual",
+     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPdHRDbE4yTmRsdHVxclJWc0t3NGNibXpNSUZ3LVZfUG55bVlXLWg2YUVLbmVWUUFabXROeHZjaWxybGtuemItTGlyX1hQMm1mMTJBX0hCc25HUmVYQ1ljNlBCXzBRc2twX2ZvdlY0ODFaS3dVekRqU1Znd1NoY3lwUk9YVTVRakExeWM0LWdDX3ZNU0Rl?oc=5",
+     "pub": "2026-10-29T16:39+00:00"
+    },
+    {
+     "medio": "Foot Mercato",
+     "titulo": "Polémique Mbappé : Oscar défend le peuple chinois",
+     "url": "https://www.footmercato.net/a9117852897868109305-polemique-mbappe-oscar-defend-le-peuple-chinois",
+     "pub": "2026-10-29T18:35+00:00"
     }
    ]
   },
@@ -1565,513 +2480,11 @@
    ]
   },
   {
-   "tema": "Ballon",
-   "medios": 8,
-   "lista_medios": [
-    "Daily Mail",
-    "Foot Mercato",
-    "Google News EN",
-    "Kicker",
-    "L'Equipe",
-    "Sky Sports",
-    "Yahoo",
-    "talkSPORT"
-   ],
-   "primera_vez": "2026-10-29T13:34+00:00",
-   "titulares": [
-    {
-     "medio": "Sky Sports",
-     "titulo": "Sir Harry? Kane responds to knighthood talk after Ballon d'Or win",
-     "url": "https://www.skysports.com/football/news/12040/13605259/harry-kane-ballon-dor-2026-winner-responds-to-knighthood-possibility-after-being-crowned-worlds-best",
-     "pub": "2026-10-29T10:31+00:00"
-    },
-    {
-     "medio": "Daily Mail",
-     "titulo": "Lamine Yamal's dad' 'almost smashes Russian blogger's phone' in bizarre row on streets of London after his Spain star son, 19, lost Ballon d'Or vote to Harry Kane - before Andriy Arshavin steps in!",
-     "url": "https://www.dailymail.com/sport/football/article-16248467/Lamine-Yamals-dad-smashes-Russian-bloggers-phone-bizarre-row-streets-London-Spain-star-son-19-lost-Ballon-dOr-vote-Harry-Kane-Andriy-Arshavin-steps-in.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-     "pub": "2026-10-29T11:57+00:00"
-    },
-    {
-     "medio": "Yahoo",
-     "titulo": "Lamine Yamal’s inner circle confident Barcelona superstar will bounce back strongly after Ballon d’Or blow",
-     "url": "https://sports.yahoo.com/articles/lamine-yamal-inner-circle-confident-131000519.html",
-     "pub": "2026-10-29T13:10+00:00"
-    },
-    {
-     "medio": "L'Equipe",
-     "titulo": "Luis Enrique, entraîneur du PSG, avant Le Havre : « Le Ballon d'Or ? Vitinha n'est pas où il mérite d'être »",
-     "url": "https://www.lequipe.fr/Football/Actualites/Luis-enrique-entraineur-du-psg-avant-le-havre-le-ballon-d-or-vitinha-n-est-pas-ou-il-merite-d-etre/1739491#at_medium=RSS_feeds",
-     "pub": "2026-10-29T13:13+00:00"
-    },
-    {
-     "medio": "Foot Mercato",
-     "titulo": "PSG : Luis Enrique critique le classement de Vitinha au Ballon d’Or",
-     "url": "https://www.footmercato.net/a964994630010423560-psg-luis-enrique-critique-le-classement-de-vitinha-au-ballon-dor",
-     "pub": "2026-10-29T12:58+00:00"
-    },
-    {
-     "medio": "Foot Mercato",
-     "titulo": "L’Allemagne pousse déjà pour Olise Ballon d’Or, Estevão a complètement disparu",
-     "url": "https://www.footmercato.net/a8185129415602638951-lallemagne-pousse-deja-pour-olise-ballon-dor-estevao-a-completement-disparu",
-     "pub": "2026-10-29T09:14+00:00"
-    },
-    {
-     "medio": "Foot Mercato",
-     "titulo": "Ballon d’Or : Adil Rami provoque une énorme polémique en Espagne",
-     "url": "https://www.footmercato.net/a5027812585420591666-ballon-dor-adil-rami-provoque-une-enorme-polemique-apres-ses-propos-sur-alexia-putellas",
-     "pub": "2026-10-29T08:35+00:00"
-    },
-    {
-     "medio": "Yahoo",
-     "titulo": "Ballon d'Or: the leagues with the most winners 🏆",
-     "url": "https://sports.yahoo.com/articles/ballon-dor-leagues-most-winners-183700239.html",
-     "pub": "2026-10-29T18:37+00:00"
-    },
-    {
-     "medio": "Google News EN",
-     "titulo": "Ronaldo pips Messi to win 'Ballon d'Or of All Time' prize",
-     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNQ0hYRnRtSFR3bnVHbjI3eGYtSVRMUGt5REpxZ19jMzJMWmhVbjRUWG81ZEV3M3VkQnBJWnhHN2FpOWQtVExBMTNTMVFwYnJncmhxOHM2My1CejM1NkJ0NVRRUUstMnd1MUxRQ0pYcUplcGQzN0ctcWxQZ1AtMTFGcEJpb1FNQ0RXa0NEQlR6TGFieTl5V2x6YnFUbUxHOXJNWFVEQg?oc=5",
-     "pub": "2026-10-29T10:13+00:00"
-    },
-    {
-     "medio": "Kicker",
-     "titulo": "\"Vitinha steht nicht dort, wo er es verdient\": Enrique kritisiert Ballon d'Or",
-     "url": "https://www.kicker.de/vitinha-steht-nicht-dort-wo-er-es-verdient-enrique-kritisiert-ballon-d-or-1266613/video#omrss",
-     "pub": "2026-10-29T18:40+00:00"
-    },
-    {
-     "medio": "L'Equipe",
-     "titulo": "Ballon d'Or 2026 : quand le détail complet des votes sera-t-il connu ?",
-     "url": "https://www.lequipe.fr/France-Football/Actualites/Ballon-d-or-2026-quand-sera-connu-le-detail-complet-des-votes/1739493#at_medium=RSS_feeds",
-     "pub": "2026-10-29T14:20+00:00"
-    },
-    {
-     "medio": "L'Equipe",
-     "titulo": "Cristiano Ronaldo élu meilleur Ballon d'Or de tous les temps par le public pour son année 2008",
-     "url": "https://www.lequipe.fr/Football/Actualites/Cristiano-ronaldo-elu-meilleur-ballon-d-or-de-tous-les-temps-par-le-public-pour-son-annee-2008/1739503#at_medium=RSS_feeds",
-     "pub": "2026-10-29T14:00+00:00"
-    }
-   ]
-  },
-  {
-   "tema": "Milan",
-   "medios": 8,
-   "lista_medios": [
-    "Daily Mail",
-    "Foot Mercato",
-    "Football Italia",
-    "Guardian",
-    "L'Equipe",
-    "Planet Football",
-    "Yahoo",
-    "talkSPORT"
-   ],
-   "primera_vez": "2026-10-29T13:34+00:00",
-   "titulares": [
-    {
-     "medio": "Daily Mail",
-     "titulo": "'Bournemouth is incredible - in summer it feels like I'm back in Brazil!': EVANILSON on taking down Man United and AC Milan, Marco Rose's 'high expectations', leaving home at 13 and drawing his late mother every day",
-     "url": "https://www.dailymail.com/sport/football/article-16242639/Evanilson-interview-Bournemouth-Brazil.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-     "pub": "2026-10-29T02:00+00:00"
-    },
-    {
-     "medio": "Yahoo",
-     "titulo": "Former Inter Milan president claims he ‘enjoyed eliminating Barcelona more’ than winning the 2010 Champions League",
-     "url": "https://sports.yahoo.com/articles/former-inter-milan-president-claims-125000458.html",
-     "pub": "2026-10-29T12:50+00:00"
-    },
-    {
-     "medio": "Yahoo",
-     "titulo": "Gonçalo Ramos’ Milan struggles continue in 4-2 loss vs. Bologna",
-     "url": "https://sports.yahoo.com/articles/gon-alo-ramos-milan-struggles-123700416.html",
-     "pub": "2026-10-29T12:37+00:00"
-    },
-    {
-     "medio": "Yahoo",
-     "titulo": "Former Inter Milan chief opens up on Mourinho joining Real Madrid in 2010: ‘What could I do?’",
-     "url": "https://sports.yahoo.com/articles/former-inter-milan-chief-opens-110700746.html",
-     "pub": "2026-10-29T11:07+00:00"
-    },
-    {
-     "medio": "Football Italia",
-     "titulo": "Milan hope two players will return from injury for derby",
-     "url": "https://football-italia.net/milan-hope-2-players-return-injury-derby-inter/",
-     "pub": "2026-10-29T10:52+00:00"
-    },
-    {
-     "medio": "Football Italia",
-     "titulo": "Today’s Papers – Horrifying Juventus, where’s Milan?",
-     "url": "https://football-italia.net/todays-papers-horrifying-juventus-where-milan/",
-     "pub": "2026-10-29T08:22+00:00"
-    },
-    {
-     "medio": "Foot Mercato",
-     "titulo": "AC Milan : Gonçalo Ramos se fait détruire en Italie",
-     "url": "https://www.footmercato.net/a4074829197300541511-ac-milan-goncalo-ramos-se-fait-detruire-en-italie",
-     "pub": "2026-10-29T11:45+00:00"
-    },
-    {
-     "medio": "Football Italia",
-     "titulo": "New San Siro to be called Generali Stadium, confirm Inter and Milan",
-     "url": "https://football-italia.net/new-san-siro-to-be-called-generali-stadium/",
-     "pub": "2026-10-29T18:06+00:00"
-    },
-    {
-     "medio": "Football Italia",
-     "titulo": "Milan post €24m net loss for 2025/26 after failure to qualify for Europe",
-     "url": "https://football-italia.net/milan-post-24m-net-loss-2025-26-failure-europe/",
-     "pub": "2026-10-29T17:02+00:00"
-    },
-    {
-     "medio": "Football Italia",
-     "titulo": "Inter and Milan present new San Siro stadium amid protests and bad scheduling",
-     "url": "https://football-italia.net/inter-milan-new-san-siro-stadium-amid-protests/",
-     "pub": "2026-10-29T16:33+00:00"
-    },
-    {
-     "medio": "Football Italia",
-     "titulo": "Triple Milan injury boost ahead of derby against Inter",
-     "url": "https://football-italia.net/triple-milan-injury-boost-derby-against-inter/",
-     "pub": "2026-10-29T14:16+00:00"
-    },
-    {
-     "medio": "Guardian",
-     "titulo": "Inter and Milan unveil plans for new shared stadium to replace San Siro",
-     "url": "https://www.theguardian.com/football/2026/oct/29/inter-milan-generali-stadium-new-venue-san-siro-protests",
-     "pub": "2026-10-29T21:46+00:00"
-    }
-   ]
-  },
-  {
-   "tema": "Barcelona",
-   "medios": 8,
-   "lista_medios": [
-    "AS",
-    "Football Italia",
-    "Google News ES",
-    "Infobae",
-    "Mundo Deportivo",
-    "Planet Football",
-    "Yahoo",
-    "ge.globo"
-   ],
-   "primera_vez": "2026-10-29T13:34+00:00",
-   "titulares": [
-    {
-     "medio": "Planet Football",
-     "titulo": "Ronald Araujo is thriving at Liverpool after his Barcelona nightmare – and the reason is obvious",
-     "url": "https://www.planetfootball.com/liverpool/ronald-araujo-liverpool-barcelona-cult-hero-comeback",
-     "pub": "2026-10-29T10:32+00:00"
-    },
-    {
-     "medio": "Yahoo",
-     "titulo": "Lamine Yamal’s inner circle confident Barcelona superstar will bounce back strongly after Ballon d’Or blow",
-     "url": "https://sports.yahoo.com/articles/lamine-yamal-inner-circle-confident-131000519.html",
-     "pub": "2026-10-29T13:10+00:00"
-    },
-    {
-     "medio": "Yahoo",
-     "titulo": "Barcelona fan faces stadium ban after assaulting Real Madrid midfielder during El Clasico",
-     "url": "https://sports.yahoo.com/articles/barcelona-fan-faces-stadium-ban-125800393.html",
-     "pub": "2026-10-29T12:58+00:00"
-    },
-    {
-     "medio": "Yahoo",
-     "titulo": "Former Inter Milan president claims he ‘enjoyed eliminating Barcelona more’ than winning the 2010 Champions League",
-     "url": "https://sports.yahoo.com/articles/former-inter-milan-president-claims-125000458.html",
-     "pub": "2026-10-29T12:50+00:00"
-    },
-    {
-     "medio": "Yahoo",
-     "titulo": "Swedish wonderkid names Barcelona as his dream club amid Manchester United interest",
-     "url": "https://sports.yahoo.com/articles/swedish-wonderkid-names-barcelona-dream-123000685.html",
-     "pub": "2026-10-29T12:30+00:00"
-    },
-    {
-     "medio": "Yahoo",
-     "titulo": "Barcelona midfielder’s return sparks internal debate over future as club prioritise other options",
-     "url": "https://sports.yahoo.com/articles/barcelona-midfielder-return-sparks-internal-121000113.html",
-     "pub": "2026-10-29T12:10+00:00"
-    },
-    {
-     "medio": "Yahoo",
-     "titulo": "Report: Chelsea eyeing move to sign Barcelona star",
-     "url": "https://sports.yahoo.com/articles/report-chelsea-eyeing-move-sign-115000544.html",
-     "pub": "2026-10-29T11:50+00:00"
-    },
-    {
-     "medio": "Yahoo",
-     "titulo": "Barcelona turn to La Masia prospect ahead of Alaves clash as Jules Kounde remains sidelined",
-     "url": "https://sports.yahoo.com/articles/barcelona-turn-la-masia-prospect-114900070.html",
-     "pub": "2026-10-29T11:49+00:00"
-    },
-    {
-     "medio": "Yahoo",
-     "titulo": "Just in: Barcelona defender ruled out of Alaves clash",
-     "url": "https://sports.yahoo.com/articles/just-barcelona-defender-ruled-alaves-110200764.html",
-     "pub": "2026-10-29T11:02+00:00"
-    },
-    {
-     "medio": "ge.globo",
-     "titulo": "Ex-presidente da Inter revela desespero do Barcelona com venda de Ronaldo: \"Ficou furioso\"",
-     "url": "https://ge.globo.com/futebol/futebol-internacional/noticia/2026/10/29/ex-presidente-da-inter-revela-desespero-do-barcelona-com-venda-de-ronaldo-ficou-furioso.ghtml",
-     "pub": "2026-10-29T09:26+00:00"
-    },
-    {
-     "medio": "Yahoo",
-     "titulo": "🚨Confirmed XI: Barcelona (W) face a tough trip to Denmark",
-     "url": "https://sports.yahoo.com/articles/confirmed-xi-barcelona-w-face-192400960.html",
-     "pub": "2026-10-29T19:24+00:00"
-    },
-    {
-     "medio": "Yahoo",
-     "titulo": "Barcelona summer signing establishes himself as a captain without the armband",
-     "url": "https://sports.yahoo.com/articles/barcelona-summer-signing-establishes-himself-192000332.html",
-     "pub": "2026-10-29T19:20+00:00"
-    }
-   ]
-  },
-  {
-   "tema": "Mbappé",
-   "medios": 8,
-   "lista_medios": [
-    "BBC",
-    "Foot Mercato",
-    "Google News ES",
-    "L'Equipe",
-    "Mundo Deportivo",
-    "Ole",
-    "Yahoo",
-    "ge.globo"
-   ],
-   "primera_vez": "2026-10-29T13:34+00:00",
-   "titulares": [
-    {
-     "medio": "Yahoo",
-     "titulo": "Creator of Mao Zedong-Kylian Mbappé meme says he ‘feels sorry’ for France captain",
-     "url": "https://sports.yahoo.com/articles/creator-mao-zedong-kylian-mbapp-114400324.html",
-     "pub": "2026-10-29T11:44+00:00"
-    },
-    {
-     "medio": "Mundo Deportivo",
-     "titulo": "El lío de Mbappé con China amenaza un negocio millonario",
-     "url": "https://www.mundodeportivo.com/futbol/real-madrid/20261029/1004244599/lio-mbappe-china-costarle-laliga-400-millones-euros.html",
-     "pub": ""
-    },
-    {
-     "medio": "Mundo Deportivo",
-     "titulo": "\"Mbappé, si me llevas a los tribunales, estoy arruinado\"",
-     "url": "https://www.mundodeportivo.com/futbol/real-madrid/20261029/1004244566/mbappe.html",
-     "pub": ""
-    },
-    {
-     "medio": "Google News ES",
-     "titulo": "La cruzada china contra Mbappé y Winnie the Pooh",
-     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNaVZucG1UdkJ4bUtYQXBnU3NvSTFRb01BU0g4ZEloaVNUR1VPYzV5SUFoVHMtbXFfa0ZRSUdPclVSSjNFS09wREhFM0d2Z2d6Mkx3cmVNZFoyemg1UE5Wc3F2RGRNYXNubWxpYS1NeE1qN3U5RVBSSGpXdXV1SHVudFBEQ240MEZGeU80QXpBY0w5WWFQRWRfbFRZXy1PWDdy0gG0AUFVX3lxTFBXTmZGYmRTU3N1N3A4VzBVVkQzQWVvczN2WXkzeDlNTW1zQ3A3cHN1OU5LNU9pWTBpNVpvYWJGakxPZWZvVDRHdXM4TWZYQ1VLTmFwQ1JPc3VjNC1EbEZVMEgydUVEQzYzQ3FvVlMydWZTU1dzNTFRNXhXNnV6SWdkOWk4bENmaUpiNlo5RFd6ajhlM2JFb0JTNDdRdnJSd3ptMF9FMjlESWdJNHc0ZTBPbmVPcw?oc=5",
-     "pub": "2026-10-29T13:20+00:00"
-    },
-    {
-     "medio": "L'Equipe",
-     "titulo": "Le président de la FFF Philippe Diallo défend Kylian Mbappé après la polémique avec la Chine : « Il s'est excusé, je crois qu'il faut en rester là »",
-     "url": "https://www.lequipe.fr/Football/Actualites/Le-president-de-la-fff-philippe-diallo-defend-kylian-mbappe-apres-la-polemique-avec-la-chine-il-s-est-excuse-je-crois-qu-il-faut-en-rester-la/1739489#at_medium=RSS_feeds",
-     "pub": "2026-10-29T13:03+00:00"
-    },
-    {
-     "medio": "L'Equipe",
-     "titulo": "La révélation Gadou, l'envol de Mbappé et Mbemba, les exodes saoudiens de Sangaré ou Diaby : que deviennent les anciens du centre de formation du PSG ?",
-     "url": "https://www.lequipe.fr/Football/Actualites/La-revelation-gadou-l-envol-de-mbappe-et-mbemba-les-exodes-saoudiens-de-sangare-ou-diaby-que-deviennent-les-anciens-du-centre-de-formation-du-psg/1739319#at_medium=RSS_feeds",
-     "pub": "2026-10-29T05:17+00:00"
-    },
-    {
-     "medio": "Foot Mercato",
-     "titulo": "Real Madrid : Kylian Mbappé pourrait être obligé de verser des millions d’euros à la Chine !",
-     "url": "https://www.footmercato.net/a8966542421035817084-real-madrid-kylian-mbappe-pourrait-etre-oblige-de-verser-des-millions-deuros-a-la-chine",
-     "pub": "2026-10-29T11:01+00:00"
-    },
-    {
-     "medio": "Foot Mercato",
-     "titulo": "FFF : Philippe Diallo réagit à la polémique sur Kylian Mbappé et la Chine",
-     "url": "https://www.footmercato.net/a3091496419452922309-fff-philippe-diallo-reagit-a-la-polemique-sur-kylian-mbappe-et-la-chine",
-     "pub": "2026-10-29T10:26+00:00"
-    },
-    {
-     "medio": "Foot Mercato",
-     "titulo": "Marine Tondelier défend Kylian Mbappé face à la Chine",
-     "url": "https://www.footmercato.net/a4937084077345894697-marine-tondelier-defend-kylian-mbappe-face-a-la-chine",
-     "pub": "2026-10-29T09:05+00:00"
-    },
-    {
-     "medio": "Foot Mercato",
-     "titulo": "Ça chauffe entre Pierre Ménès et Bertrand Latour au sujet de Kylian Mbappé",
-     "url": "https://www.footmercato.net/a644971334479517066-ca-chauffe-entre-pierre-menes-et-bertrand-latour-au-sujet-de-kylian-mbappe",
-     "pub": "2026-10-29T06:33+00:00"
-    },
-    {
-     "medio": "ge.globo",
-     "titulo": "Criador do meme que gerou crise entre Mbappé e China afirma: \"Será que ele vai me processar?\"",
-     "url": "https://ge.globo.com/futebol/futebol-internacional/noticia/2026/10/29/criador-do-meme-que-gerou-crise-entre-mbappe-e-china-afirma-sera-que-ele-vai-me-processar.ghtml",
-     "pub": "2026-10-29T09:11+00:00"
-    },
-    {
-     "medio": "Mundo Deportivo",
-     "titulo": "\"La de Mbappé es una polémica exagerada\"",
-     "url": "https://www.mundodeportivo.com/futbol/20261029/1004244686/mbappe.html",
-     "pub": ""
-    }
-   ]
-  },
-  {
-   "tema": "Jack",
-   "medios": 8,
-   "lista_medios": [
-    "Daily Mail",
-    "Foot Mercato",
-    "Google News EN",
-    "Guardian",
-    "L'Equipe",
-    "Mirror",
-    "Mundo Deportivo",
-    "talkSPORT"
-   ],
-   "primera_vez": "2026-10-29T19:47+00:00",
-   "titulares": [
-    {
-     "medio": "Guardian",
-     "titulo": "Everton drop Jack Grealish from Carabao Cup tie over ‘breach of club discipline’",
-     "url": "https://www.theguardian.com/football/2026/oct/29/jack-grealish-axed-everton-breach-club-discipline-newcastle-caraboao-cup",
-     "pub": "2026-10-29T19:23+00:00"
-    },
-    {
-     "medio": "talkSPORT",
-     "titulo": "Jack Grealish left out of Everton squad over shock club discipline breach",
-     "url": "https://talksport.com/football/4676710/jack-grealish-out-everton-squad-club-discipline-breach/",
-     "pub": "2026-10-29T19:00+00:00"
-    },
-    {
-     "medio": "Daily Mail",
-     "titulo": "Jack Grealish is DROPPED by Everton due to 'breach of club discipline' as midfielder misses Carabao Cup clash with Newcastle",
-     "url": "https://www.dailymail.com/sport/football/article-16250391/Jack-Grealish-DROPPED-Everton-club-discipline.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-     "pub": "2026-10-29T19:45+00:00"
-    },
-    {
-     "medio": "Daily Mail",
-     "titulo": "'Absolute gent' Jack Grealish lauded by Everton fans after donating £10,000 to father-of-three, 35, amid cancer battle",
-     "url": "https://www.dailymail.com/sport/football/article-16249279/Absolute-gent-Jack-Grealish-Everton-donating-10K-father-cancer-battle.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-     "pub": "2026-10-29T14:05+00:00"
-    },
-    {
-     "medio": "Mirror",
-     "titulo": "Jack Grealish AXED from Everton squad after 'breaching club discipline'",
-     "url": "https://www.mirror.co.uk/sport/football/news/jack-grealish-everton-newcastle-discipline-37824674",
-     "pub": "2026-10-29T19:37+00:00"
-    },
-    {
-     "medio": "Google News EN",
-     "titulo": "Jack Grealish: England winger dropped by Everton due to 'breach of club discipline'",
-     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1fM05ZeURDZVBmN2FwTnFINnV3WlU2MVlJZnBnSkpWWGtsREktV3dPUVJYNXhyNXY2cTdPcVRnRUFkS1FMYThyWlM2YTZwNjJ1cUpHWWFtUVlQdk1ybXBHREdnQlE5eW50aEI0?oc=5",
-     "pub": "2026-10-29T19:31+00:00"
-    },
-    {
-     "medio": "Daily Mail",
-     "titulo": "Jack Grealish can't turn down a good night out and his attitude is a problem. IAN HERBERT reveals how the magnetic maverick star sparked concern and now faces a tragedy of missed opportunity",
-     "url": "https://www.dailymail.com/sport/football/article-16250953/Inside-Jack-Grealishs-struggles-Everton-concerns-season-acolytes-taking-advantage-issues-attitude-football-writes-IAN-HERBERT.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-     "pub": "2026-10-30T10:26+00:00"
-    },
-    {
-     "medio": "Daily Mail",
-     "titulo": "Jack Grealish has let his team-mates down AGAIN: This latest self-inflicted episode shows he lacks the hard graft and humility so desired by David Moyes - and his team is better off without him, writes LEWIS STEELE",
-     "url": "https://www.dailymail.com/sport/football/article-16248539/Axed-Jack-Grealish-Everton-Newcastle-Carabao-Cup.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-     "pub": "2026-10-30T10:08+00:00"
-    },
-    {
-     "medio": "Mirror",
-     "titulo": "Jack Grealish gesture makes family 'burst into tears' hours before Everton punishment",
-     "url": "https://www.mirror.co.uk/sport/football/news/jack-grealish-everton-donation-punishment-37825421",
-     "pub": "2026-10-30T11:05+00:00"
-    },
-    {
-     "medio": "Mirror",
-     "titulo": "Jack Grealish's Everton future uncertain as disciplinary issue casts shadow over positive impact",
-     "url": "https://www.mirror.co.uk/sport/football/news/jack-grealish-everton-loan-moyes-37825444",
-     "pub": "2026-10-30T10:10+00:00"
-    },
-    {
-     "medio": "Mirror",
-     "titulo": "Mystery surrounds Jack Grealish after David Moyes gives blunt response to Everton axing",
-     "url": "https://www.mirror.co.uk/sport/football/news/jack-grealish-everton-david-moyes-37825175",
-     "pub": "2026-10-30T07:09+00:00"
-    },
-    {
-     "medio": "Mundo Deportivo",
-     "titulo": "El incierto futuro de Jack Grealish tras volver a liarla",
-     "url": "https://www.mundodeportivo.com/futbol/premier-league/20261030/1004245014/incierto-futuro-jack-grealish.html",
-     "pub": ""
-    }
-   ]
-  },
-  {
-   "tema": "Toney",
-   "medios": 7,
-   "lista_medios": [
-    "BBC",
-    "Google News EN",
-    "Guardian",
-    "L'Equipe",
-    "Mundo Deportivo",
-    "Sky Sports",
-    "Yahoo"
-   ],
-   "primera_vez": "2026-10-29T13:34+00:00",
-   "titulares": [
-    {
-     "medio": "BBC",
-     "titulo": "Toney nightclub assault trial set for June 2028",
-     "url": "https://www.bbc.co.uk/news/articles/ck98zmrdz2g5o?at_medium=RSS&at_campaign=rss",
-     "pub": "2026-10-29T11:08+00:00"
-    },
-    {
-     "medio": "Guardian",
-     "titulo": "England’s Ivan Toney to stand trial during Euro 2028 after denying assault charge",
-     "url": "https://www.theguardian.com/football/2026/oct/29/ivan-toney-trial-during-euro-2028-denies-assault-charge",
-     "pub": "2026-10-29T11:55+00:00"
-    },
-    {
-     "medio": "Sky Sports",
-     "titulo": "Toney trial date for alleged assault set for 2028",
-     "url": "https://www.skysports.com/football/news/12040/13605220/ivan-toney-trial-for-england-striker-over-alleged-assault-is-set-for-june-2028",
-     "pub": "2026-10-29T11:00+00:00"
-    },
-    {
-     "medio": "Yahoo",
-     "titulo": "England striker Ivan Toney to face trial in 2028 over nightclub assault allegations",
-     "url": "https://sports.yahoo.com/articles/england-striker-ivan-toney-face-111308475.html",
-     "pub": "2026-10-29T12:53+00:00"
-    },
-    {
-     "medio": "Mundo Deportivo",
-     "titulo": "Toney se declara inocente y queda en libertad bajo fianza",
-     "url": "https://www.mundodeportivo.com/futbol/internacional/20261029/1004244620/toney-declara-inocente-puesto-libertad-fianza.html",
-     "pub": ""
-    },
-    {
-     "medio": "Google News EN",
-     "titulo": "Ivan Toney: Trial for England striker over alleged assault is set for June 2028",
-     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNTmVMZlpZd1RSMkRuT3dycDNWY3UxTjZLRzhoY1R6Uk5zWmhSOExvU2ZaR1d3cnZCUVREaV8zR3BaRGplUE9rdks5V3VnZnJuS2FqRXZldHIzWmpoS1FpYmpNbjJpVkFQeENOTXB0dFk0dHkwT2M2eW5DNi1IbVR2QzlITjJla0ZyLXNrM05wZzNqZ3VTNHVmMTM2M3pRajh2ZWVycjZGQTJROUlFMlE5U013b2xBUGg5UzFnNE5kbFg5djRRMkE?oc=5",
-     "pub": "2026-10-29T18:33+00:00"
-    },
-    {
-     "medio": "L'Equipe",
-     "titulo": "L'international anglais Ivan Toney sera jugé pendant l'Euro 2028 pour l'agression présumée d'un homme",
-     "url": "https://www.lequipe.fr/Football/Actualites/L-international-anglais-ivan-toney-sera-juge-pendant-l-euro-2028-pour-l-agression-presumee-d-un-homme/1739559#at_medium=RSS_feeds",
-     "pub": "2026-10-29T17:12+00:00"
-    }
-   ]
-  },
-  {
    "tema": "England",
-   "medios": 7,
+   "medios": 8,
    "lista_medios": [
     "Daily Mail",
+    "Football Italia",
     "Google News EN",
     "Guardian",
     "Mirror",
@@ -2156,31 +2569,20 @@
    ]
   },
   {
-   "tema": "Kane",
-   "medios": 7,
+   "tema": "Lamine",
+   "medios": 8,
    "lista_medios": [
+    "AS",
     "Daily Mail",
     "Foot Mercato",
-    "Kicker",
-    "Mirror",
+    "Google News ES",
+    "L'Equipe",
     "Mundo Deportivo",
-    "Sky Sports",
-    "talkSPORT"
+    "Ole",
+    "Yahoo"
    ],
    "primera_vez": "2026-10-29T13:34+00:00",
    "titulares": [
-    {
-     "medio": "Sky Sports",
-     "titulo": "Sir Harry? Kane responds to knighthood talk after Ballon d'Or win",
-     "url": "https://www.skysports.com/football/news/12040/13605259/harry-kane-ballon-dor-2026-winner-responds-to-knighthood-possibility-after-being-crowned-worlds-best",
-     "pub": "2026-10-29T10:31+00:00"
-    },
-    {
-     "medio": "Sky Sports",
-     "titulo": "How Bayern Munich fell in love with Kane",
-     "url": "https://www.skysports.com/football/news/12040/13605214/harry-kanes-ballon-dor-homecoming-with-bayern-munich-shows-why-germany-has-fallen-in-love-with-englands-captain",
-     "pub": "2026-10-29T09:30+00:00"
-    },
     {
      "medio": "Daily Mail",
      "titulo": "Lamine Yamal's dad' 'almost smashes Russian blogger's phone' in bizarre row on streets of London after his Spain star son, 19, lost Ballon d'Or vote to Harry Kane - before Andriy Arshavin steps in!",
@@ -2188,420 +2590,147 @@
      "pub": "2026-10-29T11:57+00:00"
     },
     {
-     "medio": "Mirror",
-     "titulo": "Harry Kane to lose small fortune with incredible gesture to Bayern and England team-mates",
-     "url": "https://www.mirror.co.uk/sport/football/news/harry-kane-ballon-dor-gifts-37821408",
-     "pub": "2026-10-29T10:45+00:00"
+     "medio": "Yahoo",
+     "titulo": "Lamine Yamal’s inner circle confident Barcelona superstar will bounce back strongly after Ballon d’Or blow",
+     "url": "https://sports.yahoo.com/articles/lamine-yamal-inner-circle-confident-131000519.html",
+     "pub": "2026-10-29T13:10+00:00"
     },
     {
-     "medio": "Kicker",
-     "titulo": "Kovac lobt Kane: \"Richtig großen Sprung gemacht\"",
-     "url": "https://www.kicker.de/kovac-lobt-kane-richtig-grossen-sprung-gemacht-1266529/video#omrss",
-     "pub": "2026-10-29T12:22+00:00"
+     "medio": "AS",
+     "titulo": "“Lamine es diferente, especial, levantará cabeza rápido”",
+     "url": "https://as.com/futbol/lamine-es-diferente-especial-levantara-cabeza-rapido-f202610-n/",
+     "pub": "2026-10-29T10:05+00:00"
     },
     {
-     "medio": "talkSPORT",
-     "titulo": "Troy Deeney admits he is Harry Kane ‘cheerleader’ in response to viral historic clip",
-     "url": "https://talksport.com/football/4675145/troy-deeney-viral-harry-kane-clip-ballon-dor/",
-     "pub": "2026-10-29T13:42+00:00"
+     "medio": "AS",
+     "titulo": "“Necesito ayuda como persona y ser humano”: el extraño mensaje del padre de Lamine",
+     "url": "https://as.com/futbol/primera/necesito-ayuda-como-persona-y-ser-humano-el-extrano-mensaje-del-padre-de-lamine-f202610-n/",
+     "pub": "2026-10-29T08:46+00:00"
     },
     {
-     "medio": "Daily Mail",
-     "titulo": "How 'football geek' Kim Hellberg turned Middlesbrough into the 'PSG of the Championship' - thanks to 'Del Boy and Rodney', the next Harry Kane and the transfer strategy that's taken them to a new level",
-     "url": "https://www.dailymail.com/sport/football/article-16248615/Middlesbrough-Hellberg-Lankshear-PSG-Championship.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-     "pub": "2026-10-29T17:14+00:00"
+     "medio": "Foot Mercato",
+     "titulo": "Le message inquiétant du père de Lamine Yamal",
+     "url": "https://www.footmercato.net/a7009069918630631483-le-message-inquietant-du-pere-de-lamine-yamal",
+     "pub": "2026-10-29T09:38+00:00"
     },
     {
-     "medio": "Mirror",
-     "titulo": "Harry Kane makes knighthood admission as he sets out demand for name change",
-     "url": "https://www.mirror.co.uk/sport/football/news/harry-kane-knighthood-ballon-dor-37823147",
-     "pub": "2026-10-29T13:52+00:00"
+     "medio": "Foot Mercato",
+     "titulo": "Lamine Yamal prend la parole après la tragédie ferroviaire en Espagne",
+     "url": "https://www.footmercato.net/a6685071363052383175-lamine-yamal-prend-la-parole-apres-la-tragedie-ferroviaire-en-espagne",
+     "pub": "2026-10-29T07:35+00:00"
     },
     {
-     "medio": "talkSPORT",
-     "titulo": "Where to watch Bayern Munich v Borussia Dortmund as Harry Kane looks to celebrate Ballon d’Or",
-     "url": "https://talksport.com/football/4677861/where-to-watch-bayern-munich-v-borussia-dortmund-standings-lineups/",
-     "pub": "2026-10-30T12:05+00:00"
+     "medio": "Yahoo",
+     "titulo": "Flick talks Raphinha, Lamine, Cubarsi, De Jong, Balde, centre-back signing ahead of Barcelona vs Alaves",
+     "url": "https://sports.yahoo.com/articles/flick-talks-raphinha-lamine-cubarsi-123000805.html",
+     "pub": "2026-10-30T12:30+00:00"
     },
     {
      "medio": "Mundo Deportivo",
-     "titulo": "Niko Kovac tiene la clave para frenar a Harry Kane",
-     "url": "https://www.mundodeportivo.com/futbol/bundesliga/20261030/1004245046/niko-kovac-clave-frenar-harry-kane.html",
+     "titulo": "Flick, \"orgulloso\" de Lamine y esperanzado con Raphinha",
+     "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261030/1004244983/flick-orgulloso-lamine.html",
      "pub": ""
     },
     {
-     "medio": "Foot Mercato",
-     "titulo": "Ballon d’Or : Hansi Flick valide le sacre d’Harry Kane",
-     "url": "https://www.footmercato.net/a4909225437201404339-ballon-dor-hansi-flick-valide-le-sacre-dharry-kane",
-     "pub": "2026-10-30T12:32+00:00"
+     "medio": "Ole",
+     "titulo": "El argentino que compite con Mbappé y Lamine Yamal por ser el jugador del mes en LaLiga",
+     "url": "https://www.ole.com.ar/futbol-internacional/espana/matias-dituro-argentino-elche-nominado-jugador-mes-espana_0_67wZ3nsWN7.html",
+     "pub": "2026-10-30T12:19+00:00"
     },
     {
-     "medio": "Foot Mercato",
-     "titulo": "Bayern : comment Harry Kane est devenu un leader",
-     "url": "https://www.footmercato.net/a7901371252512097832-bayern-comment-harry-kane-est-devenu-un-leader",
-     "pub": "2026-10-29T21:50+00:00"
+     "medio": "Google News ES",
+     "titulo": "Hansi Flick destaca un detalle del discurso de Lamine Yamal sobre Pau Cubarsí en el Balón de Oro: \"Me encantó…\"",
+     "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPU0UwbGZRUTNWMG5FWk5ETjlqQW83NmZmZkR0MTdVU0cwYTdrSWFIYUtFTmFIdC16WVVxa09LT3lOWjYtUW9LSkpPWmFKbzRuVnV0WVdWZm02M0pTRmJkRWNuQUxfdzJRODVCbzZMYmxmbEJOcjZZY1lBMW1QWXRNVFRKbW9HYnBVdXFLZVZtN0NaQU9iR1ZPM1RNbHhuOXR5dGJIekVrbk9oZm5NZnA5ei1LTl9VeE04bmNReThlQjF2ZG1OMlVFRHg3VGdaT1ZOMU9laFhlbFpYUzl3UGFEb0gxSUhQSTA?oc=5",
+     "pub": "2026-10-30T13:42+00:00"
+    },
+    {
+     "medio": "L'Equipe",
+     "titulo": "Hansi Flick sur Lamine Yamal après le Ballon d'Or : « Il a très bien réagi, c'est ainsi que réagissent les champions »",
+     "url": "https://www.lequipe.fr/Football/Actualites/Hansi-flick-sur-lamine-yamal-apres-le-ballon-d-or-il-a-tres-bien-reagi-c-est-ainsi-que-reagissent-les-champions/1739735#at_medium=RSS_feeds",
+     "pub": "2026-10-30T13:55+00:00"
+    },
+    {
+     "medio": "Ole",
+     "titulo": "¿Lo merecía Lamine? La palabra del DT del Barcelona sobre el Balón de Oro de Harry Kane",
+     "url": "https://www.ole.com.ar/futbol-internacional/flick-hablo-yamal-kane-ganador-balon-oro-2026_0_ZTB2LuNahs.html",
+     "pub": "2026-10-30T18:17+00:00"
     }
    ]
   },
   {
-   "tema": "Alonso",
-   "medios": 7,
+   "tema": "Villa",
+   "medios": 8,
    "lista_medios": [
-    "Daily Mail",
-    "Infobae",
-    "L'Equipe",
+    "FourFourTwo",
+    "Google News AR",
     "Mirror",
+    "Ole",
     "Sky Sports",
     "Yahoo",
+    "ge.globo",
     "talkSPORT"
    ],
    "primera_vez": "2026-10-29T13:34+00:00",
    "titulares": [
     {
-     "medio": "talkSPORT",
-     "titulo": "Chelsea fans will turn on Xabi Alonso if weird treatment of star player continues",
-     "url": "https://talksport.com/football/4674499/chelsea-xabi-alonso-estevao-treatment-why-not-playing/",
-     "pub": "2026-10-29T09:08+00:00"
-    },
-    {
-     "medio": "Daily Mail",
-     "titulo": "Chelsea's rivals eyeing unused Estevao - plus the reason Xabi Alonso is snubbing Brazilian, why other clubs believe Blues will win race for £90m Alex Scott and the Como wonderkid on radar: CHELSEA CONFIDENTIAL",
-     "url": "https://www.dailymail.com/sport/football/article-16248521/Chelsea-Estevao-Alonso-Scott-Como-transfers.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-     "pub": "2026-10-29T12:00+00:00"
+     "medio": "FourFourTwo",
+     "titulo": "Victor Lindelof is thriving and it says everything about Aston Villa and Manchester United",
+     "url": "https://www.fourfourtwo.com/person/player/victor-lindelof-is-thriving-and-it-says-everything-about-aston-villa-and-manchester-united",
+     "pub": "2026-10-29T11:00+00:00"
     },
     {
      "medio": "Mirror",
-     "titulo": "Xabi Alonso admits Carabao Cup 'least important tournament' as Chelsea lose at Liverpool",
-     "url": "https://www.mirror.co.uk/sport/football/news/xabi-alonso-chelsea-carabao-cup-37821169",
-     "pub": "2026-10-29T07:17+00:00"
+     "titulo": "Jamie Carragher tells Aston Villa fans to 'shut the f*** up' over Unai Emery to Man Utd link",
+     "url": "https://www.mirror.co.uk/sport/football/news/carragher-aston-villa-fans-emery-37823150",
+     "pub": "2026-10-29T13:50+00:00"
     },
     {
-     "medio": "L'Equipe",
-     "titulo": "Xabi Alonso : «Nous devons passer à autre chose»",
-     "url": "https://www.lequipe.fr/Football/Video/League-cup-chelsea-nous-devons-passer-a-autre-chose-xabi-alonso-evacue-la-deception-en-carabao-cup-pour-se-projeter-sur-la-premier-league/20244380#at_medium=RSS_feeds",
-     "pub": "2026-10-29T11:15+00:00"
-    },
-    {
-     "medio": "talkSPORT",
-     "titulo": "‘Doomsday’ – Jamie O’Hara stunned as Chelsea fan makes Xabi Alonso sack ultimatum",
-     "url": "https://talksport.com/football/4675401/jamie-ohara-reaction-chelsea-fan-calls-xabi-alonso-sacked/",
-     "pub": "2026-10-29T15:59+00:00"
-    },
-    {
-     "medio": "talkSPORT",
-     "titulo": "Ex-Chelsea player calls out Xabi Alonso over controversial post-match comment",
-     "url": "https://talksport.com/football/4675480/chelsea-xabi-alonso-comments-carabao-cup/",
-     "pub": "2026-10-29T15:31+00:00"
-    },
-    {
-     "medio": "Yahoo",
-     "titulo": "Xabi Alonso wants reunion with his former star",
-     "url": "https://sports.yahoo.com/articles/xabi-alonso-wants-reunion-former-183000987.html",
-     "pub": "2026-10-29T18:30+00:00"
+     "medio": "Ole",
+     "titulo": "La Súper decisión de Arruabarrena: por qué Villa saca ventaja sobre Velasco para jugar ante River",
+     "url": "https://www.ole.com.ar/boca-juniors/decision-arruabarrena-boca-villa-saca-ventaja-velasco-jugar-river_0_NGg2JTnylL.html",
+     "pub": "2026-10-29T19:13+00:00"
     },
     {
      "medio": "Sky Sports",
-     "titulo": "'Lack of talent' - Alonso doubles down on Albon criticism",
-     "url": "https://www.skysports.com/f1/news/12040/13605423/fernando-alonso-doubles-down-on-alex-albon-and-f1-field-criticism-ahead-of-mexico-city-grand-prix",
-     "pub": "2026-10-29T21:05+00:00"
-    },
-    {
-     "medio": "Infobae",
-     "titulo": "Estalló la guerra de pilotos en la Fórmula 1 tras las críticas de Fernando Alonso a un sector de la parrilla: “Espero que no nos crucemos en pista”",
-     "url": "https://www.infobae.com/deportes/2026/10/30/estallo-la-guerra-de-pilotos-en-la-formula-1-tras-las-criticas-de-fernando-alonso-a-un-sector-de-la-parrilla-espero-que-no-nos-crucemos-en-pista/",
-     "pub": "2026-10-30T12:21+00:00"
-    }
-   ]
-  },
-  {
-   "tema": "Carabao",
-   "medios": 7,
-   "lista_medios": [
-    "Daily Mail",
-    "Google News AR",
-    "Google News EN",
-    "Guardian",
-    "Mirror",
-    "Sky Sports",
-    "Yahoo"
-   ],
-   "primera_vez": "2026-10-29T13:34+00:00",
-   "titulares": [
-    {
-     "medio": "Mirror",
-     "titulo": "Xabi Alonso's Carabao Cup comments are disrespectful to competition and Chelsea fans",
-     "url": "https://www.mirror.co.uk/sport/football/news/chelsea-xabi-alonso-carabao-cup-37822219",
-     "pub": "2026-10-29T12:04+00:00"
-    },
-    {
-     "medio": "Mirror",
-     "titulo": "Xabi Alonso admits Carabao Cup 'least important tournament' as Chelsea lose at Liverpool",
-     "url": "https://www.mirror.co.uk/sport/football/news/xabi-alonso-chelsea-carabao-cup-37821169",
-     "pub": "2026-10-29T07:17+00:00"
-    },
-    {
-     "medio": "Yahoo",
-     "titulo": "“We want to win it” – Liverpool star makes Carabao Cup statement after Chelsea win",
-     "url": "https://sports.yahoo.com/articles/want-win-liverpool-star-makes-115000180.html",
-     "pub": "2026-10-29T11:50+00:00"
-    },
-    {
-     "medio": "Google News EN",
-     "titulo": "Carabao Cup quarter-final draw: Liverpool host Bournemouth as Bradford and Fleetwood learn Premier League opposition",
-     "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQVUU4Y0cwQ2lXZTJkMFRTcjFzNE1BR2JIQWY1X1dLSXJKd1FQdmtuMHdpeTVlTGJmQXdQeWdEVENFaUN4QmY0cnJxM0JPSjhXdWlIejJIRnMzUTE2eDQwN2VmTE5YY2h5TDdseTFUdDVuWW5vaGNMT2pMaUhldmhPaEY3ZzhMZE1oWWxrMkM1QU50TFJqX01OREl2NUc1bzdwY0wyOWxHeEZ0Vk0yVTBXcWlJVHJJSkVpLTI1SXQtdHNDOC1iRlVTWXlqNElvU3ctQjdLMEtjU0RER3dTQ1owMFlzelQxeDBfRjNlMGlSNTlfUnFwV1BN?oc=5",
-     "pub": "2026-10-29T07:45+00:00"
-    },
-    {
-     "medio": "Google News EN",
-     "titulo": "Fulham 0-1 Crystal Palace: Eddie Nketiah steers Eagles into Carabao Cup quarter-final",
-     "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOcHRlQ3hleTNENVVZVU1XZmtVRjdaLTl6bUltN3ljQ2NZMVBSbFNUX29fUUZ0ZkpnUG5VRGxOTmxtaWpYOTNLeHhvSGxSaGJKZHRib0dUN3k3dFg4T2ZiVVM0QmV1MVByQXNBZkczM0hVbHhfVlF4cWZyMk0xdWZPQzlWMUUtVkZ4NXFiczF1eVVKT0g4ZDU0cVREaE5GSnVZdG5ma1lUVzRtQk91YU1RcHhzS2w4c2tkLWZtdUdndVFETlhaczFZVlJETmFqdw?oc=5",
-     "pub": "2026-10-29T09:46+00:00"
-    },
-    {
-     "medio": "Google News AR",
-     "titulo": "Agenda de fútbol de hoy: clásicos brasileños, Serie A y Carabao Cup por TV",
-     "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQWHZ2RGhkMDhqZU9nWXhnRnlseDlGZWJNZEg5WWctY1NOdG1PRU1JSlJLdXpRNFMzdG1kTGRKWVl3UWdZOHVUZWh5VDZIRjVJMWlSMjNXVUVaUnlST29vU25scWJkRmM2VTZ1VzBtckVjTnRVcDB4dnNiV0hNcUd2cnd4RVd6TW00eWZYZmViSjRoSVJkdHZWUFNseUtOc09VS0RHNlVLbXN4elRhSzhIVi0wVG5DZGhhQjRjOVkyY3FxS3VvLThsejlwdThmYzJSM3ZySW1RcEtUMjJlcTJOQW8zeVTSAeQBQVVfeXFMUFh2dkRoZDA4amVPZ1l4Z0Z5bHg5RmViTWRIOVlnLWNTTnRtT0VNSUpSS3V6UTRTM3RtZExkSllZd1FnWTh1VGVoeVQ2SEY1STFpUjIzV1VFWlJ5Uk9vb1NubHFiZEZjNlU2dVcwbXJFY050VXAweHZzYldITXFHdnJ3eEVXek1tNHlmWGZlYko0aElSZHR2VlBTbHlLTnNPVUtERzZVS21zeHpUYUs4SFYtMFRuQ2RoYUI0YzlZMmNxcUt1by04bHo5cHU4ZmMyUjN2ckltUXBLVDIyZXEyTkFvM3lU?oc=5",
-     "pub": "2026-10-29T09:50+00:00"
-    },
-    {
-     "medio": "Guardian",
-     "titulo": "Everton v Newcastle: Carabao Cup fourth round – live",
-     "url": "https://www.theguardian.com/football/live/2026/oct/29/everton-v-newcastle-carabao-cup-fourth-round-live",
-     "pub": "2026-10-29T19:40+00:00"
-    },
-    {
-     "medio": "Guardian",
-     "titulo": "Everton drop Jack Grealish from Carabao Cup tie over ‘breach of club discipline’",
-     "url": "https://www.theguardian.com/football/2026/oct/29/jack-grealish-axed-everton-breach-club-discipline-newcastle-caraboao-cup",
-     "pub": "2026-10-29T19:23+00:00"
-    },
-    {
-     "medio": "Daily Mail",
-     "titulo": "Jack Grealish is DROPPED by Everton due to 'breach of club discipline' as midfielder misses Carabao Cup clash with Newcastle",
-     "url": "https://www.dailymail.com/sport/football/article-16250391/Jack-Grealish-DROPPED-Everton-club-discipline.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-     "pub": "2026-10-29T19:45+00:00"
-    },
-    {
-     "medio": "Sky Sports",
-     "titulo": "Everton see off Newcastle to reach Carabao Cup quarter-finals",
-     "url": "https://www.skysports.com/football/everton-vs-newcastle-united/report/578609",
-     "pub": "2026-10-29T19:34+00:00"
-    }
-   ]
-  },
-  {
-   "tema": "Fernandes",
-   "medios": 7,
-   "lista_medios": [
-    "BBC",
-    "Daily Mail",
-    "Google News EN",
-    "Guardian",
-    "Mirror",
-    "Mundo Deportivo",
-    "Sky Sports"
-   ],
-   "primera_vez": "2026-10-29T13:34+00:00",
-   "titulares": [
-    {
-     "medio": "Mirror",
-     "titulo": "Man Utd news: Bruno Fernandes told he's 'finished' as Michael Carrick makes bold call",
-     "url": "https://www.mirror.co.uk/sport/football/news/man-utd-bruno-fernandes-carrick-37818639",
-     "pub": "2026-10-29T04:30+00:00"
-    },
-    {
-     "medio": "BBC",
-     "titulo": "'Fully committed' Fernandes to remain Man Utd captain",
-     "url": "https://www.bbc.co.uk/sport/football/articles/ckz7x8z1e9y9o?at_medium=RSS&at_campaign=rss",
-     "pub": "2026-10-29T14:31+00:00"
-    },
-    {
-     "medio": "Guardian",
-     "titulo": "Carrick keeps Fernandes as captain and says he needs no assurances on United future",
-     "url": "https://www.theguardian.com/football/2026/oct/29/michael-carrick-keeps-bruno-fernandes-captain-assurances-future-manchester-united",
-     "pub": "2026-10-29T14:50+00:00"
-    },
-    {
-     "medio": "Sky Sports",
-     "titulo": "Carrick ready to 'move forward' with Fernandes as captain",
-     "url": "https://www.skysports.com/football/news/12040/13605331/manchester-united-michael-carrick-ready-to-move-forward-with-bruno-fernandes-as-captain-and-doesnt-require-assurances-on-his-future",
-     "pub": "2026-10-29T14:00+00:00"
-    },
-    {
-     "medio": "Daily Mail",
-     "titulo": "Bruno back in from the cold - after clear-the-air talks: Fernandes KEEPS Man United captaincy, Michael Carrick confirms, and will go back into the team after being axed over interview",
-     "url": "https://www.dailymail.com/sport/football/article-16249225/Bruno-Fernandes-STAYS-Man-United-captain-clear-air-talks-return-clash-Chelsea-manager-Michael-Carrick-insists-not-surprised-job-despite-woeful-start-season.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-     "pub": "2026-10-29T18:09+00:00"
-    },
-    {
-     "medio": "Mirror",
-     "titulo": "Michael Carrick confirms Bruno Fernandes captaincy decision after Man Utd crunch talks",
-     "url": "https://www.mirror.co.uk/sport/football/news/carrick-bruno-fernandes-manchester-united-37823754",
-     "pub": "2026-10-29T16:29+00:00"
-    },
-    {
-     "medio": "Mundo Deportivo",
-     "titulo": "Carrick anuncia su decisión sobre Bruno Fernandes",
-     "url": "https://www.mundodeportivo.com/futbol/premier-league/20261029/1004244726/carrick-anuncia-decision-sobre-bruno-fernandes.html",
-     "pub": ""
-    },
-    {
-     "medio": "BBC",
-     "titulo": "Carrick says there are 'no issues' with captain Fernandes",
-     "url": "https://www.bbc.co.uk/sport/football/videos/cqj34pjxp7xdo?at_medium=RSS&at_campaign=rss",
-     "pub": "2026-10-30T09:58+00:00"
-    },
-    {
-     "medio": "Google News EN",
-     "titulo": "Michael Carrick: 'No issues' with Bruno Fernandes says Man Utd boss",
-     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5WaDhjVlN3SzZmYmt4NXJkemhlaElvaUFwZG5nU1JfNms3UUFDZGYtTnBTS2VFa19aUVpmZGVSVWpkd2l1N09jSlJKblY1bzRHNmcwWXR5bXJJZXpjSlZESHVWVEszSTJB?oc=5",
-     "pub": "2026-10-30T09:58+00:00"
-    }
-   ]
-  },
-  {
-   "tema": "Luis",
-   "medios": 7,
-   "lista_medios": [
-    "Foot Mercato",
-    "Google News EN",
-    "L'Equipe",
-    "Mundo Deportivo",
-    "Planet Football",
-    "Record",
-    "Yahoo"
-   ],
-   "primera_vez": "2026-10-29T13:34+00:00",
-   "titulares": [
-    {
-     "medio": "Planet Football",
-     "titulo": "We’re delighted to announce Luis Suarez has stuck it top bins like the good old days for Inter Miami",
-     "url": "https://www.planetfootball.com/mls/were-delighted-announce-luis-suarez-top-bins-inter-miami",
-     "pub": "2026-10-29T12:06+00:00"
-    },
-    {
-     "medio": "Yahoo",
-     "titulo": "Luis Enrique reveals the hardest thing to deal with regarding PSG winger Désiré Doué",
-     "url": "https://sports.yahoo.com/articles/luis-enrique-reveals-hardest-thing-125000543.html",
-     "pub": "2026-10-29T12:50+00:00"
-    },
-    {
-     "medio": "Mundo Deportivo",
-     "titulo": "Álvaro Valles, en la prelista de Luis de la Fuente",
-     "url": "https://www.mundodeportivo.com/futbol/betis/20261029/1004244581/alvaro-valles-prelista-luis-fuente.html",
-     "pub": ""
-    },
-    {
-     "medio": "L'Equipe",
-     "titulo": "Luis Enrique, entraîneur du PSG, avant Le Havre : « Le Ballon d'Or ? Vitinha n'est pas où il mérite d'être »",
-     "url": "https://www.lequipe.fr/Football/Actualites/Luis-enrique-entraineur-du-psg-avant-le-havre-le-ballon-d-or-vitinha-n-est-pas-ou-il-merite-d-etre/1739491#at_medium=RSS_feeds",
-     "pub": "2026-10-29T13:13+00:00"
-    },
-    {
-     "medio": "L'Equipe",
-     "titulo": "Luis Enrique encense Désiré Doué avant le déplacement du PSG au Havre :",
-     "url": "https://www.lequipe.fr/Football/Actualites/Luis-enrique-encense-desire-doue-avant-le-deplacement-du-psg-au-havre/1739490#at_medium=RSS_feeds",
-     "pub": "2026-10-29T13:09+00:00"
-    },
-    {
-     "medio": "Foot Mercato",
-     "titulo": "PSG : Luis Enrique lâche ses vérités sur les soucis de Lucas Digne",
-     "url": "https://www.footmercato.net/a3346823181258607011-psg-luis-enrique-lache-ses-verites-sur-les-soucis-de-lucas-digne",
-     "pub": "2026-10-29T13:15+00:00"
-    },
-    {
-     "medio": "Foot Mercato",
-     "titulo": "PSG : Luis Enrique critique le classement de Vitinha au Ballon d’Or",
-     "url": "https://www.footmercato.net/a964994630010423560-psg-luis-enrique-critique-le-classement-de-vitinha-au-ballon-dor",
-     "pub": "2026-10-29T12:58+00:00"
-    },
-    {
-     "medio": "Google News EN",
-     "titulo": "MLS - Luis Suarez scores stunner for Inter Miami CF",
-     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBGYk5COFN2MG0yb0NKVk43V0d5c1p0Nm83YzJ2MFZIX21fdHhEVUJfV3J6TFI2OW5TVEpUeHRiZkt2dWNMY05kOXA1STNUVVMtakUwRUJqVE5FT3pEdUNTc0VrV1JFTDVI?oc=5",
-     "pub": "2026-10-29T18:39+00:00"
-    },
-    {
-     "medio": "Foot Mercato",
-     "titulo": "PSG : Luis Enrique estime avoir contrôlé les blessures",
-     "url": "https://www.footmercato.net/a2621284053126130891-psg-luis-enrique-estime-avoir-controle-les-blessures",
-     "pub": "2026-10-29T16:49+00:00"
-    },
-    {
-     "medio": "Foot Mercato",
-     "titulo": "PSG : Luis Enrique adresse un message fort à Désiré Doué",
-     "url": "https://www.footmercato.net/a8249913521700215271-psg-luis-enrique-adresse-un-message-fort-a-desire-doue",
-     "pub": "2026-10-29T15:28+00:00"
-    },
-    {
-     "medio": "Foot Mercato",
-     "titulo": "PSG : la belle déclaration d’amour de Luis Enrique à Matvey Safonov",
-     "url": "https://www.footmercato.net/a2303284123132080558-psg-la-belle-declaration-damour-de-luis-enrique-a-matvey-safonov",
-     "pub": "2026-10-29T14:04+00:00"
-    },
-    {
-     "medio": "Foot Mercato",
-     "titulo": "PSG : le groupe convoqué par Luis Enrique pour affronter Le Havre",
-     "url": "https://www.footmercato.net/a4369888969707823923-psg-le-groupe-convoque-par-luis-enrique-pour-affronter-le-havre",
-     "pub": "2026-10-30T10:40+00:00"
-    }
-   ]
-  },
-  {
-   "tema": "Final",
-   "medios": 7,
-   "lista_medios": [
-    "Foot Mercato",
-    "Google News AR",
-    "Google News EN",
-    "L'Equipe",
-    "Sky Sports",
-    "Yahoo",
-    "ge.globo"
-   ],
-   "primera_vez": "2026-10-29T13:34+00:00",
-   "titulares": [
-    {
-     "medio": "Yahoo",
-     "titulo": "France to bid for UEFA Nations League Final Four hosting rights",
-     "url": "https://sports.yahoo.com/articles/france-bid-uefa-nations-league-114200782.html",
-     "pub": "2026-10-29T11:42+00:00"
-    },
-    {
-     "medio": "L'Equipe",
-     "titulo": "La France candidate à l'organisation du Final Four de la Ligue des nations en cas de qualification",
-     "url": "https://www.lequipe.fr/Football/Actualites/La-france-candidate-a-l-organisation-du-final-four-de-la-ligue-des-nations-en-cas-de-qualification/1739486#at_medium=RSS_feeds",
-     "pub": "2026-10-29T12:36+00:00"
-    },
-    {
-     "medio": "Sky Sports",
-     "titulo": "Spain's Torres leads after day one of Grand Final",
-     "url": "https://www.skysports.com/watch/video/13605502/grand-final-day-one-highlights",
-     "pub": "2026-10-29T18:17+00:00"
-    },
-    {
-     "medio": "Google News EN",
-     "titulo": "McInnes: We Must Deliver To Reach Final",
-     "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5VbU9aSy1EdFZfT3dyeEZQX3lnQ2JjLWxLTWQ5WW9ONG8yeVV1Q0J5Y0NOWmRtQU82aHJqOWtRU2ZEVGgzaEdISi1uUkZOR3dKYWVLOEtyVFExeVJ0YVRaVkhjTm9tNnNUdmxuZkpZekxybl9a?oc=5",
-     "pub": "2026-10-29T17:00+00:00"
-    },
-    {
-     "medio": "Foot Mercato",
-     "titulo": "La France candidate à l’organisation du Final 4 de la Ligue des Nations 2027",
-     "url": "https://www.footmercato.net/a8033226653698033226-la-france-candidate-a-lorganisation-du-final-4-de-la-ligue-des-nations-2027",
-     "pub": "2026-10-29T15:13+00:00"
-    },
-    {
-     "medio": "ge.globo",
-     "titulo": "Final entre Corinthians e Cruzeiro vai dar o 15º título ao Brasil na Libertadores Feminina",
-     "url": "https://ge.globo.com/sp/campinas-e-regiao/futebol/futebol-feminino/libertadores-feminina/noticia/2026/10/29/final-entre-corinthians-e-cruzeiro-vai-dar-o-15o-titulo-ao-brasil-na-libertadores-feminina.ghtml",
-     "pub": "2026-10-29T16:03+00:00"
+     "titulo": "Why Aston Villa was the perfect destination for Jackson",
+     "url": "https://www.skysports.com/football/news/12040/13605328/nicolas-jackson-why-aston-villa-is-perfect-club-for-senegal-striker-to-thrive-at-after-unai-emery-reunion",
+     "pub": "2026-10-30T10:00+00:00"
     },
     {
      "medio": "Google News AR",
      "titulo": "Fútbol Juvenil: Se jugará la Final Región Litoral Sur Sub 15 en Paraná y el Provincial Sub 14 en Villa Ocampo",
      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPWnU0c0pUamZhSXZtX1l3Z18tRG5WS09xOGVjODJaaTFQRXBzZnRLQTlXY3YwRUppWHhYUjhFVlhqWVVLbERsZGRncGRQaGdMNHhoRTZ6RHJKdjVveWNGeWM0RDJRWDROakNRQ01TTW53cnJUOUJFeGloNFF6MzFQU3A1bkRORUpDMTBuUnRBeEpZVlhwZjdObFZHWG5OVUV2dG54ZjVZS05XRmJzWncyTEJ5SGNWUjk1c2x5Um43LUdCdjM1RncxeWVmQS1IQlhBc1VjYl9B?oc=5",
      "pub": "2026-10-30T12:44+00:00"
+    },
+    {
+     "medio": "Sky Sports",
+     "titulo": "How Suzuki has wowed Villa fans since replacing Martinez",
+     "url": "https://www.skysports.com/football/news/12040/13605254/zion-suzuki-analysis-how-emi-martinezs-aston-villa-replacement-now-looks-like-a-potential-upgrade-given-his-range-of-skills",
+     "pub": "2026-10-30T14:30+00:00"
+    },
+    {
+     "medio": "talkSPORT",
+     "titulo": "FPL Gameweek 9 Differentials including Rayan and surprise Aston Villa and Tottenham stars",
+     "url": "https://talksport.com/football/4678630/fpl-gameweek-9-differentials-rayan-johan-manzambi/",
+     "pub": "2026-10-30T17:47+00:00"
+    },
+    {
+     "medio": "Yahoo",
+     "titulo": "Aston Villa Set To Reward This Veteran Defender: Is Emery Right To Keep Him?",
+     "url": "https://sports.yahoo.com/articles/aston-villa-set-reward-veteran-180000344.html",
+     "pub": "2026-10-30T18:00+00:00"
+    },
+    {
+     "medio": "ge.globo",
+     "titulo": "Manchester United x Aston Villa - Campeonato Inglês 2026/27 - globoesporte.com",
+     "url": "https://ge.globo.com/futebol/futebol-internacional/futebol-ingles/jogo/08-11-2026/Manchesterunited-Astonvilla.ghtml",
+     "pub": "2026-10-30T15:42+00:00"
+    },
+    {
+     "medio": "ge.globo",
+     "titulo": "Barcelona x Aston Villa - Liga dos Campeões 2026/2027 - globoesporte.com",
+     "url": "https://ge.globo.com/futebol/futebol-internacional/liga-dos-campeoes/jogo/03-11-2026/barcelona-Astonvilla.ghtml",
+     "pub": "2026-10-30T15:15+00:00"
     }
    ]
   }
