@@ -158,3 +158,6 @@
 {"t": "2026-10-31T12:59+00:00", "estado": "revisar", "temas": ["Villa", "Aston"], "clave": "villa-carragher-legal", "motivo": "categoría sensible: legal"}
 {"t": "2026-10-31T12:59+00:00", "estado": "revisar", "temas": ["San"], "clave": "san-siro-generali", "motivo": "datos que no salen en los titulares: 2.3, Construction"}
 {"t": "2026-10-31T12:59+00:00", "estado": "descartar", "temas": ["Bruno"], "clave": "genesio-om-lobby", "motivo": "importancia 5 < 7"}
+{"t": "2026-10-31T17:54+00:00", "estado": "revisar", "temas": ["Kane", "Harry", "Ballon"], "clave": "harry-kane-ballondor", "motivo": "palabra sensible en los titulares: Police"}
+{"t": "2026-10-31T17:55+00:00", "estado": "revisar", "temas": ["Brighton"], "clave": "brighton-stun-man-city", "motivo": "ninguna foto pasó la comprobación de caras / zona segura"}
+{"t": "2026-10-31T17:55+00:00", "estado": "descartar", "temas": ["Madrid"], "clave": "real-madrid-transfer-saga", "motivo": "calidad 6 < 7"}

@@ -693,3 +693,21 @@
 - Kicker: Für rund 2,3 Milliarden Euro: Generali Stadium soll San Siro ersetzen
 - L'Equipe: Au revoir San Siro, bonjour Generali Stadium : l'Inter et l'AC Milan dévoilent leur futur stade commun
 
+## 31/10 18:54 · Kane clinches Ballon d’Or · revisar
+- Motivo: palabra sensible en los titulares: Police
+- Temas: Kane, Harry, Ballon
+- talkSPORT: Where to watch Bayern Munich v Borussia Dortmund as Harry Kane looks to celebrate Ballon d’Or
+- Mundo Deportivo: Niko Kovac tiene la clave para frenar a Harry Kane
+- Foot Mercato: Ballon d’Or : Hansi Flick valide le sacre d’Harry Kane
+- FourFourTwo: Ballon d'Or winner Harry Kane baulks at 'weird' knighthood recognition
+- FourFourTwo: When are Harry Kane and Alexia Putellas playing? How to watch Ballon d'Or winners this weekend
+
+## 31/10 18:55 · Brighton stun City · revisar
+- Motivo: ninguna foto pasó la comprobación de caras / zona segura
+- Temas: Brighton
+- Yahoo: How to watch Manchester City vs Brighton live: Stream, TV, team news, prediction
+- Yahoo: Fabian Hurzeler confirms triple Brighton boost ahead of Man City clash
+- Daily Mail: Meet the Premier League's most-wanted boss on the rise: Fabian Hurzeler, 33, has Brighton flying after eventful summer - including SECOND hair transplant and secret wedding to actress girlfriend
+- FourFourTwo: Watch Man City vs Brighton: Live Streams and TV Channels
+- Yahoo: Man City Starting XI vs Brighton: Confirmed Team News and Predicted Lineup
+
