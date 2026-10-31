@@ -1,32 +1,37 @@
-# Tendencias de fútbol (2026-10-30 18:46 UTC, Google Trends)
+# Tendencias de fútbol (2026-10-31 12:58 UTC, Google Trends)
 
 Generado por el workflow `tendencias`. Úsalo para elegir temas de memes, curiosos y jugador vs jugador.
 
 | País | Búsqueda | Tráfico | Titular |
 |---|---|---|---|
-| UK | le havre - psg | 200+ | Le Havre-PSG : la composition probable des Parisiens avec Digne, Torres et Mayulu titulaires |
-| UK | al-shabab vs al-ahli | 200+ | Al Shabab vs Al Ahli: Saudi Pro League stats & head-to-head |
-| UK | glazer ownership of manchester united | 200+ | How Ratcliffe can buy Glazers out of Man Utd in 2029 |
-| Spain | puertollano | 200+ | El PAT previsto para mañana en la línea Madrid-Andalucía no se podrá realizar ante la petición del s |
-| Spain | real madrid castilla club de fútbol | 200+ | Fin de semana de la cantera |
-| Spain | le havre vs psg | 1000+ | Le Havre - PSG, en directo: Ligue 1, en vivo hoy |
-| Germany | buchbach | 200+ | Licensable picture: GER, TSV 1860 Muenchen vs. TSV Buchbach, Fussball, Regionalliga Bayern, 17. Spie |
-| France | nice foot | 200+ | DIRECT. Nice - Rennes, Ligue 1 : Doublé de Wahi sur penalty ! |
-| France | grenoble – dijon | 500+ | Grenoble - Dijon, Ligue 2, match en direct le 30/10/2026 |
-| USA | nice vs rennes | 500+ | Le 11 du Gym pour affronter le Stade Rennais |
-| USA | le havre - psg | 20000+ | Avec Lucas Digne, Mika Godts et Ferran Torres d'entrée avec le PSG face au Havre, Désiré Doué sur le |
-| Argentina | ligue 1 | 200+ | Communiqué officiel du Racing Club de Lens |
-| Argentina | niza - rennes | 100+ | Nice vs Rennes: French Ligue 1 stats & head-to-head |
-| Argentina | le havre - psg | 10000+ | DIRECT. Lille-Lens: suivez le match de la 9e journée de Ligue 1 en live |
-| Argentina | superclásico del fútbol argentino | 200+ | La fuerte predicción del tarotista de River para el Superclásico: "Un penal..." |
-| Brazil | al shabab riyadh al ahli jeddah 30/10/2026 | 200+ | Al Shabab vs Al Ahli: Saudi Pro League stats & head-to-head |
-| Brazil | mika godts | 200+ | Voorspelling Le Havre vs Paris Saint-Germain: Zullen de bezoekers hun winstreeks voortzetten? |
-| Brazil | nice rennes 30/10/2026 | 1000+ | Nice vs Rennes: French Ligue 1 stats & head-to-head |
-| Brazil | cottbus bochum 30/10/2026 | 200+ | Energie Cottbus heute Abend gegen Bochum: Warum Rösler die Cottbuser Fan-Nähe anspricht |
-| Portugal | le havre ac - psg | 2000+ | DIRECT. Lille-Lens: suivez le match de la 9e journée de Ligue 1 en live |
-| Portugal | acidente vascular cerebral | 500+ | Três sinais de alerta de um AVC que podem salvar uma vida |
-| Mexico | psg vs | 2000+ | Le Havre vs Paris Saint-Germain: French Ligue 1 stats & head-to-head |
-| Mexico | mika godts | 200+ | Godts moet wegvallen concurrent doen vergeten in duel met hekkensluiter |
-| Mexico | al ahli vs | 200+ | How to get Al-Shamal vs Al Ahli tickets: AFC Champions League Elite prices, fixture information, las |
-| Mexico | ligue 1 | 2000+ | Communiqué officiel du Racing Club de Lens |
-| Mexico | rennes vs | 500+ | Preview: Nice vs Rennes - prediction, team news, lineups |
+| UK | talksport | 1000+ | RAJAR Q3 2026: UK radio listening hits all-time high |
+| UK | morgan rogers | 200+ | Morgan Rogers FPL GW9: Buy, Hold or Sell at £8.0m Before Man Utd |
+| UK | man u chelsea | 200+ | Carrick and Fernandes hold clear-the-air talks |
+| UK | chelsea f.c. games | 100+ | Hato ruled out of Manchester United game with back problem as Chavarria returns |
+| UK | talk sport | 200+ | How a goalkeeper looks after their hands: Tape, custom gloves and fingers that look like ‘blood saus |
+| UK | andrey santos | 200+ | Andrey Santos names Man United player who impressed him in Chelsea clash |
+| Spain | reial societat b - girona fc | 500+ | Real Sociedad B - Girona, en directo: LaLigaHypermotion hoy en vivo |
+| Spain | levante vs atlético | 500+ | Posible alineación del Atlético ante el Levante en LaLiga EA Sports |
+| Spain | levante - atlético madrid | 20000+ | Levante - Atlético, en directo: última hora de LaLiga EA Sports, hoy en vivo |
+| Italy | james blunt | 200+ | Celebrity Traitors comes to a climax in nail-biting final |
+| Italy | levante - atlético madrid | 1000+ | Levante vs Atlético de Madrid en vivo: canales, streaming y horarios de LaLiga 2026/27 para México,  |
+| Germany | hoffenheim ii – viktoria köln | 1000+ | Liveticker | SC Verl - SV Wehen Wiesbaden : | 12. Spieltag | 3. Liga 2026/27 |
+| France | équipe du maroc de football | 200+ | Belhanda règle ses comptes avec Regragui : « Je lui en veux toujours » (Riolo Club) |
+| France | fc annecy – montpellier | 2000+ | Annecy - Montpellier, Ligue 2, match en direct le 31/10/2026 |
+| France | équipe du sénégal de football | 500+ | C’est officiel pour le Sénégal |
+| USA | marco palestra | 200+ | Pronostici di vittoria per Chelsea-MU: il supercomputer Opta propende per la squadra di casa. |
+| USA | gamecocks football | 200+ | Game Primer: OU vs. South Carolina - University of Oklahoma |
+| Argentina | chelsea vs manchester united | 100+ | 🔴 [ Premier League ] / Watch Chelsea - Manchester United live on Foot Africa! (Live commentary) |
+| Argentina | levante - atlético madrid | 5000+ | Levante - Atlético, en directo | Última hora de LALIGA EA Sports hoy, en vivo |
+| Argentina | murió patrick stewart | 200+ | Tras la muerte de Patrick Stewart, se viralizó su increíble anécdota con Messi y Antonela Roccuzzo:  |
+| Argentina | chelsea - manchester united | 10000+ | Chelsea vs Manchester United compositions - Premier League 2026/27 |
+| Brazil | marco palestra | 200+ | Palestra tipped to make first Chelsea start but faces Premier League concern |
+| Brazil | bundesliga 2 | 100+ | Darmstadt – Magdeburg heute live: Übertragung im TV & Stream |
+| Brazil | chelsea vs man utd | 500+ | Xabi Alonso confirms Chelsea team news for Manchester United | News | Official Site |
+| Portugal | levante - atlético madrid | 500+ | Levante - Atlético, en directo | Última hora de LALIGA EA Sports hoy, en vivo |
+| Portugal | chelsea - manchester united | 2000+ | Onde ver o Chelsea vs Manchester United em direto: TV e streaming |
+| Portugal | chelsea vs man utd | 500+ | Chelsea vs Manchester United: Premier League preview, team news, stats & head-to-head |
+| Mexico | cine de terror | 200+ | Las mejores películas clásicas de terror para ver en Halloween: de El exorcista y El resplandor a Ca |
+| Mexico | levante - atlético madrid | 2000+ | Levante - Atlético, en directo: última hora de LaLiga EA Sports, hoy en vivo |
+| Mexico | chelsea - manchester united | 10000+ | Chelsea v Man Utd team news: Bruno + Cunha return to XI |
+| Mexico | monterrey - pumas | 2000+ | ¡RAYADAS CELEBRA CON GOLEADA UNA NOCHE ESCALOFRIANTE! |

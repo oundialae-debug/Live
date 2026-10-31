@@ -1,32 +1,28 @@
-# Alertas de noticias (2026-10-30 18:47 UTC)
+# Alertas de noticias (2026-10-31 12:58 UTC)
 
 Temas en >= 7 medios. La rutina diaria y cualquier sesión deben mirar esto ANTES de elegir tema (regla 6: la noticia que todos comentan va primero).
 
 ## Grandes SIN publicar en las últimas 48 h (hacer post si pasa el listón: nada repetido, foto del momento)
 
-- **Chelsea** (15 medios): Chelsea linked with Alexander-Arnold - Friday's gossip
-- **Dowman** (11 medios): Arteta warns Dowman 'we are not in Disneyland' after red card
-- **Arteta** (11 medios): Arteta warns Dowman 'we are not in Disneyland' after red card
-- **Grealish** (11 medios): Grealish dropped over 'breach of club discipline' - what now?
-- **Manchester** (10 medios): PSG claim late point after Shaw penalty to hit Manchester City’s WCL top-four hopes
-- **Disneyland** (9 medios): Arteta warns Dowman 'we are not in Disneyland' after red card
-- **Carrick** (9 medios): Carrick says there are 'no issues' with captain Fernandes
-- **Arsenal** (9 medios): Are Liverpool in the title race? Their match against Arsenal will tell us a lot
-- **Alonso** (9 medios): 'It's a process' - Alonso explains Estevao's lack of minutes
-- **Man** (8 medios): What Howe could bring to Man Utd - and what are the challenges?
-- **Ronaldo** (8 medios): Ronaldo closes in on 1,000th goal with hat-trick
-- **Milan** (8 medios): Inter and Milan unveil plans for new shared stadium to replace San Siro
-- **San** (8 medios): Inter and Milan unveil plans for new shared stadium to replace San Siro
-- **Utd** (7 medios): What Howe could bring to Man Utd - and what are the challenges?
-- **Michael** (7 medios): Arsenal fail at Fleetwood and Michael Carrick clings on
-- **Everton** (7 medios): Jack Grealish career at a crossroads amid Everton disciplinary action
-- **Jack** (7 medios): Jack Grealish career at a crossroads amid Everton disciplinary action
-- **Harry** (7 medios): Where to watch Bayern Munich v Borussia Dortmund as Harry Kane looks to celebrate Ballon d’Or
-- **Bayern** (7 medios): Where to watch Bayern Munich v Borussia Dortmund as Harry Kane looks to celebrate Ballon d’Or
-- **Xabi** (7 medios): &#8216;Doomsday&#8217; &#8211; Jamie O&#8217;Hara stunned as Chelsea fan makes Xabi Alonso sack ultimatum
-- **Havre** (7 medios): Luis Enrique&#39;s incredible new tactical masterstroke against Le Havre 😱
+- **Chelsea** (14 medios): Chelsea v Manchester United: Premier League – live
+- **Villa** (12 medios): Villa to sue Carragher over 'unacceptable insults'
+- **Man** (11 medios): What Howe could bring to Man Utd - and what are the challenges?
+- **Manchester** (11 medios): Chelsea v Manchester United: Premier League – live
+- **Aston** (11 medios): Aston Villa to take legal action against Jamie Carragher for ‘unacceptable insults’
+- **Carragher** (10 medios): Villa to sue Carragher over 'unacceptable insults'
+- **Milan** (10 medios): 'We fell behind' - what does new San Siro deal mean for AC Milan and Inter?
+- **Messi** (10 medios): 8 of Jamie Carragher’s biggest beefs: Aston Villa, Salah, Messi, Ronaldo…
+- **Utd** (9 medios): What Howe could bring to Man Utd - and what are the challenges?
+- **Jamie** (9 medios): Aston Villa to take legal action against Jamie Carragher for ‘unacceptable insults’
+- **Ballon** (8 medios): Suspicious bets returning £149,000 for predicting Ballon d’Or under investigation
+- **Kane** (8 medios): Police called over suspicious Ballon d&#8217;Or bets after Harry Kane triumph as investigation launched
+- **Harry** (8 medios): Police called over suspicious Ballon d&#8217;Or bets after Harry Kane triumph as investigation launched
+- **Madrid** (8 medios): Real Madrid defender considering potential departure amid Chelsea, Man United interest &#8211; report
+- **Arteta** (7 medios): Arteta warns Dowman 'we are not in Disneyland' after red card
+- **Martinez** (7 medios): Papers: Martinez seeking summer Man Utd departure
+- **Arsenal** (7 medios): Arsenal boss Mikel Arteta doubles down on Max Dowman treatment with Disneyland comment
+- **Mbappé** (7 medios): Las curiosidades de los votos del Balón de Oro: Fabián, Mbappé, Messi...
 
 ## Grandes ya cubiertas
 
-- Liverpool (9): Are Liverpool in the title race? Their match against Arsenal will tell us a lot
-- Inter (8): Inter and Milan unveil plans for new shared stadium to replace San Siro
+- Inter (7): 'We fell behind' - what does new San Siro deal mean for AC Milan and Inter?
