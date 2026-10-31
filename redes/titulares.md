@@ -1,4 +1,4 @@
-# Titulares de fútbol (2026-10-31 17:53 UTC, últimas 36 h)
+# Titulares de fútbol (2026-10-31 21:49 UTC, últimas 36 h)
 
 Generado por `scripts/titulares.py` (workflow `tendencias`). Leídos 26 de 34 medios; fuentes en `redes/fuentes.md`.
 
@@ -6,77 +6,80 @@ Generado por `scripts/titulares.py` (workflow `tendencias`). Leídos 26 de 34 me
 
 | Tema | Nº medios | Medios | Ejemplo |
 |---|---|---|---|
-| Carrick | 17 | BBC, Daily Mail, Foot Mercato, Football Italia, FourFourTwo, Google News EN, Kic | Martinez's 'inexplicable' 83 seconds cost Man Utd and Carrick |
-| Chelsea | 16 | BBC, Daily Mail, Foot Mercato, Football Italia, FourFourTwo, Google News EN, Gua | Returning Estevao brings X-factor to strikerless Chelsea |
-| Manchester | 14 | Daily Mail, Foot Mercato, Football Italia, FourFourTwo, Google News EN, Guardian | Ayari on target as Brighton stun Manchester City to close gap on leaders |
-| Man | 13 | BBC, Daily Mail, Foot Mercato, Football Italia, FourFourTwo, Google News EN, Mir | Martinez's 'inexplicable' 83 seconds cost Man Utd and Carrick |
-| Kane | 12 | BBC, Daily Mail, Foot Mercato, FourFourTwo, Google News EN, Infobae, Kicker, L'E | Kane beat Mbappe to Ballon d'Or by just 28 points |
-| Brighton | 12 | Daily Mail, Foot Mercato, FourFourTwo, Google News EN, Guardian, Kicker, Mirror, | Ayari on target as Brighton stun Manchester City to close gap on leaders |
-| Villa | 11 | BBC, Daily Mail, FourFourTwo, Google News EN, Guardian, Kicker, L'Equipe, Mirror | Carragher apologises to Villa for 'wrong' language |
-| Bayern | 11 | Foot Mercato, FourFourTwo, Google News ES, Kicker, L'Equipe, Mundo Deportivo, Re | Where to watch Bayern Munich v Borussia Dortmund as Harry Kane looks to celebrate Ballon d’Or |
-| Utd | 10 | BBC, Football Italia, Google News EN, Mirror, Planet Football, Sky Sports, Teleg | Martinez's 'inexplicable' 83 seconds cost Man Utd and Carrick |
-| Martinez | 10 | BBC, Daily Mail, Foot Mercato, Google News EN, L'Equipe, Mirror, Sky Sports, Yah | Rogers shines, 3/10 for sent-off Martinez - player ratings for Chelsea v Man Utd |
-| Ballon | 10 | BBC, Daily Mail, Foot Mercato, FourFourTwo, Google News EN, Guardian, L'Equipe,  | Kane beat Mbappe to Ballon d'Or by just 28 points |
-| Aston | 10 | Daily Mail, FourFourTwo, Google News EN, Guardian, Kicker, L'Equipe, Mirror, Pla | Jamie Carragher apologises to Aston Villa for ‘clumsy and wrong’ comments |
-| Michael | 10 | Daily Mail, Foot Mercato, FourFourTwo, Google News EN, L'Equipe, Mirror, Planet  | Man United set horror 38-year record as pressure piles on Michael Carrick |
-| Madrid | 10 | AS, Foot Mercato, Football Italia, Google News ES, L'Equipe, Mirror, Mundo Depor | Jose Mourinho 'sad' about Trent Alexander-Arnold as Real Madrid exit claims answered |
-| Mourinho | 9 | AS, BBC, Foot Mercato, Google News EN, Google News ES, Kicker, L'Equipe, Mirror, | 'Best thing is keep your mouth shut' - Mourinho on Mbappe-Mao row |
-| Harry | 9 | Daily Mail, Foot Mercato, FourFourTwo, Google News EN, L'Equipe, Yahoo, ge.globo | Police called over suspicious Ballon d&#8217;Or bets after Harry Kane triumph as investigation launched |
-| Messi | 9 | AS, Google News AR, Google News ES, Infobae, Mundo Deportivo, Ole, Planet Footba | 8 of Jamie Carragher’s biggest beefs: Aston Villa, Salah, Messi, Ronaldo… |
-| Carragher | 8 | BBC, Daily Mail, Google News EN, Guardian, Kicker, Mirror, r/soccer (top día), t | Carragher apologises to Villa for 'wrong' language |
-| Milan | 8 | BBC, Foot Mercato, Football Italia, FourFourTwo, Google News EN, Mirror, Planet  | 'We fell behind' - what does new San Siro deal mean for AC Milan and Inter? |
-| Dortmund | 8 | Foot Mercato, FourFourTwo, Google News ES, L'Equipe, Mundo Deportivo, Record, Ya | Where to watch Bayern Munich v Borussia Dortmund as Harry Kane looks to celebrate Ballon d’Or |
-| Inter | 7 | BBC, Foot Mercato, Football Italia, FourFourTwo, Google News EN, Mirror, talkSPO | 'We fell behind' - what does new San Siro deal mean for AC Milan and Inter? |
-| Bournemouth | 7 | Daily Mail, Foot Mercato, FourFourTwo, Google News EN, Guardian, Sky Sports, Yah | Evanilson profits from costly Trafford blunder as Bournemouth punish Leeds |
-| Sunderland | 7 | AS, Daily Mail, Foot Mercato, FourFourTwo, Google News EN, Guardian, L'Equipe | ‘There’s a new chapter to write’: Le Bris upbeat as Sunderland eye Coventry reunion |
-| Lisandro | 7 | Daily Mail, Foot Mercato, Google News EN, Infobae, Mirror, r/soccer (top día), t | Man United player ratings: 1/10 Lisandro Martinez must make public apology after unforgivable act of self-sabo |
-| Mbappe | 6 | BBC, Daily Mail, Google News EN, Yahoo, r/soccer (top día), talkSPORT | Kane beat Mbappe to Ballon d'Or by just 28 points |
+| Brighton | 14 | BBC, Daily Mail, Foot Mercato, FourFourTwo, Google News AR, Google News EN, Guar | Verbruggen spreads belief as impressive Brighton beat Man City |
+| Villa | 14 | AS, BBC, Daily Mail, FourFourTwo, Google News EN, Google News ES, Guardian, Mirr | Carragher apologises to Villa for 'wrong' language |
+| Inter | 14 | AS, BBC, Foot Mercato, Football Italia, FourFourTwo, Google News AR, Kicker, L'E | 'We fell behind' - what does new San Siro deal mean for AC Milan and Inter? |
+| Manchester | 14 | Daily Mail, Foot Mercato, Football Italia, FourFourTwo, Google News AR, Google N | Ayari on target as Brighton stun Manchester City to close gap on leaders |
+| Carrick | 13 | BBC, Daily Mail, Foot Mercato, Football Italia, FourFourTwo, Google News EN, Gua | Martinez's 'inexplicable' 83 seconds cost Man Utd and Carrick |
+| Kane | 13 | BBC, Daily Mail, Foot Mercato, FourFourTwo, Google News EN, Guardian, Infobae, L | Kane beat Mbappe to Ballon d'Or by just 28 points |
+| Milan | 13 | AS, BBC, Foot Mercato, Football Italia, FourFourTwo, Kicker, L'Equipe, Mirror, M | 'We fell behind' - what does new San Siro deal mean for AC Milan and Inter? |
+| Man | 12 | BBC, Daily Mail, Foot Mercato, FourFourTwo, Google News EN, Mirror, Planet Footb | Martinez's 'inexplicable' 83 seconds cost Man Utd and Carrick |
+| Chelsea | 12 | BBC, Daily Mail, Foot Mercato, FourFourTwo, Google News EN, Guardian, Mirror, Pl | Returning Estevao brings X-factor to strikerless Chelsea |
+| Aston | 12 | AS, Daily Mail, FourFourTwo, Google News ES, Guardian, Mirror, Mundo Deportivo,  | Jamie Carragher apologises to Aston Villa for ‘clumsy and wrong’ comments |
+| Bayern | 12 | AS, Foot Mercato, FourFourTwo, Google News EN, Infobae, Kicker, L'Equipe, Mundo  | Harry Kane in unwanted 14-year first as Borussia Dortmund stun Bayern Munich |
+| Tottenham | 11 | AS, BBC, Foot Mercato, FourFourTwo, Google News EN, L'Equipe, Planet Football, T | Tottenham mood 'totally different' - De Zerbi |
+| Palace | 11 | BBC, Daily Mail, Foot Mercato, FourFourTwo, Google News EN, Guardian, L'Equipe,  | Sage looking for solutions to Palace form |
+| Dortmund | 11 | Foot Mercato, FourFourTwo, Google News EN, Guardian, Infobae, L'Equipe, Sky Spor | European football: Kane misses penalty as Dortmund share spoils in Der Klassiker |
+| Michael | 10 | Daily Mail, Foot Mercato, FourFourTwo, Google News EN, Guardian, L'Equipe, Mirro | Michael Carrick insists he will still be in charge of Manchester United against Roma |
+| Ballon | 9 | BBC, Daily Mail, Foot Mercato, FourFourTwo, Guardian, L'Equipe, Yahoo, r/soccer  | Kane beat Mbappe to Ballon d'Or by just 28 points |
+| Sunderland | 9 | BBC, Daily Mail, Foot Mercato, FourFourTwo, Google News EN, Guardian, L'Equipe,  | Le Bris shrugs off questions on Sunderland future |
+| Crystal | 9 | Daily Mail, Foot Mercato, FourFourTwo, Google News EN, Guardian, L'Equipe, Teleg | Spurs see off Crystal Palace after Mateta’s early red to pile pressure on Sage |
+| Borussia | 9 | Foot Mercato, FourFourTwo, Google News EN, Infobae, L'Equipe, Yahoo, ge.globo, r | Harry Kane in unwanted 14-year first as Borussia Dortmund stun Bayern Munich |
+| Madrid | 9 | AS, Foot Mercato, Google News EN, Mirror, Mundo Deportivo, Ole, Yahoo, ge.globo, | Jose Mourinho 'sad' about Trent Alexander-Arnold as Real Madrid exit claims answered |
+| Utd | 8 | BBC, Google News EN, Mirror, Planet Football, Sky Sports, Telegraph, r/soccer (t | Martinez's 'inexplicable' 83 seconds cost Man Utd and Carrick |
+| Forest | 8 | BBC, Daily Mail, FourFourTwo, Google News EN, Mundo Deportivo, Sky Sports, Yahoo | Glasner fears he will be next Forest sacking if wins don't follow |
+| Everton | 8 | BBC, Daily Mail, FourFourTwo, Google News EN, Guardian, Mirror, Yahoo, talkSPORT | Man Utd held to goalless draw at Everton |
+| Harry | 8 | Daily Mail, Foot Mercato, FourFourTwo, L'Equipe, Yahoo, ge.globo, r/soccer (top  | Harry Kane in unwanted 14-year first as Borussia Dortmund stun Bayern Munich |
+| Barcelona | 8 | AS, Daily Mail, FourFourTwo, Google News AR, Google News ES, Kicker, Yahoo, ge.g | Man United interested in Barcelona star Fermin Lopez as they look to bolster attack after Benjamin Sesko injur |
 
 ## Titulares por medio
 
-**BBC** (22)
+**BBC** (26)
 - Martinez's 'inexplicable' 83 seconds cost Man Utd and Carrick
+- Are De Zerbi's Spurs finding elusive consistency?
+- Verbruggen spreads belief as impressive Brighton beat Man City
+- Maresca's big test is to address mounting Man City issues
+- Glasner fears he will be next Forest sacking if wins don't follow
 - Returning Estevao brings X-factor to strikerless Chelsea
 - 'Best thing is keep your mouth shut' - Mourinho on Mbappe-Mao row
-- Rogers shines, 3/10 for sent-off Martinez - player ratings for Chelsea v Man Utd
+- Sunderland's paradox - San Siro trip amid relegation battle
 - Carragher apologises to Villa for 'wrong' language
-- Kane beat Mbappe to Ballon d'Or by just 28 points
-- Shearer discusses scoring record, MOTD & a brush with Cardiff
-- What Howe could bring to Man Utd - and what are the challenges?
-- Who am I? Plus today's other quizzes
-- Carrick bemoans Man Utd defending in Chelsea loss
-- Alonso praises Estevao response to lack of gametime
-- Carrick says there are 'no issues' with captain Fernandes
+- Rogers shines, 3/10 for sent-off Martinez - player ratings for Chelsea v Man Utd
+- 'Always under pressure' - patience for Nuno wanes at West Ham
+- More goals for Lankshear, home woes for Hammers - Aaron McLean's EFL Takeaways
 
-**Guardian** (19)
-- Tottenham v Crystal Palace: Premier League – live
+**Guardian** (20)
+- Spurs see off Crystal Palace after Mateta’s early red to pile pressure on Sage
 - Ayari on target as Brighton stun Manchester City to close gap on leaders
-- Evanilson profits from costly Trafford blunder as Bournemouth punish Leeds
-- Manchester United crisis deepens with Chelsea defeat and Martínez red card
-- Brentford capitalise as Nottingham Forest’s attacking struggles continue
+- Sakamoto sparks Coventry win to keep 10-man Sunderland rock-bottom
+- Naderi breaks Aberdeen’s resistance as Rangers reach Premier Sports Cup final
+- European football: Kane misses penalty as Dortmund share spoils in Der Klassiker
+- Michael Carrick insists he will still be in charge of Manchester United against Roma
+- Julio Enciso strikes again to earn Ipswich a point against Hull
 - Manchester United miss chance to close on WSL top three in drab draw at Everton
-- Championship roundup: Pressure grows on Nuno as West Ham beaten at home
-- How can playing for Manchester City fit into Marc Guéhi’s moral universe? | Barney Ronay
-- No big deal: how Mac Allister shook off contract doubts to fire Liverpool’s revival
-- Jamie Carragher apologises to Aston Villa for ‘clumsy and wrong’ comments
-- Arteta can take inspiration from George Graham to expunge painful Anfield memories
+- If Mikel Arteta’s dossier is part of a deliberate strategy, it is a dangerous one for Arsenal | Jonathan Wilson
+- Manchester United’s capitulation at Chelsea paints picture of a club that barely exists | Barney Ronay
 - Grealish could have been Everton’s poster boy of a new era. Now his career is in limbo
+- Antonelli set for F1 title, Premier League, and NFL action – follow with us
 
 **Sky Sports** (20)
-- SLC semis: Rangers vs Aberdeen - latest score
-- Fadinger's penalty downs St Mirren to end Motherwell's winless run
-- Chelsea capitalise on second-half implosion to defeat 10-man Man Utd
-- Lankshear scores twice in Boro win
-- Bristol City hit back late to stun Bolton
-- Millwall ease past sorry Derby as Lisbie nets twice
-- Zaman century propels Pakistan to win against Sri Lanka in tri-series final
-- "Incredibly special" - George Boughey reflects on Breeders' Cup success
-- Mexico City GP: Final practice under way amid off-track drama LIVE!
+- England's Mitchell injured as Northampton, Bath, Saracens, Quins pick up Prem wins
+- Alcaraz reaches first Vienna final as De Minaur upsets Zverev
+- Mexico City GP: Verstappen fastest, Hamilton under pressure in Q2 after error LIVE!
+- 'The same s*** situation' - ANGRY Glasner vows to change - or be sacked
+- Norris pips Antonelli in final practice to set up thrilling Mexico qualifying
+- St Johnstone fight back from Steward dismissal to take point at Kilmarnock
+- Spurs beat 10-man Palace to keep up Sage pressure as Eagles fall into drop zone
+- Canelo vs Mbilli LIVE! Munguia overcomes scare to defend world title
+- Watch: Bacio scorches the turf at the Breeders' Cup!
+- SLC semis: Rangers 1-0 Aberdeen - Full Time
 - Bournemouth punish Trafford horror error to sink Leeds
-- Martinez sent off as Man Utd implode against Chelsea
-- Fans turn on Nuno after West Ham lose at home to West Brom
+- Naderi strikes late to send Rangers into League Cup final
 
 **talkSPORT** (40)
+- Manchester United make immediate decision on Michael Carrick&#8217;s future after Chelsea defeat
+- Harry Kane in unwanted 14-year first as Borussia Dortmund stun Bayern Munich
+- Alan Shearer reveals he rejected EFL job before agreeing to become Match of the Day pundit
 - West Ham fans turn on Nuno Espirito Santo amid more Championship misery
 - Man United player ratings: 1/10 Lisandro Martinez must make public apology after unforgivable act of self-sabotage
 - Man United set horror 38-year record as pressure piles on Michael Carrick
@@ -86,12 +89,9 @@ Generado por `scripts/titulares.py` (workflow `tendencias`). Leídos 26 de 34 me
 - Chelsea v Manchester United LIVE commentary: Michael Carrick faces date with destiny in huge Premier League clash
 - Police called over suspicious Ballon d&#8217;Or bets after Harry Kane triumph as investigation launched
 - Fears for Phil Parkinson as Wrexham warned about Championship relegation threat
-- Chelsea star Emi Martinez permanently disfigured from injury and still requires surgery
-- talkSPORT tips – Best football bets and expert advice for Saturday October 31
-- Brentford vs Nottingham Forest betting tips and predictions &#8211; Fancy a score draw in the capital?
 
 **Daily Mail** (39)
-- Spurs vs Palace: Roberto De Zerbi's men seek third straight win after Brighton claimed victory at Man City
+- Angry Oliver Glasner fumes at 's*** situation' in explosive rant: Nottingham Forest boss warns players they need to change or he'll be sacke
 - Lisandro Martinez's self-destruction sums up a broken Man United as Michael Carrick's future hangs by a thread - and there are still questio
 - Jamie Carragher issues apology for telling Aston Villa fans to 'shut the f*** up' - after club's owners threatened former Liverpool defender
 - Chelsea 2-0 Manchester United PLAYER RATINGS: Who was 'sloppy' in possession? Which £70m star 'came up short'? And who is 'coming of age'?
@@ -105,25 +105,29 @@ Generado por `scripts/titulares.py` (workflow `tendencias`). Leídos 26 de 34 me
 - Emiliano Martinez reveals his finger 'won't ever return' to normal after injury left him playing like  a 'zombie' during World Cup: 'I cried
 
 **Mirror** (25)
+- Michael Carrick sack timeline emerges after Chelsea loss sees Man Utd hit 38-year low
+- Michael Carrick future LIVE: Man Utd boss facing sack as Julian Nagelsmann 'contacted'
+- Michael Carrick told Lisandro Martinez can't play for Man Utd again after Chelsea nightmare
 - New footage shows Bruno Fernandes' honest reaction to Man Utd losing at Chelsea
 - Jose Mourinho 'sad' about Trent Alexander-Arnold as Real Madrid exit claims answered
 - Enzo Maresca's words come back to haunt him as Man City's real problem exposed by Brighton
-- Michael Carrick future LIVE: Man Utd boss facing sack as Julian Nagelsmann 'contacted'
 - How to watch Aston Villa vs Fulham – TV channel, live stream and kick-off time
 - Man Utd players have 'lost belief' in Michael Carrick as brutal sack verdict issued
 - How to watch AC Milan vs Inter for free in UK – TV channel, live stream, kick-off time
 - Michael Carrick's one-word response to threat of being sacked by Man Utd today
 - Why is there only one Premier League game on Sunday? Reason for schedule change
 - Michael Carrick past the point of no return as Man Utd stars let him down again vs Chelsea
-- Michael Carrick's telling reaction to Lisandro Martinez red card vs Chelsea says it all
-- Jamie Carragher issues grovelling Aston Villa apology after club threaten legal action
 
-**Telegraph** (1)
+**Telegraph** (3)
+- Tottenham ease to win over Crystal Palace and pile more pressure on Pierre Sage
+- Brighton underline title credentials with impressive win over Man City
 - Man Utd the masters of self-destruction as pressure piles on Carrick
 
 **90min** (0)
 
 **Planet Football** (10)
+- The Premier League table since Tottenham appointed Roberto De Zerbi
+- Sunderland: Six managers who’d keep Black Cats up as Le Bris sack decision beckons
 - What would the Premier League table look like if Man City get kicked out?
 - Famous wondergoals your nan could have scored: Ben Afra, Yeboah, Weah…
 - A celebration of Shaun Bartlett’s Van Basten tribute goal for Charlton
@@ -132,10 +136,9 @@ Generado por `scripts/titulares.py` (workflow `tendencias`). Leídos 26 de 34 me
 - Can you name every player to play for Chelsea and Man Utd in the PL?
 - Ranked: The 10 scariest managers in Premier League history on Halloween
 - 8 of Jamie Carragher’s biggest beefs: Aston Villa, Salah, Messi, Ronaldo…
-- Guti, outrageous backheels and why unfulfilled potential doesn’t matter
-- Planet Football Weekend Quiz: Cristiano Ronaldo, Highbury, Milan derby & more
 
-**FourFourTwo** (32)
+**FourFourTwo** (29)
+- Matthias Jaissle is stuck in a dangerous tactical limbo, and Newcastle United are in for an extremely bumpy ride
 - Watch Aston Villa vs Fulham: FREE streams and TV info
 - How to watch AC Milan vs Inter Milan: Live Streams
 - Ian Wright describes how his unlikely friendship with Roy Keane grew
@@ -144,219 +147,218 @@ Generado por `scripts/titulares.py` (workflow `tendencias`). Leídos 26 de 34 me
 - Watch Bayern Munich vs Borussia Dortmund: FREE streams
 - Watch Hull City vs Ipswich Town: Live Streams and TV info
 - Brentford vs Nottingham Forest: FREE streams and TV channels
-- How to watch Coventry City vs Sunderland: Live Streams
 - How to watch Bournemouth vs Leeds United: Live Streams
+- How to watch Coventry City vs Sunderland: Live Streams
 - Watch Man City vs Brighton: Live Streams and TV Channels
-- Alex Scott on the challenges and sacrifices of breaking into football from Guernsey
 
 **Yahoo** (40)
-- Harry Kane parades Ballon d’Or before Bayern Munich face Borussia Dortmund
-- 🎥 Harry Kane unveils Ballon d&#39;Or to fans ahead of Der Klassiker
-- Red-hot Evanilson finding form at the right time
-- Martinez&#39;s &#39;inexplicable&#39; 83 seconds cost Man Utd and Carrick
-- 🧤 Man City have no answer against rock solid Brighton star
-- Marseille players reject salary cuts amid financial crisis
-- Premier League: Spurs host Palace after wins for Brighton, Coventry, Brentford and Bournemouth
-- Man United sleepwalking towards relegation asks one question: Where is the rage?
-- Manchester City 0 Brighton 1: Enzo Maresca&#8217;s side slump to a defeat they deserved
-- &#8216;He&#8217;s getting better every day&#8217; &#8211; Max Eberl on Vincent Kompany
-- PSG yet to submit offer for Manchester United&#8217;s JJ Gabriel
-- Roma scouting Club Brugge&#8217;s Carlos Forbs but Real Madrid&#8217;s Endrick is priority
+- Are De Zerbi&#39;s Spurs finding elusive consistency?
+- Raphinha scores two more goals and nears Barcelona&#39;s all-time top 20
+- Celtic Braced For January Bids For 25-Year-Old With Man United & Tottenham Interested: Should O’Neill Refuse To Sell?
+- Approach made, massive transfer is on the horizon for Liverpool
+- 📊 Brasileirão on Saturday! See the updated table after the Paraná showdown
+- Three key reasons behind Juventus&#8217; struggles under Luciano Spalletti
+- Verbruggen spreads belief as Brighton continue to impress
+- Roma&#8217;s Bryan Cristante not taking Manchester United for granted ahead of CL clash
+- Roma record 14 different scorers in two months
+- Video: Milan surge into 2-0 lead over Inter within first 10 minutes
+- Brazilian star one step closer to joining Liverpool
+- Raphinha scores brace as stats suggest best is yet to come 📊
 
 **Google News EN** (40)
-- Lisandro Martinez: Manchester United defender condemned for costly red card
-- Live EFL 2026/27 fixtures on Sky Sports | Championship, League One, League Two games, dates, kick-off times
+- Are De Zerbi's Spurs finding elusive consistency?
+- Lisandro Martinez wants to leave Man Utd in the summer with Atletico Madrid interested - Paper Talk | Football News
 - Football accumulator tips: This Week's Acca from Sporting Life for Saturday 31/10/26
-- Final Score
-- Harry Kane won Ballon d'Or by just 28 points from Kylian Mbappe - see how top 10 scored
-- Chelsea 2-0 Manchester United: Michael Carrick post-match interview
 - Chelsea 2-0 Man Utd: Estevao Willian and Morgan Rogers bring X-factor in Premier League win
-- Bournemouth 2-0 Leeds United: Pressure could mount on Farke if wins don't come soon
-- Bournemouth 2-0 Leeds - send us your thoughts
-- Bournemouth 2-0 Leeds United: Red-hot Evanilson finding form at the right time
-- 'We fell behind' - what does new San Siro deal mean for AC Milan and Inter?
-- 'Best thing is keep your mouth shut' - Mourinho on Mbappe-Mao row
+- Manchester City 0-1 Brighton | Premier League highlights
+- European football: Kane misses penalty as Dortmund share spoils in Der Klassiker
+- More goals for Lankshear, home woes for Hammers - Aaron McLean's EFL Takeaways
+- Live EFL 2026/27 fixtures on Sky Sports | Championship, League One, League Two games, dates, kick-off times
+- Glasner fears he will be next Forest sacking if wins don't follow
+- Hull City transfers, latest news, rumours and gossip: Live updates, goals and highlights
+- Premier league: Regis Le Bris shugs off questions on future as Sunderland remain bottom
+- Coventry 3-1 Sunderland: What Regis le Bris said
 
-**AS** (25)
-- Betis - Málaga, en directo: LaLiga EA Sports, en vivo
-- De Frutos y Unai devuelven la alegría a Vallecas
-- “Jugar tres partidos en siete días es un grandísimo regalo que nos hacen”
+**AS** (26)
 - Barcelona - Alavés hoy, en directo: previa y última hora de LaLiga EA Sports, en vivo
-- Real Madrid Castilla - Cartagena en directo: Primera Federación en vivo
-- Resumen y goles del Coventry vs Sunderland, jornada 9 de Premier League
-- Eibar 1 - 1 Almería: resumen, resultado y goles
-- Celta Fortuna - Córdoba CF, en directo: LaLiga Hypermotion, hoy en vivo
-- Tottenham - Crystal Palace, en directo: Premier League, hoy en vivo
-- Primera RFEF hoy, en directo: resultados y partidos de la jornada 10, grupos 1 y 2, en vivo
-- El ‘líder’ no sabe de maldiciones
-- El City se hunde
+- Chispazos de Champions
+- Albacete - Sabadell, en directo: LaLiga Hypermotion, hoy en vivo
+- “Jugar tres partidos en siete días es un grandísimo regalo que nos hacen”
+- Posible alineación del Real Madrid contra el Racing en LaLiga EA Sports
+- Noche de brujas, fábrica de magos
+- Kaká rompe a llorar y deja uno de los momentazos del año
+- Zaragoza - Villarreal B en directo: Primera Federación hoy en vivo
+- Milan - Inter, en directo: Serie A, hoy en vivo
+- Aston Villa - Fulham, en directo: Premier League, hoy en vivo
+- Mazazo para el Bayern
+- De Frutos y Unai devuelven la alegría a Vallecas
 
 **Mundo Deportivo** (40)
-- El Brentford gana sin brillar y hunde al Forest
-- Enciso marca un golazo en el empate del Ipswich ante el Hull City
-- 3-0: Goleada del Rayo al Celta para reconciliarse con Vallecas
-- Rayo Vallecano 3 - 0 Celta de Vigo: resultado, resumen y goles | LaLiga EA Sports
-- Primer mensaje de Eder Sarabia al espanyolismo
-- Barça Atlètic - Arnedo, en directo
-- 0-1: El Brighton se venga del Manchester City y logra un triunfo histórico en el Etihad
-- Real Betis - Málaga, en directo
-- Lucenec - Barça, en directo: Champions League
-- Levante - Atlético: las mejores fotos del partido en el Ciutat de València
-- El Madrid termina de preparar el duelo ante el Racing sin novedades
-- Brugué: "Son errores, pero fallamos todos"
+- Cancelo y Raphinha salen; Baldé y Gabriel.J, entran
+- Evacuado en ambulancia el jugador del Sabadell Quadri
+- El 1x1 del Barça ante el Alavés al descanso
+- Pellegrini: "El marcador no refleja la diferencia entre los dos equipos"
+- Oriol Cardona y el Barça de hockey patines, estrellas en el palco del Spotify Camp Nou
+- Fermín: gol y asistencia exprés al Alavés
+- El Tenerife-Andorra, suspendido por la alerta de fuertes lluvias
+- Raphinha abre la lata otra vez y doblete en la primera parte
+- Minuto de silencio por el accidente de tren y sin Grada d'Animació
+- La Real Sociedad busca trasladar su idilio europeo a la liga en el derbi ante el Alavés
+- 2-2: El Córdoba resiste en inferioridad ante el Celta Fortuna
+- 2-1: El Betis juega con fuego y no se quema.
 
 **Google News ES** (40)
-- Fin a la mala racha
+- Alineaciones FC Barcelona vs Alavés hoy: once inicial y banquillo de suplentes de Hansi Flick y Quique Sánchez Flores para LaLiga 2026/27
+- ~""🟡📽️""~ zbit-vs ~💢[Fútbol en vivo y gratis] Deportivo Alavés vs Barcelona – 1 de noviembre de 2026
+- Victoria contundente
+- ‍*$~[[FÚTBOL!!]!!] Canelo - Mbilli En Vivo y En Directo
+- Sábado de mucho fútbol en Primera Federación Iberdrola
+- ~$$~[[Directo-TV!!] zbit-vs [FÚTBOL EN VIVO] Alavés vs FCB | Noticias de los equipos y momentos destacados
+- [[FÚTBOL]] Barcelona v Alavés EN VIVO y EN DIRECTO Profesional 31 de octubre de 2026
+- ~""🚩🍀""~ zbit-vs [FÚTBOL EN VIVO] Deportivo Alavés vs Barcelona | Noticias de los equipos y momentos destacados
+- Canal y horario del Barcelona - Alavés de LaLiga EA Sports de fútbol: dónde ver por TV el partido de Primera división
+- Brian Fariñas entra en la historia del fútbol de Castellón: el benicarlando debuta oficialmente con el Barça con 20 años
 - Jonathan Viera anuncia su retirada del fútbol a los 37 años
-- Lo nunca visto en el fútbol: piratas informáticos hackean la web del Corinthians y anuncian el fichaje de Leo Messi
-- Lágrimas por la retirada de Jonathan Viera: «Gracias fútbol, me llevaste de mi tierra al mundo»
-- Betis vs Málaga: horario y dónde ver hoy por TV y online el partido de LaLiga 2026/27 a través de DAZN
-- Borja Jiménez: "Debemos estar vivos en los partidos"
-- Horario y dónde ver el AD Ceuta-Sporting de Gijón: fútbol en el día de La Mochila
-- Jonathan Viera anuncia su retirada del fútbol a los 37 años
-- La lista para el Derbi
-- José Mourinho tira de ironía para criticar el apretado calendario del Real Madrid en LALIGA: "Es un grandísimo regalo que nos hacen..."
-- Bayern de Munich – Borussia Dortmund el partido de fútbol de la jornada 8 de la Bundesliga, en directo
-- Escribá suma efectivos para cortar el «problema de fútbol» de la Copa
+- ¡Miguel Ángel Espadas da el salto al fútbol profesional y ficha por el Cádiz CF!
 
 **Gazzetta** (0)
 
 **Football Italia** (20)
-- Spalletti: ‘Juventus have to do something different, I’ve been through it before’
+- Serie A | Milan 3-1 Inter: Diego Moreira inspiration for derby success
 - Serie A Liveblog: Milan vs. Inter, Udinese vs. Roma, Bologna vs. Monza
-- Fabregas: ‘Venezia will be difficult for Como, Kean injury happened with Italy’
-- Roma director D’Amico shrugs off Napoli, Endrick and Allegri controversy
-- Serie A official line-ups: Udinese vs. Roma
-- Serie A | Bologna 2-1 Monza: Skorupski to the rescue for third straight victory
-- Carrick confident he will be Manchester United manager against Roma on Nov 3
-- Serie A returns to British TV tonight: Watch Milan vs. Inter live on BBC2
-- Zambrotta unusual surgery for Italy’s 2006 World Cup winner
-- Ramon targeted by Arsenal, Chelsea and Manchester United, but Como and Real Madrid have control
-- Gattuso: ‘Incidents went against Italy, but enthusiasm fuel for Lazio’
-- Pulisic joins Milan’s top earners as Rossoneri turn attention to Rabiot and Cisse renewals
+- Video: Milan surge into 2-0 lead over Inter within first 10 minutes
+- Milan have agreement in principle for new Head of Football Krösche
+- Runjaic: ‘A dark evening for Udinese, it’s not up to me to decide on my future’
+- De Winter: ‘Milan trust our solid base’ against surprising Inter formation
+- Marotta: ‘Milan vs. Inter an advertisement for Italian football’
+- Gasperini: ‘Numbers count, Roma are scoring a lot of goals, a good signal’
+- Calhanoglu: ‘Inter must avoid Milan provocation’ in tense derby
+- Cardinale: ‘Bring Milan back to the top, I’m sticking with Amorim’
+- Serie A | Udinese 2-5 Roma: Job done in first 37 minutes
+- Serie A official line-ups: Milan vs. Inter
 
 **Kicker** (20)
-- Eberl: "Kompany ist wirklich abgeschottet"
-- "Es ist eine Scheißsituation": Schalke kämpft mit der Torflaute
-- Udinese - Roma: Tor zum 0:4 durch Ndicka in der 37. Minute
-- Torwart clever verladen: Malen trifft zum 3:0 für die Roma
-- Udinese - Roma: Tor zum 0:2 durch Rodrigo Mora in der 31. Minute
-- LIVE! Topspiel in München: Olise jagt den Ball an den Pfosten - Bellingham sieht die erste Gelbe
-- Baumann knackt die 200: Die Spieler mit den meisten Bundesliga-Niederlagen
-- Aston Villa kündigt rechtliche Schritte gegen Carragher an
-- Hirsch hadert mit Referee: "Eigentlich eine klare Rote Karte"
-- Udinese - Roma: Tor zum 0:1 durch Cristante in der 10. Minute
-- Nach Kritik an Karl: Berater Ballack kontert Eberl und Hoeneß
-- Lobinger bedient: "Dass so eine Mannschaft kicken kann, sollte jedem bewusst sein"
+- Im Derby gegen Milan: Inter kassierte erste Saison-Niederlage
+- Barcelona - Alaves: Tor zum 5:0 durch Lamine Yamal in der 64. Minute
+- Wanitzek trifft traumhaft: Karlsruhe schlägt Heidenheim und klettert
+- "Teures Unentschieden" für Bayern - und was dem BVB Mut macht
+- Troyes - Le Mans: Tor zum 2:0 durch Boura in der 71. Minute
+- Schlotterbeck: "Wir werden in Deutschland immer noch unterschätzt"
+- Danks über Saibari: "Knöchelverletzung sieht ziemlich ernst aus"
+- Baum und die Brandrede: "Was mir mega stinkt …"
+- Kimmich: "Gerade auf dem Platz muss ich an meinen Vater denken"
+- Traumhafte Direktabnahme: Lamine Yamal erhöht sehenswert auf 4:0
+- Barcelona - Alavés: Tor in der 41. Minute
+- Bayern bangt um Saibari und Gnabry - Auch Olise muss runter
 
 **L'Equipe** (40)
-- Eli Junior Kroupi offre une splendide passe décisive pour sa deuxième sortie de la saison en Premier League
-- Manchester City chute encore, Sunderland s'enfonce
-- Kane de retour dans le onze du Bayern contre Dortmund
-- Quelques jours avant de passer la main, le président du Paris FC Pierre Ferracci sera honoré dimanche
-- « On n'est pas au Vélodrome là, dites-lui ! » : une semaine après la remontrance de Bruno Genesio, comment Keyliane Abdallah a vécu son reto
-- Seulement sept points en huit journées, la pire défense de Ligue 1 : à Strasbourg rien n'incite à l'optimisme, à part le calendrier
-- Au repos pour soigner une méningite, Vincent Kompany est interdit de parler foot avec ses adjoints : « Nous prenons la situation très au sér
-- Où voir Bayern-Dortmund ?
-- Butelle : «Et là, devant les caméras, Emery vient faire son cinéma »
-- Bastia renoue avec la victoire en Ligue 3 après le départ de Laurent Peyrelade, Caen freiné par Le Puy-en-Velay, Versailles cartonne Aubagne
-- Les gardiens de but peuvent-ils s'ennuyer ?
-- Diego Simeone égale le record de victoires en Liga pour un entraîneur
+- Les Verts tombent de haut sur la pelouse de Guingamp
+- Un but, un penalty raté puis un carton rouge pour un geste obscène : la drôle de soirée d'Allan Saint-Maximin en MLS
+- L'inspiration d'Adrien Rabiot pour marquer avec l'AC Milan dans le derby contre l'Inter en Serie A en vidéo
+- Mbappé impassible malgré la frustration et la polémique
+- Le Havre officialise la démission de Jean-Michel Roussier et la mise à pied de Didier Digard, remplacé par Jaïr Karam
+- Les mille facettes de l'aventure olympienne d'Harit
+- Troisième victoire en trois matches pour les Girondins de Bordeaux en Régional 1
+- Maresca regrette les occasions manquées contre Brighton
+- Longue absence pour Rafik Messali, Sion Oppong de retour avec Toulouse contre l'OM
+- Michael Olise sorti sur blessure avec le Bayern Munich à une semaine de retrouver les Bleus
+- Encore battu, à Tottenham, le Crystal Palace de Pierre Sage est désormais relégable en Premier League
+- Le Bayern Munich accroché par le Borussia Dortmund, Harry Kane pas vraiment à la fête
 
 **Foot Mercato** (40)
-- Harry Kane présente son Ballon d’Or avant Bayern-Dortmund
-- Real Madrid : José Mourinho adresse un message de soutien aux victimes de l’accident ferroviaire d’Urda
-- L’Atlético de Madrid est en train de terrifier la Liga !
-- PL : Man City tombe contre Brighton, Sunderland s’écroule encore, Bournemouth enchaîne
-- Le Havre : après Digard, le président Jean-Michel Roussier sur le départ
-- Bayern Munich - Borussia Dortmund : les compositions officielles
-- Bundesliga : Leipzig enchaîne, Fribourg se relance, victoire spectaculaire de Stuttgart à Leverkusen
-- Le Barça répond à MU pour Fermín López
-- Ligue 3 : La Roche, Rouen et Versailles creusent l’écart sur Caen
-- Le Havre vire Didier Digard !
-- MU : l’annonce de Michael Carrick sur son avenir
-- Manchester United : Lisandro Martinez, le donneur de leçons qui a plombé son équipe
+- Serie A : l’AC Milan fait chuter l’Inter pour la première fois de la saison
+- Ligue 1 : Troyes s’impose logiquement face au Mans et sort de la zone rouge
+- Portugal : gros coup dur pour Jorge Jesus avant le prochain rassemblement
+- Le Real Madrid va céder face à Endrick…
+- R1 : Bordeaux écrase Boé-Bon-Encontre et poursuit sa belle série !
+- Ligue 2 : Guingamp écrase le leader Saint-Étienne
+- AC Milan : le sublime coup franc de Diego Moreira contre l’Inter
+- Le Ballon d’Or Harry Kane dans le dur, trois titulaires blessés : la sale soirée du Bayern Munich
+- OM : Keyliane Abdallah vit un retour compliqué en réserve après sa sanction
+- Le Havre annonce la mise à pied de Didier Digard
+- Équipe de France : Wesley Fofana, un candidat de plus dans le casse-tête défensif de Zidane ?
+- JT Foot Mercato : la crise continue pour Bruno Fernandes et Manchester United
 
 **Record** (20)
-- <![CDATA[ Nuno Borges vence e está a um passo do quadro principal do Masters 1.000 de Paris ]]>
-- <![CDATA[ Leça vence em casa diante de um Varzim em dificuldades  ]]>
-- <![CDATA[ Literacia financeira: de ator secundário a protagonista ]]>
-- <![CDATA[ Udinese-Roma, em direto ]]>
-- <![CDATA[ Bayern Munique-Borussia Dortmund, em direto ]]>
-- <![CDATA[ Manchester City: justiça ou suicídio ]]>
-- <![CDATA[ Jaime Faria a fazer história no ténis português: «É um privilégio estar neste grupo» ]]>
-- <![CDATA[ Gustavo Varela fatura na Serie A pelo quarto jogo seguido e lidera lista de marcadores ]]>
-- <![CDATA[ Amarante-FC Porto B, 2-1: golo nos descontos dá triunfo aos alvinegros ]]>
-- <![CDATA[ Portimonense-Torreense, 0-0: pouca emoção dá nulo justo ]]>
-- <![CDATA[ Manchester City tropeça em casa com o Brighton e encaixa segunda derrota seguida na Premier League ]]>
-- <![CDATA[ Paulo Almeida após Benfica alcançar final da Elite Cup feminina: «Vitória é mais do que justa» ]]>
+- <![CDATA[ FC Porto-Estoril, 1-0 (2.ª parte) ]]>
+- <![CDATA[ Bruninho resolve na compensação e mantém Belenenses na liderança da Série B da Liga 3 ]]>
+- <![CDATA[ O golaço de livre de Diego Moreira no dérbi com o Inter Milão ]]>
+- <![CDATA[ Elite Cup: transmissão em direto do UD Oliveirense-FC Porto ]]>
+- <![CDATA[ Froholdt fez o primeiro do FC Porto frente ao Estoril:  Pepê estava em jogo por 7 centímetros ]]>
+- <![CDATA[ Sporting mostra bastidores: conheça os segredos da vitória frente ao Casa Pia ]]>
+- <![CDATA[ Baixa de peso do Shakhtar frente ao Sporting: Pedrinho foi operado ]]>
+- <![CDATA[ Benfica B-Chaves, 3-1: golos nos minutos finais decidem jogo ]]>
+- <![CDATA[ U. Leiria-AVS, 2-1: autogolo de Rodrigo Pinho oferece a vitória aos unionistas ]]>
+- <![CDATA[ Sporting goleia MNK Olmissum e fecha grupo 3 da Champions só com vitórias ]]>
+- <![CDATA[ Miguel Cardoso goleia na África do Sul ]]>
+- <![CDATA[ Atlético segue imparável em casa e não desarma da luta pelo primeiro lugar da Liga 3 ]]>
 
 **Ole** (10)
-- La decisión que tomó la FIA con Isack Hadjar tras haber empujado a un fan en el GP de México
-- El marcado contraste entre los jugadores de River que tendrán su primer superclásico
-- ¿Qué dijo Carrick tras la expulsión de Licha Martínez en una nueva derrota del United?
-- Hackearon al Corinthians y anunciaron a Lionel Messi como refuerzo
-- Verstappen y Lawson pagarán en la parrilla del GP de México su choque en la práctica
-- Así llega Paredes al Súper y así lo piensa el Vasco para ganarle el medio a River
-- Simeone: la impactante marca que alcanzó en España y "esto es paso a paso"
-- La Conmebol confirmó el horario para la final de la Libertadores entre Estudiantes y Palmeiras
-- El empujón de Hadjar a un fan en la Fórmula 1 tendrá consecuencias: lo citaron a declarar
-- De casi llegar a Boca a ser convencido de pasar a River: la anécdota retro de Ponzio en sus inicios como jugador
+- Con el arquero Durante como héroe, River le ganó en los penales al Atlético de Madrid y está en la final de la Messi Cup
+- Vélez vs. San Lorenzo, hoy EN VIVO, por el Torneo Clausura: horario y cómo ver
+- River en la Messi Cup: ¿cuándo es la final y por dónde ver?
+- Franco Colapinto en la clasificación del GP de México, EN VIVO: cómo va y dónde ver la F1
+- Los memes contra Ferro tras empatar ante Acassuso y caer al Reducido
+- La alocada definición de la Primera Nacional que terminó con Godoy Cruz y Tristán Suárez en la final por el ascenso
+- La final de la Primera Nacional: cómo y cuándo se juega
+- Franco Vivian dominó la qualy y se llevó la pole del TC2000 en General Roca
+- Godoy Cruz y Tristán Suárez jugarán la final del Nacional por el ascenso a Primera
+- La racha de Ramón Díaz, Gallardo y Demichelis que Ponzio buscará estirar frente a Boca
 
-**Infobae** (35)
-- Antes de la clasificación, Franco Colapinto afronta la última práctica libre del Gran Premio de México de la Fórmula 1
+**Infobae** (40)
+- Franco Colapinto avanzó a la Q2 en la clasificación del Gran Premio de México de la Fórmula 1
+- Godoy Cruz y Tristán Suárez jugarán la final por el primer ascenso a la Liga Profesional: Ferro empató y dejó pasar una chance histórica
+- El minuto de locura que dejó a Ferro sin final y metió a Godoy Cruz en la pelea por volver a Primera
+- El gol agónico del Borussia Dortmund para empatar con el Bayern Múnich en el clásico de la Bundesliga: el festejo cara a cara de los fanátic
+- Revelaron los primeros detalles de la repentina salida de Esteban Ocon de Haas en pleno Gran Premio de México: el cruce por radio
+- Julia Riera dio vuelta un partido increíble ante Solana Sierra y se metió en las semifinales del WTA de Curitiba
+- Tras salvarse del descenso, Deportivo Riestra recibe a Talleres por la fecha 15 del Torneo Clausura
+- La guía de Franco Colapinto a Lewis Hamilton para preparar un mate durante el Gran Premio de México de la Fórmula 1
+- Así está la clasificación a las copas internacionales de 2027 y la Tabla Anual
+- “Nuestras vidas quedaron patas arriba”: Christian Horner relató cómo su esposa lo sostuvo durante el escándalo que sacudió a la Fórmula 1
 - Furor en Europa por la actuación del fisicoculturista japonés de 90 años en una competencia: los detalles secretos de su dieta
 - La expulsión de Lisandro Martínez en la derrota que dejó al Manchester United al borde de la zona de descenso: la respuesta del DT sobre su 
-- Con partidos clave para la clasificación a las copas, sigue la actividad del Torneo Clausura: hora, TV y formaciones
-- Shock en la Fórmula 1: Haas bajó a Esteban Ocon de su butaca para el Gran Premio de México y estallaron los rumores
-- Las posibles formaciones de Boca Juniors y River Plate para el Superclásico del domingo en la Bombonera
-- Se confirmaron los horarios de las finales de las Copa Sudamericana y Libertadores
-- Un periodista de Egipto que votó en el Balón de Oro aseguró que excluyó a Lionel Messi de su Top 10 por “Fair Play”
-- La penalización en la grilla a Verstappen y Lawson tras el “torpe” incidente en la práctica del GP de México: el provocador mensaje de Max
-- Se develó el sorpresivo voto de Lionel Messi para el Trofeo Kopa en la premiación del Balón de Oro
-- Comienzan los Juegos Olímpicos de la Juventud Dakar 2026, los primeros de la historia en África: calendario, cómo verlos y la delegación arg
-- Aldosivi descendió de la Liga Profesional: el cruce del DT con un periodista que le hizo una agresiva pregunta entre lágrimas
 
 **Google News AR** (40)
 - Neuquén se despidió con bronce en fútbol y básquet femeninos
-- Luto. Dolor en el fútbol cordobés: falleció Natalia López, capitana y referente de Universitario.
+- Histórico: el increíble récord que logró Simeone en el fútbol español
+- Dolor en el fútbol cordobés: murió Natalia López, capitana de Universitario octubre 2026
+- Luto. Dolor en el fútbol cordobés: falleció Natalia López, capitana y referente de Universitario
+- Liga Regional de Fútbol. Sub 15 femenina: Blanco y Negro defendió la punta e Independiente (SJ) es su nuevo escolta
+- Murió Natalia López, capitana histórica de Universitario y referente del fútbol cordobés, a los 33 años
+- Conmoción por la muerte de una capitana y símbolo de un club de Córdoba
+- Fútbol local: La Emilia ganó en Ramallo y se afianza en el liderazgo - Diario El Norte
+- El triunfo y la clasificación, en Fotos
 - La Liga Tandilense de Fútbol celebrará el aniversario de la Copa País en el Festival Chacinar
-- El Albirrojo abrió la inscripción para el torneo de Baby Fútbol
-- Partidos de HOY, sábado 31 de octubre: horario y por dónde ver fútbol EN VIVO :: Olé - ole.com.ar
-- Sigue rodando la pelota en el Baby Fútbol
-- Qué es el SAOT, la tecnología que llega al fútbol argentino para detectar el offside - Mi 8
-- Baby Fútbol: se juega la fecha 16 del Clausura 2026 y se acerca la definición
-- El inesperado regreso de la Lazio a lo más alto del fútbol italiano
-- Fútbol Solidario por las familias de los barrios Itatí y Quinta Ferré
-- Por séptimo año consecutivo, el Balance fue aprobado con superávit
-- Halloween tiene su propio fantasma en el fútbol argentino: el de la B que persigue a River
+- Esquel: La Escuela Municipal de Fútbol Caminando se quedó con el primer puesto en Barcelona
+- Fútbol libre de riesgo, EN VIVO: ver Inter Miami vs. New England por TV y ONLINE
 
 **ge.globo** (40)
-- Pedrinho diz que Vasco se surpreendeu com comunicado de Flamengo e Fluminense: “Se acham espertos”
-- Escalação: Palmeiras fecha trabalhos para enfrentar Vasco e pode ter Vitor Roque titular
-- Vinicius de Medeiros anuncia candidatura à presidência do São Paulo
-- Harry Kane apresenta a Bola de Ouro à torcida do Bayern de Munique antes de clássico alemão
-- São Bernardo reúne sete ex-jogadores do Cuiabá; Wesley Dias atuou pelo rival
-- Andrés Gomez está fora da partida do Vasco contra o Palmeiras
-- Racing Santander x Real Madrid em LaLiga: onde assistir ao vivo e horário
-- Santa Fe x Olimpia - Taça Libertadores Feminina 2026 - globoesporte.com
-- Barcelona x Alavés - Campeonato Espanhol 2026/27 - globoesporte.com
+- Barcelona x Alavés - Campeonato Espanhol 2026/27 - Ao vivo - globoesporte.com
+- Santa Fe x Olimpia - Taça Libertadores Feminina 2026 - Ao vivo - globoesporte.com
+- Fluminense supera fama de "Robin Hood", mas sofre em confrontos diretos
+- Eleições do Vasco: Sérgio Frias lança candidatura à presidência do clube
+- Kaká entra para o Hall da Fama do Milan e se emociona com homenagem da torcida
+- Vasco chega a São Paulo para enfrentar o Palmeiras na Copa do Brasil; veja a provável escalação
+- Viralizado nas redes, DJ Lukão revela amor pelo Vasco e sonho de ser campeão
+- Kane perde pênalti, e Bayern sofre empate do Borussia Dortmund no fim
+- Atlético-MG x Boca Juniors: Conmebol muda horário da final da Copa Sul-Americana
+- Cuiabá x São Bernardo: onde assistir ao vivo, horário e escalações
 - Brighton apronta de novo, vence o City fora e se mantém na caça aos líderes
-- Chelsea bate o Manchester United, e Estêvão é titular e tem dois gols anulados
-- Copa Maria Bonita confirma nova data e nove clubes para edição de 2026
+- Escalação do Atlético-MG: Barba tem volta de dois titulares, mas perde Reinier para duelo com Grêmio
 
 **r/soccer (top día)** (25)
-- Woltemade playing with a Ball Boy.
 - Bayern Munich enforces football ban for Kompany - he is not allowed to talk about tactics and lineups with his assistant coaches. This means
-- Nico Paz mid-air control
 - Lisandro Martínez red card 63' (+ref cam)
 - The creator of the Mbappé meme: "I was planning a trip to China, I hope they don't have anything against me"
-- 2026 Ballon d'or ranking with points
 - Man Utd have zero wins in nine games
 - Penders fingertips save on Mbeumo's shot 90+1'
-- After Mbappe's comments, one of the 2 broadcasters (CCTV) that offers LaLiga in China has decided not to show any matches, while the other (
+- Harry Kane presenting his Ballon d'Or in front of the Allianz Arena before the match vs Dortmund
+- Jean-Philippe Mateta red card against Tottenham 12'
+- Xavi on Ronaldinho's short longevity as a top player "It was a mentality issue. After he won everything (LaLiga, Champions League, World Cup
+- Bayern Munich [1] -0 Borussia Dortmund - Konrad Laimer 38' (Playmobil stream)
 - [The Athletic] Aston Villa to initiate legal action against Jamie Carragher for ‘unacceptable insults’
-- The 28 points margin between Kane and Mbappe for the Ballon d’Or is the 4th closest in the award’s 70 year history and the second closest in
+- Bruno Fernandes left in tears as Man United captain fails to record a goal contribution in last 8 matches.
 - Unai Simón "As long as they want me, I'm not leaving Bilbao. In terms of celebrations after winning, the WC got nothing on the Copa Del Rey.
 
 Fallaron: ESPN (ParseError), Goal (HTTPError), Independent (ParseError), Football365 (HTTPError), Marca (HTTPError), Sport (HTTPError), Calciomercato (HTTPError), TN (HTTPError)
