@@ -1,5 +1,5 @@
 {
- "red": "instagram",
+ "red": "tiktok",
  "hora": "2026-10-31T01:06:47+01:00",
  "tipo": "post",
  "partido": "Lille-Lens",
@@ -8,5 +8,9 @@
  "recordatorio": false,
  "musica": "hh08",
  "variante": "seg=2.8;arranque=s0;hook=dato;musica=hh08;formato=auto_post",
- "notas": "post-partido automático (futbol-pipeline 1321435286, 6 tarjetas)"
+ "notas": "post-partido automático (futbol-pipeline 1321435286, 6 tarjetas)",
+ "titulo": "Lille 1-0 Lens | Expected goals: 1.7 vs 0.2, Lille created more.",
+ "estado": "enviado",
+ "buffer_id": "6ae53066b84259308baac6e1",
+ "dueAt": "2026-10-31T00:06:49+00:00"
 }
