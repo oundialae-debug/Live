@@ -1,11 +1,5 @@
 {
- "en_curso": {
-  "1321435286": {
-   "arranque": "s0",
-   "musica": "hh08",
-   "tarjetas": 6
-  }
- },
+ "en_curso": {},
  "partidos": {
   "-6106234": {
    "arranque": "s1",
@@ -111,6 +105,18 @@
    "resultado": "0-0",
    "tarjetas": 6,
    "video": "https://raw.githubusercontent.com/oundialae-debug/live/main/media/post_partido/2026-10-11_Como_AS_Roma.mp4"
+  },
+  "1321435286": {
+   "arranque": "s0",
+   "estado": "en_cola",
+   "fecha": "2026-10-30",
+   "hora": "2026-10-31T00:03:31+00:00",
+   "musica": "hh08",
+   "partido": "Lille-Lens",
+   "publicar": "2026-10-31T01:06:47+01:00",
+   "resultado": "1-0",
+   "tarjetas": 6,
+   "video": "https://raw.githubusercontent.com/oundialae-debug/live/main/media/post_partido/2026-10-30_Lille_Lens.mp4"
   },
   "1325368608": {
    "arranque": "s1",

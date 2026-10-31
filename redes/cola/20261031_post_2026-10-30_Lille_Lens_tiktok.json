@@ -1,0 +1,13 @@
+{
+ "red": "tiktok",
+ "hora": "2026-10-31T01:06:47+01:00",
+ "tipo": "post",
+ "partido": "Lille-Lens",
+ "text": "Lille 1-0 Lens\nExpected goals: 1.7 vs 0.2, Lille created more. Did the better team win?\n\n#football #Ligue1 #Lille #Lens #fulltime",
+ "video": "https://raw.githubusercontent.com/oundialae-debug/live/main/media/post_partido/2026-10-30_Lille_Lens.mp4",
+ "recordatorio": false,
+ "musica": "hh08",
+ "variante": "seg=2.8;arranque=s0;hook=dato;musica=hh08;formato=auto_post",
+ "notas": "post-partido automático (futbol-pipeline 1321435286, 6 tarjetas)",
+ "titulo": "Lille 1-0 Lens | Expected goals: 1.7 vs 0.2, Lille created more."
+}
