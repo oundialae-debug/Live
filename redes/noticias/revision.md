@@ -675,3 +675,21 @@
 - Yahoo: Arsenal notch their 1st win at Messi Cup
 - Yahoo: Arsenal are one of the clubs considering move for Serie A wonderkid
 
+## 31/10 13:59 · Villa to sue Carragher · revisar
+- Motivo: categoría sensible: legal
+- Temas: Villa, Aston
+- Sky Sports: Why Aston Villa was the perfect destination for Jackson
+- Google News AR: Fútbol Juvenil: Se jugará la Final Región Litoral Sur Sub 15 en Paraná y el Provincial Sub 14 en Villa Ocampo
+- Sky Sports: How Suzuki has wowed Villa fans since replacing Martinez
+- talkSPORT: FPL Gameweek 9 Differentials including Rayan and surprise Aston Villa and Tottenham stars
+- Yahoo: Aston Villa Set To Reward This Veteran Defender: Is Emery Right To Keep Him?
+
+## 31/10 13:59 · San Siro to become Generali · revisar
+- Motivo: datos que no salen en los titulares: 2.3, Construction
+- Temas: San
+- AS: Opción de Champions para la Real Sociedad en San Mamés
+- Google News ES: El nuevo templo del fútbol europeo: ya es oficial el relevo del emblemático San Siro
+- Football Italia: Today’s Papers – Cardinale defends Amorim, Juventus blame the players, new San Siro
+- Kicker: Für rund 2,3 Milliarden Euro: Generali Stadium soll San Siro ersetzen
+- L'Equipe: Au revoir San Siro, bonjour Generali Stadium : l'Inter et l'AC Milan dévoilent leur futur stade commun
+

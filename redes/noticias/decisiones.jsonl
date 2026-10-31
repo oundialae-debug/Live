@@ -155,3 +155,6 @@
 {"t": "2026-10-30T18:48+00:00", "estado": "revisar", "temas": ["Arteta", "Dowman"], "clave": "max-dowman-red-card", "motivo": "datos que no salen en los titulares: 3"}
 {"t": "2026-10-30T18:48+00:00", "estado": "revisar", "temas": ["Alonso"], "clave": "xabi-alonso-controversy", "motivo": "palabra sensible en los titulares: guerra"}
 {"t": "2026-10-30T18:48+00:00", "estado": "revisar", "temas": ["Arsenal", "Messi"], "clave": "arsenal-messi-cup-win", "motivo": "palabra sensible en los titulares: Bombonera"}
+{"t": "2026-10-31T12:59+00:00", "estado": "revisar", "temas": ["Villa", "Aston"], "clave": "villa-carragher-legal", "motivo": "categoría sensible: legal"}
+{"t": "2026-10-31T12:59+00:00", "estado": "revisar", "temas": ["San"], "clave": "san-siro-generali", "motivo": "datos que no salen en los titulares: 2.3, Construction"}
+{"t": "2026-10-31T12:59+00:00", "estado": "descartar", "temas": ["Bruno"], "clave": "genesio-om-lobby", "motivo": "importancia 5 < 7"}
