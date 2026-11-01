@@ -1,32 +1,38 @@
-# Tendencias de fútbol (2026-11-01 13:42 UTC, Google Trends)
+# Tendencias de fútbol (2026-11-01 19:05 UTC, Google Trends)
 
 Generado por el workflow `tendencias`. Úsalo para elegir temas de memes, curiosos y jugador vs jugador.
 
 | País | Búsqueda | Tráfico | Titular |
 |---|---|---|---|
-| UK | lamine camara | 200+ | Transfer rumors, news: Dortmund's Nmecha among Liverpool's midfield targets |
-| Spain | racing real madrid | 100+ | China cumple su amenaza y 'borra' al Real Madrid y a Mbappé |
-| Spain | a qué hora juega el madrid | 1000+ | Racing Santander - Real Madrid, en directo: LaLiga EA Sports, hoy en vivo |
-| Italy | cittadella - treviso | 500+ | Cittadella-Treviso, domenica torna il derby atteso da 17 anni |
-| Italy | lazio - cagliari | 10000+ | LIVE Alle 15 Lazio-Cagliari, le ufficiali: Gattuso con Sutalo-Provstgaard in difesa, Pisacane confer |
-| Italy | frosinone - torino | 2000+ | Frosinone-Torino, formazioni ufficiali: fuori Oyono, ci sono Bragança e Adams |
-| Germany | 2. bundesliga heute | 1000+ | Hertha BSC: Crash-Test! Torschütze Grönning jubelt mit dem Pfosten |
-| Germany | rb salzburg – austria lustenau | 200+ | Liveticker | RB Salzburg - Austria Lustenau : | 11. Spieltag | Admiral-Bundesliga 2026/27 |
-| Germany | dfb pokal frauen | 500+ | DFB-Pokal - Unioner Wahnsinn beim HSV sorgt für Pokal-Premiere - Sport - SZ.de |
-| Germany | porto | 200+ | Maria Negrão aponta à vitória do FC Porto: “Estamos com muita vontade de voltar a somar vitórias” |
-| France | strasbourg – auxerre | 2000+ | Strasbourg - Auxerre, Ligue 1, match en direct le 01/11/2026 |
-| France | paris fc – psg | 2000+ | DIRECT. Paris FC (F) - Paris-SG (F), Arkema Première Ligue (F) : Le match commence ! |
-| USA | nyc marathon live stream | 200+ | ‍‍FREE~[𝐒𝐓ream]here's*! Watch 2026 NYC Marathon Online Without Cable |
-| Argentina | como fc | 200+ | Ternana-Como 1907 1-1 | Match Report Serie A Women |
-| Argentina | getafe - sevilla | 1000+ | Getafe vs Sevilla, en vivo, por La Liga de España: minuto a minuto y qué canal pasa el partido por T |
-| Argentina | levante badalona - barcelona | 200+ | ACT. (Previa) Barça y Real Madrid visitan al FC Badalona Women y al Sevilla FC en la Liga F Moeve |
-| Brazil | rb salzburg x austria lustenau | 200+ | ‍!$>[LIVE!#Ansehen]* Lustenau - RB Salzburg im live Übertragung! Champions League live im tv 1. Nove |
-| Brazil | getafe | 200+ | En Directo: Getafe Club de Fútbol - Sevilla Fútbol Club. Partido de la LaLiga EA Sports 2026-2027 |  |
-| Portugal | getafe - sevilla | 100+ | En Directo: Getafe Club de Fútbol - Sevilla Fútbol Club. Partido de la LaLiga EA Sports 2026-2027 |  |
-| Portugal | francisco moura | 200+ | Zaidu saiu por precaução |
-| Portugal | vizela - académica | 2000+ | II Liga: Vizela apanha susto com mais um, mas vence Académica |
-| Mexico | lazio vs | 100+ | Preview: Lazio vs Cagliari - prediction, team news, lineups |
-| Mexico | getafe - sevilla | 1000+ | 🚨 Bordalás con lo justo, LGP con todo: hay ONCES en el Getafe -Sevilla |
-| Mexico | minnesota vs indiana | 100+ | Indiana turns to Wilson at QB, survives Minnesota in OT |
-| Mexico | como fc | 200+ | Ternana-Como 1907 1-1 | Match Report Serie A Women |
-| Mexico | d | 100+ | Kylian Mbappe’s Reaction to 2026 Ballon d’Or Disappointment Speaks Volumes |
+| UK | juventus vs napoli | 200+ | Juventus vs Napoli: Italian Serie A stats & head-to-head |
+| UK | rio ngumoha | 1000+ | Trey Nyoni interview: Liverpool's fighting attitude, his journey so far and Carabao Cup ambitions |
+| UK | viktor gyökeres | 200+ | Arsenal choose two top targets to replace Viktor Gyokeres as internal verdict on signing Endrick rev |
+| Spain | posiciones de paris fc contra as mónaco | 200+ | Preview: Paris FC vs Monaco - prediction, team news, lineups |
+| Spain | yola berrocal | 1000+ | La familia de Yola Berrocal: así son sus padres y sus cinco hermanos |
+| Italy | juventus - napoli | 10000+ | LIVE Alle 20.45 Juve-Napoli, le formazioni: Spalletti con Alajbegovic. Hojlund febbre, Allegri con L |
+| Italy | classifica di olympique lyonnais - angers sco | 500+ | Olympique Lyonnais vs Angers: French Ligue 1 stats & head-to-head |
+| Italy | classement racing de santander – real madrid | 200+ | Liga : le Real Madrid l'emporte facilement à Santander, Kylian Mbappé buteur après sa semaine compli |
+| Italy | francesco camarda | 500+ | AC Milan, Camarda heading for January loan move: Cardinale pushes to bring Endrick in from Real Madr |
+| Germany | tabelle 1. bundesliga | 200+ | Fußball – 2. Bundesliga: Ergebnisse & Tabelle am Samstag | 31.10.2026 |
+| Germany | premier league spiele | 500+ | Spurs feiern Heimsieg – Rot für Mateta |
+| Germany | niko ilicevic | 2000+ | SGE-Talent Ilicevic jüngster Bundesliga-Spieler – Dritthöchster Startmarktwert |
+| France | greve 5 novembre 2026 | 10000+ | Manifestations du 31 octobre : revivez la journée de mobilisation en France contre la vie chère |
+| France | premiere league | 200+ | Manchester City 0-1 Brighton, Premier League : Succès historique pour Brighton |
+| France | bradley barcola | 500+ | Bradley Barcola during warm ups |
+| USA | juventus vs napoli | 200+ | Juventus vs Napoli: Italian Serie A stats & head-to-head |
+| USA | cbs sports | 20000+ | Coaches Poll top 25: Ohio State tumbles in Week 10 college football rankings after loss to USC |
+| Argentina | lautaro martínez | 500+ | VIDEO: resumen de Milan vs. Inter en la Serie A |
+| Argentina | argentine primera división | 500+ | El fútbol argentino con muchos equipos y numerosos interrogantes |
+| Argentina | arbitro boca river | 200+ | Nicolás Ramírez, el árbitro del Superclásico: su historial con Boca y River |
+| Argentina | andrada river | 200+ | Longoria acertó con su incorporación y Borussia Dortmund se lo quiere llevar: “En carpeta” |
+| Argentina | arquero de river | 5000+ | Con un golazo, River eliminó a Atlético de Madrid y jugará la final de la Messi Cup |
+| Argentina | martínez | 200+ | How a goalkeeper looks after their hands: Tape, custom gloves and fingers that look like ‘blood saus |
+| Brazil | palermo fc | 200+ | Assista a Palermo x LR Vicenza ao vivo hoje: onde ver o jogo na TV e por streaming? |
+| Brazil | olympique de marseille | 200+ | OM - Toulouse : les compositions probables |
+| Brazil | cusco x sport boys association | 100+ | Alineaciones de Cusco y Sport Boys por la Liga 1: formaciones probables |
+| Brazil | classificações de paris fc x as monaco | 1000+ | Preview: Paris FC vs Monaco - prediction, team news, lineups |
+| Portugal | associazione calcio milan | 100+ | Milan, accordo con Krösche: chi è e quale ruolo avrà |
+| Portugal | lyon | 200+ | Près d’un kilo de cannabis et 156 grammes de cocaïne saisis lors d'un contrôle routier à Courpière |
+| Portugal | liga francesa | 200+ | Paris FC 3-1 Mónaco: Puntuación Sofascore de 9.8 para Sinayoko |
+| Mexico | posiciones de paris fc contra as mónaco | 1000+ | Preview: Paris FC vs Monaco - prediction, team news, lineups |
+| Mexico | manchester united football club | 100+ | Chelsea 2-0 Manchester United: Visitors' second-half slump adds to Michael Carrick's misery |
