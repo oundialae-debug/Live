@@ -161,3 +161,6 @@
 {"t": "2026-10-31T17:54+00:00", "estado": "revisar", "temas": ["Kane", "Harry", "Ballon"], "clave": "harry-kane-ballondor", "motivo": "palabra sensible en los titulares: Police"}
 {"t": "2026-10-31T17:55+00:00", "estado": "revisar", "temas": ["Brighton"], "clave": "brighton-stun-man-city", "motivo": "ninguna foto pasó la comprobación de caras / zona segura"}
 {"t": "2026-10-31T17:55+00:00", "estado": "descartar", "temas": ["Madrid"], "clave": "real-madrid-transfer-saga", "motivo": "calidad 6 < 7"}
+{"t": "2026-11-01T13:43+00:00", "estado": "revisar", "temas": ["Chelsea", "Manchester"], "clave": "chelsea-man-utd-preview", "motivo": "palabra sensible en los titulares: surgery"}
+{"t": "2026-11-01T13:43+00:00", "estado": "revisar", "temas": ["Carrick"], "clave": "carrick-controversy", "motivo": "sin foto buena con cara visible"}
+{"t": "2026-11-01T13:43+00:00", "estado": "descartar", "temas": ["Inter"], "clave": "san-siro-deal-inter-milan", "motivo": "repetida (ya publicada/decidida)"}

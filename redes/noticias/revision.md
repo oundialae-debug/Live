@@ -711,3 +711,21 @@
 - FourFourTwo: Watch Man City vs Brighton: Live Streams and TV Channels
 - Yahoo: Man City Starting XI vs Brighton: Confirmed Team News and Predicted Lineup
 
+## 01/11 14:43 · Chelsea vs Man United · revisar
+- Motivo: palabra sensible en los titulares: surgery
+- Temas: Chelsea, Manchester
+- Guardian: Chelsea v Manchester United: Premier League – live
+- Sky Sports: Fernandes misses big chance on Man Utd return against Chelsea LIVE!
+- talkSPORT: Chelsea star Emi Martinez permanently disfigured from injury and still requires surgery
+- Daily Mail: Revealed: SIX Man United stars named in combined XI with Chelsea despite Michael Carrick's side's nightmare start - as stats boffins pick Kobbie Mainoo and Youri Tielemans over Moises Caicedo
+- Daily Mail: Chelsea vs Manchester United - Premier League: Estevao has a goal ruled out for offside for Blues - with visitors better after Bournemouth beating in a lively start at Stamford Bridge
+
+## 01/11 14:43 · Carrick clash with United · revisar
+- Motivo: sin foto buena con cara visible
+- Temas: Carrick
+- Daily Mail: Aston Villa threaten legal action against Jamie Carragher after pundit claimed Unai Emery should replace Michael Carrick at Man United and told fans to 'shut the f*** up'
+- Daily Mail: 'Divisive' teacher's pet who players roll their eyes at? Or obsessive who truly cares? Man United insiders reveal what Bruno Fernandes' team-mates really think of him - as we reveal Michael Carrick decided to drop captain BEFORE his Como ra
+- Mirror: Man Utd told to immediately strip Bruno Fernandes of captaincy as Michael Carrick U-turns
+- Mirror: Michael Carrick gives Gary Neville blunt response over damning claim about Man Utd stars
+- Mirror: Chelsea vs Man Utd predicted by six pundits as Michael Carrick fights for his job
+
