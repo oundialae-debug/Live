@@ -729,3 +729,21 @@
 - Mirror: Michael Carrick gives Gary Neville blunt response over damning claim about Man Utd stars
 - Mirror: Chelsea vs Man Utd predicted by six pundits as Michael Carrick fights for his job
 
+## 02/11 17:30 · Arsenal break Anfield curse · revisar
+- Motivo: datos que no salen en los titulares: 3
+- Temas: Arsenal, Liverpool, Anfield
+- Guardian: Arsenal v Aston Villa, London City Lionesses v Manchester City, and more: Women’s Super League – live
+- Sky Sports: WSL LIVE! Villa lead at Arsenal, Man City beating London City in thriller
+- Daily Mail: Eberechi Eze must take his long-awaited chance and perform after Bukayo Saka's injury - or Arsenal will pay the price for their light attacking recruitment, writes ISAAN KHAN
+- Mirror: Six pundits predict Liverpool vs Arsenal result as Gary Neville gets brutal
+- Mirror: Arsenal boss Mikel Arteta hatches Liverpool plan to finally conquer Anfield bear pit
+
+## 02/11 17:30 · Villa drops Carragher case · revisar
+- Motivo: categoría sensible: legal
+- Temas: Villa, Aston
+- Guardian: Arsenal v Aston Villa, London City Lionesses v Manchester City, and more: Women’s Super League – live
+- Sky Sports: WSL LIVE! Villa lead at Arsenal, Man City beating London City in thriller
+- FourFourTwo: How to watch Arsenal vs Aston Villa: Live streams and TV channels for WSL clash at Emirates
+- Yahoo: UEFA announce match officials for key clash between Barcelona and Aston Villa
+- Mundo Deportivo: Dudas en el Aston Villa antes de medirse al Barça
+
