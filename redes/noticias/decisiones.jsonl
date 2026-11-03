@@ -167,3 +167,5 @@
 {"t": "2026-11-02T16:30+00:00", "estado": "revisar", "temas": ["Arsenal", "Liverpool", "Anfield"], "clave": "arsenal-anfield-win", "motivo": "datos que no salen en los titulares: 3"}
 {"t": "2026-11-02T16:30+00:00", "estado": "descartar", "temas": ["Villa", "Aston"], "clave": "arsenal-aston-wsl", "motivo": "importancia 6 < 7"}
 {"t": "2026-11-02T16:30+00:00", "estado": "revisar", "temas": ["Villa", "Aston"], "clave": "villa-carragher-legal", "motivo": "categoría sensible: legal"}
+{"t": "2026-11-03T14:35+00:00", "estado": "revisar", "temas": ["Miguel", "Tenerife"], "clave": "jesus-miguel-death", "motivo": "categoría sensible: death"}
+{"t": "2026-11-03T14:35+00:00", "estado": "descartar", "temas": ["Newcastle"], "clave": "grealish-left-out", "motivo": "importancia 6 < 7"}

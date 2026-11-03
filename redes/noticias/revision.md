@@ -747,3 +747,12 @@
 - Yahoo: UEFA announce match officials for key clash between Barcelona and Aston Villa
 - Mundo Deportivo: Dudas en el Aston Villa antes de medirse al Barça
 
+## 03/11 15:35 · Tenerife striker dies on pitch · revisar
+- Motivo: categoría sensible: death
+- Temas: Miguel, Tenerife
+- AS: Jesús de Miguel sufrió una parada cardíaca tras una entrada de Owono
+- Google News ES: Susto en Tenerife: suspendido el partido frente al Andorra por un fuerte golpe de Owono a Jesús de Miguel
+- BBC: Tenerife striker De Miguel dies after on-field collision
+- Guardian: Tenerife footballer Jesús de Miguel dies aged 30 after on-pitch collision
+- talkSPORT: Tenerife striker Jesus de Miguel tragically dies after on-field collision
+
