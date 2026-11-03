@@ -1,5 +1,5 @@
 {
- "red": "instagram",
+ "red": "tiktok",
  "hora": "2026-11-03T23:05:06+01:00",
  "tipo": "post",
  "partido": "Barcelona-Aston Villa",
@@ -8,5 +8,9 @@
  "recordatorio": false,
  "musica": "rage",
  "variante": "seg=2.8;arranque=s0;hook=dato;musica=rage;formato=auto_post",
- "notas": "post-partido automático (futbol-pipeline -6106263, 6 tarjetas)"
+ "notas": "post-partido automático (futbol-pipeline -6106263, 6 tarjetas)",
+ "titulo": "Barcelona 3-0 Aston Villa | Expected goals: 2.0 vs 0.7, Barcelona created more.",
+ "estado": "enviado",
+ "buffer_id": "6aea59f5ca28ab6c317a46bd",
+ "dueAt": "2026-11-03T22:05:26+00:00"
 }

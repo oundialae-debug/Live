@@ -8,5 +8,8 @@
  "recordatorio": false,
  "musica": "drill",
  "variante": "seg=2.8;arranque=s1;hook=dato;musica=drill;formato=auto_post",
- "notas": "post-partido automático (futbol-pipeline -6106266, 6 tarjetas)"
+ "notas": "post-partido automático (futbol-pipeline -6106266, 6 tarjetas)",
+ "estado": "enviado",
+ "buffer_id": "6aea59f3402e0fe50f16f092",
+ "dueAt": "2026-11-03T22:05:26+00:00"
 }

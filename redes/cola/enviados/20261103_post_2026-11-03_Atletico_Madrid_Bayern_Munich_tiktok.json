@@ -9,5 +9,8 @@
  "musica": "drill",
  "variante": "seg=2.8;arranque=s1;hook=dato;musica=drill;formato=auto_post",
  "notas": "post-partido automático (futbol-pipeline -6106266, 6 tarjetas)",
- "titulo": "Atlético 0-2 Bayern Munich | Expected goals: 0.8 vs 1.8, Bayern Munich created more."
+ "titulo": "Atlético 0-2 Bayern Munich | Expected goals: 0.8 vs 1.8, Bayern Munich created more.",
+ "estado": "enviado",
+ "buffer_id": "6aea59f40a183b1b74308740",
+ "dueAt": "2026-11-03T22:05:26+00:00"
 }
