@@ -1,11 +1,5 @@
 {
- "en_curso": {
-  "-6106263": {
-   "arranque": "s0",
-   "musica": "rage",
-   "tarjetas": 6
-  }
- },
+ "en_curso": {},
  "partidos": {
   "-6106234": {
    "arranque": "s1",
@@ -75,6 +69,18 @@
    "resultado": "3-0",
    "tarjetas": 6,
    "video": "https://raw.githubusercontent.com/oundialae-debug/live/main/media/post_partido/2026-10-13_Arsenal_Lille.mp4"
+  },
+  "-6106263": {
+   "arranque": "s0",
+   "estado": "en_cola",
+   "fecha": "2026-11-03",
+   "hora": "2026-11-03T22:01:48+00:00",
+   "musica": "rage",
+   "partido": "Barcelona-Aston Villa",
+   "publicar": "2026-11-03T23:05:06+01:00",
+   "resultado": "3-0",
+   "tarjetas": 6,
+   "video": "https://raw.githubusercontent.com/oundialae-debug/live/main/media/post_partido/2026-11-03_Barcelona_Aston_Villa.mp4"
   },
   "-6106274": {
    "arranque": "s1",
