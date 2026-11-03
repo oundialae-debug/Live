@@ -1,0 +1,13 @@
+{
+ "red": "tiktok",
+ "hora": "2026-11-03T23:05:24+01:00",
+ "tipo": "post",
+ "partido": "Atlético Madrid-Bayern Munich",
+ "text": "Atlético 0-2 Bayern Munich\nExpected goals: 0.8 vs 1.8, Bayern Munich created more. Did the better team win?\n\n#football #UCL #Atletico #BayernMunich #fulltime",
+ "video": "https://raw.githubusercontent.com/oundialae-debug/live/main/media/post_partido/2026-11-03_Atletico_Madrid_Bayern_Munich.mp4",
+ "recordatorio": false,
+ "musica": "drill",
+ "variante": "seg=2.8;arranque=s1;hook=dato;musica=drill;formato=auto_post",
+ "notas": "post-partido automático (futbol-pipeline -6106266, 6 tarjetas)",
+ "titulo": "Atlético 0-2 Bayern Munich | Expected goals: 0.8 vs 1.8, Bayern Munich created more."
+}
