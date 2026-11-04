@@ -756,3 +756,21 @@
 - Guardian: Tenerife footballer Jesús de Miguel dies aged 30 after on-pitch collision
 - talkSPORT: Tenerife striker Jesus de Miguel tragically dies after on-field collision
 
+## 04/11 22:28 · Gabriel transfer sparks legal battle · revisar
+- Motivo: palabra sensible en los titulares: bombshell
+- Temas: Gabriel
+- Record: <![CDATA[ Sporting volta a vencer na Youth League com Chris Grombahi e Gabriel Silva em destaque ]]>
+- BBC: Real Madrid reach verbal agreement to sign Gabriel
+- Sky Sports: Real Madrid reach verbal agreement with Man Utd teen star JJ Gabriel
+- talkSPORT: Three year plan for JJ Gabriel proposed before getting near Real Madrid first team
+- talkSPORT: JJ Gabriel expected to join new club after acrimonious Man United fall out
+
+## 04/11 22:28 · Roma brace Man United in CL · revisar
+- Motivo: datos que no salen en los titulares: Italians
+- Temas: Roma
+- talkSPORT: Where to watch Manchester United v Roma as Michael Carrick prepares for another must win
+- Daily Mail: Michael Carrick's next nightmare: How Aston Villa misfit Donyell Malen became Europe's hottest striker... as Roma star looks to pile on the misery for Man United in Champions League
+- Daily Mail: Man United Confidential: Club on red alert to prevent repeat of shocking Roma violence, why football insiders doubt Unai Emery is right fit for Old Trafford and meet the 17-year-old lighting up Darren Fletcher's impressive youth team
+- Planet Football: Why free-scoring Roma could be Man Utd’s & Carrick’s worst nightmare
+- Yahoo: Champions League latest: Iraola to speak; Saliba back training; Carrick faces Roma test
+
