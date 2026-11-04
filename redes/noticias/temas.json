@@ -1,9 +1,9 @@
 {
- "generado": "2026-11-04T14:48+00:00",
+ "generado": "2026-11-04T21:27+00:00",
  "temas": [
   {
    "tema": "Madrid",
-   "medios": 20,
+   "medios": 21,
    "lista_medios": [
     "AS",
     "BBC",
@@ -11,6 +11,7 @@
     "Foot Mercato",
     "Football Italia",
     "FourFourTwo",
+    "Google News AR",
     "Google News EN",
     "Google News ES",
     "Guardian",
@@ -95,16 +96,16 @@
      "pub": "2026-11-03T11:01+00:00"
     },
     {
-     "medio": "Foot Mercato",
-     "titulo": "Le Real Madrid et le FC Barcelone rendent hommage à Jesús de Miguel après sa disparition",
-     "url": "https://www.footmercato.net/a5897877229957699304-le-real-madrid-et-le-fc-barcelone-rendent-hommage-a-jesus-de-miguel-apres-sa-disparition",
-     "pub": "2026-11-03T09:14+00:00"
+     "medio": "FourFourTwo",
+     "titulo": "How to watch Atletico Madrid vs Bayern Munich: FREE Streams",
+     "url": "https://www.fourfourtwo.com/competition/watch-atletico-madrid-vs-bayern-munich-champions-league-2026-27-free",
+     "pub": "2026-11-03T17:00+00:00"
     }
    ]
   },
   {
    "tema": "Villa",
-   "medios": 18,
+   "medios": 17,
    "lista_medios": [
     "AS",
     "BBC",
@@ -116,7 +117,6 @@
     "Google News ES",
     "Guardian",
     "Infobae",
-    "L'Equipe",
     "Mirror",
     "Mundo Deportivo",
     "Record",
@@ -128,12 +128,6 @@
    "primera_vez": "2026-11-03T14:34+00:00",
    "titulares": [
     {
-     "medio": "BBC",
-     "titulo": "Emery looks to show Villa can compete with elite",
-     "url": "https://www.bbc.co.uk/sport/football/articles/c5ev3m9ddzgmo?at_medium=RSS&at_campaign=rss",
-     "pub": "2026-11-03T07:33+00:00"
-    },
-    {
      "medio": "Daily Mail",
      "titulo": "Emery would be mad to go to United - his best route to the top is at Villa. They're close to being giants and, with him as boss, they can bridge the gap to the elite: OLIVER HOLT",
      "url": "https://www.dailymail.com/sport/football/article-16260003/unai-emery-barcelona-aston-villa.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
@@ -144,12 +138,6 @@
      "titulo": "Michael Carrick's next nightmare: How Aston Villa misfit Donyell Malen became Europe's hottest striker... as Roma star looks to pile on the misery for Man United in Champions League",
      "url": "https://www.dailymail.com/sport/football/article-16258849/How-Aston-Villa-misfit-Donyell-Malen-Europes-hottest-striker-Roma-star-looks-pile-misery-Michael-Carrick-Man-United-Champions-League-clash.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
      "pub": "2026-11-03T09:31+00:00"
-    },
-    {
-     "medio": "Mirror",
-     "titulo": "'I swapped Barcelona for Aston Villa and it wasn't on good terms - the manager didn't speak to me'",
-     "url": "https://www.mirror.co.uk/sport/football/news/aston-villa-barcelona-transfer-decision-37834607",
-     "pub": "2026-11-03T07:00+00:00"
     },
     {
      "medio": "Yahoo",
@@ -198,6 +186,18 @@
      "titulo": "Minuto de silencio en el Barça-Aston Villa por Jesús de Miguel y el accidente de Urda",
      "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261103/1004246620/minuto-silencio-barca-aston-villa-jesus-miguel-accidente-urda.html",
      "pub": ""
+    },
+    {
+     "medio": "Infobae",
+     "titulo": "Los tenistas argentinos invaden los Challenger de Villa María y Costa do Sauípe",
+     "url": "https://www.infobae.com/deportes/2026/11/03/los-tenistas-argentinos-invaden-los-challenger-de-villa-maria-y-costa-do-sauipe/",
+     "pub": "2026-11-03T12:11+00:00"
+    },
+    {
+     "medio": "Google News AR",
+     "titulo": "Martes de Champions con partidazos: Atlético Madrid-Bayern, Barcelona-Aston Villa y Manchester-Roma",
+     "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPSzIySUl4WHZHdThHcm9mVlA1OTA3UGhhSDNVTTd5WkY1QlIxSkl6Y3pwLVJQeG82Z3NwWkM1MnRtRS00SUdRa1VaaWVweUU0TE5SRzJxOVNQVjllTjY3YWpDNFZWRDkxNUVYVXFjUEdOZFFJazlmVkswYUhxLVRFNjRrdFU0OXBFNjZZUlpyRXNnZVU2RkdoQmtvY2VUOU9GVnE1a3JUZ2oxaXFkQlJmZEpvTF9Qc0V0SEdYOHJqWTQzY0llSE81WV9JN0JZTUlQQjBYVV9tMlNXYzQ?oc=5",
+     "pub": "2026-11-03T13:07+00:00"
     }
    ]
   },
@@ -208,10 +208,10 @@
     "AS",
     "BBC",
     "Foot Mercato",
+    "FourFourTwo",
     "Google News AR",
     "Google News EN",
     "Google News ES",
-    "Guardian",
     "Infobae",
     "Kicker",
     "L'Equipe",
@@ -226,34 +226,10 @@
    "primera_vez": "2026-11-03T14:34+00:00",
    "titulares": [
     {
-     "medio": "BBC",
-     "titulo": "Tenerife striker De Miguel dies after on-field collision",
-     "url": "https://www.bbc.co.uk/sport/football/articles/ck62yvz046pjo?at_medium=RSS&at_campaign=rss",
-     "pub": "2026-11-03T09:09+00:00"
-    },
-    {
-     "medio": "Guardian",
-     "titulo": "Tenerife footballer Jesús de Miguel dies aged 30 after on-pitch collision",
-     "url": "https://www.theguardian.com/football/2026/nov/03/tenerife-footballer-jesus-de-miguel-hospital-collision",
-     "pub": "2026-11-03T09:13+00:00"
-    },
-    {
-     "medio": "talkSPORT",
-     "titulo": "Tenerife striker Jesus de Miguel tragically dies after on-field collision",
-     "url": "https://talksport.com/football/4684314/tenerife-jesus-de-miguel-andorra-segunda-division/",
-     "pub": "2026-11-03T08:06+00:00"
-    },
-    {
      "medio": "Mirror",
      "titulo": "Goalkeeper who collided with Jesus de Miguel breaks down over footballer's death",
      "url": "https://www.mirror.co.uk/sport/football/news/jesus-owono-de-miguel-death-37838078",
      "pub": "2026-11-03T12:08+00:00"
-    },
-    {
-     "medio": "Mirror",
-     "titulo": "Footballer Jesus de Miguel tragically dies, 30, after brutal collision as investigation begins",
-     "url": "https://www.mirror.co.uk/sport/football/news/jesus-de-miguel-tenerife-statement-37836837",
-     "pub": "2026-11-03T08:06+00:00"
     },
     {
      "medio": "Yahoo",
@@ -293,88 +269,9 @@
     },
     {
      "medio": "Google News EN",
-     "titulo": "Champions League: From non-league to beating Celtic in Europe - the Miguel Freckleton story",
-     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9oNnRiMC1GeXpYYlk4ckd4RVowaGhOcDZQeFFkS21LaUtYMFdQYTRJRmJNM3FZa2thOG9YWlJZbU5ZTEhrVHhWdk9iU01uTG81WGdvUTR2amxjalhSZmFWUE04aC1XOVpWRHFr?oc=5",
-     "pub": "2026-11-03T08:00+00:00"
-    }
-   ]
-  },
-  {
-   "tema": "Tenerife",
-   "medios": 16,
-   "lista_medios": [
-    "AS",
-    "BBC",
-    "Foot Mercato",
-    "Google News AR",
-    "Google News EN",
-    "Google News ES",
-    "Guardian",
-    "L'Equipe",
-    "Mirror",
-    "Mundo Deportivo",
-    "Ole",
-    "Record",
-    "Sky Sports",
-    "Yahoo",
-    "ge.globo",
-    "talkSPORT"
-   ],
-   "primera_vez": "2026-11-03T14:34+00:00",
-   "titulares": [
-    {
-     "medio": "BBC",
-     "titulo": "Tenerife striker De Miguel dies after on-field collision",
-     "url": "https://www.bbc.co.uk/sport/football/articles/ck62yvz046pjo?at_medium=RSS&at_campaign=rss",
-     "pub": "2026-11-03T09:09+00:00"
-    },
-    {
-     "medio": "Guardian",
-     "titulo": "Tenerife footballer Jesús de Miguel dies aged 30 after on-pitch collision",
-     "url": "https://www.theguardian.com/football/2026/nov/03/tenerife-footballer-jesus-de-miguel-hospital-collision",
-     "pub": "2026-11-03T09:13+00:00"
-    },
-    {
-     "medio": "Sky Sports",
-     "titulo": "Tenerife striker dies following collision during match",
-     "url": "https://www.skysports.com/football/news/12040/13607401/tenerife-striker-jesus-de-miguel-dies-after-cardiac-arrest-following-collision-during-a-match",
-     "pub": "2026-11-03T09:55+00:00"
-    },
-    {
-     "medio": "talkSPORT",
-     "titulo": "Tenerife striker Jesus de Miguel tragically dies after on-field collision",
-     "url": "https://talksport.com/football/4684314/tenerife-jesus-de-miguel-andorra-segunda-division/",
-     "pub": "2026-11-03T08:06+00:00"
-    },
-    {
-     "medio": "Yahoo",
-     "titulo": "Tenerife striker Jesús de Miguel dies after on-pitch collision with opponent",
-     "url": "https://sports.yahoo.com/soccer/article/tenerife-striker-jesus-de-miguel-dies-after-on-pitch-collision-with-opponent-134134967.html",
-     "pub": "2026-11-03T13:41+00:00"
-    },
-    {
-     "medio": "Yahoo",
-     "titulo": "Tenerife player Jesus de Miguel dies in hospital after on-pitch collision",
-     "url": "https://sports.yahoo.com/articles/tenerife-player-jesus-miguel-dies-092128853.html",
-     "pub": "2026-11-03T12:06+00:00"
-    },
-    {
-     "medio": "Google News EN",
-     "titulo": "Spanish football in mourning after death of Tenerife player Jesus de Miguel following on-pitch collision",
-     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNTjVPMVZEcEhvcEtESG9XYXlWeWRPbHBraGFYZldvUmU5bVhPUlRrdm11WWtOdWJRZXJyT0xqSW5YZ2dxbUFpc0c4NDhiUTc5dktKam1EMTVGS2txN2hoZzVSeUthY0JraFFhSzFZLUFFem1TT1dtLXpZSlBYSlppNmZnS0YtUDFaNFNBOWc5OU1iaVNHS0E?oc=5",
-     "pub": "2026-11-03T09:41+00:00"
-    },
-    {
-     "medio": "Google News EN",
-     "titulo": "Tenerife forward Jesús de Miguel dies aged 30 after on-field collision",
-     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxObmFDektFLWQ0UHZ3R01PcUFmeGFsYXNRb3RMZXFuYWpnYlE5amp6UHJTUUx6NVZLX3dNUkluQ1p0Tmh0RFF6VTdlbkNaQjY0ajRfaWkwT3ZLXzZ5dGNaWkFvczE1Y3R4a1dJMFZzUmUyQXNybHFsdWhKcGNhTEVWZ0lsSnZsMmlLNWgzZE03emx6b3hqekZOTEZMcWkxZUN0bEh2RmM5Z2ZvSlUxcGc?oc=5",
-     "pub": "2026-11-03T11:15+00:00"
-    },
-    {
-     "medio": "Google News EN",
-     "titulo": "Tenerife striker Jesus de Miguel dies after cardiac arrest following collision during a match",
-     "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNbGM0WHZLclBiR2poY2J2RHhKRmhFYThqTEdoTVBJeE5fTGp2NjByT1NDUFA5ak1xbUl0ejRtVGJoR0NSLUNLa3FSRC1BT2lPWHBLbFlnX1AydGUyeHpVamtMbFRWUlJwUlQ1b2NWUGtZeGhZMUJwWlM4V1c5V3luSmNfVERyMFA1MC1CWUJFWV85R0NrTmF5cTF6RE16eWJ4cFZWQnY2ejl2RElvSUgxczVOang3R18tV2UxbXdtUGxDWVBpWGtPZXhQbVpscjQzc2lNcXJRQ0FDUQ?oc=5",
-     "pub": "2026-11-03T11:46+00:00"
+     "titulo": "Football: Real Madrid and Arsenal pay tribute at training to Jesus de Miguel after the striker passed away",
+     "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFB0R1ZyV0IxRE1QQk5GM2ZCQUZsOEN0YmRsQWN4WVpDbFZLSE1FOFdnOEtDWWdnUzdtSTRYZnVQaTY2c2ZpWXRPbUF3RDJqQmdQcGgyZGM5SDduaXU5YUVOTUJudkN5dw?oc=5",
+     "pub": "2026-11-03T13:43+00:00"
     },
     {
      "medio": "AS",
@@ -384,15 +281,118 @@
     },
     {
      "medio": "AS",
-     "titulo": "Un día de luto en Tenerife: “No hay palabras de consuelo”",
-     "url": "https://as.com/futbol/segunda/no-hay-palabras-de-consuelo-f202611-n/",
-     "pub": "2026-11-03T09:28+00:00"
+     "titulo": "Jesús de Miguel, una carrera de perseverancia con un final injusto",
+     "url": "https://as.com/futbol/segunda/jesus-de-miguel-una-carrera-de-perseverancia-con-un-final-injusto-f202611-n/",
+     "pub": "2026-11-03T09:30+00:00"
     },
     {
-     "medio": "Mundo Deportivo",
-     "titulo": "Primeras palabras del presidente del Tenerife: \"Es una situación no vivida\"",
-     "url": "https://www.mundodeportivo.com/futbol/tenerife/20261103/1004246702/primeras-palabras-presidente-tenerife-situacion-no-vivida-jugador-muere-terreno-juego.html",
-     "pub": ""
+     "medio": "AS",
+     "titulo": "La Policía abre una investigación sobre la muerte de Jesús de Miguel",
+     "url": "https://as.com/futbol/segunda/la-policia-abre-una-investigacion-sobre-la-muerte-de-jesus-de-miguel-f202611-n/",
+     "pub": "2026-11-03T13:02+00:00"
+    },
+    {
+     "medio": "AS",
+     "titulo": "El respetuosísimo minuto de silencio de la plantilla del Real Madrid por Jesús de Miguel",
+     "url": "https://as.com/futbol/videos/el-respetuosisimo-minuto-de-silencio-de-la-plantilla-del-real-madrid-por-jesus-de-miguel-sepulcral-f202611-v/",
+     "pub": "2026-11-03T09:44+00:00"
+    }
+   ]
+  },
+  {
+   "tema": "Liverpool",
+   "medios": 16,
+   "lista_medios": [
+    "Daily Mail",
+    "Foot Mercato",
+    "Football Italia",
+    "FourFourTwo",
+    "Google News AR",
+    "Google News EN",
+    "Guardian",
+    "Infobae",
+    "Kicker",
+    "L'Equipe",
+    "Mirror",
+    "Mundo Deportivo",
+    "Planet Football",
+    "Sky Sports",
+    "Yahoo",
+    "talkSPORT"
+   ],
+   "primera_vez": "2026-11-03T14:34+00:00",
+   "titulares": [
+    {
+     "medio": "talkSPORT",
+     "titulo": "What time is Fenerbahce vs Liverpool as clubs meet for first time in early kick-off",
+     "url": "https://talksport.com/football/4685116/where-watch-fenerbahce-liverpool-kick-off-time/",
+     "pub": "2026-11-03T14:20+00:00"
+    },
+    {
+     "medio": "FourFourTwo",
+     "titulo": "'Suffering' Liverpool attacker likely to leave in January: report",
+     "url": "https://www.fourfourtwo.com/transfer/suffering-liverpool-attacker-likely-to-leave-in-january-report",
+     "pub": "2026-11-03T14:00+00:00"
+    },
+    {
+     "medio": "Yahoo",
+     "titulo": "Liverpool dealt major injury blow ahead of Fenerbahce clash",
+     "url": "https://sports.yahoo.com/articles/liverpool-dealt-major-injury-blow-135000650.html",
+     "pub": "2026-11-03T13:50+00:00"
+    },
+    {
+     "medio": "Yahoo",
+     "titulo": "Journalist: Liverpool are still in the race to sign Premier League midfielder",
+     "url": "https://sports.yahoo.com/articles/journalist-liverpool-still-race-sign-125000802.html",
+     "pub": "2026-11-03T12:50+00:00"
+    },
+    {
+     "medio": "Football Italia",
+     "titulo": "Mancini travels to England, but Italy and Liverpool still waiting for Leoni’s return",
+     "url": "https://football-italia.net/mancini-england-italy-liverpool-wait-leoni/",
+     "pub": "2026-11-03T11:56+00:00"
+    },
+    {
+     "medio": "Guardian",
+     "titulo": "Andoni Iraola calls on Liverpool to sharpen up in attack before Fenerbahce test",
+     "url": "https://www.theguardian.com/football/2026/nov/03/andoni-iraola-calls-on-liverpool-to-sharpen-up-in-attack-before-fenerbahce-test",
+     "pub": "2026-11-03T18:42+00:00"
+    },
+    {
+     "medio": "Mirror",
+     "titulo": "Alexis Mac Allister makes 'painful' Liverpool admission and makes transfer stance clear",
+     "url": "https://www.mirror.co.uk/sport/football/transfer-news/alexis-mac-allister-liverpool-contract-37839810",
+     "pub": "2026-11-03T18:49+00:00"
+    },
+    {
+     "medio": "Yahoo",
+     "titulo": "“I want to give credit to Liverpool” – Mikel Arteta praises Andoni Iraola’s side",
+     "url": "https://sports.yahoo.com/articles/want-credit-liverpool-mikel-arteta-205000360.html",
+     "pub": "2026-11-03T20:50+00:00"
+    },
+    {
+     "medio": "Yahoo",
+     "titulo": "Report: Liverpool midfielder ‘certain’ to leave in 2027",
+     "url": "https://sports.yahoo.com/articles/report-liverpool-midfielder-certain-leave-195000332.html",
+     "pub": "2026-11-03T19:50+00:00"
+    },
+    {
+     "medio": "Yahoo",
+     "titulo": "Brazilian midfielder speaks on failed £30m move to Liverpool",
+     "url": "https://sports.yahoo.com/articles/brazilian-midfielder-speaks-failed-30m-185000227.html",
+     "pub": "2026-11-03T18:50+00:00"
+    },
+    {
+     "medio": "L'Equipe",
+     "titulo": "Kuyt : «Tout le monde sait à quel point Fenerbahçe et Liverpool comptent pour moi»",
+     "url": "https://www.lequipe.fr/Football/Video/Ligue-des-champions-dirk-kuyt-tout-le-monde-sait-a-quel-point-fenerbahce-et-liverpool-comptent-pour-moi/20244771#at_medium=RSS_feeds",
+     "pub": "2026-11-03T16:42+00:00"
+    },
+    {
+     "medio": "Foot Mercato",
+     "titulo": "Liverpool : Bradley Barcola juge son début de saison… et son équipe",
+     "url": "https://www.footmercato.net/a6616433604489260061-liverpool-bradley-barcola-juge-son-debut-de-saison-et-son-equipe",
+     "pub": "2026-11-03T17:16+00:00"
     }
    ]
   },
@@ -462,18 +462,6 @@
      "pub": "2026-11-03T14:29+00:00"
     },
     {
-     "medio": "Football Italia",
-     "titulo": "Champions League: Man United vs. Roma – probable line-ups, where to watch on TV",
-     "url": "https://football-italia.net/champions-league-man-united-v-roma-line-ups-tv/",
-     "pub": "2026-11-03T08:52+00:00"
-    },
-    {
-     "medio": "Football Italia",
-     "titulo": "Today’s Papers – Inter confrontation, Roma seek revenge vs. Man United",
-     "url": "https://football-italia.net/todays-papers-inter-confrontation-roma-man-utd/",
-     "pub": "2026-11-03T08:26+00:00"
-    },
-    {
      "medio": "Guardian",
      "titulo": "Manchester United v Roma: Champions League – live",
      "url": "https://www.theguardian.com/football/live/2026/nov/03/manchester-united-v-roma-champions-league-live",
@@ -490,196 +478,114 @@
      "titulo": "Manchester United vs Roma clash interrupted as fans launch furious protest",
      "url": "https://talksport.com/football/4686353/man-utd-vs-roma-clash-interrupted-fans-protest/",
      "pub": "2026-11-03T20:28+00:00"
+    },
+    {
+     "medio": "talkSPORT",
+     "titulo": "Champions League LIVE: ‘Embarrassing and gutless’ Man United booed as Roma lead 2-0, Yamal sets new record, Kane eyes history",
+     "url": "https://talksport.com/football/4518020/premier-league-live-today-stats-schedule-games-results-winners/",
+     "pub": "2026-11-03T17:06+00:00"
+    },
+    {
+     "medio": "Daily Mail",
+     "titulo": "Manchester United vs Roma - Champions League: Furious fans boo another embarrassing first half performance from Michael Carrick's side - and Barcelona lead against Aston Villa",
+     "url": "https://www.dailymail.com/sport/football/article-16262691/Manchester-United-vs-Roma-Champions-League-Aston-Villa-Barcelona-LIVE.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+     "pub": "2026-11-03T21:10+00:00"
     }
    ]
   },
   {
-   "tema": "West",
-   "medios": 14,
+   "tema": "Gabriel",
+   "medios": 15,
    "lista_medios": [
     "BBC",
     "Daily Mail",
     "Foot Mercato",
     "Google News EN",
+    "Google News ES",
     "Guardian",
-    "Kicker",
     "L'Equipe",
     "Mirror",
-    "Mundo Deportivo",
+    "Ole",
     "Planet Football",
     "Record",
     "Sky Sports",
     "Yahoo",
+    "ge.globo",
     "talkSPORT"
    ],
    "primera_vez": "2026-11-03T14:34+00:00",
    "titulares": [
     {
-     "medio": "BBC",
-     "titulo": "West Ham approach Parker after sacking boss Nuno",
-     "url": "https://www.bbc.co.uk/sport/football/articles/c63dj3zpl85go?at_medium=RSS&at_campaign=rss",
-     "pub": "2026-11-03T12:42+00:00"
+     "medio": "Record",
+     "titulo": "<![CDATA[ Sporting volta a vencer na Youth League com Chris Grombahi e Gabriel Silva em destaque ]]>",
+     "url": "https://www.record.pt/internacional/competicoes-de-clubes/liga-jovem-da-uefa/detalhe/shakthar-sporting-em-direto",
+     "pub": "2026-11-03T13:58+00:00"
     },
     {
-     "medio": "Guardian",
-     "titulo": "West Ham turn to Scott Parker after sacking Nuno Espírito Santo as head coach",
-     "url": "https://www.theguardian.com/football/2026/nov/03/west-ham-sack-nuno-espirito-santo-as-head-coach",
-     "pub": "2026-11-03T09:43+00:00"
+     "medio": "BBC",
+     "titulo": "Real Madrid reach verbal agreement to sign Gabriel",
+     "url": "https://www.bbc.co.uk/sport/football/articles/cq146dnrn541o?at_medium=RSS&at_campaign=rss",
+     "pub": "2026-11-04T11:49+00:00"
     },
     {
      "medio": "Sky Sports",
-     "titulo": "West Ham latest: Your views as Parker lined up to replace Nuno",
-     "url": "https://www.skysports.com/football/live-blog/12040/13210475/west-ham-latest-news",
-     "pub": "2026-11-03T08:50+00:00"
+     "titulo": "Real Madrid reach verbal agreement with Man Utd teen star JJ Gabriel",
+     "url": "https://www.skysports.com/football/news/12040/13607845/jj-gabriel-real-madrid-reach-verbal-agreement-with-man-utd-teenager-who-requested-to-leave-old-trafford",
+     "pub": "2026-11-04T09:28+00:00"
     },
     {
      "medio": "talkSPORT",
-     "titulo": "Simon Jordan hands West Ham huge Scott Parker warning as club icon slams recruitment",
-     "url": "https://talksport.com/football/4684699/west-ham-simon-jordan-scott-parker/",
-     "pub": "2026-11-03T12:27+00:00"
+     "titulo": "Three year plan for JJ Gabriel proposed before getting near Real Madrid first team",
+     "url": "https://talksport.com/football/4687330/jj-gabriel-three-year-plan-real-madrid-man-united/",
+     "pub": "2026-11-04T14:32+00:00"
     },
     {
      "medio": "talkSPORT",
-     "titulo": "West Ham reach agreement with club legend to immediately replace Nuno Espirito Santo",
-     "url": "https://talksport.com/football/4684466/west-ham-scott-parker-nuno-espirito-santo/",
-     "pub": "2026-11-03T09:38+00:00"
-    },
-    {
-     "medio": "talkSPORT",
-     "titulo": "Nuno Espirito Santo sacked by West Ham despite sitting eighth as interim immediately named",
-     "url": "https://talksport.com/football/4684352/nuno-espirito-santo-sacked-west-ham-manager/",
-     "pub": "2026-11-03T08:56+00:00"
+     "titulo": "JJ Gabriel expected to join new club after acrimonious Man United fall out",
+     "url": "https://talksport.com/football/4686576/jj-gabriel-man-utd-real-madrid-transfer/",
+     "pub": "2026-11-04T07:48+00:00"
     },
     {
      "medio": "Daily Mail",
-     "titulo": "West Ham star's WAG aims brutal parting dig at Nuno Espirito Santo after Hammers sacked under-fire manager - while team-mate 'likes' club post confirming his exit",
-     "url": "https://www.dailymail.com/sport/football/article-16261505/west-ham-sack-nuno-espirito-santo.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-     "pub": "2026-11-03T11:25+00:00"
+     "titulo": "JJ Gabriel on the verge of joining Real Madrid: Man United wonderkid, 16, is finalising move to Spanish giants after Old Trafford quit bombshell",
+     "url": "https://www.dailymail.com/sport/football/article-16264843/jj-gabriel-real-madrid-transfer.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+     "pub": "2026-11-04T14:02+00:00"
     },
     {
      "medio": "Mirror",
-     "titulo": "West Ham sack Nuno Espirito Santo with Scott Parker lined up to replace him",
-     "url": "https://www.mirror.co.uk/sport/football/news/west-ham-sack-nuno-espirito-37837008",
-     "pub": "2026-11-03T08:57+00:00"
+     "titulo": "Man Utd prepare for Real Madrid conflict as JJ Gabriel nears Old Trafford exit",
+     "url": "https://www.mirror.co.uk/sport/football/transfer-news/man-utd-realmadrid-jj-gabriel-37842627",
+     "pub": "2026-11-04T13:49+00:00"
     },
     {
-     "medio": "Planet Football",
-     "titulo": "Can you name every West Ham manager in the Premier League era?",
-     "url": "https://www.planetfootball.com/quizzes/can-you-name-every-west-ham-manager-in-the-premier-league-era",
-     "pub": "2026-11-03T10:35+00:00"
+     "medio": "Yahoo",
+     "titulo": "Manchester United weighing up legal action against Real Madrid over JJ Gabriel transfer",
+     "url": "https://sports.yahoo.com/articles/manchester-united-weighing-legal-action-142200293.html",
+     "pub": "2026-11-04T14:22+00:00"
     },
     {
-     "medio": "Google News EN",
-     "titulo": "West Ham fan shares 'relief' over sacking of Nuno Espirito Santo",
-     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNeGgzLS1qQWU3ZTFkUWNHMFNFbkJXalhwM19veDVzRjBwcGRLOU5WbnFpb3dxNDBFbVNBeWJ1eHFBS1NUOWxhMXBvTmUwa25pYU9EQmI3cjUxOV9GTDNjMlkzemdMU21JS19WcjBVeTdGa01QM2g1NWlsSjM5eThzNF93X3g5WXd4YjNSM3VrT2ZteXBMcWlHYWxtMm1Rc0xkN1ktR3F2MVdnUDhHWHVqdGdR?oc=5",
-     "pub": "2026-11-03T10:42+00:00"
-    },
-    {
-     "medio": "Google News EN",
-     "titulo": "Scott Parker: Rob Green and John Moncur back West Ham move",
-     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFAwNUs1eHpNbUp2YXFBbUo4SlFUOFg5eXM3ODQxSlNRYzNtR2c5R2FhSGprX3hPNW9leDNuM0hWMGNRTUFRYXZxejBWa2Jid00wZGFsRlpKb21wODhMQ0VQWEtxaW9WZDJFUlJR?oc=5",
-     "pub": "2026-11-03T12:32+00:00"
+     "medio": "Yahoo",
+     "titulo": "Manchester United phenom JJ Gabriel reportedly reaches agreement with Real Madrid",
+     "url": "https://sports.yahoo.com/articles/manchester-united-phenom-jj-gabriel-135703934.html",
+     "pub": "2026-11-04T13:57+00:00"
     },
     {
      "medio": "Google News EN",
-     "titulo": "West Ham approach Scott Parker after sacking Nuno Espirito Santo",
-     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE15TlJreUp1Sk9pYVZydmNYTmIybGxVREtDWmtLRE10VWx3UDFkVk9uaVFNMTcwcDBZQ3hoVkw5b0RYLUxJYllGc19zRmpRQ2phS3hTQlVsbVdETURRUEZDVXBQMXRBRzRTdlhJ?oc=5",
-     "pub": "2026-11-03T08:50+00:00"
-    }
-   ]
-  },
-  {
-   "tema": "Ham",
-   "medios": 14,
-   "lista_medios": [
-    "BBC",
-    "Daily Mail",
-    "Foot Mercato",
-    "Google News EN",
-    "Guardian",
-    "Kicker",
-    "L'Equipe",
-    "Mirror",
-    "Mundo Deportivo",
-    "Planet Football",
-    "Record",
-    "Sky Sports",
-    "Yahoo",
-    "talkSPORT"
-   ],
-   "primera_vez": "2026-11-03T14:34+00:00",
-   "titulares": [
-    {
-     "medio": "BBC",
-     "titulo": "West Ham approach Parker after sacking boss Nuno",
-     "url": "https://www.bbc.co.uk/sport/football/articles/c63dj3zpl85go?at_medium=RSS&at_campaign=rss",
-     "pub": "2026-11-03T12:42+00:00"
-    },
-    {
-     "medio": "Guardian",
-     "titulo": "West Ham turn to Scott Parker after sacking Nuno Espírito Santo as head coach",
-     "url": "https://www.theguardian.com/football/2026/nov/03/west-ham-sack-nuno-espirito-santo-as-head-coach",
-     "pub": "2026-11-03T09:43+00:00"
-    },
-    {
-     "medio": "Sky Sports",
-     "titulo": "West Ham latest: Your views as Parker lined up to replace Nuno",
-     "url": "https://www.skysports.com/football/live-blog/12040/13210475/west-ham-latest-news",
-     "pub": "2026-11-03T08:50+00:00"
-    },
-    {
-     "medio": "talkSPORT",
-     "titulo": "Simon Jordan hands West Ham huge Scott Parker warning as club icon slams recruitment",
-     "url": "https://talksport.com/football/4684699/west-ham-simon-jordan-scott-parker/",
-     "pub": "2026-11-03T12:27+00:00"
-    },
-    {
-     "medio": "talkSPORT",
-     "titulo": "West Ham reach agreement with club legend to immediately replace Nuno Espirito Santo",
-     "url": "https://talksport.com/football/4684466/west-ham-scott-parker-nuno-espirito-santo/",
-     "pub": "2026-11-03T09:38+00:00"
-    },
-    {
-     "medio": "talkSPORT",
-     "titulo": "Nuno Espirito Santo sacked by West Ham despite sitting eighth as interim immediately named",
-     "url": "https://talksport.com/football/4684352/nuno-espirito-santo-sacked-west-ham-manager/",
-     "pub": "2026-11-03T08:56+00:00"
-    },
-    {
-     "medio": "Daily Mail",
-     "titulo": "West Ham star's WAG aims brutal parting dig at Nuno Espirito Santo after Hammers sacked under-fire manager - while team-mate 'likes' club post confirming his exit",
-     "url": "https://www.dailymail.com/sport/football/article-16261505/west-ham-sack-nuno-espirito-santo.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-     "pub": "2026-11-03T11:25+00:00"
-    },
-    {
-     "medio": "Mirror",
-     "titulo": "West Ham sack Nuno Espirito Santo with Scott Parker lined up to replace him",
-     "url": "https://www.mirror.co.uk/sport/football/news/west-ham-sack-nuno-espirito-37837008",
-     "pub": "2026-11-03T08:57+00:00"
-    },
-    {
-     "medio": "Planet Football",
-     "titulo": "Can you name every West Ham manager in the Premier League era?",
-     "url": "https://www.planetfootball.com/quizzes/can-you-name-every-west-ham-manager-in-the-premier-league-era",
-     "pub": "2026-11-03T10:35+00:00"
+     "titulo": "JJ Gabriel: Real Madrid confident of signing Manchester United forward",
+     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9xRVJBV01ucGxrSWtyZTBxc2gzNFFQekI2SF9BZmpMdXdTSlh1c0h5X2xLVHY1azEzOTV1TzlockhUcUFEZXdSZ2hRdFJFNVp4ZzItUTlvamlUU1dLR2JFYVNfRWE2QU85VTRF?oc=5",
+     "pub": "2026-11-04T09:15+00:00"
     },
     {
      "medio": "Google News EN",
-     "titulo": "West Ham fan shares 'relief' over sacking of Nuno Espirito Santo",
-     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNeGgzLS1qQWU3ZTFkUWNHMFNFbkJXalhwM19veDVzRjBwcGRLOU5WbnFpb3dxNDBFbVNBeWJ1eHFBS1NUOWxhMXBvTmUwa25pYU9EQmI3cjUxOV9GTDNjMlkzemdMU21JS19WcjBVeTdGa01QM2g1NWlsSjM5eThzNF93X3g5WXd4YjNSM3VrT2ZteXBMcWlHYWxtMm1Rc0xkN1ktR3F2MVdnUDhHWHVqdGdR?oc=5",
-     "pub": "2026-11-03T10:42+00:00"
+     "titulo": "Man Utd youngsters: Paul Merson has his say on Shea Lacey and JJ Gabriel",
+     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPcFFXdTN3cUZaNmlBQ0lBQmdxY3VxOERKcFQzX2Rwck9mTXdPbHhoQjl4SEFnbVNJWXp1VVNuYXRleUFHQk4xNTl5NW85SzRXNUFmeFU1emcyajRyNFgxUlJaM2wxNlJwb2lHaEhuZV8yWmJLeFRFZkR3TWdlZHVsX3QxNDdSTEc2U3ZhLUdIZ0pqdkJDMVNVR2hENlRUM05sQm5xRklKTVpBdmdocWh0Z0VRZmktM3l4alEwUUZB?oc=5",
+     "pub": "2026-11-04T12:40+00:00"
     },
     {
-     "medio": "Google News EN",
-     "titulo": "Scott Parker: Rob Green and John Moncur back West Ham move",
-     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFAwNUs1eHpNbUp2YXFBbUo4SlFUOFg5eXM3ODQxSlNRYzNtR2c5R2FhSGprX3hPNW9leDNuM0hWMGNRTUFRYXZxejBWa2Jid00wZGFsRlpKb21wODhMQ0VQWEtxaW9WZDJFUlJR?oc=5",
-     "pub": "2026-11-03T12:32+00:00"
-    },
-    {
-     "medio": "Google News EN",
-     "titulo": "West Ham approach Scott Parker after sacking Nuno Espirito Santo",
-     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE15TlJreUp1Sk9pYVZydmNYTmIybGxVREtDWmtLRE10VWx3UDFkVk9uaVFNMTcwcDBZQ3hoVkw5b0RYLUxJYllGc19zRmpRQ2phS3hTQlVsbVdETURRUEZDVXBQMXRBRzRTdlhJ?oc=5",
-     "pub": "2026-11-03T08:50+00:00"
+     "medio": "L'Equipe",
+     "titulo": "Le crack anglais JJ Gabriel, 16 ans, se rapproche du Real Madrid",
+     "url": "https://www.lequipe.fr/Football/Actualites/Le-crack-anglais-jj-gabriel-16-ans-se-rapproche-du-real-madrid/1741007#at_medium=RSS_feeds",
+     "pub": "2026-11-04T09:54+00:00"
     }
    ]
   },
@@ -779,125 +685,26 @@
    ]
   },
   {
-   "tema": "Aston",
-   "medios": 13,
+   "tema": "Barcelona",
+   "medios": 14,
    "lista_medios": [
     "AS",
     "Daily Mail",
-    "Foot Mercato",
     "FourFourTwo",
     "Google News AR",
     "Google News EN",
     "Google News ES",
     "Guardian",
-    "Mirror",
     "Mundo Deportivo",
-    "Sky Sports",
+    "Ole",
+    "Planet Football",
+    "Telegraph",
     "Yahoo",
+    "ge.globo",
     "talkSPORT"
    ],
    "primera_vez": "2026-11-03T14:34+00:00",
    "titulares": [
-    {
-     "medio": "Daily Mail",
-     "titulo": "Michael Carrick's next nightmare: How Aston Villa misfit Donyell Malen became Europe's hottest striker... as Roma star looks to pile on the misery for Man United in Champions League",
-     "url": "https://www.dailymail.com/sport/football/article-16258849/How-Aston-Villa-misfit-Donyell-Malen-Europes-hottest-striker-Roma-star-looks-pile-misery-Michael-Carrick-Man-United-Champions-League-clash.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-     "pub": "2026-11-03T09:31+00:00"
-    },
-    {
-     "medio": "Mirror",
-     "titulo": "'I swapped Barcelona for Aston Villa and it wasn't on good terms - the manager didn't speak to me'",
-     "url": "https://www.mirror.co.uk/sport/football/news/aston-villa-barcelona-transfer-decision-37834607",
-     "pub": "2026-11-03T07:00+00:00"
-    },
-    {
-     "medio": "Yahoo",
-     "titulo": "Barcelona vs Aston Villa: Match Preview, Latest Team News and Score Prediction",
-     "url": "https://sports.yahoo.com/articles/barcelona-vs-aston-villa-match-135000134.html",
-     "pub": "2026-11-03T13:50+00:00"
-    },
-    {
-     "medio": "Yahoo",
-     "titulo": "Confirmed: Barcelona announce squad list to face Aston Villa – four youth team players included",
-     "url": "https://sports.yahoo.com/articles/confirmed-barcelona-announce-squad-list-125800961.html",
-     "pub": "2026-11-03T12:58+00:00"
-    },
-    {
-     "medio": "Yahoo",
-     "titulo": "Orian Goren, Flick's surprise inclusion against Aston Villa 📋",
-     "url": "https://sports.yahoo.com/articles/orian-goren-flicks-surprise-inclusion-123200895.html",
-     "pub": "2026-11-03T12:32+00:00"
-    },
-    {
-     "medio": "AS",
-     "titulo": "Barcelona - Aston Villa hoy, en directo: jornada 4 de fase liga, Champions League en vivo",
-     "url": "https://as.com/futbol/champions/barcelona-aston-villa-hoy-en-directo-jornada-4-de-fase-liga-champions-league-en-vivo-f202611-d/",
-     "pub": "2026-11-03T14:30+00:00"
-    },
-    {
-     "medio": "Mundo Deportivo",
-     "titulo": "Las dos armas del Aston Villa que acechan al Barça",
-     "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261103/1004246660/dos-armas-aston-villa-acechan-barca.html",
-     "pub": ""
-    },
-    {
-     "medio": "Mundo Deportivo",
-     "titulo": "Orian Goren, principal novedad en la convocatoria ante el Aston Villa",
-     "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261103/1004246691/orian-goren-principal-novedad-convocatoria-aston-villa.html",
-     "pub": ""
-    },
-    {
-     "medio": "Guardian",
-     "titulo": "Barcelona v Aston Villa: Champions League – live",
-     "url": "https://www.theguardian.com/football/live/2026/nov/03/barcelona-v-aston-villa-champions-league-live",
-     "pub": "2026-11-03T20:59+00:00"
-    },
-    {
-     "medio": "Daily Mail",
-     "titulo": "Manchester United vs Roma - Champions League: Furious fans boo another embarrassing first half performance from Michael Carrick's side - and Barcelona lead against Aston Villa",
-     "url": "https://www.dailymail.com/sport/football/article-16262691/Manchester-United-vs-Roma-Champions-League-Aston-Villa-Barcelona-LIVE.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-     "pub": "2026-11-03T21:10+00:00"
-    },
-    {
-     "medio": "Daily Mail",
-     "titulo": "Prince William and Prince George cut frustrated figures as they watch their beloved Aston Villa concede early against Barcelona from directors' box",
-     "url": "https://www.dailymail.com/sport/football/article-16261633/Prince-William-Prince-George-cheer-Aston-Villa-directors-box-big-Champions-League-night-Barcelona.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-     "pub": "2026-11-03T21:01+00:00"
-    },
-    {
-     "medio": "FourFourTwo",
-     "titulo": "Watch Barcelona vs Aston Villa for FREE: Live Streams",
-     "url": "https://www.fourfourtwo.com/competition/watch-barcelona-vs-aston-villa-champions-league-2026-27-free",
-     "pub": "2026-11-03T17:10+00:00"
-    }
-   ]
-  },
-  {
-   "tema": "Barcelona",
-   "medios": 13,
-   "lista_medios": [
-    "AS",
-    "Daily Mail",
-    "FourFourTwo",
-    "Google News AR",
-    "Google News EN",
-    "Google News ES",
-    "Guardian",
-    "Mirror",
-    "Mundo Deportivo",
-    "Planet Football",
-    "Telegraph",
-    "Yahoo",
-    "ge.globo"
-   ],
-   "primera_vez": "2026-11-03T14:34+00:00",
-   "titulares": [
-    {
-     "medio": "Mirror",
-     "titulo": "'I swapped Barcelona for Aston Villa and it wasn't on good terms - the manager didn't speak to me'",
-     "url": "https://www.mirror.co.uk/sport/football/news/aston-villa-barcelona-transfer-decision-37834607",
-     "pub": "2026-11-03T07:00+00:00"
-    },
     {
      "medio": "Planet Football",
      "titulo": "Can you name every player to score 10+ Champions League goals for Barcelona?",
@@ -963,202 +770,23 @@
      "titulo": "Barcelona have a new Premier League threat in the transfer market - and it's not who you might think",
      "url": "https://www.fourfourtwo.com/transfer/barcelona-have-a-new-premier-league-threat-in-the-transfer-market-and-its-not-who-you-might-think",
      "pub": "2026-11-03T15:00+00:00"
-    }
-   ]
-  },
-  {
-   "tema": "Parker",
-   "medios": 12,
-   "lista_medios": [
-    "BBC",
-    "Daily Mail",
-    "Google News EN",
-    "Guardian",
-    "Kicker",
-    "L'Equipe",
-    "Mirror",
-    "Mundo Deportivo",
-    "Planet Football",
-    "Record",
-    "Sky Sports",
-    "talkSPORT"
-   ],
-   "primera_vez": "2026-11-03T14:34+00:00",
-   "titulares": [
-    {
-     "medio": "BBC",
-     "titulo": "West Ham approach Parker after sacking boss Nuno",
-     "url": "https://www.bbc.co.uk/sport/football/articles/c63dj3zpl85go?at_medium=RSS&at_campaign=rss",
-     "pub": "2026-11-03T12:42+00:00"
-    },
-    {
-     "medio": "BBC",
-     "titulo": "Green backs 'proven' Parker for Hammers job",
-     "url": "https://www.bbc.co.uk/sport/football/articles/c893z569154yo?at_medium=RSS&at_campaign=rss",
-     "pub": "2026-11-03T12:32+00:00"
-    },
-    {
-     "medio": "Guardian",
-     "titulo": "West Ham turn to Scott Parker after sacking Nuno Espírito Santo as head coach",
-     "url": "https://www.theguardian.com/football/2026/nov/03/west-ham-sack-nuno-espirito-santo-as-head-coach",
-     "pub": "2026-11-03T09:43+00:00"
-    },
-    {
-     "medio": "Sky Sports",
-     "titulo": "West Ham latest: Your views as Parker lined up to replace Nuno",
-     "url": "https://www.skysports.com/football/live-blog/12040/13210475/west-ham-latest-news",
-     "pub": "2026-11-03T08:50+00:00"
-    },
-    {
-     "medio": "talkSPORT",
-     "titulo": "Simon Jordan hands West Ham huge Scott Parker warning as club icon slams recruitment",
-     "url": "https://talksport.com/football/4684699/west-ham-simon-jordan-scott-parker/",
-     "pub": "2026-11-03T12:27+00:00"
-    },
-    {
-     "medio": "Mirror",
-     "titulo": "West Ham sack Nuno Espirito Santo with Scott Parker lined up to replace him",
-     "url": "https://www.mirror.co.uk/sport/football/news/west-ham-sack-nuno-espirito-37837008",
-     "pub": "2026-11-03T08:57+00:00"
-    },
-    {
-     "medio": "Planet Football",
-     "titulo": "The day Scott Parker turned into WHU boss to inspire a three-goal comeback",
-     "url": "https://www.planetfootball.com/nostalgia/the-day-scott-parker-turned-into-west-ham-boss-to-inspire-a-three-goal-comeback",
-     "pub": "2026-11-03T09:44+00:00"
     },
     {
      "medio": "Google News EN",
-     "titulo": "Scott Parker: Rob Green and John Moncur back West Ham move",
-     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFAwNUs1eHpNbUp2YXFBbUo4SlFUOFg5eXM3ODQxSlNRYzNtR2c5R2FhSGprX3hPNW9leDNuM0hWMGNRTUFRYXZxejBWa2Jid00wZGFsRlpKb21wODhMQ0VQWEtxaW9WZDJFUlJR?oc=5",
-     "pub": "2026-11-03T12:32+00:00"
-    },
-    {
-     "medio": "Google News EN",
-     "titulo": "West Ham approach Scott Parker after sacking Nuno Espirito Santo",
-     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE15TlJreUp1Sk9pYVZydmNYTmIybGxVREtDWmtLRE10VWx3UDFkVk9uaVFNMTcwcDBZQ3hoVkw5b0RYLUxJYllGc19zRmpRQ2phS3hTQlVsbVdETURRUEZDVXBQMXRBRzRTdlhJ?oc=5",
-     "pub": "2026-11-03T08:50+00:00"
-    },
-    {
-     "medio": "Google News EN",
-     "titulo": "West Ham: Scott Parker to replace Nuno Espirito Santo?",
-     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFAxODZ3aDhyYnFyYnlYdG9YT3l3emJtQXpZMlZSa1pJVjlTQU9aTS01V3pQamVqS0pSTWhDZURiV00ycFhWaklCcFcxR2RQNkZ2TXA2WmNtV3o0dFg2aExDcWxIOGtCVGFu?oc=5",
-     "pub": "2026-11-03T14:03+00:00"
-    },
-    {
-     "medio": "Kicker",
-     "titulo": "West Ham trennt sich von Trainer Espirito Santo - Parker soll kommen",
-     "url": "https://www.kicker.de/west-ham-trennt-sich-von-trainer-espirito-santo-parker-soll-kommen-1268035/artikel#omrss",
-     "pub": "2026-11-03T09:23+00:00"
-    },
-    {
-     "medio": "Daily Mail",
-     "titulo": "'Players run through brick walls for him': How Scott Parker will fix West Ham - Mark Noble's helping hand, why insiders believe he can shed defensive style... and where it all went wrong for 'distant, dour' Nuno Espirito Santo",
-     "url": "https://www.dailymail.com/sport/football/article-16261611/West-Ham-Scott-Parker-Nuno-Noble.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-     "pub": "2026-11-03T18:09+00:00"
-    }
-   ]
-  },
-  {
-   "tema": "Jesús",
-   "medios": 12,
-   "lista_medios": [
-    "AS",
-    "Foot Mercato",
-    "Google News AR",
-    "Google News EN",
-    "Google News ES",
-    "Guardian",
-    "Infobae",
-    "Mundo Deportivo",
-    "Ole",
-    "Record",
-    "Yahoo",
-    "ge.globo"
-   ],
-   "primera_vez": "2026-11-03T14:34+00:00",
-   "titulares": [
-    {
-     "medio": "Guardian",
-     "titulo": "Tenerife footballer Jesús de Miguel dies aged 30 after on-pitch collision",
-     "url": "https://www.theguardian.com/football/2026/nov/03/tenerife-footballer-jesus-de-miguel-hospital-collision",
-     "pub": "2026-11-03T09:13+00:00"
-    },
-    {
-     "medio": "Yahoo",
-     "titulo": "Tenerife striker Jesús de Miguel dies after on-pitch collision with opponent",
-     "url": "https://sports.yahoo.com/soccer/article/tenerife-striker-jesus-de-miguel-dies-after-on-pitch-collision-with-opponent-134134967.html",
-     "pub": "2026-11-03T13:41+00:00"
-    },
-    {
-     "medio": "Google News EN",
-     "titulo": "Tenerife forward Jesús de Miguel dies aged 30 after on-field collision",
-     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxObmFDektFLWQ0UHZ3R01PcUFmeGFsYXNRb3RMZXFuYWpnYlE5amp6UHJTUUx6NVZLX3dNUkluQ1p0Tmh0RFF6VTdlbkNaQjY0ajRfaWkwT3ZLXzZ5dGNaWkFvczE1Y3R4a1dJMFZzUmUyQXNybHFsdWhKcGNhTEVWZ0lsSnZsMmlLNWgzZE03emx6b3hqekZOTEZMcWkxZUN0bEh2RmM5Z2ZvSlUxcGc?oc=5",
-     "pub": "2026-11-03T11:15+00:00"
-    },
-    {
-     "medio": "AS",
-     "titulo": "Muere Jesús de Miguel",
-     "url": "https://as.com/futbol/muere-jesus-de-miguel-f202611-n/",
-     "pub": "2026-11-03T08:37+00:00"
-    },
-    {
-     "medio": "AS",
-     "titulo": "Muere Jesús de Miguel: reacciones y última hora al fallecimiento del jugador del Tenerife, en directo",
-     "url": "https://as.com/futbol/muere-jesus-de-miguel-reacciones-y-ultima-hora-al-fallecimiento-del-jugador-del-tenerife-en-directo-f202611-n/",
-     "pub": "2026-11-03T14:30+00:00"
-    },
-    {
-     "medio": "AS",
-     "titulo": "Jesús de Miguel, una carrera de perseverancia con un final injusto",
-     "url": "https://as.com/futbol/segunda/jesus-de-miguel-una-carrera-de-perseverancia-con-un-final-injusto-f202611-n/",
-     "pub": "2026-11-03T09:30+00:00"
-    },
-    {
-     "medio": "AS",
-     "titulo": "Quién es Jesús Owono: está destrozado y es arropado por el Andorra",
-     "url": "https://as.com/futbol/segunda/quien-es-jesus-owono-esta-destrozado-y-es-arropado-por-el-andorra-f202611-n/",
-     "pub": "2026-11-03T11:51+00:00"
-    },
-    {
-     "medio": "AS",
-     "titulo": "La Policía abre una investigación sobre la muerte de Jesús de Miguel",
-     "url": "https://as.com/futbol/segunda/la-policia-abre-una-investigacion-sobre-la-muerte-de-jesus-de-miguel-f202611-n/",
-     "pub": "2026-11-03T13:02+00:00"
-    },
-    {
-     "medio": "AS",
-     "titulo": "El respetuosísimo minuto de silencio de la plantilla del Real Madrid por Jesús de Miguel",
-     "url": "https://as.com/futbol/videos/el-respetuosisimo-minuto-de-silencio-de-la-plantilla-del-real-madrid-por-jesus-de-miguel-sepulcral-f202611-v/",
-     "pub": "2026-11-03T09:44+00:00"
-    },
-    {
-     "medio": "AS",
-     "titulo": "Se suspende la jornada de fútbol tras el fallecimiento de Jesús de Miguel",
-     "url": "https://as.com/futbol/se-suspende-la-jornada-de-futbol-tras-el-fallecimiento-de-jesus-de-miguel-f202611-n/",
-     "pub": "2026-11-03T09:57+00:00"
-    },
-    {
-     "medio": "Mundo Deportivo",
-     "titulo": "Leo Messi, sobre el fallecimiento de Jesús de Miguel: \"No hay palabras\"",
-     "url": "https://www.mundodeportivo.com/futbol/tenerife/20261103/1004246707/leo-messi-sobre-fallecimiento-jesus-miguel-no-hay-palabras.html",
-     "pub": ""
-    },
-    {
-     "medio": "Mundo Deportivo",
-     "titulo": "Los árbitros se suman al dolor por la muerte de Jesús de Miguel y retrasan 'Tiempo de revisión'",
-     "url": "https://www.mundodeportivo.com/futbol/20261103/1004246686/arbitros-suman-dolor-muerte-jesus-miguel-retrasan-revision.html",
-     "pub": ""
+     "titulo": "‍‍‍~!(Football-Live!) Barcelona vs Aston Villa Live",
+     "url": "https://news.google.com/rss/articles/CBMitAJBVV95cUxPTnFlZjJ6d0NkdmNoT1JKa2xWTXV4VmZ2V1h4OGVmYUtqeDBISXlLTWM5Q3JZQlhXTU1kZUxJZmVmdG5pVUNtdmQwLWNoMTE1Y3ZNV3dmX1dwY204TWZhSTZyZFNQcjZaa195VEFtSGZra3NWVjhRVTB0NWhFVkRoQk9CODRUNnpnTTdZR0lQc09DdGNQVWdnZURHNVhJeGJVTzFfaGlYTXVOclhjSUpZNk1MNE9BazJBZWFmVXR1bi1fdU9zc2NnRU1tcGVaRnRPWW9iVHI4TDdac0hUemVpN2I5eEpHOUZmYThrTnFHOFpOeEZzZm5PY0VWdXhjTk91UjNxc2dYVzl1TV9RSFVySEZ1WTM5bk5sYndTaEtpSkM1OUxiVmFMajNVNWloQ0ctQkY1ZQ?oc=5",
+     "pub": "2026-11-03T20:19+00:00"
     }
    ]
   },
   {
    "tema": "Owono",
-   "medios": 12,
+   "medios": 14,
    "lista_medios": [
     "AS",
     "BBC",
     "Foot Mercato",
+    "FourFourTwo",
     "Google News AR",
     "Google News EN",
     "Google News ES",
@@ -1167,6 +795,7 @@
     "L'Equipe",
     "Mundo Deportivo",
     "Record",
+    "Sky Sports",
     "ge.globo"
    ],
    "primera_vez": "2026-11-03T14:34+00:00",
@@ -1246,8 +875,8 @@
    ]
   },
   {
-   "tema": "Nuno",
-   "medios": 11,
+   "tema": "West",
+   "medios": 13,
    "lista_medios": [
     "BBC",
     "Daily Mail",
@@ -1256,9 +885,11 @@
     "Guardian",
     "L'Equipe",
     "Mirror",
+    "Mundo Deportivo",
     "Planet Football",
     "Record",
     "Sky Sports",
+    "Yahoo",
     "talkSPORT"
    ],
    "primera_vez": "2026-11-03T14:34+00:00",
@@ -1276,10 +907,10 @@
      "pub": "2026-11-03T09:43+00:00"
     },
     {
-     "medio": "Sky Sports",
-     "titulo": "West Ham latest: Your views as Parker lined up to replace Nuno",
-     "url": "https://www.skysports.com/football/live-blog/12040/13210475/west-ham-latest-news",
-     "pub": "2026-11-03T08:50+00:00"
+     "medio": "talkSPORT",
+     "titulo": "Simon Jordan hands West Ham huge Scott Parker warning as club icon slams recruitment",
+     "url": "https://talksport.com/football/4684699/west-ham-simon-jordan-scott-parker/",
+     "pub": "2026-11-03T12:27+00:00"
     },
     {
      "medio": "talkSPORT",
@@ -1288,22 +919,16 @@
      "pub": "2026-11-03T09:38+00:00"
     },
     {
-     "medio": "talkSPORT",
-     "titulo": "Nuno Espirito Santo sacked by West Ham despite sitting eighth as interim immediately named",
-     "url": "https://talksport.com/football/4684352/nuno-espirito-santo-sacked-west-ham-manager/",
-     "pub": "2026-11-03T08:56+00:00"
-    },
-    {
      "medio": "Daily Mail",
      "titulo": "West Ham star's WAG aims brutal parting dig at Nuno Espirito Santo after Hammers sacked under-fire manager - while team-mate 'likes' club post confirming his exit",
      "url": "https://www.dailymail.com/sport/football/article-16261505/west-ham-sack-nuno-espirito-santo.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
      "pub": "2026-11-03T11:25+00:00"
     },
     {
-     "medio": "Mirror",
-     "titulo": "West Ham sack Nuno Espirito Santo with Scott Parker lined up to replace him",
-     "url": "https://www.mirror.co.uk/sport/football/news/west-ham-sack-nuno-espirito-37837008",
-     "pub": "2026-11-03T08:57+00:00"
+     "medio": "Planet Football",
+     "titulo": "Can you name every West Ham manager in the Premier League era?",
+     "url": "https://www.planetfootball.com/quizzes/can-you-name-every-west-ham-manager-in-the-premier-league-era",
+     "pub": "2026-11-03T10:35+00:00"
     },
     {
      "medio": "Google News EN",
@@ -1313,9 +938,9 @@
     },
     {
      "medio": "Google News EN",
-     "titulo": "West Ham approach Scott Parker after sacking Nuno Espirito Santo",
-     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE15TlJreUp1Sk9pYVZydmNYTmIybGxVREtDWmtLRE10VWx3UDFkVk9uaVFNMTcwcDBZQ3hoVkw5b0RYLUxJYllGc19zRmpRQ2phS3hTQlVsbVdETURRUEZDVXBQMXRBRzRTdlhJ?oc=5",
-     "pub": "2026-11-03T08:50+00:00"
+     "titulo": "Scott Parker: Rob Green and John Moncur back West Ham move",
+     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFAwNUs1eHpNbUp2YXFBbUo4SlFUOFg5eXM3ODQxSlNRYzNtR2c5R2FhSGprX3hPNW9leDNuM0hWMGNRTUFRYXZxejBWa2Jid00wZGFsRlpKb21wODhMQ0VQWEtxaW9WZDJFUlJR?oc=5",
+     "pub": "2026-11-03T12:32+00:00"
     },
     {
      "medio": "Google News EN",
@@ -1330,135 +955,227 @@
      "pub": "2026-11-03T10:07+00:00"
     },
     {
-     "medio": "L'Equipe",
-     "titulo": "L'entraîneur de West Ham, Nuno Espirito Santo, limogé par le club de Championship",
-     "url": "https://www.lequipe.fr/Football/Actualites/L-entraineur-de-west-ham-nuno-espirito-santo-limoge-par-le-club-de-championship/1740739#at_medium=RSS_feeds",
-     "pub": "2026-11-03T09:19+00:00"
-    }
-   ]
-  },
-  {
-   "tema": "Liverpool",
-   "medios": 11,
-   "lista_medios": [
-    "Daily Mail",
-    "Foot Mercato",
-    "Football Italia",
-    "FourFourTwo",
-    "Guardian",
-    "Infobae",
-    "L'Equipe",
-    "Mirror",
-    "Planet Football",
-    "Yahoo",
-    "talkSPORT"
-   ],
-   "primera_vez": "2026-11-03T14:34+00:00",
-   "titulares": [
-    {
-     "medio": "talkSPORT",
-     "titulo": "What time is Fenerbahce vs Liverpool as clubs meet for first time in early kick-off",
-     "url": "https://talksport.com/football/4685116/where-watch-fenerbahce-liverpool-kick-off-time/",
-     "pub": "2026-11-03T14:20+00:00"
-    },
-    {
-     "medio": "Mirror",
-     "titulo": "How Arsenal blunted Liverpool and the two people out of their depth at Anfield",
-     "url": "https://www.mirror.co.uk/sport/football/news/liverpool-performance-stats-arsenal-anfield-37836708",
-     "pub": "2026-11-03T07:42+00:00"
-    },
-    {
-     "medio": "Mirror",
-     "titulo": "Liverpool news: Andoni Iraola decision lamented as fresh tunnel footage sparks fury",
-     "url": "https://www.mirror.co.uk/sport/football/news/liverpool-andoni-iraola-arsenal-latest-37834185",
-     "pub": "2026-11-03T05:00+00:00"
-    },
-    {
-     "medio": "FourFourTwo",
-     "titulo": "'Suffering' Liverpool attacker likely to leave in January: report",
-     "url": "https://www.fourfourtwo.com/transfer/suffering-liverpool-attacker-likely-to-leave-in-january-report",
-     "pub": "2026-11-03T14:00+00:00"
-    },
-    {
-     "medio": "FourFourTwo",
-     "titulo": "Kenny Dalglish: \"It's not often that Liverpool fans go to Anfield and want the opposition to win, is it?\"",
-     "url": "https://www.fourfourtwo.com/person/coaches-managers/its-not-often-that-liverpool-fans-go-to-anfield-and-want-the-opposition-to-win-is-it-sir-kenny-dalglish-on-the-day-reds-supporters-cheered-against-their-side-much-to-sir-alex-fergusons-disgust",
-     "pub": "2026-11-03T09:00+00:00"
-    },
-    {
-     "medio": "Yahoo",
-     "titulo": "Liverpool dealt major injury blow ahead of Fenerbahce clash",
-     "url": "https://sports.yahoo.com/articles/liverpool-dealt-major-injury-blow-135000650.html",
-     "pub": "2026-11-03T13:50+00:00"
-    },
-    {
-     "medio": "Yahoo",
-     "titulo": "Journalist: Liverpool are still in the race to sign Premier League midfielder",
-     "url": "https://sports.yahoo.com/articles/journalist-liverpool-still-race-sign-125000802.html",
-     "pub": "2026-11-03T12:50+00:00"
-    },
-    {
-     "medio": "Football Italia",
-     "titulo": "Mancini travels to England, but Italy and Liverpool still waiting for Leoni’s return",
-     "url": "https://football-italia.net/mancini-england-italy-liverpool-wait-leoni/",
-     "pub": "2026-11-03T11:56+00:00"
-    },
-    {
      "medio": "Guardian",
-     "titulo": "Andoni Iraola calls on Liverpool to sharpen up in attack before Fenerbahce test",
-     "url": "https://www.theguardian.com/football/2026/nov/03/andoni-iraola-calls-on-liverpool-to-sharpen-up-in-attack-before-fenerbahce-test",
-     "pub": "2026-11-03T18:42+00:00"
+     "titulo": "Football Daily | West Ham want promotion – so it’s time to call in an understated club legend",
+     "url": "https://www.theguardian.com/football/2026/nov/03/west-ham-scott-parker-football-daily-newsletter",
+     "pub": "2026-11-03T15:55+00:00"
     },
     {
-     "medio": "Mirror",
-     "titulo": "Alexis Mac Allister makes 'painful' Liverpool admission and makes transfer stance clear",
-     "url": "https://www.mirror.co.uk/sport/football/transfer-news/alexis-mac-allister-liverpool-contract-37839810",
-     "pub": "2026-11-03T18:49+00:00"
-    },
-    {
-     "medio": "Yahoo",
-     "titulo": "“I want to give credit to Liverpool” – Mikel Arteta praises Andoni Iraola’s side",
-     "url": "https://sports.yahoo.com/articles/want-credit-liverpool-mikel-arteta-205000360.html",
-     "pub": "2026-11-03T20:50+00:00"
-    },
-    {
-     "medio": "Yahoo",
-     "titulo": "Report: Liverpool midfielder ‘certain’ to leave in 2027",
-     "url": "https://sports.yahoo.com/articles/report-liverpool-midfielder-certain-leave-195000332.html",
-     "pub": "2026-11-03T19:50+00:00"
+     "medio": "Sky Sports",
+     "titulo": "West Brom lead Southampton LIVE!",
+     "url": "https://www.skysports.com/football/west-bromwich-albion-vs-southampton/live/560661",
+     "pub": "2026-11-03T19:20+00:00"
     }
    ]
   },
   {
-   "tema": "Man",
-   "medios": 11,
+   "tema": "Ham",
+   "medios": 13,
    "lista_medios": [
     "BBC",
     "Daily Mail",
-    "Football Italia",
+    "Foot Mercato",
     "Google News EN",
-    "Kicker",
+    "Guardian",
+    "L'Equipe",
     "Mirror",
+    "Mundo Deportivo",
     "Planet Football",
+    "Record",
     "Sky Sports",
-    "Telegraph",
     "Yahoo",
     "talkSPORT"
    ],
    "primera_vez": "2026-11-03T14:34+00:00",
    "titulares": [
     {
+     "medio": "BBC",
+     "titulo": "West Ham approach Parker after sacking boss Nuno",
+     "url": "https://www.bbc.co.uk/sport/football/articles/c63dj3zpl85go?at_medium=RSS&at_campaign=rss",
+     "pub": "2026-11-03T12:42+00:00"
+    },
+    {
+     "medio": "Guardian",
+     "titulo": "West Ham turn to Scott Parker after sacking Nuno Espírito Santo as head coach",
+     "url": "https://www.theguardian.com/football/2026/nov/03/west-ham-sack-nuno-espirito-santo-as-head-coach",
+     "pub": "2026-11-03T09:43+00:00"
+    },
+    {
      "medio": "talkSPORT",
-     "titulo": "Transfer Notebook: Saudi club will not relaunch Bruno Fernandes raid amid uncertain Man United future",
-     "url": "https://talksport.com/football/4685378/transfer-news-saudi-bruno-fernandes-man-united-contract/",
-     "pub": "2026-11-03T14:10+00:00"
+     "titulo": "Simon Jordan hands West Ham huge Scott Parker warning as club icon slams recruitment",
+     "url": "https://talksport.com/football/4684699/west-ham-simon-jordan-scott-parker/",
+     "pub": "2026-11-03T12:27+00:00"
+    },
+    {
+     "medio": "talkSPORT",
+     "titulo": "West Ham reach agreement with club legend to immediately replace Nuno Espirito Santo",
+     "url": "https://talksport.com/football/4684466/west-ham-scott-parker-nuno-espirito-santo/",
+     "pub": "2026-11-03T09:38+00:00"
     },
     {
      "medio": "Daily Mail",
-     "titulo": "Nicky Butt doubles down on Michael Carrick's 'management's not for me' claim - as he pinpoints moment under-fire Man United boss made comment",
-     "url": "https://www.dailymail.com/sport/football/article-16261429/Nicky-Butt-doubles-Michael-Carricks-managements-not-claim-pinpoints-moment-fire-Man-United-boss-comment.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-     "pub": "2026-11-03T12:21+00:00"
+     "titulo": "West Ham star's WAG aims brutal parting dig at Nuno Espirito Santo after Hammers sacked under-fire manager - while team-mate 'likes' club post confirming his exit",
+     "url": "https://www.dailymail.com/sport/football/article-16261505/west-ham-sack-nuno-espirito-santo.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+     "pub": "2026-11-03T11:25+00:00"
     },
+    {
+     "medio": "Planet Football",
+     "titulo": "Can you name every West Ham manager in the Premier League era?",
+     "url": "https://www.planetfootball.com/quizzes/can-you-name-every-west-ham-manager-in-the-premier-league-era",
+     "pub": "2026-11-03T10:35+00:00"
+    },
+    {
+     "medio": "Google News EN",
+     "titulo": "West Ham fan shares 'relief' over sacking of Nuno Espirito Santo",
+     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNeGgzLS1qQWU3ZTFkUWNHMFNFbkJXalhwM19veDVzRjBwcGRLOU5WbnFpb3dxNDBFbVNBeWJ1eHFBS1NUOWxhMXBvTmUwa25pYU9EQmI3cjUxOV9GTDNjMlkzemdMU21JS19WcjBVeTdGa01QM2g1NWlsSjM5eThzNF93X3g5WXd4YjNSM3VrT2ZteXBMcWlHYWxtMm1Rc0xkN1ktR3F2MVdnUDhHWHVqdGdR?oc=5",
+     "pub": "2026-11-03T10:42+00:00"
+    },
+    {
+     "medio": "Google News EN",
+     "titulo": "Scott Parker: Rob Green and John Moncur back West Ham move",
+     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFAwNUs1eHpNbUp2YXFBbUo4SlFUOFg5eXM3ODQxSlNRYzNtR2c5R2FhSGprX3hPNW9leDNuM0hWMGNRTUFRYXZxejBWa2Jid00wZGFsRlpKb21wODhMQ0VQWEtxaW9WZDJFUlJR?oc=5",
+     "pub": "2026-11-03T12:32+00:00"
+    },
+    {
+     "medio": "Google News EN",
+     "titulo": "West Ham: Scott Parker to replace Nuno Espirito Santo?",
+     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFAxODZ3aDhyYnFyYnlYdG9YT3l3emJtQXpZMlZSa1pJVjlTQU9aTS01V3pQamVqS0pSTWhDZURiV00ycFhWaklCcFcxR2RQNkZ2TXA2WmNtV3o0dFg2aExDcWxIOGtCVGFu?oc=5",
+     "pub": "2026-11-03T14:03+00:00"
+    },
+    {
+     "medio": "Google News EN",
+     "titulo": "West Ham: Nuno Espirito Santo sacked by Hammers with club sitting in eighth place in the Championship",
+     "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPc25fRW41Y1JycUFYTTVncWd4N3M5TXhFQ2lheHBGRzZBU1JvdTYwSmFERHFWalJLbkxId19oeFFGdGktM0hld0tqSkdmd0Z1R3JtSHZYTlBYeWhtYTRvelg1S003WUFCZkxWM3hfa0VEeS1BVWpLV1liOTQ3cktaN1dEUENPa29FVGt2Q0g4VUJfX3pBQlduMndieE1CTVFtTzNVeUhjQVo4U3VJUXRwZTU0MnlVT1dOaG5vVG42U1hOdFJEcDA4V2VKa1dDRjZ4NjlxbGRHeFJDeDFsaVhMSE5NWQ?oc=5",
+     "pub": "2026-11-03T10:07+00:00"
+    },
+    {
+     "medio": "Guardian",
+     "titulo": "Football Daily | West Ham want promotion – so it’s time to call in an understated club legend",
+     "url": "https://www.theguardian.com/football/2026/nov/03/west-ham-scott-parker-football-daily-newsletter",
+     "pub": "2026-11-03T15:55+00:00"
+    },
+    {
+     "medio": "talkSPORT",
+     "titulo": "Jurgen Klopp told he must pick West Ham loanee for Germany – he’s playing at Kylian Mbappe level",
+     "url": "https://talksport.com/football/4685444/jurgen-klopp-germany-squad-niclas-fullkrug-west-ham/",
+     "pub": "2026-11-03T15:52+00:00"
+    }
+   ]
+  },
+  {
+   "tema": "Tenerife",
+   "medios": 13,
+   "lista_medios": [
+    "AS",
+    "BBC",
+    "Google News AR",
+    "Google News EN",
+    "Google News ES",
+    "L'Equipe",
+    "Mirror",
+    "Mundo Deportivo",
+    "Ole",
+    "Record",
+    "Sky Sports",
+    "Yahoo",
+    "ge.globo"
+   ],
+   "primera_vez": "2026-11-03T14:34+00:00",
+   "titulares": [
+    {
+     "medio": "Sky Sports",
+     "titulo": "Tenerife striker dies following collision during match",
+     "url": "https://www.skysports.com/football/news/12040/13607401/tenerife-striker-jesus-de-miguel-dies-after-cardiac-arrest-following-collision-during-a-match",
+     "pub": "2026-11-03T09:55+00:00"
+    },
+    {
+     "medio": "Yahoo",
+     "titulo": "Tenerife striker Jesús de Miguel dies after on-pitch collision with opponent",
+     "url": "https://sports.yahoo.com/soccer/article/tenerife-striker-jesus-de-miguel-dies-after-on-pitch-collision-with-opponent-134134967.html",
+     "pub": "2026-11-03T13:41+00:00"
+    },
+    {
+     "medio": "Yahoo",
+     "titulo": "Tenerife player Jesus de Miguel dies in hospital after on-pitch collision",
+     "url": "https://sports.yahoo.com/articles/tenerife-player-jesus-miguel-dies-092128853.html",
+     "pub": "2026-11-03T12:06+00:00"
+    },
+    {
+     "medio": "Google News EN",
+     "titulo": "Spanish football in mourning after death of Tenerife player Jesus de Miguel following on-pitch collision",
+     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNTjVPMVZEcEhvcEtESG9XYXlWeWRPbHBraGFYZldvUmU5bVhPUlRrdm11WWtOdWJRZXJyT0xqSW5YZ2dxbUFpc0c4NDhiUTc5dktKam1EMTVGS2txN2hoZzVSeUthY0JraFFhSzFZLUFFem1TT1dtLXpZSlBYSlppNmZnS0YtUDFaNFNBOWc5OU1iaVNHS0E?oc=5",
+     "pub": "2026-11-03T09:41+00:00"
+    },
+    {
+     "medio": "Google News EN",
+     "titulo": "Tenerife forward Jesús de Miguel dies aged 30 after on-field collision",
+     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxObmFDektFLWQ0UHZ3R01PcUFmeGFsYXNRb3RMZXFuYWpnYlE5amp6UHJTUUx6NVZLX3dNUkluQ1p0Tmh0RFF6VTdlbkNaQjY0ajRfaWkwT3ZLXzZ5dGNaWkFvczE1Y3R4a1dJMFZzUmUyQXNybHFsdWhKcGNhTEVWZ0lsSnZsMmlLNWgzZE03emx6b3hqekZOTEZMcWkxZUN0bEh2RmM5Z2ZvSlUxcGc?oc=5",
+     "pub": "2026-11-03T11:15+00:00"
+    },
+    {
+     "medio": "Google News EN",
+     "titulo": "Tenerife striker Jesus de Miguel dies after cardiac arrest following collision during a match",
+     "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNbGM0WHZLclBiR2poY2J2RHhKRmhFYThqTEdoTVBJeE5fTGp2NjByT1NDUFA5ak1xbUl0ejRtVGJoR0NSLUNLa3FSRC1BT2lPWHBLbFlnX1AydGUyeHpVamtMbFRWUlJwUlQ1b2NWUGtZeGhZMUJwWlM4V1c5V3luSmNfVERyMFA1MC1CWUJFWV85R0NrTmF5cTF6RE16eWJ4cFZWQnY2ejl2RElvSUgxczVOang3R18tV2UxbXdtUGxDWVBpWGtPZXhQbVpscjQzc2lNcXJRQ0FDUQ?oc=5",
+     "pub": "2026-11-03T11:46+00:00"
+    },
+    {
+     "medio": "AS",
+     "titulo": "Muere Jesús de Miguel: reacciones y última hora al fallecimiento del jugador del Tenerife, en directo",
+     "url": "https://as.com/futbol/muere-jesus-de-miguel-reacciones-y-ultima-hora-al-fallecimiento-del-jugador-del-tenerife-en-directo-f202611-n/",
+     "pub": "2026-11-03T14:30+00:00"
+    },
+    {
+     "medio": "AS",
+     "titulo": "Un día de luto en Tenerife: “No hay palabras de consuelo”",
+     "url": "https://as.com/futbol/segunda/no-hay-palabras-de-consuelo-f202611-n/",
+     "pub": "2026-11-03T09:28+00:00"
+    },
+    {
+     "medio": "Mundo Deportivo",
+     "titulo": "Primeras palabras del presidente del Tenerife: \"Es una situación no vivida\"",
+     "url": "https://www.mundodeportivo.com/futbol/tenerife/20261103/1004246702/primeras-palabras-presidente-tenerife-situacion-no-vivida-jugador-muere-terreno-juego.html",
+     "pub": ""
+    },
+    {
+     "medio": "Mundo Deportivo",
+     "titulo": "Un miembro del equipo médico del Tenerife: \"Un chico de 30 años no puede morir jugando al fútbol\"",
+     "url": "https://www.mundodeportivo.com/futbol/20261103/1004246704/faustino-afonso-miembro-equipo-medico-tenerife-chico-30-anos-no-morir-jugando-futbol-cambiar-esto-no-ocurra.html",
+     "pub": ""
+    },
+    {
+     "medio": "Mundo Deportivo",
+     "titulo": "Decretados tres días de luto en Tenerife tras el fallecimiento de De Miguel",
+     "url": "https://www.mundodeportivo.com/futbol/tenerife/20261103/1004246646/decretados-tres-dias-luto-tenerife.html",
+     "pub": ""
+    },
+    {
+     "medio": "Google News ES",
+     "titulo": "El mundo del fútbol llora la muerte de Jesús de Miguel, jugador del CD Tenerife",
+     "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBkVUp0eHp0TXhqVXNoWHdhUmcwaW43R052REdjWEdyRGtYdHVpZVhuZWFoQjVWbnV2OUF6LUt4ZVRQSlMzRXFmd1E2OE9VX3JETVpXbk1sanpGSlJmcjJ1M0JvTVYxU2RMV1dJb0pHLXE4YmVtYTJLYUJfY0Q?oc=5",
+     "pub": "2026-11-03T12:01+00:00"
+    }
+   ]
+  },
+  {
+   "tema": "Aston",
+   "medios": 13,
+   "lista_medios": [
+    "AS",
+    "Daily Mail",
+    "Foot Mercato",
+    "FourFourTwo",
+    "Google News AR",
+    "Google News EN",
+    "Google News ES",
+    "Guardian",
+    "Mirror",
+    "Mundo Deportivo",
+    "Sky Sports",
+    "Yahoo",
+    "talkSPORT"
+   ],
+   "primera_vez": "2026-11-03T14:34+00:00",
+   "titulares": [
     {
      "medio": "Daily Mail",
      "titulo": "Michael Carrick's next nightmare: How Aston Villa misfit Donyell Malen became Europe's hottest striker... as Roma star looks to pile on the misery for Man United in Champions League",
@@ -1466,65 +1183,78 @@
      "pub": "2026-11-03T09:31+00:00"
     },
     {
-     "medio": "Daily Mail",
-     "titulo": "Nicky Butt tears into 'bluffer' and 'cheat' Lisandro Martinez after his red card against Chelsea - and insists he should be the first player on Man United's chopping block in January",
-     "url": "https://www.dailymail.com/sport/football/article-16259767/Nicky-Butt-bluffer-Lisandro-Martinez-Man-United.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-     "pub": "2026-11-03T08:05+00:00"
+     "medio": "Yahoo",
+     "titulo": "Barcelona vs Aston Villa: Match Preview, Latest Team News and Score Prediction",
+     "url": "https://sports.yahoo.com/articles/barcelona-vs-aston-villa-match-135000134.html",
+     "pub": "2026-11-03T13:50+00:00"
+    },
+    {
+     "medio": "Yahoo",
+     "titulo": "Confirmed: Barcelona announce squad list to face Aston Villa – four youth team players included",
+     "url": "https://sports.yahoo.com/articles/confirmed-barcelona-announce-squad-list-125800961.html",
+     "pub": "2026-11-03T12:58+00:00"
+    },
+    {
+     "medio": "Yahoo",
+     "titulo": "Orian Goren, Flick's surprise inclusion against Aston Villa 📋",
+     "url": "https://sports.yahoo.com/articles/orian-goren-flicks-surprise-inclusion-123200895.html",
+     "pub": "2026-11-03T12:32+00:00"
+    },
+    {
+     "medio": "AS",
+     "titulo": "Barcelona - Aston Villa hoy, en directo: jornada 4 de fase liga, Champions League en vivo",
+     "url": "https://as.com/futbol/champions/barcelona-aston-villa-hoy-en-directo-jornada-4-de-fase-liga-champions-league-en-vivo-f202611-d/",
+     "pub": "2026-11-03T14:30+00:00"
+    },
+    {
+     "medio": "Mundo Deportivo",
+     "titulo": "Las dos armas del Aston Villa que acechan al Barça",
+     "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261103/1004246660/dos-armas-aston-villa-acechan-barca.html",
+     "pub": ""
+    },
+    {
+     "medio": "Mundo Deportivo",
+     "titulo": "Orian Goren, principal novedad en la convocatoria ante el Aston Villa",
+     "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261103/1004246691/orian-goren-principal-novedad-convocatoria-aston-villa.html",
+     "pub": ""
+    },
+    {
+     "medio": "Guardian",
+     "titulo": "Barcelona v Aston Villa: Champions League – live",
+     "url": "https://www.theguardian.com/football/live/2026/nov/03/barcelona-v-aston-villa-champions-league-live",
+     "pub": "2026-11-03T20:59+00:00"
     },
     {
      "medio": "Daily Mail",
-     "titulo": "Man United Confidential: Club on red alert to prevent repeat of shocking Roma violence, why football insiders doubt Unai Emery is right fit for Old Trafford and meet the 17-year-old lighting up Darren Fletcher's impressive youth team",
-     "url": "https://www.dailymail.com/sport/football/article-16261563/man-united-roma-violence-emery-fletcher.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-     "pub": "2026-11-03T14:16+00:00"
+     "titulo": "Manchester United vs Roma - Champions League: Furious fans boo another embarrassing first half performance from Michael Carrick's side - and Barcelona lead against Aston Villa",
+     "url": "https://www.dailymail.com/sport/football/article-16262691/Manchester-United-vs-Roma-Champions-League-Aston-Villa-Barcelona-LIVE.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+     "pub": "2026-11-03T21:10+00:00"
     },
     {
-     "medio": "Mirror",
-     "titulo": "Jason Wilcox tipped Russell Martin as future Man Utd boss during manager search",
-     "url": "https://www.mirror.co.uk/sport/football/news/jason-wilcox-tipped-russell-martin-37838251",
-     "pub": "2026-11-03T13:14+00:00"
+     "medio": "Daily Mail",
+     "titulo": "Prince William and Prince George cut frustrated figures as they watch their beloved Aston Villa concede early against Barcelona from directors' box",
+     "url": "https://www.dailymail.com/sport/football/article-16261633/Prince-William-Prince-George-cheer-Aston-Villa-directors-box-big-Champions-League-night-Barcelona.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+     "pub": "2026-11-03T21:01+00:00"
     },
     {
-     "medio": "Mirror",
-     "titulo": "Nicky Butt comes clean on private Michael Carrick job claim that upset Man Utd",
-     "url": "https://www.mirror.co.uk/sport/football/news/nicky-butt-carrick-man-united-37836904",
-     "pub": "2026-11-03T08:59+00:00"
+     "medio": "FourFourTwo",
+     "titulo": "Watch Barcelona vs Aston Villa for FREE: Live Streams",
+     "url": "https://www.fourfourtwo.com/competition/watch-barcelona-vs-aston-villa-champions-league-2026-27-free",
+     "pub": "2026-11-03T17:10+00:00"
     },
     {
-     "medio": "Mirror",
-     "titulo": "Man Utd swap deal solves two problems as door opened to January transfer",
-     "url": "https://www.mirror.co.uk/sport/football/transfer-news/man-utd-lisandro-martinez-balde-37835995",
-     "pub": "2026-11-03T07:38+00:00"
-    },
-    {
-     "medio": "Mirror",
-     "titulo": "Rio Ferdinand bemoans Man Utd missing out on Arsenal star during summer window",
-     "url": "https://www.mirror.co.uk/sport/football/news/ferdinand-konsa-arsenal-man-utd-37836693",
-     "pub": "2026-11-03T07:06+00:00"
-    },
-    {
-     "medio": "Mirror",
-     "titulo": "'I text Man Utd manager and told him he was s*** - I completely lost my temper'",
-     "url": "https://www.mirror.co.uk/sport/football/news/mkhitaryan-man-utd-roma-mourinho-37832947",
-     "pub": "2026-11-03T06:30+00:00"
-    },
-    {
-     "medio": "Mirror",
-     "titulo": "'I was linked with joining Man Utd – now I'm out to compound Michael Carrick's misery'",
-     "url": "https://www.mirror.co.uk/sport/football/news/man-utd-transfer-champions-league-37835828",
-     "pub": "2026-11-03T05:30+00:00"
-    },
-    {
-     "medio": "Mirror",
-     "titulo": "Man Utd news: 'Contact made' with wonderkid as Michael Carrick addresses player's commitment",
-     "url": "https://www.mirror.co.uk/sport/football/news/man-utd-carrick-martinez-karl-37835658",
-     "pub": "2026-11-03T04:30+00:00"
+     "medio": "Google News EN",
+     "titulo": "‍‍‍~!(Football-Live!) Barcelona vs Aston Villa Live",
+     "url": "https://news.google.com/rss/articles/CBMitAJBVV95cUxPTnFlZjJ6d0NkdmNoT1JKa2xWTXV4VmZ2V1h4OGVmYUtqeDBISXlLTWM5Q3JZQlhXTU1kZUxJZmVmdG5pVUNtdmQwLWNoMTE1Y3ZNV3dmX1dwY204TWZhSTZyZFNQcjZaa195VEFtSGZra3NWVjhRVTB0NWhFVkRoQk9CODRUNnpnTTdZR0lQc09DdGNQVWdnZURHNVhJeGJVTzFfaGlYTXVOclhjSUpZNk1MNE9BazJBZWFmVXR1bi1fdU9zc2NnRU1tcGVaRnRPWW9iVHI4TDdac0hUemVpN2I5eEpHOUZmYThrTnFHOFpOeEZzZm5PY0VWdXhjTk91UjNxc2dYVzl1TV9RSFVySEZ1WTM5bk5sYndTaEtpSkM1OUxiVmFMajNVNWloQ0ctQkY1ZQ?oc=5",
+     "pub": "2026-11-03T20:19+00:00"
     }
    ]
   },
   {
    "tema": "Arsenal",
-   "medios": 11,
+   "medios": 13,
    "lista_medios": [
+    "AS",
     "BBC",
     "Daily Mail",
     "Foot Mercato",
@@ -1533,6 +1263,7 @@
     "Guardian",
     "L'Equipe",
     "Mirror",
+    "Sky Sports",
     "Yahoo",
     "ge.globo",
     "talkSPORT"
@@ -1550,30 +1281,6 @@
      "titulo": "Viktor Gyokeres got brutal Mikel Arteta reality check as Arsenal transfer plan emerges",
      "url": "https://www.mirror.co.uk/sport/football/news/arsenal-viktor-gyokeres-mikel-arteta-37837689",
      "pub": "2026-11-03T11:37+00:00"
-    },
-    {
-     "medio": "Mirror",
-     "titulo": "How Arsenal blunted Liverpool and the two people out of their depth at Anfield",
-     "url": "https://www.mirror.co.uk/sport/football/news/liverpool-performance-stats-arsenal-anfield-37836708",
-     "pub": "2026-11-03T07:42+00:00"
-    },
-    {
-     "medio": "Mirror",
-     "titulo": "Rio Ferdinand bemoans Man Utd missing out on Arsenal star during summer window",
-     "url": "https://www.mirror.co.uk/sport/football/news/ferdinand-konsa-arsenal-man-utd-37836693",
-     "pub": "2026-11-03T07:06+00:00"
-    },
-    {
-     "medio": "Mirror",
-     "titulo": "Arsenal barred from playing Slavia Prague in Champions League at Fortuna Arena next season",
-     "url": "https://www.mirror.co.uk/sport/football/news/arsenal-champions-league-rule-change-37834147",
-     "pub": "2026-11-03T07:00+00:00"
-    },
-    {
-     "medio": "Mirror",
-     "titulo": "Arsenal news: Private Mikel Arteta conversation comes to light as manager hits out",
-     "url": "https://www.mirror.co.uk/sport/football/news/arsenal-liverpool-mikel-arteta-iraola-37834840",
-     "pub": "2026-11-03T04:00+00:00"
     },
     {
      "medio": "FourFourTwo",
@@ -1610,571 +1317,50 @@
      "titulo": "Arsenal receive huge boost as William Saliba returns to training",
      "url": "https://sports.yahoo.com/articles/arsenal-receive-huge-boost-william-123142065.html",
      "pub": "2026-11-03T12:31+00:00"
-    }
-   ]
-  },
-  {
-   "tema": "Atlético",
-   "medios": 11,
-   "lista_medios": [
-    "AS",
-    "Foot Mercato",
-    "Google News AR",
-    "Guardian",
-    "Infobae",
-    "L'Equipe",
-    "Mundo Deportivo",
-    "Ole",
-    "Record",
-    "Yahoo",
-    "ge.globo"
-   ],
-   "primera_vez": "2026-11-03T14:34+00:00",
-   "titulares": [
-    {
-     "medio": "AS",
-     "titulo": "Atlético - Bayern, en directo: jornada 4 de fase liga, Champions League, hoy, en vivo",
-     "url": "https://as.com/futbol/champions/atletico-bayern-en-directo-jornada-4-de-fase-liga-champions-league-hoy-en-vivo-f202611-d/",
-     "pub": "2026-11-03T14:30+00:00"
-    },
-    {
-     "medio": "L'Equipe",
-     "titulo": "À quelle heure et sur quelle chaîne voir Atlético Madrid-Bayern Munich",
-     "url": "https://www.lequipe.fr/Football/Actualites/A-quelle-heure-et-sur-quelle-chaine-voir-atletico-madrid-bayern-munich/1740579#at_medium=RSS_feeds",
-     "pub": "2026-11-03T07:40+00:00"
-    },
-    {
-     "medio": "Infobae",
-     "titulo": "Con Atlético Madrid-Bayern Múnich y Manchester United-Roma se abre la cuarta fecha de la Champions: la agenda completa",
-     "url": "https://www.infobae.com/deportes/2026/11/03/con-atletico-madrid-bayern-munich-y-manchester-united-roma-se-abre-la-cuarta-fecha-de-la-champions-la-agenda-completa/",
-     "pub": "2026-11-03T12:15+00:00"
-    },
-    {
-     "medio": "Google News AR",
-     "titulo": "Martes de Champions con partidazos: Atlético Madrid-Bayern, Barcelona-Aston Villa y Manchester-Roma",
-     "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPSzIySUl4WHZHdThHcm9mVlA1OTA3UGhhSDNVTTd5WkY1QlIxSkl6Y3pwLVJQeG82Z3NwWkM1MnRtRS00SUdRa1VaaWVweUU0TE5SRzJxOVNQVjllTjY3YWpDNFZWRDkxNUVYVXFjUEdOZFFJazlmVkswYUhxLVRFNjRrdFU0OXBFNjZZUlpyRXNnZVU2RkdoQmtvY2VUOU9GVnE1a3JUZ2oxaXFkQlJmZEpvTF9Qc0V0SEdYOHJqWTQzY0llSE81WV9JN0JZTUlQQjBYVV9tMlNXYzQ?oc=5",
-     "pub": "2026-11-03T13:07+00:00"
     },
     {
      "medio": "Yahoo",
-     "titulo": "Confirmed line-ups for Atlético de Madrid and Bayern Munich",
-     "url": "https://sports.yahoo.com/articles/confirmed-line-ups-atl-tico-185200721.html",
-     "pub": "2026-11-03T18:52+00:00"
+     "titulo": "Saliba & Dowman join Arsenal training pre-Slavia Praha",
+     "url": "https://sports.yahoo.com/articles/saliba-dowman-join-arsenal-training-122300889.html",
+     "pub": "2026-11-03T12:23+00:00"
     },
     {
-     "medio": "Mundo Deportivo",
-     "titulo": "Atlético - Bayern, en directo",
-     "url": "https://www.mundodeportivo.com/futbol/champions-league/20261103/1004244853/atletico-madrid-bayern-munich-directo-sigue-partido-champions-league-vivo.html",
-     "pub": ""
+     "medio": "Google News EN",
+     "titulo": "Football: Real Madrid and Arsenal pay tribute at training to Jesus de Miguel after the striker passed away",
+     "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFB0R1ZyV0IxRE1QQk5GM2ZCQUZsOEN0YmRsQWN4WVpDbFZLSE1FOFdnOEtDWWdnUzdtSTRYZnVQaTY2c2ZpWXRPbUF3RDJqQmdQcGgyZGM5SDduaXU5YUVOTUJudkN5dw?oc=5",
+     "pub": "2026-11-03T13:43+00:00"
     },
     {
-     "medio": "Mundo Deportivo",
-     "titulo": "El Atlético ya tiene once para medirse al Bayern, con sorpresa en ataque",
-     "url": "https://www.mundodeportivo.com/futbol/atletico-madrid/20261103/1004246856/atletico-once-medirse-bayern-sorpresa-ataque.html",
-     "pub": ""
-    },
-    {
-     "medio": "Mundo Deportivo",
-     "titulo": "4-1: El Atlético arrasa al Bayern para instalarse en la zona alta",
-     "url": "https://www.mundodeportivo.com/futbol/atletico-madrid/20261103/1004246808/4-1-atletico-arrasa-bayern-instalarse-zona-alta.html",
-     "pub": ""
-    },
-    {
-     "medio": "Record",
-     "titulo": "<![CDATA[ Atlético Madrid-Bayern, em direto ]]>",
-     "url": "https://www.record.pt/internacional/competicoes-de-clubes/liga-dos-campeoes/detalhe/atletico-madrid-bayern-em-direto",
-     "pub": "2026-11-03T20:22+00:00"
-    },
-    {
-     "medio": "Guardian",
-     "titulo": "Lennart Karl steals in behind Atlético Madrid to inspire Bayern Munich win",
-     "url": "https://www.theguardian.com/football/2026/nov/03/atletico-madrid-bayern-munich-champions-league-match-report",
-     "pub": "2026-11-03T22:28+00:00"
-    },
-    {
-     "medio": "Mundo Deportivo",
-     "titulo": "El Atlético se conjura: \"A solucionarlo ante el Barcelona, queremos ser primeros\"",
-     "url": "https://www.mundodeportivo.com/futbol/atletico-madrid/20261104/1004247151/atletico-conjura-solucionarlo-barcelona-queremos-primeros.html",
-     "pub": ""
-    },
-    {
-     "medio": "Mundo Deportivo",
-     "titulo": "Un ex del Atlético, nuevo entrenador del Fenerbahce; se estrena en Anfield",
-     "url": "https://www.mundodeportivo.com/futbol/atletico-madrid/20261104/1004247100/ex-atletico-nuevo-entrenador-fenerbahce-estrena-anfield.html",
-     "pub": ""
-    }
-   ]
-  },
-  {
-   "tema": "Gabriel",
-   "medios": 11,
-   "lista_medios": [
-    "BBC",
-    "Daily Mail",
-    "Foot Mercato",
-    "Google News EN",
-    "L'Equipe",
-    "Mirror",
-    "Record",
-    "Sky Sports",
-    "Yahoo",
-    "ge.globo",
-    "talkSPORT"
-   ],
-   "primera_vez": "2026-11-03T14:34+00:00",
-   "titulares": [
-    {
-     "medio": "Record",
-     "titulo": "<![CDATA[ Sporting volta a vencer na Youth League com Chris Grombahi e Gabriel Silva em destaque ]]>",
-     "url": "https://www.record.pt/internacional/competicoes-de-clubes/liga-jovem-da-uefa/detalhe/shakthar-sporting-em-direto",
-     "pub": "2026-11-03T13:58+00:00"
+     "medio": "L'Equipe",
+     "titulo": "Absent depuis la Coupe du monde, William Saliba de retour à l'entraînement avec Arsenal",
+     "url": "https://www.lequipe.fr/Football/Actualites/Absent-depuis-la-coupe-du-monde-william-saliba-de-retour-a-l-entrainement-avec-arsenal/1740784#at_medium=RSS_feeds",
+     "pub": "2026-11-03T12:51+00:00"
     },
     {
      "medio": "BBC",
-     "titulo": "Real Madrid reach verbal agreement to sign Gabriel",
-     "url": "https://www.bbc.co.uk/sport/football/articles/cq146dnrn541o?at_medium=RSS&at_campaign=rss",
-     "pub": "2026-11-04T11:49+00:00"
-    },
-    {
-     "medio": "Sky Sports",
-     "titulo": "Real Madrid reach verbal agreement with Man Utd teen star JJ Gabriel",
-     "url": "https://www.skysports.com/football/news/12040/13607845/jj-gabriel-real-madrid-reach-verbal-agreement-with-man-utd-teenager-who-requested-to-leave-old-trafford",
-     "pub": "2026-11-04T09:28+00:00"
-    },
-    {
-     "medio": "talkSPORT",
-     "titulo": "Three year plan for JJ Gabriel proposed before getting near Real Madrid first team",
-     "url": "https://talksport.com/football/4687330/jj-gabriel-three-year-plan-real-madrid-man-united/",
-     "pub": "2026-11-04T14:32+00:00"
-    },
-    {
-     "medio": "talkSPORT",
-     "titulo": "JJ Gabriel expected to join new club after acrimonious Man United fall out",
-     "url": "https://talksport.com/football/4686576/jj-gabriel-man-utd-real-madrid-transfer/",
-     "pub": "2026-11-04T07:48+00:00"
-    },
-    {
-     "medio": "Daily Mail",
-     "titulo": "JJ Gabriel on the verge of joining Real Madrid: Man United wonderkid, 16, is finalising move to Spanish giants after Old Trafford quit bombshell",
-     "url": "https://www.dailymail.com/sport/football/article-16264843/jj-gabriel-real-madrid-transfer.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-     "pub": "2026-11-04T14:02+00:00"
-    },
-    {
-     "medio": "Mirror",
-     "titulo": "Man Utd prepare for Real Madrid conflict as JJ Gabriel nears Old Trafford exit",
-     "url": "https://www.mirror.co.uk/sport/football/transfer-news/man-utd-realmadrid-jj-gabriel-37842627",
-     "pub": "2026-11-04T13:49+00:00"
-    },
-    {
-     "medio": "Yahoo",
-     "titulo": "Manchester United weighing up legal action against Real Madrid over JJ Gabriel transfer",
-     "url": "https://sports.yahoo.com/articles/manchester-united-weighing-legal-action-142200293.html",
-     "pub": "2026-11-04T14:22+00:00"
-    },
-    {
-     "medio": "Yahoo",
-     "titulo": "Manchester United phenom JJ Gabriel reportedly reaches agreement with Real Madrid",
-     "url": "https://sports.yahoo.com/articles/manchester-united-phenom-jj-gabriel-135703934.html",
-     "pub": "2026-11-04T13:57+00:00"
-    },
-    {
-     "medio": "Google News EN",
-     "titulo": "JJ Gabriel: Real Madrid confident of signing Manchester United forward",
-     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9xRVJBV01ucGxrSWtyZTBxc2gzNFFQekI2SF9BZmpMdXdTSlh1c0h5X2xLVHY1azEzOTV1TzlockhUcUFEZXdSZ2hRdFJFNVp4ZzItUTlvamlUU1dLR2JFYVNfRWE2QU85VTRF?oc=5",
-     "pub": "2026-11-04T09:15+00:00"
-    },
-    {
-     "medio": "Google News EN",
-     "titulo": "Man Utd youngsters: Paul Merson has his say on Shea Lacey and JJ Gabriel",
-     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPcFFXdTN3cUZaNmlBQ0lBQmdxY3VxOERKcFQzX2Rwck9mTXdPbHhoQjl4SEFnbVNJWXp1VVNuYXRleUFHQk4xNTl5NW85SzRXNUFmeFU1emcyajRyNFgxUlJaM2wxNlJwb2lHaEhuZV8yWmJLeFRFZkR3TWdlZHVsX3QxNDdSTEc2U3ZhLUdIZ0pqdkJDMVNVR2hENlRUM05sQm5xRklKTVpBdmdocWh0Z0VRZmktM3l4alEwUUZB?oc=5",
-     "pub": "2026-11-04T12:40+00:00"
-    },
-    {
-     "medio": "L'Equipe",
-     "titulo": "Le crack anglais JJ Gabriel, 16 ans, se rapproche du Real Madrid",
-     "url": "https://www.lequipe.fr/Football/Actualites/Le-crack-anglais-jj-gabriel-16-ans-se-rapproche-du-real-madrid/1741007#at_medium=RSS_feeds",
-     "pub": "2026-11-04T09:54+00:00"
-    }
-   ]
-  },
-  {
-   "tema": "Carrick",
-   "medios": 10,
-   "lista_medios": [
-    "BBC",
-    "Daily Mail",
-    "Foot Mercato",
-    "Google News EN",
-    "Guardian",
-    "Mirror",
-    "Planet Football",
-    "Telegraph",
-    "Yahoo",
-    "talkSPORT"
-   ],
-   "primera_vez": "2026-11-03T14:34+00:00",
-   "titulares": [
-    {
-     "medio": "talkSPORT",
-     "titulo": "Where to watch Manchester United v Roma as Michael Carrick prepares for another must win",
-     "url": "https://talksport.com/football/4684759/where-watch-manchester-united-roma-michael-carrick-win-job/",
-     "pub": "2026-11-03T13:41+00:00"
-    },
-    {
-     "medio": "Mirror",
-     "titulo": "Nicky Butt comes clean on private Michael Carrick job claim that upset Man Utd",
-     "url": "https://www.mirror.co.uk/sport/football/news/nicky-butt-carrick-man-united-37836904",
-     "pub": "2026-11-03T08:59+00:00"
-    },
-    {
-     "medio": "Mirror",
-     "titulo": "Man Utd news: 'Contact made' with wonderkid as Michael Carrick addresses player's commitment",
-     "url": "https://www.mirror.co.uk/sport/football/news/man-utd-carrick-martinez-karl-37835658",
-     "pub": "2026-11-03T04:30+00:00"
-    },
-    {
-     "medio": "Yahoo",
-     "titulo": "Champions League latest: Iraola to speak; Saliba back training; Carrick faces Roma test",
-     "url": "https://sports.yahoo.com/articles/champions-league-build-news-conferences-112358386.html",
-     "pub": "2026-11-03T14:20+00:00"
-    },
-    {
-     "medio": "Yahoo",
-     "titulo": "🙈 Another Carrick debacle looms! United playing worse than ever",
-     "url": "https://sports.yahoo.com/articles/another-carrick-debacle-looms-united-204300074.html",
-     "pub": "2026-11-03T20:43+00:00"
-    },
-    {
-     "medio": "Yahoo",
-     "titulo": "Carrick: ‘Roma are a really good team, big game for Manchester United’",
-     "url": "https://sports.yahoo.com/articles/carrick-roma-really-good-team-195100485.html",
-     "pub": "2026-11-03T19:51+00:00"
-    },
-    {
-     "medio": "Yahoo",
-     "titulo": "Michael Carrick drops Lisandro Martinez after shambolic Chelsea display",
-     "url": "https://sports.yahoo.com/articles/michael-carrick-drops-lisandro-martinez-193515499.html",
-     "pub": "2026-11-03T19:35+00:00"
-    },
-    {
-     "medio": "Google News EN",
-     "titulo": "Transfer Talk: Was Michael Carrick too soft on Lisandro Martinez?",
-     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNSUp5UUxnNGVjWFVuekM4NXdXbERYaktFV2UwR0pqV2EwdHZqWXNIbnZBWXJLYWgweDEzUHFHRkxJNDJzY0FoQXBYci1JTU5oeFpQNXFkUWs0bmVlVTdzeTZ5dFM3X2E3bk1EUUZkZ01XMzVmUGZrckFVSnBiUGNqV196SllGYVQ5OFNHMTdHaWtJT2lpNVNERGxxMVFYanRvWDZiZUFZLV9RNmZUNE5ZRWRxYw?oc=5",
-     "pub": "2026-11-03T16:20+00:00"
-    },
-    {
-     "medio": "BBC",
-     "titulo": "Fernandes critical of media 'lies' about Carrick relationship",
-     "url": "https://www.bbc.co.uk/sport/football/articles/cqkg5dgvygr1o?at_medium=RSS&at_campaign=rss",
-     "pub": "2026-11-04T00:45+00:00"
-    },
-    {
-     "medio": "Guardian",
-     "titulo": "Can miraculous Manchester United comeback save Michael Carrick? | Football Weekly video",
-     "url": "https://www.theguardian.com/football/video/2026/nov/04/can-miraculous-manchester-united-comeback-save-michael-carrick-football-weekly-video",
-     "pub": "2026-11-04T13:30+00:00"
-    },
-    {
-     "medio": "talkSPORT",
-     "titulo": "Michael Carrick told to play two Man United academy stars in make-or-break game against Aston Villa",
-     "url": "https://talksport.com/football/4686671/michael-carrick-man-united-shea-lacey-amass-aston-villa/",
-     "pub": "2026-11-04T10:31+00:00"
-    },
-    {
-     "medio": "talkSPORT",
-     "titulo": "Michael Carrick leaves Matheus Cunha furious as Man United hero ordered to leave pitch",
-     "url": "https://talksport.com/football/4686492/michael-carrick-matheus-cunha-man-utd-row/",
-     "pub": "2026-11-03T22:35+00:00"
-    }
-   ]
-  },
-  {
-   "tema": "Messi",
-   "medios": 10,
-   "lista_medios": [
-    "Foot Mercato",
-    "Google News AR",
-    "Infobae",
-    "Kicker",
-    "L'Equipe",
-    "Mundo Deportivo",
-    "Ole",
-    "Yahoo",
-    "ge.globo",
-    "talkSPORT"
-   ],
-   "primera_vez": "2026-11-03T14:34+00:00",
-   "titulares": [
-    {
-     "medio": "talkSPORT",
-     "titulo": "Fiery 17-year-old MLS star could win MVP over Lionel Messi and bail out Manchester City in 2028",
-     "url": "https://talksport.com/football/4685094/cavan-sullivan-mls-mvp-lionel-messi-manchester-city/",
-     "pub": "2026-11-03T13:15+00:00"
-    },
-    {
-     "medio": "Mundo Deportivo",
-     "titulo": "Leo Messi, sobre el fallecimiento de Jesús de Miguel: \"No hay palabras\"",
-     "url": "https://www.mundodeportivo.com/futbol/tenerife/20261103/1004246707/leo-messi-sobre-fallecimiento-jesus-miguel-no-hay-palabras.html",
-     "pub": ""
-    },
-    {
-     "medio": "Foot Mercato",
-     "titulo": "Le message touchant de Lionel Messi après le décès de Jesus De Miguel",
-     "url": "https://www.footmercato.net/a6026506799932505284-le-message-emotif-de-lionel-messi-apres-le-deces-de-jesus-de-miguel",
-     "pub": "2026-11-03T13:45+00:00"
-    },
-    {
-     "medio": "Ole",
-     "titulo": "El inmenso dolor de Lionel Messi por la muerte del futbolista de Tenerife: \"No hay palabras...\"",
-     "url": "https://www.ole.com.ar/futbol-internacional/espana/inmenso-dolor-lionel-messi-muerte-futbolista-tenerife-jesus-miguel-palabras-posteo_0_A5MslCMXry.html",
-     "pub": "2026-11-03T13:58+00:00"
-    },
-    {
-     "medio": "Infobae",
-     "titulo": "Desde todos los ángulos: el imperdible gol de Lionel Messi en la última victoria de Inter Miami en la MLS",
-     "url": "https://www.infobae.com/deportes/2026/11/03/desde-todos-los-angulos-el-imperdible-gol-de-lionel-messi-en-la-ultima-victoria-de-inter-miami-en-la-mls/",
-     "pub": "2026-11-03T14:20+00:00"
-    },
-    {
-     "medio": "Infobae",
-     "titulo": "El mensaje de Lionel Messi tras la muerte del futbolista español Jesús de Miguel",
-     "url": "https://www.infobae.com/deportes/2026/11/03/el-mensaje-de-lionel-messi-tras-la-muerte-del-futbolista-espanol-jesus-de-miguel/",
-     "pub": "2026-11-03T13:45+00:00"
-    },
-    {
-     "medio": "Infobae",
-     "titulo": "La leyenda de Alemania que elogió la carrera de Messi en la Selección y cambió de opinión sobre su debate con Maradona tras Qatar",
-     "url": "https://www.infobae.com/deportes/2026/11/03/la-leyenda-de-alemania-que-elogio-la-carrera-de-messi-en-la-seleccion-y-cambio-de-opinion-sobre-su-debate-con-maradona-tras-qatar/",
-     "pub": "2026-11-03T06:09+00:00"
-    },
-    {
-     "medio": "Google News AR",
-     "titulo": "Conmoción en el fútbol: el mensaje de Lionel Messi tras la muerte de Jesús de Miguel, delantero del Tenerife",
-     "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQUlg2ckxXdkwzWEdyZTdJZzZ1R0tvNUlHdklEQlRVektqZ0lIQlFPS3kxejVJZ2ZkelJSVV8xVFE1RTdFZl92YTFyUGcxSmR3eVFGQndrWU5BLVNkZjl0ZXRxMEVQUDdoWHRYWGg5TFFIQWhIdXhkb3dFbFJHeXlsZm9MT2wzMnE0WU12SW5TXzAxQzhXMnNJOWhzcGxTRWQ1R3dCRkx5UkZ2ckhNMW1WNXlqNUFuMVpYem5aNFkxWGxGRWU1UHNXOUYtNjdNVG1OaEh5bmlrTHJyU1ROc0NnUHhvNDRvQjA4bFFj0gH0AUFVX3lxTE1QZGtfX3ZvWEE0dGE3WDdQTnN6UXNhLVU0cm5XRFIxNnFGcnZnbHRsb28xQUR2QjZwb2QtdllMMTlaRVlqOVluWVcwc3VIeGdWZTFrUjVSdVhsbjRIWkdWbWdTc1lRVXlZZlphYzhlNzVYSkVKa1VCX0cwUjV0cFBrQUppTk44ZUVVVjNvTkV4RUlTcWtvU2pIZkhObG1BLWRqcWhMTTJ5QjAyVEpBc0ZONkJLb0JEOVZIOXhzRUhDS0ZiQkxIVXFqaEVlV0VkbktCcGVCRl9iMEFlWThtc3VzUGFweHhyRTQyTE43Z2xKMGdSTnk?oc=5",
-     "pub": "2026-11-03T13:44+00:00"
-    },
-    {
-     "medio": "Google News AR",
-     "titulo": "Conmoción en el fútbol: el mensaje de Lionel Messi tras la muerte de un jugador español",
-     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQUHRoTXhtdTFCdUl2Z0lVRTlnbzZfN2FNaUxFNFVmVE9YOVZWTUp2UzgzUVUwT2YyeGZWOEIxdjRMVGZPMTV5TnpjNGJ5Q1pRTF85S0RyZGNxQTlBSkQyRnQ4M0txM3kzTkRLY0ZDMGVnRmpUc3ZjeEh6el9iQ1NnWGVZRjMwTVRYenhIZUdsQ0Y1T0tqT2N0UjBBVXlJZVF4Zks0ajROZFNFNHFHQmhobENNaGhjc0FNRUFYcnZ5bDZNM2M?oc=5",
-     "pub": "2026-11-03T14:04+00:00"
-    },
-    {
-     "medio": "ge.globo",
-     "titulo": "Conheça as joias do Palmeiras que venceram quatro das seis melhores bases do mundo na Messi Cup",
-     "url": "https://ge.globo.com/futebol/times/palmeiras/noticia/2026/11/03/conheca-as-joias-do-palmeiras-que-venceram-quatro-das-seis-melhores-bases-do-mundo-na-messi-cup.ghtml",
-     "pub": "2026-11-03T10:50+00:00"
-    },
-    {
-     "medio": "Kicker",
-     "titulo": "Neuer übertrumpft Müller und Messi: Die meisten Einsätze in der Champions League",
-     "url": "https://www.kicker.de/die-meisten-einsaetze-in-der-koenigsklasse-cr7-vorne-mueller-und-kroos-in-den-top-10-787758/slideshow#omrss",
-     "pub": "2026-11-03T20:30+00:00"
-    },
-    {
-     "medio": "L'Equipe",
-     "titulo": "La première liste de l'Argentine depuis la retraite internationale de Lionel Messi, sans Rodrigo De Paul ni Giovani Lo Celso mais avec Nicolas Tagliafico",
-     "url": "https://www.lequipe.fr/Football/Actualites/La-premiere-liste-de-l-argentine-depuis-la-retraite-internationale-de-lionel-messi-sans-rodrigo-de-paul-ni-giovani-lo-celso-mais-avec-nicolas-tagliafico/1740857#at_medium=RSS_feeds",
-     "pub": "2026-11-03T17:13+00:00"
-    }
-   ]
-  },
-  {
-   "tema": "UEFA",
-   "medios": 10,
-   "lista_medios": [
-    "AS",
-    "Foot Mercato",
-    "Football Italia",
-    "FourFourTwo",
-    "Google News AR",
-    "Google News EN",
-    "Google News ES",
-    "L'Equipe",
-    "Record",
-    "Yahoo"
-   ],
-   "primera_vez": "2026-11-03T14:34+00:00",
-   "titulares": [
-    {
-     "medio": "FourFourTwo",
-     "titulo": "Bigger but not better: Why UEFA have killed the early stages of the Champions League",
-     "url": "https://www.fourfourtwo.com/person/coaches-managers/bigger-but-not-better-why-uefa-have-killed-the-early-stages-of-the-champions-league",
-     "pub": "2026-11-03T07:00+00:00"
-    },
-    {
-     "medio": "Foot Mercato",
-     "titulo": "Drame en Espagne : l’UEFA annonce une minute de silence sur tous les terrains européens",
-     "url": "https://www.footmercato.net/a4593505727412783626-drame-en-espagne-luefa-annonce-une-minute-de-silence-sur-tous-les-terrains-europeens",
-     "pub": "2026-11-03T10:59+00:00"
-    },
-    {
-     "medio": "Record",
-     "titulo": "<![CDATA[ Jogos da UEFA vão ter um minuto de silêncio em memória de Jesús de Miguel ]]>",
-     "url": "https://www.record.pt/internacional/detalhe/todos-os-jogos-da-uefa-desta-semana-vao-ter-um-minuto-de-silencio-em-memoria-de-jesus-de-miguel",
-     "pub": "2026-11-03T12:17+00:00"
-    },
-    {
-     "medio": "AS",
-     "titulo": "Villarreal - PSG en directo: UEFA Champions League hoy, en vivo",
-     "url": "https://as.com/futbol/champions/villarreal-psg-en-directo-uefa-champions-league-hoy-en-vivo-f202611-d/",
-     "pub": "2026-11-03T21:10+00:00"
-    },
-    {
-     "medio": "AS",
-     "titulo": "Feyenoord - Inter en directo: UEFA Champions League hoy en vivo",
-     "url": "https://as.com/futbol/champions/feyenoord-inter-en-directo-uefa-champions-league-hoy-en-vivo-f202611-d/",
-     "pub": "2026-11-03T21:09+00:00"
-    },
-    {
-     "medio": "Google News ES",
-     "titulo": "AFE solicita a RFEF, LaLiga y UEFA la suspensión de todos los partidos de fútbol en España del 3 al 9 de noviembre",
-     "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPQUNrcnFuSDE3NDFCQ0dDNmtYVDBZZlRLemFFcjFpb0k4YTZZR05zU1pfS2dCM3otMmZ2ZTZOQVozNEtyVndYMHlrS2hRSlBIbklRSWVUTFVldlBBMnpkTXNVZWhMNjVsb1FfaUVSQXMxYkVlbnBpU05VbkpaMWFfOVpoOEItVXc3ZUhyaUVBRzktMGUzLVlzc0s5dkE3eTlCV1NKYkQ4Yi1MVUR0T1ZGVnpsVmdpSlVIZXZCamhzMnVKRkwzbUUtcWJhMk5KSW9Xamt2V2c2Sll6ZFJacVVuWjdaVE85QXl0NDFoaW9YUVBlSl9uOVFwbTVTONIBjwJBVV95cUxPNndXV1RxWVZJWWNtMjg3YUFpZkhiRXFyVzBoNFljSE1lQkJtSFhKTWFhY3hsNnprQnV1THdsNWkwWFhlM193TGRrWWNSby1iMzNUd184dlJHUmJaUGUyVnNyQnA2ZzI2YzVSZ1dVbzJheVRRSi0xWnVVNGt0d0J3QmhXRWNZMDdXbnU2YVdudzN3aDJfdzYtdVpxTGFLT1JJZkdFTm1QZXZWdVAtWC1qeThscVNneEdMcENPU3ZsQjVoand2N0tlQXhaUDRQTEJhMEVPRC1NOFBDWExIOWN0aVd3Y0IxNjlFM2Y1SUFuUnE5V0kzRk5xUXJncXowM1ZMaF83b2h6WWFHMG1xVXc4?oc=5",
-     "pub": "2026-11-03T17:01+00:00"
-    },
-    {
-     "medio": "Football Italia",
-     "titulo": "Why Juventus had to register Ekhator and not Zhegrova in UEFA squad list changes",
-     "url": "https://football-italia.net/why-juventus-had-to-register-ekhator-zhegrova/",
-     "pub": "2026-11-03T16:39+00:00"
-    },
-    {
-     "medio": "L'Equipe",
-     "titulo": "Folarin Balogun remplace Ansu Fati sur la liste UEFA de Monaco",
-     "url": "https://www.lequipe.fr/Football/Actualites/Folarin-balogun-remplace-ansu-fati-sur-la-liste-uefa-de-monaco/1740868#at_medium=RSS_feeds",
-     "pub": "2026-11-03T17:44+00:00"
-    },
-    {
-     "medio": "Foot Mercato",
-     "titulo": "L’AS Monaco remplace Fati par Balogun dans sa liste UEFA",
-     "url": "https://www.footmercato.net/a8775528014307119366-las-monaco-remplace-fati-par-balogun-dans-sa-liste-uefa",
-     "pub": "2026-11-03T18:21+00:00"
-    },
-    {
-     "medio": "Google News AR",
-     "titulo": "‍*$~[[FÚTBOL!!]!!] Aston Villa vs. Barcelona - UEFA Champions League En Vivo Online en Español",
-     "url": "https://news.google.com/rss/articles/CBMisANBVV95cUxNWHhfcVc3S09fOXdYU0NLS0lfNldUZEVLN2RueGxNWkhKbHpfVnRPakxyNkxEMVY1ZFA5TmlyNnZIYU1Mb0p6VXJEaFJQRVJOUVNOTXJFNzI1NmRQX1haa1Z0NGVwenJURnpDdG5YRzg0aUFOdHAzaGRfaTQ3amEwNzZOcnlsYm8zX0N3MWhPQ1BBanVxMWZtbWRfWWNXOGk0S1E2NTEwdGVrNnhJNUhzNldUbDdHLWo5eVJyRWZYMy14UUZxcUt6QWtBQTJMbFVLeGxvNkFndFRUcW1qc0FzRDhkUDZOdlBfRUdzQ3IyWEVLWXc2aXd3V3BCTnJrUGtScjRpSFJsWEY1MjZxdVltOUNIS0VjazNuM2tPUWtkOW5yc2FYRm94QmZoVF9tQkV1ZU9lbVlYNndlMGVnUE9qcjJoUnlUQ0ktUzh4NjI4aDFnVnNuc0pMVS1BSEtQS1VxdXdQT1RIZTl4TTRqRDV2MFZIaG4wU3MxMkx6U0ZLOHI0NHJLV0tXVk1PUTdjM1VIazlzOTlDUGY1QW9QaGNpVEdvNFZybWxBdmZvWEZBbkQ?oc=5",
-     "pub": "2026-11-03T19:48+00:00"
-    },
-    {
-     "medio": "Yahoo",
-     "titulo": "AEK Athens vs Real Madrid: Match preview | UEFA Champions League",
-     "url": "https://sports.yahoo.com/articles/aek-athens-vs-real-madrid-141600074.html",
-     "pub": "2026-11-04T14:16+00:00"
-    },
-    {
-     "medio": "Google News EN",
-     "titulo": "Wales: Craig Bellamy announces 26-man squad for UEFA Nations League matches against Norway and Portugal",
-     "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOMHZ2Q3hIcWxZczhtOEg2X01Oa2pON2twaXhXUkNXd3hPcDVfbks0enR4UWVsV25EMDJaODg1RzZHd1hPdUk3N0dMR0J2RGZLR2FmZE1Pb2ZEejh0VHVNVktsR1NNMlRBenFRSi1pbkh1cnJUSUZtYm5vMHFTdTNnV1JVeGVGSUFpVFVmTnhzZHFqdXRGZ2ZnNElqZmNZalRHNFBHNktxMHFJaS1QMElxZFNCcUpfUHNlVEx4Sk5XMnpTcm8tWHIwYjgtRjVPcUJ3QXluMmY5Z0xxaF9jLUllNkxqTURjQQ?oc=5",
-     "pub": "2026-11-04T10:40+00:00"
-    }
-   ]
-  },
-  {
-   "tema": "Bayern",
-   "medios": 10,
-   "lista_medios": [
-    "AS",
-    "Foot Mercato",
-    "FourFourTwo",
-    "Guardian",
-    "Infobae",
-    "Kicker",
-    "Mundo Deportivo",
-    "Planet Football",
-    "Record",
-    "Yahoo"
-   ],
-   "primera_vez": "2026-11-03T14:34+00:00",
-   "titulares": [
-    {
-     "medio": "Yahoo",
-     "titulo": "🔙 The captain returns: Koke in Atleti's squad to face Bayern",
-     "url": "https://sports.yahoo.com/articles/captain-returns-koke-atletis-squad-124200067.html",
-     "pub": "2026-11-03T12:42+00:00"
-    },
-    {
-     "medio": "AS",
-     "titulo": "Atlético - Bayern, en directo: jornada 4 de fase liga, Champions League, hoy, en vivo",
-     "url": "https://as.com/futbol/champions/atletico-bayern-en-directo-jornada-4-de-fase-liga-champions-league-hoy-en-vivo-f202611-d/",
-     "pub": "2026-11-03T14:30+00:00"
-    },
-    {
-     "medio": "Mundo Deportivo",
-     "titulo": "Simeone da una lista para el Bayern sin el 'Cuti' Romero",
-     "url": "https://www.mundodeportivo.com/futbol/atletico-madrid/20261103/1004246669/simeone-da-lista-bayern-cuti-romero.html",
-     "pub": ""
-    },
-    {
-     "medio": "Kicker",
-     "titulo": "Für Seitz gehört \"die Regionalliga Bayern aufgelöst\"",
-     "url": "https://www.kicker.de/fuer-seitz-gehoert-die-regionalliga-bayern-aufgeloest-1268030/artikel#omrss",
-     "pub": "2026-11-03T10:19+00:00"
-    },
-    {
-     "medio": "Foot Mercato",
-     "titulo": "Le Bayern Munich va bien faire une folie avec Michael Olise",
-     "url": "https://www.footmercato.net/a5402933154640856007-le-bayern-munich-va-bien-faire-une-folie-avec-michael-olise",
-     "pub": "2026-11-03T08:03+00:00"
-    },
-    {
-     "medio": "FourFourTwo",
-     "titulo": "How to watch Atletico Madrid vs Bayern Munich: FREE Streams",
-     "url": "https://www.fourfourtwo.com/competition/watch-atletico-madrid-vs-bayern-munich-champions-league-2026-27-free",
-     "pub": "2026-11-03T17:00+00:00"
-    },
-    {
-     "medio": "Yahoo",
-     "titulo": "Arsenal star wanted by Bayern Munich with initial contact made",
-     "url": "https://sports.yahoo.com/articles/arsenal-star-wanted-bayern-munich-195000515.html",
-     "pub": "2026-11-03T19:50+00:00"
-    },
-    {
-     "medio": "Yahoo",
-     "titulo": "Confirmed line-ups for Atlético de Madrid and Bayern Munich",
-     "url": "https://sports.yahoo.com/articles/confirmed-line-ups-atl-tico-185200721.html",
-     "pub": "2026-11-03T18:52+00:00"
-    },
-    {
-     "medio": "Mundo Deportivo",
-     "titulo": "Atlético - Bayern, en directo",
-     "url": "https://www.mundodeportivo.com/futbol/champions-league/20261103/1004244853/atletico-madrid-bayern-munich-directo-sigue-partido-champions-league-vivo.html",
-     "pub": ""
-    },
-    {
-     "medio": "Mundo Deportivo",
-     "titulo": "El Atlético ya tiene once para medirse al Bayern, con sorpresa en ataque",
-     "url": "https://www.mundodeportivo.com/futbol/atletico-madrid/20261103/1004246856/atletico-once-medirse-bayern-sorpresa-ataque.html",
-     "pub": ""
-    },
-    {
-     "medio": "Mundo Deportivo",
-     "titulo": "4-1: El Atlético arrasa al Bayern para instalarse en la zona alta",
-     "url": "https://www.mundodeportivo.com/futbol/atletico-madrid/20261103/1004246808/4-1-atletico-arrasa-bayern-instalarse-zona-alta.html",
-     "pub": ""
-    },
-    {
-     "medio": "Record",
-     "titulo": "<![CDATA[ Bayern Munique já tem Junior Kroupi na mira ]]>",
-     "url": "https://www.record.pt/internacional/paises/alemanha/detalhe/bayern-munique-ja-tem-junior-kroupi-na-mira",
-     "pub": "2026-11-03T20:28+00:00"
+     "titulo": "Saliba's back for Arsenal - how does Arteta solve his defensive dilemma?",
+     "url": "https://www.bbc.co.uk/sport/football/articles/cxj0l3pd9jy7o?at_medium=RSS&at_campaign=rss",
+     "pub": "2026-11-03T15:07+00:00"
     }
    ]
   },
   {
    "tema": "Nadal",
-   "medios": 10,
+   "medios": 13,
    "lista_medios": [
     "AS",
     "BBC",
     "Foot Mercato",
+    "Google News AR",
     "Google News ES",
     "Kicker",
     "L'Equipe",
     "Mundo Deportivo",
     "Ole",
     "Record",
-    "Sky Sports"
+    "Sky Sports",
+    "ge.globo",
+    "talkSPORT"
    ],
    "primera_vez": "2026-11-04T14:48+00:00",
    "titulares": [
@@ -2253,21 +1439,403 @@
    ]
   },
   {
-   "tema": "Scott",
-   "medios": 9,
+   "tema": "Jesús",
+   "medios": 12,
    "lista_medios": [
-    "Daily Mail",
+    "AS",
+    "Foot Mercato",
+    "Google News AR",
     "Google News EN",
+    "Google News ES",
     "Guardian",
-    "L'Equipe",
-    "Mirror",
+    "Infobae",
     "Mundo Deportivo",
-    "Planet Football",
+    "Ole",
     "Record",
+    "Yahoo",
+    "ge.globo"
+   ],
+   "primera_vez": "2026-11-03T14:34+00:00",
+   "titulares": [
+    {
+     "medio": "Yahoo",
+     "titulo": "Tenerife striker Jesús de Miguel dies after on-pitch collision with opponent",
+     "url": "https://sports.yahoo.com/soccer/article/tenerife-striker-jesus-de-miguel-dies-after-on-pitch-collision-with-opponent-134134967.html",
+     "pub": "2026-11-03T13:41+00:00"
+    },
+    {
+     "medio": "Google News EN",
+     "titulo": "Tenerife forward Jesús de Miguel dies aged 30 after on-field collision",
+     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxObmFDektFLWQ0UHZ3R01PcUFmeGFsYXNRb3RMZXFuYWpnYlE5amp6UHJTUUx6NVZLX3dNUkluQ1p0Tmh0RFF6VTdlbkNaQjY0ajRfaWkwT3ZLXzZ5dGNaWkFvczE1Y3R4a1dJMFZzUmUyQXNybHFsdWhKcGNhTEVWZ0lsSnZsMmlLNWgzZE03emx6b3hqekZOTEZMcWkxZUN0bEh2RmM5Z2ZvSlUxcGc?oc=5",
+     "pub": "2026-11-03T11:15+00:00"
+    },
+    {
+     "medio": "AS",
+     "titulo": "Muere Jesús de Miguel: reacciones y última hora al fallecimiento del jugador del Tenerife, en directo",
+     "url": "https://as.com/futbol/muere-jesus-de-miguel-reacciones-y-ultima-hora-al-fallecimiento-del-jugador-del-tenerife-en-directo-f202611-n/",
+     "pub": "2026-11-03T14:30+00:00"
+    },
+    {
+     "medio": "AS",
+     "titulo": "Jesús de Miguel, una carrera de perseverancia con un final injusto",
+     "url": "https://as.com/futbol/segunda/jesus-de-miguel-una-carrera-de-perseverancia-con-un-final-injusto-f202611-n/",
+     "pub": "2026-11-03T09:30+00:00"
+    },
+    {
+     "medio": "AS",
+     "titulo": "Quién es Jesús Owono: está destrozado y es arropado por el Andorra",
+     "url": "https://as.com/futbol/segunda/quien-es-jesus-owono-esta-destrozado-y-es-arropado-por-el-andorra-f202611-n/",
+     "pub": "2026-11-03T11:51+00:00"
+    },
+    {
+     "medio": "AS",
+     "titulo": "La Policía abre una investigación sobre la muerte de Jesús de Miguel",
+     "url": "https://as.com/futbol/segunda/la-policia-abre-una-investigacion-sobre-la-muerte-de-jesus-de-miguel-f202611-n/",
+     "pub": "2026-11-03T13:02+00:00"
+    },
+    {
+     "medio": "AS",
+     "titulo": "El respetuosísimo minuto de silencio de la plantilla del Real Madrid por Jesús de Miguel",
+     "url": "https://as.com/futbol/videos/el-respetuosisimo-minuto-de-silencio-de-la-plantilla-del-real-madrid-por-jesus-de-miguel-sepulcral-f202611-v/",
+     "pub": "2026-11-03T09:44+00:00"
+    },
+    {
+     "medio": "AS",
+     "titulo": "Se suspende la jornada de fútbol tras el fallecimiento de Jesús de Miguel",
+     "url": "https://as.com/futbol/se-suspende-la-jornada-de-futbol-tras-el-fallecimiento-de-jesus-de-miguel-f202611-n/",
+     "pub": "2026-11-03T09:57+00:00"
+    },
+    {
+     "medio": "Mundo Deportivo",
+     "titulo": "Leo Messi, sobre el fallecimiento de Jesús de Miguel: \"No hay palabras\"",
+     "url": "https://www.mundodeportivo.com/futbol/tenerife/20261103/1004246707/leo-messi-sobre-fallecimiento-jesus-miguel-no-hay-palabras.html",
+     "pub": ""
+    },
+    {
+     "medio": "Mundo Deportivo",
+     "titulo": "Los árbitros se suman al dolor por la muerte de Jesús de Miguel y retrasan 'Tiempo de revisión'",
+     "url": "https://www.mundodeportivo.com/futbol/20261103/1004246686/arbitros-suman-dolor-muerte-jesus-miguel-retrasan-revision.html",
+     "pub": ""
+    },
+    {
+     "medio": "Mundo Deportivo",
+     "titulo": "El Espanyol se une al dolor por el fallecimiento de Jesús de Miguel",
+     "url": "https://www.mundodeportivo.com/futbol/rcd-espanyol/20261103/1004246652/espanyol-une-dolor-fallecimiento-jesus-miguel.html",
+     "pub": ""
+    },
+    {
+     "medio": "Mundo Deportivo",
+     "titulo": "La prensa internacional volcada con el fallecimiento de Jesús de Miguel",
+     "url": "https://www.mundodeportivo.com/futbol/tenerife/20261103/1004246599/prensa-internacional-volcada-fallecimiento-jesus-miguel.html",
+     "pub": ""
+    }
+   ]
+  },
+  {
+   "tema": "Man",
+   "medios": 11,
+   "lista_medios": [
+    "BBC",
+    "Daily Mail",
+    "Football Italia",
+    "Google News EN",
+    "Kicker",
+    "Mirror",
+    "Planet Football",
+    "Sky Sports",
+    "Telegraph",
+    "Yahoo",
     "talkSPORT"
    ],
    "primera_vez": "2026-11-03T14:34+00:00",
    "titulares": [
+    {
+     "medio": "talkSPORT",
+     "titulo": "Transfer Notebook: Saudi club will not relaunch Bruno Fernandes raid amid uncertain Man United future",
+     "url": "https://talksport.com/football/4685378/transfer-news-saudi-bruno-fernandes-man-united-contract/",
+     "pub": "2026-11-03T14:10+00:00"
+    },
+    {
+     "medio": "Daily Mail",
+     "titulo": "Nicky Butt doubles down on Michael Carrick's 'management's not for me' claim - as he pinpoints moment under-fire Man United boss made comment",
+     "url": "https://www.dailymail.com/sport/football/article-16261429/Nicky-Butt-doubles-Michael-Carricks-managements-not-claim-pinpoints-moment-fire-Man-United-boss-comment.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+     "pub": "2026-11-03T12:21+00:00"
+    },
+    {
+     "medio": "Daily Mail",
+     "titulo": "Michael Carrick's next nightmare: How Aston Villa misfit Donyell Malen became Europe's hottest striker... as Roma star looks to pile on the misery for Man United in Champions League",
+     "url": "https://www.dailymail.com/sport/football/article-16258849/How-Aston-Villa-misfit-Donyell-Malen-Europes-hottest-striker-Roma-star-looks-pile-misery-Michael-Carrick-Man-United-Champions-League-clash.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+     "pub": "2026-11-03T09:31+00:00"
+    },
+    {
+     "medio": "Daily Mail",
+     "titulo": "Man United Confidential: Club on red alert to prevent repeat of shocking Roma violence, why football insiders doubt Unai Emery is right fit for Old Trafford and meet the 17-year-old lighting up Darren Fletcher's impressive youth team",
+     "url": "https://www.dailymail.com/sport/football/article-16261563/man-united-roma-violence-emery-fletcher.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+     "pub": "2026-11-03T14:16+00:00"
+    },
+    {
+     "medio": "Mirror",
+     "titulo": "Jason Wilcox tipped Russell Martin as future Man Utd boss during manager search",
+     "url": "https://www.mirror.co.uk/sport/football/news/jason-wilcox-tipped-russell-martin-37838251",
+     "pub": "2026-11-03T13:14+00:00"
+    },
+    {
+     "medio": "Planet Football",
+     "titulo": "Why free-scoring Roma could be Man Utd’s & Carrick’s worst nightmare",
+     "url": "https://www.planetfootball.com/champions-league/roma-man-utd-worst-nightmare-opponent-free-scoring",
+     "pub": "2026-11-03T09:36+00:00"
+    },
+    {
+     "medio": "Yahoo",
+     "titulo": "Ex-Roma winger recalls ‘disaster’ against Man United but issues warning",
+     "url": "https://sports.yahoo.com/articles/ex-roma-winger-recalls-disaster-140000461.html",
+     "pub": "2026-11-03T14:00+00:00"
+    },
+    {
+     "medio": "Yahoo",
+     "titulo": "Roma could start third-choice goalkeeper against Man United amid Gollini concerns",
+     "url": "https://sports.yahoo.com/articles/roma-could-start-third-choice-134100059.html",
+     "pub": "2026-11-03T13:41+00:00"
+    },
+    {
+     "medio": "Yahoo",
+     "titulo": "Man City Defender Opens Door to January Exit Amid Manchester United Interest",
+     "url": "https://sports.yahoo.com/articles/man-city-defender-opens-door-133100889.html",
+     "pub": "2026-11-03T13:31+00:00"
+    },
+    {
+     "medio": "Football Italia",
+     "titulo": "U20 USA international an option for Roma if Gollini misses Man United clash",
+     "url": "https://football-italia.net/u20-usa-de-marzi-roma-gollini-miss-man-united/",
+     "pub": "2026-11-03T14:29+00:00"
+    },
+    {
+     "medio": "Sky Sports",
+     "titulo": "Man Utd two down and booed at HT vs Roma LIVE!",
+     "url": "https://www.skysports.com/football/manchester-united-vs-roma/live/577657",
+     "pub": "2026-11-03T18:30+00:00"
+    },
+    {
+     "medio": "talkSPORT",
+     "titulo": "Man City in danger of getting even more charges as Premier League face dilemma",
+     "url": "https://talksport.com/football/4686282/man-city-more-charges-premier-league-dilemma/",
+     "pub": "2026-11-03T19:45+00:00"
+    }
+   ]
+  },
+  {
+   "tema": "Messi",
+   "medios": 11,
+   "lista_medios": [
+    "Foot Mercato",
+    "Google News AR",
+    "Infobae",
+    "Kicker",
+    "L'Equipe",
+    "Mirror",
+    "Mundo Deportivo",
+    "Ole",
+    "Yahoo",
+    "ge.globo",
+    "talkSPORT"
+   ],
+   "primera_vez": "2026-11-03T14:34+00:00",
+   "titulares": [
+    {
+     "medio": "talkSPORT",
+     "titulo": "Fiery 17-year-old MLS star could win MVP over Lionel Messi and bail out Manchester City in 2028",
+     "url": "https://talksport.com/football/4685094/cavan-sullivan-mls-mvp-lionel-messi-manchester-city/",
+     "pub": "2026-11-03T13:15+00:00"
+    },
+    {
+     "medio": "Mundo Deportivo",
+     "titulo": "Leo Messi, sobre el fallecimiento de Jesús de Miguel: \"No hay palabras\"",
+     "url": "https://www.mundodeportivo.com/futbol/tenerife/20261103/1004246707/leo-messi-sobre-fallecimiento-jesus-miguel-no-hay-palabras.html",
+     "pub": ""
+    },
+    {
+     "medio": "Foot Mercato",
+     "titulo": "Le message touchant de Lionel Messi après le décès de Jesus De Miguel",
+     "url": "https://www.footmercato.net/a6026506799932505284-le-message-emotif-de-lionel-messi-apres-le-deces-de-jesus-de-miguel",
+     "pub": "2026-11-03T13:45+00:00"
+    },
+    {
+     "medio": "Ole",
+     "titulo": "El inmenso dolor de Lionel Messi por la muerte del futbolista de Tenerife: \"No hay palabras...\"",
+     "url": "https://www.ole.com.ar/futbol-internacional/espana/inmenso-dolor-lionel-messi-muerte-futbolista-tenerife-jesus-miguel-palabras-posteo_0_A5MslCMXry.html",
+     "pub": "2026-11-03T13:58+00:00"
+    },
+    {
+     "medio": "Infobae",
+     "titulo": "Desde todos los ángulos: el imperdible gol de Lionel Messi en la última victoria de Inter Miami en la MLS",
+     "url": "https://www.infobae.com/deportes/2026/11/03/desde-todos-los-angulos-el-imperdible-gol-de-lionel-messi-en-la-ultima-victoria-de-inter-miami-en-la-mls/",
+     "pub": "2026-11-03T14:20+00:00"
+    },
+    {
+     "medio": "Infobae",
+     "titulo": "El mensaje de Lionel Messi tras la muerte del futbolista español Jesús de Miguel",
+     "url": "https://www.infobae.com/deportes/2026/11/03/el-mensaje-de-lionel-messi-tras-la-muerte-del-futbolista-espanol-jesus-de-miguel/",
+     "pub": "2026-11-03T13:45+00:00"
+    },
+    {
+     "medio": "Google News AR",
+     "titulo": "Conmoción en el fútbol: el mensaje de Lionel Messi tras la muerte de Jesús de Miguel, delantero del Tenerife",
+     "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQUlg2ckxXdkwzWEdyZTdJZzZ1R0tvNUlHdklEQlRVektqZ0lIQlFPS3kxejVJZ2ZkelJSVV8xVFE1RTdFZl92YTFyUGcxSmR3eVFGQndrWU5BLVNkZjl0ZXRxMEVQUDdoWHRYWGg5TFFIQWhIdXhkb3dFbFJHeXlsZm9MT2wzMnE0WU12SW5TXzAxQzhXMnNJOWhzcGxTRWQ1R3dCRkx5UkZ2ckhNMW1WNXlqNUFuMVpYem5aNFkxWGxGRWU1UHNXOUYtNjdNVG1OaEh5bmlrTHJyU1ROc0NnUHhvNDRvQjA4bFFj0gH0AUFVX3lxTE1QZGtfX3ZvWEE0dGE3WDdQTnN6UXNhLVU0cm5XRFIxNnFGcnZnbHRsb28xQUR2QjZwb2QtdllMMTlaRVlqOVluWVcwc3VIeGdWZTFrUjVSdVhsbjRIWkdWbWdTc1lRVXlZZlphYzhlNzVYSkVKa1VCX0cwUjV0cFBrQUppTk44ZUVVVjNvTkV4RUlTcWtvU2pIZkhObG1BLWRqcWhMTTJ5QjAyVEpBc0ZONkJLb0JEOVZIOXhzRUhDS0ZiQkxIVXFqaEVlV0VkbktCcGVCRl9iMEFlWThtc3VzUGFweHhyRTQyTE43Z2xKMGdSTnk?oc=5",
+     "pub": "2026-11-03T13:44+00:00"
+    },
+    {
+     "medio": "Google News AR",
+     "titulo": "Conmoción en el fútbol: el mensaje de Lionel Messi tras la muerte de un jugador español",
+     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQUHRoTXhtdTFCdUl2Z0lVRTlnbzZfN2FNaUxFNFVmVE9YOVZWTUp2UzgzUVUwT2YyeGZWOEIxdjRMVGZPMTV5TnpjNGJ5Q1pRTF85S0RyZGNxQTlBSkQyRnQ4M0txM3kzTkRLY0ZDMGVnRmpUc3ZjeEh6el9iQ1NnWGVZRjMwTVRYenhIZUdsQ0Y1T0tqT2N0UjBBVXlJZVF4Zks0ajROZFNFNHFHQmhobENNaGhjc0FNRUFYcnZ5bDZNM2M?oc=5",
+     "pub": "2026-11-03T14:04+00:00"
+    },
+    {
+     "medio": "ge.globo",
+     "titulo": "Conheça as joias do Palmeiras que venceram quatro das seis melhores bases do mundo na Messi Cup",
+     "url": "https://ge.globo.com/futebol/times/palmeiras/noticia/2026/11/03/conheca-as-joias-do-palmeiras-que-venceram-quatro-das-seis-melhores-bases-do-mundo-na-messi-cup.ghtml",
+     "pub": "2026-11-03T10:50+00:00"
+    },
+    {
+     "medio": "Kicker",
+     "titulo": "Neuer übertrumpft Müller und Messi: Die meisten Einsätze in der Champions League",
+     "url": "https://www.kicker.de/die-meisten-einsaetze-in-der-koenigsklasse-cr7-vorne-mueller-und-kroos-in-den-top-10-787758/slideshow#omrss",
+     "pub": "2026-11-03T20:30+00:00"
+    },
+    {
+     "medio": "L'Equipe",
+     "titulo": "La première liste de l'Argentine depuis la retraite internationale de Lionel Messi, sans Rodrigo De Paul ni Giovani Lo Celso mais avec Nicolas Tagliafico",
+     "url": "https://www.lequipe.fr/Football/Actualites/La-premiere-liste-de-l-argentine-depuis-la-retraite-internationale-de-lionel-messi-sans-rodrigo-de-paul-ni-giovani-lo-celso-mais-avec-nicolas-tagliafico/1740857#at_medium=RSS_feeds",
+     "pub": "2026-11-03T17:13+00:00"
+    },
+    {
+     "medio": "Foot Mercato",
+     "titulo": "Argentine : la première liste depuis la retraite de Lionel Messi est tombée",
+     "url": "https://www.footmercato.net/a7736930117215620774-argentine-la-premiere-liste-depuis-la-retraite-de-lionel-messi-est-tombee",
+     "pub": "2026-11-03T16:23+00:00"
+    }
+   ]
+  },
+  {
+   "tema": "UEFA",
+   "medios": 11,
+   "lista_medios": [
+    "AS",
+    "Daily Mail",
+    "Foot Mercato",
+    "Football Italia",
+    "Google News AR",
+    "Google News EN",
+    "Google News ES",
+    "L'Equipe",
+    "Mirror",
+    "Record",
+    "Yahoo"
+   ],
+   "primera_vez": "2026-11-03T14:34+00:00",
+   "titulares": [
+    {
+     "medio": "Foot Mercato",
+     "titulo": "Drame en Espagne : l’UEFA annonce une minute de silence sur tous les terrains européens",
+     "url": "https://www.footmercato.net/a4593505727412783626-drame-en-espagne-luefa-annonce-une-minute-de-silence-sur-tous-les-terrains-europeens",
+     "pub": "2026-11-03T10:59+00:00"
+    },
+    {
+     "medio": "Record",
+     "titulo": "<![CDATA[ Jogos da UEFA vão ter um minuto de silêncio em memória de Jesús de Miguel ]]>",
+     "url": "https://www.record.pt/internacional/detalhe/todos-os-jogos-da-uefa-desta-semana-vao-ter-um-minuto-de-silencio-em-memoria-de-jesus-de-miguel",
+     "pub": "2026-11-03T12:17+00:00"
+    },
+    {
+     "medio": "AS",
+     "titulo": "Villarreal - PSG en directo: UEFA Champions League hoy, en vivo",
+     "url": "https://as.com/futbol/champions/villarreal-psg-en-directo-uefa-champions-league-hoy-en-vivo-f202611-d/",
+     "pub": "2026-11-03T21:10+00:00"
+    },
+    {
+     "medio": "AS",
+     "titulo": "Feyenoord - Inter en directo: UEFA Champions League hoy en vivo",
+     "url": "https://as.com/futbol/champions/feyenoord-inter-en-directo-uefa-champions-league-hoy-en-vivo-f202611-d/",
+     "pub": "2026-11-03T21:09+00:00"
+    },
+    {
+     "medio": "Google News ES",
+     "titulo": "AFE solicita a RFEF, LaLiga y UEFA la suspensión de todos los partidos de fútbol en España del 3 al 9 de noviembre",
+     "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPQUNrcnFuSDE3NDFCQ0dDNmtYVDBZZlRLemFFcjFpb0k4YTZZR05zU1pfS2dCM3otMmZ2ZTZOQVozNEtyVndYMHlrS2hRSlBIbklRSWVUTFVldlBBMnpkTXNVZWhMNjVsb1FfaUVSQXMxYkVlbnBpU05VbkpaMWFfOVpoOEItVXc3ZUhyaUVBRzktMGUzLVlzc0s5dkE3eTlCV1NKYkQ4Yi1MVUR0T1ZGVnpsVmdpSlVIZXZCamhzMnVKRkwzbUUtcWJhMk5KSW9Xamt2V2c2Sll6ZFJacVVuWjdaVE85QXl0NDFoaW9YUVBlSl9uOVFwbTVTONIBjwJBVV95cUxPNndXV1RxWVZJWWNtMjg3YUFpZkhiRXFyVzBoNFljSE1lQkJtSFhKTWFhY3hsNnprQnV1THdsNWkwWFhlM193TGRrWWNSby1iMzNUd184dlJHUmJaUGUyVnNyQnA2ZzI2YzVSZ1dVbzJheVRRSi0xWnVVNGt0d0J3QmhXRWNZMDdXbnU2YVdudzN3aDJfdzYtdVpxTGFLT1JJZkdFTm1QZXZWdVAtWC1qeThscVNneEdMcENPU3ZsQjVoand2N0tlQXhaUDRQTEJhMEVPRC1NOFBDWExIOWN0aVd3Y0IxNjlFM2Y1SUFuUnE5V0kzRk5xUXJncXowM1ZMaF83b2h6WWFHMG1xVXc4?oc=5",
+     "pub": "2026-11-03T17:01+00:00"
+    },
+    {
+     "medio": "Football Italia",
+     "titulo": "Why Juventus had to register Ekhator and not Zhegrova in UEFA squad list changes",
+     "url": "https://football-italia.net/why-juventus-had-to-register-ekhator-zhegrova/",
+     "pub": "2026-11-03T16:39+00:00"
+    },
+    {
+     "medio": "L'Equipe",
+     "titulo": "Folarin Balogun remplace Ansu Fati sur la liste UEFA de Monaco",
+     "url": "https://www.lequipe.fr/Football/Actualites/Folarin-balogun-remplace-ansu-fati-sur-la-liste-uefa-de-monaco/1740868#at_medium=RSS_feeds",
+     "pub": "2026-11-03T17:44+00:00"
+    },
+    {
+     "medio": "Foot Mercato",
+     "titulo": "L’AS Monaco remplace Fati par Balogun dans sa liste UEFA",
+     "url": "https://www.footmercato.net/a8775528014307119366-las-monaco-remplace-fati-par-balogun-dans-sa-liste-uefa",
+     "pub": "2026-11-03T18:21+00:00"
+    },
+    {
+     "medio": "Google News AR",
+     "titulo": "‍*$~[[FÚTBOL!!]!!] Aston Villa vs. Barcelona - UEFA Champions League En Vivo Online en Español",
+     "url": "https://news.google.com/rss/articles/CBMisANBVV95cUxNWHhfcVc3S09fOXdYU0NLS0lfNldUZEVLN2RueGxNWkhKbHpfVnRPakxyNkxEMVY1ZFA5TmlyNnZIYU1Mb0p6VXJEaFJQRVJOUVNOTXJFNzI1NmRQX1haa1Z0NGVwenJURnpDdG5YRzg0aUFOdHAzaGRfaTQ3amEwNzZOcnlsYm8zX0N3MWhPQ1BBanVxMWZtbWRfWWNXOGk0S1E2NTEwdGVrNnhJNUhzNldUbDdHLWo5eVJyRWZYMy14UUZxcUt6QWtBQTJMbFVLeGxvNkFndFRUcW1qc0FzRDhkUDZOdlBfRUdzQ3IyWEVLWXc2aXd3V3BCTnJrUGtScjRpSFJsWEY1MjZxdVltOUNIS0VjazNuM2tPUWtkOW5yc2FYRm94QmZoVF9tQkV1ZU9lbVlYNndlMGVnUE9qcjJoUnlUQ0ktUzh4NjI4aDFnVnNuc0pMVS1BSEtQS1VxdXdQT1RIZTl4TTRqRDV2MFZIaG4wU3MxMkx6U0ZLOHI0NHJLV0tXVk1PUTdjM1VIazlzOTlDUGY1QW9QaGNpVEdvNFZybWxBdmZvWEZBbkQ?oc=5",
+     "pub": "2026-11-03T19:48+00:00"
+    },
+    {
+     "medio": "Yahoo",
+     "titulo": "AEK Athens vs Real Madrid: Match preview | UEFA Champions League",
+     "url": "https://sports.yahoo.com/articles/aek-athens-vs-real-madrid-141600074.html",
+     "pub": "2026-11-04T14:16+00:00"
+    },
+    {
+     "medio": "Google News EN",
+     "titulo": "Wales: Craig Bellamy announces 26-man squad for UEFA Nations League matches against Norway and Portugal",
+     "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOMHZ2Q3hIcWxZczhtOEg2X01Oa2pON2twaXhXUkNXd3hPcDVfbks0enR4UWVsV25EMDJaODg1RzZHd1hPdUk3N0dMR0J2RGZLR2FmZE1Pb2ZEejh0VHVNVktsR1NNMlRBenFRSi1pbkh1cnJUSUZtYm5vMHFTdTNnV1JVeGVGSUFpVFVmTnhzZHFqdXRGZ2ZnNElqZmNZalRHNFBHNktxMHFJaS1QMElxZFNCcUpfUHNlVEx4Sk5XMnpTcm8tWHIwYjgtRjVPcUJ3QXluMmY5Z0xxaF9jLUllNkxqTURjQQ?oc=5",
+     "pub": "2026-11-04T10:40+00:00"
+    },
+    {
+     "medio": "Google News EN",
+     "titulo": "Everything You Need To Know: UEFA Youth League Second Leg",
+     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNcFdpODluNUdsWnFBV3dtWUpSZjdubGJHMnliRlkzaGlRVklxMHdDdnZVazZ0R1hDZ0RWZnB6ZXlhb0x2SFBtcG9COEtQUGZEekZpSkRQSlB6QVNYYU92cG9MZHR0MDZaeWhtYWdZaV9JclAyaGcxNHlUNjRmWWtNQWVESzFac0g2UndMSQ?oc=5",
+     "pub": "2026-11-04T13:31+00:00"
+    }
+   ]
+  },
+  {
+   "tema": "Parker",
+   "medios": 10,
+   "lista_medios": [
+    "BBC",
+    "Daily Mail",
+    "Google News EN",
+    "Guardian",
+    "L'Equipe",
+    "Mundo Deportivo",
+    "Planet Football",
+    "Record",
+    "Sky Sports",
+    "talkSPORT"
+   ],
+   "primera_vez": "2026-11-03T14:34+00:00",
+   "titulares": [
+    {
+     "medio": "BBC",
+     "titulo": "West Ham approach Parker after sacking boss Nuno",
+     "url": "https://www.bbc.co.uk/sport/football/articles/c63dj3zpl85go?at_medium=RSS&at_campaign=rss",
+     "pub": "2026-11-03T12:42+00:00"
+    },
+    {
+     "medio": "BBC",
+     "titulo": "Green backs 'proven' Parker for Hammers job",
+     "url": "https://www.bbc.co.uk/sport/football/articles/c893z569154yo?at_medium=RSS&at_campaign=rss",
+     "pub": "2026-11-03T12:32+00:00"
+    },
     {
      "medio": "Guardian",
      "titulo": "West Ham turn to Scott Parker after sacking Nuno Espírito Santo as head coach",
@@ -2279,12 +1847,6 @@
      "titulo": "Simon Jordan hands West Ham huge Scott Parker warning as club icon slams recruitment",
      "url": "https://talksport.com/football/4684699/west-ham-simon-jordan-scott-parker/",
      "pub": "2026-11-03T12:27+00:00"
-    },
-    {
-     "medio": "Mirror",
-     "titulo": "West Ham sack Nuno Espirito Santo with Scott Parker lined up to replace him",
-     "url": "https://www.mirror.co.uk/sport/football/news/west-ham-sack-nuno-espirito-37837008",
-     "pub": "2026-11-03T08:57+00:00"
     },
     {
      "medio": "Planet Football",
@@ -2300,12 +1862,6 @@
     },
     {
      "medio": "Google News EN",
-     "titulo": "West Ham approach Scott Parker after sacking Nuno Espirito Santo",
-     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE15TlJreUp1Sk9pYVZydmNYTmIybGxVREtDWmtLRE10VWx3UDFkVk9uaVFNMTcwcDBZQ3hoVkw5b0RYLUxJYllGc19zRmpRQ2phS3hTQlVsbVdETURRUEZDVXBQMXRBRzRTdlhJ?oc=5",
-     "pub": "2026-11-03T08:50+00:00"
-    },
-    {
-     "medio": "Google News EN",
      "titulo": "West Ham: Scott Parker to replace Nuno Espirito Santo?",
      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFAxODZ3aDhyYnFyYnlYdG9YT3l3emJtQXpZMlZSa1pJVjlTQU9aTS01V3pQamVqS0pSTWhDZURiV00ycFhWaklCcFcxR2RQNkZ2TXA2WmNtV3o0dFg2aExDcWxIOGtCVGFu?oc=5",
      "pub": "2026-11-03T14:03+00:00"
@@ -2317,118 +1873,483 @@
      "pub": "2026-11-03T18:09+00:00"
     },
     {
+     "medio": "BBC",
+     "titulo": "West Ham confirm Parker as boss",
+     "url": "https://www.bbc.co.uk/sport/football/articles/cq3dj37m1kddo?at_medium=RSS&at_campaign=rss",
+     "pub": "2026-11-04T11:54+00:00"
+    },
+    {
      "medio": "Guardian",
      "titulo": "West Ham confirm Scott Parker as head coach after sacking Nuno Espírito Santo",
      "url": "https://www.theguardian.com/football/2026/nov/04/west-ham-confirm-scott-parker-as-manager",
      "pub": "2026-11-04T09:30+00:00"
     },
     {
-     "medio": "talkSPORT",
-     "titulo": "West Ham held talks with ex-Premier League star before Scott Parker decision",
-     "url": "https://talksport.com/football/4686826/west-ham-john-heitinga-new-manager-scott-parker/",
-     "pub": "2026-11-04T11:59+00:00"
+     "medio": "Guardian",
+     "titulo": "West Ham took too long to sack Nuno and now must trust Parker to do what he does best | Jacob Steinberg",
+     "url": "https://www.theguardian.com/football/2026/nov/04/west-ham-took-too-long-to-sack-nuno-and-now-must-trust-parker-to-do-what-he-does-best",
+     "pub": "2026-11-04T08:00+00:00"
     },
     {
-     "medio": "talkSPORT",
-     "titulo": "Scott Parker named new West Ham boss just 24 hours after Nuno Espirito Santo sacked",
-     "url": "https://talksport.com/football/4684466/west-ham-scott-parker-nuno-espirito-santo-confirmed/",
-     "pub": "2026-11-04T09:32+00:00"
-    },
-    {
-     "medio": "Google News EN",
-     "titulo": "Scott Parker: West Ham United confirm ex-midfielder as head coach",
-     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFB5S1Yxb2swLVdRYjNIRnQ5OUZPYlBOSDFRR1BTNmRRSHVCVGE1V0ItQVZjREJrcTQzcVVTckw3LVNOeUluUUM0MVBXd1ladHBhaVVVZENZeFkwcHVldjI3VnJnemZTMGpVV0V3?oc=5",
-     "pub": "2026-11-04T09:30+00:00"
+     "medio": "Sky Sports",
+     "titulo": "Can Parker roll back the years and be a success at West Ham?",
+     "url": "https://www.skysports.com/football/news/12040/13607503/scott-parker-to-west-ham-can-former-hammers-player-roll-back-years-and-win-premier-league-promotion-yet-again",
+     "pub": "2026-11-04T09:40+00:00"
     }
    ]
   },
   {
-   "tema": "Santo",
-   "medios": 9,
+   "tema": "Fenerbahce",
+   "medios": 10,
    "lista_medios": [
     "Daily Mail",
-    "Foot Mercato",
+    "FourFourTwo",
     "Google News EN",
     "Guardian",
-    "Kicker",
-    "L'Equipe",
     "Mirror",
-    "Record",
+    "Mundo Deportivo",
+    "Sky Sports",
+    "Telegraph",
+    "Yahoo",
     "talkSPORT"
    ],
    "primera_vez": "2026-11-03T14:34+00:00",
    "titulares": [
     {
+     "medio": "talkSPORT",
+     "titulo": "What time is Fenerbahce vs Liverpool as clubs meet for first time in early kick-off",
+     "url": "https://talksport.com/football/4685116/where-watch-fenerbahce-liverpool-kick-off-time/",
+     "pub": "2026-11-03T14:20+00:00"
+    },
+    {
+     "medio": "Yahoo",
+     "titulo": "Liverpool dealt major injury blow ahead of Fenerbahce clash",
+     "url": "https://sports.yahoo.com/articles/liverpool-dealt-major-injury-blow-135000650.html",
+     "pub": "2026-11-03T13:50+00:00"
+    },
+    {
      "medio": "Guardian",
-     "titulo": "West Ham turn to Scott Parker after sacking Nuno Espírito Santo as head coach",
-     "url": "https://www.theguardian.com/football/2026/nov/03/west-ham-sack-nuno-espirito-santo-as-head-coach",
-     "pub": "2026-11-03T09:43+00:00"
-    },
-    {
-     "medio": "talkSPORT",
-     "titulo": "West Ham reach agreement with club legend to immediately replace Nuno Espirito Santo",
-     "url": "https://talksport.com/football/4684466/west-ham-scott-parker-nuno-espirito-santo/",
-     "pub": "2026-11-03T09:38+00:00"
-    },
-    {
-     "medio": "talkSPORT",
-     "titulo": "Nuno Espirito Santo sacked by West Ham despite sitting eighth as interim immediately named",
-     "url": "https://talksport.com/football/4684352/nuno-espirito-santo-sacked-west-ham-manager/",
-     "pub": "2026-11-03T08:56+00:00"
+     "titulo": "Andoni Iraola calls on Liverpool to sharpen up in attack before Fenerbahce test",
+     "url": "https://www.theguardian.com/football/2026/nov/03/andoni-iraola-calls-on-liverpool-to-sharpen-up-in-attack-before-fenerbahce-test",
+     "pub": "2026-11-03T18:42+00:00"
     },
     {
      "medio": "Daily Mail",
-     "titulo": "West Ham star's WAG aims brutal parting dig at Nuno Espirito Santo after Hammers sacked under-fire manager - while team-mate 'likes' club post confirming his exit",
-     "url": "https://www.dailymail.com/sport/football/article-16261505/west-ham-sack-nuno-espirito-santo.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-     "pub": "2026-11-03T11:25+00:00"
+     "titulo": "Inside Mason Greenwood's new life in Turkey ahead of Liverpool clash: How former Man United star has stayed under the radar, why Fenerbahce fans have welcomed him - and his new luxurious gated community",
+     "url": "https://www.dailymail.com/sport/football/article-16263255/Inside-Mason-Greenwoods-new-life-Turkey-ahead-Liverpool-clash-former-Man-United-star-stayed-radar-Fenerbahce-fans-welcomed-new-luxurious-gated-community.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+     "pub": "2026-11-04T11:46+00:00"
     },
     {
      "medio": "Mirror",
-     "titulo": "West Ham sack Nuno Espirito Santo with Scott Parker lined up to replace him",
-     "url": "https://www.mirror.co.uk/sport/football/news/west-ham-sack-nuno-espirito-37837008",
-     "pub": "2026-11-03T08:57+00:00"
+     "titulo": "How to watch Fenerbahce vs Liverpool - TV channel, live stream, kick-off time",
+     "url": "https://www.mirror.co.uk/sport/football/news/fenerbahce-liverpool-tv-channel-iraola-37837020",
+     "pub": "2026-11-04T14:00+00:00"
+    },
+    {
+     "medio": "Mirror",
+     "titulo": "'Liverpool manager is a d*******' post led to my exit - I was pushed out to Fenerbahce'",
+     "url": "https://www.mirror.co.uk/sport/football/news/liverpool-manager-comment-fenerbahce-transfer-37837071",
+     "pub": "2026-11-04T06:00+00:00"
+    },
+    {
+     "medio": "FourFourTwo",
+     "titulo": "Watch Fenerbahce vs Liverpool: FREE Streams and TV Channels",
+     "url": "https://www.fourfourtwo.com/competition/watch-fenerbahce-vs-liverpool-champions-league-2026-27-free",
+     "pub": "2026-11-04T14:45+00:00"
+    },
+    {
+     "medio": "Yahoo",
+     "titulo": "How to watch Fenerbahce vs Liverpool Champions League match live",
+     "url": "https://sports.yahoo.com/articles/watch-fenerbahce-vs-liverpool-champions-135000352.html",
+     "pub": "2026-11-04T13:50+00:00"
+    },
+    {
+     "medio": "Yahoo",
+     "titulo": "Liverpool Starting XI vs Fenerbahce: Confirmed Team News and Predicted Lineup",
+     "url": "https://sports.yahoo.com/articles/liverpool-starting-xi-vs-fenerbahce-130000993.html",
+     "pub": "2026-11-04T13:00+00:00"
+    },
+    {
+     "medio": "Mundo Deportivo",
+     "titulo": "Un ex del Atlético, nuevo entrenador del Fenerbahce; se estrena en Anfield",
+     "url": "https://www.mundodeportivo.com/futbol/atletico-madrid/20261104/1004247100/ex-atletico-nuevo-entrenador-fenerbahce-estrena-anfield.html",
+     "pub": ""
+    },
+    {
+     "medio": "Guardian",
+     "titulo": "Muriqi caps Fenerbahce comeback to make Liverpool pay for defensive lapses",
+     "url": "https://www.theguardian.com/football/2026/nov/04/muriqi-caps-fenerbahce-comeback-to-make-liverpool-pay-for-defensive-lapses",
+     "pub": "2026-11-04T19:58+00:00"
+    },
+    {
+     "medio": "Sky Sports",
+     "titulo": "Liverpool suffer first CL defeat of season after stunning Fenerbahce comeback",
+     "url": "https://www.skysports.com/football/fenerbahce-vs-liverpool/report/577663",
+     "pub": "2026-11-04T19:40+00:00"
+    }
+   ]
+  },
+  {
+   "tema": "Carrick",
+   "medios": 10,
+   "lista_medios": [
+    "BBC",
+    "Daily Mail",
+    "Foot Mercato",
+    "Google News EN",
+    "Guardian",
+    "Mirror",
+    "Planet Football",
+    "Telegraph",
+    "Yahoo",
+    "talkSPORT"
+   ],
+   "primera_vez": "2026-11-03T14:34+00:00",
+   "titulares": [
+    {
+     "medio": "talkSPORT",
+     "titulo": "Where to watch Manchester United v Roma as Michael Carrick prepares for another must win",
+     "url": "https://talksport.com/football/4684759/where-watch-manchester-united-roma-michael-carrick-win-job/",
+     "pub": "2026-11-03T13:41+00:00"
+    },
+    {
+     "medio": "Yahoo",
+     "titulo": "Champions League latest: Iraola to speak; Saliba back training; Carrick faces Roma test",
+     "url": "https://sports.yahoo.com/articles/champions-league-build-news-conferences-112358386.html",
+     "pub": "2026-11-03T14:20+00:00"
+    },
+    {
+     "medio": "Yahoo",
+     "titulo": "🙈 Another Carrick debacle looms! United playing worse than ever",
+     "url": "https://sports.yahoo.com/articles/another-carrick-debacle-looms-united-204300074.html",
+     "pub": "2026-11-03T20:43+00:00"
+    },
+    {
+     "medio": "Yahoo",
+     "titulo": "Carrick: ‘Roma are a really good team, big game for Manchester United’",
+     "url": "https://sports.yahoo.com/articles/carrick-roma-really-good-team-195100485.html",
+     "pub": "2026-11-03T19:51+00:00"
+    },
+    {
+     "medio": "Yahoo",
+     "titulo": "Michael Carrick drops Lisandro Martinez after shambolic Chelsea display",
+     "url": "https://sports.yahoo.com/articles/michael-carrick-drops-lisandro-martinez-193515499.html",
+     "pub": "2026-11-03T19:35+00:00"
     },
     {
      "medio": "Google News EN",
-     "titulo": "West Ham fan shares 'relief' over sacking of Nuno Espirito Santo",
-     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNeGgzLS1qQWU3ZTFkUWNHMFNFbkJXalhwM19veDVzRjBwcGRLOU5WbnFpb3dxNDBFbVNBeWJ1eHFBS1NUOWxhMXBvTmUwa25pYU9EQmI3cjUxOV9GTDNjMlkzemdMU21JS19WcjBVeTdGa01QM2g1NWlsSjM5eThzNF93X3g5WXd4YjNSM3VrT2ZteXBMcWlHYWxtMm1Rc0xkN1ktR3F2MVdnUDhHWHVqdGdR?oc=5",
-     "pub": "2026-11-03T10:42+00:00"
+     "titulo": "Transfer Talk: Was Michael Carrick too soft on Lisandro Martinez?",
+     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNSUp5UUxnNGVjWFVuekM4NXdXbERYaktFV2UwR0pqV2EwdHZqWXNIbnZBWXJLYWgweDEzUHFHRkxJNDJzY0FoQXBYci1JTU5oeFpQNXFkUWs0bmVlVTdzeTZ5dFM3X2E3bk1EUUZkZ01XMzVmUGZrckFVSnBiUGNqV196SllGYVQ5OFNHMTdHaWtJT2lpNVNERGxxMVFYanRvWDZiZUFZLV9RNmZUNE5ZRWRxYw?oc=5",
+     "pub": "2026-11-03T16:20+00:00"
     },
     {
-     "medio": "Google News EN",
-     "titulo": "West Ham approach Scott Parker after sacking Nuno Espirito Santo",
-     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE15TlJreUp1Sk9pYVZydmNYTmIybGxVREtDWmtLRE10VWx3UDFkVk9uaVFNMTcwcDBZQ3hoVkw5b0RYLUxJYllGc19zRmpRQ2phS3hTQlVsbVdETURRUEZDVXBQMXRBRzRTdlhJ?oc=5",
-     "pub": "2026-11-03T08:50+00:00"
+     "medio": "BBC",
+     "titulo": "Fernandes critical of media 'lies' about Carrick relationship",
+     "url": "https://www.bbc.co.uk/sport/football/articles/cqkg5dgvygr1o?at_medium=RSS&at_campaign=rss",
+     "pub": "2026-11-04T00:45+00:00"
     },
     {
-     "medio": "Google News EN",
-     "titulo": "West Ham: Scott Parker to replace Nuno Espirito Santo?",
-     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFAxODZ3aDhyYnFyYnlYdG9YT3l3emJtQXpZMlZSa1pJVjlTQU9aTS01V3pQamVqS0pSTWhDZURiV00ycFhWaklCcFcxR2RQNkZ2TXA2WmNtV3o0dFg2aExDcWxIOGtCVGFu?oc=5",
-     "pub": "2026-11-03T14:03+00:00"
+     "medio": "Guardian",
+     "titulo": "Can miraculous Manchester United comeback save Michael Carrick? | Football Weekly video",
+     "url": "https://www.theguardian.com/football/video/2026/nov/04/can-miraculous-manchester-united-comeback-save-michael-carrick-football-weekly-video",
+     "pub": "2026-11-04T13:30+00:00"
     },
     {
-     "medio": "Google News EN",
-     "titulo": "West Ham: Nuno Espirito Santo sacked by Hammers with club sitting in eighth place in the Championship",
-     "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPc25fRW41Y1JycUFYTTVncWd4N3M5TXhFQ2lheHBGRzZBU1JvdTYwSmFERHFWalJLbkxId19oeFFGdGktM0hld0tqSkdmd0Z1R3JtSHZYTlBYeWhtYTRvelg1S003WUFCZkxWM3hfa0VEeS1BVWpLV1liOTQ3cktaN1dEUENPa29FVGt2Q0g4VUJfX3pBQlduMndieE1CTVFtTzNVeUhjQVo4U3VJUXRwZTU0MnlVT1dOaG5vVG42U1hOdFJEcDA4V2VKa1dDRjZ4NjlxbGRHeFJDeDFsaVhMSE5NWQ?oc=5",
-     "pub": "2026-11-03T10:07+00:00"
+     "medio": "talkSPORT",
+     "titulo": "Michael Carrick told to play two Man United academy stars in make-or-break game against Aston Villa",
+     "url": "https://talksport.com/football/4686671/michael-carrick-man-united-shea-lacey-amass-aston-villa/",
+     "pub": "2026-11-04T10:31+00:00"
+    },
+    {
+     "medio": "talkSPORT",
+     "titulo": "Michael Carrick leaves Matheus Cunha furious as Man United hero ordered to leave pitch",
+     "url": "https://talksport.com/football/4686492/michael-carrick-matheus-cunha-man-utd-row/",
+     "pub": "2026-11-03T22:35+00:00"
+    },
+    {
+     "medio": "Daily Mail",
+     "titulo": "Man United conjured a miraculous comeback against Roma that was thrilling, visceral and raw... finally Michael Carrick has something to cling to, writes IAN LADYMAN",
+     "url": "https://www.dailymail.com/sport/football/article-16262693/Man-United-conjured-miraculous-comeback-against-Roma-thrilling-visceral-raw-finally-Michael-Carrick-cling-writes-IAN-LADYMAN.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+     "pub": "2026-11-04T08:19+00:00"
+    },
+    {
+     "medio": "Daily Mail",
+     "titulo": "Michael Carrick might STILL be one game from the sack. A one-night stand of epic proportions was up there with Man United's best but produced more questions than answers, writes CHRIS WHEELER",
+     "url": "https://www.dailymail.com/sport/football/article-16262695/Man-United-Roma-comeback-best-Michael-Carrick-Aston-Villa-survive-international-break-CHRIS-WHEELER.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+     "pub": "2026-11-04T07:56+00:00"
+    }
+   ]
+  },
+  {
+   "tema": "Bayern",
+   "medios": 10,
+   "lista_medios": [
+    "AS",
+    "Foot Mercato",
+    "FourFourTwo",
+    "Guardian",
+    "Infobae",
+    "Kicker",
+    "Mundo Deportivo",
+    "Planet Football",
+    "Record",
+    "Yahoo"
+   ],
+   "primera_vez": "2026-11-03T14:34+00:00",
+   "titulares": [
+    {
+     "medio": "Yahoo",
+     "titulo": "🔙 The captain returns: Koke in Atleti's squad to face Bayern",
+     "url": "https://sports.yahoo.com/articles/captain-returns-koke-atletis-squad-124200067.html",
+     "pub": "2026-11-03T12:42+00:00"
+    },
+    {
+     "medio": "AS",
+     "titulo": "Atlético - Bayern, en directo: jornada 4 de fase liga, Champions League, hoy, en vivo",
+     "url": "https://as.com/futbol/champions/atletico-bayern-en-directo-jornada-4-de-fase-liga-champions-league-hoy-en-vivo-f202611-d/",
+     "pub": "2026-11-03T14:30+00:00"
+    },
+    {
+     "medio": "Mundo Deportivo",
+     "titulo": "Simeone da una lista para el Bayern sin el 'Cuti' Romero",
+     "url": "https://www.mundodeportivo.com/futbol/atletico-madrid/20261103/1004246669/simeone-da-lista-bayern-cuti-romero.html",
+     "pub": ""
     },
     {
      "medio": "Kicker",
-     "titulo": "West Ham trennt sich von Trainer Espirito Santo - Parker soll kommen",
-     "url": "https://www.kicker.de/west-ham-trennt-sich-von-trainer-espirito-santo-parker-soll-kommen-1268035/artikel#omrss",
-     "pub": "2026-11-03T09:23+00:00"
+     "titulo": "Für Seitz gehört \"die Regionalliga Bayern aufgelöst\"",
+     "url": "https://www.kicker.de/fuer-seitz-gehoert-die-regionalliga-bayern-aufgeloest-1268030/artikel#omrss",
+     "pub": "2026-11-03T10:19+00:00"
     },
     {
-     "medio": "L'Equipe",
-     "titulo": "L'entraîneur de West Ham, Nuno Espirito Santo, limogé par le club de Championship",
-     "url": "https://www.lequipe.fr/Football/Actualites/L-entraineur-de-west-ham-nuno-espirito-santo-limoge-par-le-club-de-championship/1740739#at_medium=RSS_feeds",
-     "pub": "2026-11-03T09:19+00:00"
+     "medio": "FourFourTwo",
+     "titulo": "How to watch Atletico Madrid vs Bayern Munich: FREE Streams",
+     "url": "https://www.fourfourtwo.com/competition/watch-atletico-madrid-vs-bayern-munich-champions-league-2026-27-free",
+     "pub": "2026-11-03T17:00+00:00"
+    },
+    {
+     "medio": "Yahoo",
+     "titulo": "Arsenal star wanted by Bayern Munich with initial contact made",
+     "url": "https://sports.yahoo.com/articles/arsenal-star-wanted-bayern-munich-195000515.html",
+     "pub": "2026-11-03T19:50+00:00"
+    },
+    {
+     "medio": "Yahoo",
+     "titulo": "Confirmed line-ups for Atlético de Madrid and Bayern Munich",
+     "url": "https://sports.yahoo.com/articles/confirmed-line-ups-atl-tico-185200721.html",
+     "pub": "2026-11-03T18:52+00:00"
+    },
+    {
+     "medio": "Mundo Deportivo",
+     "titulo": "Atlético - Bayern, en directo",
+     "url": "https://www.mundodeportivo.com/futbol/champions-league/20261103/1004244853/atletico-madrid-bayern-munich-directo-sigue-partido-champions-league-vivo.html",
+     "pub": ""
+    },
+    {
+     "medio": "Mundo Deportivo",
+     "titulo": "El Atlético ya tiene once para medirse al Bayern, con sorpresa en ataque",
+     "url": "https://www.mundodeportivo.com/futbol/atletico-madrid/20261103/1004246856/atletico-once-medirse-bayern-sorpresa-ataque.html",
+     "pub": ""
+    },
+    {
+     "medio": "Mundo Deportivo",
+     "titulo": "4-1: El Atlético arrasa al Bayern para instalarse en la zona alta",
+     "url": "https://www.mundodeportivo.com/futbol/atletico-madrid/20261103/1004246808/4-1-atletico-arrasa-bayern-instalarse-zona-alta.html",
+     "pub": ""
+    },
+    {
+     "medio": "Record",
+     "titulo": "<![CDATA[ Bayern Munique já tem Junior Kroupi na mira ]]>",
+     "url": "https://www.record.pt/internacional/paises/alemanha/detalhe/bayern-munique-ja-tem-junior-kroupi-na-mira",
+     "pub": "2026-11-03T20:28+00:00"
+    },
+    {
+     "medio": "Guardian",
+     "titulo": "Lennart Karl steals in behind Atlético Madrid to inspire Bayern Munich win",
+     "url": "https://www.theguardian.com/football/2026/nov/03/atletico-madrid-bayern-munich-champions-league-match-report",
+     "pub": "2026-11-03T22:28+00:00"
+    }
+   ]
+  },
+  {
+   "tema": "Atlético",
+   "medios": 10,
+   "lista_medios": [
+    "AS",
+    "Foot Mercato",
+    "Google News AR",
+    "Guardian",
+    "Infobae",
+    "Mundo Deportivo",
+    "Ole",
+    "Record",
+    "Yahoo",
+    "ge.globo"
+   ],
+   "primera_vez": "2026-11-03T14:34+00:00",
+   "titulares": [
+    {
+     "medio": "AS",
+     "titulo": "Atlético - Bayern, en directo: jornada 4 de fase liga, Champions League, hoy, en vivo",
+     "url": "https://as.com/futbol/champions/atletico-bayern-en-directo-jornada-4-de-fase-liga-champions-league-hoy-en-vivo-f202611-d/",
+     "pub": "2026-11-03T14:30+00:00"
+    },
+    {
+     "medio": "Infobae",
+     "titulo": "Con Atlético Madrid-Bayern Múnich y Manchester United-Roma se abre la cuarta fecha de la Champions: la agenda completa",
+     "url": "https://www.infobae.com/deportes/2026/11/03/con-atletico-madrid-bayern-munich-y-manchester-united-roma-se-abre-la-cuarta-fecha-de-la-champions-la-agenda-completa/",
+     "pub": "2026-11-03T12:15+00:00"
+    },
+    {
+     "medio": "Google News AR",
+     "titulo": "Martes de Champions con partidazos: Atlético Madrid-Bayern, Barcelona-Aston Villa y Manchester-Roma",
+     "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPSzIySUl4WHZHdThHcm9mVlA1OTA3UGhhSDNVTTd5WkY1QlIxSkl6Y3pwLVJQeG82Z3NwWkM1MnRtRS00SUdRa1VaaWVweUU0TE5SRzJxOVNQVjllTjY3YWpDNFZWRDkxNUVYVXFjUEdOZFFJazlmVkswYUhxLVRFNjRrdFU0OXBFNjZZUlpyRXNnZVU2RkdoQmtvY2VUOU9GVnE1a3JUZ2oxaXFkQlJmZEpvTF9Qc0V0SEdYOHJqWTQzY0llSE81WV9JN0JZTUlQQjBYVV9tMlNXYzQ?oc=5",
+     "pub": "2026-11-03T13:07+00:00"
+    },
+    {
+     "medio": "Yahoo",
+     "titulo": "Confirmed line-ups for Atlético de Madrid and Bayern Munich",
+     "url": "https://sports.yahoo.com/articles/confirmed-line-ups-atl-tico-185200721.html",
+     "pub": "2026-11-03T18:52+00:00"
+    },
+    {
+     "medio": "Mundo Deportivo",
+     "titulo": "Atlético - Bayern, en directo",
+     "url": "https://www.mundodeportivo.com/futbol/champions-league/20261103/1004244853/atletico-madrid-bayern-munich-directo-sigue-partido-champions-league-vivo.html",
+     "pub": ""
+    },
+    {
+     "medio": "Mundo Deportivo",
+     "titulo": "El Atlético ya tiene once para medirse al Bayern, con sorpresa en ataque",
+     "url": "https://www.mundodeportivo.com/futbol/atletico-madrid/20261103/1004246856/atletico-once-medirse-bayern-sorpresa-ataque.html",
+     "pub": ""
+    },
+    {
+     "medio": "Mundo Deportivo",
+     "titulo": "4-1: El Atlético arrasa al Bayern para instalarse en la zona alta",
+     "url": "https://www.mundodeportivo.com/futbol/atletico-madrid/20261103/1004246808/4-1-atletico-arrasa-bayern-instalarse-zona-alta.html",
+     "pub": ""
+    },
+    {
+     "medio": "Record",
+     "titulo": "<![CDATA[ Atlético Madrid-Bayern, em direto ]]>",
+     "url": "https://www.record.pt/internacional/competicoes-de-clubes/liga-dos-campeoes/detalhe/atletico-madrid-bayern-em-direto",
+     "pub": "2026-11-03T20:22+00:00"
+    },
+    {
+     "medio": "Guardian",
+     "titulo": "Lennart Karl steals in behind Atlético Madrid to inspire Bayern Munich win",
+     "url": "https://www.theguardian.com/football/2026/nov/03/atletico-madrid-bayern-munich-champions-league-match-report",
+     "pub": "2026-11-03T22:28+00:00"
+    },
+    {
+     "medio": "Mundo Deportivo",
+     "titulo": "El Atlético se conjura: \"A solucionarlo ante el Barcelona, queremos ser primeros\"",
+     "url": "https://www.mundodeportivo.com/futbol/atletico-madrid/20261104/1004247151/atletico-conjura-solucionarlo-barcelona-queremos-primeros.html",
+     "pub": ""
+    },
+    {
+     "medio": "Mundo Deportivo",
+     "titulo": "Un ex del Atlético, nuevo entrenador del Fenerbahce; se estrena en Anfield",
+     "url": "https://www.mundodeportivo.com/futbol/atletico-madrid/20261104/1004247100/ex-atletico-nuevo-entrenador-fenerbahce-estrena-anfield.html",
+     "pub": ""
     },
     {
      "medio": "Foot Mercato",
-     "titulo": "West Ham se sépare de Nuno Espírito Santo",
-     "url": "https://www.footmercato.net/a4253484276667539752-west-ham-se-separe-de-nuno-espirito-santo",
-     "pub": "2026-11-03T09:01+00:00"
+     "titulo": "Le Barça confirme la blessure et le forfait de Rodri contre l’Atlético",
+     "url": "https://www.footmercato.net/a7414869759548322100-le-barca-confirme-la-blessure-et-le-forfait-de-rodri-contre-latletico",
+     "pub": "2026-11-04T11:57+00:00"
+    }
+   ]
+  },
+  {
+   "tema": "Mourinho",
+   "medios": 10,
+   "lista_medios": [
+    "AS",
+    "BBC",
+    "Foot Mercato",
+    "FourFourTwo",
+    "Google News EN",
+    "Google News ES",
+    "Kicker",
+    "Mirror",
+    "Mundo Deportivo",
+    "ge.globo"
+   ],
+   "primera_vez": "2026-11-03T21:14+00:00",
+   "titulares": [
+    {
+     "medio": "AS",
+     "titulo": "Mourinho, sobre Valverde: “Cuando eres capitán, tienes que ser diferente...”",
+     "url": "https://as.com/futbol/champions/mourinho-sobre-valverde-cuando-eres-capitan-tienes-que-ser-diferente-es-una-responsabilidad-f202611-n/",
+     "pub": "2026-11-03T17:40+00:00"
+    },
+    {
+     "medio": "Mundo Deportivo",
+     "titulo": "Mourinho: \"La muerte de Jesús de Miguel es dura y también la situación del otro jugador envuelto\"",
+     "url": "https://www.mundodeportivo.com/futbol/real-madrid/20261103/1004246826/mourinho-muerte-jesus-miguel-dura-situacion-jugador-envuelto.html",
+     "pub": ""
+    },
+    {
+     "medio": "Google News ES",
+     "titulo": "José Mourinho y su respuesta más tajante ¿Cuánto necesita para hacer el Real Madrid perfecto?",
+     "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPa1ZsYnZORVNHNmRVYjFNUWtkb20yN2swbUdoZ2pKRFNrY05iQWQ3TmtMcUdMN040a3hBVU9SWDhPazhXVzRacFZKdUp3cE1ibTUxMlE0YjlQVldpb211N05kU1dlRWFBRDYyd1dreVZEajVwSlNGa1RHdHBYd3Bldk5Td3kwWGYtNEtDazFPbTJVaHlIbFlQSm5hU1RUZVZsd2JlREtwOXRZUnlIU256YUUxYUV1eUZPOXZNcWlzLWxSUGlZb2JmTVNMR1FuUThfbjlRa013eEM5LUFNenp0Y05Mcw?oc=5",
+     "pub": "2026-11-03T19:18+00:00"
+    },
+    {
+     "medio": "Kicker",
+     "titulo": "\"Für alle einfach traurig\": José Mourinho gedenkt de Miguel",
+     "url": "https://www.kicker.de/fuer-alle-einfach-traurig-jos-mourinho-gedenkt-de-miguel-1268235/video#omrss",
+     "pub": "2026-11-03T20:41+00:00"
+    },
+    {
+     "medio": "Mirror",
+     "titulo": "Jose Mourinho sends message to 'broken' goalkeeper who collided with Jesus de Miguel",
+     "url": "https://www.mirror.co.uk/sport/football/news/mourinho-de-jesus-death-owono-37841966",
+     "pub": "2026-11-04T11:59+00:00"
+    },
+    {
+     "medio": "FourFourTwo",
+     "titulo": "\"Jose Mourinho moved me into midfield so we could play together: he was a full-back with the soul of a striker\" Javier Zanetti on the team-mate so good, he had to change positions to play with him",
+     "url": "https://www.fourfourtwo.com/person/jose-mourinho-moved-me-into-midfield-so-we-could-play-together-he-was-a-full-back-with-the-soul-of-a-striker-javier-zanetti-on-the-team-mate-so-good-he-had-to-change-positions-to-play-with-him",
+     "pub": "2026-11-04T09:00+00:00"
+    },
+    {
+     "medio": "AS",
+     "titulo": "Es la debilidad de Mourinho y no es para menos: alucinen con la última locura de Alexis Ciria en la Youth League",
+     "url": "https://as.com/futbol/videos/es-la-debilidad-de-mourinho-y-no-es-para-menos-alucinen-con-la-ultima-locura-de-alexis-ciria-en-la-youth-league-f202611-v/",
+     "pub": "2026-11-04T14:42+00:00"
+    },
+    {
+     "medio": "AS",
+     "titulo": "La sinfonía de Mourinho",
+     "url": "https://as.com/futbol/champions/la-sinfonia-de-mourinho-f202611-n/",
+     "pub": "2026-11-04T09:00+00:00"
+    },
+    {
+     "medio": "ge.globo",
+     "titulo": "Mourinho fala em fim do calvário de Vini Jr. e o exalta: \"Preciso dele, ele ganha jogos\"",
+     "url": "https://ge.globo.com/futebol/futebol-internacional/noticia/2026/11/04/mourinho-fala-em-fim-do-calvario-de-vini-jr-e-o-exalta-preciso-dele-ele-ganha-jogos.ghtml",
+     "pub": "2026-11-04T03:00+00:00"
+    },
+    {
+     "medio": "BBC",
+     "titulo": "Why Man Utd's Roma comeback has echoes of Mourinho and Solskjaer",
+     "url": "https://www.bbc.co.uk/sport/football/articles/cqx28zjxdxxzo?at_medium=RSS&at_campaign=rss",
+     "pub": "2026-11-04T16:12+00:00"
+    },
+    {
+     "medio": "Google News EN",
+     "titulo": "Man Utd: Michael Carrick run has echoes of Jose Mourinho and Ole Gunnar Solskjaer",
+     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBPck9NMHpPUXBQcklkU0h4OVc4NG4ydWZtWEJ5b1NyN0FtM3JLaTVjRlFRa1g5cTRlNFFDYmc1SlJXSTZPUlE3eUw3TDR3MC1UOG1YNTV5SVl6TDZ1NURFbWpFbm9XVHJ0Qlpr?oc=5",
+     "pub": "2026-11-04T16:12+00:00"
+    },
+    {
+     "medio": "AS",
+     "titulo": "El gesto de Mourinho sobre Nadal y su inclusión en la Junta que va a poner la piel de gallina al madridismo",
+     "url": "https://as.com/futbol/videos/el-gesto-de-mourinho-sobre-nadal-y-su-inclusion-en-la-junta-que-va-a-poner-la-piel-de-gallina-al-madridismo-f202611-v/",
+     "pub": "2026-11-04T20:30+00:00"
     }
    ]
   },
@@ -2467,30 +2388,6 @@
      "pub": "2026-11-03T09:31+00:00"
     },
     {
-     "medio": "Mirror",
-     "titulo": "Nicky Butt comes clean on private Michael Carrick job claim that upset Man Utd",
-     "url": "https://www.mirror.co.uk/sport/football/news/nicky-butt-carrick-man-united-37836904",
-     "pub": "2026-11-03T08:59+00:00"
-    },
-    {
-     "medio": "Mirror",
-     "titulo": "'I was linked with joining Man Utd – now I'm out to compound Michael Carrick's misery'",
-     "url": "https://www.mirror.co.uk/sport/football/news/man-utd-transfer-champions-league-37835828",
-     "pub": "2026-11-03T05:30+00:00"
-    },
-    {
-     "medio": "Mirror",
-     "titulo": "Man Utd news: 'Contact made' with wonderkid as Michael Carrick addresses player's commitment",
-     "url": "https://www.mirror.co.uk/sport/football/news/man-utd-carrick-martinez-karl-37835658",
-     "pub": "2026-11-03T04:30+00:00"
-    },
-    {
-     "medio": "Foot Mercato",
-     "titulo": "Le Bayern Munich va bien faire une folie avec Michael Olise",
-     "url": "https://www.footmercato.net/a5402933154640856007-le-bayern-munich-va-bien-faire-une-folie-avec-michael-olise",
-     "pub": "2026-11-03T08:03+00:00"
-    },
-    {
      "medio": "Daily Mail",
      "titulo": "Manchester United vs Roma - Champions League: Furious fans boo another embarrassing first half performance from Michael Carrick's side - and Barcelona lead against Aston Villa",
      "url": "https://www.dailymail.com/sport/football/article-16262691/Manchester-United-vs-Roma-Champions-League-Aston-Villa-Barcelona-LIVE.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
@@ -2519,89 +2416,208 @@
      "titulo": "Can miraculous Manchester United comeback save Michael Carrick? | Football Weekly video",
      "url": "https://www.theguardian.com/football/video/2026/nov/04/can-miraculous-manchester-united-comeback-save-michael-carrick-football-weekly-video",
      "pub": "2026-11-04T13:30+00:00"
+    },
+    {
+     "medio": "talkSPORT",
+     "titulo": "Michael Carrick told to play two Man United academy stars in make-or-break game against Aston Villa",
+     "url": "https://talksport.com/football/4686671/michael-carrick-man-united-shea-lacey-amass-aston-villa/",
+     "pub": "2026-11-04T10:31+00:00"
+    },
+    {
+     "medio": "talkSPORT",
+     "titulo": "Michael Carrick leaves Matheus Cunha furious as Man United hero ordered to leave pitch",
+     "url": "https://talksport.com/football/4686492/michael-carrick-matheus-cunha-man-utd-row/",
+     "pub": "2026-11-03T22:35+00:00"
+    },
+    {
+     "medio": "Daily Mail",
+     "titulo": "Man United conjured a miraculous comeback against Roma that was thrilling, visceral and raw... finally Michael Carrick has something to cling to, writes IAN LADYMAN",
+     "url": "https://www.dailymail.com/sport/football/article-16262693/Man-United-conjured-miraculous-comeback-against-Roma-thrilling-visceral-raw-finally-Michael-Carrick-cling-writes-IAN-LADYMAN.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+     "pub": "2026-11-04T08:19+00:00"
+    },
+    {
+     "medio": "Daily Mail",
+     "titulo": "Michael Carrick might STILL be one game from the sack. A one-night stand of epic proportions was up there with Man United's best but produced more questions than answers, writes CHRIS WHEELER",
+     "url": "https://www.dailymail.com/sport/football/article-16262695/Man-United-Roma-comeback-best-Michael-Carrick-Aston-Villa-survive-international-break-CHRIS-WHEELER.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+     "pub": "2026-11-04T07:56+00:00"
     }
    ]
   },
   {
-   "tema": "England",
+   "tema": "Scott",
    "medios": 8,
    "lista_medios": [
     "Daily Mail",
-    "Football Italia",
     "Google News EN",
     "Guardian",
-    "Mirror",
-    "Sky Sports",
-    "Yahoo",
+    "L'Equipe",
+    "Mundo Deportivo",
+    "Planet Football",
+    "Record",
     "talkSPORT"
    ],
    "primera_vez": "2026-11-03T14:34+00:00",
    "titulares": [
     {
-     "medio": "Sky Sports",
-     "titulo": "England told to 'keep pressure on' with Australia at risk of 'imploding'",
-     "url": "https://www.skysports.com/cricket/news/12040/13607326/michael-atherton-says-australia-could-implode-before-ashes-and-urges-england-to-keep-pressure-on-in-white-ball-series",
-     "pub": "2026-11-03T08:00+00:00"
-    },
-    {
-     "medio": "Mirror",
-     "titulo": "James Trafford now has the swagger and saves to take Jordan Pickford's England No.1 position",
-     "url": "https://www.mirror.co.uk/sport/football/news/james-trafford-jordan-pickford-england-37834899",
-     "pub": "2026-11-03T13:00+00:00"
-    },
-    {
-     "medio": "Google News EN",
-     "titulo": "England Football Accreditation 2026-27",
-     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNdlEtYzVDLVBXaWVqRThJQ1Y2V1dZVnlFYmVFTEV3NjdwaC1HX2lyQXBfa09vVy1kMUI4WFJZQ1dGcnpYd3R5OFNvUWtpMlBhVE5zWkUzWmpHcWZ0REJ5Wlc3ZWctUWJlRTk2RS1kX0d0NkM5b3dZb3hDRmUtSDduUVdaa3BVZw?oc=5",
-     "pub": "2026-11-03T12:36+00:00"
-    },
-    {
-     "medio": "Google News EN",
-     "titulo": "Tarkowski Backs Everton Teammate For England Call-Up",
-     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOUDFyZnFYRXRkSnEyUHY1NC1MdXNhTzNwTk51OTJDdHF3UWQtVzM4TEZLcTNwa2Z0bVhuWldIS3NRNlRRWElVNzBpQmJpVmVyVGtJeXJVVFZSOVFPV2dOMlJ4SmprRFdGM3dOR28zempsalp6ckE0ZUduZWYySjdrcmI2OUt2MmpsQzFEUmctR29lZWFmaTcwUzhRNW1GcjRScGRv?oc=5",
-     "pub": "2026-11-03T11:37+00:00"
-    },
-    {
-     "medio": "Football Italia",
-     "titulo": "Mancini travels to England, but Italy and Liverpool still waiting for Leoni’s return",
-     "url": "https://football-italia.net/mancini-england-italy-liverpool-wait-leoni/",
-     "pub": "2026-11-03T11:56+00:00"
-    },
-    {
      "medio": "Guardian",
-     "titulo": "Phil Foden sets sights on England recall and says he has had no contact with Tuchel",
-     "url": "https://www.theguardian.com/football/2026/nov/03/phil-foden-sets-sights-on-england-recall-and-says-hes-had-no-contact-with-tuchel",
-     "pub": "2026-11-03T20:08+00:00"
-    },
-    {
-     "medio": "Daily Mail",
-     "titulo": "England star Ollie Watkins' wife Ellie flees their new life in Saudi Arabia amid deadly missile attacks - just months after £50m move to the Middle East",
-     "url": "https://www.dailymail.com/sport/football/article-16262363/England-star-Ollie-Watkins-wife-Ellie-flees-new-life-Saudi-Arabia-amid-deadly-missile-attacks-just-months-moving-Middle-East.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-     "pub": "2026-11-03T17:23+00:00"
-    },
-    {
-     "medio": "Daily Mail",
-     "titulo": "Man City star Phil Foden admits he may not have done enough to regain his place in Thomas Tuchel's England squad this week - despite being 'really happy' with his upturn in form",
-     "url": "https://www.dailymail.com/sport/football/article-16263147/Man-City-midfielder-Phil-Foden-really-happy-upturn-form-admits-not-regain-place-Thomas-Tuchels-England-squad-week.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-     "pub": "2026-11-03T20:35+00:00"
-    },
-    {
-     "medio": "Mirror",
-     "titulo": "England star Ollie Watkins' wife Ellie flees Saudi Arabia and returns to UK with children",
-     "url": "https://www.mirror.co.uk/sport/football/news/ollie-watkins-wife-saudi-houthi-37839608",
-     "pub": "2026-11-03T17:44+00:00"
+     "titulo": "West Ham turn to Scott Parker after sacking Nuno Espírito Santo as head coach",
+     "url": "https://www.theguardian.com/football/2026/nov/03/west-ham-sack-nuno-espirito-santo-as-head-coach",
+     "pub": "2026-11-03T09:43+00:00"
     },
     {
      "medio": "talkSPORT",
-     "titulo": "England consider surprise call-up for EFL star who Neil Warnock hails as club’s best signing for many years",
-     "url": "https://talksport.com/football/4686589/england-call-up-will-lankshear-middlesbrough-neil-warnock/",
-     "pub": "2026-11-04T09:16+00:00"
+     "titulo": "Simon Jordan hands West Ham huge Scott Parker warning as club icon slams recruitment",
+     "url": "https://talksport.com/football/4684699/west-ham-simon-jordan-scott-parker/",
+     "pub": "2026-11-03T12:27+00:00"
+    },
+    {
+     "medio": "Planet Football",
+     "titulo": "The day Scott Parker turned into WHU boss to inspire a three-goal comeback",
+     "url": "https://www.planetfootball.com/nostalgia/the-day-scott-parker-turned-into-west-ham-boss-to-inspire-a-three-goal-comeback",
+     "pub": "2026-11-03T09:44+00:00"
+    },
+    {
+     "medio": "Google News EN",
+     "titulo": "Scott Parker: Rob Green and John Moncur back West Ham move",
+     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFAwNUs1eHpNbUp2YXFBbUo4SlFUOFg5eXM3ODQxSlNRYzNtR2c5R2FhSGprX3hPNW9leDNuM0hWMGNRTUFRYXZxejBWa2Jid00wZGFsRlpKb21wODhMQ0VQWEtxaW9WZDJFUlJR?oc=5",
+     "pub": "2026-11-03T12:32+00:00"
+    },
+    {
+     "medio": "Google News EN",
+     "titulo": "West Ham: Scott Parker to replace Nuno Espirito Santo?",
+     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFAxODZ3aDhyYnFyYnlYdG9YT3l3emJtQXpZMlZSa1pJVjlTQU9aTS01V3pQamVqS0pSTWhDZURiV00ycFhWaklCcFcxR2RQNkZ2TXA2WmNtV3o0dFg2aExDcWxIOGtCVGFu?oc=5",
+     "pub": "2026-11-03T14:03+00:00"
+    },
+    {
+     "medio": "Daily Mail",
+     "titulo": "'Players run through brick walls for him': How Scott Parker will fix West Ham - Mark Noble's helping hand, why insiders believe he can shed defensive style... and where it all went wrong for 'distant, dour' Nuno Espirito Santo",
+     "url": "https://www.dailymail.com/sport/football/article-16261611/West-Ham-Scott-Parker-Nuno-Noble.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+     "pub": "2026-11-03T18:09+00:00"
+    },
+    {
+     "medio": "Guardian",
+     "titulo": "West Ham confirm Scott Parker as head coach after sacking Nuno Espírito Santo",
+     "url": "https://www.theguardian.com/football/2026/nov/04/west-ham-confirm-scott-parker-as-manager",
+     "pub": "2026-11-04T09:30+00:00"
+    },
+    {
+     "medio": "talkSPORT",
+     "titulo": "West Ham held talks with ex-Premier League star before Scott Parker decision",
+     "url": "https://talksport.com/football/4686826/west-ham-john-heitinga-new-manager-scott-parker/",
+     "pub": "2026-11-04T11:59+00:00"
+    },
+    {
+     "medio": "talkSPORT",
+     "titulo": "Scott Parker named new West Ham boss just 24 hours after Nuno Espirito Santo sacked",
+     "url": "https://talksport.com/football/4684466/west-ham-scott-parker-nuno-espirito-santo-confirmed/",
+     "pub": "2026-11-04T09:32+00:00"
+    },
+    {
+     "medio": "Google News EN",
+     "titulo": "Scott Parker: West Ham United confirm ex-midfielder as head coach",
+     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFB5S1Yxb2swLVdRYjNIRnQ5OUZPYlBOSDFRR1BTNmRRSHVCVGE1V0ItQVZjREJrcTQzcVVTckw3LVNOeUluUUM0MVBXd1ladHBhaVVVZENZeFkwcHVldjI3VnJnemZTMGpVV0V3?oc=5",
+     "pub": "2026-11-04T09:30+00:00"
+    },
+    {
+     "medio": "Google News EN",
+     "titulo": "Scott Parker to West Ham: Can former Hammers player roll back years and win Premier League promotion yet again?",
+     "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNWm1yOVoxRzd3Q0g4elpkQXVYYS14WWdZckw4SlJudWMxdDFJeVdXVmF2ajZvTjdwaFBpMDFFSmZpNzlpWVRfZWNyeHIxTHdSSGtubEtnenJkNXFKVVBRUGk4R2ZESk04NjFqdGZiYjRSWmhBNk5JY1YzalpNV1o0bGdJRG9yVUpnbnZXOTNva3hITGxveG1Edjd2aVBLc25mcXdOX0I4b1JPank1VWhrRy03S3pPdUpfVmpLZGFpSENzZWJ3RVJLTTZVSTc0bHAzaGRCTVBncjZmNURMMGJZOEwxWWpRZmhHNE1ZR1RkSQ?oc=5",
+     "pub": "2026-11-04T13:00+00:00"
+    },
+    {
+     "medio": "Mundo Deportivo",
+     "titulo": "Scott Parker, nuevo entrenador del West Ham",
+     "url": "https://www.mundodeportivo.com/futbol/internacional/20261104/1004247082/scott-parker-nuevo-entrenador-west-ham.html",
+     "pub": ""
+    }
+   ]
+  },
+  {
+   "tema": "David",
+   "medios": 8,
+   "lista_medios": [
+    "Foot Mercato",
+    "FourFourTwo",
+    "Google News AR",
+    "Guardian",
+    "L'Equipe",
+    "Mirror",
+    "Yahoo",
+    "ge.globo"
+   ],
+   "primera_vez": "2026-11-03T14:34+00:00",
+   "titulares": [
+    {
+     "medio": "Guardian",
+     "titulo": "David Squires on … Mikel Arteta’s view that football is not Disneyland",
+     "url": "https://www.theguardian.com/football/picture/2026/nov/03/david-squires-on-mikel-arteta-football-not-disneyland",
+     "pub": "2026-11-03T10:57+00:00"
+    },
+    {
+     "medio": "Mirror",
+     "titulo": "David Beckham's Man Utd takeover flaw as Glazers forced to reconsider",
+     "url": "https://www.mirror.co.uk/sport/football/news/man-utd-takeover-beckham-glazers-37839658",
+     "pub": "2026-11-03T17:40+00:00"
+    },
+    {
+     "medio": "Mirror",
+     "titulo": "Jack Grealish punishment has exposed unavoidable truth for David Moyes and Everton",
+     "url": "https://www.mirror.co.uk/sport/football/news/jack-grealish-everton-punishment-moyes-37838116",
+     "pub": "2026-11-03T17:00+00:00"
+    },
+    {
+     "medio": "Mirror",
+     "titulo": "'David Beckham would run Man Utd better than INEOS – and Roy Keane can fix the team'",
+     "url": "https://www.mirror.co.uk/sport/football/news/man-utd-beckham-roy-keane-37840851",
+     "pub": "2026-11-04T09:31+00:00"
+    },
+    {
+     "medio": "FourFourTwo",
+     "titulo": "David Beckham's Manchester United takeover BACKED, as ownership solution presented",
+     "url": "https://www.fourfourtwo.com/transfer/david-beckhams-manchester-united-takeover-backed-as-ownership-solution-presented",
+     "pub": "2026-11-04T10:58+00:00"
+    },
+    {
+     "medio": "L'Equipe",
+     "titulo": "Mercato : Villarreal cible le Français David Mokwa, attaquant d'Elversberg",
+     "url": "https://www.lequipe.fr/Football/Actualites/Mercato-villarreal-cible-le-francais-david-mokwa-attaquant-d-elversberg/1741036#at_medium=RSS_feeds",
+     "pub": "2026-11-04T12:12+00:00"
+    },
+    {
+     "medio": "L'Equipe",
+     "titulo": "« Je n'ai plus envie d'être tiraillé entre les extrêmes » : Willy Sagnol annonce son soutien à David Lisnard avant l'élection présidentielle 2027",
+     "url": "https://www.lequipe.fr/Football/Actualites/-je-n-ai-plus-envie-d-etre-tiraille-entre-les-extremes-willy-sagnol-annonce-son-soutien-a-david-lisnard-avant-l-election-presidentielle-2027/1741034#at_medium=RSS_feeds",
+     "pub": "2026-11-04T11:59+00:00"
+    },
+    {
+     "medio": "Foot Mercato",
+     "titulo": "PSG : le Titi parisien David Boly a épaté tout le monde",
+     "url": "https://www.footmercato.net/a3796702236454839158-psg-le-titi-parisien-david-boly-a-epate-tout-le-monde",
+     "pub": "2026-11-04T10:02+00:00"
+    },
+    {
+     "medio": "Google News AR",
+     "titulo": "El reposo de otro guerrero de Selección: David Ospina deja el fútbol",
+     "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNeVJkXzNaVWRiMzdTNHFlZ2V0QWZKdkFtM0xydXY1eFlheXd4a0Y2UHRtbHJXTHdnZDdWUWF1Uzh6ZTN4dV9jNngxV1AxNmU1MVZmSXgtLUZfckd0V1ZUdXcxUzVOb3g3X1hISUQ2bnZ1cERLQmxpZTFXa1JPZ3IzVURzNnBaWjl4eXNsSFJmWEM5RUFsZ2ZBV0dNdlF0UXZtUWhiSkU2TE02U2lNZUZlTG5XWUI2SWdHLXU4TkR1cm1fYVZUblVLdWtobDc0Nms?oc=5",
+     "pub": "2026-11-04T12:45+00:00"
+    },
+    {
+     "medio": "ge.globo",
+     "titulo": "Achei! Na ativa aos 39, David Braz vê Flamengo x Grêmio como 2009 e alerta para \"armadilha\" do mistão",
+     "url": "https://ge.globo.com/futebol/times/flamengo/noticia/2026/11/04/achei-na-ativa-aos-39-david-braz-ve-flamengo-x-gremio-como-2009-e-alerta-para-armadilha-do-mistao.ghtml",
+     "pub": "2026-11-04T13:00+00:00"
     },
     {
      "medio": "Yahoo",
-     "titulo": "England coach could be set for Crystal Palace job",
-     "url": "https://sports.yahoo.com/articles/england-coach-could-set-crystal-125000082.html",
-     "pub": "2026-11-04T12:50+00:00"
+     "titulo": "Villarreal pursue Elversberg centre-forward David Mokwa",
+     "url": "https://sports.yahoo.com/articles/villarreal-pursue-elversberg-centre-forward-202900866.html",
+     "pub": "2026-11-04T20:29+00:00"
+    },
+    {
+     "medio": "L'Equipe",
+     "titulo": "Coupe du monde U 17 : L'Équipe de France sans David Boly (PSG), ni Adil Hamdani (Lyon), avec Loan Merrifield (Nantes)",
+     "url": "https://www.lequipe.fr/Football/Actualites/Coupe-du-monde-u-17-l-equipe-de-france-sans-david-boly-psg-ni-adil-hamdani-lyon-avec-loan-merrifield-nantes/1741204#at_medium=RSS_feeds",
+     "pub": "2026-11-04T20:22+00:00"
     }
    ]
   },
@@ -2695,91 +2711,91 @@
    ]
   },
   {
-   "tema": "Utd",
+   "tema": "Lionel",
    "medios": 8,
    "lista_medios": [
-    "BBC",
-    "Football Italia",
-    "Google News EN",
+    "Foot Mercato",
+    "Google News AR",
+    "Infobae",
+    "L'Equipe",
     "Mirror",
-    "Planet Football",
-    "Sky Sports",
-    "Telegraph",
-    "Yahoo"
+    "Ole",
+    "Yahoo",
+    "talkSPORT"
    ],
    "primera_vez": "2026-11-03T14:34+00:00",
    "titulares": [
     {
-     "medio": "Mirror",
-     "titulo": "Jason Wilcox tipped Russell Martin as future Man Utd boss during manager search",
-     "url": "https://www.mirror.co.uk/sport/football/news/jason-wilcox-tipped-russell-martin-37838251",
-     "pub": "2026-11-03T13:14+00:00"
+     "medio": "talkSPORT",
+     "titulo": "Fiery 17-year-old MLS star could win MVP over Lionel Messi and bail out Manchester City in 2028",
+     "url": "https://talksport.com/football/4685094/cavan-sullivan-mls-mvp-lionel-messi-manchester-city/",
+     "pub": "2026-11-03T13:15+00:00"
+    },
+    {
+     "medio": "Foot Mercato",
+     "titulo": "Le message touchant de Lionel Messi après le décès de Jesus De Miguel",
+     "url": "https://www.footmercato.net/a6026506799932505284-le-message-emotif-de-lionel-messi-apres-le-deces-de-jesus-de-miguel",
+     "pub": "2026-11-03T13:45+00:00"
+    },
+    {
+     "medio": "Ole",
+     "titulo": "El inmenso dolor de Lionel Messi por la muerte del futbolista de Tenerife: \"No hay palabras...\"",
+     "url": "https://www.ole.com.ar/futbol-internacional/espana/inmenso-dolor-lionel-messi-muerte-futbolista-tenerife-jesus-miguel-palabras-posteo_0_A5MslCMXry.html",
+     "pub": "2026-11-03T13:58+00:00"
+    },
+    {
+     "medio": "Infobae",
+     "titulo": "Desde todos los ángulos: el imperdible gol de Lionel Messi en la última victoria de Inter Miami en la MLS",
+     "url": "https://www.infobae.com/deportes/2026/11/03/desde-todos-los-angulos-el-imperdible-gol-de-lionel-messi-en-la-ultima-victoria-de-inter-miami-en-la-mls/",
+     "pub": "2026-11-03T14:20+00:00"
+    },
+    {
+     "medio": "Infobae",
+     "titulo": "El mensaje de Lionel Messi tras la muerte del futbolista español Jesús de Miguel",
+     "url": "https://www.infobae.com/deportes/2026/11/03/el-mensaje-de-lionel-messi-tras-la-muerte-del-futbolista-espanol-jesus-de-miguel/",
+     "pub": "2026-11-03T13:45+00:00"
+    },
+    {
+     "medio": "Google News AR",
+     "titulo": "Conmoción en el fútbol: el mensaje de Lionel Messi tras la muerte de Jesús de Miguel, delantero del Tenerife",
+     "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQUlg2ckxXdkwzWEdyZTdJZzZ1R0tvNUlHdklEQlRVektqZ0lIQlFPS3kxejVJZ2ZkelJSVV8xVFE1RTdFZl92YTFyUGcxSmR3eVFGQndrWU5BLVNkZjl0ZXRxMEVQUDdoWHRYWGg5TFFIQWhIdXhkb3dFbFJHeXlsZm9MT2wzMnE0WU12SW5TXzAxQzhXMnNJOWhzcGxTRWQ1R3dCRkx5UkZ2ckhNMW1WNXlqNUFuMVpYem5aNFkxWGxGRWU1UHNXOUYtNjdNVG1OaEh5bmlrTHJyU1ROc0NnUHhvNDRvQjA4bFFj0gH0AUFVX3lxTE1QZGtfX3ZvWEE0dGE3WDdQTnN6UXNhLVU0cm5XRFIxNnFGcnZnbHRsb28xQUR2QjZwb2QtdllMMTlaRVlqOVluWVcwc3VIeGdWZTFrUjVSdVhsbjRIWkdWbWdTc1lRVXlZZlphYzhlNzVYSkVKa1VCX0cwUjV0cFBrQUppTk44ZUVVVjNvTkV4RUlTcWtvU2pIZkhObG1BLWRqcWhMTTJ5QjAyVEpBc0ZONkJLb0JEOVZIOXhzRUhDS0ZiQkxIVXFqaEVlV0VkbktCcGVCRl9iMEFlWThtc3VzUGFweHhyRTQyTE43Z2xKMGdSTnk?oc=5",
+     "pub": "2026-11-03T13:44+00:00"
+    },
+    {
+     "medio": "Google News AR",
+     "titulo": "Conmoción en el fútbol: el mensaje de Lionel Messi tras la muerte de un jugador español",
+     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQUHRoTXhtdTFCdUl2Z0lVRTlnbzZfN2FNaUxFNFVmVE9YOVZWTUp2UzgzUVUwT2YyeGZWOEIxdjRMVGZPMTV5TnpjNGJ5Q1pRTF85S0RyZGNxQTlBSkQyRnQ4M0txM3kzTkRLY0ZDMGVnRmpUc3ZjeEh6el9iQ1NnWGVZRjMwTVRYenhIZUdsQ0Y1T0tqT2N0UjBBVXlJZVF4Zks0ajROZFNFNHFHQmhobENNaGhjc0FNRUFYcnZ5bDZNM2M?oc=5",
+     "pub": "2026-11-03T14:04+00:00"
+    },
+    {
+     "medio": "L'Equipe",
+     "titulo": "La première liste de l'Argentine depuis la retraite internationale de Lionel Messi, sans Rodrigo De Paul ni Giovani Lo Celso mais avec Nicolas Tagliafico",
+     "url": "https://www.lequipe.fr/Football/Actualites/La-premiere-liste-de-l-argentine-depuis-la-retraite-internationale-de-lionel-messi-sans-rodrigo-de-paul-ni-giovani-lo-celso-mais-avec-nicolas-tagliafico/1740857#at_medium=RSS_feeds",
+     "pub": "2026-11-03T17:13+00:00"
+    },
+    {
+     "medio": "Foot Mercato",
+     "titulo": "Argentine : la première liste depuis la retraite de Lionel Messi est tombée",
+     "url": "https://www.footmercato.net/a7736930117215620774-argentine-la-premiere-liste-depuis-la-retraite-de-lionel-messi-est-tombee",
+     "pub": "2026-11-03T16:23+00:00"
+    },
+    {
+     "medio": "Yahoo",
+     "titulo": "‘It’s something very special’ – Manuel Neuer on surpassing Thomas Müller and Lionel Messi",
+     "url": "https://sports.yahoo.com/articles/something-very-special-manuel-neuer-123100740.html",
+     "pub": "2026-11-04T12:31+00:00"
+    },
+    {
+     "medio": "Infobae",
+     "titulo": "La camiseta de Lionel Messi lidera las ventas de la MLS por cuarta temporada consecutiva desde su debut en Miami",
+     "url": "https://www.infobae.com/estados-unidos/2026/11/04/la-camiseta-de-lionel-messi-lidera-las-ventas-de-la-mls-por-cuarta-temporada-consecutiva-desde-su-debut-en-miami/",
+     "pub": "2026-11-04T01:03+00:00"
     },
     {
      "medio": "Mirror",
-     "titulo": "Nicky Butt comes clean on private Michael Carrick job claim that upset Man Utd",
-     "url": "https://www.mirror.co.uk/sport/football/news/nicky-butt-carrick-man-united-37836904",
-     "pub": "2026-11-03T08:59+00:00"
-    },
-    {
-     "medio": "Mirror",
-     "titulo": "Man Utd swap deal solves two problems as door opened to January transfer",
-     "url": "https://www.mirror.co.uk/sport/football/transfer-news/man-utd-lisandro-martinez-balde-37835995",
-     "pub": "2026-11-03T07:38+00:00"
-    },
-    {
-     "medio": "Mirror",
-     "titulo": "Rio Ferdinand bemoans Man Utd missing out on Arsenal star during summer window",
-     "url": "https://www.mirror.co.uk/sport/football/news/ferdinand-konsa-arsenal-man-utd-37836693",
-     "pub": "2026-11-03T07:06+00:00"
-    },
-    {
-     "medio": "Mirror",
-     "titulo": "'I text Man Utd manager and told him he was s*** - I completely lost my temper'",
-     "url": "https://www.mirror.co.uk/sport/football/news/mkhitaryan-man-utd-roma-mourinho-37832947",
-     "pub": "2026-11-03T06:30+00:00"
-    },
-    {
-     "medio": "Mirror",
-     "titulo": "'I was linked with joining Man Utd – now I'm out to compound Michael Carrick's misery'",
-     "url": "https://www.mirror.co.uk/sport/football/news/man-utd-transfer-champions-league-37835828",
-     "pub": "2026-11-03T05:30+00:00"
-    },
-    {
-     "medio": "Mirror",
-     "titulo": "Man Utd news: 'Contact made' with wonderkid as Michael Carrick addresses player's commitment",
-     "url": "https://www.mirror.co.uk/sport/football/news/man-utd-carrick-martinez-karl-37835658",
-     "pub": "2026-11-03T04:30+00:00"
-    },
-    {
-     "medio": "Sky Sports",
-     "titulo": "Man Utd two down and booed at HT vs Roma LIVE!",
-     "url": "https://www.skysports.com/football/manchester-united-vs-roma/live/577657",
-     "pub": "2026-11-03T18:30+00:00"
-    },
-    {
-     "medio": "Mirror",
-     "titulo": "Man Utd vs Roma Champions League game HALTED as fans stage protest against Glazers",
-     "url": "https://www.mirror.co.uk/sport/football/news/man-utd-roma-glazers-protest-37839991",
-     "pub": "2026-11-03T20:02+00:00"
-    },
-    {
-     "medio": "Mirror",
-     "titulo": "Eddie Howe inadvertently handed huge Man Utd boost as exit formally arranged",
-     "url": "https://www.mirror.co.uk/sport/football/news/man-utd-manager-eddie-howe-37839880",
-     "pub": "2026-11-03T18:47+00:00"
-    },
-    {
-     "medio": "Mirror",
-     "titulo": "Man Utd plot shock January transfer for Man City star to address problem area",
-     "url": "https://www.mirror.co.uk/sport/football/transfer-news/manchester-united-rayan-ait-nouri-37839606",
-     "pub": "2026-11-03T17:42+00:00"
-    },
-    {
-     "medio": "Mirror",
-     "titulo": "David Beckham's Man Utd takeover flaw as Glazers forced to reconsider",
-     "url": "https://www.mirror.co.uk/sport/football/news/man-utd-takeover-beckham-glazers-37839658",
-     "pub": "2026-11-03T17:40+00:00"
+     "titulo": "Fans get golden chance to buy 2022 World Cup trophy lifted by Lionel Messi",
+     "url": "https://www.mirror.co.uk/sport/football/buy-world-cup-trophy-messi-37843361",
+     "pub": "2026-11-04T17:00+00:00"
     }
    ]
   }
