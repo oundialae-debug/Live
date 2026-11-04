@@ -1,11 +1,5 @@
 {
- "en_curso": {
-  "-6106271": {
-   "arranque": "s0",
-   "musica": "boom",
-   "tarjetas": 6
-  }
- },
+ "en_curso": {},
  "partidos": {
   "-6106234": {
    "arranque": "s1",
@@ -99,6 +93,18 @@
    "resultado": "0-2",
    "tarjetas": 6,
    "video": "https://raw.githubusercontent.com/oundialae-debug/live/main/media/post_partido/2026-11-03_Atletico_Madrid_Bayern_Munich.mp4"
+  },
+  "-6106271": {
+   "arranque": "s0",
+   "estado": "en_cola",
+   "fecha": "2026-11-04",
+   "hora": "2026-11-04T22:17:22+00:00",
+   "musica": "boom",
+   "partido": "Borussia Dortmund-Real Betis",
+   "publicar": "2026-11-04T23:20:37+01:00",
+   "resultado": "2-1",
+   "tarjetas": 6,
+   "video": "https://raw.githubusercontent.com/oundialae-debug/live/main/media/post_partido/2026-11-04_Borussia_Dortmund_Real_Betis.mp4"
   },
   "-6106274": {
    "arranque": "s1",
