@@ -1,0 +1,12 @@
+{
+ "red": "instagram",
+ "hora": "2026-11-04T23:22:45+01:00",
+ "tipo": "post",
+ "partido": "RB Leipzig-Manchester City",
+ "text": "RB Leipzig 2-3 Man City\nExpected goals: 0.9 vs 2.2, Man City created more. Did the better team win?\n\n#football #UCL #RBLeipzig #ManCity #fulltime",
+ "video": "https://raw.githubusercontent.com/oundialae-debug/live/main/media/post_partido/2026-11-04_RB_Leipzig_Manchester_City.mp4",
+ "recordatorio": false,
+ "musica": "",
+ "variante": "seg=2.8;arranque=s1;hook=dato;musica=;formato=auto_post",
+ "notas": "post-partido automático (futbol-pipeline -6106322, 6 tarjetas)"
+}
