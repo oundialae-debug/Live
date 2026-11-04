@@ -1,4 +1,4 @@
-# Titulares de fútbol (2026-11-03 21:14 UTC, últimas 36 h)
+# Titulares de fútbol (2026-11-04 14:48 UTC, últimas 36 h)
 
 Generado por `scripts/titulares.py` (workflow `tendencias`). Leídos 26 de 34 medios; fuentes en `redes/fuentes.md`.
 
@@ -6,356 +6,358 @@ Generado por `scripts/titulares.py` (workflow `tendencias`). Leídos 26 de 34 me
 
 | Tema | Nº medios | Medios | Ejemplo |
 |---|---|---|---|
-| Miguel | 16 | AS, BBC, Foot Mercato, Google News AR, Google News EN, Google News ES, Guardian, | Tenerife striker De Miguel dies after on-field collision |
-| Roma | 16 | AS, BBC, Daily Mail, Football Italia, FourFourTwo, Google News EN, Guardian, Inf | Carrick says it's 'crazy' but he's looking forward to Roma game |
-| Villa | 16 | AS, BBC, Daily Mail, Foot Mercato, FourFourTwo, Google News AR, Google News EN,  | Villa drop legal action threat against Carragher |
-| Manchester | 15 | AS, Daily Mail, Foot Mercato, Football Italia, FourFourTwo, Google News EN, Guar | Manchester United v Roma: Champions League – live |
-| Aston | 12 | AS, Daily Mail, Foot Mercato, FourFourTwo, Google News AR, Google News EN, Googl | Barcelona v Aston Villa: Champions League – live |
-| Barcelona | 11 | AS, Daily Mail, FourFourTwo, Google News AR, Google News EN, Google News ES, Gua | Barcelona v Aston Villa: Champions League – live |
-| Arsenal | 10 | BBC, Daily Mail, Foot Mercato, FourFourTwo, Google News EN, Guardian, Mirror, Ya | Saliba's back for Arsenal - how does Arteta solve his defensive dilemma? |
-| Ham | 10 | BBC, Daily Mail, Google News EN, Guardian, Mirror, Planet Football, Sky Sports,  | West Ham approach Parker after sacking boss Nuno |
-| West | 10 | BBC, Daily Mail, Google News EN, Guardian, Mirror, Planet Football, Sky Sports,  | West Ham approach Parker after sacking boss Nuno |
-| Jesús | 10 | AS, Foot Mercato, Google News AR, Google News ES, Guardian, Infobae, Mundo Depor | Tenerife footballer Jesús de Miguel dies aged 30 after on-pitch collision |
-| Messi | 9 | Foot Mercato, Google News AR, Infobae, Kicker, L'Equipe, Ole, ge.globo, r/soccer | Fiery 17-year-old MLS star could win MVP over Lionel Messi and bail out Manchester City in 2028 |
-| Tenerife | 8 | AS, BBC, Google News AR, Google News EN, Google News ES, Guardian, r/soccer (top | Tenerife striker De Miguel dies after on-field collision |
-| Nuno | 8 | BBC, Daily Mail, Google News EN, Mirror, Planet Football, Sky Sports, r/soccer ( | West Ham approach Parker after sacking boss Nuno |
-| Newcastle | 8 | BBC, Daily Mail, FourFourTwo, Guardian, Planet Football, Telegraph, r/soccer (to | Everton hold off Newcastle to move into seventh |
-| Carrick | 8 | BBC, Daily Mail, Football Italia, FourFourTwo, Google News EN, Mirror, Yahoo, ta | Carrick says it's 'crazy' but he's looking forward to Roma game |
-| Liverpool | 8 | Foot Mercato, FourFourTwo, Guardian, L'Equipe, Mirror, Yahoo, r/soccer (top día) | Andoni Iraola calls on Liverpool to sharpen up in attack before Fenerbahce test |
-| Madrid | 8 | Daily Mail, Foot Mercato, FourFourTwo, Google News ES, Kicker, Mundo Deportivo,  | Jude Bellingham's Dad scores SEVEN for England's OVER-50s side on same day superstar son nets for Real Madrid |
-| Bayern | 7 | AS, FourFourTwo, Guardian, Mundo Deportivo, Record, Yahoo, ge.globo | Harry Kane’s Ballon d’Or party gives way to anxiety-filled hangover for Bayern Munich | Andy Brassell |
-| Man | 7 | Daily Mail, Football Italia, Mirror, Planet Football, Sky Sports, Yahoo, talkSPO | Man Utd two down and booed at HT vs Roma LIVE! |
-| UEFA | 7 | AS, Foot Mercato, Football Italia, FourFourTwo, Google News AR, Google News ES,  | Bigger but not better: Why UEFA have killed the early stages of the Champions League |
-| Sporting | 7 | AS, Foot Mercato, Kicker, L'Equipe, Mundo Deportivo, Record, Yahoo | Champions League: Sporting win before Fonseca, Galatasaray bounce back ! |
-| Owono | 7 | AS, Foot Mercato, Google News AR, Google News ES, L'Equipe, Mundo Deportivo, r/s | Quién es Jesús Owono: está destrozado y es arropado por el Andorra |
-| Arteta | 6 | BBC, Daily Mail, Guardian, Mirror, Sky Sports, Yahoo | Saliba's back for Arsenal - how does Arteta solve his defensive dilemma? |
-| Parker | 6 | BBC, Daily Mail, Mirror, Sky Sports, r/soccer (top día), talkSPORT | West Ham approach Parker after sacking boss Nuno |
-| Everton | 6 | BBC, FourFourTwo, Google News EN, Guardian, Mirror, r/soccer (top día) | Everton hold off Newcastle to move into seventh |
+| Madrid | 21 | AS, BBC, Daily Mail, Foot Mercato, Football Italia, FourFourTwo, Google News AR, | Real Madrid reach verbal agreement to sign Gabriel |
+| Miguel | 14 | AS, BBC, Foot Mercato, Google News AR, Google News EN, Google News ES, Guardian, | Football world mourns Tenerife striker De Miguel |
+| Roma | 14 | BBC, Daily Mail, Foot Mercato, Football Italia, FourFourTwo, Google News EN, Gua | Man Utd beat Roma - the other great Champions League comebacks |
+| Nadal | 13 | AS, BBC, Foot Mercato, Google News AR, Google News ES, Kicker, L'Equipe, Mundo D | Nadal set to join Real Madrid board of directors |
+| Gabriel | 12 | BBC, Daily Mail, Foot Mercato, Google News EN, Kicker, L'Equipe, Mirror, Sky Spo | Real Madrid reach verbal agreement to sign Gabriel |
+| Owono | 12 | AS, BBC, Foot Mercato, Google News AR, Google News EN, Google News ES, Guardian, | Keeper Owono 'would never intentionally hurt anyone' |
+| Man | 12 | BBC, Daily Mail, Football Italia, Google News EN, Kicker, Mirror, Planet Footbal | Man Utd eye Man City's Ait-Nouri - Wednesday's gossip |
+| Carrick | 11 | BBC, Daily Mail, Foot Mercato, Football Italia, Google News EN, Guardian, Mirror | Fernandes critical of media 'lies' about Carrick relationship |
+| West | 10 | BBC, Daily Mail, Foot Mercato, Google News EN, Guardian, L'Equipe, Mundo Deporti | West Ham confirm Parker as boss |
+| Ham | 10 | BBC, Daily Mail, Foot Mercato, Google News EN, Guardian, L'Equipe, Mundo Deporti | West Ham confirm Parker as boss |
+| Villa | 10 | BBC, Daily Mail, FourFourTwo, Google News EN, Guardian, Sky Sports, Telegraph, Y | Emery takes positives, but Villa 'have work to do' to reach Barca level |
+| Manchester | 10 | Foot Mercato, Football Italia, FourFourTwo, Google News EN, Guardian, Infobae, Y | Manchester United’s wild win against Roma showed angry fans we care, says Dalot |
+| Jesús | 10 | AS, Foot Mercato, Google News AR, Google News EN, Google News ES, Guardian, Info | Goalkeeper Jesús Owono ‘deeply affected’ by De Miguel’s death, teammate says |
+| Liverpool | 10 | Daily Mail, FourFourTwo, Guardian, Infobae, Mirror, Planet Football, Sky Sports, | Andoni Iraola calls on Liverpool to sharpen up in attack before Fenerbahce test |
+| Parker | 9 | BBC, Daily Mail, Google News EN, Guardian, L'Equipe, Mundo Deportivo, Record, Sk | West Ham confirm Parker as boss |
+| Michael | 9 | Daily Mail, Foot Mercato, FourFourTwo, Google News EN, Guardian, Mirror, Planet  | Can miraculous Manchester United comeback save Michael Carrick? | Football Weekly video |
+| Barcelona | 9 | Daily Mail, FourFourTwo, Google News EN, Google News ES, Mundo Deportivo, Planet | Unai Emery has closed gap between Aston Villa and Europe's elite - but rampant Barcelona proved there is still |
+| Fernandes | 8 | BBC, Daily Mail, Football Italia, Infobae, Mirror, Sky Sports, r/soccer (top día | Fernandes critical of media 'lies' about Carrick relationship |
+| Utd | 8 | BBC, Football Italia, Google News EN, Mirror, Planet Football, Sky Sports, Teleg | Man Utd eye Man City's Ait-Nouri - Wednesday's gossip |
+| Tenerife | 8 | AS, BBC, Google News EN, Google News ES, Guardian, Mirror, Mundo Deportivo, talk | Football world mourns Tenerife striker De Miguel |
+| Arsenal | 8 | BBC, Daily Mail, Foot Mercato, FourFourTwo, Guardian, Mirror, ge.globo, talkSPOR | Saliba's back for Arsenal - how does Arteta solve his defensive dilemma? |
+| Aston | 8 | Daily Mail, FourFourTwo, Google News EN, Guardian, Sky Sports, Yahoo, ge.globo,  | Raphinha underlines Barcelona’s class to give Aston Villa a reality check |
+| Rafael | 8 | Foot Mercato, Google News AR, Google News ES, L'Equipe, Ole, Record, r/soccer (t | Rafael Benitez eyeing up Premier League return with four managers under pressure |
+| Scott | 7 | Daily Mail, Google News EN, Guardian, L'Equipe, Mundo Deportivo, Record, talkSPO | West Ham confirm Scott Parker as head coach after sacking Nuno Espírito Santo |
+| Fenerbahce | 7 | Daily Mail, FourFourTwo, Guardian, Mirror, Mundo Deportivo, Yahoo, talkSPORT | Andoni Iraola calls on Liverpool to sharpen up in attack before Fenerbahce test |
 
 ## Titulares por medio
 
-**BBC** (38)
-- Tenerife striker De Miguel dies after on-field collision
-- Saliba's back for Arsenal - how does Arteta solve his defensive dilemma?
-- West Ham approach Parker after sacking boss Nuno
-- Pocognoli focus on Scotland tidy-up as Euros loom
-- Lionesses to face France and Portugal in Nations League
-- McTominay returns as Penrice earns first Scotland call
-- How sporting events are being impacted by Middle East conflict
-- Palace launch Mateta red card appeal
-- Everton hold off Newcastle to move into seventh
-- 'He's unavailable' - Moyes tight-lipped on Grealish
-- Jaissle unhappy with 'clear foul' before Barry goal
-- Every goal from the Women's Super League - matchweek eight
+**BBC** (25)
+- Real Madrid reach verbal agreement to sign Gabriel
+- Keeper Owono 'would never intentionally hurt anyone'
+- Why is it going so wrong for Le Bris at Sunderland?
+- West Ham confirm Parker as boss
+- Nadal set to join Real Madrid board of directors
+- From Derby to Champions League - Brown's journey to face Reds
+- A half-time speech, a retaken penalty - and a win to save Carrick's job?
+- How Carpenter has become Chelsea's surprise star
+- Emery takes positives, but Villa 'have work to do' to reach Barca level
+- Fernandes critical of media 'lies' about Carrick relationship
+- Wilson returns as Wales call up uncapped Duncan
+- Palace lose appeal against Mateta red card
 
-**Guardian** (23)
-- Manchester United v Roma: Champions League – live
-- Barcelona v Aston Villa: Champions League – live
-- Tenerife footballer Jesús de Miguel dies aged 30 after on-pitch collision
-- Phil Foden sets sights on England recall and says he has had no contact with Tuchel
-- Arteta backs Saliba’s readiness to return for Arsenal at Slavia Prague
+**Guardian** (18)
+- Has a footballer ever run a marathon faster than James Milner? | The Knowledge
+- Manchester United’s wild win against Roma showed angry fans we care, says Dalot
+- Goalkeeper Jesús Owono ‘deeply affected’ by De Miguel’s death, teammate says
+- ‘She can do what Beckham did’: Océane Hurtré making waves at Birmingham
+- West Ham confirm Scott Parker as head coach after sacking Nuno Espírito Santo
 - Andoni Iraola calls on Liverpool to sharpen up in attack before Fenerbahce test
-- Football Daily | West Ham want promotion – so it’s time to call in an understated club legend
-- ‘An absolute afterthought’: the story of the Nigeria women’s team’s fall from grace
-- David Squires on … Mikel Arteta’s view that football is not Disneyland
-- Revisiting the Superclásico: a story of death, violence, colour and family
-- Stumbling block: Wirtz's and Liverpool’s costly struggles against tight defences | Andrew Beasley
-- AFC postpones Asian Cup in Saudi Arabia to late 2027 due to conflict in Middle East
+- Arteta backs Saliba’s readiness to return for Arsenal at Slavia Prague
+- Raphinha underlines Barcelona’s class to give Aston Villa a reality check
+- Choke of the century? Chengdu collapse sets up thrilling Chinese Super League climax
+- West Ham took too long to sack Nuno and now must trust Parker to do what he does best | Jacob Steinberg
+- Mainoo and Lacey raise the spirits but systemic change still required at Manchester United | Nick Ames
+- Championship roundup: Devlin’s double for Portsmouth denies Swansea top spot
 
-**Sky Sports** (20)
-- Arteta dismisses Isak penalty furore: I have massive library we can talk about!
-- Haas confirm Ocon will not race for team again this season
-- West Brom lead Southampton LIVE!
-- Esteve hoping for Champions League debut – and Haaland reunion
-- Djokovic maintains ATP Finals chances with opening win at Paris Masters
-- Man Utd two down and booed at HT vs Roma LIVE!
-- Burgess signs new two-year Warrington contract extension
-- Roehrig: Groves tries to break me mentally - so I can really flourish now
-- Reed and McIlroy chase Chacarra - who will win the Race to Dubai?
-- Remarkable free-kick! Blackburn 'keeper caught out from DISTANCE!
-- Raphinha doubles Barca lead vs Villa LIVE!
-- Barcola: People are starting to understand me better - but I'm not Mo Salah
+**Sky Sports** (19)
+- Atherton: Lancashire did not handle Anderson release badly
+- Liverpool latest: Riise's thunderbolt revisited 25 years on
+- Do Ferrari need to impose repercussions after latest Hamilton-Leclerc clash?
+- British teenager Stojsavljevic earns first WTA Tour win after late inclusion
+- Leclerc to arrive late to Brazil after birth of child
+- Can Parker roll back the years and be a success at West Ham?
+- Man Utd latest: Baleba injured, Lacey in? Pick your team to face Aston Villa
+- Nadal appointed to Real Madrid board
+- Real Madrid reach verbal agreement with Man Utd teen star JJ Gabriel
+- ‘What a way to seal it!’ - British teen claims first WTA Tour win!
+- McIlroy backs claims LIV wanted to 'destroy' DP World Tour
+- Sky Sports to show women's TGL as Hull, Woad star in new league
 
-**talkSPORT** (40)
-- Manchester United vs Roma clash interrupted as fans launch furious protest
-- Man City in danger of getting even more charges as Premier League face dilemma
-- Jason Wilcox backed Russell Martin as future Man United manager in shock revelation
-- Arsenal given solution to Ezri Konsa vs William Saliba problem as injured star returns to training
-- Ballon d&#8217;Or winner could quit managerial role after key tournament postponed
-- Jermain Defoe set to become assistant manager at EFL club four months after leaving Woking
-- Champions League LIVE: &#8216;Embarrassing and gutless&#8217; Man United booed as Roma lead 2-0, Yamal sets new record, Kane eyes history
-- Jurgen Klopp told he must pick West Ham loanee for Germany &#8211; he&#8217;s playing at Kylian Mbappe level
-- Sacked EFL boss feels &#8216;misled&#8217; after brutal firing despite two promotions in three seasons
-- What time is Fenerbahce vs Liverpool as clubs meet for first time in early kick-off
-- Premier League festive fixtures 2026/27 – full schedule confirmed with dates, kick-off times, radio and television picks
-- Phil Parkinson&#8217;s Wrexham job at risk as replacements discussed including Steven Gerrard
+**talkSPORT** (36)
+- Three year plan for JJ Gabriel proposed before getting near Real Madrid first team
+- Rafael Benitez eyeing up Premier League return with four managers under pressure
+- West Ham held talks with ex-Premier League star before Scott Parker decision
+- Ex-Premier League striker Victor Anichebe set to complete EFL club takeover
+- Michael Carrick told to play two Man United academy stars in make-or-break game against Aston Villa
+- Scott Parker named new West Ham boss just 24 hours after Nuno Espirito Santo sacked
+- England consider surprise call-up for EFL star who Neil Warnock hails as club&#8217;s best signing for many years
+- Football LIVE: Man United finally win a game thanks to incredible comeback, Parker announced by West Ham
+- JJ Gabriel expected to join new club after acrimonious Man United fall out
+- talkSPORT tips – Best football bets and expert advice for Wednesday November 4
+- Broadcaster forced to apologise after Bruno Fernandes&#8217; X-rated comment
+- Michael Carrick leaves Matheus Cunha furious as Man United hero ordered to leave pitch
 
-**Daily Mail** (37)
-- Manchester United vs Roma - Champions League: Furious fans boo another embarrassing first half performance from Michael Carrick's side - and
-- England star Ollie Watkins' wife Ellie flees their new life in Saudi Arabia amid deadly missile attacks - just months after £50m move to the
-- Homicide police launch investigation into on-pitch collision that killed Spanish footballer - after goalkeeper clashed with fans shouting 'm
-- Matthias throwing his players under the bus is a dangerous game. Newcastle have no identity, no direction and no patterns - and that's on th
-- Crystal Palace launch appeal against Jean-Philippe Mateta's red card in Tottenham defeat - with France star facing three-match ban
-- Spanish footballer, 30, dies after suffering cardiac arrest in sickening collision with goalkeeper which saw match abandoned
-- Man United Confidential: Club on red alert to prevent repeat of shocking Roma violence, why football insiders doubt Unai Emery is right fit 
-- West Ham star's WAG aims brutal parting dig at Nuno Espirito Santo after Hammers sacked under-fire manager - while team-mate 'likes' club po
-- Jude Bellingham's Dad scores SEVEN for England's OVER-50s side on same day superstar son nets for Real Madrid
-- Asia Cup is POSTPONED just two months before its start due to safety concerns in Saudi Arabia - in huge boost to Premier League clubs
-- Emery would be mad to go to United - his best route to the top is at Villa. They're close to being giants and, with him as boss, they can br
-- Michael Carrick's next nightmare: How Aston Villa misfit Donyell Malen became Europe's hottest striker... as Roma star looks to pile on the 
+**Daily Mail** (39)
+- Chelsea Confidential: Mike Penders' Vaseline goalkeeping hack revealed, Emi Martinez fitness update, why Estevao started against 'weak' Man 
+- As I sat in the Sir Alex Ferguson Stand, the raw emotion and magic of Old Trafford was all around me. It was a stark reminder that the fans 
+- JJ Gabriel on the verge of joining Real Madrid: Man United wonderkid, 16, is finalising move to Spanish giants after Old Trafford quit bombs
+- New footage shows how goalkeeper in Spanish footballer's killer collision was fired-up in moments before 'reckless' tackle - as police probe
+- Revealed: How Arsenal have used NASA to tackle their injury woes - with Google and Apple joining the fight
+- Unai Emery has closed gap between Aston Villa and Europe's elite - but rampant Barcelona proved there is still a way to go as Lamine Yamal d
+- Inside Mason Greenwood's new life in Turkey ahead of Liverpool clash: How former Man United star has stayed under the radar, why Fenerbahce 
+- Matthias Jaissle throwing his players under the bus is a dangerous game. Newcastle have no identity, no direction and no patterns - and that
+- Prince William and Prince George cut frustrated figures in the directors' box as they watch their beloved Aston Villa lose 3-0 to Barcelona 
+- Man United conjured a miraculous comeback against Roma that was thrilling, visceral and raw... finally Michael Carrick has something to clin
+- Michael Carrick might STILL be one game from the sack. A one-night stand of epic proportions was up there with Man United's best but produce
+- Michael Carrick steps in to escort red-carded Matheus Cunha down the tunnel after Man United match-winner tried to celebrate Roma victory
 
 **Mirror** (25)
-- Arsenal boss Mikel Arteta issues Max Dowman message as more Champions League history eyed
-- Non-league footballer, 26, tragically dies as 'heartbroken' club pay tribute
-- Man Utd vs Roma Champions League game HALTED as fans stage protest against Glazers
-- Alexis Mac Allister makes 'painful' Liverpool admission and makes transfer stance clear
-- Eddie Howe inadvertently handed huge Man Utd boost as exit formally arranged
-- England star Ollie Watkins' wife Ellie flees Saudi Arabia and returns to UK with children
-- Man Utd plot shock January transfer for Man City star to address problem area
-- David Beckham's Man Utd takeover flaw as Glazers forced to reconsider
-- Man City charges case branded 'disaster' as 60-point deduction tipped after talks
-- Jack Grealish punishment has exposed unavoidable truth for David Moyes and Everton
-- Spanish police launch involuntary manslaughter investigation after Jesus de Miguel death
-- Thomas Tuchel's No.2 Anthony Barry emerges as frontrunner for Crystal Palace job
+- How to watch Fenerbahce vs Liverpool - TV channel, live stream, kick-off time
+- INEOS sack manager as Man Utd co-owners make brutal decision after 'lengthy talks'
+- Man Utd prepare for Real Madrid conflict as JJ Gabriel nears Old Trafford exit
+- Gianni Infantino chosen for bonfire effigy as FIFA chief could be grilled on Trump links
+- FREE £2 William Hill Shop Bet inside Saturday's Daily Mirror
+- Mikel Arteta faces major Arsenal headache that could upset signing of the season
+- Jose Mourinho sends message to 'broken' goalkeeper who collided with Jesus de Miguel
+- Matheus Cunha leaves Micah Richards and Jamie Carragher in stitches with Man Utd response
+- Goalkeeper who collided with Jesus de Miguel 'suffering' as investigation launched
+- Truth behind Michael Carrick and Matheus Cunha's 'spat' after dramatic Man Utd comeback
+- Non-League match cancelled due to COVID as club release statement hours before game
+- Furious fan protests leave Jim Ratcliffe with decision to make on Man Utd quit promise
 
-**Telegraph** (1)
-- Newcastle fans turn on Jaissle as defeat triggers relegation concerns
+**Telegraph** (2)
+- Emery endures heaviest European defeat as Villa manager to old foes Barcelona
+- Man Utd show fight on night of chaos to give Carrick a glimpse of hope
 
 **90min** (0)
 
-**Planet Football** (9)
-- Premier League table vs squad cost 2026-27: Man Utd are the biggest underachievers…
-- Man Utd & Forest shocking in 2026-27 Premier League wage bill vs. position comparison
-- Newcastle: Four potential replacements for Matthias Jaissle after latest defeat
-- 9 times when Ian Wright was a national treasure: Desert Island discs, Mr Pigden…
-- Ranking every West Ham manager since 1992 from worst to best: Nuno 11th…
-- Can you name Man Utd’s XI from their 7-1 win over Roma, 2007?
-- What would the Premier League table look like if Man City get kicked out?
-- Can you name Barcelona’s top 20 Champions League appearance makers?
-- Can you name every player to score 10+ Champions League goals for Barcelona?
+**Planet Football** (10)
+- Bayern star creeping up on sublime Barcelona duo in WhoScored rankings for 2026-27
+- Can you name every manager to have taken charge of 50+ Champions League games?
+- Recalling Luis Figo’s stint at Inter when he was accused of killing a cat
+- Michael Carrick is the latest Man Utd boss to save his job with one result
+- Can you name Liverpool’s top 20 Champions League appearance makers?
+- Can you name Real Madrid’s top 20 Champions League goalscorers?
+- Ranking the 10 left-backs in world football right now: Mendes, Cucurella, Calafiori…
+- Ranking the 10 right-backs in world football right now: Who are the closest to matching Achraf Hakimi?
+- Ranking our 10 favourite Champions League comebacks ever after Man Utd 3-2 Roma
+- Can you name Leeds United’s XI from their 4-3 win over Liverpool in 2000?
 
-**FourFourTwo** (25)
+**FourFourTwo** (24)
+- Watch Fenerbahce vs Liverpool: FREE Streams and TV Channels
+- Manchester United dodged a bullet but Old Trafford chief could still make same mistake
+- The final straw for Unai Emery at Aston Villa? New transfer emerges, that could force Basque out
+- David Beckham's Manchester United takeover BACKED, as ownership solution presented
+- Liverpool report: Bayern Munich in for Rio Ngumoha, following nine-figure move
+- "Jose Mourinho moved me into midfield so we could play together: he was a full-back with the soul of a striker" Javier Zanetti on the team-m
+- Quiz! Ipswich Town in the Premier League
+- Why Nottingham Forest have found the next Adam Wharton - and completely replaced Elliot Anderson
+- Quickfire Quiz 238: Can you answer 10 questions in 90 seconds?
 - Michael Carrick's fate at Manchester United is inevitable – it's finally time for Antonio Conte to take his position in the Old Trafford hom
 - Watch Barcelona vs Aston Villa for FREE: Live Streams
 - How to watch Atletico Madrid vs Bayern Munich: FREE Streams
-- Watch Manchester United vs Roma: Free Streams and TV Details
-- Everyone thinks Brighton and Brentford are bulletproof - Premier League history says otherwise
-- Barcelona have a new Premier League threat in the transfer market - and it's not who you might think
-- 'Suffering' Liverpool attacker likely to leave in January: report
-- Manchester United leadership figure on verge of Old Trafford exit with club in turmoil: report
-- Arsenal linked with breakout Hull City star in shock January move: report
-- Manchester United star Lisandro Martinez agrees exit: report
-- Kenny Dalglish: "It's not often that Liverpool fans go to Anfield and want the opposition to win, is it?"
-- Newcastle United spent £200m on potential but failed to recruit character or quality - and it's becoming a growing problem
 
 **Yahoo** (40)
-- Roma set new record for fastest brace at Old Trafford
-- &#8220;I want to give credit to Liverpool&#8221; &#8211; Mikel Arteta praises Andoni Iraola&#8217;s side
-- Brighton considering double summer transfer move
-- 🎥 Man Utd fans launch protests inside Old Trafford amid UCL clash
-- 🙈 Another Carrick debacle looms! United playing worse than ever
-- Enzo Maresca speaks out on Man City&#39;s reliance on Erling Haaland after Premier League setbacks
-- 🤕 Historic humiliation! Champions League club hits four in 17 minutes
-- 4 goals in 17 minutes: PSG make Champions League history 😱
-- 👊The champions show no mercy: PSG hit Villarreal for 4 in 20 minutes
-- Manchester City &#39;Cannot Rely&#39; On Erling Haaland to Score Every Goal, Says Enzo Maresca Ahead of RB Leipzig Clash
-- 📸 A striker now? German defender scores a stunner in the Champions League
-- Lamine Yamal makes stunning Champions League history 💫
+- Diogo Dalot insists Man United&#39;s dramatic comeback against Roma can &#39;change season&#39;
+- Manchester United weighing up legal action against Real Madrid over JJ Gabriel transfer
+- Camavinga, Brahim to start | Predicted Real Madrid line-up against AEK Athens
+- AEK Athens vs Real Madrid: Match preview | UEFA Champions League
+- Filipe Luís on Monaco&#8217;s Folarin Balogun: &#8216;He&#8217;s been through a lot since the World Cup. His form in training has improved a
+- Experts criticise clubs&#39; rhetoric on ending betting sponsorships
+- Stats show Barcelona duo Raphinha and Lamine Yamal have become Europe&#8217;s most dangerous attacking partnership
+- Le Havre in advanced talks with former Paris FC manager Antoine Kombouaré to succeed Didier Digard
+- Nadal set to join Real Madrid board of directors
+- Manchester United phenom JJ Gabriel reportedly reaches agreement with Real Madrid
+- AS Monaco&#8217;s Ansu Fati out until 2027
+- How to watch Fenerbahce vs Liverpool Champions League match live
 
 **Google News EN** (40)
-- Eoin Kenny: Background 'not that important' as son of former Republic of Ireland boss' son gets Northern IrelandI call
-- Bournemouth forward Junior Kroupi and Juventus winger Kenan Yildiz both in Arsenal boss Mikel Arteta's sights ahead of January window - Pape
-- John de Wolf | Football's Ultimate Cult Hero | Club | Latest News
-- ‍[Football Network]hERE'S*!] Preston vs Sheffield United 𝐋𝐈𝐕𝐄 Ｆｒｅｅ Ｓｔｒｅａｍｓ 04 November 2026
-- Sports News, Transfers, Scores | Watch Live Sport
-- David Squires on … Mikel Arteta’s view that football is not Disneyland
-- Pocognoli focus on Scotland tidy-up as Euros loom
-- Sports News, Transfers, Scores | Watch Live Sport
-- Amateur football club apologises for on-pitch "assault" at Easebourne
-- West Ham: Nuno Espirito Santo sacked by Hammers with club sitting in eighth place in the Championship
-- Everton Scores & Fixtures
-- Transfer Talk: Should Spurs have signed another striker this season?
+- Jesus de Miguel death: Andorra goalkeeper Jesus Owono 'would never intentionally hurt anyone' says team-mate
+- Marco Palestra: My Football Firsts | News | Official Site
+- Wales: Craig Bellamy announces 26-man squad for UEFA Nations League matches against Norway and Portugal
+- Goalkeeper Jesús Owono ‘deeply affected’ by De Miguel’s death, teammate says
+- Gallery: Gers Continue Preparations
+- BYU vs. Utah headlines a blockbuster Week 10 of college football on DAZN
+- Date For Fleetwood Cup Tie Confirmed As Forest Clash Moved
+- JJ Gabriel: Real Madrid confident of signing Manchester United forward
+- Man Utd 3-2 AS Roma: The three huge positives for Michael Carrick
+- VOTE: SEKO Women's Player of the Month For October
+- Can miraculous Manchester United comeback save Michael Carrick? | Football Weekly video
+- How Carpenter has become Chelsea's surprise star
 
 **AS** (27)
-- Atlético - Bayern Munich hoy, en directo: fase liga de Champions League, última hora en el Metropolitano
-- Barcelona - Aston Villa  hoy, en directo: jornada 4 de fase liga, Champions League en vivo
-- Villarreal - PSG en directo: UEFA Champions League hoy, en vivo
-- Mourinho, sobre Valverde: “Cuando eres capitán, tienes que ser diferente...”
-- El emotivo recuerdo de Jesús de Miguel: “Lo recordaré toda mi vida”
-- Muere Jesús de Miguel
-- Resumen y goles del Galatasaray SK vs Stuttgart , jornada 4 de la Champions League 26-27
+- Megacrisis en el City
+- El Madrid hace directivo a Nadal
+- El CTA admite que no se debió pitar penalti a Mbappé en el Racing-Real Madrid
+- De Miguel y la sensación de vacío
+- Rodri, baja ante el Atleti
 - Muere Jesús de Miguel: reacciones y última hora al fallecimiento del jugador del Tenerife, en directo
-- Quién es Jesús Owono: está destrozado y es arropado por el Andorra
-- La Policía abre una investigación sobre la muerte de Jesús de Miguel
-- Manchester United - Roma, en directo: Champions League, hoy en vivo
-- El Sporting sonríe sin Rui Borges
+- Es la debilidad de Mourinho y no es para menos: alucinen con la última locura de Alexis Ciria en la Youth League
+- Carta de defensa a Owono: “Jamás haría daño a nadie”
+- AEK Atenas - Real Madrid hoy, en directo: partido de fase liga de Champions League, última hora
+- Mercado de fichajes, en directo: rumores, altas y bajas de LaLiga, Premier, Serie A...
+- Clasificación de fase liga de la Champions League 2026/2027: jornada 4
+- Eder Sarabia: “¿Mi pasado? Lo mío, ahora, es el Espanyol y lo voy a defender a muerte"
 
 **Mundo Deportivo** (40)
-- El 1x1 del Barça ante el Aston Villa al descanso
-- Oblak iguala a Adelardo y ya es el segundo de la historia
-- El príncipe Guillermo de Gales, protagonista de lujo en el palco del Barça
-- ¡El PSG sentencia en La Cerámica con 4 goles en los primeros 17 minutos!
-- Lamine suma y sigue para adelantar al Barça ante el Aston Villa
-- 0-1: Doumbia da la victoria al Sporting frente al Shakhtar en Stamford Bridge
-- La Grada d'Animació vuelve tras su suspensión
-- Minuto de silencio por Jesús de Miguel y el accidente de Urda sin himno de la Champions
-- Andrés Martín sufre una rotura de fibras
-- Lemar, baja por lesión hasta después del parón
-- La Champions silencia su himno en señal de luto
-- 2-0: Batrakov lidera al Galatasaray y baja de la nube al Stuttgart
+- Rennes - Olympiakos, en directo | Europa League
+- Eder Sarabia: "Mi equipo es el Espanyol y lo voy a defender a muerte"
+- El PSG sueña con volver a ganar la Champions: "Confiamos en nosotros"
+- Un Mundial, una sola sede: Rabat inaugura un modelo pionero en el fútbol femenino
+- El Atlético se conjura: "A solucionarlo ante el Barcelona, queremos ser primeros"
+- La ONU premia el proyecto de inclusión de Anna Vives que une al Barça y a Lamine
+- Las opciones de Flick para cubrir el KO por lesión de Rodri
+- "El Brighton tiene plantilla para hacer tres 'onces'; no dos, tres"
+- Kike Salas vuelve con el grupo e Isaac sigue al margen
+- El MNK Olmissum croata, rival del Barça en los octavos de la Champions de fútbol sala
+- Oficial: El Andorra-Mallorca, aplazado tras la muerte de Jesús de Miguel
+- Matarazzo no cuenta con Zakharyan ni Beitia para la Europa League
 
 **Google News ES** (40)
-- El mundo del fútbol llora la muerte de Jesús de Miguel, jugador del CD Tenerife
-- La RFEF suspende la jornada de fútbol de este 3 de noviembre tras el fallecimiento de Jesús de Miguel, jugador del CD Tenerife | www.rfef.es
-- ¿Por qué se han suspendido los partidos de la primera eliminatoria de la Copa del Rey?
-- Las otras muertes por impacto en el fútbol: Gallardo, Perkhun, Custic, Choirul Huda, Sofiane Loukar...
-- El Espanyol, presente en la VI Gala Femenina del Fútbol Europeo
-- La AFE pide que se suspenda todo el fútbol durante una semana, incluido Liga y partidos europeos, por la muerte de Jesús de Miguel
-- Fallece el delantero del Tenerife, Jesús de Miguel, tras el brutal golpe con el portero donostiarra Owono
-- El príncipe Guillermo y su hijo, George, juntos por sorpresa en Barcelona: la pasión que comparten y el motivo de su viaje a España
-- AFE solicita a RFEF, LaLiga y UEFA la suspensión de todos los partidos de fútbol en España del 3 al 9 de noviembre
-- El mundo de fútbol homenajea a Jesús de Miguel
-- Un estudio sostiene que los adolescentes que juegan al fútbol federado muestran mayor predisposición a realizar apuestas
-- Cuando el fútbol se tiñe de luto
+- El Cabildo financia la obra de renovación del campo de fútbol 7 Antonio Castillo de Barrial, que ya está en marcha
+- Diomande, nominado a mejor jugador joven de África en 2026
+- El Ayuntamiento de Santander albergará la Copa del Mundo de Fútbol 2026
+- La lista para recibir al Olympique Lyonnais
+- La amarga noche de fútbol del príncipe Guillermo y el príncipe George en Barcelona
+- BYU vs. Utah encabeza una espectacular semana 10 del fútbol universitario en DAZN
+- Madrid vuelve a acoger un partido de la NFL con una programación especial y se consolida entre las “grandes capitales mundiales del deporte”
+- Sale a licitación la renovación del alumbrado del campo de fútbol de San Jorge de Alor
+- Dónde ver la Finalissima de Fútbol Sala 2026: TV, streaming
+- A Canteira Picheleira, referente no fútbol base galego
+- FIFA repetirá presencia en ELEVA con la participación de Sarai Bareman
+- Convocatoria Valenta sub14 fútbol, 10 de noviembre
 
 **Gazzetta** (0)
 
 **Football Italia** (20)
-- Champions League Liveblog: Manchester United vs. Roma, Feyenoord vs. Inter
-- Carrick: ‘Roma are a really good team, big game for Manchester United’
-- Marotta: ‘Inter learn from mistakes in Champions League, Icardi not part of plans’
-- Roma ‘have faith in Vasquez’ against Manchester United amid new problems
-- Chivu: ‘Inter need intensity, determination and grit’ against Feyenoord
-- Fabregas: ‘Como will face wild atmosphere in Lens, quality of Thauvin’
-- Champions League line-ups: Manchester United vs. Roma
-- Champions League line-ups: Feyenoord vs. Inter
-- Official: Malagò vs. Galliani for FIGC President election on Dec 14
-- Report Roma have lost Gollini for big Manchester United match
-- Argentina call up seven Serie A players from Roma, Como, Fiorentina and Parma
-- Politano: ‘Napoli are fragile at the moment, but no alibi against Porto’
+- Pio Esposito: Inter reaction ‘wasn’t a given’, goals are ‘like oxygen’
+- Video: McKennie joins Juventus group training before AZ Alkmaar clash
+- Report Milan agree record 50m-a-year Adidas kit deal
+- Man United vs Roma referee slammed over soft penalty and potential Maguire red card
+- Cristante: Roma ‘must improve’ but Man United penalty ‘very doubtful’
+- Man United mock Roma with brutal tweet after comeback victory
+- Champions League: Lens vs. Como – probable line-ups, where to watch on TV
+- Champions League: Porto vs. Napoli – probable line-ups, where to watch on TV
+- Today’s Papers – Real Inter, shocking Roma
+- Bruno Fernandes confession: ‘I was lucky on first penalty, then made a decision’
+- Chivu: ‘Inter were the best version of ourselves’ in 3-0 victory at Feyenoord
+- Gasperini: ‘Roma will learn more from Man Utd defeat than Real Madrid’
 
 **Kicker** (20)
-- LIVE! Tore satt von PSG und Linz - Roma und Inter klar auf Kurs
-- LIVE! Atletico spielt Konter schlecht aus - Kane schießt rechts vorbei
-- Real-Rekord geknackt: PSG schreibt Champions-League-Geschichte
-- "Für alle einfach traurig": José Mourinho gedenkt de Miguel
-- Neuer übertrumpft Müller und Messi: Die meisten Einsätze in der Champions League
-- 0:4 nach 17 Minuten: Villarreal-Fans winken mit dem Taschentuch
-- In bester Stürmer-Manier: Bisseck aus der Distanz zum 1:0
-- Lamine Yamal bedankt sich: Wilder Fehlpass führt zur Barca-Führung
-- Packende Schlussminuten: Doumbia schießt Sporting zum Sieg
-- Kind tritt gegen Boldt nach: "Ein Irrtum zum Schluss"
-- Doppelpfosten und Doppelpack: VfB verliert wildes Spiel bei Galatasaray
-- Undav lacht nur: Hitzige Rudelbildung zwischen Galatasaray und dem VfB
+- Kurzfristig ohne Sabitzer: Wie der BVB auflaufen könnte - und wo die entscheidenden Duelle liegen
+- Ausfall bis Jahresende: Dresdens Herrmann bleibt das Verletzungspech treu
+- Trotz Trainingsrückkehr: Kofane, Badé und Ben Seghir werden Bayers Not kaum lindern
+- LIVE! City drängt gegen RB-Junioren auf die Führung - BVB später gegen Betis
+- Zweite Amtszeit: Magnin soll Lausanne vor dem Absturz retten
+- Schmied: "Man kann mit einem breiteren Lächeln aufstehen"
+- "Vorne muss auch einer treffen": Wie Köln im Herbst erfolgreich sein will
+- Pokal-Achtelfinale zeitgenau angesetzt - Drei Spiele im Free-TV
+- "Wirtschaftlich stabiles Fundament": KSC verzeichnet Millionengewinn
+- "Niemals die Absicht, jemandem zu schaden": Teamkollege nimmt Owono in Schutz
+- Hrgota in alter Rolle und mit neuem Auftrag
+- Maza spricht über PSG - Toptalent Gabriel vor Wechsel zu Real
 
 **L'Equipe** (40)
-- Battiston : «Cela m'a bouleversé»
-- Vilaseca, président d'Andorre : «Nous devons être solidaires»
-- Les chiffres de la folle entame du Paris Saint-Germain contre Villarreal en Ligue des champions
-- Quatre buts en huit minutes : l'incroyable entame du PSG contre Villarreal en vidéo
-- 350 à 400 millions d'euros, un montant sans doute acceptable pour les droits de diffusion de la Ligue 1 pour la période 2027-2032
-- Le Sporting assure l'essentiel en attendant Paulo Fonseca, Batrakov porte Galatasaray
-- Mikautadze : «C'est l'équipe que tout le monde regarde»
-- Jesus de Miguel, le buteur qui avait découvert le foot pro à 27 ans
-- Monaco est-il voué à être irrégulier ?
-- Minute de silence, pas d'hymne de la Ligue des champions : Villarreal-PSG dans un contexte particulier après la mort de Jesus de Miguel et l
-- Une dixième victoire pour conforter sa position dans le top 8 ?
-- «Potentiellement, ça peut-être un homicide par imprudence»
+- Marie Portolano relaxée des poursuites en diffamation engagées par Pierre Ménès
+- Le coup d'envoi de la rencontre PSG-Troyes prévue ce samedi retardé de 20 minutes
+- L'OGC Nice apporte son soutien à son entraîneur, Olivier Pantaloni, endeuillé
+- Medina : «J'ai beaucoup appris de cette année»
+- Ligue des nations : le Strasbourgeois Genesis Antwi appelé pour la première fois en sélection suédoise, Dejan Kulusevski fait son retour
+- « Un moment très dur dans ma vie » : avant Monaco-Nordsjaelland en Ligue Conférence, Takumi Minamino confie sa peine de ne pas avoir disputé
+- Après les Bleus, Da Cunha ne lève pas le pied
+- Le Real propose la nomination de Rafael Nadal au sein de son conseil d'administration
+- Emre Belözoglu est le nouvel entraîneur de Fenerbahçe
+- David Boly, le prochain titi à percer au PSG ?
+- Rodri forfait pour Barça-Atlético Madrid en Liga
+- Quel bilan pour Paulo Fonseca à l'OL ?
 
 **Foot Mercato** (40)
-- Paulo Fonseca est arrivé à Lisbonne
-- Ligue des Champions : le PSG bat un record
-- PSG : João Neves dévoile ses envies pour son avenir
-- Ligue des Champions : Galatasaray domine Stuttgart, le Sporting sort la tête de la crise avant Fonseca
-- Villarreal-PSG : l’hymne de la Ligue des Champions ne sera pas joué
-- Décès de Jesús de Miguel : le message de Cristiano Ronaldo
-- Manchester United a fait une offre à un placardisé… de Manchester City
-- Villarreal - PSG : les compositions officielles
-- Bodo/Glimt - Lille OSC : les compositions officielles
-- FC Barcelone - Aston Villa : les compositions officielles
-- L’AS Monaco remplace Fati par Balogun dans sa liste UEFA
-- Rien ne va plus à Fenerbahçe !
+- Rennes - Olympiakos : les compositions officielles
+- Galatasaray : Aleksey Batrakov le prodige russe manqué par le PSG qui cartonne en Turquie
+- Tottenham : Wilson Odobert de retour à l’entraînement après neuf mois d’absence
+- Ligue 1 : AJ Auxerre - PFC et PSG - ESTAC décalés
+- Arsenal : la machine tactique qui fait des économies de neurones
+- OM : Keyliane Abdallah réintégré en équipe première
+- Rafael Nadal réagit à son arrivée au Real Madrid
+- Real Madrid : quel avenir pour Vinicius Jr ?
+- L’OL vire son plus grand talent pour raisons disciplinaires
+- Luka Elsner viré de Lausanne-Sport
+- Mercato : Ibrahim Maza lâche une petite bombe sur le PSG !
+- Le Barça confirme la blessure et le forfait de Rodri contre l’Atlético
 
 **Record** (20)
-- <![CDATA[ Villarreal-PSG, em direto ]]>
-- <![CDATA[ Manchester United-Roma, em direto ]]>
-- <![CDATA[ O momento em que Paulo Fonseca chega a Lisboa antes de assinar pelo Sporting: «Teremos tempo para falar» ]]>
-- <![CDATA[ Feyenoord-Inter, em direto ]]>
-- <![CDATA[ Eduardo Felicíssimo orgulhoso pela estreia europeia: «Soube na palestra que ia ser titular» ]]>
-- <![CDATA[ Estoril tenta recuperar Begraoui a tempo da receção ao Marítimo ]]>
-- <![CDATA[ Tiago Fernandes: «Somos um clube grande e temos de jogar assim em qualquer estádio» ]]>
-- <![CDATA[ Os casos do Shakhtar Donetsk-Sporting ]]>
-- <![CDATA[ Viktoria Plzen impõe restrições aos adeptos do Benfica para jogo da Liga Europa ]]>
-- <![CDATA[ Mo Salah vai receber nacionalidade turca ]]>
-- <![CDATA[ Bayern Munique já tem Junior Kroupi na mira ]]>
-- <![CDATA[ Gonçalo Inácio e o momento do Sporting: «Tentámos manter o grupo unido» ]]>
+- <![CDATA[ Portugal goleia Ilhas Salomão e está mais perto das meias-finais no futsal ]]>
+- <![CDATA[ A campanha de sonho de Paulo Fonseca no Paços de Ferreira que coincidiu com o 'pesadelo' do Sporting ]]>
+- <![CDATA[ Amorim não esquece jogo com o Benfica e quer mais do Milan: «Não me vou emocionar até ter conquistado algo» ]]>
+- <![CDATA[ Em direto: siga a conferência de imprensa de Marco Silva de antevisão ao jogo com o Lech Poznan ]]>
+- <![CDATA[ Sp. Braga com baixa de última hora para a Dinamarca ]]>
+- <![CDATA[ Benfica vence o Pafos e garante bilhete para a terceira eliminatória do Caminho dos Campeões ]]>
+- <![CDATA[ FC Porto vence Nápoles e chega aos 9 pontos na Youth League ]]>
+- <![CDATA[ Aursnes e Schjelderup nos 23 convocados da Noruega para a Liga das Nações ]]>
+- <![CDATA[ O que revelam os resultados das eleições intercalares nos EUA?  ]]>
+- <![CDATA[ Quanto dura um treinador do Sporting na era Varandas? Ruben Amorim parece ser a exceção ]]>
+- <![CDATA[ «Choque e surpresa»: diretor do Lyon revela o dia em que Paulo Fonseca comunicou que queria sair para o Sporting ]]>
+- <![CDATA[ A integridade é o legado  ]]>
 
 **Ole** (10)
-- Fórmula 1: quién ganó en el revuelo de sanciones y quita de puntos en México
-- El dolor del mundo del fútbol por la muerte de Jesús De Miguel: los mensajes de Messi, Nico Paz, Cristiano y Mbappé
-- Matías Soulé en modo Champions: buen gol para Roma vs. Manchester United, generó penal y gran noticia para Scaloni
-- Cecilia Dieleke sumó su segunda medalla en los Juegos Olímpicos de la Juventud 2026
-- El karma de Ponzio en River con los volantes centrales: Moreno descartado ante Aldosivi
-- Las bombas de Chicho Serna contra el arbitraje de Boca-River: "Fue de terror"
-- El doble de Nico Paz que sorprende en Sarmiento de Junín: se formó en Europa y es hijo de un ex River
-- George Russell salió a hablar tras el título de Kimi: “Tuve más días malos que buenos”
-- Crisis en Mataderos: Chicago pidió perdón por el descenso y un histórico dirigente presentó su renuncia
-- Brea y Tapia debutaron con triunfos y Argentina sigue firme en el Mundial de pádel
+- Barracas Central vs. Racing, por el Torneo Clausura 2026: día, horario y dónde ver
+- Las sorpresas que prepara Ponzio: quiénes son los pibes que concentrarían por primera vez en River
+- Gimnasia vs. Belgrano, por el Torneo Clausura 2026: día, hora y dónde ver el partido
+- El video de Aranda en la práctica que ilusiona a todos los hinchas de Boca
+- Simeone contra las cuerdas: qué necesita el Atlético para evitar los Playoffs de la Champions League
+- Luis Enrique explotó contra el árbitro por una insólita situación... ¡Y eso que el PSG goleó 6-0!
+- El Comité de Árbitros de España reconoció que fue un error el penal cobrado a Mbappé ante Racing de Santander: "El VAR debió intervenir"
+- Con cambios obligados, el probable 11 de River para jugar ante Aldosivi
+- El nuevo rol que tendrá Rafael Nadal en el Real Madrid
+- La enorme brecha entre Franco Colapinto y Pierre Gasly en el ranking de destructores de la Fórmula 1
 
 **Infobae** (40)
-- Oficial: Haas confirmó que Esteban Ocon no correrá más en el equipo y anunció quién lo reemplazará en la Fórmula 1
-- Se filtró la tabla del Campeonato de Destructores de la F1: el alarmante lugar de Pierre Gasly y dónde se ubica Franco Colapinto
-- El tenso cara a cara de Fernando Gago con un árbitro en Chile que terminó en expulsión: el lapidario informe
-- Con gol de Soulé, Roma vence al Manchester United por la cuarta fecha de la Champions League: la agenda completa
-- El curioso incidente de LeBron James con un hincha y una copa de vino durante un partido de la NBA: “Quise ver si valía la pena”
-- Pechito López señaló qué le falta mejorar a Franco Colapinto en la Fórmula 1: “Es donde le está costando”
-- Las razones detrás de las ausencias de Lo Celso, De Paul, Cuti Romero y Lautaro Martínez en la lista de la Selección
-- La sentencia de Alexis Mac Allister cuando le preguntaron sobre las teorías conspirativas alrededor de la final del Mundial ante España
-- El movimiento de Haas que anticipa quién sería el reemplazante de Esteban Ocon para las próximas carreras de la Fórmula 1
-- Los dos futbolistas de Boca Juniors que iban a ser convocados por Scaloni, pero fueron liberados por la definición de los títulos del Xeneiz
-- Masters 1000 de París: Tomás Etcheverry eliminó a Rublev y Francisco Cerúndolo abandonó por lesión cuando estaba cerca del triunfo
-- Quién es Cecilia Dieleke, la nadadora argentina de 17 años que hizo historia al ganar dos medallas en los Juegos Olímpicos de la Juventud Da
+- La carta de un futbolista argentino del Andorra tras la trágica muerte de Jesús de Miguel y el mensaje sobre su arquero: “Jamás tendría inte
+- Ricardo La Volpe puntualizó cuál fue el fatídico error que lo llevó a perder un campeonato con Boca y reveló a su confidente en el vestuario
+- Los Pumas confirmaron la formación para enfrentar a Irlanda en Dublín por el Nations Championship
+- Charles Leclerc abandonó Brasil y viajó a Mónaco para el nacimiento de su hija: quién manejará su Ferrari en Interlagos
+- El particular gesto de Otamendi con un regalo de Paredes en el Superclásico entre Boca Juniors y River Plate: “Vos no lo quisiste”
+- Hernán Crespo anunció que será padre por cuarta vez a los 51 años: su novia Antonella Silguero está embarazada
+- Liverpool, Manchester City y Como saldrán a la cancha por la fecha 4 de la Champions League: la agenda de la jornada
+- Relevos, salud y camaradería: el poder de la natación como espacio de pertenencia después de los 50
+- “Por qué Messi dejó de correr a los 24 años”: el puntilloso informe que explica la metamorfosis del ídolo argentino
+- Jugó en la NBA y una lesión lo llevó “a la etapa más oscura” de su vida: Greivis Vásquez contó cómo superó la depresión tras su retiro
+- “Inolvidable”: la emoción de Kimi Antonelli al subirse a un Lotus de Fórmula 1 de Ayrton Senna
+- La dura autocrítica del Cholo Simeone tras la derrota del Atlético de Madrid con el Bayern Múnich por la Champions League
 
 **Google News AR** (40)
-- El fútbol español está de luto tras el fallecimiento de Jesús de Miguel
-- LA ESCUELA MUNICIPAL DE FÚTBOL PCD SEMIFINALISTA DE LA LIGA INLCUSIVA
-- Fútbol Femenino: Talleres enfrentó a Banfield
-- Tabla anual 2026: posiciones y clasificación a la Libertadores y Sudamericana
-- Juan Antonio, exfutbolista de River: “El fútbol es un mundo chico que tiene sus propias reglas, tenés que estar bien lúcido, no es para cual
-- Luto en el fútbol español: falleció Jesús de Miguel tras un violento choque con un arquero rival
-- La reaparición de Machuca en el fútbol argentino tras ocho meses de inactividad
-- La decisión que tomó la Federación Española de Fútbol tras la muerte de Jesús de Miguel
-- 25 Digital presenta la programación de partidos para la Liga Veinticinqueña de Fútbol
-- Fútbol infantil: comenzaron la Copa de Oro y la Copa de Plata – Las últimas noticias de San Pedro
-- Escuelas de Fútbol TPS cierra su 18ª temporada con más de 200 niños y niñas
-- Ver Champions League por Fútbol Libre - Partidos de Fútbol y Canales Deportivos Online en vivo es ilegal: por qué no buscarlo en Google
+- Cuándo se cruzarían Boca y River en los playoffs
+- Duro golpe al fútbol de la Liga Amateur: murió un nene que jugaba en Las Malvinas
+- Falcao y otros referentes saludan a Ospina por su retiro del fútbol
+- El escándalo de Ueno Bank llegó al fútbol: jugadores locales y de la selección de Paraguay presentarán una denuncia colectiva para recuperar
+- El Talento celebra 16 años con una verdadera fiesta del fútbol infantil
+- Rafael Nadal se involucra en el fútbol, una de sus grandes pasiones, como dirigente de Real Madrid
+- Qué partidos de fútbol hay hoy: La agenda del miércoles 4 de noviembre
+- El fútbol azuleño, en alerta: agresiones, comunicados y un futuro incierto para los cuartos de final
+- Junto a un grupo emblemático de clubes, la Municipalidad de Escobar impulsa la normalización institucional de la Liga local de fútbol
+- Wenger eligió a seis promesas del fútbol mundial y una es de River: quién es Santiago Espíndola
+- Recta final para el fútbol de Inferiores
+- Tragedia en el fútbol español: un jugador argentino apoyó al arquero Owono, tras los mensajes de odio por a muerte de Jesús de Miguel
 
 **ge.globo** (40)
-- Atlético de Madrid x Bayern de Munique - Liga dos Campeões 2026/2027 - Ao vivo - globoesporte.com
-- Espanhol Fabián Ruiz homenageia Jesús de Miguel, que morreu nesta terça-feira
-- Villarreal x Paris Saint-Germain - Liga dos Campeões 2026/2027 - Ao vivo - globoesporte.com
-- Ferraresi e Savarino são convocados para jogos da Venezuela na Data Fifa
-- Barcelona x Aston Villa - Liga dos Campeões 2026/2027 - Ao vivo - globoesporte.com
-- Vasco chega a Curitiba para enfrentar o Athletico; veja provável escalação
-- Escalação: Palmeiras se reapresenta e avalia estratégia para jogo contra o Remo
-- Escalação do Corinthians: Seedorf muda defesa e faz mistério sobre Memphis contra o São Paulo
-- Eleições 2026: Raul Lima Neto lança candidatura à presidência do Vasco
-- Presidente do Avaí revela planos para 2027: "Mudanças estruturais para investir mais no futebol"
-- Atacante João Marcos deixa o Figueirense após possível equívoco em contrato
-- Palmeirense, mas fã de Neymar: jovem em remissão de câncer ganha vídeo surpresa do craque
+- Com investimento milionário, Cuiabá utiliza mais de 10 atletas da base no profissional em 2026
+- Anderson Daronco e VAR de Palmeiras x Vasco são suspensos pela CBF
+- Avaí e Kactus Capital reafirmam compromisso na SAF do clube
+- Veja o primeiro teaser de "Marta", filme que será lançado em 2027
+- Quem joga? Dorival tem pela primeira vez quarteto ofensivo à disposição no São Paulo
+- Alerta ligado no Brasileirão: Vasco tem baixo aproveitamento em jogos que antecedem mata-matas
+- Memphis volta ao palco de único gol pelo Corinthians no ano e tenta encerrar jejum de sete meses
+- Tribunal de Contas suspende patrocínio de R$ 32 milhões de estatais para clubes de Minas
+- Millán, Martinelli... Veja quem pode reforçar o Fluminense na reta final da temporada
+- Achei! Na ativa aos 39, David Braz vê Flamengo x Grêmio como 2009 e alerta para "armadilha" do mistão
+- Slavia Praga x Arsenal - Liga dos Campeões 2026/2027 - globoesporte.com
+- RB Leipzig x Manchester City - Liga dos Campeões 2026/2027 - globoesporte.com
 
 **r/soccer (top día)** (25)
-- [Official] CD Tenerife announces that Jesus de Miguel has passed away following last nights incident
-- These have been very difficult hours for goalkeeper Jesús Owono. In the locker room after the game, he was seen crying and praying. As he le
-- The RFEF has suspended the football matches scheduled for November 3 following the death of Jesús de Miguel, a player for CD Tenerife:
+- Raphinha: Sorry, I don't want to talk about football. I want to send strength to the family of Jesus de Miguel. May he rest in peace.
+- Matheus Cunha dives into the stands to celebrate his second goal after coming back from 0-2 down
 - Manchester City could face further charges, as increasing number of PL executives push investigation into seasons since 2018 | Many director
-- West Ham sack head coach Nuno Espirito Santo
-- Premier League table after matchday 9
-- Tebas on Mbappe controversy "Mao Zedong is revered and respected in China. Making such remarks was an offense that we tried to minimize. La 
+- João Neves' bicycle kick attempt from the ground
+- Bruno Fernandes:"We don't need to 'save' anyone's job. The club needed that win... The manager put me on the bench because I wasn't performi
+- Manchester United [3] - 2 AS Roma - Matheus Cunha 86'
+- Atletico lose to a German team at home after 30 years
+- "Do we or I always have to show that we are French? We are French and it'll never change. I am Black. I am French. I am a dad. It could have
+- Tennis balls are being thrown onto the pitch as Manchester United fans sing ‘we want Glazers out’.
 - Manchester United 0 - [2] AS Roma - D. Malen 18'
-- Unai Emery asked about the famous Barca vs PSG remontada in 2017: "I've been coaching 22 years, 16 years in a row in Europe. So many competi
-- Michel Owono [player of CF Can Vidalet in the Spanish Football 6th Division] statement on racial abuse & threats he has received from people
-- Cristiano Ronaldo Jr has earned his 1st Portugal U17 call-up for the upcoming European Championship U17 qualifiers. He already played 4 game
-- FourFourTwo’s 100 Best Young Players 2001
+- Raphinha moves past Neymar and Rivaldo and joins Robert Lewandowski in third place on Barcelona’s all-time UCL scoring list
+- Achraf Hakimi: "We didn't know he (Messi) was coming at the time, the moment he arrived the project changed, we weren't playing an enjoyable
 
 Fallaron: ESPN (ParseError), Goal (HTTPError), Independent (ParseError), Football365 (HTTPError), Marca (HTTPError), Sport (HTTPError), Calciomercato (HTTPError), TN (HTTPError)
