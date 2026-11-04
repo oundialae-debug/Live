@@ -98,10 +98,10 @@
    "arranque": "s0",
    "estado": "en_cola",
    "fecha": "2026-11-04",
-   "hora": "2026-11-04T22:17:22+00:00",
+   "hora": "2026-11-04T22:19:23+00:00",
    "musica": "boom",
    "partido": "Borussia Dortmund-Real Betis",
-   "publicar": "2026-11-04T23:20:37+01:00",
+   "publicar": "2026-11-04T23:22:38+01:00",
    "resultado": "2-1",
    "tarjetas": 6,
    "video": "https://raw.githubusercontent.com/oundialae-debug/live/main/media/post_partido/2026-11-04_Borussia_Dortmund_Real_Betis.mp4"
@@ -117,18 +117,6 @@
    "resultado": "3-4",
    "tarjetas": 6,
    "video": "https://raw.githubusercontent.com/oundialae-debug/live/main/media/post_partido/2026-10-14_AS_Roma_Real_Madrid.mp4"
-  },
-  "-6106322": {
-   "arranque": "s0",
-   "estado": "en_cola",
-   "fecha": "2026-11-04",
-   "hora": "2026-11-04T22:17:22+00:00",
-   "musica": "hh10",
-   "partido": "RB Leipzig-Manchester City",
-   "publicar": "2026-11-04T23:20:52+01:00",
-   "resultado": "2-3",
-   "tarjetas": 6,
-   "video": "https://raw.githubusercontent.com/oundialae-debug/live/main/media/post_partido/2026-11-04_RB_Leipzig_Manchester_City.mp4"
   },
   "-6106328": {
    "arranque": "s1",
