@@ -1,5 +1,5 @@
 {
- "red": "instagram",
+ "red": "tiktok",
  "hora": "2026-11-04T23:20:52+01:00",
  "tipo": "post",
  "partido": "RB Leipzig-Manchester City",
@@ -8,5 +8,9 @@
  "recordatorio": false,
  "musica": "hh10",
  "variante": "seg=2.8;arranque=s0;hook=dato;musica=hh10;formato=auto_post",
- "notas": "post-partido automático (futbol-pipeline -6106322, 6 tarjetas)"
+ "notas": "post-partido automático (futbol-pipeline -6106322, 6 tarjetas)",
+ "titulo": "RB Leipzig 2-3 Man City | Expected goals: 0.9 vs 2.2, Man City created more.",
+ "estado": "enviado",
+ "buffer_id": "6aebaf13461a3c349c5bec05",
+ "dueAt": "2026-11-04T22:20:54+00:00"
 }
