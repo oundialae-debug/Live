@@ -9,5 +9,8 @@
  "musica": "hh07",
  "variante": "seg=5.0;arranque=s0;hook=pregunta;musica=hh07;formato=auto_noticia;hora=22",
  "notas": "noticia automática (IA + reglas): talkSPORT: Where to watch Manchester United v Roma as Michael Carrick prepares for another must win; talkSPORT: Fiery 17-year-old MLS star could win MVP over Lionel Messi and bail out Manchester City ",
- "titulo": "Man United crisis: exits and rankings"
+ "titulo": "Man United crisis: exits and rankings",
+ "estado": "enviado",
+ "buffer_id": "6aeba3abe33a6d353dc3ed2e",
+ "dueAt": "2026-11-04T21:32:14+00:00"
 }
