@@ -1,34 +1,33 @@
-# Alertas de noticias (2026-11-04 21:27 UTC)
+# Alertas de noticias (2026-11-05 14:53 UTC)
 
 Temas en >= 7 medios. La rutina diaria y cualquier sesión deben mirar esto ANTES de elegir tema (regla 6: la noticia que todos comentan va primero).
 
 ## Grandes SIN publicar en las últimas 48 h (hacer post si pasa el listón: nada repetido, foto del momento)
 
-- **Miguel** (15 medios): An island in mourning: Tenerife processes death of De Miguel
-- **Liverpool** (15 medios): Muriqi caps Fenerbahce comeback to make Liverpool pay for defensive lapses
-- **Owono** (13 medios): 'Most difficult days of my life' for Owono after De Miguel death
-- **Arsenal** (12 medios): Saliba's back for Arsenal - how does Arteta solve his defensive dilemma?
-- **Gabriel** (11 medios): Real Madrid reach verbal agreement to sign Gabriel
-- **Man** (10 medios): Why Man Utd's Roma comeback has echoes of Mourinho and Solskjaer
-- **Manchester** (10 medios): Champions League: Slavia Prague v Arsenal, RB Leipzig v Manchester City and more – live
-- **Nadal** (9 medios): Nadal set to join Real Madrid board of directors
-- **Carrick** (9 medios): Fernandes critical of media 'lies' about Carrick relationship
-- **Fenerbahce** (9 medios): Muriqi caps Fenerbahce comeback to make Liverpool pay for defensive lapses
-- **Leipzig** (9 medios): Champions League: Slavia Prague v Arsenal, RB Leipzig v Manchester City and more – live
+- **Ronaldo** (20 medios): A bitter end for Ronaldo - the icon who transformed Portugal
+- **Cristiano** (20 medios): Cristiano Ronaldo merely the latest example of a great player who couldn’t let go
+- **Portugal** (16 medios): A bitter end for Ronaldo - the icon who transformed Portugal
+- **Miguel** (13 medios): Family thankful for support as De Miguel funeral held
+- **Liverpool** (12 medios): Liverpool crumble at Kuyt's Fenerbahce
+- **Kane** (11 medios): What new Kane deal means for England and the Premier League record
+- **Arsenal** (11 medios): Arsenal survive late Slavia scare for hard-fought win
+- **Jesus** (11 medios): Goalkeeper makes emotional statement in first public comments since death of Jesus de Miguel after horror coll
 - **Jesús** (9 medios): Goalkeeper Jesús Owono experiencing ‘hardest days of my life’ after De Miguel’s death
-- **Roma** (8 medios): Why Man Utd's Roma comeback has echoes of Mourinho and Solskjaer
-- **Mourinho** (7 medios): Why Man Utd's Roma comeback has echoes of Mourinho and Solskjaer
-- **West** (7 medios): West Ham confirm Parker as boss
-- **Ham** (7 medios): West Ham confirm Parker as boss
-- **Utd** (7 medios): Man Utd eye Man City's Ait-Nouri - Wednesday's gossip
-- **Michael** (7 medios): Can miraculous Manchester United comeback save Michael Carrick?
-- **Valverde** (7 medios): Bellingham empieza, Valverde lo termina
+- **Infantino** (8 medios): Japan's Tashima to stand against Infantino for Fifa presidency
+- **Como** (8 medios): Como score nine to make Champions League history
+- **Raphinha** (8 medios): Raphinha scores twice as Barcelona beat Aston Villa
+- **Owono** (8 medios): Owono left out of Eq Guinea squad after death of De Miguel
+- **Harry** (8 medios): Ballon d’Or winner Harry Kane signs new contract with Bayern through to 2029
+- **England** (7 medios): What new Kane deal means for England and the Premier League record
+- **Tashima** (7 medios): Japan's Tashima to stand against Infantino for Fifa presidency
+- **Fenerbahce** (7 medios): Liverpool crumble at Kuyt's Fenerbahce
+- **FIFA** (7 medios): Gianni Infantino to face biggest FIFA survival challenge yet amid push for Arsene Wenger to stand
 
 ## Grandes ya cubiertas
 
-- Madrid (21): Real Madrid reach verbal agreement to sign Gabriel
-- Villa (11): Emery takes positives, but Villa 'have work to do' to reach Barca level
-- Aston (9): Raphinha underlines Barcelona’s class to give Aston Villa a reality check
-- Barcelona (9): Tennis icon Rafael Nadal lands surprise new job at Real Madrid despite Barcelona connection
-- Bayern (8): Lennart Karl steals in behind Atlético Madrid to inspire Bayern Munich win
-- Atlético (7): Lennart Karl steals in behind Atlético Madrid to inspire Bayern Munich win
+- Bayern (11): Bayern continue unbeaten CL start with win at Atletico
+- Barcelona (10): Raphinha scores twice as Barcelona beat Aston Villa
+- Madrid (10): Real Madrid reach verbal agreement to sign Gabriel
+- Man (9): Haaland scores winner as Man City beat Leipzig
+- Villa (8): Emery in line for new Villa deal - Thursday's gossip
+- Manchester (7): Manchester United beat Roma in epic second-half comeback
