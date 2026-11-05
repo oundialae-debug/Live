@@ -1,18 +1,25 @@
-# Tendencias de fútbol (2026-11-05 14:53 UTC, Google Trends)
+# Tendencias de fútbol (2026-11-05 21:32 UTC, Google Trends)
 
 Generado por el workflow `tendencias`. Úsalo para elegir temas de memes, curiosos y jugador vs jugador.
 
 | País | Búsqueda | Tráfico | Titular |
 |---|---|---|---|
-| UK | didier deschamps | 200+ | Manchester United a contacté Didier Deschamps |
-| Spain | real madrid fútbol | 200+ | El acuerdo con Nadal estaba cerrado desde antes del Clásico y solo lo conocían cuatro |
-| Spain | aterrizaje | 1000+ | Una nueva oleada de falsas amenazas de bomba afecta al menos a 25 vuelos en toda Europa, tres de ell |
-| Spain | navahermosa | 1000+ | Funeral de Jesús de Miguel, en directo |
-| Germany | portugiesische fußballnationalmannschaft | 1000+ | Cristiano Ronaldo beendet seine Karriere in Portugals Nationalmannschaft |
-| France | jonathan clauss | 200+ | « Il y en a qui se croient intouchables »: pourquoi certains joueurs de foot ont un sentiment d'impu |
-| Argentina | ronaldo | 500+ | Cristiano Ronaldo retires: Portugal forward quits international football |
-| Argentina | cr7 | 200+ | Bombazo mundial: Cristiano Ronaldo se retiró de Portugal |
-| Brazil | luton town football club | 500+ | Ticket Details | Luton Town (A) |
-| Portugal | coeficiente uefa | 500+ | Ranking UEFA: vitória do FC Porto recoloca Portugal na corrida pela vaga extra na Champions |
-| Portugal | portugal | 50000+ | Comunicado Oficial: Obrigado, Capitão! |
-| Mexico | convocatoria selección mexicana | 200+ | México vs Jamaica: ¿qué once le conviene a Rafa Márquez? |
+| UK | celtic score | 5000+ | Celtic vs Besiktas: Martin O'Neill insists Scottish champions still qualify |
+| UK | lucas bergvall | 200+ | Tottenham reach decision on selling midfielder to Barcelona on one condition – Exclusive |
+| Spain | conference league | 2000+ | Getafe - Brighton, en directo: UEFA Conference League, hoy en vivo |
+| Italy | maurizio mariani | 200+ | Champions League, l'arbitro Mariani si becca un "vaffa": rosso diretto. E il Como sorride |
+| France | 1982 | 500+ | Une tempête à 200 km/h comme en 1982 pourra frapper dans les prochains jours ? 05/11/2026 |
+| USA | leverkusen | 1000+ | Ab 20.15 Uhr - RTL zeigt Europa-League-Partie Leverkusen gegen Marseille |
+| Argentina | sunderland | 200+ | Sunderland v Dinamo Zagreb, Celtic v Besiktas: Europa League – live |
+| Argentina | bayer leverkusen | 200+ | Bayer Leverkusen gegen Marseille – Prognose: Chance, die Tabellenspitze anzugreifen |
+| Argentina | monaco fc | 100+ | AS Monaco’s Ansu Fati out until 2027 |
+| Argentina | celta de vigo | 100+ | Celta - Union Saint-Gilloise, en directo: Europa League hoy en vivo |
+| Argentina | leverkusen - marsella | 500+ | Cuándo juegan Bayer Leverkusen vs. Olympique de Marsella por la UEFA Europa League 2026/27: equipo,  |
+| Argentina | az alkmaar | 100+ | Cuándo juegan AZ vs. Juventus por la UEFA Europa League 2026/27: equipo, fecha, hora y TV en vivo |
+| Brazil | celtic | 500+ | Celtic starting XI to face Besiktas in UEFA Europa League |
+| Brazil | bayer leverkusen | 1000+ | Bayer Leverkusen - Olympique Marseille: Prognose, Übertragung, Anstoßzeit und Aufstellungen 05-11-20 |
+| Brazil | ccxp 2026 | 200+ | Free Fire vai virar anime e terá estreia mundial no Brasil com participação de Alok |
+| Mexico | benfica vs. lech poznań | 200+ | Benfica vs Lech Poznan: How to watch, Live Stream, TV Channel and Time for a UEFA Europa League game |
+| Mexico | iberia 1999 | 100+ | A qué hora y dónde ver Copenhague vs Iberia Tbilisi de Conference League |
+| Mexico | twente vs | 200+ | Twente vs Pafos: UEFA Conference League stats & head-to-head |
+| Mexico | panathinaikos | 100+ | Kendrick Nunn makes history as Panathinaikos beats Real Madrid in OT thriller |
