@@ -774,3 +774,30 @@
 - Planet Football: Why free-scoring Roma could be Man Utd’s & Carrick’s worst nightmare
 - Yahoo: Champions League latest: Iraola to speak; Saliba back training; Carrick faces Roma test
 
+## 05/11 15:54 · Ronaldo Calls Time on Portugal · revisar
+- Motivo: datos que no salen en los titulares: 5
+- Temas: Ronaldo, Cristiano, Portugal
+- BBC: A bitter end for Ronaldo - the icon who transformed Portugal
+- BBC: Ronaldo retires from Portugal duty
+- Guardian: Cristiano Ronaldo merely the latest example of a great player who couldn’t let go | Jonathan Wilson
+- Sky Sports: Ronaldo announces international retirement on Instagram!
+- talkSPORT: Cristiano Ronaldo retires from Portugal duty with emotional five-minute statement
+
+## 05/11 15:54 · Jesús de Miguel Dies · revisar
+- Motivo: categoría sensible: death
+- Temas: Miguel
+- Mirror: Jose Mourinho sends message to 'broken' goalkeeper who collided with Jesus de Miguel
+- Mirror: Goalkeeper who collided with Jesus de Miguel 'suffering' as investigation launched
+- Mirror: Thousands of heartbroken Tenerife fans gather at vigil for tragic star Jesus de Miguel
+- Google News EN: Jesus de Miguel death: Andorra goalkeeper Jesus Owono 'would never intentionally hurt anyone' says team-mate
+- Google News EN: Jesus de Miguel, the Spanish striker whose tragic death has shocked football
+
+## 05/11 15:54 · Nadal Joins Real Madrid · revisar
+- Motivo: sin foto buena con cara visible
+- Temas: Nadal
+- BBC: Nadal set to join Real Madrid board of directors
+- Sky Sports: Nadal appointed to Real Madrid board
+- AS: El Madrid hace directivo a Nadal
+- AS: Nadal: “Acepto la propuesta con mucha ilusión y ganas de aportar todo lo que pueda”
+- Mundo Deportivo: Rafa Nadal, nuevo miembro de la Junta Directiva del Real Madrid
+

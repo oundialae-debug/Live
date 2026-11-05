@@ -176,3 +176,7 @@
 {"t": "2026-11-04T21:28+00:00", "estado": "revisar", "temas": ["Roma"], "clave": "roma-man-united-cl", "motivo": "datos que no salen en los titulares: Italians"}
 {"t": "2026-11-04T21:28+00:00", "estado": "publicado", "temas": ["Manchester"], "clave": "man-utd-turmoil", "video": "https://raw.githubusercontent.com/oundialae-debug/live/main/media/noticias/2026-11-04_2228_man-utd-turmoil.mp4"}
 {"t": "2026-11-04T21:28+00:00", "estado": "descartar", "temas": ["Liverpool"], "clave": "liverpool-fenerbahce-preview", "motivo": "calidad 6 < 7"}
+{"t": "2026-11-05T14:54+00:00", "estado": "revisar", "temas": ["Ronaldo", "Cristiano", "Portugal"], "clave": "ronaldo-retirement", "motivo": "datos que no salen en los titulares: 5"}
+{"t": "2026-11-05T14:54+00:00", "estado": "revisar", "temas": ["Miguel"], "clave": "jesus-de-miguel-death", "motivo": "categoría sensible: death"}
+{"t": "2026-11-05T14:54+00:00", "estado": "revisar", "temas": ["Nadal"], "clave": "nadal-real-madrid-board", "motivo": "sin foto buena con cara visible"}
+{"t": "2026-11-05T14:54+00:00", "estado": "descartar", "temas": ["Liverpool"], "clave": "liverpool-fenerbahce", "motivo": "importancia 6 < 7"}
