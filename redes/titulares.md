@@ -1,4 +1,4 @@
-# Titulares de fútbol (2026-11-05 21:32 UTC, últimas 36 h)
+# Titulares de fútbol (2026-11-06 14:31 UTC, últimas 36 h)
 
 Generado por `scripts/titulares.py` (workflow `tendencias`). Leídos 26 de 34 medios; fuentes en `redes/fuentes.md`.
 
@@ -6,359 +6,357 @@ Generado por `scripts/titulares.py` (workflow `tendencias`). Leídos 26 de 34 me
 
 | Tema | Nº medios | Medios | Ejemplo |
 |---|---|---|---|
-| Cristiano | 16 | AS, Daily Mail, Foot Mercato, FourFourTwo, Google News AR, Google News EN, Googl | Cristiano Ronaldo merely the latest example of a great player who couldn’t let go | Jonathan Wilson |
-| Ronaldo | 15 | BBC, Daily Mail, Foot Mercato, FourFourTwo, Google News EN, Guardian, Infobae, K | A bitter end for Ronaldo - the icon who transformed Portugal |
-| Europa | 14 | AS, Daily Mail, Foot Mercato, Football Italia, Google News AR, Google News EN, G | Sunderland v Dinamo Zagreb, Celtic v Besiktas: Europa League – live |
-| Portugal | 13 | AS, BBC, Daily Mail, Foot Mercato, FourFourTwo, Google News EN, Infobae, L'Equip | A bitter end for Ronaldo - the icon who transformed Portugal |
-| Miguel | 12 | AS, BBC, Foot Mercato, FourFourTwo, Google News AR, Google News EN, Google News  | 'A void that is impossible to fill' - tributes paid at De Miguel funeral |
-| Kane | 10 | BBC, Daily Mail, Foot Mercato, Google News EN, Guardian, L'Equipe, Mirror, Plane | What new Kane deal means for England and the Premier League record |
-| Liverpool | 10 | BBC, Daily Mail, FourFourTwo, Guardian, Mirror, Telegraph, Yahoo, ge.globo, r/so | Liverpool crumble at Kuyt's Fenerbahce |
-| Bayern | 10 | BBC, Daily Mail, Foot Mercato, FourFourTwo, Guardian, L'Equipe, Mirror, Planet F | Bayern continue unbeaten CL start with win at Atletico |
-| England | 9 | BBC, Daily Mail, Google News EN, Kicker, Mirror, Sky Sports, Yahoo, r/soccer (to | England check on Palmer - what are Tuchel's other big choices? |
-| Jesus | 9 | Daily Mail, Foot Mercato, FourFourTwo, Google News EN, Kicker, Mirror, Record, g | Cristiano Ronaldo to be blocked from emotional Portugal farewell as he blindsides Jorge Jesus |
-| Arsenal | 8 | BBC, Daily Mail, FourFourTwo, Guardian, Mirror, Telegraph, Yahoo, talkSPORT | Arsenal survive late Slavia scare for hard-fought win |
-| Milan | 8 | AS, BBC, Foot Mercato, Football Italia, Google News AR, Guardian, L'Equipe, Yaho | Spence stars as Inter Milan cruise to win at Feyenoord |
-| Harry | 8 | Daily Mail, Foot Mercato, Guardian, L'Equipe, Mirror, Planet Football, r/soccer  | Ballon d’Or winner Harry Kane signs new contract with Bayern through to 2029 |
-| Jesús | 8 | AS, Foot Mercato, Google News AR, Google News ES, Guardian, Mundo Deportivo, ge. | Goalkeeper Jesús Owono experiencing ‘hardest days of my life’ after De Miguel’s death |
-| Munich | 8 | Daily Mail, Foot Mercato, FourFourTwo, L'Equipe, Mirror, Planet Football, r/socc | Tottenham can still re-sign Harry Kane despite massive new Bayern Munich deal |
-| Man | 7 | BBC, Daily Mail, Google News EN, Mirror, Telegraph, Yahoo, talkSPORT | Haaland scores winner as Man City beat Leipzig |
-| Como | 7 | BBC, Daily Mail, Google News AR, Google News EN, Infobae, r/soccer (top día), ta | Como score nine to make Champions League history |
-| Owono | 7 | AS, BBC, Foot Mercato, FourFourTwo, Google News ES, Guardian, L'Equipe | Owono left out of Eq Guinea squad after death of De Miguel |
-| Madrid | 7 | BBC, Foot Mercato, Mirror, Mundo Deportivo, Yahoo, ge.globo, talkSPORT | Real Madrid reach verbal agreement to sign Gabriel |
-| Infantino | 6 | BBC, Daily Mail, Google News EN, Guardian, L'Equipe, talkSPORT | Japan's Tashima to stand against Infantino for Fifa presidency |
-| Manchester | 6 | BBC, Football Italia, FourFourTwo, Infobae, Yahoo, r/soccer (top día) | Manchester United beat Roma in epic second-half comeback |
-| Celtic | 6 | Daily Mail, FourFourTwo, Guardian, Mundo Deportivo, Sky Sports, Yahoo | Sunderland v Dinamo Zagreb, Celtic v Besiktas: Europa League – live |
-| Bournemouth | 6 | Google News EN, Guardian, L'Equipe, Record, Yahoo, ge.globo | Europa League: Bournemouth stay perfect while Milan humbled at home |
-| Jorge | 6 | Foot Mercato, L'Equipe, Mirror, Record, ge.globo, talkSPORT | Cristiano Ronaldo to be blocked from emotional Portugal farewell as he blindsides Jorge Jesus |
-| Enzo | 6 | AS, Daily Mail, FourFourTwo, Infobae, Mirror, Yahoo | 'It's not a concern': Why Enzo Maresca will stick with 'awe-inspiring' Gianluigi Donnarumma despite Leipzig ho |
+| Ronaldo | 14 | BBC, Foot Mercato, Football Italia, FourFourTwo, Google News EN, Guardian, Infob | Portugal coach 'knew nothing' about Ronaldo retiring |
+| Cristiano | 14 | Foot Mercato, FourFourTwo, Google News AR, Google News EN, Guardian, Infobae, L' | Cristiano Ronaldo merely the latest example of a great player who couldn’t let go | Jonathan Wilson |
+| Tuchel | 13 | BBC, Daily Mail, Foot Mercato, FourFourTwo, Google News EN, Kicker, L'Equipe, Mi | Palmer misses too many chances to impress - Tuchel |
+| Portugal | 13 | BBC, Foot Mercato, Football Italia, FourFourTwo, Google News AR, Google News EN, | Portugal coach 'knew nothing' about Ronaldo retiring |
+| Bellingham | 12 | AS, BBC, Daily Mail, FourFourTwo, Google News EN, Guardian, Kicker, L'Equipe, Te | 'Incredible achievement for the family' as Bellingham brothers called up |
+| England | 12 | BBC, Daily Mail, Football Italia, FourFourTwo, Google News EN, Guardian, Mirror, | Wolves legend and ex-England defender Coady retires |
+| Madrid | 11 | AS, Foot Mercato, FourFourTwo, Google News AR, Infobae, Mundo Deportivo, Record, | 'I'm in Lamine Yamal's locker' NFL players startruck in Madrid |
+| Palmer | 10 | BBC, Daily Mail, Foot Mercato, Google News EN, L'Equipe, Mirror, Sky Sports, Tel | Palmer misses too many chances to impress - Tuchel |
+| Villa | 10 | BBC, Daily Mail, Foot Mercato, FourFourTwo, Google News AR, Infobae, Mirror, Yah | Emery close to agreeing new Aston Villa contract |
+| Mourinho | 10 | AS, Foot Mercato, Google News AR, Google News ES, Kicker, L'Equipe, Mundo Deport | Mourinho&#39;s squad for Valencia-Real Madrid: Arda Guler returns |
+| Man | 9 | BBC, Daily Mail, Google News EN, Mirror, Planet Football, Sky Sports, Yahoo, r/s | Has Anderson lived up to the hype after Man City move? |
+| Jobe | 9 | Daily Mail, Google News EN, Guardian, Kicker, Mirror, Sky Sports, Telegraph, Yah | Jobe Bellingham ‘deserves’ England call; Kompany on track for ‘full recovery’; Coady retires: football news –  |
+| Thomas | 8 | Daily Mail, Foot Mercato, FourFourTwo, Google News EN, L'Equipe, Mirror, Yahoo,  | Thomas Tuchel reveals Premier League star was overtaken by Jobe Bellingham |
+| Miguel | 7 | AS, BBC, Google News ES, Guardian, Infobae, Mirror, Mundo Deportivo | 'A void that is impossible to fill' - tributes paid at De Miguel funeral |
+| Aston | 7 | BBC, Daily Mail, Foot Mercato, FourFourTwo, Mirror, Yahoo, talkSPORT | Emery close to agreeing new Aston Villa contract |
+| Jesús | 7 | AS, Google News AR, Google News ES, Guardian, Infobae, Mundo Deportivo, Ole | ‘In moments of pain, football comes together’: Spain says goodbye to Jesús de Miguel |
+| Liverpool | 7 | Daily Mail, FourFourTwo, Guardian, Mirror, Mundo Deportivo, Yahoo, talkSPORT | Fenerbahce thwart Liverpool and Arsenal pushed in Prague | Football Weekly Extra – video |
+| Cole | 7 | Daily Mail, Foot Mercato, Google News EN, L'Equipe, Mirror, r/soccer (top día),  | Jobe Bellingham handed surprise England call-up along with uncapped Premier League star as Cole Palmer left ou |
+| Jesus | 7 | Daily Mail, Foot Mercato, Google News EN, Mirror, Mundo Deportivo, Record, talkS | Cristiano Ronaldo to be blocked from emotional Portugal farewell as he blindsides Jorge Jesus |
+| Dedic | 6 | BBC, Google News EN, Guardian, L'Equipe, r/soccer (top día), talkSPORT | Newcastle's Dedic stopped by police after being spotted with bow and arrows |
+| Ferguson | 6 | BBC, Daily Mail, Mirror, Planet Football, r/soccer (top día), talkSPORT | 'He'll regret it' - the day Ferguson quit Aberdeen for Man Utd |
+| Europa | 6 | Daily Mail, Football Italia, Guardian, Infobae, L'Equipe, Record | Europa League: Sunderland lose at home to Zagreb while Celtic enjoy first win |
+| Palace | 6 | Daily Mail, Foot Mercato, Google News EN, Guardian, Mirror, talkSPORT | Kamada’s late leveller rescues point for 10-man Crystal Palace and denies Hoffenheim |
+| Arsenal | 6 | Daily Mail, FourFourTwo, Guardian, Mirror, Yahoo, talkSPORT | Fenerbahce thwart Liverpool and Arsenal pushed in Prague | Football Weekly Extra – video |
+| Carrick | 6 | Daily Mail, Mirror, Sky Sports, Yahoo, r/soccer (top día), talkSPORT | Lacey and Man Utd's next generation can rescue Carrick |
 
 ## Titulares por medio
 
-**BBC** (37)
-- A bitter end for Ronaldo - the icon who transformed Portugal
-- England check on Palmer - what are Tuchel's other big choices?
-- What new Kane deal means for England and the Premier League record
-- Everton's Grealish unavailable again after 'breach of discipline'
-- 'A void that is impossible to fill' - tributes paid at De Miguel funeral
+**BBC** (32)
+- 'Incredible achievement for the family' as Bellingham brothers called up
+- Palmer misses too many chances to impress - Tuchel
+- Portugal coach 'knew nothing' about Ronaldo retiring
+- Newcastle's Dedic stopped by police after being spotted with bow and arrows
 - Sutton's predictions v Football Manager, the game
-- Haaland scores winner as Man City beat Leipzig
-- Arsenal survive late Slavia scare for hard-fought win
-- Liverpool crumble at Kuyt's Fenerbahce
-- Como score nine to make Champions League history
-- Bellingham backheel and Valverde rocket earn Real late win at AEK
-- Ronaldo's most iconic moments as he retires from international football
+- Has Anderson lived up to the hype after Man City move?
+- Lampard looks for Coventry progress as belief grows
+- Why managers can learn a lot from leaders like Napoleon - Pulis
+- Wolves legend and ex-England defender Coady retires
+- Talking points as Premiership prepares for international break
+- 'Putting his doubters in their place' - Rooney lands pundit of year award
+- From playing against Messi and Ronaldo to non-league
 
-**Guardian** (18)
-- Sunderland v Dinamo Zagreb, Celtic v Besiktas: Europa League – live
-- Kamada’s late leveller rescues point for 10-man Crystal Palace and denies Hoffenheim
+**Guardian** (19)
+- Jobe Bellingham ‘deserves’ England call; Kompany on track for ‘full recovery’; Coady retires: football news – live
+- Amar Dedic set to escape Newcastle sanction over carrying bow and arrow
+- Nottingham Forest’s historic goal drought at home is part of longstanding problem
+- Premier League: 10 things to look out for this weekend
+- Win at Everton would put Coventry on right side of history in survival fight
+- Cape Verde captain Ryan Mendes cleared of rape allegation as woman charged with false statement
+- Scott Parker’s dramatic West Ham return leaves him struggling for words
 - Cristiano Ronaldo merely the latest example of a great player who couldn’t let go | Jonathan Wilson
-- Europa League: Bournemouth stay perfect while Milan humbled at home
-- Fifa wants talks over restricting women’s Olympic football to under-23s
-- Champions League review: comebacks, thrashings and a Mauritanian first
+- ‘In moments of pain, football comes together’: Spain says goodbye to Jesús de Miguel
 - The international break is almost here: so wave goodbye to your players, and maybe your manager | Max Rushden
-- Japan FA’s Kozo Tashima to stand against Infantino for Fifa presidency
-- Uefa faces political flashpoint over Sevastopol’s ascent in Russian football
 - Meet Clara Serrajordi: Barcelona’s midfield hope filling the void left by Alexia Putellas | Moving the Goalposts
-- Referee hands out record 53 red cards after chaos at under-20s game in Brazil
-- Concacaf revamps Gold Cup format to make tournament ‘more competitive’
+- Europa League: Sunderland lose at home to Zagreb while Celtic enjoy first win
 
 **Sky Sports** (20)
-- Hamilton: Leclerc more aggressive racing me than other drivers
-- Russell questions frequency of 'atrocious luck' during 2026 F1 season
-- Alcaraz into Paris Masters quarter-finals after Berrettini withdraws
-- Van Barneveld secures World Championship spot as Evans forced to qualify
-- Players Championship Finals draw confirmed with Littler not in field
-- Kamada earns Palace injury-time Hoffenheim draw and offers Sage respite
-- Benn: Pacquiao fight can happen early in 2027
-- LIV Golf: Timeline from big beginnings to liquidation
-- 'I went full out!' - Antonelli reveals title celebrations
-- Bournemouth's super subs extend winning run with Sparta Prague victory
-- Family, friends and Tenerife players gather for De Miguel's funeral
-- Is Rashid still England's No 1 spinner in ODI cricket?
+- Dubois fights Han in three-belt unification on February 20 live on Sky
+- Who will win the season-ending WTA Finals in Indian Wells?
+- Russell to take grid penalty at Sao Paulo GP
+- Smith fit to face Australia with Pollock on bench as Itoje returns as England captain
+- What next for DeChambeau and co? - LIV Golf Q&A
+- Sinner parts ways with coach Cahill after five-year run
+- 'It's not personal' - Tuchel explains Palmer exclusion
+- Weekend Winners: Nobody Knows the winner of the Doncaster feature?
+- Club cricketer dubbed 'Clicky Ponting' banned for two years
+- Hollie Doyle: 'It feels like I've never been away'
+- Mosley Jr misses weight for Bentley fight at first attempt
+- Lacey and Man Utd's next generation can rescue Carrick
 
-**talkSPORT** (38)
-- Blackburn star chose GCSEs over Chelsea and is reaping rewards of Fabian Hurzeler coaching
-- Thomas Tuchel weighs up Cole Palmer England recall after bemoaning &#8216;missed opportunities&#8217;
-- Newcastle player Amar Dedic has bow and arrows seized by police after six-car chase
-- Conference League match stopped for eight minutes immediately after kick-off
-- Cristiano Ronaldo to be blocked from emotional Portugal farewell as he blindsides Jorge Jesus
-- Tottenham can still re-sign Harry Kane despite massive new Bayern Munich deal
-- Cesc Fabregas has little-known incentive to stay at Como despite inevitable exit for Premier League
-- Why are there so few Premier League fixtures on Saturday
-- Unai Emery to &#8216;shut up&#8217; Man United fans with new Aston Villa deal and win Premier League title
-- Man United &#8216;sources&#8217; reveal Michael Carrick will make huge selection call on Sunday
-- Top five pound-for-pound managers in the Premier League right now
-- &#8216;Stop moaning&#8217; &#8211; Arsenal have no excuses as Christmas fixture reality exposed
+**talkSPORT** (39)
+- &#8216;It still annoys me&#8217; &#8211; Adrian Durham names England&#8217;s most overrated World Cup moment
+- Studs Up acca odds boosts: Cundy, Jennings and Scott-Douglas pick their Premier League bets
+- Thomas Tuchel reveals Premier League star was overtaken by Jobe Bellingham
+- Liverpool told to leave loan star set to become &#8216;world’s leading centre-back&#8217; at team facing relegation
+- Bayern Munich tipped to re-sign Harry Kane teammate months after selling him
+- 39-cap England star told he may never play for Three Lions again
+- Ally&#8217;s Acca boost: Get 14/1 on Cardiff, Fulham, Dundee Utd and West Ham all to win
+- Man United wonderkid Shea Lacey eyed up by rival nation amid uncertain England future
+- Conor Coady announces shock retirement from football aged 33
+- Jobe Bellingham handed surprise England call-up along with uncapped Premier League star as Cole Palmer left out
+- Leicester release statement as porn star becomes ambassador for shirt sponsor
+- What time is the England squad announcement? Thomas Tuchel to reveal team to face Croatia and Spain
 
-**Daily Mail** (39)
-- Jack Grealish is EXILED by Everton: Ex-England star is still being left out, confirms boss David Moyes, after boozy nights at pubs and karao
-- Newcastle star Amar Dedic sparks six-car police swoop after being spotted with a BOW AND ARROWS in Northumberland beauty spot before weapon 
-- Ex-Man United star Clayton Blackmore is forced to apologise for encouraging Mason Greenwood to 'come home to us' after winger beat Liverpool
-- Tragic Spanish footballer Jesus de Miguel's family say they have an 'impossible void to fill' as his dad is comforted with devastated loved 
-- Now will the FA put their money where their mouth is? England chiefs and UEFA must decide whether to back rival Japanese bid to FIFA preside
-- Cristiano Ronaldo QUITS international football after explosive fall-out with Portugal manager: Superstar, 41, announces retirement in emotio
-- Cesc Fabregas's Como win NINE-ONE in the biggest away victory in Champions League history - two weeks after thrashing Michael Carrick's Man 
+**Daily Mail** (37)
+- Jude Bellingham's brother Jobe gets first England call-up - as Thomas Tuchel explains axeing Cole Palmer, who 'misses too many opportunities
+- New Bromley boss Karl Robinson heaps praise on 'megastar' Jermain Defoe - with Premier League legend in talks over dugout return after walki
+- Man United's secret plot to poach Sir Alex Ferguson from Aberdeen, 40 years on - from phone calls with a fake Scottish accent to clandestine
+- Thomas Tuchel tells England fans to stop booing Ben White - insisting Arsenal star's exile and World Cup walk-out after row with Steve Holla
+- Inside Mohamed Salah's new life after his Liverpool fall-out: LEWIS STEELE visits Turkey's 30th biggest city, where the Egyptian King hikes,
+- Thomas Tuchel tells Cole Palmer he 'misses too many opportunities' to play for England after leaving Chelsea star out of his latest squad
+- Mum rushes to goalkeeper in Spanish football's killer collision: Jesus Owono suffering 'hardest days of his life' and being comforted after 
+- 'Why are you speaking? F*** off!': Kevin De Bruyne at centre of Napoli dressing room meltdown as 'divided' squad lurches towards 'disaster'.
+- Meet Brighton's merry band of unlikely heroes: a midfielder taking tips from Lionel Messi, a twinkle-toed son of a ballerina and the £3m bar
+- Ruben Amorim rips into his AC Milan players after embarrassing Europa League defeat: Ex-Man United boss hits out at team's attitude and crit
+- Pressure mounts on under-fire Regis Le Bris as Sunderland lose again, Bournemouth's super-subs preserve their flawless start, Pierre Sage is
 - Why Tottenham's 'rock' Jan Paul van Hecke is being compared to Bobby Moore and Stuart Pearce: 'Releasing the beast', a 'Zeeland Army' watchi
-- Liam Rosenior says Chelsea sacking had 'nothing to do with football' as he raises questions about 'tolerance' in England in first revelation
-- Man United co-owner Avram Glazer 'says they don't NEED success on the pitch to make money' - just like the New York Yankees and Dallas Cowbo
-- As I sat in the Sir Alex Ferguson Stand, the raw emotion and magic of Old Trafford was all around me. It was a stark reminder that the fans 
-- Harry Kane signs £400,000-a-week contract to become the highest-paid footballer in Europe as England's captain commits to Bayern Munich and 
 
 **Mirror** (25)
-- Matthias Jaissle responds to Newcastle sack pressure after players left 'confused'
-- What Marcus Rashford said to Man Utd fans before Roma game as audio leaked
-- Jason Wilcox singled out as Man Utd rivals say transfer 'cost £25m too much'
-- Mikel Arteta decision to force Arsenal transfer exit as player's father speaks his mind
-- Premier League star sparks huge police operation after being spotted with BOW AND ARROW
-- Jorge Jesus issues statement as Cristiano Ronaldo ends Portugal career following bitter spat
-- Leicester City spark backlash after club's sponsor announces deal with porn star
-- Real Madrid chief pays tribute to Jesus de Miguel's heartbroken family at funeral
-- Didier Deschamps' brutal reply to offer of replacing Michael Carrick at Man Utd
-- Jesus de Miguel's teammates carry his coffin at funeral of tragic Tenerife footballer
-- Cristiano Ronaldo couldn't accept Portugal reality and it's cost him Lionel Messi farewell
-- Ex-Man Utd chairman says fans are right to tell chiefs where to stick new stadium
+- Ex-England star retires moments before squad announcement after landing new job
+- Sir Alex Ferguson is a painful reminder of Man Utd's glory days 40 years on from his arrival
+- Thomas Tuchel backs Anthony Barry to stick with England despite Crystal Palace interest
+- Two men charged with murder of 'kind and talented' footballer, 26
+- Michael Carrick confirms severity of Carlos Baleba injury as Man Utd boss provides two updates
+- What Chelsea told Thomas Tuchel about Cole Palmer before latest England snub
+- Goalkeeper involved in fatal Jesus de Miguel collision 'considering walking away from football'
+- England squad recap: Thomas Tuchel explains reason behind Cole Palmer's latest snub
+- England star already suspended after squad call-up as Thomas Tuchel faces immediate dilemma
+- Sir Alex Ferguson: The day the NHS saved my life
+- Bayern Munich 'line up Rio Ngumoha transfer' after being rejected by Man Utd star
+- Thomas Tuchel sticks to his principles, but should Cole Palmer be in England's squad?
 
-**Telegraph** (3)
-- Man City have a striker who will not be stopped and a defence that cannot be trusted
-- Gyokeres the creator and executioner to see nervous Arsenal past Slavia Prague
-- Liverpool calamity hands Iraola his most chastening night yet
+**Telegraph** (1)
+- Tuchel snubs Palmer but calls up Jobe Bellingham and Josh King to England squad
 
 **90min** (0)
 
 **Planet Football** (10)
-- The 3 players in Europe who will earn more than Harry Kane after his new Bayern Munich deal
-- The top goalscorers for club & country in 2026 so far: Kane, Yamal, Mbappe, Raphinha…
-- Cristiano Ronaldo’s 143 international goals: Could any of these five players surpass him?
-- Can you name the 15 Englishmen with the most Europa League appearances?
-- Time to take Portugal seriously again? Stats since 2022 show why Cristiano Ronaldo retirement could be a blessing
-- Cristiano Ronaldo retires from international football: Who joins him in the all-time top 10 goalscorers?
-- Can you name every country Cristiano Ronaldo has scored against for Portugal?
-- Can you name Portugal’s XI from Cristiano Ronaldo’s competitive debut, 2004?
-- When will Cristiano Ronaldo score goal No. 1000 after international retirement announcement?
-- Will Cristiano Ronaldo get a Portugal farewell match? What we know after retirement announcement
+- Everton quiz: Every player with 10+ Premier League assists
+- Crystanbul revisited: The night Liverpool’s title hopes spectacularly fell apart
+- Think you know your football mascots? Name these 10 characters
+- Can you name every current PL club’s top appearance maker in the competition?
+- Tony Pulis’ Napoleon adoration was not what we expected to read this morning
+- Man Utd quiz: Every £10m+ signing made by Sir Alex Ferguson
+- Ranking the 10 best centre-backs in world football: Van Dijk falls, Jacquet in, but who is top?
+- Can you name the top 10 Premier League goalscorers beginning with A?
+- ‘I hate the man’: Recalling Alex Ferguson’s first fight at Man Utd with their City-supporting bus driver
+- Can you name Man Utd’s XI from Sir Alex Ferguson’s first game in 1986?
 
-**FourFourTwo** (23)
+**FourFourTwo** (21)
+- Aston Villa rocked by Real Madrid interest in new signing: report
+- Brighton & Hove Albion approached manager who rejected them over his Duolingo streak: report
+- How we made 442GOALS
+- Thomas Tuchel makes surprise England Bellingham announcement: Three Lions' November squad in full
+- John Arne Riise on the Craig Bellamy golf club incident that helped saved Wrexham from relegation
+- This is Russell Martin’s last chance to change the narrative
+- Friday Football Quiz, episode 140: Can you get 20 correct answers?
+- Quickfire Quiz 240: Can you answer 10 questions in 90 seconds?
 - How to watch Celtic vs Besiktas for FREE: Live Streams
 - Watch Sunderland vs Dinamo Zagreb for FREE: Live Streams
 - Ex Chelsea manager Liam Rosenior says sacking had 'nothing to do with football'
 - Manchester United owners INEOS part with manager after five months, ahead of putting club up for sale
-- Manchester City 'unlikely' to be stripped of titles - but face further Premier League charges
-- Cristiano Ronaldo's retirement statement in full: Portugal star bids farewell to international football
-- Cristiano Ronaldo can't face the embarrassment of being dropped, so he's quitting instead
-- 'A cheaper route into this Manchester United attack' Six of the best FPL differential options for Gameweek 10
-- Mikel Merino to leave Arsenal under condition explained by father: report
-- "Emerson was phenomenal at Middlesbrough but completely mad. It’s no surprise he went AWOL"
-- Quiz! Can you identify these cropped football club badges?
-- New Liverpool star has made himself undroppable and further damaged Arne Slot's Anfield legacy
 
 **Yahoo** (40)
-- Europa League: Osmand levels for Celtic within 43 seconds of coming on against Besiktas
-- 🔴 Internacional: STJD makes decision on Alan Patrick
-- Gallagher To Start, Marmoush On The Bench | 4-2-3-1 Tottenham Hotspur Predicted Lineup Vs Leeds United
-- Nottingham Forest forward moves closer to exit after latest update
-- Shaw becomes Ferguson&#39;s first Glentoran signing
-- Everton Eye £35m Defender: Should Moyes Trigger His Clause?
-- Amorim: ‘No explanation for Milan performance, we are not ready to play’
-- Erling Haaland Reveals Most Important Part of Playing For Manchester City After Scoring Winner Against RB Leipzig
-- Havertz, Tzolis And Calafiori To Start | 4-2-3-1 Arsenal Predicted Lineup Vs Hull City
-- One Enzo Maresca quote perfectly sums up what is happening on the pitch at Manchester City
-- Journalist: Liverpool unlikely to move for €45m star despite reports
-- Liverpool Loan Watch: Scanlon Shines Against West Ham, Pecsi Maintains His Form In Goal
+- Andoni Iraola reacts to striking Liverpool fouls statistic: ‘We’re an honest group’
+- Ajax talent Youri Baas responds to Barcelona transfer interest: &#8216;Biggest club in the world&#8217;
+- Talking points as Premiership prepares for international break
+- &#39;Incredible achievement for the family&#39; as Bellingham brothers called up
+- Mikel Arteta offers Ezri Konsa update after Arsenal injury scare
+- Oxford City can shock Leicester - Foxes fan Pollock
+- Roma maintain interest in Gittens, Chelsea consider offers
+- Man United dealt midfield set-back as Carlos Baleba potentially out until Christmas
+- Arsenal only lost Max Dowman appeal by 1 vote
+- SERIE A WOMEN, AC MILAN vs. INTER: MATCH PREVIEW
+- Harborough sign &#39;world&#39;s tallest striker&#39; Hudlin
+- Confirmed: Real Madrid squad list to face Valencia &#8211; key duo return
 
 **Google News EN** (40)
-- Fifa wants to restrict women’s Olympic football to under-23s in controversial move
-- 'Clock is ticking' - Gateshead fans fear for future
-- Man Utd 3-2 AS Roma: The three huge positives for Michael Carrick
-- Messi left international football with grace. Ronaldo didn't...
-- See the latest EFL TV selections
-- Check out who's leading the college football Power Index
-- Premier League predictions: Chris Sutton v Football Manager, the game - & AI
-- Uefa faces political flashpoint over Sevastopol’s ascent in Russian football
-- Cristiano Ronaldo retires from international football after glittering Portugal career that spanned 23 years
-- England check on Palmer - what are Tuchel's other big choices?
-- Premier League predictions & Jones Knows' best bets: Nottingham Forest vs Man City, Man Utd vs Aston Villa and more!
-- Japan FA’s Kozo Tashima to stand against Infantino for Fifa presidency
+- Newcastle's Dedic stopped by police after being spotted with bow and arrows
+- England squad: Cole Palmer, Phil Foden and Kobbie Mainoo left out as Jobe Bellingham and Josh King called up
+- Why football clubs are so much more than just football
+- Supporter Information: Hearts at Broadwood
+- Ranking college football's top 40 freshmen in 2026
+- How To Watch: Under-21s Take On Palace
+- Business United | Fairmont St Andrews
+- Conor Coady: Wolves legend retires as a player at the age of 33
+- FA Cup: Harborough Town sign 6ft 9ins striker Kyle Hudlin
+- Cristiano Ronaldo: Portugal coach Jorge Jesus 'knew nothing' about international retirement
+- Who am I? Plus today's other quizzes
+- 'Putting his doubters in their place' - Rooney lands pundit of year award
 
 **AS** (26)
-- Getafe - Brighton, en directo: UEFA Conference League, hoy en vivo
-- Celta - Union Saint-Gilloise, en directo: Europa League hoy en vivo
-- Oportunidad perdida
-- Adiós, De Miguel
-- Este Milan es una noria
-- Míchel arrasa por Europa
-- Resumen y goles del Crystal Palace vs Hoffenheim, jornada 4 de fase de grupos de la Europa League
-- El acuerdo con Nadal estaba cerrado desde antes del Clásico y solo lo conocían cuatro
-- B.Leverkusen-Marsella, en directo: Europa League, hoy en vivo
-- AZ Alkmaar-Juventus, en directo: Europa League, hoy en vivo
-- Nico Paz es la guinda
+- ¿En qué se ha convertido el fútbol?
+- De la Fuente llama a Valles, Jacobo, Marc Roca, Barrios y ‘Barrene’
+- De la Fuente: “Era momento de ver a Jacobo”
+- ¿Qué te parece la lista de De la Fuente?
+- Rueda de prensa de Mourinho, en directo: declaraciones previas al Valencia-Real Madrid de Liga, en vivo
+- Locura por el fichaje de Nadal
+- Morientes deja perplejo a Casillas con esta anécdota de un jugador del Madrid que se inventó una lesión para no jugar
+- Veinte años de gloria y un final inesperado
 - Mercado de fichajes, en directo: rumores, altas y bajas de LaLiga, Premier, Serie A...
+- Valles: “Por fin ha llegado la recompensa”
+- Thiago, con la Sub-21
+- ”Lo que es un accidente desgraciado lo convertimos en un circo"
 
 **Mundo Deportivo** (40)
-- El mejor promedio goleador en cien años
-- El parte médico que actualiza Matarazzo: sóleo, un fuerte golpe y hasta coronavirus
-- Conversación Ancelotti-Raphinha por la gestión física con Brasil
-- Óskarsson: "Quiero marcar más goles, fallo muchas ocasiones"
-- Casadó quiere seguir los pasos de Aubameyang
-- Vozinha acaricia un título a los 40 años: "Vine para jugar la Libertadores"
-- Vozinha acaricia un título a los 40 años: "Vine para jugar la Libertadores"
-- Getafe - Brighton, en directo
-- Matarazzo: "Europa exige más, claro, nos faltó ser más afilados, finos, precisos"
-- Sarr gobernó y lo ganó todo hasta que el sóleo dijo basta
-- Un jugador del Newcastle 'cazado' por llevar un arco y flechas en un paraje natural
-- 1-6: Goleada del Ajax de Míchel y Ter Stegen
+- "Hablaremos con Olise a su debido momento"
+- Ya hay árbitro para el Valencia-Real Madrid
+- Hugo Sotelo y su vuelta a Vigo: "Es una semana especial para mí"
+- Klopp confirma a Ter Stegen como su número uno
+- Terzic recurre a De Marcos para descifrar a Osasuna
+- El martillo del Barça contra el muro del Atlético
+- Esta es la convocatoria del Real Madrid para Valencia
+- Aguirre: "Mbappé tiene un uno contra uno indefendible, pero somos once"
+- España ya tiene calendario para defender su corona en la Nations League
+- Jorge Jesus, sobre el adiós de Cristiano: "No me siento culpable de nada"
+- Arrasate: "Necesitamos nuestra mejor versión en El Sadar"
+- "Hemos necesitado de una reunión para saber que el fútbol enseguida te da otra oportunidad"
 
 **Google News ES** (40)
-- Récord mundial de tarjetas rojas: 51 expulsados en un partido de fútbol en Brasil
-- Rafael Louzán, con una delegación de la Asociación de Fútbol de Ucrania
-- Habrá fútbol este fin de semana: LaLiga mantiene la jornada con homenajes a Jesús de Miguel
-- "Queríamos los tres, pero sumamos"
-- Cómo ver fútbol barato en España: dónde ver LALIGA, LALIGA HYPERMOTION, Primera RFEF, Liga Prime Futsal, Liga F y más
-- Las principales competiciones de fútbol homenajearán a Jesús de Miguel este fin de semana
-- El fútbol español parará en el minuto 9 en homenaje a Jesús de Miguel
-- Todo el fútbol español parará este fin de semana en el minuto 9 en homenaje a Jesús de Miguel
-- El fútbol español parará en el minuto 9 en memoria de Jesús de Miguel
-- El fútbol español despide al delantero Jesús de Miguel con un duelo unánime en Navahermosa
-- El mundo del fútbol despide a Jesús de Miguel en Navahermosa
-- No, el portero Jesús Owono del Andorra Fútbol Club no ha publicado estos comunicados en sus redes sociales tras la muerte de Jesús de Miguel
+- El III Torneo de fútbol solidario DiscapRayo se celebrará el sábado 14 de noviembre
+- “Un partido especial”
+- Mourinho: "¿Vinicius? Nunca voy a perjudicar al equipo para beneficiar a un jugador"
+- Iñigo Pérez: "Hay que seguir y el fútbol nos da otra oportunidad"
+- RDP Prepartido J13 Sergio Francisco | Burgos Club de Fútbol
+- Valdebebas y la Ciudad del Fútbol de las Rozas, sedes de los entrenamientos de Falcons y Bengals
+- El Ayuntamiento de Santander alberga la Copa del Mundo de Fútbol 2026
+- El fútbol se vuelca con la familia de Jesús de Miguel: una recaudación de 100.000 euros con muchos conocidos entre los donantes
+- El fútbol regional rendirá homenaje a Jesús de Miguel
+- Fútbol: Japón - Nigeria, en directo | Mundial sub-17 (F)
+- El Ayuntamiento de Santander ya muestra la Copa del Mundo de Fútbol 2026
+- ¿Quién es Luis Bestard Servera? Árbitro del Sevilla vs Alavés de la jornada 12 de LALIGA
 
 **Gazzetta** (0)
 
 **Football Italia** (20)
-- Sarri: ‘Atalanta conceded a stupid goal, but with 14 players out, we take the point’
-- Europa League Liveblog: Milan-Ferencvaros, AZ Alkmaar-Juventus, Atalanta-Kairat
-- Amorim: ‘No explanation for Milan performance, we are not ready to play’
-- Spalletti: ‘Juventus must build on positive signs, otherwise back to square one’
-- UECL | Atalanta 1-1 Kairat Almaty: Dea crisis drags on with meagre point
-- UEL | Milan 0-2 Ferencvaros: Dismal Rossoneri risk quick Europa exit
-- Italy confirm Cassano and Lontani will not earn debuts in November despite first call-ups
-- Official: Latest Italy U21 squad includes Inacio, Mane, Lulli and Bartesaghi
-- Mancini names 17-year-old Cassano in latest Italy squad before first club appearance
-- Europa League line-ups: AZ Alkmaar vs. Juventus
-- Official: Mancini names 31-man Italy squad for France and Belgium
-- Football Italia Show: Allegri’s downfall, De Bruyne insulted, Nico Paz to replace Bellingham?
+- How Juventus are planning to return to greatness with Carnevali
+- Fabregas reacts to Como’s historic 9-1 Champions League victory: ‘Once in a lifetime’
+- First Portugal call-up for Monza’s Varela alongside Mora, Ramos and Tavares
+- De Bruyne, Moreira and Keita among Serie A stars in Belgium squad to face Italy
+- What furious Spalletti shouted at Cabal during nervy Juventus end to 2-1 AZ victory
+- Official: Gattuso crowned Serie A coach of the month for October 2026
+- De Laurentiis arrives for Napoli crisis talks as Allegri faces growing scrutiny
+- Como talent Ramon included in Spain national team squad for the first time
+- Spence included in England squad for the first time since €35m Inter transfer
+- Four players earn first call-ups in latest Italy squad: Everything you need to know
+- The Ins and Outs of Mancini’s latest Italy squad: 11 dropped, 8 new additions
+- Extra Champions League Spot: Still a long-shot for Italy despite improved ranking
 
 **Kicker** (20)
-- LIVE! OM kommt näher: Kondogbias Distanz-Hammer fliegt nur knapp vorbei
-- Kramaric ärgert sich: "Sowas passiert uns nicht nur heute"
-- Wehrle erhält Wirtschaftsmedaille des Landes Baden-Württemberg
-- Rüdiger erhält Nationalelf-Epilog in Berlin
-- Ausgleich in Unterzahl: Kamada entreißt Hoffenheim den Sieg in der Nachspielzeit
-- Sehnsucht nach Toren: Die Gründe für die Schalker Flaute
-- Hoeneß exklusiv: "Wir haben Atletico regelrecht vorgeführt"
-- Trauerfeier an Heimatort: De Miguel beigesetzt
-- Blessin zur Mohya-Nominierung: "Einfach eine tolle Geschichte"
-- Klose über Darmstadt: "Will nicht Angstgegner sagen, aber ..."
-- "Eine Größe Portugals": Versöhnliche Worte von Jesus über Ronaldo
-- Wer in England besonders über Kanes Unterschrift jubelte
+- Tuchel über Jobe Bellingham: "Hat seinen Weg bei Dortmund gefunden"
+- Augsburg II zieht gegen 1860 München um - Neue Termine für die Bayern-Amateure
+- "Normal, dass man nicht direkt reinrutscht": Wagners Personal-Update vor dem Duell mit Leverkusen
+- Der Beschützer: Warum sich mit Danks bei Bayern wenig änderte
+- "Sie waren jahrelang hinter mir her": Werner spricht über den Hass, der ihn getroffen hat
+- El Mala sprach mit Klopp auch über Bruder Malek
+- Kovac mit Loblied auf Bellingham: "Er ist ein kompletter Fußball-Freak"
+- BVB muss auf Guirassy verzichten
+- Mourinho: "Wünsche mir anderes Karriereende für CR7"
+- Danks: "Hatte einige sehr positive Telefonate mit Kompany"
+- Doch nicht heimatlos: Vorerst Entwarnung im Lotter Stadionstreit
+- Tuchel beruft erstmals Dortmunds Bellingham - Kane vor Rekord
 
 **L'Equipe** (40)
-- « On est arrivé à un point de non-retour » : climat délétère au district de Paris après l'enquête pour soupçons de harcèlement et d'agressio
-- La suspension de quatre mois ferme infligée à Olivier Létang « pose un précédent préoccupant pour le foot » selon le LOSC
-- Les notes de Real Sociedad-OL : Tessmann en tête de cortège, Abner dans la nasse
-- L'AC Milan tombe face à Ferencvaros, le Crystal Palace de Pierre Sage sauve les apparences face à Hoffenheim et Bournemouth enchaîne
-- La composition de l'OM sur la pelouse du Bayer Leverkusen en Ligue Europa : Paixao et Gouiri titulaires
-- Pour sa première sans Paulo Fonseca, l'OL accroche la Real Sociedad en Ligue Europa
-- De Lange, vraiment le meilleur ?
-- Où voir Monaco-Nordsjaelland ?
-- Où voir Leverkusen-OM ?
+- La Belgique avec Mika Godts, Kevin De Bruyne et Romelu Lukaku pour la Ligue des nations, Malick Fofana et Matias Fernandez-Pardo absents
+- Pays-Bas : Xavi peut compter sur le retour de cinq joueurs majeurs pour la Ligue des nations
+- L'entraîneur parisien Luis Enrique avant le match face à Troyes en Ligue 1 : « Villarreal et Lens, ce sont des accidents »
+- L'ouverture d'une nouvelle ère : la première liste du Portugal après la retraite internationale de Cristiano Ronaldo
+- « La façon dont il arrive à sortir sous pression, c'est choquant » : Djibril Coulibaly, admiratif de Hicham Boudaoui, raconte la concurrence
+- Jaïr Karam, entraîneur intérimaire du Havre avant le match contre Lorient : « Ça ne reste que du foot »
+- Toulouse « doit être fier » de la convocation de Rasmus Nicolaisen avec le Danemark
+- Thomas Tuchel : « Cole Palmer a manqué trop d'opportunités » pour s'imposer au sein de l'équipe d'Angleterre
 - Qu'attendre de la deuxième liste de Zidane ?
-- Italie : Roberto Mancini convoque 31 joueurs pour la Ligue des nations, première pour Alphadjo Cisse
-- Aulas après le départ Fonseca : « Déçu et très inquiet »
+- Nouvelle absence à gérer pour Zinédine Zidane : Maghnes Akliouche forfait pour le rassemblement des Bleus
+- Achraf Hakimi mis au repos par le PSG contre Troyes samedi en Ligue 1 avant la fenêtre internationale
+- Amedspor, la sensation qui fait la fierté des Kurdes
 
 **Foot Mercato** (40)
-- « J’ai été déçu » : Corentin Tolisso sort du silence après le départ choc de Paulo Fonseca
-- L’OL a bouclé l’arrivée du successeur de Paulo Fonseca
-- Équipe de France : deux possibles surprises en défense dans la liste de Zidane
-- Bayern Munich : le président fait une annonce sur l’avenir de Michael Olise
-- Villarreal : Georges Mikautadze est encore sous le choc après la débâcle face au PSG
-- Ligue Europa : l’OL arrache le nul sur la pelouse de la Real Sociedad, l’AC Milan chute face à Ferencváros
-- C’est le feu à Naples !
-- Chelsea : Mamadou Sarr dévoile les coulisses de sa mise à l’écart
-- Le LOSC monte au créneau après la lourde sanction infligée à Olivier Létang
-- Bayer Leverkusen-Olympique de Marseille : les compositions officielles
-- L’ancien marseillais Amar Dedic arrêté par la police avec un arc et des flèches !
-- AS Monaco - Nordsjaelland : les compositions officielles
+- Saïmon Bouabré forfait avec les Espoirs
+- Coupe du Monde 2030 : un candidat espagnol menace la FIFA au sujet du Maroc
+- Real Madrid : le groupe convoqué pour le déplacement à Valence
+- Retraite internationale de Cristiano Ronaldo : la réponse ferme de Jorge Jesus face aux accusations
+- Le PSG établit 12 records dans le Guiness Book
+- Affaire Hamraoui : Aminata Diallo renvoyée devant la justice
+- Angleterre : Thomas Tuchel justifie la mise à l’écart de Cole Palmer
+- Franck Haise révèle avoir refusé trois clubs de Premier League à cause de son niveau d’anglais
+- Real Madrid : Vinicius Jr absent pour un voyage à Dubaï
+- PSG : Luis Enrique explique pourquoi Fabian Ruiz est devenu indispensable
+- Portugal : Bernardo Silva succède officiellement à Cristiano Ronaldo comme capitaine
+- Luis Enrique vole au secours du RC Lens
 
 **Record** (20)
-- <![CDATA[ Dedic causa o pânico em Inglaterra: é apanhado com arco e flecha e abordado... por seis carros da polícia ]]>
-- <![CDATA[ Ruben Amorim após nova derrota na Europa: «Não consigo dizer nada para defender a equipa» ]]>
-- <![CDATA[ Torreense-Ararat, em direto ]]>
-- <![CDATA[ Nacional faz amanhã primeiro treino no Centro Desportivo da Madeira ]]>
-- <![CDATA[ Benfica-Lech Poznan, 1-0 (2.ª parte) ]]>
-- <![CDATA[ Cristiano Ronaldo diz adeus à Seleção: a decisão com o coração, a responsabilidade de Jorge Jesus e Proença como o "grande derrota
-- <![CDATA[ Franclim Carvalho e o empate com o Aarhus: «Finalização foi chave» ]]>
-- <![CDATA[ A crónica do Aarhus-Sp. Braga, 0-0: aqueles Aarhus não lhes fazem bem... ]]>
-- <![CDATA[ Pedro Proença e Jorge Jesus na tribuna da Luz a assistir ao Benfica-Lech Poznan ]]>
-- <![CDATA[ Leverton Pierre dá novo equilíbrio ao meio-campo da Académica ]]>
-- <![CDATA[ Rayan marca golaço na reviravolta do Bournemouth em Praga e celebra à Cristiano Ronaldo ]]>
-- <![CDATA[ Rafa marca após 'brinde' do guarda-redes: foi com este golo que o Benfica se apanhou a vencer o Lech Poznan ]]>
+- <![CDATA[ Benfica acaba com equipa Sub-23 no final da temporada ]]>
+- <![CDATA[ Paulo Fonseca e o que o Sporting tem de mudar: «Gostava muito de responder mas não posso...» ]]>
+- <![CDATA[ FC Porto revela reação de Alberto Costa à primeira convocatória para a Seleção Nacional ]]>
+- <![CDATA[ Paulo Fonseca: «Vou tentar abster-me de comentar o trabalho dos árbitros» ]]>
+- <![CDATA[ Pergunte o que quiser sobre mais uma jornada da Liga Record: participe no fórum ]]>
+- <![CDATA[ Paulo Fonseca e a luta pelo título: «Se eu não acreditasse não estava aqui» ]]>
+- <![CDATA[ Críticas à arbitragem do jogo com o PSG valem pesada suspensão ao presidente do Lille ]]>
+- <![CDATA[ Maxi Araújo, Rodrigo Zalazar e Arruabarrena na lista de 28 convocados do Uruguai ]]>
+- <![CDATA[ Novas ameaças de bomba na Europa: alertas em voos e em edifícios de meios de comunicação em vários países ]]>
+- <![CDATA[ Vasco Botelho da Costa: «Não é por jogarmos em Alvalade que vamos deixar de ter ambição» ]]>
+- <![CDATA[ Paulo Fonseca: olhos no título, o que andam Farioli e Marco Silva a fazer, a surpresa no Sporting e jogo para CR7 em Alvalade ]]>
+- <![CDATA[ Luís Pinto sobre Cristiano Ronaldo: «Como português, gostava que a despedida fosse diferente» ]]>
 
 **Ole** (10)
-- Chiqui Tapia: "La competitivad del fútbol argentino", cómo será la premiación para el campeón de Liga y su respuesta a las críticas del año 
-- Argentina ganó en ambas ramas y avanzó a las semis del Mundial de pádel
-- Luciano Cingolani, mano a mano con Olé: el histórico ascenso con Gimnasia, la previa del clásico mendocino y su particular hobby
-- Los Pumas vs. Irlanda por el Nations Championship: cuándo juegan y por dónde verlo
-- Gimnasia vs. Belgrano, por el Torneo Clausura, hoy EN VIVO: ¡se viene el partido!
-- Confirmado: durísima sanción a Montiel por su expulsión en el superclásico y River apelará
-- Los técnicos antes de la definición del sábado: la tremenda importancia de ser campeón
-- F1: cuándo corre Franco Colapinto en el Gran Premio de Brasil, los horarios y dónde ver la carrera
-- Ponzio: "Nunca nos podemos bajar de poder llevarnos un campeonato"
-- Video: la particular visita del papá de Colapinto en la previa del GP de Brasil
+- El plan de Ponzio para blindar a River antes de los playoffs
+- Los hermanos que, por primera vez, jugarán juntos en la selección de Inglaterra
+- La trastienda de la sanción a Montiel: fallo dividido en el Tribunal y el guiño a River para bajarla a dos fechas
+- Boca vs. Defensa y Justicia, por el Torneo Clausura 2026: horario, formaciones, TV y árbitro
+- El compañero inseparable de Colapinto y el sticker que dice más que mil palabras
+- Video: pagó miles de dólares por una entrada de NBA y Doncic hizo que lo echen por cómo le tiró la pelota a una árbitra
+- Jorge Jesús rompió el silencio tras el retiro de Cristiano Ronaldo: "Yo lo iba a convocar"
+- La fuerte autocrítica de Andrada: "El hincha tiene razón" y su llamativa respuesta sobre la clave del triunfo de River
+- Argentinos Juniors vs. Huracán, por el Torneo Clausura 2026: posibles formaciones, hora y TV
+- El notición que recibió Arruabarrena antes de la definición de la Tabla Anual
 
 **Infobae** (40)
-- Gonzalo Montiel fue sancionado con tres partidos por su expulsión en el Superclásico entre River y Boca: los motivos
-- 11 frases de Ponzio tras la victoria de River: los argumentos para pelear el Clausura, el gesto de Almada y el mensaje a los hinchas
-- Jugó para la Argentina, lo sigue de cerca Brasil y el Santos de Neymar lo blindó en más de USD 100 millones: “Cumplí un sueño”
-- El video exclusivo de las obras en el Autódromo de Buenos Aires: los dos detalles clave para encaminar la vuelta de la Fórmula 1
-- El conmovedor gesto del padre de Franco Colapinto en la previa del GP de Brasil: bendijo su casco en la Basílica de Luján
-- River Plate volvió al triunfo en el cierre de la fase regular del Torneo Clausura: venció 2-0 a Aldosivi en Mar del Plata
-- La lupa en las dos polémicas que decidieron la victoria de River Plate: del gol anulado a Aldosivi al penal que convirtió Lucas Beltrán
-- River se aseguró el boleto a la Sudamericana 2027: qué necesita para jugar la Libertadores
-- Cómo impactó la crisis financiera en Paraguay en la vida familiar de Tim Payne: los posteos de su esposa
-- La contundente sentencia de Colapinto cuando le preguntaron qué cambiaría de la F1: “Es muy difícil de entender”
-- "No estoy de muy buen humor": la sorpresa que arruinó el primer día de Pierre Gasly en el Gran Premio de Brasil
-- Medvedev recibió un “warning”, amenazó con irse de la cancha y lanzó una frase alarmante: “No tengo más ganas de jugar este año”
+- Es uno de los mejores pilotos del año en la Fórmula 1, pero su futuro está en duda y confesó su desesperación: “No sé qué más quieren que ha
+- Franco Colapinto comenzará su actividad en el Gran Premio de Brasil de Fórmula 1: horarios y todo lo que hay que saber
+- Independiente, San Lorenzo, Platense y Unión buscan su lugar en los playoffs del Torneo Clausura: todo lo que hay que saber
+- La respuesta del Vasco Arruabarrena cuando le consultaron por una posible incentivación económica en la definición del campeonato
+- El Mercedes-Maybach personalizado de LeBron James podría venderse por hasta USD 550.000 en una subasta benéfica
+- Sarmiento visita a Tigre en un duelo clave para asegurar la clasificación a los octavos del Torneo Clausura: hora, TV y formaciones
+- Racing visitará a Barracas Central por la última fecha del Torneo Clausura: hora, TV y formaciones
+- Los Pumas enfrentarán a Irlanda por el Nations Championship: hora, TV y formaciones
+- Un golpe en el área, una camilla y un silencio compartido: la tragedia de John Thomson y su similitud con la muerte de Jesús de Miguel
+- Las pistas que indican quién será el heredero de la 10 de Lionel Messi en la selección argentina
+- Roy Makaay, a fondo: de su relación con Demichelis a la historia secreta de Scaloni para convencer a una figura de la Selección
+- Giro inesperado en el futuro de Mauro Icardi tras el portazo del Inter: otro gigante europeo lo tiene en carpeta
 
 **Google News AR** (40)
-- Conferencia con los aspirantes a Campeón de Liga
-- La crisis de Ueno Bank sacude al fútbol de Paraguay: jugadores de la selección y clubes afectados
-- El fútbol femenino abrirá la programación de la Fiesta Nacional de la Pelota
-- Córdoba y Austria, unidas por la memoria del fútbol mundial
-- Informe del Tribunal de Penas de la Liga Veinticinqueña de Fútbol
-- Chiqui Tapia: "La competitivad del fútbol argentino", cómo será la premiación para el campeón de Liga y su respuesta a las críticas del año 
-- Reunión en Pilar por los 100 años de la Liga Rionegrina de Fútbol
-- El cierre de Ueno Bank sacude al fútbol paraguayo y pone bajo la lupa las inversiones de la Conmebol
-- Fútbol libre de riesgo, EN VIVO: dónde ver River vs. Aldosivi, por TV y ONLINE
-- El último adiós a Jesús de Miguel: el funeral del futbolista del Tenerife reunió a familiares, compañeros y figuras del fútbol español
-- Duro cruce en Perú: "Mi trabajo es que usted vea el fútbol con los ojos abiertos"
-- Se viene la Futcon, el festival que une al fútbol con la creatividad, el arte, la música y el diseño
+- Fue vicepresidente de la Nación, preside un club de fútbol y a los 65 años se dio el gusto de jugar un partido oficial y marcar un gol
+- El VAR en el fútbol argentino: Barracas, el más beneficiado, la diferencia entre Boca y River y los árbitros más corregidos
+- Hizo un gol para ser campeón del fútbol argentino, la rompió en el Sub-20 pero hoy está en la Segunda de España
+- Cosmos puso en marcha una nueva fiesta del fútbol infantil
+- Entre la inclusión y la práctica desinteresada por el resultado: el fenómeno del fútbol mixto
+- Los rayos X del VAR en el fútbol argentino: quién es el más beneficiado, el caso Barracas y la diferencia entre Boca y River
+- La Asociación del Fútbol Argentino inauguró en Tandil una oficina institucional
+- Fútbol sancarlino: se juega la fecha 6 y hay pelea por las primeras posiciones
+- Javier Aguirre: "José Mourinho es un grande del fútbol, ha hecho historia y merece mis respetos"
+- Tandil fue designada por la AFA como sede de una nueva oficina institucional en el territorio nacional
+- La Liga Chivilcoyana de Fútbol endurece las sanciones ante la creciente violencia en el fútbol infantil
+- Fútbol en vivo transformado por datos en tiempo real
 
 **ge.globo** (40)
-- Monaco x Nordsjaelland - Liga Conferência 2026/27 - Ao vivo - globoesporte.com
-- Viveros, do Athletico, é denunciado no STJD por agressão e pode ficar de fora do resto do Brasileiro
-- Evanílson marca pelo terceiro jogo seguido e dá assistência para Rayan; veja lances
-- Rayan marca e homenageia Cristiano Ronaldo em vitória do Bournemouth na Liga Europa; veja
-- Títulos, dramas e recordes: veja momentos históricos de Cristiano Ronaldo na seleção portuguesa
-- “Saio com dever cumprido”: Sergio Tanaka encerra ciclo no União depois de eliminação para o Cuiabá na Copa FMF
-- Duplo Casaca: torcida do Vasco aproveita divisão no setor visitante e faz festa em dose dupla na Arena da Baixada
-- "Bicho" do próprio bolso e sem receber salários: Felipe Vizeu aciona o Avaí na Justiça
-- Convocado para a seleção sub-20, Riquelme volta a ser relacionado no Fluminense
-- Adriana Silva é eleita melhor jogadora de outubro da Liga Saudita Feminina
-- Artilharia da Champions por país: Noruega sobe para o 4º lugar; Brasil faz mais gols, mas segue em 7º
-- Câmara do Rio convoca audiência pública sobre a venda de potencial construtivo da sede do Fluminense
+- VC Escala: monte o Vasco ideal para a semifinal contra o Palmeiras
+- "Jogo brusco grave": vídeo mostra análise do VAR em expulsão de Yuri Alberto em São Paulo x Corinthians
+- Planejamento da Venezuela deve tirar Ferraresi de Corinthians x Botafogo; entenda
+- Gol tiki-taka do Grêmio no Atlético-MG vira exemplo para palestras de técnico; veja o lance
+- Fluminense perdeu quase 70% dos pontos contra o Vitória nas últimas edições de Brasileirão; veja retrospecto
+- Prefeito anuncia Itaquaquecetuba como sede da Copinha de 2027
+- Destaque do futsal não joga na volta ao Corinthians, e técnico explica: "Imbróglio jurídico"
+- Chapecoense inicia reformulação no elenco e anuncia a saída do volante Bruno Matias
+- Contra melhor ataque da Copa do Brasil, Pedro Emanuel tem desafios e pontos de atenção na defesa do Vasco
+- Fim de ciclo: Barra segue com apenas cinco atletas do elenco campeão catarinense
+- Portugal anuncia primeira convocação após a aposentadoria de Cristiano Ronaldo
+- Uruguai divulga lista de convocados com cinco jogadores que atuam no Brasil
 
 **r/soccer (top día)** (25)
-- Cristiano Ronaldo's message to announce his international retirement.
-- Lens 1-[9] Como - Matteo Papaccioli 90+1'
-- Como is the 1st team in UEFA Champions League history which scores 9 goals in an away game. Eight teams shared the record which was just 7 a
-- Nico Paz celebrating his goal with a tribute to Jesús Miguel
-- [Ornstein] Harry Kane signs new Bayern Munich deal to become highest-paid player in Europe
-- At the 34th minute of Dortmund's game vs Betis, Karetsas was called to replace the injured Guirassy but there was 1 problem: he had just dec
-- Paranaense's player got red carded for giving free vasectomy.
-- Rodrigo De Paul condemned the attack on transgender women in Palermo and shared messages to raise awareness
-- Rosenior on his time at Chelsea "In a country where tolerance is important, what happened there has nothing to do with football. The clothes
-- Matteo Politano after Napoli lose against Porto 4-1: "I'd like some other teammate to come over every now and then to talk, to put their fac
-- Exclusive: Manchester United make contact with Didier Deschamps for head coach
 - Cristiano Ronaldo rejects Portugal farewell match
+- Rodrigo De Paul condemned the attack on transgender women in Palermo and shared messages to raise awareness
+- Man Utd to receive the minimum training compensation from Real Madrid for J. J. Gabriel. (Around £300,000). The player will join Castilla bu
+- Fans of Valenciennes, currently 15th in France's 3rd tier, played circus music mid-match to show their dissatisfaction
+- PA system mishap during moment of silence before Getafe vs. Brighton kickoff
+- North Carolina goalkeeper Peyton Trayer boots the ball directly into the head of Louisville's McKalie Ball, and it deflects into the net to 
+- [Hope] Newcastle's Amar Dedic sparks six-car police swoop after being spotted with a bow and arrows in Northumberland beauty spot before wea
+- Didier Deschamps has little to no interest in replacing Michael Carrick at Manchester United.
+- Amorim: “Being worried only about the big games is the mentality of a small team. Every game is a big game...Tomorrow against Ferencváros wi
+- Torreense [3]-2 Ararat Armenia - Musa Drammeh 90+5'
+- [Ornstein] Cole Palmer left out of England squad for November Nations League games
+- Premier League October 2026 Save of the Month Nominees
 
 Fallaron: ESPN (ParseError), Goal (HTTPError), Independent (ParseError), Football365 (HTTPError), Marca (HTTPError), Sport (HTTPError), Calciomercato (HTTPError), TN (HTTPError)

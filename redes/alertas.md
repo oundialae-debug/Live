@@ -1,28 +1,28 @@
-# Alertas de noticias (2026-11-05 21:32 UTC)
+# Alertas de noticias (2026-11-06 14:31 UTC)
 
 Temas en >= 7 medios. La rutina diaria y cualquier sesión deben mirar esto ANTES de elegir tema (regla 6: la noticia que todos comentan va primero).
 
 ## Grandes SIN publicar en las últimas 48 h (hacer post si pasa el listón: nada repetido, foto del momento)
 
-- **Cristiano** (16 medios): Cristiano Ronaldo merely the latest example of a great player who couldn’t let go
-- **Ronaldo** (15 medios): A bitter end for Ronaldo - the icon who transformed Portugal
-- **Europa** (14 medios): Sunderland v Dinamo Zagreb, Celtic v Besiktas: Europa League – live
-- **Portugal** (13 medios): A bitter end for Ronaldo - the icon who transformed Portugal
-- **Miguel** (12 medios): 'A void that is impossible to fill' - tributes paid at De Miguel funeral
-- **Kane** (10 medios): What new Kane deal means for England and the Premier League record
-- **Liverpool** (10 medios): Liverpool crumble at Kuyt's Fenerbahce
-- **England** (9 medios): England check on Palmer - what are Tuchel's other big choices?
-- **Jesus** (9 medios): Cristiano Ronaldo to be blocked from emotional Portugal farewell as he blindsides Jorge Jesus
-- **Arsenal** (8 medios): Arsenal survive late Slavia scare for hard-fought win
-- **Milan** (8 medios): Spence stars as Inter Milan cruise to win at Feyenoord
-- **Harry** (8 medios): Ballon d’Or winner Harry Kane signs new contract with Bayern through to 2029
-- **Jesús** (8 medios): Goalkeeper Jesús Owono experiencing ‘hardest days of my life’ after De Miguel’s death
-- **Como** (7 medios): Como score nine to make Champions League history
-- **Owono** (7 medios): Owono left out of Eq Guinea squad after death of De Miguel
+- **Ronaldo** (14 medios): Portugal coach 'knew nothing' about Ronaldo retiring
+- **Cristiano** (14 medios): Cristiano Ronaldo merely the latest example of a great player who couldn’t let go
+- **Tuchel** (13 medios): Palmer misses too many chances to impress - Tuchel
+- **Portugal** (13 medios): Portugal coach 'knew nothing' about Ronaldo retiring
+- **Bellingham** (12 medios): 'Incredible achievement for the family' as Bellingham brothers called up
+- **England** (12 medios): Wolves legend and ex-England defender Coady retires
+- **Madrid** (11 medios): 'I'm in Lamine Yamal's locker' NFL players startruck in Madrid
+- **Palmer** (10 medios): Palmer misses too many chances to impress - Tuchel
+- **Villa** (10 medios): Emery close to agreeing new Aston Villa contract
+- **Mourinho** (10 medios): Mourinho&#39;s squad for Valencia-Real Madrid: Arda Guler returns
+- **Jobe** (9 medios): Jobe Bellingham ‘deserves’ England call; Kompany on track for ‘full recovery’; Coady retires: football news –
+- **Thomas** (8 medios): Thomas Tuchel reveals Premier League star was overtaken by Jobe Bellingham
+- **Miguel** (7 medios): 'A void that is impossible to fill' - tributes paid at De Miguel funeral
+- **Aston** (7 medios): Emery close to agreeing new Aston Villa contract
+- **Jesús** (7 medios): ‘In moments of pain, football comes together’: Spain says goodbye to Jesús de Miguel
+- **Liverpool** (7 medios): Fenerbahce thwart Liverpool and Arsenal pushed in Prague
+- **Cole** (7 medios): Jobe Bellingham handed surprise England call-up along with uncapped Premier League star as Cole Palmer left ou
+- **Jesus** (7 medios): Cristiano Ronaldo to be blocked from emotional Portugal farewell as he blindsides Jorge Jesus
 
 ## Grandes ya cubiertas
 
-- Bayern (10): Bayern continue unbeaten CL start with win at Atletico
-- Munich (8): Tottenham can still re-sign Harry Kane despite massive new Bayern Munich deal
-- Man (7): Haaland scores winner as Man City beat Leipzig
-- Madrid (7): Real Madrid reach verbal agreement to sign Gabriel
+- Man (9): Has Anderson lived up to the hype after Man City move?
