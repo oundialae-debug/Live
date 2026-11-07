@@ -9,5 +9,8 @@
  "musica": "hh02",
  "variante": "seg=5.0;arranque=s1;hook=pregunta;musica=hh02;formato=auto_noticia;hora=23",
  "notas": "noticia automática (IA + reglas): Sky Sports: 'I'm in Lamine Yamal's locker' NFL players startruck in Madrid; FourFourTwo: Aston Villa rocked by Real Madrid interest in new signing: report",
- "titulo": "Real Madrid squad for Valencia – who’s in?"
+ "titulo": "Real Madrid squad for Valencia – who’s in?",
+ "estado": "enviado",
+ "buffer_id": "6aefa2fd51492b796e02799e",
+ "dueAt": "2026-11-07T22:18:24+00:00"
 }
