@@ -801,3 +801,12 @@
 - AS: Nadal: “Acepto la propuesta con mucha ilusión y ganas de aportar todo lo que pueda”
 - Mundo Deportivo: Rafa Nadal, nuevo miembro de la Junta Directiva del Real Madrid
 
+## 07/11 23:14 · Forest vs City preview · revisar
+- Motivo: datos que no salen en los titulares: Check
+- Temas: Nottingham, Forest
+- Guardian: Nottingham Forest’s historic goal drought at home is part of longstanding problem
+- Yahoo: Rennes coach Franck Haise reveals surprising reason for turning down Everton, Brighton and Nottingham Forest
+- ge.globo: Nottingham Forest x Manchester City na Premier League: onde assistir ao vivo e horário
+- Yahoo: Man City Starting XI vs Nottingham Forest: Confirmed Team News and Predicted Lineup
+- Google News EN: STAR FOOTBALL PREVIEW Sat: Nottingham Forest v Man City
+
