@@ -1,30 +1,29 @@
-# Alertas de noticias (2026-11-07 18:14 UTC)
+# Alertas de noticias (2026-11-07 22:13 UTC)
 
 Temas en >= 7 medios. La rutina diaria y cualquier sesión deben mirar esto ANTES de elegir tema (regla 6: la noticia que todos comentan va primero).
 
 ## Grandes SIN publicar en las últimas 48 h (hacer post si pasa el listón: nada repetido, foto del momento)
 
-- **Arsenal** (15 medios): Goal caps eye-catching Odegaard display - player ratings for Arsenal v Hull
-- **Leeds** (14 medios): Okafor the difference despite Van Hecke defiance - Leeds v Spurs ratings
-- **Tottenham** (13 medios): Tottenham set to complain to Pro Ref - but should Bogle have seen red?
-- **Hull** (13 medios): Goal caps eye-catching Odegaard display - player ratings for Arsenal v Hull
-- **Manchester** (12 medios): Nottingham Forest v Manchester City: Premier League – live
-- **Madrid** (11 medios): Real Madrid and PSG keen on Suzuki - Saturday's gossip
-- **Nottingham** (11 medios): Nottingham Forest v Manchester City: Premier League – live
-- **Forest** (11 medios): Nottingham Forest v Manchester City: Premier League – live
-- **Bayern** (11 medios): European football: Bayern beat Mainz but Neuer’s record-breaking day turns sour
-- **Everton** (10 medios): Barry scores twice as Everton fight back to beat Coventry
-- **Man** (9 medios): I left Man City for my mental wellbeing - Trafford
-- **Coventry** (9 medios): Barry scores twice as Everton fight back to beat Coventry
-- **Newcastle** (9 medios): Muniz rescues late point for Fulham against Newcastle after Murphy stunner
-- **Spurs** (8 medios): Okafor the difference despite Van Hecke defiance - Leeds v Spurs ratings
-- **Tuchel** (8 medios): Is Palmer's England career over under Tuchel?
-- **Fulham** (8 medios): Muniz rescues late point for Fulham against Newcastle after Murphy stunner
-- **Villa** (8 medios): Jamie Carragher doubles down on Aston Villa claim that drew legal threat despite apology
-- **Odegaard** (7 medios): Goal caps eye-catching Odegaard display - player ratings for Arsenal v Hull
-- **Ronaldo** (7 medios): He had the world at his feet when he signed for Real Madrid at 13, mixing with Zidane and Ronaldo. Now Jack Ha
-- **FIFA** (7 medios): La FIFA mantiene los diez partidos de sanción a Paredes
+- **Arsenal** (15 medios): Arsenal beat Hull to extend lead at top of the table
+- **Madrid** (14 medios): 'I want to win the Ballon d'Or': JJ Gabriel sets out his lofty ambitions as Man United wonderkid, 16, closes i
+- **Forest** (12 medios): Delap double inspires Forest to stunning win over Man City
+- **Manchester** (12 medios): Delap’s Nottingham Forest stunners hand Manchester City third league defeat in a row
+- **Man** (11 medios): Delap double inspires Forest to stunning win over Man City
+- **Hull** (11 medios): Arsenal beat Hull to extend lead at top of the table
+- **Nottingham** (11 medios): Delap’s Nottingham Forest stunners hand Manchester City third league defeat in a row
+- **Delap** (10 medios): Delap double inspires Forest to stunning win over Man City
+- **Leeds** (10 medios): Leeds beat Spurs to end five-game winless run
+- **Tottenham** (10 medios): Tottenham set to complain to Pro Ref after Bogle escapes red card
+- **Miguel** (9 medios): Jesus de Miguel: Tenerife to support star's one-year-old daughter after tragic death
+- **Everton** (8 medios): Barry scores twice as Everton fight back to beat Coventry
+- **Villa** (8 medios): There are very few reasons for Unai Emery to leave Aston Villa for Manchester United
+- **Valencia** (8 medios): 🇪🇸 Real Madrid continue winning streak with victory over 10-man Valencia
+- **Newcastle** (7 medios): Muniz strike denies Newcastle and Jaissle much-needed win
+- **Odegaard** (7 medios): Another 1-0 for relentless Arsenal - but did Odegaard spare VAR blushes?
+- **Aston** (7 medios): There are very few reasons for Unai Emery to leave Aston Villa for Manchester United
+- **Bayern** (7 medios): European football: Bayern beat Mainz but Neuer’s record-breaking day turns sour
+- **Brasil** (7 medios): 📋 Atlético and Grêmio line-ups in for first Copa do Brasil final spot
 
 ## Grandes ya cubiertas
 
-- England (7): England 'disappointment' fuels Dewsbury-Hall's Everton heroics
+- (ninguna)

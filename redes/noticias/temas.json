@@ -1,9 +1,9 @@
 {
- "generado": "2026-11-07T18:14+00:00",
+ "generado": "2026-11-07T22:13+00:00",
  "temas": [
   {
    "tema": "Madrid",
-   "medios": 15,
+   "medios": 16,
    "lista_medios": [
     "AS",
     "BBC",
@@ -13,6 +13,7 @@
     "Google News AR",
     "Google News EN",
     "Google News ES",
+    "Kicker",
     "L'Equipe",
     "Mirror",
     "Mundo Deportivo",
@@ -61,12 +62,6 @@
     },
     {
      "medio": "AS",
-     "titulo": "Rueda de prensa de Mourinho, en directo: declaraciones previas al Valencia-Real Madrid de Liga, en vivo",
-     "url": "https://as.com/futbol/primera/rueda-de-prensa-de-mourinho-en-directo-declaraciones-previas-al-valencia-real-madrid-de-liga-en-vivo-f202611-d/",
-     "pub": "2026-11-06T09:45+00:00"
-    },
-    {
-     "medio": "AS",
      "titulo": "Morientes deja perplejo a Casillas con esta anécdota de un jugador del Madrid que se inventó una lesión para no jugar",
      "url": "https://as.com/futbol/videos/morientes-deja-perplejo-a-casillas-con-esta-anecdota-de-un-jugador-del-madrid-que-invento-una-lesion-para-no-jugar-f202611-v/",
      "pub": "2026-11-06T13:20+00:00"
@@ -94,6 +89,108 @@
      "titulo": "Real Madrid : le groupe convoqué pour le déplacement à Valence",
      "url": "https://www.footmercato.net/a7404512974788099023-real-madrid-le-groupe-convoque-pour-le-deplacement-a-valence",
      "pub": "2026-11-06T14:04+00:00"
+    },
+    {
+     "medio": "Foot Mercato",
+     "titulo": "Real Madrid : Vinicius Jr absent pour un voyage à Dubaï",
+     "url": "https://www.footmercato.net/a184805545439869480-real-madrid-vinicius-jr-absent-pour-un-voyage-a-dubai",
+     "pub": "2026-11-06T12:56+00:00"
+    }
+   ]
+  },
+  {
+   "tema": "Nottingham",
+   "medios": 15,
+   "lista_medios": [
+    "AS",
+    "Daily Mail",
+    "Foot Mercato",
+    "FourFourTwo",
+    "Google News EN",
+    "Google News ES",
+    "Guardian",
+    "Kicker",
+    "L'Equipe",
+    "Mirror",
+    "Mundo Deportivo",
+    "Ole",
+    "Record",
+    "Yahoo",
+    "ge.globo"
+   ],
+   "primera_vez": "2026-11-06T14:31+00:00",
+   "titulares": [
+    {
+     "medio": "Guardian",
+     "titulo": "Nottingham Forest’s historic goal drought at home is part of longstanding problem",
+     "url": "https://www.theguardian.com/football/2026/nov/06/nottingham-forest-no-goals-home-oliver-glasner",
+     "pub": "2026-11-06T10:49+00:00"
+    },
+    {
+     "medio": "Yahoo",
+     "titulo": "Rennes coach Franck Haise reveals surprising reason for turning down Everton, Brighton and Nottingham Forest",
+     "url": "https://sports.yahoo.com/articles/rennes-coach-franck-haise-reveals-125300438.html",
+     "pub": "2026-11-06T12:53+00:00"
+    },
+    {
+     "medio": "ge.globo",
+     "titulo": "Nottingham Forest x Manchester City na Premier League: onde assistir ao vivo e horário",
+     "url": "https://ge.globo.com/futebol/futebol-internacional/futebol-ingles/noticia/2026/11/06/nottingham-forest-x-manchester-city-na-premier-league-onde-assistir-ao-vivo-e-horario.ghtml",
+     "pub": "2026-11-06T16:30+00:00"
+    },
+    {
+     "medio": "Yahoo",
+     "titulo": "Man City Starting XI vs Nottingham Forest: Confirmed Team News and Predicted Lineup",
+     "url": "https://sports.yahoo.com/articles/man-city-starting-xi-vs-125000940.html",
+     "pub": "2026-11-07T12:50+00:00"
+    },
+    {
+     "medio": "Google News EN",
+     "titulo": "STAR FOOTBALL PREVIEW Sat: Nottingham Forest v Man City",
+     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNR1YxT0tSWS1fQTBIZHNiWXltRmUxbTFkVVAtNUFRZjkyRFVWc2k4N2drSnFzODl1VzlXY1Q2dkR1NXc5WG02ZGZ2UlpCM1RFUGo3eTRCX0xrNGl1MGV0cjlmckd2RzJPbWZycXF5ZldneFVkMWZ3VldTeHBWZ1JGZnVDYW9YWVkwQzF1eURJNEY?oc=5",
+     "pub": "2026-11-07T10:23+00:00"
+    },
+    {
+     "medio": "Google News ES",
+     "titulo": "Nottingham Forest vs Manchester City: horario y dónde ver hoy por TV y online el partido de la Premier League 2026/27 a través de DAZN",
+     "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPdmV5Sll4MHY0UzhfemZHSWNSdWJDOV9RV2ZPenNIb3prTEE3S0pHb29MZmY4S1EtWmNRQW1ZUkw5NFpOTkRWZ284clBtUDlfWV9ObjRoejQ4ckVKdFpVSUtuRGx3alJrLWhhZkk1X3hwdkhsQ2lQS05McHc5c1hWRldqUlR4V05RajhNem1FbUhMTFBmd3YtYUNfbjVSZVlZU3pFZlBpSHk4X293ZHlwTkZvcDRKWVNFN1RCU2NrQjBxNDhoLWRTYVMyZDRBaFNDc0JSYWxlb3Vfd0NITFdfZEVjV3VFeHlQcFRWbXBzaUpiMHl5cTBYRHFCaTFCR00?oc=5",
+     "pub": "2026-11-07T11:08+00:00"
+    },
+    {
+     "medio": "Guardian",
+     "titulo": "Nottingham Forest v Manchester City: Premier League – live",
+     "url": "https://www.theguardian.com/football/live/2026/nov/07/nottingham-forest-v-manchester-city-premier-league-live",
+     "pub": "2026-11-07T18:01+00:00"
+    },
+    {
+     "medio": "FourFourTwo",
+     "titulo": "Watch Nottingham Forest vs Manchester City: FREE streams",
+     "url": "https://www.fourfourtwo.com/competition/watch-nottingham-forest-vs-manchester-city-premier-league-2026-27-free",
+     "pub": "2026-11-07T14:30+00:00"
+    },
+    {
+     "medio": "Yahoo",
+     "titulo": "🚨 Nottingham Forest-Manchester City line-ups: Ndiaye starts, not Foden!",
+     "url": "https://sports.yahoo.com/articles/nottingham-forest-manchester-city-line-163500793.html",
+     "pub": "2026-11-07T16:35+00:00"
+    },
+    {
+     "medio": "Yahoo",
+     "titulo": "Manchester City starting XI confirmed vs Nottingham Forest as Maresca makes key selection calls",
+     "url": "https://sports.yahoo.com/articles/manchester-city-starting-xi-confirmed-161900294.html",
+     "pub": "2026-11-07T16:19+00:00"
+    },
+    {
+     "medio": "Yahoo",
+     "titulo": "Confirmed Line-Ups: Nottingham Forest vs Manchester City (Premier League)",
+     "url": "https://sports.yahoo.com/articles/confirmed-line-ups-nottingham-forest-161500639.html",
+     "pub": "2026-11-07T16:15+00:00"
+    },
+    {
+     "medio": "Google News EN",
+     "titulo": "Nottingham Forest vs Man City LIVE! Premier League score updates, news, prediction, line-ups and how to watch or stream",
+     "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOVC11NUVOaDJiSnVFcVdSY1MwU2J2NkF3NDhzRWlHcFJTdjJMSDN3ZTAtaUYtQ0Vzd0ZBak42Qm9YZzJlLVB2a01TQXVRTC1ESGFTZnEyd3R4bnlFMC1tQ0lLbkRhbTRlOENtb0UtZUxOUGlsVGJ2d0s3NVVOYjR4djF0cDhraUQ1TVktZ0l4ZWVJWUk5MFdGaFdUckxnUl8zcVMxX1lVX050RWV0NUZfZ3hnUTdfRXZVeTBJMUMtX0U1bTZPUEVGQWJzZllwU1dGQy1Wc1RFMWlmUnUzQkFVbWhFVlhyWnd1U3JUNFcwbXM0b0tpb1Y4enhoR2pXZw?oc=5",
+     "pub": "2026-11-07T18:14+00:00"
     }
    ]
   },
@@ -194,97 +291,288 @@
    ]
   },
   {
-   "tema": "Ronaldo",
-   "medios": 14,
+   "tema": "Forest",
+   "medios": 15,
    "lista_medios": [
+    "AS",
     "BBC",
     "Daily Mail",
     "Foot Mercato",
-    "Football Italia",
+    "FourFourTwo",
     "Google News EN",
     "Google News ES",
-    "Infobae",
+    "Guardian",
     "L'Equipe",
+    "Mirror",
     "Mundo Deportivo",
     "Ole",
-    "Planet Football",
-    "Record",
+    "Sky Sports",
     "Yahoo",
     "ge.globo"
    ],
    "primera_vez": "2026-11-06T14:31+00:00",
    "titulares": [
     {
-     "medio": "BBC",
-     "titulo": "Portugal coach 'knew nothing' about Ronaldo retiring",
-     "url": "https://www.bbc.co.uk/sport/football/articles/cwzd66r22j68o?at_medium=RSS&at_campaign=rss",
-     "pub": "2026-11-06T14:25+00:00"
+     "medio": "Yahoo",
+     "titulo": "Rennes coach Franck Haise reveals surprising reason for turning down Everton, Brighton and Nottingham Forest",
+     "url": "https://sports.yahoo.com/articles/rennes-coach-franck-haise-reveals-125300438.html",
+     "pub": "2026-11-06T12:53+00:00"
     },
     {
-     "medio": "BBC",
-     "titulo": "From playing against Messi and Ronaldo to non-league",
-     "url": "https://www.bbc.co.uk/sport/football/articles/cw054d7nmndzo?at_medium=RSS&at_campaign=rss",
-     "pub": "2026-11-06T06:42+00:00"
+     "medio": "ge.globo",
+     "titulo": "Nottingham Forest x Manchester City na Premier League: onde assistir ao vivo e horário",
+     "url": "https://ge.globo.com/futebol/futebol-internacional/futebol-ingles/noticia/2026/11/06/nottingham-forest-x-manchester-city-na-premier-league-onde-assistir-ao-vivo-e-horario.ghtml",
+     "pub": "2026-11-06T16:30+00:00"
     },
     {
      "medio": "Yahoo",
-     "titulo": "Jose Mourinho talks Cristiano Ronaldo, Valverde, Vinicius ahead of Valencia vs Real Madrid",
-     "url": "https://sports.yahoo.com/articles/jose-mourinho-talks-cristiano-ronaldo-132100058.html",
-     "pub": "2026-11-06T13:21+00:00"
+     "titulo": "Man City Starting XI vs Nottingham Forest: Confirmed Team News and Predicted Lineup",
+     "url": "https://sports.yahoo.com/articles/man-city-starting-xi-vs-125000940.html",
+     "pub": "2026-11-07T12:50+00:00"
     },
     {
      "medio": "Google News EN",
-     "titulo": "Cristiano Ronaldo: Portugal coach Jorge Jesus 'knew nothing' about international retirement",
-     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5FeHBOQi1scm1VTGtFWVVtTWVyN3JMMVktTm1DS19pZExQQTk0X0U0X2dvLUxGdVNBa0N0SFd5SGlYNlptNXV2Sk50S2ZVc3hab3BSUTAxZnBrelBLYi04YzQ0UnR3NDNJSXFn?oc=5",
-     "pub": "2026-11-06T14:25+00:00"
+     "titulo": "STAR FOOTBALL PREVIEW Sat: Nottingham Forest v Man City",
+     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNR1YxT0tSWS1fQTBIZHNiWXltRmUxbTFkVVAtNUFRZjkyRFVWc2k4N2drSnFzODl1VzlXY1Q2dkR1NXc5WG02ZGZ2UlpCM1RFUGo3eTRCX0xrNGl1MGV0cjlmckd2RzJPbWZycXF5ZldneFVkMWZ3VldTeHBWZ1JGZnVDYW9YWVkwQzF1eURJNEY?oc=5",
+     "pub": "2026-11-07T10:23+00:00"
     },
     {
-     "medio": "Football Italia",
-     "titulo": "Today’s Papers: Kolo Muani steps up for Juve, Milan brutal, Ronaldo goodbye",
-     "url": "https://football-italia.net/todays-papers-kolo-muani-steps-up-for-juve/",
-     "pub": "2026-11-06T08:46+00:00"
+     "medio": "Google News ES",
+     "titulo": "Nottingham Forest vs Manchester City: horario y dónde ver hoy por TV y online el partido de la Premier League 2026/27 a través de DAZN",
+     "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPdmV5Sll4MHY0UzhfemZHSWNSdWJDOV9RV2ZPenNIb3prTEE3S0pHb29MZmY4S1EtWmNRQW1ZUkw5NFpOTkRWZ284clBtUDlfWV9ObjRoejQ4ckVKdFpVSUtuRGx3alJrLWhhZkk1X3hwdkhsQ2lQS05McHc5c1hWRldqUlR4V05RajhNem1FbUhMTFBmd3YtYUNfbjVSZVlZU3pFZlBpSHk4X293ZHlwTkZvcDRKWVNFN1RCU2NrQjBxNDhoLWRTYVMyZDRBaFNDc0JSYWxlb3Vfd0NITFdfZEVjV3VFeHlQcFRWbXBzaUpiMHl5cTBYRHFCaTFCR00?oc=5",
+     "pub": "2026-11-07T11:08+00:00"
     },
+    {
+     "medio": "Guardian",
+     "titulo": "Nottingham Forest v Manchester City: Premier League – live",
+     "url": "https://www.theguardian.com/football/live/2026/nov/07/nottingham-forest-v-manchester-city-premier-league-live",
+     "pub": "2026-11-07T18:01+00:00"
+    },
+    {
+     "medio": "Sky Sports",
+     "titulo": "'Cool finish' from Cunha gives Forest an early lead vs Man City",
+     "url": "https://www.skysports.com/watch/video/13609457/goal-j-cunha-6-nottm-forest-1-0-manchester-city",
+     "pub": "2026-11-07T17:43+00:00"
+    },
+    {
+     "medio": "Mirror",
+     "titulo": "Non-league clash postponed as ex-Forest starlet rushed to hospital in warm-up",
+     "url": "https://www.mirror.co.uk/sport/football/news/truro-folkestone-yassine-en-neyah-37854450",
+     "pub": "2026-11-07T16:41+00:00"
+    },
+    {
+     "medio": "FourFourTwo",
+     "titulo": "Watch Nottingham Forest vs Manchester City: FREE streams",
+     "url": "https://www.fourfourtwo.com/competition/watch-nottingham-forest-vs-manchester-city-premier-league-2026-27-free",
+     "pub": "2026-11-07T14:30+00:00"
+    },
+    {
+     "medio": "Yahoo",
+     "titulo": "Manchester City starting XI confirmed vs Nottingham Forest as Maresca makes key selection calls",
+     "url": "https://sports.yahoo.com/articles/manchester-city-starting-xi-confirmed-161900294.html",
+     "pub": "2026-11-07T16:19+00:00"
+    },
+    {
+     "medio": "Yahoo",
+     "titulo": "Confirmed Line-Ups: Nottingham Forest vs Manchester City (Premier League)",
+     "url": "https://sports.yahoo.com/articles/confirmed-line-ups-nottingham-forest-161500639.html",
+     "pub": "2026-11-07T16:15+00:00"
+    },
+    {
+     "medio": "Google News EN",
+     "titulo": "Nottingham Forest vs Man City LIVE! Premier League score updates, news, prediction, line-ups and how to watch or stream",
+     "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOVC11NUVOaDJiSnVFcVdSY1MwU2J2NkF3NDhzRWlHcFJTdjJMSDN3ZTAtaUYtQ0Vzd0ZBak42Qm9YZzJlLVB2a01TQXVRTC1ESGFTZnEyd3R4bnlFMC1tQ0lLbkRhbTRlOENtb0UtZUxOUGlsVGJ2d0s3NVVOYjR4djF0cDhraUQ1TVktZ0l4ZWVJWUk5MFdGaFdUckxnUl8zcVMxX1lVX050RWV0NUZfZ3hnUTdfRXZVeTBJMUMtX0U1bTZPUEVGQWJzZllwU1dGQy1Wc1RFMWlmUnUzQkFVbWhFVlhyWnd1U3JUNFcwbXM0b0tpb1Y4enhoR2pXZw?oc=5",
+     "pub": "2026-11-07T18:14+00:00"
+    }
+   ]
+  },
+  {
+   "tema": "Bellingham",
+   "medios": 14,
+   "lista_medios": [
+    "AS",
+    "BBC",
+    "Daily Mail",
+    "Foot Mercato",
+    "FourFourTwo",
+    "Google News EN",
+    "Google News ES",
+    "Guardian",
+    "Kicker",
+    "L'Equipe",
+    "Telegraph",
+    "Yahoo",
+    "ge.globo",
+    "talkSPORT"
+   ],
+   "primera_vez": "2026-11-06T14:31+00:00",
+   "titulares": [
+    {
+     "medio": "BBC",
+     "titulo": "'Incredible achievement for the family' as Bellingham brothers called up",
+     "url": "https://www.bbc.co.uk/sport/football/articles/c5x2vvjy2rpeo?at_medium=RSS&at_campaign=rss",
+     "pub": "2026-11-06T14:16+00:00"
+    },
+    {
+     "medio": "Guardian",
+     "titulo": "Jobe Bellingham ‘deserves’ England call; Kompany on track for ‘full recovery’; Coady retires: football news – live",
+     "url": "https://www.theguardian.com/football/live/2026/nov/06/england-squad-announced-sunderland-face-jeers-and-fa-cup-first-round-football-news-live",
+     "pub": "2026-11-06T14:20+00:00"
+    },
+    {
+     "medio": "talkSPORT",
+     "titulo": "Thomas Tuchel reveals Premier League star was overtaken by Jobe Bellingham",
+     "url": "https://talksport.com/football/4690893/thomas-tuchel-jobe-bellingham-overtaken-kobbie-mainoo-england/",
+     "pub": "2026-11-06T13:17+00:00"
+    },
+    {
+     "medio": "Daily Mail",
+     "titulo": "Is Jobe Bellingham England's next big thing who shares his older brother's 'X-Factor' - or the 'problem child' whose dad blows up at his bosses? Inside the rise of the 21-year-old after first call-up",
+     "url": "https://www.dailymail.com/sport/football/article-16271167/jobe-bellingham-england-call-up.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+     "pub": "2026-11-06T14:17+00:00"
+    },
+    {
+     "medio": "Telegraph",
+     "titulo": "Tuchel snubs Palmer but calls up Jobe Bellingham and Josh King to England squad",
+     "url": "https://www.telegraph.co.uk/football/2026/11/06/england-squad-live-thomas-tuchel-players-nations-league/",
+     "pub": "2026-11-06T13:40+00:00"
+    },
+    {
+     "medio": "FourFourTwo",
+     "titulo": "Thomas Tuchel makes surprise England Bellingham announcement: Three Lions' November squad in full",
+     "url": "https://www.fourfourtwo.com/team/thomas-tuchel-makes-surprise-england-bellingham-announcement-three-lions-november-squad-in-full",
+     "pub": "2026-11-06T10:15+00:00"
+    },
+    {
+     "medio": "Yahoo",
+     "titulo": "Thomas Tuchel hands Jobe Bellingham the chance to carve his own path as an England star",
+     "url": "https://sports.yahoo.com/articles/thomas-tuchel-hands-jobe-bellingham-123240144.html",
+     "pub": "2026-11-06T12:42+00:00"
+    },
+    {
+     "medio": "Google News EN",
+     "titulo": "England squad: Cole Palmer, Phil Foden and Kobbie Mainoo left out as Jobe Bellingham and Josh King called up",
+     "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPSDZBQnZobzNQdFRET2RBTDVodmJvTVYxdUdSZGFnZ3hLTkdGZnpON0ZXRGdJeFhULVM2aVFuYlF0WUpBakJwNnN5ZTM5b19saUp5Umh5THNQcklPQWl6R0NHMmE4OHRqeEhfWExVOGtZTC13RjVIQ2tYcFhNbnM3b1Y5Tzh4OTRsaU1kZlo0TG5LMklhalVxV1MzWXhnaEJSNlpXWVNxZzI1QVR1TmpNSjJuTlJJanhEX2h3MWRMLUM0OXg1M1dyWlpBRVlVeWRRa0w1bk5ZejlBX2E5Y3RabDhSZWJwS21fTmRn?oc=5",
+     "pub": "2026-11-06T13:23+00:00"
+    },
+    {
+     "medio": "AS",
+     "titulo": "Doble ración de Bellingham contra España",
+     "url": "https://as.com/futbol/internacional/doble-racion-de-bellingham-contra-espana-f202611-n/",
+     "pub": "2026-11-06T10:47+00:00"
+    },
+    {
+     "medio": "Kicker",
+     "titulo": "Tuchel über Jobe Bellingham: \"Hat seinen Weg bei Dortmund gefunden\"",
+     "url": "https://www.kicker.de/tuchel-ueber-jobe-bellingham-hat-seinen-weg-bei-dortmund-gefunden-1269245/video#omrss",
+     "pub": "2026-11-06T14:06+00:00"
+    },
+    {
+     "medio": "Kicker",
+     "titulo": "Kovac mit Loblied auf Bellingham: \"Er ist ein kompletter Fußball-Freak\"",
+     "url": "https://www.kicker.de/kovac-mit-loblied-auf-bellingham-er-ist-ein-kompletter-fussball-freak-1269202/video#omrss",
+     "pub": "2026-11-06T12:11+00:00"
+    },
+    {
+     "medio": "Kicker",
+     "titulo": "Tuchel beruft erstmals Dortmunds Bellingham - Kane vor Rekord",
+     "url": "https://www.kicker.de/tuchel-beruft-erstmals-dortmunds-bellingham-kane-vor-rekord-1269170/artikel#omrss",
+     "pub": "2026-11-06T11:18+00:00"
+    }
+   ]
+  },
+  {
+   "tema": "Tottenham",
+   "medios": 14,
+   "lista_medios": [
+    "AS",
+    "BBC",
+    "Daily Mail",
+    "Foot Mercato",
+    "FourFourTwo",
+    "Google News EN",
+    "Guardian",
+    "L'Equipe",
+    "Mirror",
+    "Mundo Deportivo",
+    "Planet Football",
+    "Sky Sports",
+    "Yahoo",
+    "talkSPORT"
+   ],
+   "primera_vez": "2026-11-06T14:31+00:00",
+   "titulares": [
     {
      "medio": "L'Equipe",
-     "titulo": "L'ouverture d'une nouvelle ère : la première liste du Portugal après la retraite internationale de Cristiano Ronaldo",
-     "url": "https://www.lequipe.fr/Football/Actualites/L-ouverture-d-une-nouvelle-ere-la-premiere-liste-du-portugal-apres-la-retraite-internationale-de-cristiano-ronaldo/1741627#at_medium=RSS_feeds",
-     "pub": "2026-11-06T14:14+00:00"
-    },
-    {
-     "medio": "L'Equipe",
-     "titulo": "Mourinho : «Il faut respecter le choix de Ronaldo»",
-     "url": "https://www.lequipe.fr/Football/Video/Portugal-jose-mourinho-appelle-a-respecter-la-decision-de-cristiano-ronaldo-de-mettre-un-terme-a-sa-carriere-internationale/20244986#at_medium=RSS_feeds",
-     "pub": "2026-11-06T11:21+00:00"
+     "titulo": "Malgré la prolongation de Kane au Bayern, Tottenham conserverait un droit de préemption sur un éventuel transfert du Ballon d'Or 2026",
+     "url": "https://www.lequipe.fr/Football/Actualites/Malgre-la-prolongation-de-kane-au-bayern-tottenham-conserve-un-droit-sur-un-eventuel-transfert-du-ballon-d-or-2026/1741546#at_medium=RSS_feeds",
+     "pub": "2026-11-06T10:22+00:00"
     },
     {
      "medio": "Foot Mercato",
-     "titulo": "Retraite internationale de Cristiano Ronaldo : la réponse ferme de Jorge Jesus face aux accusations",
-     "url": "https://www.footmercato.net/a7632388758621614911-retraite-internationale-de-cristiano-ronaldo-la-reponse-ferme-de-jorge-jesus-face-aux-accusations",
-     "pub": "2026-11-06T14:00+00:00"
+     "titulo": "Tottenham a négocié une clause inattendue pour récupérer Harry Kane",
+     "url": "https://www.footmercato.net/a1826415694072241659-tottenham-a-negocie-une-clause-inattendue-pour-recuperer-harry-kane",
+     "pub": "2026-11-06T15:20+00:00"
     },
     {
-     "medio": "Foot Mercato",
-     "titulo": "Portugal : Bernardo Silva succède officiellement à Cristiano Ronaldo comme capitaine",
-     "url": "https://www.footmercato.net/a959066555659530918-portugal-bernardo-silva-succede-officiellement-a-cristiano-ronaldo-comme-capitaine",
-     "pub": "2026-11-06T12:37+00:00"
+     "medio": "Guardian",
+     "titulo": "Leeds United v Tottenham Hotspur: Premier League – live",
+     "url": "https://www.theguardian.com/football/live/2026/nov/07/leeds-united-v-tottenham-hotspur-premier-league-live",
+     "pub": "2026-11-07T13:20+00:00"
     },
     {
-     "medio": "Foot Mercato",
-     "titulo": "La première liste du Portugal sans Cristiano Ronaldo",
-     "url": "https://www.footmercato.net/a2274149914462669034-la-premiere-liste-du-portugal-sans-cristiano-ronaldo",
-     "pub": "2026-11-06T12:17+00:00"
+     "medio": "Sky Sports",
+     "titulo": "Bogle escapes red as Leeds host Tottenham LIVE!",
+     "url": "https://www.skysports.com/football/leeds-united-vs-tottenham-hotspur/live/559540",
+     "pub": "2026-11-07T10:55+00:00"
     },
     {
-     "medio": "Foot Mercato",
-     "titulo": "José Mourinho réagit à la retraite internationale de Cristiano Ronaldo",
-     "url": "https://www.footmercato.net/a6811855404205149737-jose-mourinho-reagit-a-la-retraite-internationale-de-cristiano-ronaldo",
-     "pub": "2026-11-06T09:40+00:00"
+     "medio": "talkSPORT",
+     "titulo": "Tottenham lodge official complaint with Premier League over broadcaster’s behaviour",
+     "url": "https://talksport.com/football/4692076/tottenham-complaint-premier-league-espn-brazil-arsenal/",
+     "pub": "2026-11-07T10:44+00:00"
     },
     {
-     "medio": "Foot Mercato",
-     "titulo": "Le PSG fait désormais peur à toute l’Europe, l’ultime mauvais coup de Cristiano Ronaldo au Portugal",
-     "url": "https://www.footmercato.net/a7106002904065281192-le-psg-fait-desormais-peur-a-toute-leurope-lultime-mauvais-coup-de-cristiano-ronaldo-au-portugal",
-     "pub": "2026-11-06T09:29+00:00"
+     "medio": "talkSPORT",
+     "titulo": "Leeds vs Spurs Super Boost: Get Tottenham to score and most shots on target NOW 11/4 on talKSPORT BET",
+     "url": "https://talksport.com/football/4689819/leeds-vs-spurs-super-boost-talksportbet/",
+     "pub": "2026-11-06T21:00+00:00"
+    },
+    {
+     "medio": "Daily Mail",
+     "titulo": "Leeds vs Tottenham - Premier League: Roberto De Zerbi's side survive VERY controversial handball call against Mateus Fernandes as VAR helps visitors",
+     "url": "https://www.dailymail.com/sport/football/article-16268025/Leeds-vs-Tottenham-Premier-League-Roberto-Zerbis-travel-fortress-Elland-Road-Daniel-Farkes-unbeaten-EIGHT-games-home.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+     "pub": "2026-11-07T13:23+00:00"
+    },
+    {
+     "medio": "Planet Football",
+     "titulo": "Leeds vs. Tottenham: Everybody to play for both clubs since 1992",
+     "url": "https://www.planetfootball.com/quizzes/leeds-tottenham-played-both-clubs-since-1992",
+     "pub": "2026-11-07T11:44+00:00"
+    },
+    {
+     "medio": "FourFourTwo",
+     "titulo": "How to watch Leeds United vs Tottenham Hotspur: FREE streams",
+     "url": "https://www.fourfourtwo.com/competition/watch-leeds-united-vs-tottenham-hotspur-premier-league-2026-27-free",
+     "pub": "2026-11-07T09:35+00:00"
+    },
+    {
+     "medio": "Yahoo",
+     "titulo": "Premier League: Bogle escapes red card as Leeds host Tottenham",
+     "url": "https://sports.yahoo.com/articles/premier-league-leeds-host-tottenham-110121575.html",
+     "pub": "2026-11-07T13:16+00:00"
+    },
+    {
+     "medio": "Yahoo",
+     "titulo": "Newcastle United interested in move to sign former Tottenham Hotspur forward",
+     "url": "https://sports.yahoo.com/articles/newcastle-united-interested-move-sign-125000676.html",
+     "pub": "2026-11-07T12:50+00:00"
+    },
+    {
+     "medio": "Google News EN",
+     "titulo": "Leeds United - Tottenham Hotspur Stats: Football Scores & Results",
+     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPel9QVFZwZTlXajZpMnFYS2FiWjZGOWE5UmQ4SG5DbUdqTUxvU05Fa0xvSTB5WkhhRnNzczJJQmlLUXN1eEw1N1dMRTBlTjZnRFhydkxLcElOMGNfUmpkQnpBXzRieEE3MHNRYW4xSzRVbk9GOU5yc0hBQWZZSzIzUmIzOVJzSVlMeWM5QTJCRTJ2ekZneTZNVzJMLW9kZC03cWdJNTVsYU5rODg3OEVxTDdtanhNQllGak42NWlPUTVGMjla?oc=5",
+     "pub": "2026-11-07T10:34+00:00"
     }
    ]
   },
@@ -293,7 +581,7 @@
    "medios": 14,
    "lista_medios": [
     "AS",
-    "Daily Mail",
+    "Foot Mercato",
     "Football Italia",
     "FourFourTwo",
     "Google News EN",
@@ -307,26 +595,8 @@
     "ge.globo",
     "talkSPORT"
    ],
-   "primera_vez": "2026-11-06T14:31+00:00",
+   "primera_vez": "2026-11-06T21:00+00:00",
    "titulares": [
-    {
-     "medio": "Daily Mail",
-     "titulo": "Didier Deschamps 'doesn't want Manchester United job': Blow for Sir Jim Ratcliffe as unemployed former France boss appears hesitant to replace under-fire Michael Carrick",
-     "url": "https://www.dailymail.com/sport/football/article-16271001/didier-deschamps-man-united-michael-carrick.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-     "pub": "2026-11-06T09:37+00:00"
-    },
-    {
-     "medio": "ge.globo",
-     "titulo": "Real Madrid encaminha acerto com joia que deixou a base do Manchester United",
-     "url": "https://ge.globo.com/futebol/futebol-internacional/noticia/2026/11/06/real-madrid-encaminha-acerto-com-joia-que-deixou-a-base-do-manchester-united.ghtml",
-     "pub": "2026-11-06T09:39+00:00"
-    },
-    {
-     "medio": "ge.globo",
-     "titulo": "Jornal: Manchester United procura Didier Deschamps, campeão do mundo pela França",
-     "url": "https://ge.globo.com/futebol/futebol-internacional/noticia/2026/11/06/jornal-manchester-united-procura-didier-deschamps-campeao-do-mundo-pela-franca.ghtml",
-     "pub": "2026-11-06T08:33+00:00"
-    },
     {
      "medio": "talkSPORT",
      "titulo": "Where to watch Manchester United vs Aston Villa as Carrick insists ‘anything is possible’",
@@ -380,100 +650,24 @@
      "titulo": "JJ Gabriel: Manchester United forward says 'my dream is to win Ballon d'Or'",
      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9SQjVEdDNsY2FKUUltX1E2NUNDdHNickp5bkxVRHhwM25lSWgwd2hUTnRPM20tMktSVXhMU1c3SjBWcC13R1RoY1hncEZQZmU2blZrN1l3b09MeFNIVG1kdWdvQ0h6NlZqZ2JN?oc=5",
      "pub": "2026-11-07T12:25+00:00"
-    }
-   ]
-  },
-  {
-   "tema": "Bellingham",
-   "medios": 13,
-   "lista_medios": [
-    "AS",
-    "BBC",
-    "Daily Mail",
-    "Foot Mercato",
-    "FourFourTwo",
-    "Google News EN",
-    "Guardian",
-    "Kicker",
-    "L'Equipe",
-    "Telegraph",
-    "Yahoo",
-    "ge.globo",
-    "talkSPORT"
-   ],
-   "primera_vez": "2026-11-06T14:31+00:00",
-   "titulares": [
-    {
-     "medio": "BBC",
-     "titulo": "'Incredible achievement for the family' as Bellingham brothers called up",
-     "url": "https://www.bbc.co.uk/sport/football/articles/c5x2vvjy2rpeo?at_medium=RSS&at_campaign=rss",
-     "pub": "2026-11-06T14:16+00:00"
-    },
-    {
-     "medio": "Guardian",
-     "titulo": "Jobe Bellingham ‘deserves’ England call; Kompany on track for ‘full recovery’; Coady retires: football news – live",
-     "url": "https://www.theguardian.com/football/live/2026/nov/06/england-squad-announced-sunderland-face-jeers-and-fa-cup-first-round-football-news-live",
-     "pub": "2026-11-06T14:20+00:00"
-    },
-    {
-     "medio": "talkSPORT",
-     "titulo": "Thomas Tuchel reveals Premier League star was overtaken by Jobe Bellingham",
-     "url": "https://talksport.com/football/4690893/thomas-tuchel-jobe-bellingham-overtaken-kobbie-mainoo-england/",
-     "pub": "2026-11-06T13:17+00:00"
-    },
-    {
-     "medio": "talkSPORT",
-     "titulo": "Jobe Bellingham handed surprise England call-up along with uncapped Premier League star as Cole Palmer left out",
-     "url": "https://talksport.com/football/4690346/england-squad-announcement-thomas-tuchel-cole-palmer-jobe-bellingham/",
-     "pub": "2026-11-06T10:04+00:00"
-    },
-    {
-     "medio": "Daily Mail",
-     "titulo": "Is Jobe Bellingham England's next big thing who shares his older brother's 'X-Factor' - or the 'problem child' whose dad blows up at his bosses? Inside the rise of the 21-year-old after first call-up",
-     "url": "https://www.dailymail.com/sport/football/article-16271167/jobe-bellingham-england-call-up.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-     "pub": "2026-11-06T14:17+00:00"
-    },
-    {
-     "medio": "Telegraph",
-     "titulo": "Tuchel snubs Palmer but calls up Jobe Bellingham and Josh King to England squad",
-     "url": "https://www.telegraph.co.uk/football/2026/11/06/england-squad-live-thomas-tuchel-players-nations-league/",
-     "pub": "2026-11-06T13:40+00:00"
-    },
-    {
-     "medio": "FourFourTwo",
-     "titulo": "Thomas Tuchel makes surprise England Bellingham announcement: Three Lions' November squad in full",
-     "url": "https://www.fourfourtwo.com/team/thomas-tuchel-makes-surprise-england-bellingham-announcement-three-lions-november-squad-in-full",
-     "pub": "2026-11-06T10:15+00:00"
-    },
-    {
-     "medio": "Yahoo",
-     "titulo": "Thomas Tuchel hands Jobe Bellingham the chance to carve his own path as an England star",
-     "url": "https://sports.yahoo.com/articles/thomas-tuchel-hands-jobe-bellingham-123240144.html",
-     "pub": "2026-11-06T12:42+00:00"
     },
     {
      "medio": "Google News EN",
-     "titulo": "England squad: Cole Palmer, Phil Foden and Kobbie Mainoo left out as Jobe Bellingham and Josh King called up",
-     "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPSDZBQnZobzNQdFRET2RBTDVodmJvTVYxdUdSZGFnZ3hLTkdGZnpON0ZXRGdJeFhULVM2aVFuYlF0WUpBakJwNnN5ZTM5b19saUp5Umh5THNQcklPQWl6R0NHMmE4OHRqeEhfWExVOGtZTC13RjVIQ2tYcFhNbnM3b1Y5Tzh4OTRsaU1kZlo0TG5LMklhalVxV1MzWXhnaEJSNlpXWVNxZzI1QVR1TmpNSjJuTlJJanhEX2h3MWRMLUM0OXg1M1dyWlpBRVlVeWRRa0w1bk5ZejlBX2E5Y3RabDhSZWJwS21fTmRn?oc=5",
-     "pub": "2026-11-06T13:23+00:00"
+     "titulo": "James Trafford: England goalkeeper says not playing for Manchester City was 'horrendous'",
+     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE14a1JKTHJPbTFaNW1va1FjVzNhTjFKdlhiYllUVUl1TXJTd21HakJrMzh0c09KbFJCSW5lZlB6RllFSFVUMFJOVWVyYVc4OGgyM3RwRUZYaTBqN0RDcm9kRFAzLU1UaUp3VHlj?oc=5",
+     "pub": "2026-11-07T07:16+00:00"
     },
     {
-     "medio": "AS",
-     "titulo": "Doble ración de Bellingham contra España",
-     "url": "https://as.com/futbol/internacional/doble-racion-de-bellingham-contra-espana-f202611-n/",
-     "pub": "2026-11-06T10:47+00:00"
+     "medio": "Google News EN",
+     "titulo": "Unai Emery, Aston Villa, Manchester United and football’s food chain",
+     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNdXcxUUp2aC1tS1RjTE1QYTBja1Y0bUUzdzdQNjZfSTdFeHMzamY2bW5sV0szUGNNSXpKQjlsNldGTUpBbHJyRDVqS3NUdXFCMl91UkYwX2dOMnNvZURfLXhERlkwRGRJVGs3WENFcEkzOFJtaWo1WFFIZ2lIR053SkVUYTEwcHZWb2h4TEJWTnMwSWJqOVMtSkRGOGxaSUtzanRPVjNRUFRubmRk?oc=5",
+     "pub": "2026-11-07T05:15+00:00"
     },
     {
-     "medio": "Kicker",
-     "titulo": "Tuchel über Jobe Bellingham: \"Hat seinen Weg bei Dortmund gefunden\"",
-     "url": "https://www.kicker.de/tuchel-ueber-jobe-bellingham-hat-seinen-weg-bei-dortmund-gefunden-1269245/video#omrss",
-     "pub": "2026-11-06T14:06+00:00"
-    },
-    {
-     "medio": "Kicker",
-     "titulo": "Kovac mit Loblied auf Bellingham: \"Er ist ein kompletter Fußball-Freak\"",
-     "url": "https://www.kicker.de/kovac-mit-loblied-auf-bellingham-er-ist-ein-kompletter-fussball-freak-1269202/video#omrss",
-     "pub": "2026-11-06T12:11+00:00"
+     "medio": "Mundo Deportivo",
+     "titulo": "\"Me fui del Manchester City por mi propia salud mental\"",
+     "url": "https://www.mundodeportivo.com/futbol/premier-league/20261107/1004248234/me-manchester-city-mi-propia-salud-mental.html",
+     "pub": ""
     }
    ]
   },
@@ -514,12 +708,6 @@
      "titulo": "Thomas Tuchel reveals Premier League star was overtaken by Jobe Bellingham",
      "url": "https://talksport.com/football/4690893/thomas-tuchel-jobe-bellingham-overtaken-kobbie-mainoo-england/",
      "pub": "2026-11-06T13:17+00:00"
-    },
-    {
-     "medio": "talkSPORT",
-     "titulo": "What time is the England squad announcement? Thomas Tuchel to reveal team to face Croatia and Spain",
-     "url": "https://talksport.com/football/4682635/england-squad-announcement-date-time-team-tuchel-kane/",
-     "pub": "2026-11-06T08:43+00:00"
     },
     {
      "medio": "Daily Mail",
@@ -568,100 +756,12 @@
      "titulo": "Thomas Tuchel sticks to his principles, but should Cole Palmer be in England's squad?",
      "url": "https://www.mirror.co.uk/sport/football/news/england-squad-tuchel-cole-palmer-37850567",
      "pub": "2026-11-06T11:50+00:00"
-    }
-   ]
-  },
-  {
-   "tema": "Everton",
-   "medios": 13,
-   "lista_medios": [
-    "BBC",
-    "Daily Mail",
-    "Foot Mercato",
-    "FourFourTwo",
-    "Google News EN",
-    "Guardian",
-    "L'Equipe",
-    "Mirror",
-    "Mundo Deportivo",
-    "Planet Football",
-    "Sky Sports",
-    "Yahoo",
-    "talkSPORT"
-   ],
-   "primera_vez": "2026-11-06T14:31+00:00",
-   "titulares": [
-    {
-     "medio": "Guardian",
-     "titulo": "Win at Everton would put Coventry on right side of history in survival fight",
-     "url": "https://www.theguardian.com/football/2026/nov/06/coventry-everton-frank-lampard-premier-league-survival",
-     "pub": "2026-11-06T08:00+00:00"
     },
     {
-     "medio": "Planet Football",
-     "titulo": "Everton quiz: Every player with 10+ Premier League assists",
-     "url": "https://www.planetfootball.com/quizzes/everton-every-player-10-more-premier-league-assists",
-     "pub": "2026-11-06T13:27+00:00"
-    },
-    {
-     "medio": "Yahoo",
-     "titulo": "Rennes coach Franck Haise reveals surprising reason for turning down Everton, Brighton and Nottingham Forest",
-     "url": "https://sports.yahoo.com/articles/rennes-coach-franck-haise-reveals-125300438.html",
-     "pub": "2026-11-06T12:53+00:00"
-    },
-    {
-     "medio": "Google News EN",
-     "titulo": "Moyes' Programme Notes For Record-Equalling Everton Fixture",
-     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOZ3RQTjU4QW0tcTNYN0I5TmFLaWZQeUFvTmtySEM2eV9jeTQwV0d3Z1V4SnJyb2V2b09BaVk5dUJBWHREX25POTg4eUVyYkJkeExOQldmekJGTzhvZjVpOG9talJ3UFJZN2E2QmJmZFlPdnc0Zno1TDEtTXFiaElVZEJlQldOa2FLYm9lYlZCU1o4RWlQUjZjdEswYTc1dXRRSkk4VFhEYmZkOEx1?oc=5",
-     "pub": "2026-11-06T12:05+00:00"
-    },
-    {
-     "medio": "Google News EN",
-     "titulo": "Conor Coady: Former Wolves, Everton, Leicester defender retires at the age of 33",
-     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPaV9SY1F1VlFGWk8tb3JiVGJrZWxlLU5FUkMxTmVIUVIyX25kYkEtRUN1cktaeHhSVWs0LWVaaXBsSWd5V2VsbDU5X2pWWUhVZmVMZm5lOGtGbEk0aFY5MjVHM0paaGVGVzBON0xGc1FJZnk5enhkaEx0ZEdzenQ3V2N1UjR5VHRSR0lKaHVSSC1OSTRSVi1lOEJkc3REZ0NPR0JDUWR5ZlJUNkZSaVQ5cUdNRHpTYS1rVURfMFc3cFYyUDBG?oc=5",
-     "pub": "2026-11-06T11:33+00:00"
-    },
-    {
-     "medio": "Google News EN",
-     "titulo": "STAR FOOTBALL PREVIEW Fri: Everton v Coventry City",
-     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNRzdMS0J1Y1VrckJRRVQxWUFqZ1RTR0w4T0lRS29WMjhrU1RlaXFIaXNSNVI5c3VJVVpqSEFZdHBWeUc5VlQ3ZGZDVVNyZWNRRUo4WFVZcllaZWpvNGZxbnlwRFpyYVMxZzVaSWxzQUhvdnhUYmpoNUlJWnZJaXNySHRxUUU5YzZYeGc?oc=5",
-     "pub": "2026-11-06T14:05+00:00"
-    },
-    {
-     "medio": "Guardian",
-     "titulo": "Everton v Coventry City: Premier League – live",
-     "url": "https://www.theguardian.com/football/live/2026/nov/06/everton-v-coventry-city-premier-league-live-updates",
-     "pub": "2026-11-06T20:51+00:00"
-    },
-    {
-     "medio": "talkSPORT",
-     "titulo": "David Moyes makes history instantly after Everton vs Coventry kicks off",
-     "url": "https://talksport.com/football/4691546/david-moyes-history-everton-coventry-kick-off/",
-     "pub": "2026-11-06T20:04+00:00"
-    },
-    {
-     "medio": "Daily Mail",
-     "titulo": "Exiled Jack Grealish RETURNS to Everton training after being dropped following boozy nights at pubs and karaoke: Ex-England star could be back in team after international break",
-     "url": "https://www.dailymail.com/sport/football/article-16272509/Jack-Grealish-RETURNS-Everton-training.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-     "pub": "2026-11-06T19:16+00:00"
-    },
-    {
-     "medio": "Mirror",
-     "titulo": "Jack Grealish return date set after Everton make decision on axed star's future",
-     "url": "https://www.mirror.co.uk/sport/football/news/jack-grealish-everton-coventry-update-37852798",
-     "pub": "2026-11-06T18:16+00:00"
-    },
-    {
-     "medio": "FourFourTwo",
-     "titulo": "Watch Everton vs Coventry City: FREE streams and TV channels",
-     "url": "https://www.fourfourtwo.com/competition/watch-everton-vs-coventry-city-premier-league-2026-27-free",
-     "pub": "2026-11-06T17:00+00:00"
-    },
-    {
-     "medio": "Google News EN",
-     "titulo": "Everton Team Revealed To Take On Coventry",
-     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQaTVLRmdCUDBjZVdYSlk0NGlDVGhNWnZPRnlDM21vdXhsTDRXblZfcmhzdEFkaC1NRjkweEx3R1RnakFWT25iRkpJcGxMNGtxcTB1TTQ3bzhWRjJINjB4a3VrNEJ3OEMtSVdrZlA0YWxCcWVHSlIwMzhqSTVlUjV3YjBVWklWbXZ6c2Z3b0Z6SUNwM3lt?oc=5",
-     "pub": "2026-11-06T18:46+00:00"
+     "medio": "Telegraph",
+     "titulo": "Tuchel snubs Palmer but calls up Jobe Bellingham and Josh King to England squad",
+     "url": "https://www.telegraph.co.uk/football/2026/11/06/england-squad-live-thomas-tuchel-players-nations-league/",
+     "pub": "2026-11-06T13:40+00:00"
     }
    ]
   },
@@ -760,104 +860,9 @@
    ]
   },
   {
-   "tema": "Cristiano",
+   "tema": "Everton",
    "medios": 13,
    "lista_medios": [
-    "Daily Mail",
-    "Foot Mercato",
-    "Google News AR",
-    "Google News EN",
-    "Google News ES",
-    "Infobae",
-    "L'Equipe",
-    "Mundo Deportivo",
-    "Ole",
-    "Planet Football",
-    "Record",
-    "Yahoo",
-    "ge.globo"
-   ],
-   "primera_vez": "2026-11-06T14:31+00:00",
-   "titulares": [
-    {
-     "medio": "Yahoo",
-     "titulo": "Jose Mourinho talks Cristiano Ronaldo, Valverde, Vinicius ahead of Valencia vs Real Madrid",
-     "url": "https://sports.yahoo.com/articles/jose-mourinho-talks-cristiano-ronaldo-132100058.html",
-     "pub": "2026-11-06T13:21+00:00"
-    },
-    {
-     "medio": "Google News EN",
-     "titulo": "Cristiano Ronaldo: Portugal coach Jorge Jesus 'knew nothing' about international retirement",
-     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5FeHBOQi1scm1VTGtFWVVtTWVyN3JMMVktTm1DS19pZExQQTk0X0U0X2dvLUxGdVNBa0N0SFd5SGlYNlptNXV2Sk50S2ZVc3hab3BSUTAxZnBrelBLYi04YzQ0UnR3NDNJSXFn?oc=5",
-     "pub": "2026-11-06T14:25+00:00"
-    },
-    {
-     "medio": "Mundo Deportivo",
-     "titulo": "Jorge Jesus, sobre el adiós de Cristiano: \"No me siento culpable de nada\"",
-     "url": "https://www.mundodeportivo.com/futbol/20261106/1004247941/jorge-jesus-sobre-adios-cristiano-no-me-siento-culpable.html",
-     "pub": ""
-    },
-    {
-     "medio": "Mundo Deportivo",
-     "titulo": "Cancelo y Bernardo Silva, en la primera lista de Portugal sin Cristiano",
-     "url": "https://www.mundodeportivo.com/futbol/20261106/1004247917/cancelo-bernardo-silva-primera-lista-portugal-cristiano.html",
-     "pub": ""
-    },
-    {
-     "medio": "L'Equipe",
-     "titulo": "L'ouverture d'une nouvelle ère : la première liste du Portugal après la retraite internationale de Cristiano Ronaldo",
-     "url": "https://www.lequipe.fr/Football/Actualites/L-ouverture-d-une-nouvelle-ere-la-premiere-liste-du-portugal-apres-la-retraite-internationale-de-cristiano-ronaldo/1741627#at_medium=RSS_feeds",
-     "pub": "2026-11-06T14:14+00:00"
-    },
-    {
-     "medio": "Foot Mercato",
-     "titulo": "Retraite internationale de Cristiano Ronaldo : la réponse ferme de Jorge Jesus face aux accusations",
-     "url": "https://www.footmercato.net/a7632388758621614911-retraite-internationale-de-cristiano-ronaldo-la-reponse-ferme-de-jorge-jesus-face-aux-accusations",
-     "pub": "2026-11-06T14:00+00:00"
-    },
-    {
-     "medio": "Foot Mercato",
-     "titulo": "Portugal : Bernardo Silva succède officiellement à Cristiano Ronaldo comme capitaine",
-     "url": "https://www.footmercato.net/a959066555659530918-portugal-bernardo-silva-succede-officiellement-a-cristiano-ronaldo-comme-capitaine",
-     "pub": "2026-11-06T12:37+00:00"
-    },
-    {
-     "medio": "Foot Mercato",
-     "titulo": "La première liste du Portugal sans Cristiano Ronaldo",
-     "url": "https://www.footmercato.net/a2274149914462669034-la-premiere-liste-du-portugal-sans-cristiano-ronaldo",
-     "pub": "2026-11-06T12:17+00:00"
-    },
-    {
-     "medio": "Foot Mercato",
-     "titulo": "José Mourinho réagit à la retraite internationale de Cristiano Ronaldo",
-     "url": "https://www.footmercato.net/a6811855404205149737-jose-mourinho-reagit-a-la-retraite-internationale-de-cristiano-ronaldo",
-     "pub": "2026-11-06T09:40+00:00"
-    },
-    {
-     "medio": "Foot Mercato",
-     "titulo": "Le PSG fait désormais peur à toute l’Europe, l’ultime mauvais coup de Cristiano Ronaldo au Portugal",
-     "url": "https://www.footmercato.net/a7106002904065281192-le-psg-fait-desormais-peur-a-toute-leurope-lultime-mauvais-coup-de-cristiano-ronaldo-au-portugal",
-     "pub": "2026-11-06T09:29+00:00"
-    },
-    {
-     "medio": "Record",
-     "titulo": "<![CDATA[ Luís Pinto sobre Cristiano Ronaldo: «Como português, gostava que a despedida fosse diferente» ]]>",
-     "url": "https://www.record.pt/futebol/futebol-nacional/liga-betclic/gil-vicente/detalhe/luis-pinto-sobre-cristiano-ronaldo-como-portugues-gostava-que-a-despedida-fosse-diferente",
-     "pub": "2026-11-06T13:26+00:00"
-    },
-    {
-     "medio": "Record",
-     "titulo": "<![CDATA[ Jorge Jesus e saída de Cristiano Ronaldo: «Se calhar apressei as coisas...» ]]>",
-     "url": "https://www.record.pt/multimedia/videos/detalhe/jorge-jesus-e-saida-de-cristiano-ronaldo-se-calhar-apressei-as-coisas",
-     "pub": "2026-11-06T13:11+00:00"
-    }
-   ]
-  },
-  {
-   "tema": "Tottenham",
-   "medios": 13,
-   "lista_medios": [
-    "AS",
     "BBC",
     "Daily Mail",
     "Foot Mercato",
@@ -865,6 +870,7 @@
     "Google News EN",
     "Guardian",
     "L'Equipe",
+    "Mirror",
     "Mundo Deportivo",
     "Planet Football",
     "Sky Sports",
@@ -874,76 +880,76 @@
    "primera_vez": "2026-11-06T14:31+00:00",
    "titulares": [
     {
-     "medio": "L'Equipe",
-     "titulo": "Malgré la prolongation de Kane au Bayern, Tottenham conserverait un droit de préemption sur un éventuel transfert du Ballon d'Or 2026",
-     "url": "https://www.lequipe.fr/Football/Actualites/Malgre-la-prolongation-de-kane-au-bayern-tottenham-conserve-un-droit-sur-un-eventuel-transfert-du-ballon-d-or-2026/1741546#at_medium=RSS_feeds",
-     "pub": "2026-11-06T10:22+00:00"
-    },
-    {
-     "medio": "Foot Mercato",
-     "titulo": "Tottenham a négocié une clause inattendue pour récupérer Harry Kane",
-     "url": "https://www.footmercato.net/a1826415694072241659-tottenham-a-negocie-une-clause-inattendue-pour-recuperer-harry-kane",
-     "pub": "2026-11-06T15:20+00:00"
-    },
-    {
-     "medio": "Guardian",
-     "titulo": "Leeds United v Tottenham Hotspur: Premier League – live",
-     "url": "https://www.theguardian.com/football/live/2026/nov/07/leeds-united-v-tottenham-hotspur-premier-league-live",
-     "pub": "2026-11-07T13:20+00:00"
-    },
-    {
-     "medio": "Sky Sports",
-     "titulo": "Bogle escapes red as Leeds host Tottenham LIVE!",
-     "url": "https://www.skysports.com/football/leeds-united-vs-tottenham-hotspur/live/559540",
-     "pub": "2026-11-07T10:55+00:00"
-    },
-    {
-     "medio": "talkSPORT",
-     "titulo": "Tottenham lodge official complaint with Premier League over broadcaster’s behaviour",
-     "url": "https://talksport.com/football/4692076/tottenham-complaint-premier-league-espn-brazil-arsenal/",
-     "pub": "2026-11-07T10:44+00:00"
-    },
-    {
-     "medio": "talkSPORT",
-     "titulo": "Leeds vs Spurs Super Boost: Get Tottenham to score and most shots on target NOW 11/4 on talKSPORT BET",
-     "url": "https://talksport.com/football/4689819/leeds-vs-spurs-super-boost-talksportbet/",
-     "pub": "2026-11-06T21:00+00:00"
-    },
-    {
-     "medio": "Daily Mail",
-     "titulo": "Leeds vs Tottenham - Premier League: Roberto De Zerbi's side survive VERY controversial handball call against Mateus Fernandes as VAR helps visitors",
-     "url": "https://www.dailymail.com/sport/football/article-16268025/Leeds-vs-Tottenham-Premier-League-Roberto-Zerbis-travel-fortress-Elland-Road-Daniel-Farkes-unbeaten-EIGHT-games-home.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-     "pub": "2026-11-07T13:23+00:00"
-    },
-    {
      "medio": "Planet Football",
-     "titulo": "Leeds vs. Tottenham: Everybody to play for both clubs since 1992",
-     "url": "https://www.planetfootball.com/quizzes/leeds-tottenham-played-both-clubs-since-1992",
-     "pub": "2026-11-07T11:44+00:00"
-    },
-    {
-     "medio": "FourFourTwo",
-     "titulo": "How to watch Leeds United vs Tottenham Hotspur: FREE streams",
-     "url": "https://www.fourfourtwo.com/competition/watch-leeds-united-vs-tottenham-hotspur-premier-league-2026-27-free",
-     "pub": "2026-11-07T09:35+00:00"
+     "titulo": "Everton quiz: Every player with 10+ Premier League assists",
+     "url": "https://www.planetfootball.com/quizzes/everton-every-player-10-more-premier-league-assists",
+     "pub": "2026-11-06T13:27+00:00"
     },
     {
      "medio": "Yahoo",
-     "titulo": "Premier League: Bogle escapes red card as Leeds host Tottenham",
-     "url": "https://sports.yahoo.com/articles/premier-league-leeds-host-tottenham-110121575.html",
-     "pub": "2026-11-07T13:16+00:00"
-    },
-    {
-     "medio": "Yahoo",
-     "titulo": "Newcastle United interested in move to sign former Tottenham Hotspur forward",
-     "url": "https://sports.yahoo.com/articles/newcastle-united-interested-move-sign-125000676.html",
-     "pub": "2026-11-07T12:50+00:00"
+     "titulo": "Rennes coach Franck Haise reveals surprising reason for turning down Everton, Brighton and Nottingham Forest",
+     "url": "https://sports.yahoo.com/articles/rennes-coach-franck-haise-reveals-125300438.html",
+     "pub": "2026-11-06T12:53+00:00"
     },
     {
      "medio": "Google News EN",
-     "titulo": "Leeds United - Tottenham Hotspur Stats: Football Scores & Results",
-     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPel9QVFZwZTlXajZpMnFYS2FiWjZGOWE5UmQ4SG5DbUdqTUxvU05Fa0xvSTB5WkhhRnNzczJJQmlLUXN1eEw1N1dMRTBlTjZnRFhydkxLcElOMGNfUmpkQnpBXzRieEE3MHNRYW4xSzRVbk9GOU5yc0hBQWZZSzIzUmIzOVJzSVlMeWM5QTJCRTJ2ekZneTZNVzJMLW9kZC03cWdJNTVsYU5rODg3OEVxTDdtanhNQllGak42NWlPUTVGMjla?oc=5",
-     "pub": "2026-11-07T10:34+00:00"
+     "titulo": "Moyes' Programme Notes For Record-Equalling Everton Fixture",
+     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOZ3RQTjU4QW0tcTNYN0I5TmFLaWZQeUFvTmtySEM2eV9jeTQwV0d3Z1V4SnJyb2V2b09BaVk5dUJBWHREX25POTg4eUVyYkJkeExOQldmekJGTzhvZjVpOG9talJ3UFJZN2E2QmJmZFlPdnc0Zno1TDEtTXFiaElVZEJlQldOa2FLYm9lYlZCU1o4RWlQUjZjdEswYTc1dXRRSkk4VFhEYmZkOEx1?oc=5",
+     "pub": "2026-11-06T12:05+00:00"
+    },
+    {
+     "medio": "Google News EN",
+     "titulo": "Conor Coady: Former Wolves, Everton, Leicester defender retires at the age of 33",
+     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPaV9SY1F1VlFGWk8tb3JiVGJrZWxlLU5FUkMxTmVIUVIyX25kYkEtRUN1cktaeHhSVWs0LWVaaXBsSWd5V2VsbDU5X2pWWUhVZmVMZm5lOGtGbEk0aFY5MjVHM0paaGVGVzBON0xGc1FJZnk5enhkaEx0ZEdzenQ3V2N1UjR5VHRSR0lKaHVSSC1OSTRSVi1lOEJkc3REZ0NPR0JDUWR5ZlJUNkZSaVQ5cUdNRHpTYS1rVURfMFc3cFYyUDBG?oc=5",
+     "pub": "2026-11-06T11:33+00:00"
+    },
+    {
+     "medio": "Google News EN",
+     "titulo": "STAR FOOTBALL PREVIEW Fri: Everton v Coventry City",
+     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNRzdMS0J1Y1VrckJRRVQxWUFqZ1RTR0w4T0lRS29WMjhrU1RlaXFIaXNSNVI5c3VJVVpqSEFZdHBWeUc5VlQ3ZGZDVVNyZWNRRUo4WFVZcllaZWpvNGZxbnlwRFpyYVMxZzVaSWxzQUhvdnhUYmpoNUlJWnZJaXNySHRxUUU5YzZYeGc?oc=5",
+     "pub": "2026-11-06T14:05+00:00"
+    },
+    {
+     "medio": "Guardian",
+     "titulo": "Everton v Coventry City: Premier League – live",
+     "url": "https://www.theguardian.com/football/live/2026/nov/06/everton-v-coventry-city-premier-league-live-updates",
+     "pub": "2026-11-06T20:51+00:00"
+    },
+    {
+     "medio": "talkSPORT",
+     "titulo": "David Moyes makes history instantly after Everton vs Coventry kicks off",
+     "url": "https://talksport.com/football/4691546/david-moyes-history-everton-coventry-kick-off/",
+     "pub": "2026-11-06T20:04+00:00"
+    },
+    {
+     "medio": "Daily Mail",
+     "titulo": "Exiled Jack Grealish RETURNS to Everton training after being dropped following boozy nights at pubs and karaoke: Ex-England star could be back in team after international break",
+     "url": "https://www.dailymail.com/sport/football/article-16272509/Jack-Grealish-RETURNS-Everton-training.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+     "pub": "2026-11-06T19:16+00:00"
+    },
+    {
+     "medio": "Mirror",
+     "titulo": "Jack Grealish return date set after Everton make decision on axed star's future",
+     "url": "https://www.mirror.co.uk/sport/football/news/jack-grealish-everton-coventry-update-37852798",
+     "pub": "2026-11-06T18:16+00:00"
+    },
+    {
+     "medio": "FourFourTwo",
+     "titulo": "Watch Everton vs Coventry City: FREE streams and TV channels",
+     "url": "https://www.fourfourtwo.com/competition/watch-everton-vs-coventry-city-premier-league-2026-27-free",
+     "pub": "2026-11-06T17:00+00:00"
+    },
+    {
+     "medio": "Google News EN",
+     "titulo": "Everton Team Revealed To Take On Coventry",
+     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQaTVLRmdCUDBjZVdYSlk0NGlDVGhNWnZPRnlDM21vdXhsTDRXblZfcmhzdEFkaC1NRjkweEx3R1RnakFWT25iRkpJcGxMNGtxcTB1TTQ3bzhWRjJINjB4a3VrNEJ3OEMtSVdrZlA0YWxCcWVHSlIwMzhqSTVlUjV3YjBVWklWbXZ6c2Z3b0Z6SUNwM3lt?oc=5",
+     "pub": "2026-11-06T18:46+00:00"
+    },
+    {
+     "medio": "Mundo Deportivo",
+     "titulo": "Everton - Coventry City, en directo | Premier League",
+     "url": "https://www.mundodeportivo.com/futbol/premier-league/20261106/1004246009/everton-coventry-city-directo-premier-league.html",
+     "pub": ""
     }
    ]
   },
@@ -1015,12 +1021,6 @@
      "pub": "2026-11-06T12:17+00:00"
     },
     {
-     "medio": "Foot Mercato",
-     "titulo": "Le PSG fait désormais peur à toute l’Europe, l’ultime mauvais coup de Cristiano Ronaldo au Portugal",
-     "url": "https://www.footmercato.net/a7106002904065281192-le-psg-fait-desormais-peur-a-toute-leurope-lultime-mauvais-coup-de-cristiano-ronaldo-au-portugal",
-     "pub": "2026-11-06T09:29+00:00"
-    },
-    {
      "medio": "Google News AR",
      "titulo": "El filoso comentario de Mourinho sobre el retiro de Cristiano de Portugal: \"Me gustaría...\"",
      "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQeTZ0VHZyZlV4MDgtVkZQdURlX2dhRWZ6VUdZQmhXbHBhcEFoY2RkaVJsVmgxTmJfc3Q0eHI5UzFHVTFva2VjZHJlbTgtLUxLb3hwOUhHZWRFLXdNQ25aNm1QZjBQYlQxT3NZdXVEMFBvb2lMOWZXUGxrXzBObFdnRXItczNpYl9WbmJMTEVaYXBkdFZhYWZ1bHMtMzJWWVluWWIyanBQVHBzZnk1SUxMbUZyeDdpQ0Z6VThJeEJNRUc4UnVJbmRaYXVlRS1qWkVTT2RDX0N2bmRpTTVOY0loMlV6N3RRTlRwMi1IYVRmLWZyd01UNC1USHl0Ry0yUDg?oc=5",
@@ -1037,6 +1037,198 @@
      "titulo": "Portugal coach Jorge Jesus hails Monza’s Varela: ‘Remarkable quality is needed to top Serie A scoring charts’",
      "url": "https://sports.yahoo.com/articles/portugal-coach-jorge-jesus-hails-193000824.html",
      "pub": "2026-11-06T19:30+00:00"
+    },
+    {
+     "medio": "Google News EN",
+     "titulo": "'I knew nothing' - Portugal boss Jesus respond's to Ronaldo's international retirement",
+     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNUnF3MUVHUmpJQnV5LUc3Q0E3c0Qyd2w4dFluMzRlX1UwMm5ia0Fack9HRDg2ZEQza01SYVk4cFR6NkJySndLNjZwMEtBZlZLVU9SNHg1WGF5TlBpOXJDdWJ0a0VkdHA1Q0tKdHljSVNiZEJYVC1tWXVqX0NjTFZYV1d1WnlOT1pHRVI0ekdKLW9lUElzaGQyUXBfdjZCTnhS?oc=5",
+     "pub": "2026-11-06T18:21+00:00"
+    }
+   ]
+  },
+  {
+   "tema": "Ronaldo",
+   "medios": 12,
+   "lista_medios": [
+    "BBC",
+    "Daily Mail",
+    "Foot Mercato",
+    "Google News EN",
+    "Infobae",
+    "L'Equipe",
+    "Mundo Deportivo",
+    "Ole",
+    "Planet Football",
+    "Record",
+    "Yahoo",
+    "ge.globo"
+   ],
+   "primera_vez": "2026-11-06T14:31+00:00",
+   "titulares": [
+    {
+     "medio": "BBC",
+     "titulo": "Portugal coach 'knew nothing' about Ronaldo retiring",
+     "url": "https://www.bbc.co.uk/sport/football/articles/cwzd66r22j68o?at_medium=RSS&at_campaign=rss",
+     "pub": "2026-11-06T14:25+00:00"
+    },
+    {
+     "medio": "Yahoo",
+     "titulo": "Jose Mourinho talks Cristiano Ronaldo, Valverde, Vinicius ahead of Valencia vs Real Madrid",
+     "url": "https://sports.yahoo.com/articles/jose-mourinho-talks-cristiano-ronaldo-132100058.html",
+     "pub": "2026-11-06T13:21+00:00"
+    },
+    {
+     "medio": "Google News EN",
+     "titulo": "Cristiano Ronaldo: Portugal coach Jorge Jesus 'knew nothing' about international retirement",
+     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5FeHBOQi1scm1VTGtFWVVtTWVyN3JMMVktTm1DS19pZExQQTk0X0U0X2dvLUxGdVNBa0N0SFd5SGlYNlptNXV2Sk50S2ZVc3hab3BSUTAxZnBrelBLYi04YzQ0UnR3NDNJSXFn?oc=5",
+     "pub": "2026-11-06T14:25+00:00"
+    },
+    {
+     "medio": "L'Equipe",
+     "titulo": "L'ouverture d'une nouvelle ère : la première liste du Portugal après la retraite internationale de Cristiano Ronaldo",
+     "url": "https://www.lequipe.fr/Football/Actualites/L-ouverture-d-une-nouvelle-ere-la-premiere-liste-du-portugal-apres-la-retraite-internationale-de-cristiano-ronaldo/1741627#at_medium=RSS_feeds",
+     "pub": "2026-11-06T14:14+00:00"
+    },
+    {
+     "medio": "L'Equipe",
+     "titulo": "Mourinho : «Il faut respecter le choix de Ronaldo»",
+     "url": "https://www.lequipe.fr/Football/Video/Portugal-jose-mourinho-appelle-a-respecter-la-decision-de-cristiano-ronaldo-de-mettre-un-terme-a-sa-carriere-internationale/20244986#at_medium=RSS_feeds",
+     "pub": "2026-11-06T11:21+00:00"
+    },
+    {
+     "medio": "Foot Mercato",
+     "titulo": "Retraite internationale de Cristiano Ronaldo : la réponse ferme de Jorge Jesus face aux accusations",
+     "url": "https://www.footmercato.net/a7632388758621614911-retraite-internationale-de-cristiano-ronaldo-la-reponse-ferme-de-jorge-jesus-face-aux-accusations",
+     "pub": "2026-11-06T14:00+00:00"
+    },
+    {
+     "medio": "Foot Mercato",
+     "titulo": "Portugal : Bernardo Silva succède officiellement à Cristiano Ronaldo comme capitaine",
+     "url": "https://www.footmercato.net/a959066555659530918-portugal-bernardo-silva-succede-officiellement-a-cristiano-ronaldo-comme-capitaine",
+     "pub": "2026-11-06T12:37+00:00"
+    },
+    {
+     "medio": "Foot Mercato",
+     "titulo": "La première liste du Portugal sans Cristiano Ronaldo",
+     "url": "https://www.footmercato.net/a2274149914462669034-la-premiere-liste-du-portugal-sans-cristiano-ronaldo",
+     "pub": "2026-11-06T12:17+00:00"
+    },
+    {
+     "medio": "Record",
+     "titulo": "<![CDATA[ Luís Pinto sobre Cristiano Ronaldo: «Como português, gostava que a despedida fosse diferente» ]]>",
+     "url": "https://www.record.pt/futebol/futebol-nacional/liga-betclic/gil-vicente/detalhe/luis-pinto-sobre-cristiano-ronaldo-como-portugues-gostava-que-a-despedida-fosse-diferente",
+     "pub": "2026-11-06T13:26+00:00"
+    },
+    {
+     "medio": "Record",
+     "titulo": "<![CDATA[ Jorge Jesus e saída de Cristiano Ronaldo: «Se calhar apressei as coisas...» ]]>",
+     "url": "https://www.record.pt/multimedia/videos/detalhe/jorge-jesus-e-saida-de-cristiano-ronaldo-se-calhar-apressei-as-coisas",
+     "pub": "2026-11-06T13:11+00:00"
+    },
+    {
+     "medio": "Record",
+     "titulo": "<![CDATA[ Quem vai suceder a Cristiano Ronaldo como capitão da Seleção Nacional? Jorge Jesus explica processo ]]>",
+     "url": "https://www.record.pt/multimedia/videos/detalhe/quem-vai-suceder-a-cristiano-ronaldo-como-capitao-da-selecao-nacional-jorge-jesus-explica-processo",
+     "pub": "2026-11-06T12:51+00:00"
+    },
+    {
+     "medio": "Ole",
+     "titulo": "Jorge Jesús rompió el silencio tras el retiro de Cristiano Ronaldo: \"Yo lo iba a convocar\"",
+     "url": "https://www.ole.com.ar/futbol-internacional/cristiano-ronaldo-jorge-jesus-retiro-portugal-dijo_0_MuZioTRztk.html",
+     "pub": "2026-11-06T13:29+00:00"
+    }
+   ]
+  },
+  {
+   "tema": "Cristiano",
+   "medios": 12,
+   "lista_medios": [
+    "Daily Mail",
+    "Foot Mercato",
+    "Google News AR",
+    "Google News EN",
+    "Infobae",
+    "L'Equipe",
+    "Mundo Deportivo",
+    "Ole",
+    "Planet Football",
+    "Record",
+    "Yahoo",
+    "ge.globo"
+   ],
+   "primera_vez": "2026-11-06T14:31+00:00",
+   "titulares": [
+    {
+     "medio": "Yahoo",
+     "titulo": "Jose Mourinho talks Cristiano Ronaldo, Valverde, Vinicius ahead of Valencia vs Real Madrid",
+     "url": "https://sports.yahoo.com/articles/jose-mourinho-talks-cristiano-ronaldo-132100058.html",
+     "pub": "2026-11-06T13:21+00:00"
+    },
+    {
+     "medio": "Google News EN",
+     "titulo": "Cristiano Ronaldo: Portugal coach Jorge Jesus 'knew nothing' about international retirement",
+     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5FeHBOQi1scm1VTGtFWVVtTWVyN3JMMVktTm1DS19pZExQQTk0X0U0X2dvLUxGdVNBa0N0SFd5SGlYNlptNXV2Sk50S2ZVc3hab3BSUTAxZnBrelBLYi04YzQ0UnR3NDNJSXFn?oc=5",
+     "pub": "2026-11-06T14:25+00:00"
+    },
+    {
+     "medio": "Mundo Deportivo",
+     "titulo": "Jorge Jesus, sobre el adiós de Cristiano: \"No me siento culpable de nada\"",
+     "url": "https://www.mundodeportivo.com/futbol/20261106/1004247941/jorge-jesus-sobre-adios-cristiano-no-me-siento-culpable.html",
+     "pub": ""
+    },
+    {
+     "medio": "Mundo Deportivo",
+     "titulo": "Cancelo y Bernardo Silva, en la primera lista de Portugal sin Cristiano",
+     "url": "https://www.mundodeportivo.com/futbol/20261106/1004247917/cancelo-bernardo-silva-primera-lista-portugal-cristiano.html",
+     "pub": ""
+    },
+    {
+     "medio": "L'Equipe",
+     "titulo": "L'ouverture d'une nouvelle ère : la première liste du Portugal après la retraite internationale de Cristiano Ronaldo",
+     "url": "https://www.lequipe.fr/Football/Actualites/L-ouverture-d-une-nouvelle-ere-la-premiere-liste-du-portugal-apres-la-retraite-internationale-de-cristiano-ronaldo/1741627#at_medium=RSS_feeds",
+     "pub": "2026-11-06T14:14+00:00"
+    },
+    {
+     "medio": "Foot Mercato",
+     "titulo": "Retraite internationale de Cristiano Ronaldo : la réponse ferme de Jorge Jesus face aux accusations",
+     "url": "https://www.footmercato.net/a7632388758621614911-retraite-internationale-de-cristiano-ronaldo-la-reponse-ferme-de-jorge-jesus-face-aux-accusations",
+     "pub": "2026-11-06T14:00+00:00"
+    },
+    {
+     "medio": "Foot Mercato",
+     "titulo": "Portugal : Bernardo Silva succède officiellement à Cristiano Ronaldo comme capitaine",
+     "url": "https://www.footmercato.net/a959066555659530918-portugal-bernardo-silva-succede-officiellement-a-cristiano-ronaldo-comme-capitaine",
+     "pub": "2026-11-06T12:37+00:00"
+    },
+    {
+     "medio": "Foot Mercato",
+     "titulo": "La première liste du Portugal sans Cristiano Ronaldo",
+     "url": "https://www.footmercato.net/a2274149914462669034-la-premiere-liste-du-portugal-sans-cristiano-ronaldo",
+     "pub": "2026-11-06T12:17+00:00"
+    },
+    {
+     "medio": "Record",
+     "titulo": "<![CDATA[ Luís Pinto sobre Cristiano Ronaldo: «Como português, gostava que a despedida fosse diferente» ]]>",
+     "url": "https://www.record.pt/futebol/futebol-nacional/liga-betclic/gil-vicente/detalhe/luis-pinto-sobre-cristiano-ronaldo-como-portugues-gostava-que-a-despedida-fosse-diferente",
+     "pub": "2026-11-06T13:26+00:00"
+    },
+    {
+     "medio": "Record",
+     "titulo": "<![CDATA[ Jorge Jesus e saída de Cristiano Ronaldo: «Se calhar apressei as coisas...» ]]>",
+     "url": "https://www.record.pt/multimedia/videos/detalhe/jorge-jesus-e-saida-de-cristiano-ronaldo-se-calhar-apressei-as-coisas",
+     "pub": "2026-11-06T13:11+00:00"
+    },
+    {
+     "medio": "Record",
+     "titulo": "<![CDATA[ Jorge Jesus: «Não sei responder o porquê da decisão do Cristiano» ]]>",
+     "url": "https://www.record.pt/multimedia/videos/detalhe/jorge-jesus-nao-sei-responder-o-porque-da-decisao-do-cristiano",
+     "pub": "2026-11-06T12:59+00:00"
+    },
+    {
+     "medio": "Record",
+     "titulo": "<![CDATA[ Quem vai suceder a Cristiano Ronaldo como capitão da Seleção Nacional? Jorge Jesus explica processo ]]>",
+     "url": "https://www.record.pt/multimedia/videos/detalhe/quem-vai-suceder-a-cristiano-ronaldo-como-capitao-da-selecao-nacional-jorge-jesus-explica-processo",
+     "pub": "2026-11-06T12:51+00:00"
     }
    ]
   },
@@ -1077,12 +1269,6 @@
      "pub": "2026-11-06T14:00+00:00"
     },
     {
-     "medio": "Sky Sports",
-     "titulo": "Palmer left out of England squad as Jobe and King called up",
-     "url": "https://www.skysports.com/football/news/12040/13608698/england-squad-cole-palmer-phil-foden-and-kobbie-mainoo-left-out-as-jobe-bellingham-and-josh-king-called-up",
-     "pub": "2026-11-06T10:00+00:00"
-    },
-    {
      "medio": "talkSPORT",
      "titulo": "39-cap England star told he may never play for Three Lions again",
      "url": "https://talksport.com/football/4690407/jack-grealish-england-future-thomas-tuchel/",
@@ -1093,18 +1279,6 @@
      "titulo": "Man United wonderkid Shea Lacey eyed up by rival nation amid uncertain England future",
      "url": "https://talksport.com/football/4690478/man-united-shea-lacey-ireland-eligibility-england-future/",
      "pub": "2026-11-06T11:11+00:00"
-    },
-    {
-     "medio": "talkSPORT",
-     "titulo": "Jobe Bellingham handed surprise England call-up along with uncapped Premier League star as Cole Palmer left out",
-     "url": "https://talksport.com/football/4690346/england-squad-announcement-thomas-tuchel-cole-palmer-jobe-bellingham/",
-     "pub": "2026-11-06T10:04+00:00"
-    },
-    {
-     "medio": "talkSPORT",
-     "titulo": "What time is the England squad announcement? Thomas Tuchel to reveal team to face Croatia and Spain",
-     "url": "https://talksport.com/football/4682635/england-squad-announcement-date-time-team-tuchel-kane/",
-     "pub": "2026-11-06T08:43+00:00"
     },
     {
      "medio": "Daily Mail",
@@ -1129,98 +1303,24 @@
      "titulo": "Thomas Tuchel backs Anthony Barry to stick with England despite Crystal Palace interest",
      "url": "https://www.mirror.co.uk/sport/football/news/england-thomas-tuchel-anthony-barry-37851202",
      "pub": "2026-11-06T14:00+00:00"
-    }
-   ]
-  },
-  {
-   "tema": "Nottingham",
-   "medios": 11,
-   "lista_medios": [
-    "AS",
-    "FourFourTwo",
-    "Google News EN",
-    "Google News ES",
-    "Guardian",
-    "Kicker",
-    "Mundo Deportivo",
-    "Ole",
-    "Record",
-    "Yahoo",
-    "ge.globo"
-   ],
-   "primera_vez": "2026-11-06T14:31+00:00",
-   "titulares": [
-    {
-     "medio": "Guardian",
-     "titulo": "Nottingham Forest’s historic goal drought at home is part of longstanding problem",
-     "url": "https://www.theguardian.com/football/2026/nov/06/nottingham-forest-no-goals-home-oliver-glasner",
-     "pub": "2026-11-06T10:49+00:00"
     },
     {
-     "medio": "Yahoo",
-     "titulo": "Rennes coach Franck Haise reveals surprising reason for turning down Everton, Brighton and Nottingham Forest",
-     "url": "https://sports.yahoo.com/articles/rennes-coach-franck-haise-reveals-125300438.html",
-     "pub": "2026-11-06T12:53+00:00"
+     "medio": "Mirror",
+     "titulo": "What Chelsea told Thomas Tuchel about Cole Palmer before latest England snub",
+     "url": "https://www.mirror.co.uk/sport/football/news/cole-palmer-chelsea-england-tuchel-37850620",
+     "pub": "2026-11-06T13:30+00:00"
     },
     {
-     "medio": "ge.globo",
-     "titulo": "Nottingham Forest x Manchester City na Premier League: onde assistir ao vivo e horário",
-     "url": "https://ge.globo.com/futebol/futebol-internacional/futebol-ingles/noticia/2026/11/06/nottingham-forest-x-manchester-city-na-premier-league-onde-assistir-ao-vivo-e-horario.ghtml",
-     "pub": "2026-11-06T16:30+00:00"
+     "medio": "Mirror",
+     "titulo": "England squad recap: Thomas Tuchel explains reason behind Cole Palmer's latest snub",
+     "url": "https://www.mirror.co.uk/sport/football/news/england-squad-announcement-live-thomas-37848875",
+     "pub": "2026-11-06T13:07+00:00"
     },
     {
-     "medio": "Yahoo",
-     "titulo": "Man City Starting XI vs Nottingham Forest: Confirmed Team News and Predicted Lineup",
-     "url": "https://sports.yahoo.com/articles/man-city-starting-xi-vs-125000940.html",
-     "pub": "2026-11-07T12:50+00:00"
-    },
-    {
-     "medio": "Google News EN",
-     "titulo": "STAR FOOTBALL PREVIEW Sat: Nottingham Forest v Man City",
-     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNR1YxT0tSWS1fQTBIZHNiWXltRmUxbTFkVVAtNUFRZjkyRFVWc2k4N2drSnFzODl1VzlXY1Q2dkR1NXc5WG02ZGZ2UlpCM1RFUGo3eTRCX0xrNGl1MGV0cjlmckd2RzJPbWZycXF5ZldneFVkMWZ3VldTeHBWZ1JGZnVDYW9YWVkwQzF1eURJNEY?oc=5",
-     "pub": "2026-11-07T10:23+00:00"
-    },
-    {
-     "medio": "Google News ES",
-     "titulo": "Nottingham Forest vs Manchester City: horario y dónde ver hoy por TV y online el partido de la Premier League 2026/27 a través de DAZN",
-     "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPdmV5Sll4MHY0UzhfemZHSWNSdWJDOV9RV2ZPenNIb3prTEE3S0pHb29MZmY4S1EtWmNRQW1ZUkw5NFpOTkRWZ284clBtUDlfWV9ObjRoejQ4ckVKdFpVSUtuRGx3alJrLWhhZkk1X3hwdkhsQ2lQS05McHc5c1hWRldqUlR4V05RajhNem1FbUhMTFBmd3YtYUNfbjVSZVlZU3pFZlBpSHk4X293ZHlwTkZvcDRKWVNFN1RCU2NrQjBxNDhoLWRTYVMyZDRBaFNDc0JSYWxlb3Vfd0NITFdfZEVjV3VFeHlQcFRWbXBzaUpiMHl5cTBYRHFCaTFCR00?oc=5",
-     "pub": "2026-11-07T11:08+00:00"
-    },
-    {
-     "medio": "Guardian",
-     "titulo": "Nottingham Forest v Manchester City: Premier League – live",
-     "url": "https://www.theguardian.com/football/live/2026/nov/07/nottingham-forest-v-manchester-city-premier-league-live",
-     "pub": "2026-11-07T18:01+00:00"
-    },
-    {
-     "medio": "FourFourTwo",
-     "titulo": "Watch Nottingham Forest vs Manchester City: FREE streams",
-     "url": "https://www.fourfourtwo.com/competition/watch-nottingham-forest-vs-manchester-city-premier-league-2026-27-free",
-     "pub": "2026-11-07T14:30+00:00"
-    },
-    {
-     "medio": "Yahoo",
-     "titulo": "🚨 Nottingham Forest-Manchester City line-ups: Ndiaye starts, not Foden!",
-     "url": "https://sports.yahoo.com/articles/nottingham-forest-manchester-city-line-163500793.html",
-     "pub": "2026-11-07T16:35+00:00"
-    },
-    {
-     "medio": "Yahoo",
-     "titulo": "Manchester City starting XI confirmed vs Nottingham Forest as Maresca makes key selection calls",
-     "url": "https://sports.yahoo.com/articles/manchester-city-starting-xi-confirmed-161900294.html",
-     "pub": "2026-11-07T16:19+00:00"
-    },
-    {
-     "medio": "Yahoo",
-     "titulo": "Confirmed Line-Ups: Nottingham Forest vs Manchester City (Premier League)",
-     "url": "https://sports.yahoo.com/articles/confirmed-line-ups-nottingham-forest-161500639.html",
-     "pub": "2026-11-07T16:15+00:00"
-    },
-    {
-     "medio": "Google News EN",
-     "titulo": "Nottingham Forest vs Man City LIVE! Premier League score updates, news, prediction, line-ups and how to watch or stream",
-     "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOVC11NUVOaDJiSnVFcVdSY1MwU2J2NkF3NDhzRWlHcFJTdjJMSDN3ZTAtaUYtQ0Vzd0ZBak42Qm9YZzJlLVB2a01TQXVRTC1ESGFTZnEyd3R4bnlFMC1tQ0lLbkRhbTRlOENtb0UtZUxOUGlsVGJ2d0s3NVVOYjR4djF0cDhraUQ1TVktZ0l4ZWVJWUk5MFdGaFdUckxnUl8zcVMxX1lVX050RWV0NUZfZ3hnUTdfRXZVeTBJMUMtX0U1bTZPUEVGQWJzZllwU1dGQy1Wc1RFMWlmUnUzQkFVbWhFVlhyWnd1U3JUNFcwbXM0b0tpb1Y4enhoR2pXZw?oc=5",
-     "pub": "2026-11-07T18:14+00:00"
+     "medio": "Mirror",
+     "titulo": "England star already suspended after squad call-up as Thomas Tuchel faces immediate dilemma",
+     "url": "https://www.mirror.co.uk/sport/football/news/england-myles-lewis-skelly-suspension-37850876",
+     "pub": "2026-11-06T13:05+00:00"
     }
    ]
   },
@@ -1273,18 +1373,6 @@
      "pub": "2026-11-06T10:17+00:00"
     },
     {
-     "medio": "Kicker",
-     "titulo": "Danks kündigt Pausen an - Wer kann bei Bayern überhaupt links spielen?",
-     "url": "https://www.kicker.de/danks-kuendigt-pausen-an-wer-kann-bei-bayern-ueberhaupt-links-spielen-1269125/artikel#omrss",
-     "pub": "2026-11-06T10:00+00:00"
-    },
-    {
-     "medio": "Kicker",
-     "titulo": "Regionalliga Bayern abschaffen? BFV antwortet scharf auf Seitz' Forderung",
-     "url": "https://www.kicker.de/regionalliga-bayern-abschaffen-bfv-antwortet-scharf-auf-seitz-forderung-1269119/artikel#omrss",
-     "pub": "2026-11-06T09:54+00:00"
-    },
-    {
      "medio": "L'Equipe",
      "titulo": "Malgré la prolongation de Kane au Bayern, Tottenham conserverait un droit de préemption sur un éventuel transfert du Ballon d'Or 2026",
      "url": "https://www.lequipe.fr/Football/Actualites/Malgre-la-prolongation-de-kane-au-bayern-tottenham-conserve-un-droit-sur-un-eventuel-transfert-du-ballon-d-or-2026/1741546#at_medium=RSS_feeds",
@@ -1313,6 +1401,110 @@
      "titulo": "Bayern Munich's £400,000-a-week 'risk' on Harry Kane: Dietmar Hamann reveals doubts about Ballon d'Or winner - and claims no English team would have matched mega contract offer",
      "url": "https://www.dailymail.com/sport/football/article-16271615/Bayern-Munichs-400-000-week-risk-Harry-Kane-Dietmar-Hamann-reveals-doubts-Ballon-dOr-winner-claims-no-English-team-matched-mega-contract-offer.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
      "pub": "2026-11-06T22:12+00:00"
+    },
+    {
+     "medio": "Yahoo",
+     "titulo": "👕 This week's new kits: Real Madrid, Bayern, Palmeiras and more; photos",
+     "url": "https://sports.yahoo.com/articles/weeks-kits-real-madrid-bayern-130400845.html",
+     "pub": "2026-11-07T13:04+00:00"
+    },
+    {
+     "medio": "Kicker",
+     "titulo": "LIVE! Bayreuth greift bei Bayern II nach Platz 4 - Hält sich Schweinfurt über der Gefahrenzone",
+     "url": "https://www.kicker.de/live-bayreuth-greift-bei-bayern-ii-nach-platz-4-haelt-sich-schweinfurt-ueber-der-gefahrenzone-1238049/artikel#omrss",
+     "pub": "2026-11-07T11:53+00:00"
+    }
+   ]
+  },
+  {
+   "tema": "Miguel",
+   "medios": 11,
+   "lista_medios": [
+    "AS",
+    "Foot Mercato",
+    "Google News AR",
+    "Google News ES",
+    "Infobae",
+    "Kicker",
+    "L'Equipe",
+    "Mirror",
+    "Mundo Deportivo",
+    "Ole",
+    "Record"
+   ],
+   "primera_vez": "2026-11-06T14:31+00:00",
+   "titulares": [
+    {
+     "medio": "Mirror",
+     "titulo": "Goalkeeper involved in fatal Jesus de Miguel collision 'considering walking away from football'",
+     "url": "https://www.mirror.co.uk/sport/football/news/jesus-de-miguel-death-goalkeeper-37851157",
+     "pub": "2026-11-06T13:11+00:00"
+    },
+    {
+     "medio": "AS",
+     "titulo": "El Sabadell dedica su camiseta a Jesús de Miguel",
+     "url": "https://as.com/futbol/segunda/el-sabadell-dedica-su-camiseta-a-jesus-de-miguel-f202611-n/",
+     "pub": "2026-11-06T12:16+00:00"
+    },
+    {
+     "medio": "AS",
+     "titulo": "Mestalla rendirá tributo a Jesús de Miguel",
+     "url": "https://as.com/futbol/primera/mestalla-rendira-tributo-a-jesus-de-miguel-f202611-n/",
+     "pub": "2026-11-06T10:36+00:00"
+    },
+    {
+     "medio": "Mundo Deportivo",
+     "titulo": "El CE Sabadell convertirá su camiseta en un homenaje a Jesús de Miguel",
+     "url": "https://www.mundodeportivo.com/futbol/sabadell/20261106/1004247908/ce-sabadell-convertira-camiseta-homenaje-jesus-miguel.html",
+     "pub": ""
+    },
+    {
+     "medio": "Mundo Deportivo",
+     "titulo": "El Valencia homenajeará a Jesús de Miguel con la bandera del Tenerife a media asta en Mestalla",
+     "url": "https://www.mundodeportivo.com/futbol/valencia/20261106/1004247872/valencia-homenajeara-jesus-miguel-bandera-tenerife-media-asta-mestalla.html",
+     "pub": ""
+    },
+    {
+     "medio": "Google News ES",
+     "titulo": "El fútbol se vuelca con la familia de Jesús de Miguel: una recaudación de 100.000 euros con muchos conocidos entre los donantes",
+     "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxObEdMaVU1aDBSWHZQZlJqYlRLb2JWS2pLVXVhRS0tblUxWUpic0NmNU1NOTQxUS1XTlB0SUFJZHlhX0w1R09BcTRwbnRHcGhaRDUtRF95TXVKeWxzZG5TUTdkbGhhWno0ZEM4Y1l0MWQ1aGllQTBpZUhOMERLck54cWRUeG5sZG9MbkQzd3NNUHZjd3F4V2pXSndraXlXN21YX09oLVRsenF4cGZDa1hxREhzYTROb2h5UG5Ed2NQUWxOM1JkdXFIV2p3ZkFFd3BoTGc0c1BNankwd9IB3wFBVV95cUxOMEk2MVF0OTFaM1dxMmhEUUVGVndQX2U3Q3Y4VDItN0o3THJTbmZ6dm9URl9ITkJFM215bGZjWTI4T0F2c2lUVkFPY1ZkYVA1d0x3NVVNUHd5cGpNYmFFNWNjelFnc1lmWDBqNmRCcVltTXNSYnVrOEx4My1Gb3I1UmF2Y0tzaGsyN2g4bUIxWHJZT0hybmJjZVo1UjRpNC1DX0pITnpxY0liTUtSMUlyS295ckRUSFo4MmQybE5IWmlRMEhUZlY3RGtvbVZlMlpHZWN4MzE4cEVaN1lybVpj?oc=5",
+     "pub": "2026-11-06T11:31+00:00"
+    },
+    {
+     "medio": "Google News ES",
+     "titulo": "El fútbol regional rendirá homenaje a Jesús de Miguel",
+     "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNRnFUMDFublZKWF92TkZDMzBvdFRjS1JWc0lUb3k0S0pxbnI3LVM2T2FPd1c0cGdjSmplcjJTbGpnNm5NcGJIRlZFb0NVUlQ2QUtac3ZJVXFOWUs5b1hfbXN4M2oyX1BubFNwT3BlR0h2cWRjbWZGNUxTOWhSajlRTHJQdTFmSkY1UWhpSUlKb3ctdTc1cG9lNC1zMjExUjlkWU5pdmwwaW1lbWthaG1tUlpFNHFhMWozQjI2Y3JZTDlzaTdFelV5WXV6QldSckRhRkhfX3B6M3R1Zw?oc=5",
+     "pub": "2026-11-06T12:35+00:00"
+    },
+    {
+     "medio": "Google News ES",
+     "titulo": "El fútbol se vuelca con Jesús de Miguel: Morata y Baena lideran una ayuda que roza los 100.000 euros",
+     "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOVDRXUzBLZE1WcEhjclVNZjZhTHFwd3Fpd2tocFNvQXJ4MWtPX0FNTDBwOFpKUDNJY3ZIMVVoTEJDTG1pbFdXUTJtalJRMWZ5TXhfODNFZjNyQjRxdWpIdktiSW5FY25Ld2c5cmd4TTZrOFJkOUpsRDQ2VVdyZ1E0OGdBb01lRVQ4R0wxQjJYR2pNbER3TThYeWZqcllCMTdkYml1NkxWSEpuMTVWcW9sRklBRUlkVWhHUWlVcGMtTlExZloyNldtNTU0TjNfalFWOThReURha2LSAd4BQVVfeXFMTzJDdDVfMURmY2xqdnNkM3Bac0psaS04MU1qYlh4MllBWXcxbHJ4TG5hUkxJTDdLdUd6NXhOWVVieGQyME4wcEhoUmxsVGw2cXpyb21tRTYzMEI2Qkw0RGZpb0kzTHhFa2llandJd3d0b2N1QVB1NnIzUTg3UzBaOGZ0MTd0eFNjRk5ZYUc4TW9mdTdGQmsybVkwcElleDNGM1lYSDhFM01WdExwc2ZYREVQbl9FNl9GZUZ0WDJ4elhUSHQ4RklwQWVWRkZoemFrU2dHbnloQkpDd1UwVnFB?oc=5",
+     "pub": "2026-11-06T12:08+00:00"
+    },
+    {
+     "medio": "Google News ES",
+     "titulo": "«Siempre en nuestro recuerdo», el homenaje del fútbol español a Jesús de Miguel esta jornada",
+     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNN0Y5VWNBS3lzaGZWMktKdjJBblljR1BRWlU3b1NrcGZJTHFxUmZDaTVSZHFIR012b0UzZnlqTFBESUdTWW90cVppUmd3VEFaajR2SXBkUGpfT0dDRFVQS2pISi1pWFZRWmQtOWppMjg5N2FJWENUel9Ta3FjSG1WczE3dWtjM1BSblRoRk1uYWxEbURCQ2dQVVJNNTVrTDdONnc1M0pfREpFeEFzUllUV1dCdXZWN20zcnEzZXB4Yno?oc=5",
+     "pub": "2026-11-06T11:58+00:00"
+    },
+    {
+     "medio": "Google News ES",
+     "titulo": "El fútbol español se vuelca con la familia de Jesús de Miguel a través de iniciativas solidarias",
+     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOX09NZW4zTFFHaVdaUWZWUEhQQXg4QUw3dXdOMlMwekVTaXJBMWZiblFFak9ncUdtR0JsMmNqRk52Tk9XY2Rxc1JJam9HZnZfQ1NqdE5yc2RqYkRVM3BBMi10MFh5cnhLcTVjVTVINmJRZ3UyMlE1ZHh1MTg3RGZucklDVEZrd0lOc0pDaFNnR1hjVGRmcHh6cmJURUZreENieGdmWmNfemJiM09hbXVnMUd3?oc=5",
+     "pub": "2026-11-06T14:23+00:00"
+    },
+    {
+     "medio": "Google News ES",
+     "titulo": "El fútbol español se detendrá en el minuto 9 en homenaje a Jesús de Miguel",
+     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNTHJBWTFyVk90Mm9kWXcwSnl3WGFaV2JkVEMzaGR1TkY1X1o0aFhEMGJ0ZGg3aktXM0d0Rkh2R2dYT28yQUFpMXo4TUU4NWFVOUNDcW1mTFZWYTVPSWdMLTBrSUdIcHMwSnVUcXJxbnhYQk1BT25UTzVZSUJweG9vRlVjd1pnYlZyckxZYVcyeGk1eW5jbHppR3V3ZHpmSVNERTBXc1FCSUN3R2cza0gxRVdUWjU?oc=5",
+     "pub": "2026-11-06T10:44+00:00"
+    },
+    {
+     "medio": "Mirror",
+     "titulo": "Jesus de Miguel death sparks calls for football rule change as medic issues urgent plea",
+     "url": "https://www.mirror.co.uk/sport/football/news/jesus-de-miguel-death-sparks-37852432",
+     "pub": "2026-11-06T16:39+00:00"
     }
    ]
   },
@@ -1405,98 +1597,6 @@
      "titulo": "Arsenal 1-0 Hull analysis: Win means penalty drama can be overlooked",
      "url": "https://sports.yahoo.com/articles/arsenal-1-0-hull-analysis-173933198.html",
      "pub": "2026-11-07T17:39+00:00"
-    }
-   ]
-  },
-  {
-   "tema": "Forest",
-   "medios": 11,
-   "lista_medios": [
-    "AS",
-    "FourFourTwo",
-    "Google News EN",
-    "Google News ES",
-    "Guardian",
-    "Mirror",
-    "Mundo Deportivo",
-    "Ole",
-    "Sky Sports",
-    "Yahoo",
-    "ge.globo"
-   ],
-   "primera_vez": "2026-11-06T14:31+00:00",
-   "titulares": [
-    {
-     "medio": "Yahoo",
-     "titulo": "Rennes coach Franck Haise reveals surprising reason for turning down Everton, Brighton and Nottingham Forest",
-     "url": "https://sports.yahoo.com/articles/rennes-coach-franck-haise-reveals-125300438.html",
-     "pub": "2026-11-06T12:53+00:00"
-    },
-    {
-     "medio": "ge.globo",
-     "titulo": "Nottingham Forest x Manchester City na Premier League: onde assistir ao vivo e horário",
-     "url": "https://ge.globo.com/futebol/futebol-internacional/futebol-ingles/noticia/2026/11/06/nottingham-forest-x-manchester-city-na-premier-league-onde-assistir-ao-vivo-e-horario.ghtml",
-     "pub": "2026-11-06T16:30+00:00"
-    },
-    {
-     "medio": "Yahoo",
-     "titulo": "Man City Starting XI vs Nottingham Forest: Confirmed Team News and Predicted Lineup",
-     "url": "https://sports.yahoo.com/articles/man-city-starting-xi-vs-125000940.html",
-     "pub": "2026-11-07T12:50+00:00"
-    },
-    {
-     "medio": "Google News EN",
-     "titulo": "STAR FOOTBALL PREVIEW Sat: Nottingham Forest v Man City",
-     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNR1YxT0tSWS1fQTBIZHNiWXltRmUxbTFkVVAtNUFRZjkyRFVWc2k4N2drSnFzODl1VzlXY1Q2dkR1NXc5WG02ZGZ2UlpCM1RFUGo3eTRCX0xrNGl1MGV0cjlmckd2RzJPbWZycXF5ZldneFVkMWZ3VldTeHBWZ1JGZnVDYW9YWVkwQzF1eURJNEY?oc=5",
-     "pub": "2026-11-07T10:23+00:00"
-    },
-    {
-     "medio": "Google News ES",
-     "titulo": "Nottingham Forest vs Manchester City: horario y dónde ver hoy por TV y online el partido de la Premier League 2026/27 a través de DAZN",
-     "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPdmV5Sll4MHY0UzhfemZHSWNSdWJDOV9RV2ZPenNIb3prTEE3S0pHb29MZmY4S1EtWmNRQW1ZUkw5NFpOTkRWZ284clBtUDlfWV9ObjRoejQ4ckVKdFpVSUtuRGx3alJrLWhhZkk1X3hwdkhsQ2lQS05McHc5c1hWRldqUlR4V05RajhNem1FbUhMTFBmd3YtYUNfbjVSZVlZU3pFZlBpSHk4X293ZHlwTkZvcDRKWVNFN1RCU2NrQjBxNDhoLWRTYVMyZDRBaFNDc0JSYWxlb3Vfd0NITFdfZEVjV3VFeHlQcFRWbXBzaUpiMHl5cTBYRHFCaTFCR00?oc=5",
-     "pub": "2026-11-07T11:08+00:00"
-    },
-    {
-     "medio": "Guardian",
-     "titulo": "Nottingham Forest v Manchester City: Premier League – live",
-     "url": "https://www.theguardian.com/football/live/2026/nov/07/nottingham-forest-v-manchester-city-premier-league-live",
-     "pub": "2026-11-07T18:01+00:00"
-    },
-    {
-     "medio": "Sky Sports",
-     "titulo": "'Cool finish' from Cunha gives Forest an early lead vs Man City",
-     "url": "https://www.skysports.com/watch/video/13609457/goal-j-cunha-6-nottm-forest-1-0-manchester-city",
-     "pub": "2026-11-07T17:43+00:00"
-    },
-    {
-     "medio": "Mirror",
-     "titulo": "Non-league clash postponed as ex-Forest starlet rushed to hospital in warm-up",
-     "url": "https://www.mirror.co.uk/sport/football/news/truro-folkestone-yassine-en-neyah-37854450",
-     "pub": "2026-11-07T16:41+00:00"
-    },
-    {
-     "medio": "FourFourTwo",
-     "titulo": "Watch Nottingham Forest vs Manchester City: FREE streams",
-     "url": "https://www.fourfourtwo.com/competition/watch-nottingham-forest-vs-manchester-city-premier-league-2026-27-free",
-     "pub": "2026-11-07T14:30+00:00"
-    },
-    {
-     "medio": "Yahoo",
-     "titulo": "Manchester City starting XI confirmed vs Nottingham Forest as Maresca makes key selection calls",
-     "url": "https://sports.yahoo.com/articles/manchester-city-starting-xi-confirmed-161900294.html",
-     "pub": "2026-11-07T16:19+00:00"
-    },
-    {
-     "medio": "Yahoo",
-     "titulo": "Confirmed Line-Ups: Nottingham Forest vs Manchester City (Premier League)",
-     "url": "https://sports.yahoo.com/articles/confirmed-line-ups-nottingham-forest-161500639.html",
-     "pub": "2026-11-07T16:15+00:00"
-    },
-    {
-     "medio": "Google News EN",
-     "titulo": "Nottingham Forest vs Man City LIVE! Premier League score updates, news, prediction, line-ups and how to watch or stream",
-     "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOVC11NUVOaDJiSnVFcVdSY1MwU2J2NkF3NDhzRWlHcFJTdjJMSDN3ZTAtaUYtQ0Vzd0ZBak42Qm9YZzJlLVB2a01TQXVRTC1ESGFTZnEyd3R4bnlFMC1tQ0lLbkRhbTRlOENtb0UtZUxOUGlsVGJ2d0s3NVVOYjR4djF0cDhraUQ1TVktZ0l4ZWVJWUk5MFdGaFdUckxnUl8zcVMxX1lVX050RWV0NUZfZ3hnUTdfRXZVeTBJMUMtX0U1bTZPUEVGQWJzZllwU1dGQy1Wc1RFMWlmUnUzQkFVbWhFVlhyWnd1U3JUNFcwbXM0b0tpb1Y4enhoR2pXZw?oc=5",
-     "pub": "2026-11-07T18:14+00:00"
     }
    ]
   },
@@ -1622,18 +1722,6 @@
      "pub": "2026-11-06T11:54+00:00"
     },
     {
-     "medio": "Sky Sports",
-     "titulo": "Palmer left out of England squad as Jobe and King called up",
-     "url": "https://www.skysports.com/football/news/12040/13608698/england-squad-cole-palmer-phil-foden-and-kobbie-mainoo-left-out-as-jobe-bellingham-and-josh-king-called-up",
-     "pub": "2026-11-06T10:00+00:00"
-    },
-    {
-     "medio": "talkSPORT",
-     "titulo": "Jobe Bellingham handed surprise England call-up along with uncapped Premier League star as Cole Palmer left out",
-     "url": "https://talksport.com/football/4690346/england-squad-announcement-thomas-tuchel-cole-palmer-jobe-bellingham/",
-     "pub": "2026-11-06T10:04+00:00"
-    },
-    {
      "medio": "Daily Mail",
      "titulo": "Jude Bellingham's brother Jobe gets first England call-up - as Thomas Tuchel explains axeing Cole Palmer, who 'misses too many opportunities to impress': Squad announcement LIVE",
      "url": "https://www.dailymail.com/sport/football/article-16270889/england-squad-announcement-cole-palmer-jordan-henderson.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
@@ -1680,97 +1768,109 @@
      "titulo": "Thomas Tuchel : « Cole Palmer a manqué trop d'opportunités » pour s'imposer au sein de l'équipe d'Angleterre",
      "url": "https://www.lequipe.fr/Football/Actualites/Thomas-tuchel-cole-palmer-a-manque-trop-d-opportunites-pour-s-imposer-au-sein-de-l-equipe-d-angleterre/1741590#at_medium=RSS_feeds",
      "pub": "2026-11-06T12:31+00:00"
+    },
+    {
+     "medio": "Foot Mercato",
+     "titulo": "Angleterre : Thomas Tuchel justifie la mise à l’écart de Cole Palmer",
+     "url": "https://www.footmercato.net/a3620344489847071782-angleterre-thomas-tuchel-justifie-la-mise-a-lecart-de-cole-palmer",
+     "pub": "2026-11-06T13:15+00:00"
+    },
+    {
+     "medio": "talkSPORT",
+     "titulo": "Thomas Tuchel: I did not need to speak with Cole Palmer about England squad omission",
+     "url": "https://talksport.com/football/4691130/thomas-tuchel-cole-palmer-no-contact-england-snub/",
+     "pub": "2026-11-06T14:52+00:00"
     }
    ]
   },
   {
-   "tema": "Coventry",
+   "tema": "Man",
    "medios": 10,
    "lista_medios": [
     "BBC",
     "Daily Mail",
     "Foot Mercato",
-    "FourFourTwo",
     "Google News EN",
-    "Guardian",
-    "L'Equipe",
     "Mirror",
-    "Mundo Deportivo",
+    "Planet Football",
+    "Sky Sports",
+    "Telegraph",
+    "Yahoo",
     "talkSPORT"
    ],
    "primera_vez": "2026-11-06T14:31+00:00",
    "titulares": [
     {
      "medio": "BBC",
-     "titulo": "Lampard looks for Coventry progress as belief grows",
-     "url": "https://www.bbc.co.uk/sport/football/articles/cr20w943gvl5o?at_medium=RSS&at_campaign=rss",
-     "pub": "2026-11-06T08:11+00:00"
-    },
-    {
-     "medio": "Guardian",
-     "titulo": "Win at Everton would put Coventry on right side of history in survival fight",
-     "url": "https://www.theguardian.com/football/2026/nov/06/coventry-everton-frank-lampard-premier-league-survival",
-     "pub": "2026-11-06T08:00+00:00"
-    },
-    {
-     "medio": "Google News EN",
-     "titulo": "STAR FOOTBALL PREVIEW Fri: Everton v Coventry City",
-     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNRzdMS0J1Y1VrckJRRVQxWUFqZ1RTR0w4T0lRS29WMjhrU1RlaXFIaXNSNVI5c3VJVVpqSEFZdHBWeUc5VlQ3ZGZDVVNyZWNRRUo4WFVZcllaZWpvNGZxbnlwRFpyYVMxZzVaSWxzQUhvdnhUYmpoNUlJWnZJaXNySHRxUUU5YzZYeGc?oc=5",
-     "pub": "2026-11-06T14:05+00:00"
-    },
-    {
-     "medio": "Guardian",
-     "titulo": "Everton v Coventry City: Premier League – live",
-     "url": "https://www.theguardian.com/football/live/2026/nov/06/everton-v-coventry-city-premier-league-live-updates",
-     "pub": "2026-11-06T20:51+00:00"
+     "titulo": "Has Anderson lived up to the hype after Man City move?",
+     "url": "https://www.bbc.co.uk/sport/football/articles/cqde8w0k2pz1o?at_medium=RSS&at_campaign=rss",
+     "pub": "2026-11-06T12:00+00:00"
     },
     {
      "medio": "talkSPORT",
-     "titulo": "David Moyes makes history instantly after Everton vs Coventry kicks off",
-     "url": "https://talksport.com/football/4691546/david-moyes-history-everton-coventry-kick-off/",
-     "pub": "2026-11-06T20:04+00:00"
-    },
-    {
-     "medio": "FourFourTwo",
-     "titulo": "Watch Everton vs Coventry City: FREE streams and TV channels",
-     "url": "https://www.fourfourtwo.com/competition/watch-everton-vs-coventry-city-premier-league-2026-27-free",
-     "pub": "2026-11-06T17:00+00:00"
-    },
-    {
-     "medio": "Google News EN",
-     "titulo": "Everton Team Revealed To Take On Coventry",
-     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQaTVLRmdCUDBjZVdYSlk0NGlDVGhNWnZPRnlDM21vdXhsTDRXblZfcmhzdEFkaC1NRjkweEx3R1RnakFWT25iRkpJcGxMNGtxcTB1TTQ3bzhWRjJINjB4a3VrNEJ3OEMtSVdrZlA0YWxCcWVHSlIwMzhqSTVlUjV3YjBVWklWbXZ6c2Z3b0Z6SUNwM3lt?oc=5",
-     "pub": "2026-11-06T18:46+00:00"
-    },
-    {
-     "medio": "Mundo Deportivo",
-     "titulo": "Everton - Coventry City, en directo | Premier League",
-     "url": "https://www.mundodeportivo.com/futbol/premier-league/20261106/1004246009/everton-coventry-city-directo-premier-league.html",
-     "pub": ""
-    },
-    {
-     "medio": "BBC",
-     "titulo": "Lampard feels hair pull should have led to Coventry penalty",
-     "url": "https://www.bbc.co.uk/sport/football/articles/cr15jj0yy8xeo?at_medium=RSS&at_campaign=rss",
-     "pub": "2026-11-06T23:22+00:00"
-    },
-    {
-     "medio": "BBC",
-     "titulo": "Barry scores twice as Everton fight back to beat Coventry",
-     "url": "https://www.bbc.co.uk/sport/football/videos/c62l44geqvlyo?at_medium=RSS&at_campaign=rss",
-     "pub": "2026-11-06T22:30+00:00"
-    },
-    {
-     "medio": "Guardian",
-     "titulo": "Thierno Barry double fires Everton to comeback win against Coventry",
-     "url": "https://www.theguardian.com/football/2026/nov/06/everton-coventry-premier-league-match-report",
-     "pub": "2026-11-06T22:03+00:00"
+     "titulo": "Man United wonderkid Shea Lacey eyed up by rival nation amid uncertain England future",
+     "url": "https://talksport.com/football/4690478/man-united-shea-lacey-ireland-eligibility-england-future/",
+     "pub": "2026-11-06T11:11+00:00"
     },
     {
      "medio": "Daily Mail",
-     "titulo": "Derided Thierno Barry is no longer a source of frustration as star fires Everton to victory over Coventry on another big night for David Moyes amid Jack Grealish drama",
-     "url": "https://www.dailymail.com/sport/football/article-16268007/Derided-Thierno-Barry-no-longer-source-frustration-star-fires-Everton-victory-Coventry-big-night-David-Moyes-amid-Jack-Grealish-drama.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-     "pub": "2026-11-07T11:27+00:00"
+     "titulo": "Man United's secret plot to poach Sir Alex Ferguson from Aberdeen, 40 years on - from phone calls with a fake Scottish accent to clandestine meetings at M74 services on Bonfire Night",
+     "url": "https://www.dailymail.com/sport/football/article-16271005/man-united-poach-sir-alex-ferguson.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+     "pub": "2026-11-06T13:07+00:00"
+    },
+    {
+     "medio": "Daily Mail",
+     "titulo": "Unai Emery confirms Aston Villa contract talks in blow to Man United as Enzo Maresca backs Gianluigi Donnarumma after Man City No 1's spate of high-profile errors: Premier League press conferences",
+     "url": "https://www.dailymail.com/sport/football/article-16271393/Premier-League-press-conferences-Enzo-Maresca-backs-Gianluigi-Donnarumma-Man-City-No-1s-spate-high-profile-errors.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+     "pub": "2026-11-06T14:24+00:00"
+    },
+    {
+     "medio": "Mirror",
+     "titulo": "Sir Alex Ferguson is a painful reminder of Man Utd's glory days 40 years on from his arrival",
+     "url": "https://www.mirror.co.uk/sport/football/alex-ferguson-man-utd-anniversary-37850897",
+     "pub": "2026-11-06T14:09+00:00"
+    },
+    {
+     "medio": "Mirror",
+     "titulo": "Michael Carrick confirms severity of Carlos Baleba injury as Man Utd boss provides two updates",
+     "url": "https://www.mirror.co.uk/sport/football/news/carrick-man-utd-baleba-injury-37851168",
+     "pub": "2026-11-06T13:47+00:00"
+    },
+    {
+     "medio": "Mirror",
+     "titulo": "Bayern Munich 'line up Rio Ngumoha transfer' after being rejected by Man Utd star",
+     "url": "https://www.mirror.co.uk/sport/football/transfer-news/rio-ngumoha-bayern-munich-liverpool-37850232",
+     "pub": "2026-11-06T11:51+00:00"
+    },
+    {
+     "medio": "Mirror",
+     "titulo": "Man United's 26/27 home shirt is 50% off but rare flash deal ends Friday",
+     "url": "https://www.mirror.co.uk/sport/football/news/man-united-2627-home-shirt-37849748",
+     "pub": "2026-11-06T10:58+00:00"
+    },
+    {
+     "medio": "Planet Football",
+     "titulo": "Man Utd quiz: Every £10m+ signing made by Sir Alex Ferguson",
+     "url": "https://www.planetfootball.com/quizzes/man-utd-sir-alex-ferguson-every-10-million-player-signing",
+     "pub": "2026-11-06T10:15+00:00"
+    },
+    {
+     "medio": "Yahoo",
+     "titulo": "Man United dealt midfield set-back as Carlos Baleba potentially out until Christmas",
+     "url": "https://sports.yahoo.com/articles/man-united-dealt-midfield-set-135843747.html",
+     "pub": "2026-11-06T14:05+00:00"
+    },
+    {
+     "medio": "Sky Sports",
+     "titulo": "Carrick: 'Not impossible' Man Utd can achieve Ferguson success again",
+     "url": "https://www.skysports.com/football/news/12040/13608887/michael-carrick-manchester-united-boss-says-its-possible-the-club-can-emulate-sir-alex-fergusons-success-at-old-trafford",
+     "pub": "2026-11-06T15:40+00:00"
+    },
+    {
+     "medio": "Daily Mail",
+     "titulo": "Thomas Tuchel admits his relationship with Jude Bellingham is 'up and down' - but on the mend - as he reveals he's apologised to Kobbie Mainoo who is struggling at 'off a cliff' Man United",
+     "url": "https://www.dailymail.com/sport/football/article-16271751/thomas-tuchel-jude-bellingham-relationship.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+     "pub": "2026-11-06T20:27+00:00"
     }
    ]
   },
@@ -1798,22 +1898,10 @@
      "pub": "2026-11-06T14:20+00:00"
     },
     {
-     "medio": "Sky Sports",
-     "titulo": "Palmer left out of England squad as Jobe and King called up",
-     "url": "https://www.skysports.com/football/news/12040/13608698/england-squad-cole-palmer-phil-foden-and-kobbie-mainoo-left-out-as-jobe-bellingham-and-josh-king-called-up",
-     "pub": "2026-11-06T10:00+00:00"
-    },
-    {
      "medio": "talkSPORT",
      "titulo": "Thomas Tuchel reveals Premier League star was overtaken by Jobe Bellingham",
      "url": "https://talksport.com/football/4690893/thomas-tuchel-jobe-bellingham-overtaken-kobbie-mainoo-england/",
      "pub": "2026-11-06T13:17+00:00"
-    },
-    {
-     "medio": "talkSPORT",
-     "titulo": "Jobe Bellingham handed surprise England call-up along with uncapped Premier League star as Cole Palmer left out",
-     "url": "https://talksport.com/football/4690346/england-squad-announcement-thomas-tuchel-cole-palmer-jobe-bellingham/",
-     "pub": "2026-11-06T10:04+00:00"
     },
     {
      "medio": "Daily Mail",
@@ -1862,6 +1950,18 @@
      "titulo": "Bellinghams celebrate ‘beautiful story’ as Jobe joins Jude in Tuchel’s England 2.0",
      "url": "https://www.theguardian.com/football/2026/nov/06/jude-jobe-bellingham-thomas-tuchel-england-croatia-spain-nations-league",
      "pub": "2026-11-06T19:00+00:00"
+    },
+    {
+     "medio": "Sky Sports",
+     "titulo": "Jobe joins brother Jude with England to showcase his own talent",
+     "url": "https://www.skysports.com/football/news/12040/13608890/england-jobe-bellingham-has-the-chance-to-showcase-his-own-talent-alongside-brother-jude-in-thomas-tuchels-squad",
+     "pub": "2026-11-06T14:24+00:00"
+    },
+    {
+     "medio": "Google News EN",
+     "titulo": "Jobe Bellingham joins brother Jude in England squad as King and White included",
+     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPdkRCMXVLazUydF9uLWkzZmhFcVoyWUhrb3F3OU1GS2R5VVBGNzBJRkptUEZzVlM5a1F4Umg4WHM3eVRIOUNSX0FqZ1lVUTEtbFk4bDVDZG1weTVCMF9UTEhlUkw3WDlDWERKa2hfOVJ5eTR0UEpHaXpWY0dFc0RhWnVFU2hLWmNtZm9WUllyd3hGNnJFYllaM1Vhd1BZU1d3XzJQTzFab2I0ZXZhbGwteA?oc=5",
+     "pub": "2026-11-06T20:04+00:00"
     }
    ]
   },
@@ -1869,6 +1969,7 @@
    "tema": "Newcastle",
    "medios": 10,
    "lista_medios": [
+    "BBC",
     "Daily Mail",
     "Foot Mercato",
     "FourFourTwo",
@@ -1877,7 +1978,6 @@
     "Mundo Deportivo",
     "Sky Sports",
     "Yahoo",
-    "ge.globo",
     "talkSPORT"
    ],
    "primera_vez": "2026-11-06T14:31+00:00",
@@ -1887,12 +1987,6 @@
      "titulo": "Amar Dedic set to escape Newcastle sanction over carrying bow and arrow",
      "url": "https://www.theguardian.com/football/2026/nov/06/amar-dedic-set-to-escape-newcastle-sanction-over-carrying-bow-and-arrow",
      "pub": "2026-11-06T10:38+00:00"
-    },
-    {
-     "medio": "ge.globo",
-     "titulo": "Lateral do Newcastle é abordado por seis carros de polícia por estar com arco e flechas na rua",
-     "url": "https://ge.globo.com/futebol/futebol-internacional/noticia/2026/11/06/lateral-do-newcastle-e-abordado-por-seis-carros-de-policia-por-estar-com-arco-e-flechas-na-rua.ghtml",
-     "pub": "2026-11-06T09:28+00:00"
     },
     {
      "medio": "Guardian",
@@ -1953,6 +2047,12 @@
      "titulo": "Newcastle star Amar Dedic breaks silence on run-in with police after bow-and-arrow incident",
      "url": "https://talksport.com/football/4692312/newcastle-amar-dedic-police-bow-arrows-reaction/",
      "pub": "2026-11-07T14:38+00:00"
+    },
+    {
+     "medio": "Daily Mail",
+     "titulo": "Much-improved Newcastle stop the rot with a 1-1 draw at Fulham - but sloppy defending and wasteful finishing will leave Matthias Jaissle rueing a missed opportunity, writes CRAIG HOPE",
+     "url": "https://www.dailymail.com/sport/football/article-16268035/Sloppy-defending-wasteful-finishing-leaves-Newcastle-rueing-missed-opportunity-Fulham-HOPE.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+     "pub": "2026-11-07T17:52+00:00"
     }
    ]
   },
@@ -2052,11 +2152,11 @@
    "medios": 10,
    "lista_medios": [
     "Daily Mail",
-    "Foot Mercato",
     "FourFourTwo",
     "Google News AR",
     "Google News EN",
     "Google News ES",
+    "Guardian",
     "Infobae",
     "Mirror",
     "Yahoo",
@@ -2071,12 +2171,6 @@
      "pub": "2026-11-06T14:24+00:00"
     },
     {
-     "medio": "Mirror",
-     "titulo": "Jamie Carragher doubles down on Aston Villa and Man Utd claims despite legal action threat",
-     "url": "https://www.mirror.co.uk/sport/football/news/jamie-carragher-doubles-down-aston-37849491",
-     "pub": "2026-11-06T09:45+00:00"
-    },
-    {
      "medio": "FourFourTwo",
      "titulo": "Aston Villa rocked by Real Madrid interest in new signing: report",
      "url": "https://www.fourfourtwo.com/transfer/aston-villa-rocked-by-real-madrid-interest-in-new-signing-report",
@@ -2087,12 +2181,6 @@
      "titulo": "Aston Villa summer signing is already wanted by two European giants",
      "url": "https://sports.yahoo.com/articles/aston-villa-summer-signing-already-135000219.html",
      "pub": "2026-11-06T13:50+00:00"
-    },
-    {
-     "medio": "Foot Mercato",
-     "titulo": "Aston Villa : Unai Emery proche de prolonger",
-     "url": "https://www.footmercato.net/a5451632011257954309-aston-villa-unai-emery-proche-de-prolonger",
-     "pub": "2026-11-06T07:52+00:00"
     },
     {
      "medio": "Google News AR",
@@ -2135,366 +2223,289 @@
      "titulo": "Unai Emery can show Man United what they're missing as Aston Villa visit Old Trafford",
      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOTUh2el9DRHZaMHVpM2xHU3ZZM0ZaYkdFU0Vqb205ODBuakpzYjF1S0RmcXJ2aWtuRWZRMkU5ZVNjWDNQZDJPbmhhZWF5eDMwSEJwOHhpRnBnaEpweWlrLUtnNENLWURIeXBncktZNEhTclVBbnlxODlMVDM1V0hwNWxpWVY1UkF0WEZTdmdHcGM1VlAxTGxTSGFCb3JuV1pmS3dWRVd3VVVyN2pEbGo5NzNNNjljZE1iWnFmbkxvZ0RaNTR2Z2tGeFp2RE1CYlBReG5hRA?oc=5",
      "pub": "2026-11-07T11:00+00:00"
+    },
+    {
+     "medio": "Google News EN",
+     "titulo": "Unai Emery, Aston Villa, Manchester United and football’s food chain",
+     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNdXcxUUp2aC1tS1RjTE1QYTBja1Y0bUUzdzdQNjZfSTdFeHMzamY2bW5sV0szUGNNSXpKQjlsNldGTUpBbHJyRDVqS3NUdXFCMl91UkYwX2dOMnNvZURfLXhERlkwRGRJVGs3WENFcEkzOFJtaWo1WFFIZ2lIR053SkVUYTEwcHZWb2h4TEJWTnMwSWJqOVMtSkRGOGxaSUtzanRPVjNRUFRubmRk?oc=5",
+     "pub": "2026-11-07T05:15+00:00"
+    },
+    {
+     "medio": "Google News ES",
+     "titulo": "La Selección Española de fútbol sala de FEDDI inicia en Íscar su camino hacia los Virtus Global Games de El Cairo 2027 | Villa de Íscar",
+     "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPUHNHaTRtYnVDSkhTODhlRDkxYmN3c2ZsaUdMZHozazlUNG5fVXIyMXF2VUs3a0djWUZHMWpKX0c0OEpNS01GX1RnYWxOdXdaLS1xZlpCbmhmdXJnd2g3TEVwQzc1NnFpVklzNDlEMnJJOFJKRmR6N3Q4MnBJTHU4OHhUNXp1Z0FtaUtud0N6LUJCMlpQYnA1Q04xMi1icktMVndwLU1za19Va21xUEp5UGIweXRSSUJiZy1hMnBBa3pCdjBSOEU4bzJuZnFDeDdFSmZBNjFNVXlUOXEzODhRWg?oc=5",
+     "pub": "2026-11-07T09:57+00:00"
     }
    ]
   },
   {
-   "tema": "Miguel",
+   "tema": "Coventry",
    "medios": 10,
    "lista_medios": [
-    "AS",
+    "BBC",
+    "Daily Mail",
     "Foot Mercato",
-    "Google News AR",
-    "Google News ES",
-    "Infobae",
+    "FourFourTwo",
+    "Google News EN",
+    "Guardian",
     "L'Equipe",
     "Mirror",
     "Mundo Deportivo",
-    "Ole",
-    "Record"
+    "talkSPORT"
    ],
    "primera_vez": "2026-11-06T14:31+00:00",
    "titulares": [
     {
+     "medio": "Google News EN",
+     "titulo": "STAR FOOTBALL PREVIEW Fri: Everton v Coventry City",
+     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNRzdMS0J1Y1VrckJRRVQxWUFqZ1RTR0w4T0lRS29WMjhrU1RlaXFIaXNSNVI5c3VJVVpqSEFZdHBWeUc5VlQ3ZGZDVVNyZWNRRUo4WFVZcllaZWpvNGZxbnlwRFpyYVMxZzVaSWxzQUhvdnhUYmpoNUlJWnZJaXNySHRxUUU5YzZYeGc?oc=5",
+     "pub": "2026-11-06T14:05+00:00"
+    },
+    {
+     "medio": "Guardian",
+     "titulo": "Everton v Coventry City: Premier League – live",
+     "url": "https://www.theguardian.com/football/live/2026/nov/06/everton-v-coventry-city-premier-league-live-updates",
+     "pub": "2026-11-06T20:51+00:00"
+    },
+    {
+     "medio": "talkSPORT",
+     "titulo": "David Moyes makes history instantly after Everton vs Coventry kicks off",
+     "url": "https://talksport.com/football/4691546/david-moyes-history-everton-coventry-kick-off/",
+     "pub": "2026-11-06T20:04+00:00"
+    },
+    {
+     "medio": "FourFourTwo",
+     "titulo": "Watch Everton vs Coventry City: FREE streams and TV channels",
+     "url": "https://www.fourfourtwo.com/competition/watch-everton-vs-coventry-city-premier-league-2026-27-free",
+     "pub": "2026-11-06T17:00+00:00"
+    },
+    {
+     "medio": "Google News EN",
+     "titulo": "Everton Team Revealed To Take On Coventry",
+     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQaTVLRmdCUDBjZVdYSlk0NGlDVGhNWnZPRnlDM21vdXhsTDRXblZfcmhzdEFkaC1NRjkweEx3R1RnakFWT25iRkpJcGxMNGtxcTB1TTQ3bzhWRjJINjB4a3VrNEJ3OEMtSVdrZlA0YWxCcWVHSlIwMzhqSTVlUjV3YjBVWklWbXZ6c2Z3b0Z6SUNwM3lt?oc=5",
+     "pub": "2026-11-06T18:46+00:00"
+    },
+    {
+     "medio": "Mundo Deportivo",
+     "titulo": "Everton - Coventry City, en directo | Premier League",
+     "url": "https://www.mundodeportivo.com/futbol/premier-league/20261106/1004246009/everton-coventry-city-directo-premier-league.html",
+     "pub": ""
+    },
+    {
+     "medio": "BBC",
+     "titulo": "Lampard feels hair pull should have led to Coventry penalty",
+     "url": "https://www.bbc.co.uk/sport/football/articles/cr15jj0yy8xeo?at_medium=RSS&at_campaign=rss",
+     "pub": "2026-11-06T23:22+00:00"
+    },
+    {
+     "medio": "BBC",
+     "titulo": "Barry scores twice as Everton fight back to beat Coventry",
+     "url": "https://www.bbc.co.uk/sport/football/videos/c62l44geqvlyo?at_medium=RSS&at_campaign=rss",
+     "pub": "2026-11-06T22:30+00:00"
+    },
+    {
+     "medio": "Guardian",
+     "titulo": "Thierno Barry double fires Everton to comeback win against Coventry",
+     "url": "https://www.theguardian.com/football/2026/nov/06/everton-coventry-premier-league-match-report",
+     "pub": "2026-11-06T22:03+00:00"
+    },
+    {
+     "medio": "Daily Mail",
+     "titulo": "Derided Thierno Barry is no longer a source of frustration as star fires Everton to victory over Coventry on another big night for David Moyes amid Jack Grealish drama",
+     "url": "https://www.dailymail.com/sport/football/article-16268007/Derided-Thierno-Barry-no-longer-source-frustration-star-fires-Everton-victory-Coventry-big-night-David-Moyes-amid-Jack-Grealish-drama.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+     "pub": "2026-11-07T11:27+00:00"
+    },
+    {
      "medio": "Mirror",
-     "titulo": "Goalkeeper involved in fatal Jesus de Miguel collision 'considering walking away from football'",
-     "url": "https://www.mirror.co.uk/sport/football/news/jesus-de-miguel-death-goalkeeper-37851157",
-     "pub": "2026-11-06T13:11+00:00"
+     "titulo": "Frank Lampard outlines crucial role for Coventry City's 12th man this season",
+     "url": "https://www.mirror.co.uk/sport/football/news/frank-lampard-outlines-crucial-role-37846373",
+     "pub": "2026-11-07T12:14+00:00"
     },
     {
-     "medio": "AS",
-     "titulo": "El Sabadell dedica su camiseta a Jesús de Miguel",
-     "url": "https://as.com/futbol/segunda/el-sabadell-dedica-su-camiseta-a-jesus-de-miguel-f202611-n/",
-     "pub": "2026-11-06T12:16+00:00"
-    },
-    {
-     "medio": "AS",
-     "titulo": "Mestalla rendirá tributo a Jesús de Miguel",
-     "url": "https://as.com/futbol/primera/mestalla-rendira-tributo-a-jesus-de-miguel-f202611-n/",
-     "pub": "2026-11-06T10:36+00:00"
-    },
-    {
-     "medio": "Mundo Deportivo",
-     "titulo": "El CE Sabadell convertirá su camiseta en un homenaje a Jesús de Miguel",
-     "url": "https://www.mundodeportivo.com/futbol/sabadell/20261106/1004247908/ce-sabadell-convertira-camiseta-homenaje-jesus-miguel.html",
-     "pub": ""
-    },
-    {
-     "medio": "Mundo Deportivo",
-     "titulo": "El Valencia homenajeará a Jesús de Miguel con la bandera del Tenerife a media asta en Mestalla",
-     "url": "https://www.mundodeportivo.com/futbol/valencia/20261106/1004247872/valencia-homenajeara-jesus-miguel-bandera-tenerife-media-asta-mestalla.html",
-     "pub": ""
-    },
-    {
-     "medio": "Google News ES",
-     "titulo": "El fútbol se vuelca con la familia de Jesús de Miguel: una recaudación de 100.000 euros con muchos conocidos entre los donantes",
-     "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxObEdMaVU1aDBSWHZQZlJqYlRLb2JWS2pLVXVhRS0tblUxWUpic0NmNU1NOTQxUS1XTlB0SUFJZHlhX0w1R09BcTRwbnRHcGhaRDUtRF95TXVKeWxzZG5TUTdkbGhhWno0ZEM4Y1l0MWQ1aGllQTBpZUhOMERLck54cWRUeG5sZG9MbkQzd3NNUHZjd3F4V2pXSndraXlXN21YX09oLVRsenF4cGZDa1hxREhzYTROb2h5UG5Ed2NQUWxOM1JkdXFIV2p3ZkFFd3BoTGc0c1BNankwd9IB3wFBVV95cUxOMEk2MVF0OTFaM1dxMmhEUUVGVndQX2U3Q3Y4VDItN0o3THJTbmZ6dm9URl9ITkJFM215bGZjWTI4T0F2c2lUVkFPY1ZkYVA1d0x3NVVNUHd5cGpNYmFFNWNjelFnc1lmWDBqNmRCcVltTXNSYnVrOEx4My1Gb3I1UmF2Y0tzaGsyN2g4bUIxWHJZT0hybmJjZVo1UjRpNC1DX0pITnpxY0liTUtSMUlyS295ckRUSFo4MmQybE5IWmlRMEhUZlY3RGtvbVZlMlpHZWN4MzE4cEVaN1lybVpj?oc=5",
-     "pub": "2026-11-06T11:31+00:00"
-    },
-    {
-     "medio": "Google News ES",
-     "titulo": "El fútbol regional rendirá homenaje a Jesús de Miguel",
-     "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNRnFUMDFublZKWF92TkZDMzBvdFRjS1JWc0lUb3k0S0pxbnI3LVM2T2FPd1c0cGdjSmplcjJTbGpnNm5NcGJIRlZFb0NVUlQ2QUtac3ZJVXFOWUs5b1hfbXN4M2oyX1BubFNwT3BlR0h2cWRjbWZGNUxTOWhSajlRTHJQdTFmSkY1UWhpSUlKb3ctdTc1cG9lNC1zMjExUjlkWU5pdmwwaW1lbWthaG1tUlpFNHFhMWozQjI2Y3JZTDlzaTdFelV5WXV6QldSckRhRkhfX3B6M3R1Zw?oc=5",
-     "pub": "2026-11-06T12:35+00:00"
-    },
-    {
-     "medio": "Google News ES",
-     "titulo": "«Siempre en nuestro recuerdo», así será el homenaje que prepara el fútbol español a Jesús de Miguel",
-     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPN1NscFR0VFcyX3ZHaWtOSWN0S2VvM0ZrZG1RNks2Vl9JbVFwRi04NFNZY2ZDZkNjTU8wNFFxMzZDaWsyelNBWERHdktyaXp5VHItV2cwWFZDXzB0d3ZUQll4WGpXQzZBblp5S3l2N1g5dExsalhWdVpRMm00eWRlQk5qTm95VDhEdFhMZFduVU9qQWVJSFdSYlRqNndSTTV1MFhJNkhtWHlETzRWZDlsUlpNQTJqbWVMdGfSAb8BQVVfeXFMUEF6UUc2VXJYdEZ6Mnl6N1hfcUlqODdvRTdkQlVqUW1HRDFONnRVTzBwN3Y5MlgxM3hLNll3T2JtNnJiR2JXN3NXeExsRm9XYm0xaDEzdXRSTUlsdUNyd19sVWltZExPNnM3bURpQzlJcnpaWHZsSUVsRGhWai1VYXVTbG1qZWJSQmdKUHZrMEZEemNrdmdTcEwwOXdRVjc0elY2N2VsNXNwa1huNGFyX0RKbFJheW9Pemh4RTFxcGM?oc=5",
-     "pub": "2026-11-06T09:48+00:00"
-    },
-    {
-     "medio": "Google News ES",
-     "titulo": "El fútbol se vuelca con Jesús de Miguel: Morata y Baena lideran una ayuda que roza los 100.000 euros",
-     "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOVDRXUzBLZE1WcEhjclVNZjZhTHFwd3Fpd2tocFNvQXJ4MWtPX0FNTDBwOFpKUDNJY3ZIMVVoTEJDTG1pbFdXUTJtalJRMWZ5TXhfODNFZjNyQjRxdWpIdktiSW5FY25Ld2c5cmd4TTZrOFJkOUpsRDQ2VVdyZ1E0OGdBb01lRVQ4R0wxQjJYR2pNbER3TThYeWZqcllCMTdkYml1NkxWSEpuMTVWcW9sRklBRUlkVWhHUWlVcGMtTlExZloyNldtNTU0TjNfalFWOThReURha2LSAd4BQVVfeXFMTzJDdDVfMURmY2xqdnNkM3Bac0psaS04MU1qYlh4MllBWXcxbHJ4TG5hUkxJTDdLdUd6NXhOWVVieGQyME4wcEhoUmxsVGw2cXpyb21tRTYzMEI2Qkw0RGZpb0kzTHhFa2llandJd3d0b2N1QVB1NnIzUTg3UzBaOGZ0MTd0eFNjRk5ZYUc4TW9mdTdGQmsybVkwcElleDNGM1lYSDhFM01WdExwc2ZYREVQbl9FNl9GZUZ0WDJ4elhUSHQ4RklwQWVWRkZoemFrU2dHbnloQkpDd1UwVnFB?oc=5",
-     "pub": "2026-11-06T12:08+00:00"
-    },
-    {
-     "medio": "Google News ES",
-     "titulo": "«Siempre en nuestro recuerdo», el homenaje del fútbol español a Jesús de Miguel esta jornada",
-     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNN0Y5VWNBS3lzaGZWMktKdjJBblljR1BRWlU3b1NrcGZJTHFxUmZDaTVSZHFIR012b0UzZnlqTFBESUdTWW90cVppUmd3VEFaajR2SXBkUGpfT0dDRFVQS2pISi1pWFZRWmQtOWppMjg5N2FJWENUel9Ta3FjSG1WczE3dWtjM1BSblRoRk1uYWxEbURCQ2dQVVJNNTVrTDdONnc1M0pfREpFeEFzUllUV1dCdXZWN20zcnEzZXB4Yno?oc=5",
-     "pub": "2026-11-06T11:58+00:00"
-    },
-    {
-     "medio": "Google News ES",
-     "titulo": "El fútbol español se vuelca con la familia de Jesús de Miguel a través de iniciativas solidarias",
-     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOX09NZW4zTFFHaVdaUWZWUEhQQXg4QUw3dXdOMlMwekVTaXJBMWZiblFFak9ncUdtR0JsMmNqRk52Tk9XY2Rxc1JJam9HZnZfQ1NqdE5yc2RqYkRVM3BBMi10MFh5cnhLcTVjVTVINmJRZ3UyMlE1ZHh1MTg3RGZucklDVEZrd0lOc0pDaFNnR1hjVGRmcHh6cmJURUZreENieGdmWmNfemJiM09hbXVnMUd3?oc=5",
-     "pub": "2026-11-06T14:23+00:00"
-    },
-    {
-     "medio": "Google News ES",
-     "titulo": "El fútbol español se detendrá en el minuto 9 en homenaje a Jesús de Miguel",
-     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNTHJBWTFyVk90Mm9kWXcwSnl3WGFaV2JkVEMzaGR1TkY1X1o0aFhEMGJ0ZGg3aktXM0d0Rkh2R2dYT28yQUFpMXo4TUU4NWFVOUNDcW1mTFZWYTVPSWdMLTBrSUdIcHMwSnVUcXJxbnhYQk1BT25UTzVZSUJweG9vRlVjd1pnYlZyckxZYVcyeGk1eW5jbHppR3V3ZHpmSVNERTBXc1FCSUN3R2cza0gxRVdUWjU?oc=5",
-     "pub": "2026-11-06T10:44+00:00"
+     "medio": "Mirror",
+     "titulo": "Frank Lampard bemoans 'big' VAR decisions after Coventry suffer Everton defeat",
+     "url": "https://www.mirror.co.uk/sport/football/news/frank-lampard-var-everton-coventry-37853321",
+     "pub": "2026-11-06T23:18+00:00"
     }
    ]
   },
   {
-   "tema": "Mourinho",
+   "tema": "Atlético",
    "medios": 9,
    "lista_medios": [
     "AS",
     "Foot Mercato",
     "Google News AR",
     "Google News ES",
-    "Kicker",
     "L'Equipe",
     "Mundo Deportivo",
+    "Ole",
     "Yahoo",
     "ge.globo"
    ],
    "primera_vez": "2026-11-06T14:31+00:00",
    "titulares": [
     {
-     "medio": "Yahoo",
-     "titulo": "Jose Mourinho talks Cristiano Ronaldo, Valverde, Vinicius ahead of Valencia vs Real Madrid",
-     "url": "https://sports.yahoo.com/articles/jose-mourinho-talks-cristiano-ronaldo-132100058.html",
-     "pub": "2026-11-06T13:21+00:00"
-    },
-    {
-     "medio": "AS",
-     "titulo": "Rueda de prensa de Mourinho, en directo: declaraciones previas al Valencia-Real Madrid de Liga, en vivo",
-     "url": "https://as.com/futbol/primera/rueda-de-prensa-de-mourinho-en-directo-declaraciones-previas-al-valencia-real-madrid-de-liga-en-vivo-f202611-d/",
-     "pub": "2026-11-06T09:45+00:00"
-    },
-    {
      "medio": "Mundo Deportivo",
-     "titulo": "Mestalla es un campo propicio para Mourinho",
-     "url": "https://www.mundodeportivo.com/futbol/real-madrid/20261106/1004247892/mestalla-campo-propicio-mourinho.html",
+     "titulo": "El martillo del Barça contra el muro del Atlético",
+     "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261106/1004247926/martillo-barca-muro-atletico.html",
      "pub": ""
     },
     {
      "medio": "Mundo Deportivo",
-     "titulo": "Mourinho, sobre el Atlético-Barcelona: \"Me gustaría que perdieran los dos\"",
-     "url": "https://www.mundodeportivo.com/futbol/real-madrid/20261106/1004247875/mourinho-sobre-atletico-barcelona-me-gustaria-perdieran-dos.html",
+     "titulo": "El Atlético combate el Bullying: \"Somos un equipo, no dejamos a nadie atrás\"",
+     "url": "https://www.mundodeportivo.com/futbol/atletico-madrid/20261106/1004247933/atletico-combate-bullying-equipo-no-dejamos-nadie.html",
+     "pub": ""
+    },
+    {
+     "medio": "Google News AR",
+     "titulo": "Gagliardo puso en duda su continuidad en el fútbol femenino de Atlético",
+     "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNdU4wakxsQS1rSWV6eTJRdE9mSncwTEo0TkpXTFZiUEM5MjQ4djU5NkZuY1dOcU84Qm1USGx5N1lYalYwbEE5RGE1bDRTU0E5T2pXVEFaMzhCeTR1NHBNdUlwZWJwbHJzRWtkSWFfZEhnamRHcU12SmxTV2N6OWxOeTFydnQzMEVrbmVmd0JBSFU1V2FjV3pHTWtnMEstdDNwTVlfemdDb3ZJMktXVmU2VnlmM2ljQkRteGU3OHlJR0ljSk5wQWc0?oc=5",
+     "pub": "2026-11-06T11:05+00:00"
+    },
+    {
+     "medio": "Mundo Deportivo",
+     "titulo": "\"Julián ahora lo que tiene que hacer es jugar y meter goles con el Atlético de Madrid\"",
+     "url": "https://www.mundodeportivo.com/futbol/atletico-madrid/20261106/1004248038/julian-jugar-meter-goles-atletico-madrid.html",
+     "pub": ""
+    },
+    {
+     "medio": "AS",
+     "titulo": "Eric y Christensen: luz verde para el Atlético",
+     "url": "https://as.com/futbol/eric-y-christensen-luz-verde-para-el-atletico-f202611-n/",
+     "pub": "2026-11-07T10:59+00:00"
+    },
+    {
+     "medio": "Mundo Deportivo",
+     "titulo": "El Atlético y un liderato inaccesible desde hace 68 jornadas",
+     "url": "https://www.mundodeportivo.com/futbol/atletico-madrid/20261107/1004248241/atletico-liderato-inaccesible-68-jornadas.html",
+     "pub": ""
+    },
+    {
+     "medio": "Mundo Deportivo",
+     "titulo": "Rueda de prensa de Flick, en directo | Previa y última hora del Atlético - Barcelona",
+     "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261107/1004247936/rueda-prensa-flick-directo-ultima-hora-fc-barcelona.html",
+     "pub": ""
+    },
+    {
+     "medio": "Mundo Deportivo",
+     "titulo": "El Atlético preparó la cita ante el Barça, con una sola baja",
+     "url": "https://www.mundodeportivo.com/futbol/atletico-madrid/20261107/1004248240/atletico-preparo-cita-barca-sola-baja.html",
+     "pub": ""
+    },
+    {
+     "medio": "Mundo Deportivo",
+     "titulo": "Flick da opciones a Eric para ser titular ante el Atlético y Christensen viajará",
+     "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261107/1004248209/eric-christensen-aceleran-atletico.html",
+     "pub": ""
+    },
+    {
+     "medio": "Mundo Deportivo",
+     "titulo": "Atlético: Subidón o bajón, antes del parón",
+     "url": "https://www.mundodeportivo.com/futbol/atletico-madrid/20261107/1004248191/atletico-subidon-bajon-paron.html",
      "pub": ""
     },
     {
      "medio": "Google News ES",
-     "titulo": "Mourinho: \"¿Vinicius? Nunca voy a perjudicar al equipo para beneficiar a un jugador\"",
-     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxORWMtYXpFWU5jYWZOY29mTDhhWUs1Q0xIVkF1UEhCNE8xbENWaXIycDFSbENFQ0JUQkxZX3RrWGV6YmkwQ1hFaUliYmZsclp5LXBvR0M5aWUwdWNaaEFrLTFGbWdkWE5VSmpsVU5BUzgzaEZmMUtmQUJYV1c5SEV5MjhFa3FDZ9IBhgFBVV95cUxPTjg2Y2NLRUVsYkhkME9BMnZGNjNWY1BiX2o0LVNRdVNnMkFfcXF3WllSQVJDOVoxbzRpXzNvaG1GQ2c3MFBMc1pEcWtscm95SE9PTWRqZ1dIOFNjVHBzaUVRRWlHbnY1WERWa29Zc3hwWS1pUDNWQWFjd21Kblk5cWRleVNGZw?oc=5",
-     "pub": "2026-11-06T10:05+00:00"
-    },
-    {
-     "medio": "Kicker",
-     "titulo": "Mourinho: \"Wünsche mir anderes Karriereende für CR7\"",
-     "url": "https://www.kicker.de/mourinho-wuensche-mir-anderes-karriereende-fuer-cr7-1269194/video#omrss",
-     "pub": "2026-11-06T11:43+00:00"
-    },
-    {
-     "medio": "L'Equipe",
-     "titulo": "Mourinho : «Il faut respecter le choix de Ronaldo»",
-     "url": "https://www.lequipe.fr/Football/Video/Portugal-jose-mourinho-appelle-a-respecter-la-decision-de-cristiano-ronaldo-de-mettre-un-terme-a-sa-carriere-internationale/20244986#at_medium=RSS_feeds",
-     "pub": "2026-11-06T11:21+00:00"
+     "titulo": "Atlético de Madrid – FC Barcelona: horario y dónde ver hoy por TV el partido de fútbol de LaLiga EA Sports",
+     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNYXdyRGk2ZWI3V0p3a0RDN1NpLXJmMVFObTU5M0JxWUw2S2ZDN2sxRzVJaTllMzZ4aXZZRk0xdkRrdXdtWW9tbm1zQ2JtT1NReDRkN1h4U1FKRkpwZ0JRemhFNkhVVjBqQk9pYks4ZVJRV2RITUxKdW9XUlJRcVFuMUwtbWtkVlZsdjZCTlJsZUhBRmRFU1NoT2FESFJBYlhjM2E0UjktNHJrZE1yUnkxbTk3ZTkya2pjVFg40gHAAUFVX3lxTFAxZzFaRlVvYkhWSlpDZDVSZy1BR2xHVk1OR0VCWXd3OE5wcVJ2NnFDaHFiLVByTGYwc2c1bEFkVmh4djdEeTdBWWpjU2RaNk14Q3lhVzRTeS0tMjA3Z1NnWGEybFVkWVhXU1V1d0Rzel81dHdoLTRNTlk2ZWlGOVNySDBhMzhoUjZrNzhKcnZERlBpN3l4SlVCaHRVa0s2UWlOeGFyVmNpRTBOejAtQ2hFa3B2eF9fTEVrUl9TQnM1RQ?oc=5",
+     "pub": "2026-11-07T08:00+00:00"
     },
     {
      "medio": "Foot Mercato",
-     "titulo": "Real Madrid : José Mourinho lance un sérieux avertissement à Vinicius Junior",
-     "url": "https://www.footmercato.net/a5415310562970356236-real-madrid-jose-mourinho-lance-un-serieux-avertissement-a-vinicius-junior",
-     "pub": "2026-11-06T10:28+00:00"
-    },
-    {
-     "medio": "Foot Mercato",
-     "titulo": "José Mourinho réagit à la retraite internationale de Cristiano Ronaldo",
-     "url": "https://www.footmercato.net/a6811855404205149737-jose-mourinho-reagit-a-la-retraite-internationale-de-cristiano-ronaldo",
-     "pub": "2026-11-06T09:40+00:00"
-    },
-    {
-     "medio": "Google News AR",
-     "titulo": "Javier Aguirre: \"José Mourinho es un grande del fútbol, ha hecho historia y merece mis respetos\"",
-     "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPVFY5QXRiR25NRjRrc0hmdnZXNWt5Z0k3bDlmM1l3SlE4Y3NybXliLW5Da01VUk1ENG5wbjB2eGZVd3RIbVdqaFRudk5UbFZXNW5JdDVEMHY0djV2RUxtVUFMUW5FNmNmSHY5T3hBMDJfQ19DMVJJS2RBMnZ3M25jbnFaaENaaGtNaFNDMjJLX1VoaFZOa1EtMm9sM015cFZ4M0Zwb0J3ZGJUN0puOGlGTTh4TGZvTHNIdFdRYjF0MjBpbmgzbEx0Y2RBeUIyU3lnTWpTeURiODc1YmswM1HSAfgBQVVfeXFMTWduWGZaNTNuM2JjbE1uUU1tWXluQ2tiM3puQ3lDdWJXdHBRMlp3WXRQSHVFTDg0Y1NYTkRLbjhOSDJGeXdIaVVPMGV4MmZQWVdhUU9iWXBJTUZaQlhMOFg4UGxLVmtzenozdVI0UVRtYjk5MHV4cWd5eDMzRDFPUDZVNzV1eWltWEZTc1ZHSUdTV0FMdnlnTHFVM3QzbXZPajJDTDRxRzdyeFlKajRDdEtaelFCaXJUQjVFOWNTTFNOcGE2VTF2M3ZtT0REQXJ6cTFlZTJtcHI2ODVnam1yNFlpdmU4Z3oybWdqdFdjb1o1MVdiRzdQa2c?oc=5",
-     "pub": "2026-11-06T13:32+00:00"
-    },
-    {
-     "medio": "Google News AR",
-     "titulo": "El filoso comentario de Mourinho sobre el retiro de Cristiano de Portugal: \"Me gustaría...\"",
-     "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQeTZ0VHZyZlV4MDgtVkZQdURlX2dhRWZ6VUdZQmhXbHBhcEFoY2RkaVJsVmgxTmJfc3Q0eHI5UzFHVTFva2VjZHJlbTgtLUxLb3hwOUhHZWRFLXdNQ25aNm1QZjBQYlQxT3NZdXVEMFBvb2lMOWZXUGxrXzBObFdnRXItczNpYl9WbmJMTEVaYXBkdFZhYWZ1bHMtMzJWWVluWWIyanBQVHBzZnk1SUxMbUZyeDdpQ0Z6VThJeEJNRUc4UnVJbmRaYXVlRS1qWkVTT2RDX0N2bmRpTTVOY0loMlV6N3RRTlRwMi1IYVRmLWZyd01UNC1USHl0Ry0yUDg?oc=5",
-     "pub": "2026-11-06T10:46+00:00"
-    },
-    {
-     "medio": "ge.globo",
-     "titulo": "Mourinho volta a defender Vini Jr. : \"Um bom jogador terá seus dias ruins\"",
-     "url": "https://ge.globo.com/futebol/futebol-internacional/noticia/2026/11/06/mourinho-volta-a-defender-vini-jr-um-bom-jogador-tera-seus-dias-ruins.ghtml",
-     "pub": "2026-11-06T10:05+00:00"
+     "titulo": "FC Barcelone : Hansi Flick veut briser la malédiction Atlético de Madrid",
+     "url": "https://www.footmercato.net/a8409068848854488504-fc-barcelone-hansi-flick-veut-briser-la-malediction-atletico-de-madrid",
+     "pub": "2026-11-07T13:19+00:00"
     }
    ]
   },
   {
-   "tema": "Jesús",
+   "tema": "Argentina",
    "medios": 9,
    "lista_medios": [
-    "AS",
-    "Foot Mercato",
+    "BBC",
+    "Football Italia",
     "Google News AR",
     "Google News ES",
     "Infobae",
-    "L'Equipe",
-    "Mundo Deportivo",
     "Ole",
-    "Record"
-   ],
-   "primera_vez": "2026-11-06T14:31+00:00",
-   "titulares": [
-    {
-     "medio": "AS",
-     "titulo": "El Sabadell dedica su camiseta a Jesús de Miguel",
-     "url": "https://as.com/futbol/segunda/el-sabadell-dedica-su-camiseta-a-jesus-de-miguel-f202611-n/",
-     "pub": "2026-11-06T12:16+00:00"
-    },
-    {
-     "medio": "AS",
-     "titulo": "Mestalla rendirá tributo a Jesús de Miguel",
-     "url": "https://as.com/futbol/primera/mestalla-rendira-tributo-a-jesus-de-miguel-f202611-n/",
-     "pub": "2026-11-06T10:36+00:00"
-    },
-    {
-     "medio": "Mundo Deportivo",
-     "titulo": "El CE Sabadell convertirá su camiseta en un homenaje a Jesús de Miguel",
-     "url": "https://www.mundodeportivo.com/futbol/sabadell/20261106/1004247908/ce-sabadell-convertira-camiseta-homenaje-jesus-miguel.html",
-     "pub": ""
-    },
-    {
-     "medio": "Mundo Deportivo",
-     "titulo": "Jesús Owono, destrozado por la culpa: se plantea incluso dejar el fútbol",
-     "url": "https://www.mundodeportivo.com/futbol/andorra/20261106/1004247873/jesus-owono-destrozado-culpa-plantea-dejar-futbol.html",
-     "pub": ""
-    },
-    {
-     "medio": "Mundo Deportivo",
-     "titulo": "El Valencia homenajeará a Jesús de Miguel con la bandera del Tenerife a media asta en Mestalla",
-     "url": "https://www.mundodeportivo.com/futbol/valencia/20261106/1004247872/valencia-homenajeara-jesus-miguel-bandera-tenerife-media-asta-mestalla.html",
-     "pub": ""
-    },
-    {
-     "medio": "Google News ES",
-     "titulo": "El fútbol se vuelca con la familia de Jesús de Miguel: una recaudación de 100.000 euros con muchos conocidos entre los donantes",
-     "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxObEdMaVU1aDBSWHZQZlJqYlRLb2JWS2pLVXVhRS0tblUxWUpic0NmNU1NOTQxUS1XTlB0SUFJZHlhX0w1R09BcTRwbnRHcGhaRDUtRF95TXVKeWxzZG5TUTdkbGhhWno0ZEM4Y1l0MWQ1aGllQTBpZUhOMERLck54cWRUeG5sZG9MbkQzd3NNUHZjd3F4V2pXSndraXlXN21YX09oLVRsenF4cGZDa1hxREhzYTROb2h5UG5Ed2NQUWxOM1JkdXFIV2p3ZkFFd3BoTGc0c1BNankwd9IB3wFBVV95cUxOMEk2MVF0OTFaM1dxMmhEUUVGVndQX2U3Q3Y4VDItN0o3THJTbmZ6dm9URl9ITkJFM215bGZjWTI4T0F2c2lUVkFPY1ZkYVA1d0x3NVVNUHd5cGpNYmFFNWNjelFnc1lmWDBqNmRCcVltTXNSYnVrOEx4My1Gb3I1UmF2Y0tzaGsyN2g4bUIxWHJZT0hybmJjZVo1UjRpNC1DX0pITnpxY0liTUtSMUlyS295ckRUSFo4MmQybE5IWmlRMEhUZlY3RGtvbVZlMlpHZWN4MzE4cEVaN1lybVpj?oc=5",
-     "pub": "2026-11-06T11:31+00:00"
-    },
-    {
-     "medio": "Google News ES",
-     "titulo": "El fútbol regional rendirá homenaje a Jesús de Miguel",
-     "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNRnFUMDFublZKWF92TkZDMzBvdFRjS1JWc0lUb3k0S0pxbnI3LVM2T2FPd1c0cGdjSmplcjJTbGpnNm5NcGJIRlZFb0NVUlQ2QUtac3ZJVXFOWUs5b1hfbXN4M2oyX1BubFNwT3BlR0h2cWRjbWZGNUxTOWhSajlRTHJQdTFmSkY1UWhpSUlKb3ctdTc1cG9lNC1zMjExUjlkWU5pdmwwaW1lbWthaG1tUlpFNHFhMWozQjI2Y3JZTDlzaTdFelV5WXV6QldSckRhRkhfX3B6M3R1Zw?oc=5",
-     "pub": "2026-11-06T12:35+00:00"
-    },
-    {
-     "medio": "Google News ES",
-     "titulo": "«Siempre en nuestro recuerdo», así será el homenaje que prepara el fútbol español a Jesús de Miguel",
-     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPN1NscFR0VFcyX3ZHaWtOSWN0S2VvM0ZrZG1RNks2Vl9JbVFwRi04NFNZY2ZDZkNjTU8wNFFxMzZDaWsyelNBWERHdktyaXp5VHItV2cwWFZDXzB0d3ZUQll4WGpXQzZBblp5S3l2N1g5dExsalhWdVpRMm00eWRlQk5qTm95VDhEdFhMZFduVU9qQWVJSFdSYlRqNndSTTV1MFhJNkhtWHlETzRWZDlsUlpNQTJqbWVMdGfSAb8BQVVfeXFMUEF6UUc2VXJYdEZ6Mnl6N1hfcUlqODdvRTdkQlVqUW1HRDFONnRVTzBwN3Y5MlgxM3hLNll3T2JtNnJiR2JXN3NXeExsRm9XYm0xaDEzdXRSTUlsdUNyd19sVWltZExPNnM3bURpQzlJcnpaWHZsSUVsRGhWai1VYXVTbG1qZWJSQmdKUHZrMEZEemNrdmdTcEwwOXdRVjc0elY2N2VsNXNwa1huNGFyX0RKbFJheW9Pemh4RTFxcGM?oc=5",
-     "pub": "2026-11-06T09:48+00:00"
-    },
-    {
-     "medio": "Google News ES",
-     "titulo": "El fútbol se vuelca con Jesús de Miguel: Morata y Baena lideran una ayuda que roza los 100.000 euros",
-     "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOVDRXUzBLZE1WcEhjclVNZjZhTHFwd3Fpd2tocFNvQXJ4MWtPX0FNTDBwOFpKUDNJY3ZIMVVoTEJDTG1pbFdXUTJtalJRMWZ5TXhfODNFZjNyQjRxdWpIdktiSW5FY25Ld2c5cmd4TTZrOFJkOUpsRDQ2VVdyZ1E0OGdBb01lRVQ4R0wxQjJYR2pNbER3TThYeWZqcllCMTdkYml1NkxWSEpuMTVWcW9sRklBRUlkVWhHUWlVcGMtTlExZloyNldtNTU0TjNfalFWOThReURha2LSAd4BQVVfeXFMTzJDdDVfMURmY2xqdnNkM3Bac0psaS04MU1qYlh4MllBWXcxbHJ4TG5hUkxJTDdLdUd6NXhOWVVieGQyME4wcEhoUmxsVGw2cXpyb21tRTYzMEI2Qkw0RGZpb0kzTHhFa2llandJd3d0b2N1QVB1NnIzUTg3UzBaOGZ0MTd0eFNjRk5ZYUc4TW9mdTdGQmsybVkwcElleDNGM1lYSDhFM01WdExwc2ZYREVQbl9FNl9GZUZ0WDJ4elhUSHQ4RklwQWVWRkZoemFrU2dHbnloQkpDd1UwVnFB?oc=5",
-     "pub": "2026-11-06T12:08+00:00"
-    },
-    {
-     "medio": "Google News ES",
-     "titulo": "«Siempre en nuestro recuerdo», el homenaje del fútbol español a Jesús de Miguel esta jornada",
-     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNN0Y5VWNBS3lzaGZWMktKdjJBblljR1BRWlU3b1NrcGZJTHFxUmZDaTVSZHFIR012b0UzZnlqTFBESUdTWW90cVppUmd3VEFaajR2SXBkUGpfT0dDRFVQS2pISi1pWFZRWmQtOWppMjg5N2FJWENUel9Ta3FjSG1WczE3dWtjM1BSblRoRk1uYWxEbURCQ2dQVVJNNTVrTDdONnc1M0pfREpFeEFzUllUV1dCdXZWN20zcnEzZXB4Yno?oc=5",
-     "pub": "2026-11-06T11:58+00:00"
-    },
-    {
-     "medio": "Google News ES",
-     "titulo": "El fútbol español se vuelca con la familia de Jesús de Miguel a través de iniciativas solidarias",
-     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOX09NZW4zTFFHaVdaUWZWUEhQQXg4QUw3dXdOMlMwekVTaXJBMWZiblFFak9ncUdtR0JsMmNqRk52Tk9XY2Rxc1JJam9HZnZfQ1NqdE5yc2RqYkRVM3BBMi10MFh5cnhLcTVjVTVINmJRZ3UyMlE1ZHh1MTg3RGZucklDVEZrd0lOc0pDaFNnR1hjVGRmcHh6cmJURUZreENieGdmWmNfemJiM09hbXVnMUd3?oc=5",
-     "pub": "2026-11-06T14:23+00:00"
-    },
-    {
-     "medio": "Google News ES",
-     "titulo": "El fútbol español se detendrá en el minuto 9 en homenaje a Jesús de Miguel",
-     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNTHJBWTFyVk90Mm9kWXcwSnl3WGFaV2JkVEMzaGR1TkY1X1o0aFhEMGJ0ZGg3aktXM0d0Rkh2R2dYT28yQUFpMXo4TUU4NWFVOUNDcW1mTFZWYTVPSWdMLTBrSUdIcHMwSnVUcXJxbnhYQk1BT25UTzVZSUJweG9vRlVjd1pnYlZyckxZYVcyeGk1eW5jbHppR3V3ZHpmSVNERTBXc1FCSUN3R2cza0gxRVdUWjU?oc=5",
-     "pub": "2026-11-06T10:44+00:00"
-    }
-   ]
-  },
-  {
-   "tema": "Man",
-   "medios": 8,
-   "lista_medios": [
-    "BBC",
-    "Daily Mail",
-    "Google News EN",
-    "Mirror",
-    "Planet Football",
+    "Record",
     "Sky Sports",
-    "Yahoo",
-    "talkSPORT"
+    "Yahoo"
    ],
    "primera_vez": "2026-11-06T14:31+00:00",
    "titulares": [
     {
-     "medio": "BBC",
-     "titulo": "Has Anderson lived up to the hype after Man City move?",
-     "url": "https://www.bbc.co.uk/sport/football/articles/cqde8w0k2pz1o?at_medium=RSS&at_campaign=rss",
-     "pub": "2026-11-06T12:00+00:00"
+     "medio": "Google News AR",
+     "titulo": "Celebró Boca: la decisión de Forlán en lista de Uruguay para el amistoso con la Selección Argentina",
+     "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxORk03clBOVUtHSUlGNmk1R2djTlFzZXl0aE9iMDg1QXlaeVpJc0FXemRkcngwUUd0amZWYnRRV1dPU1RqZ19JNDFrSy1XT0xnMVdELUJiMUxKVU9RQ1Z3UW1LN0J3b25pY0xiNUhlejVRZFdRUGRfODNsanRqMERvc0NaT1ZXeWppbDE0TThrb3NNZ1lEUHlIOElWd1plb3QwMHR0blFvektFdTYyaUpJWG1fblQwZmFtbnNWM3Zmazdxek5qVi10Q29Tei0wU1VNNmlzZA?oc=5",
+     "pub": "2026-11-06T13:20+00:00"
     },
     {
-     "medio": "BBC",
-     "titulo": "'He'll regret it' - the day Ferguson quit Aberdeen for Man Utd",
-     "url": "https://www.bbc.co.uk/news/articles/cmwy4edrdp02o?at_medium=RSS&at_campaign=rss",
-     "pub": "2026-11-06T06:17+00:00"
+     "medio": "Google News AR",
+     "titulo": "El VAR en Argentina: un relevamiento de cinco años muestra los fallos a favor y en contra de cada equipo",
+     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNOU5DUU1FTVEwYjJrOGRXUE1hS3Z2cTRveUF6VDRQZkJDUXowcFRzTlQzdzA1cEJhY1dxYVNLSVJtNHZwUWhYZU9vSS1HX2lPU0FfaDVPYVhQbk1jMFRUQ21tMGVYMGNaUlotYmJNcHFGdnBpR0Via3B6TVRGeFE0T2tJS0RUZGN3WGctay1wek5Ea21lR3NlVVdNNHVnYTE3VnlRb24zUVVESFVXcEZ2Rw?oc=5",
+     "pub": "2026-11-06T14:00+00:00"
     },
     {
      "medio": "Sky Sports",
-     "titulo": "Lacey and Man Utd's next generation can rescue Carrick",
-     "url": "https://www.skysports.com/football/news/12040/13608473/manchester-united-reporter-notebook-shea-lacey-and-old-trafford-young-guns-offer-michael-carrick-hope-of-unlikely-revival",
-     "pub": "2026-11-06T09:00+00:00"
+     "titulo": "Ireland vs Argentina LIVE! Keenan scores again as hosts notch third vs Pumas",
+     "url": "https://www.skysports.com/rugby-union/live-blog/12040/13608931/ireland-vs-argentina-live-nations-championship-updates-latest-scores-team-news-commentary-from-aviva-stadium-dublin",
+     "pub": "2026-11-06T15:54+00:00"
     },
     {
-     "medio": "talkSPORT",
-     "titulo": "Man United wonderkid Shea Lacey eyed up by rival nation amid uncertain England future",
-     "url": "https://talksport.com/football/4690478/man-united-shea-lacey-ireland-eligibility-england-future/",
-     "pub": "2026-11-06T11:11+00:00"
+     "medio": "Football Italia",
+     "titulo": "Why Troilo’s Argentina call-up is being labelled ‘revenge’ on Inter midfielder Barella",
+     "url": "https://football-italia.net/why-troilos-argentina-call-up-revenge-barella/",
+     "pub": "2026-11-06T14:36+00:00"
     },
     {
-     "medio": "Daily Mail",
-     "titulo": "Man United's secret plot to poach Sir Alex Ferguson from Aberdeen, 40 years on - from phone calls with a fake Scottish accent to clandestine meetings at M74 services on Bonfire Night",
-     "url": "https://www.dailymail.com/sport/football/article-16271005/man-united-poach-sir-alex-ferguson.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-     "pub": "2026-11-06T13:07+00:00"
+     "medio": "Ole",
+     "titulo": "El emotivo discurso de Osoro en el Mundial de pádel: \"Cualquier deportista con la camiseta de Argentina es un superhéroe\"",
+     "url": "https://www.ole.com.ar/padel/emocionante-discurso-aranza-osoro-mundial-padelcualquier-deportista-camiseta-argentina-superheroe_0_wCKxA7PeSu.html",
+     "pub": "2026-11-06T19:50+00:00"
     },
     {
-     "medio": "Daily Mail",
-     "titulo": "Unai Emery confirms Aston Villa contract talks in blow to Man United as Enzo Maresca backs Gianluigi Donnarumma after Man City No 1's spate of high-profile errors: Premier League press conferences",
-     "url": "https://www.dailymail.com/sport/football/article-16271393/Premier-League-press-conferences-Enzo-Maresca-backs-Gianluigi-Donnarumma-Man-City-No-1s-spate-high-profile-errors.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-     "pub": "2026-11-06T14:24+00:00"
+     "medio": "Ole",
+     "titulo": "Con mayoría del fútbol local: salió la lista de Costa Rica para enfrentar a Argentina",
+     "url": "https://www.ole.com.ar/futbol-internacional/convocatoria-seleccion-costa-rica-lista-bryan-ruiz-amistoso-fecha-fifa-argentina-ecuador_0_HTR2LwgQgM.html",
+     "pub": "2026-11-06T19:44+00:00"
     },
     {
-     "medio": "Mirror",
-     "titulo": "Sir Alex Ferguson is a painful reminder of Man Utd's glory days 40 years on from his arrival",
-     "url": "https://www.mirror.co.uk/sport/football/alex-ferguson-man-utd-anniversary-37850897",
-     "pub": "2026-11-06T14:09+00:00"
+     "medio": "Infobae",
+     "titulo": "Jorge Macri se reunió con el jefe de la Fórmula 1 en Brasil para negociar el regreso del Gran Premio de Argentina: “Vinimos a reconfirmar el compromiso”",
+     "url": "https://www.infobae.com/deportes/2026/11/06/jorge-macri-se-reunio-con-el-ceo-de-la-formula-1-en-brasil-para-negociar-el-regreso-de-un-gran-premio-a-argentina-vinimos-a-reconfirmar-el-compromiso/",
+     "pub": "2026-11-06T16:24+00:00"
     },
     {
-     "medio": "Mirror",
-     "titulo": "Michael Carrick confirms severity of Carlos Baleba injury as Man Utd boss provides two updates",
-     "url": "https://www.mirror.co.uk/sport/football/news/carrick-man-utd-baleba-injury-37851168",
-     "pub": "2026-11-06T13:47+00:00"
+     "medio": "Google News AR",
+     "titulo": "Con mayoría del fútbol local: salió la lista de Costa Rica para enfrentar a Argentina :: Olé - ole.com.ar",
+     "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPMTN5Q0dlRWdCVzR0WTZkQmhGMGc3blJkMHlVdUlybjF2VFB0c2pvNGtQNmJja1EwemM1OWVyUndtZzdPLWhOblpfOWlvNGlQZEJ5NTVqWlRSZXZOZ3VyU1BmVkNfeDFNSUhFUVBfRFB0MEpiSU5JQXVJcDlJdUtrV2Qtcy1jaVBTc0JUa2lHMHpqdlRUT0RFREF4LUpDdkg2UkFYQTRaaFI1M0hlQ1BpeUdxdG04eTI2dnVLQ1RRQmdrbkFaeFFESlh0Zmg4cVNBY1hUX1R6SlFZMmtwQjA4T0lMMUo?oc=5",
+     "pub": "2026-11-06T19:44+00:00"
     },
     {
-     "medio": "Mirror",
-     "titulo": "Bayern Munich 'line up Rio Ngumoha transfer' after being rejected by Man Utd star",
-     "url": "https://www.mirror.co.uk/sport/football/transfer-news/rio-ngumoha-bayern-munich-liverpool-37850232",
-     "pub": "2026-11-06T11:51+00:00"
+     "medio": "Google News AR",
+     "titulo": "Lucas “Bochi” Licht, convocado a la Selección Argentina Senior +45",
+     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPU0l6N0ZFQzBKenliQVBta0U5dkFqLXRpd0VTcUhDaEY3aEcwbWtoWS1lNFhoMFRFR3RnZjV4UEdTRWEycFdiTEhpRmg2T1NiOTBGMTZGMjVBdm11dmhEOWhIakltbHIwbl83UFFFblZNZUxYb2FqODlZWFVjMi1MT0J2LUh2YjJBcjJVTkpSVkloU290WUE?oc=5",
+     "pub": "2026-11-06T19:09+00:00"
     },
     {
-     "medio": "Mirror",
-     "titulo": "Man United's 26/27 home shirt is 50% off but rare flash deal ends Friday",
-     "url": "https://www.mirror.co.uk/sport/football/news/man-united-2627-home-shirt-37849748",
-     "pub": "2026-11-06T10:58+00:00"
+     "medio": "Google News AR",
+     "titulo": "Comenzó la venta de entradas para Argentina - Costa Rica en Córdoba",
+     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQVWx4ZFVTZC0tUE5fbWZjS3BoSkZQcmRWVTJYS2c1Tm9vNmxmUDNyenFCV3RSVUtNX0ljbWI0T1NRWlBrSlVFLXBDSGt4WnNDQ2VMdUNNempuWTFrekhXZVNyQTNocUR2MUc2eVVsX0JsVDA2RmdhMTM4S0RISDVtVms1aXN3OTVuQTgycUtmeUk5aTRKb0kyUzNRY0NtdElwa3JXRUNSdk54c2FuOTlVMGxWd9IBuAFBVV95cUxQYWNJWFpQTlRvT0xZVWJRdjBtQkVvRUJNNXJMeWZQTzJELXZUUFJIZnoyaVpZaWNGWFBNV2pqVFJGam50a2lJSTdtUmJ4WHNWTlc2S29YVVJhdE01cVlWZFFMc3R6NHBlb0VLeThSMmZtdnlSZmEwZXRESk5TUk85WjRxUUE0UnpsN1BXZjlaT3BpY2VrZXpjNWVXdVpIWm9tSTJ5MEdSSGdvbmRZVmZLdEd4c1hDR2R4?oc=5",
+     "pub": "2026-11-06T19:35+00:00"
     },
     {
-     "medio": "Mirror",
-     "titulo": "Jamie Carragher doubles down on Aston Villa and Man Utd claims despite legal action threat",
-     "url": "https://www.mirror.co.uk/sport/football/news/jamie-carragher-doubles-down-aston-37849491",
-     "pub": "2026-11-06T09:45+00:00"
+     "medio": "Yahoo",
+     "titulo": "FIFA reduce Molina ban after Argentina brawl during 2026 World Cup final",
+     "url": "https://sports.yahoo.com/articles/fifa-reduce-molina-ban-argentina-121400812.html",
+     "pub": "2026-11-07T12:14+00:00"
     },
     {
-     "medio": "Mirror",
-     "titulo": "Former Man Utd star forced to apologise for Mason Greenwood comments in Liverpool match",
-     "url": "https://www.mirror.co.uk/sport/football/news/man-utd-mason-greenwood-apology-37849189",
-     "pub": "2026-11-06T08:33+00:00"
+     "medio": "Google News ES",
+     "titulo": "Semifinales de la Finalissima de Fútbol Sala 2026: Brasil - Argentina 1-1 (5-4 en penaltis)",
+     "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOdkVRR0liMnZvaVV2blVjY1JBSlg1c3FhWG50VnlJZ1Vyak51dEFpZ2h4dzRYbXpBLThlOF94SjY2d1Y2dUY0cEVHYnplbFlFWUVuVzYwRXJHcnBZYl9LWlNhZm5UbURVNDJvZmJwdl9iR0p6NXlycWdXRVVGVm9ZY09namxKX0dSMlAwU3pvaUp4R3dadS1mb2sxTHp6WFlPbHJnRFk4SXNLazlyd1Rfb1VnQ2dwV0R3aTVTSVgtSlp3QWgtUUtxMG1abGNuUkZSVjdMUg?oc=5",
+     "pub": "2026-11-07T10:11+00:00"
     }
    ]
   },
@@ -2518,12 +2529,6 @@
      "titulo": "Thomas Tuchel reveals Premier League star was overtaken by Jobe Bellingham",
      "url": "https://talksport.com/football/4690893/thomas-tuchel-jobe-bellingham-overtaken-kobbie-mainoo-england/",
      "pub": "2026-11-06T13:17+00:00"
-    },
-    {
-     "medio": "talkSPORT",
-     "titulo": "What time is the England squad announcement? Thomas Tuchel to reveal team to face Croatia and Spain",
-     "url": "https://talksport.com/football/4682635/england-squad-announcement-date-time-team-tuchel-kane/",
-     "pub": "2026-11-06T08:43+00:00"
     },
     {
      "medio": "Daily Mail",
@@ -2584,6 +2589,12 @@
      "titulo": "Thomas Tuchel hands Jobe Bellingham the chance to carve his own path as an England star",
      "url": "https://sports.yahoo.com/articles/thomas-tuchel-hands-jobe-bellingham-123240144.html",
      "pub": "2026-11-06T12:42+00:00"
+    },
+    {
+     "medio": "Google News EN",
+     "titulo": "Cole Palmer omission a statement by Thomas Tuchel as Ben White recalled despite boos - England squad talking points",
+     "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNT0dkUHEtbS1nb1UxOWQ4Y3dxRXNJQXlyMkRHZlV4N19ZZzNjenJvTjFRRWF6TkQycllHS2FzVUNhY0U3QXNEdm1uMExnNDd1NEI1V3VjbDl3MWhzd21KM2JoSlBjUnYwLVh4aTd6VnFpdTdpWl9mSXQxTUw5bEQtMkRDUERKMEhyM2JOejRONFJFQjNpX21VekhLcVZxLUxFZlVLVmJEOWVQSGxoNVdGcEVKLS1ySzQwNXF2NGw3V0t5blFiYjBGNHVHdmtqaEFZRjc1cE1Ddy02RHBXTmoxeTJ6a05VUU1jbUU2cWo3ZHBhdFhz?oc=5",
+     "pub": "2026-11-06T13:30+00:00"
     }
    ]
   },
@@ -2681,10 +2692,10 @@
    "medios": 8,
    "lista_medios": [
     "Daily Mail",
-    "Foot Mercato",
     "FourFourTwo",
     "Google News EN",
     "Google News ES",
+    "Guardian",
     "Mirror",
     "Yahoo",
     "talkSPORT"
@@ -2698,12 +2709,6 @@
      "pub": "2026-11-06T14:24+00:00"
     },
     {
-     "medio": "Mirror",
-     "titulo": "Jamie Carragher doubles down on Aston Villa and Man Utd claims despite legal action threat",
-     "url": "https://www.mirror.co.uk/sport/football/news/jamie-carragher-doubles-down-aston-37849491",
-     "pub": "2026-11-06T09:45+00:00"
-    },
-    {
      "medio": "FourFourTwo",
      "titulo": "Aston Villa rocked by Real Madrid interest in new signing: report",
      "url": "https://www.fourfourtwo.com/transfer/aston-villa-rocked-by-real-madrid-interest-in-new-signing-report",
@@ -2714,12 +2719,6 @@
      "titulo": "Aston Villa summer signing is already wanted by two European giants",
      "url": "https://sports.yahoo.com/articles/aston-villa-summer-signing-already-135000219.html",
      "pub": "2026-11-06T13:50+00:00"
-    },
-    {
-     "medio": "Foot Mercato",
-     "titulo": "Aston Villa : Unai Emery proche de prolonger",
-     "url": "https://www.footmercato.net/a5451632011257954309-aston-villa-unai-emery-proche-de-prolonger",
-     "pub": "2026-11-06T07:52+00:00"
     },
     {
      "medio": "talkSPORT",
@@ -2762,6 +2761,18 @@
      "titulo": "Unai Emery, Aston Villa, Manchester United and football’s food chain",
      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNdXcxUUp2aC1tS1RjTE1QYTBja1Y0bUUzdzdQNjZfSTdFeHMzamY2bW5sV0szUGNNSXpKQjlsNldGTUpBbHJyRDVqS3NUdXFCMl91UkYwX2dOMnNvZURfLXhERlkwRGRJVGs3WENFcEkzOFJtaWo1WFFIZ2lIR053SkVUYTEwcHZWb2h4TEJWTnMwSWJqOVMtSkRGOGxaSUtzanRPVjNRUFRubmRk?oc=5",
      "pub": "2026-11-07T05:15+00:00"
+    },
+    {
+     "medio": "Mirror",
+     "titulo": "Steven Gerrard sends Michael Carrick sack warning ahead of crunch Aston Villa clash",
+     "url": "https://www.mirror.co.uk/sport/football/news/steven-gerrard-michael-carrick-sack-37854188",
+     "pub": "2026-11-07T14:54+00:00"
+    },
+    {
+     "medio": "Yahoo",
+     "titulo": "Barcelona academy wonderkid emerges as a target for Aston Villa and Everton – report",
+     "url": "https://sports.yahoo.com/articles/barcelona-academy-wonderkid-emerges-target-174800349.html",
+     "pub": "2026-11-07T17:48+00:00"
     }
    ]
   }
