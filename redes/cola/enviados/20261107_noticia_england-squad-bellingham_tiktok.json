@@ -1,5 +1,5 @@
 {
- "red": "instagram",
+ "red": "tiktok",
  "hora": "2026-11-07T14:31:57+01:00",
  "tipo": "noticia",
  "partido": "Bellingham in, Palmer out",
@@ -8,5 +8,9 @@
  "recordatorio": false,
  "musica": "hh03",
  "variante": "seg=5.0;arranque=s1;hook=pregunta;musica=hh03;formato=auto_noticia;hora=14",
- "notas": "noticia automática (IA + reglas): BBC: 'Incredible achievement for the family' as Bellingham brothers called up; Guardian: Jobe Bellingham ‘deserves’ England call; Kompany on track for ‘full recovery’; Coady retires: football news – l"
+ "notas": "noticia automática (IA + reglas): BBC: 'Incredible achievement for the family' as Bellingham brothers called up; Guardian: Jobe Bellingham ‘deserves’ England call; Kompany on track for ‘full recovery’; Coady retires: football news – l",
+ "titulo": "England squad shock: Bellingham in, Palmer out",
+ "estado": "enviado",
+ "buffer_id": "6aef27b2af7e526d432490d0",
+ "dueAt": "2026-11-07T13:32:21+00:00"
 }
