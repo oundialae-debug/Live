@@ -8,5 +8,8 @@
  "recordatorio": false,
  "musica": "hh01",
  "variante": "seg=5.0;arranque=s0;hook=pregunta;musica=hh01;formato=auto_noticia;hora=19",
- "notas": "noticia automática (IA + reglas): BBC: Portugal coach 'knew nothing' about Ronaldo retiring; BBC: From playing against Messi and Ronaldo to non-league"
+ "notas": "noticia automática (IA + reglas): BBC: Portugal coach 'knew nothing' about Ronaldo retiring; BBC: From playing against Messi and Ronaldo to non-league",
+ "estado": "enviado",
+ "buffer_id": "6aef6aed9214322f680b1045",
+ "dueAt": "2026-11-07T18:19:12+00:00"
 }
