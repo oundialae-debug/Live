@@ -1,30 +1,30 @@
-# Alertas de noticias (2026-11-06 21:00 UTC)
+# Alertas de noticias (2026-11-07 13:27 UTC)
 
 Temas en >= 7 medios. La rutina diaria y cualquier sesión deben mirar esto ANTES de elegir tema (regla 6: la noticia que todos comentan va primero).
 
 ## Grandes SIN publicar en las últimas 48 h (hacer post si pasa el listón: nada repetido, foto del momento)
 
-- **Madrid** (14 medios): Madrid set for 'best in the world' as NFL returns to Spain
-- **Ronaldo** (13 medios): Portugal coach 'knew nothing' about Ronaldo retiring
-- **Jesus** (12 medios): Cristiano Ronaldo to be blocked from emotional Portugal farewell as he blindsides Jorge Jesus
-- **Portugal** (11 medios): Portugal coach 'knew nothing' about Ronaldo retiring
-- **Miguel** (11 medios): 'A void that is impossible to fill' - tributes paid at De Miguel funeral
-- **Cristiano** (11 medios): Cristiano Ronaldo merely the latest example of a great player who couldn’t let go
-- **England** (10 medios): Is Palmer's England career over under Tuchel?
+- **Madrid** (12 medios): Real Madrid and PSG keen on Suzuki - Saturday's gossip
+- **Everton** (11 medios): England 'disappointment' fuels Dewsbury-Hall's Everton heroics
+- **England** (10 medios): England 'disappointment' fuels Dewsbury-Hall's Everton heroics
+- **Coventry** (10 medios): Lampard feels hair pull should have led to Coventry penalty
+- **Arsenal** (10 medios): Arsenal vs Hull City build-up LIVE!
 - **Tuchel** (9 medios): Is Palmer's England career over under Tuchel?
-- **Everton** (9 medios): Everton v Coventry City: Premier League – live
-- **Jorge** (9 medios): Cristiano Ronaldo to be blocked from emotional Portugal farewell as he blindsides Jorge Jesus
-- **Villa** (8 medios): Emery close to agreeing new Aston Villa contract
-- **Jesús** (8 medios): ‘In moments of pain, football comes together’: Spain says goodbye to Jesús de Miguel
-- **Bellingham** (7 medios): 'A beautiful story' as Bellingham brothers called up
-- **Palmer** (7 medios): Palmer misses too many chances to impress - Tuchel
+- **Tottenham** (9 medios): Leeds United v Tottenham Hotspur: Premier League – live
+- **Leeds** (9 medios): Leeds United v Tottenham Hotspur: Premier League – live
+- **Jorge** (9 medios): Portugal boss Jorge Jesus claims Cristiano Ronaldo did NOT tell him he was retiring from international duty af
+- **Man** (8 medios): I left Man City for my mental wellbeing - Trafford
+- **Villa** (8 medios): Jamie Carragher doubles down on Aston Villa claim that drew legal threat despite apology
+- **Gabriel** (7 medios): My dream is to win Ballon d'Or - Gabriel
+- **Barry** (7 medios): Barry scores twice as Everton fight back to beat Coventry
+- **Infantino** (7 medios): The Fifa hopeful hoping to take Infantino down with 'samurai spirit'
 - **Ferguson** (7 medios): 'He'll regret it' - the day Ferguson quit Aberdeen for Man Utd
-- **Jobe** (7 medios): Bellinghams celebrate ‘beautiful story’ as Jobe joins Jude in Tuchel’s England 2.0
-- **Arsenal** (7 medios): Fenerbahce thwart Liverpool and Arsenal pushed in Prague
-- **Chelsea** (7 medios): Premier League title winner with Chelsea tipped to succeed Alonso as manager
-- **Sevilla** (7 medios): Confirmed Sevilla and Alavés line-ups for LALIGA matchweek 12
+- **Manchester** (7 medios): Where to watch Manchester United vs Aston Villa as Carrick insists &#8216;anything is possible&#8217;
+- **Alex** (7 medios): Top 10 Manchester United signings of the Alex Ferguson era
+- **Ronaldo** (7 medios): He had the world at his feet when he signed for Real Madrid at 13, mixing with Zidane and Ronaldo. Now Jack Ha
+- **Cristiano** (7 medios): Portugal boss Jorge Jesus claims Cristiano Ronaldo did NOT tell him he was retiring from international duty af
+- **Jesus** (7 medios): Portugal boss Jorge Jesus claims Cristiano Ronaldo did NOT tell him he was retiring from international duty af
 
 ## Grandes ya cubiertas
 
-- Manchester (9): Where to watch Manchester United vs Aston Villa as Carrick insists &#8216;anything is possible&#8217;
-- Man (8): Has Anderson lived up to the hype after Man City move?
+- (ninguna)
