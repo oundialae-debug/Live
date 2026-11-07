@@ -188,3 +188,6 @@
 {"t": "2026-11-07T13:28+00:00", "estado": "publicado", "temas": ["Bellingham", "Tuchel", "England"], "clave": "england-squad-bellingham", "video": "https://raw.githubusercontent.com/oundialae-debug/live/main/media/noticias/2026-11-07_1428_england-squad-bellingham.mp4"}
 {"t": "2026-11-07T13:29+00:00", "estado": "descartar", "temas": ["Everton"], "clave": "everton-record-fixture", "motivo": "importancia 6 < 7"}
 {"t": "2026-11-07T18:15+00:00", "estado": "publicado", "temas": ["Ronaldo", "Cristiano"], "clave": "ronaldo-retirement", "video": "https://raw.githubusercontent.com/oundialae-debug/live/main/media/noticias/2026-11-07_1915_ronaldo-retirement.mp4"}
+{"t": "2026-11-07T18:15+00:00", "estado": "descartar", "temas": ["Arsenal"], "clave": "arsenal-injury-update", "motivo": "importancia 6 < 7"}
+{"t": "2026-11-07T18:15+00:00", "estado": "descartar", "temas": ["Leeds"], "clave": "leeds-tottenham-handball", "motivo": "importancia 6 < 7"}
+{"t": "2026-11-07T18:15+00:00", "estado": "descartar", "temas": ["Manchester"], "clave": "deschamps-united", "motivo": "importancia 5 < 7"}
