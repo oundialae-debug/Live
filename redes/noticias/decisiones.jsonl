@@ -191,3 +191,5 @@
 {"t": "2026-11-07T18:15+00:00", "estado": "descartar", "temas": ["Arsenal"], "clave": "arsenal-injury-update", "motivo": "importancia 6 < 7"}
 {"t": "2026-11-07T18:15+00:00", "estado": "descartar", "temas": ["Leeds"], "clave": "leeds-tottenham-handball", "motivo": "importancia 6 < 7"}
 {"t": "2026-11-07T18:15+00:00", "estado": "descartar", "temas": ["Manchester"], "clave": "deschamps-united", "motivo": "importancia 5 < 7"}
+{"t": "2026-11-07T22:14+00:00", "estado": "revisar", "temas": ["Nottingham", "Forest"], "clave": "forest-man-city-preview", "motivo": "datos que no salen en los titulares: Check"}
+{"t": "2026-11-07T22:14+00:00", "estado": "publicado", "temas": ["Madrid"], "clave": "real-madrid-valencia-squad", "video": "https://raw.githubusercontent.com/oundialae-debug/live/main/media/noticias/2026-11-07_2314_real-madrid-valencia-squad.mp4"}
