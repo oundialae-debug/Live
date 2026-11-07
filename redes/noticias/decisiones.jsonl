@@ -186,3 +186,4 @@
 {"t": "2026-11-06T14:32+00:00", "estado": "descartar", "temas": ["Europa"], "clave": "europa-league-fixtures-roundup", "motivo": "repetida (ya publicada/decidida)"}
 {"t": "2026-11-06T21:01+00:00", "estado": "descartar", "temas": ["Jorge"], "clave": "jorge-jesus-ronaldo-retirement", "motivo": "repetida (ya publicada/decidida)"}
 {"t": "2026-11-07T13:28+00:00", "estado": "publicado", "temas": ["Bellingham", "Tuchel", "England"], "clave": "england-squad-bellingham", "video": "https://raw.githubusercontent.com/oundialae-debug/live/main/media/noticias/2026-11-07_1428_england-squad-bellingham.mp4"}
+{"t": "2026-11-07T13:29+00:00", "estado": "descartar", "temas": ["Everton"], "clave": "everton-record-fixture", "motivo": "importancia 6 < 7"}
