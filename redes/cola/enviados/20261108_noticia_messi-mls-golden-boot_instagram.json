@@ -1,5 +1,5 @@
 {
- "red": "tiktok",
+ "red": "instagram",
  "hora": "2026-11-08T14:51:56+01:00",
  "tipo": "noticia",
  "partido": "Messi wins MLS Golden Boot",
@@ -9,5 +9,7 @@
  "musica": "hh05",
  "variante": "seg=5.0;arranque=s1;hook=pregunta;musica=hh05;formato=auto_noticia;hora=14",
  "notas": "noticia automática (IA + reglas): Football Italia: Today’s Papers: Milan risk 100 million, trust in Allegri, Paz the heir to Messi?; Infobae: El Inter Miami de Messi recibirá a Charlotte FC con la cabeza puesta en los playoffs de la M",
- "titulo": "Messi’s MLS Golden Boot – a historic moment"
+ "estado": "enviado",
+ "buffer_id": "6af07de0562f2e6de9bfbe87",
+ "dueAt": "2026-11-08T13:52:19+00:00"
 }
