@@ -195,3 +195,4 @@
 {"t": "2026-11-07T22:14+00:00", "estado": "publicado", "temas": ["Madrid"], "clave": "real-madrid-valencia-squad", "video": "https://raw.githubusercontent.com/oundialae-debug/live/main/media/noticias/2026-11-07_2314_real-madrid-valencia-squad.mp4"}
 {"t": "2026-11-07T22:14+00:00", "estado": "descartar", "temas": ["Tottenham"], "clave": "tottenham-kane-preemption", "motivo": "falta question"}
 {"t": "2026-11-08T13:48+00:00", "estado": "publicado", "temas": ["Messi"], "clave": "messi-mls-golden-boot", "video": "https://raw.githubusercontent.com/oundialae-debug/live/main/media/noticias/2026-11-08_1448_messi-mls-golden-boot.mp4"}
+{"t": "2026-11-08T13:49+00:00", "estado": "revisar", "temas": ["Arsenal"], "clave": "arsenal-youth-squad", "motivo": "datos que no salen en los titulares: Seven"}

@@ -810,3 +810,12 @@
 - Yahoo: Man City Starting XI vs Nottingham Forest: Confirmed Team News and Predicted Lineup
 - Google News EN: STAR FOOTBALL PREVIEW Sat: Nottingham Forest v Man City
 
+## 08/11 14:49 · Arsenal youth surge · revisar
+- Motivo: datos que no salen en los titulares: Seven
+- Temas: Arsenal
+- Mirror: Error-prone Gianluigi Donnarumma could cost Man City with Arsenal boasting rock-solid David Raya
+- Planet Football: The 6 players Arsenal let go in the summer – & how they’re faring elsewhere
+- FourFourTwo: Watch Arsenal vs Hull City: Live Streams and TV channels
+- Yahoo: 7 Arsenal youngsters called up to England youth teams
+- Yahoo: 3 Arsenal players get senior Spain calls, 1 in u21 squad
+
