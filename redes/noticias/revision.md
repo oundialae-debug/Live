@@ -819,3 +819,21 @@
 - Yahoo: 7 Arsenal youngsters called up to England youth teams
 - Yahoo: 3 Arsenal players get senior Spain calls, 1 in u21 squad
 
+## 09/11 17:48 · United face Villa clash · revisar
+- Motivo: datos que no salen en los titulares: 17
+- Temas: Villa
+- Daily Mail: Michael Carrick reveals club bosses have not told him if he will still have a job next week, with Man United languishing in relegation zone ahead of Aston Villa clash
+- Mirror: What Michael Carrick knows about Man Utd future ahead of crunch Aston Villa clash
+- Mirror: 'I was happy to escape the Man Utd negativity – it was common sense to join Aston Villa'
+- Mirror: Jamie Carragher's row with Aston Villa exposed a painful truth about Man Utd's new reality
+- FourFourTwo: Watch Man Utd vs Aston Villa: Live streams and TV info
+
+## 09/11 17:48 · Liverpool host Crystal Palace · revisar
+- Motivo: palabra sensible en los titulares: dead
+- Temas: Palace, Crystal, Liverpool
+- Guardian: Crystal Palace v Liverpool, Brighton v Brentford, and more: Premier League – live
+- Sky Sports: Isak, Wirtz and Gakpo start for Liverpool as Disasi returns for Palace LIVE!
+- Daily Mail: Premier League: Liverpool search for win at Crystal Palace after back-to-back defeats, while Chelsea visit struggling Sunderland and Brighton aim to go SECOND
+- FourFourTwo: Watch Crystal Palace vs Liverpool: FREE stream and TV info
+- Yahoo: Crystal Palace v Charlton Athletic
+

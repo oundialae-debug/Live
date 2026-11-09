@@ -196,3 +196,7 @@
 {"t": "2026-11-07T22:14+00:00", "estado": "descartar", "temas": ["Tottenham"], "clave": "tottenham-kane-preemption", "motivo": "falta question"}
 {"t": "2026-11-08T13:48+00:00", "estado": "publicado", "temas": ["Messi"], "clave": "messi-mls-golden-boot", "video": "https://raw.githubusercontent.com/oundialae-debug/live/main/media/noticias/2026-11-08_1448_messi-mls-golden-boot.mp4"}
 {"t": "2026-11-08T13:49+00:00", "estado": "revisar", "temas": ["Arsenal"], "clave": "arsenal-youth-squad", "motivo": "datos que no salen en los titulares: Seven"}
+{"t": "2026-11-09T16:48+00:00", "estado": "revisar", "temas": ["Villa"], "clave": "manu-villa-preview", "motivo": "datos que no salen en los titulares: 17"}
+{"t": "2026-11-09T16:48+00:00", "estado": "revisar", "temas": ["Palace", "Crystal", "Liverpool"], "clave": "liverpool-crystal-palace", "motivo": "palabra sensible en los titulares: dead"}
+{"t": "2026-11-09T16:48+00:00", "estado": "descartar", "temas": ["Chelsea"], "clave": "chelsea-sunderland-preview", "motivo": "importancia 6 < 7"}
+{"t": "2026-11-09T16:48+00:00", "estado": "descartar", "temas": ["Manchester"], "clave": "manchester-united-future", "motivo": "importancia 6 < 7"}
