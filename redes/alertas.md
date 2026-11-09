@@ -1,27 +1,28 @@
-# Alertas de noticias (2026-11-08 19:00 UTC)
+# Alertas de noticias (2026-11-09 16:47 UTC)
 
 Temas en >= 7 medios. La rutina diaria y cualquier sesión deben mirar esto ANTES de elegir tema (regla 6: la noticia que todos comentan va primero).
 
 ## Grandes SIN publicar en las últimas 48 h (hacer post si pasa el listón: nada repetido, foto del momento)
 
-- **Chelsea** (14 medios): 'Tinkerman' Alonso's Chelsea side still searching for identity
-- **Liverpool** (14 medios): Who was back to his best? Player ratings for Crystal Palace v Liverpool
-- **Palace** (13 medios): Who was back to his best? Player ratings for Crystal Palace v Liverpool
-- **Crystal** (11 medios): Who was back to his best? Player ratings for Crystal Palace v Liverpool
-- **Sunderland** (11 medios): Failed to deal with Brobbey - player ratings for Sunderland v Chelsea
-- **Manchester** (11 medios): Manchester United v Aston Villa: Premier League – live
-- **Brighton** (11 medios): Diego Gómez hits another stunner as Brighton beat 10-man Brentford to go second
-- **Man** (10 medios): Dorgu makes dramatic impact - Man Utd v Aston Villa ratings
-- **Arsenal** (10 medios): Russo double gives Arsenal win over Liverpool at Anfield
-- **Barcelona** (8 medios): Julián Alvarez’s Atlético redemption arc in full focus for visit of Barcelona
-- **Bournemouth** (7 medios): Evanilson launches eighth straight Bournemouth win at blundering Ipswich
-- **Atlético** (7 medios): Julián Alvarez’s Atlético redemption arc in full focus for visit of Barcelona
-- **Alonso** (7 medios): Chelsea’s Alonso identity still to form in a midfield that remains a problem
+- **Carrick** (11 medios): Bizarre & thrilling theatre as Carrick in limbo with Man Utd in drop zone
+- **Man** (10 medios): Bizarre & thrilling theatre as Carrick in limbo with Man Utd in drop zone
+- **Palace** (10 medios): Liverpool dispatch Palace to pile pressure on Sage
+- **Liverpool** (9 medios): Alisson wants to sign new Liverpool contract
+- **Utd** (9 medios): Bizarre & thrilling theatre as Carrick in limbo with Man Utd in drop zone
+- **Barcelona** (9 medios): Barcelona fight back to beat Atleti as Fermin scores twice
+- **Manchester** (9 medios): Manchester United weighing up Michael Carrick sacking as Wilcox leads review
+- **Sage** (8 medios): Liverpool dispatch Palace to pile pressure on Sage
+- **Crystal** (8 medios): Crystal Palace poised to sack Pierre Sage and target Frank after Liverpool defeat
+- **Pierre** (8 medios): Crystal Palace poised to sack Pierre Sage and target Frank after Liverpool defeat
+- **Chelsea** (7 medios): Chelsea staff warned over Fantasy Premier League use
+- **Oviedo** (7 medios): Real Madrid legend Raul named Real Oviedo manager
+- **Sunderland** (7 medios): Struggling Sunderland beat Chelsea to move off bottom of Premier League
+- **Michael** (7 medios): Manchester United weighing up Michael Carrick sacking as Wilcox leads review
+- **Atlético** (7 medios): Barcelona move clear at the top after Fermín López’s double stuns Atlético Madrid
+- **Boy** (7 medios): 🚨 Pau Cubarsí crowned Golden Boy 2026
 
 ## Grandes ya cubiertas
 
-- Villa (17): Dorgu makes dramatic impact - Man Utd v Aston Villa ratings
-- Aston (13): Dorgu makes dramatic impact - Man Utd v Aston Villa ratings
-- Madrid (11): Atletico Madrid v Barcelona: Everybody to play for both clubs since 2000
-- Milan (7): Amorim: ‘Milan cannot have day off, losing must feel like end of the world’
-- Inter (7): Inter - Como, en directo: Serie A, hoy en vivo
+- Madrid (12): Real Madrid legend Raul named Real Oviedo manager
+- Villa (9): Where does Man Utd 4-4 Villa rank among best Premier League games?
+- Golden (7): 🚨 Pau Cubarsí crowned Golden Boy 2026
