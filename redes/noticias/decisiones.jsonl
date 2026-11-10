@@ -200,3 +200,10 @@
 {"t": "2026-11-09T16:48+00:00", "estado": "revisar", "temas": ["Palace", "Crystal", "Liverpool"], "clave": "liverpool-crystal-palace", "motivo": "palabra sensible en los titulares: dead"}
 {"t": "2026-11-09T16:48+00:00", "estado": "descartar", "temas": ["Chelsea"], "clave": "chelsea-sunderland-preview", "motivo": "importancia 6 < 7"}
 {"t": "2026-11-09T16:48+00:00", "estado": "descartar", "temas": ["Manchester"], "clave": "manchester-united-future", "motivo": "importancia 6 < 7"}
+{"t": "2026-11-10T15:19+00:00", "estado": "descartar", "temas": ["Carrick", "Michael", "Manchester"], "clave": "manu-carrick-future", "motivo": "repetida (ya publicada/decidida)"}
+{"t": "2026-11-10T15:19+00:00", "estado": "descartar", "temas": ["Madrid"], "clave": "real-madrid-mourinho-dilemma", "motivo": "calidad 6 < 7"}
+{"t": "2026-11-10T15:19+00:00", "estado": "revisar", "temas": ["England"], "clave": "guehi-withdrawal", "motivo": "categoría sensible: injury"}
+{"t": "2026-11-10T15:19+00:00", "estado": "revisar", "temas": ["Bayern"], "clave": "musiala-health-issue", "motivo": "categoría sensible: injury"}
+{"t": "2026-11-10T15:19+00:00", "estado": "descartar", "temas": ["Madrid"], "clave": "raul-oviedo-appointment", "motivo": "importancia 5 < 7"}
+{"t": "2026-11-10T15:19+00:00", "estado": "revisar", "temas": ["Bayern"], "clave": "kompany-return", "motivo": "categoría sensible: injury"}
+{"t": "2026-11-10T15:19+00:00", "estado": "descartar", "temas": ["England"], "clave": "england-wheelchair-rlwc", "motivo": "importancia 4 < 7"}

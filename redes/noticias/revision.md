@@ -837,3 +837,30 @@
 - FourFourTwo: Watch Crystal Palace vs Liverpool: FREE stream and TV info
 - Yahoo: Crystal Palace v Charlton Athletic
 
+## 10/11 16:19 · Guehi pulls out · revisar
+- Motivo: categoría sensible: injury
+- Temas: England
+- Sky Sports: England Wheelchair ready for Australia showdown in RLWC semis
+- Sky Sports: Fleming turns to uncapped spinner amid big calls for first Test series as England coach
+- talkSPORT: Marc Guehi forced to withdraw from England squad and immediately replaced
+- Mirror: Last chance England vs Croatia tickets for final Wembley Nations League game of 2026
+- Mirror: Marc Guehi withdraws from England squad through injury as replacement named
+
+## 10/11 16:19 · Musiala's uncertain future · revisar
+- Motivo: categoría sensible: injury
+- Temas: Bayern
+- Google News EN: Bayern Munich: Jamal Musiala may never return to best - Uli Hoeness
+- Kicker: Bayern muss mehrere Wochen auf Gilles verzichten
+- Kicker: Xavis Genesungwünsche an Kompany: "Er leistet großartige Arbeit beim FC Bayern"
+- Google News AR: De San Lorenzo al Bayern Múnich: los equipos de fútbol de los que eran hinchas los papas
+- ge.globo: Presidente de honra do Bayern revela que Musiala tem doença incurável
+
+## 10/11 16:19 · Kompany back after collapse · revisar
+- Motivo: categoría sensible: injury
+- Temas: Bayern
+- Google News EN: Bayern Munich: Jamal Musiala may never return to best - Uli Hoeness
+- Kicker: Bayern muss mehrere Wochen auf Gilles verzichten
+- Kicker: Xavis Genesungwünsche an Kompany: "Er leistet großartige Arbeit beim FC Bayern"
+- Google News AR: De San Lorenzo al Bayern Múnich: los equipos de fútbol de los que eran hinchas los papas
+- ge.globo: Presidente de honra do Bayern revela que Musiala tem doença incurável
+
