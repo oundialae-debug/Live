@@ -1,10 +1,12 @@
-# Tendencias de fútbol (2026-11-09 16:46 UTC, Google Trends)
+# Tendencias de fútbol (2026-11-10 15:10 UTC, Google Trends)
 
 Generado por el workflow `tendencias`. Úsalo para elegir temas de memes, curiosos y jugador vs jugador.
 
 | País | Búsqueda | Tráfico | Titular |
 |---|---|---|---|
-| UK | stray kids world tour dates | 1000+ | Stray Kids announce 2027 UK and European stadium tour |
-| Italy | aquilani | 500+ | Sassuolo, esonerato Aquilani. Decisiva la sconfitta con la Roma. D'Aversa in pole per sostituirlo |
-| USA | 24 team playoff | 2000+ | College Football Playoff officially expanding to 24 teams for 2027 season |
-| Portugal | apagão mundial | 2000+ | Apagão mundial em 17 de novembro? Entenda o boato envolvendo 'Os Simpsons' |
+| UK | glazers | 500+ | Glazers put Man United up for sale as huge asking price revealed |
+| Italy | lorenzo lucca | 200+ | Il Napoli piomba su Varela. Il Milan mette gli occhi su un giovane difensore… |
+| Italy | bonny | 200+ | Inter, Bonny fuori un mese: Chivu ha solo 3 attaccanti |
+| Germany | leonard prescott | 1000+ | Prescott hat wohl keine Zukunft in München |
+| Argentina | álex baena | 100+ | “No nos sentó bien”: la confesión de un compañero de Julián Álvarez en el Atlético de Madrid sobre s |
+| Portugal | keny arroyo | 200+ | Pérola equatoriana que joga no Brasil entra no radar do Benfica |
