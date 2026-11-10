@@ -864,3 +864,21 @@
 - Google News AR: De San Lorenzo al Bayern Múnich: los equipos de fútbol de los que eran hinchas los papas
 - ge.globo: Presidente de honra do Bayern revela que Musiala tem doença incurável
 
+## 10/11 22:24 · Pochettino leads United race · revisar
+- Motivo: sin foto buena con cara visible
+- Temas: Pochettino, Mauricio, Man
+- talkSPORT: Next Man Utd manager odds: Pochettino price demolished and becomes takeover favourite
+- Mirror: Michael Carrick future LIVE: Man Utd 'appointment plan' as Mauricio Pochettino leads race
+- Mundo Deportivo: Pochettino se vuelve a cruzar en el camino del Espanyol
+- Daily Mail: Man United's new boss contenders: Mauricio Pochettino tops the bookies' favourites ahead of Eddie Howe and Julian Nagelsmann on 14-man list of top candidates
+- Daily Mail: Michael Carrick faces Man United sack: Manager's job hangs in the balance ahead of crunch meeting - Pochettino leads the race to take over
+
+## 10/11 22:24 · Mourinho's selection puzzle · revisar
+- Motivo: datos que no salen en los titulares: Month
+- Temas: Mourinho
+- Yahoo: Mourinho will face a big selection dilemma at Real Madrid after the international break
+- Yahoo: Former Real Madrid goalkeeper urges Mourinho to play Vinicius as a No. 9: ‘Difficult problem to solve’
+- AS: Mourinho 77 - Guardiola 76
+- AS: Aguirre, sobre las palabras de Mourinho: “Yo tengo buenos jugadores y no se las tomaron como algo personal”
+- Mundo Deportivo: Aguirre responde a Mourinho
+
