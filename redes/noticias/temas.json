@@ -1,10 +1,106 @@
 {
- "generado": "2026-11-10T15:10+00:00",
+ "generado": "2026-11-10T21:23+00:00",
  "temas": [
   {
-   "tema": "Carrick",
-   "medios": 13,
+   "tema": "Madrid",
+   "medios": 14,
    "lista_medios": [
+    "AS",
+    "BBC",
+    "Foot Mercato",
+    "Google News AR",
+    "Google News ES",
+    "Guardian",
+    "Infobae",
+    "L'Equipe",
+    "Mundo Deportivo",
+    "Planet Football",
+    "Record",
+    "Yahoo",
+    "ge.globo",
+    "talkSPORT"
+   ],
+   "primera_vez": "2026-11-09T16:47+00:00",
+   "titulares": [
+    {
+     "medio": "BBC",
+     "titulo": "Real Madrid legend Raul named Real Oviedo manager",
+     "url": "https://www.bbc.co.uk/sport/football/articles/cwnv0v1yj585o?at_medium=RSS&at_campaign=rss",
+     "pub": "2026-11-09T16:16+00:00"
+    },
+    {
+     "medio": "Yahoo",
+     "titulo": "Mourinho will face a big selection dilemma at Real Madrid after the international break",
+     "url": "https://sports.yahoo.com/articles/mourinho-face-big-selection-dilemma-153500392.html",
+     "pub": "2026-11-09T15:35+00:00"
+    },
+    {
+     "medio": "Yahoo",
+     "titulo": "Former Real Madrid goalkeeper urges Mourinho to play Vinicius as a No. 9: ‘Difficult problem to solve’",
+     "url": "https://sports.yahoo.com/articles/former-real-madrid-goalkeeper-urges-151300233.html",
+     "pub": "2026-11-09T15:13+00:00"
+    },
+    {
+     "medio": "Google News ES",
+     "titulo": "Atlético de Madrid vs Badalona Women: horario y dónde ver hoy por TV y online Liga F 2026/27 a través de DAZN",
+     "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNSWNWNGt5Ri0zWjI3dFZfTTg2WjJjdURiTmgyRXhJN0lyb08tZFk5MVNqVnR4cERTd3diMV9LbjJhWHpydnpRUzZZZmp2eTJXa2xmYm9aN0UyUlk3Ym1HZkJibE9qc2xRS2FVS3YydEVKTi0ydkRUYWRIb3ZwQnZMU2ZsZm4wbmpNOUlySDVDT3lZc2QyQkIyWlQzYk9lRU55REdubUJ0cERNd2tlVUxjYkEycmYtc2x5MVRFOEwwVHpJOEk1dnkxSElaeWItZzllZm5YWG41aV9zRG8?oc=5",
+     "pub": "2026-11-09T14:06+00:00"
+    },
+    {
+     "medio": "Google News ES",
+     "titulo": "Los Madrid Capitals, el fútbol americano que se queda",
+     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNakFkNVhScUtiTkNXemhvdUtNZ2pYSUk3NEpQaDRRbVMtM2FTY2t6ckJQSktDLUo1NjByaGFXZEZ1d3Rvem92ckM4VHJHa1d4amJfZ21EOHlWOTFNQ1JrWU1VeFdQSGwzMUo3WkZVNE9qUVl6SjU1ckpPWm9lSy1qQ3FxeGJNbk9jX2hmdWVvT2ZXazDSAZgBQVVfeXFMT3ZFbVZEck13ZDU2ZktHNXhZc0l6UEJXOHo0RkdubG44ZEFLU3NVT3J4b0xGSHFQek9jYjRFNkNkcTNkVnUtSm40UUJ4TTdBTUhtbkNhYXZhWXc3MUFzTG1PVHowT2NSR19ER1R5amM0ZndmU3FkRHZUZHdZMW45bzBCR1d2dlpEY21TVUtETjNVWlV5b1YxMFI?oc=5",
+     "pub": "2026-11-09T11:33+00:00"
+    },
+    {
+     "medio": "L'Equipe",
+     "titulo": "La légende du Real Madrid Raul va lancer sa carrière d'entraîneur professionnel à Oviedo",
+     "url": "https://www.lequipe.fr/Football/Actualites/La-legende-du-real-madrid-raul-va-lancer-sa-carriere-d-entraineur-professionnel-a-oviedo/1742491#at_medium=RSS_feeds",
+     "pub": "2026-11-09T13:56+00:00"
+    },
+    {
+     "medio": "Foot Mercato",
+     "titulo": "Real Madrid : José Mourinho fait mieux que Guardiola, Ancelotti et Zidane",
+     "url": "https://www.footmercato.net/a8100405535269571440-real-madrid-jose-mourinho-fait-mieux-que-guardiola-ancelotti-et-zidane",
+     "pub": "2026-11-09T12:42+00:00"
+    },
+    {
+     "medio": "Foot Mercato",
+     "titulo": "Real Madrid : José Mourinho envoie un avertissement à Zinedine Zidane et Carlo Ancelotti",
+     "url": "https://www.footmercato.net/a3296553617012930372-real-madrid-jose-mourinho-envoie-un-avertissement-a-zinedine-zidane-et-carlo-ancelotti",
+     "pub": "2026-11-09T11:01+00:00"
+    },
+    {
+     "medio": "Google News AR",
+     "titulo": "¿De qué equipo de fútbol es hincha el papa León XIV? Su confesión sobre el Real Madrid que sorprendió a todos",
+     "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQeEljVnNGQUVqUF8wY1gzNjJSdEp4d1dzWWdsVHVxdWxRTGg3Nk5lS0FhT2JXUHQ4QmpGNDZsa1NVSEpUeHR5X0drNC1IV3p3UGFFRFVIcWh0Ym1jbVpUaFJETE9uMlJJaUhPVko4Q0hjM3lCT0hfNmVsdEwzd3JJOFFjV1RXdm1MVzhDeXhCUkxITnFqcl9IcmoweWRTZlVabUJ0RUthRVkwYjR6dmJGZXd3alhla1pTcF9vT2QyLTcwYU5WWXNGelptRldkVUhJbUkxbEV3UUN4dw?oc=5",
+     "pub": "2026-11-09T12:57+00:00"
+    },
+    {
+     "medio": "Google News AR",
+     "titulo": "Futbol Europa: ¿Cómo Barcelona venció a Atlético de Madrid?",
+     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOOEtBTEYwcTA1NlVNWTdhUzdDWDZlQWYzTDBvWTZreGZFd1BPTlItaWRINGh5LUJ2T1FkRm1YZFVEUGJUOHA1VVIxNGg1blpTc1pKenVIcWVCMU1sN0JLZktIZEFIVXlpOFQtSm5VanF5enlYSTRsYndEWjdUV2NkV2RneGE5TGpESzF5SGZPbnZzZUxiVkx2RFdmNFRRMEtp?oc=5",
+     "pub": "2026-11-09T15:41+00:00"
+    },
+    {
+     "medio": "ge.globo",
+     "titulo": "Real Madrid atinge folha salarial recorde de R$ 4,3 bilhões nesta temporada; confira detalhes",
+     "url": "https://ge.globo.com/futebol/futebol-internacional/futebol-espanhol/noticia/2026/11/09/real-madrid-atinge-folha-salarial-recorde-de-r-43-bilhoes-nesta-temporada-confira-detalhes.ghtml",
+     "pub": "2026-11-09T15:16+00:00"
+    },
+    {
+     "medio": "ge.globo",
+     "titulo": "Ídolo do Real Madrid, Raúl vai estrear como técnico no futebol profissional",
+     "url": "https://ge.globo.com/futebol/futebol-internacional/noticia/2026/11/09/idolo-do-real-madrid-raul-vai-estrear-como-tecnico-no-futebol-profissional.ghtml",
+     "pub": "2026-11-09T09:32+00:00"
+    }
+   ]
+  },
+  {
+   "tema": "Carrick",
+   "medios": 14,
+   "lista_medios": [
+    "BBC",
     "Daily Mail",
     "Foot Mercato",
     "FourFourTwo",
@@ -96,101 +192,102 @@
    ]
   },
   {
-   "tema": "Madrid",
-   "medios": 12,
+   "tema": "Pochettino",
+   "medios": 13,
    "lista_medios": [
-    "AS",
     "BBC",
+    "Daily Mail",
     "Foot Mercato",
-    "Google News AR",
-    "Google News ES",
+    "FourFourTwo",
+    "Google News EN",
     "Guardian",
     "Infobae",
+    "Kicker",
     "L'Equipe",
+    "Mirror",
     "Mundo Deportivo",
     "Planet Football",
-    "Yahoo",
-    "ge.globo"
+    "talkSPORT"
    ],
    "primera_vez": "2026-11-09T16:47+00:00",
    "titulares": [
     {
-     "medio": "BBC",
-     "titulo": "Real Madrid legend Raul named Real Oviedo manager",
-     "url": "https://www.bbc.co.uk/sport/football/articles/cwnv0v1yj585o?at_medium=RSS&at_campaign=rss",
-     "pub": "2026-11-09T16:16+00:00"
+     "medio": "talkSPORT",
+     "titulo": "Next Man Utd manager odds: Pochettino price demolished and becomes takeover favourite",
+     "url": "https://talksport.com/football/3979087/next-man-united-manager-odds-carrick-howe/",
+     "pub": "2026-11-09T12:32+00:00"
     },
     {
-     "medio": "Yahoo",
-     "titulo": "Mourinho will face a big selection dilemma at Real Madrid after the international break",
-     "url": "https://sports.yahoo.com/articles/mourinho-face-big-selection-dilemma-153500392.html",
+     "medio": "Mirror",
+     "titulo": "Michael Carrick future LIVE: Man Utd 'appointment plan' as Mauricio Pochettino leads race",
+     "url": "https://www.mirror.co.uk/sport/football/news/carrick-sack-live-man-utd-37856275",
      "pub": "2026-11-09T15:35+00:00"
     },
     {
-     "medio": "Yahoo",
-     "titulo": "Former Real Madrid goalkeeper urges Mourinho to play Vinicius as a No. 9: ‘Difficult problem to solve’",
-     "url": "https://sports.yahoo.com/articles/former-real-madrid-goalkeeper-urges-151300233.html",
-     "pub": "2026-11-09T15:13+00:00"
+     "medio": "Mundo Deportivo",
+     "titulo": "Pochettino se vuelve a cruzar en el camino del Espanyol",
+     "url": "https://www.mundodeportivo.com/futbol/rcd-espanyol/20261109/1004249054/pochettino-vuelve-cruzar-camino-espanyol.html",
+     "pub": ""
     },
     {
-     "medio": "Google News ES",
-     "titulo": "Atlético de Madrid vs Badalona Women: horario y dónde ver hoy por TV y online Liga F 2026/27 a través de DAZN",
-     "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNSWNWNGt5Ri0zWjI3dFZfTTg2WjJjdURiTmgyRXhJN0lyb08tZFk5MVNqVnR4cERTd3diMV9LbjJhWHpydnpRUzZZZmp2eTJXa2xmYm9aN0UyUlk3Ym1HZkJibE9qc2xRS2FVS3YydEVKTi0ydkRUYWRIb3ZwQnZMU2ZsZm4wbmpNOUlySDVDT3lZc2QyQkIyWlQzYk9lRU55REdubUJ0cERNd2tlVUxjYkEycmYtc2x5MVRFOEwwVHpJOEk1dnkxSElaeWItZzllZm5YWG41aV9zRG8?oc=5",
-     "pub": "2026-11-09T14:06+00:00"
+     "medio": "Daily Mail",
+     "titulo": "Man United's new boss contenders: Mauricio Pochettino tops the bookies' favourites ahead of Eddie Howe and Julian Nagelsmann on 14-man list of top candidates",
+     "url": "https://www.dailymail.com/sport/football/article-16280409/Mauricio-Pochettino-leads-bookmakers-favourites-named-new-Man-United-manager-Michael-Carrick-faces-sack.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+     "pub": "2026-11-10T10:18+00:00"
     },
     {
-     "medio": "Google News ES",
-     "titulo": "Los Madrid Capitals, el fútbol americano que se queda",
-     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNakFkNVhScUtiTkNXemhvdUtNZ2pYSUk3NEpQaDRRbVMtM2FTY2t6ckJQSktDLUo1NjByaGFXZEZ1d3Rvem92ckM4VHJHa1d4amJfZ21EOHlWOTFNQ1JrWU1VeFdQSGwzMUo3WkZVNE9qUVl6SjU1ckpPWm9lSy1qQ3FxeGJNbk9jX2hmdWVvT2ZXazDSAZgBQVVfeXFMT3ZFbVZEck13ZDU2ZktHNXhZc0l6UEJXOHo0RkdubG44ZEFLU3NVT3J4b0xGSHFQek9jYjRFNkNkcTNkVnUtSm40UUJ4TTdBTUhtbkNhYXZhWXc3MUFzTG1PVHowT2NSR19ER1R5amM0ZndmU3FkRHZUZHdZMW45bzBCR1d2dlpEY21TVUtETjNVWlV5b1YxMFI?oc=5",
-     "pub": "2026-11-09T11:33+00:00"
+     "medio": "Daily Mail",
+     "titulo": "Michael Carrick faces Man United sack: Manager's job hangs in the balance ahead of crunch meeting - Pochettino leads the race to take over",
+     "url": "https://www.dailymail.com/sport/football/article-16280403/Michael-Carrick-faces-Man-United-sack-LIVE-Manager-expected-axed-today-Mauricio-Pochettino-exit-clause-USA-contract.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+     "pub": "2026-11-10T13:07+00:00"
     },
     {
-     "medio": "L'Equipe",
-     "titulo": "La légende du Real Madrid Raul va lancer sa carrière d'entraîneur professionnel à Oviedo",
-     "url": "https://www.lequipe.fr/Football/Actualites/La-legende-du-real-madrid-raul-va-lancer-sa-carriere-d-entraineur-professionnel-a-oviedo/1742491#at_medium=RSS_feeds",
-     "pub": "2026-11-09T13:56+00:00"
+     "medio": "Daily Mail",
+     "titulo": "Michael Carrick facing the sack at Man United: Mauricio Pochettino the frontrunner to replace beleaguered boss - but chiefs face splashing out £7MILLION for former Spurs and Chelsea coach",
+     "url": "https://www.dailymail.com/sport/football/article-16279641/Michael-Carrick-sack-Man-United-Mauricio-Pochettino.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+     "pub": "2026-11-10T07:44+00:00"
     },
     {
-     "medio": "L'Equipe",
-     "titulo": "Auteur d'un doublé face à l'Atlético de Madrid, Fermin Lopez est un joyau dans l'ombre des stars du FC Barcelone",
-     "url": "https://www.lequipe.fr/Football/Actualites/Auteur-d-un-double-face-a-l-atletico-de-madrid-fermin-lopez-est-un-joyau-dans-l-ombre-des-stars-du-fc-barcelone/1742415#at_medium=RSS_feeds",
-     "pub": "2026-11-09T06:25+00:00"
+     "medio": "Daily Mail",
+     "titulo": "USMNT fans in meltdown as head coach Mauricio Pochettino emerges as frontrunner for Manchester United job",
+     "url": "https://www.dailymail.com/sport/football/article-16279819/usmnt-mauricio-pochettino-manchester-united-job.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+     "pub": "2026-11-10T04:51+00:00"
     },
     {
-     "medio": "Foot Mercato",
-     "titulo": "Real Madrid : José Mourinho fait mieux que Guardiola, Ancelotti et Zidane",
-     "url": "https://www.footmercato.net/a8100405535269571440-real-madrid-jose-mourinho-fait-mieux-que-guardiola-ancelotti-et-zidane",
-     "pub": "2026-11-09T12:42+00:00"
+     "medio": "Mirror",
+     "titulo": "Michael Carrick LIVE: Man Utd chiefs set for crunch Monaco meeting as Mauricio Pochettino tops shortlist",
+     "url": "https://www.mirror.co.uk/sport/football/news/carrick-sack-live-man-utd-37860771",
+     "pub": "2026-11-10T14:47+00:00"
     },
     {
-     "medio": "Foot Mercato",
-     "titulo": "Real Madrid : José Mourinho envoie un avertissement à Zinedine Zidane et Carlo Ancelotti",
-     "url": "https://www.footmercato.net/a3296553617012930372-real-madrid-jose-mourinho-envoie-un-avertissement-a-zinedine-zidane-et-carlo-ancelotti",
-     "pub": "2026-11-09T11:01+00:00"
+     "medio": "Mirror",
+     "titulo": "Man Utd would have to pay huge fee to hire Mauricio Pochettino as Michael Carrick's successor",
+     "url": "https://www.mirror.co.uk/sport/football/news/man-utd-mauricio-pochettino-buyout-37861393",
+     "pub": "2026-11-10T10:44+00:00"
     },
     {
-     "medio": "Foot Mercato",
-     "titulo": "L’Angleterre fracasse Manchester United, la folle statistique subie par le Real Madrid",
-     "url": "https://www.footmercato.net/a5489294553798979415-langleterre-fracasse-manchester-united-la-folle-statistique-subie-par-le-real-madrid",
-     "pub": "2026-11-09T09:00+00:00"
+     "medio": "Mirror",
+     "titulo": "Who should be the next Man Utd manager? Have your say on Howe, Pochettino and Conte",
+     "url": "https://www.mirror.co.uk/sport/football/news/man-utd-manager-howe-pochettino-37860685",
+     "pub": "2026-11-10T07:26+00:00"
     },
     {
-     "medio": "Foot Mercato",
-     "titulo": "Real Madrid : le petit coup de pression de José Mourinho à Carlo Ancelotti pour Endrick",
-     "url": "https://www.footmercato.net/a404746261948441142-real-madrid-le-petit-coup-de-pression-de-jose-mourinho-a-carlo-ancelotti-pour-endrick",
-     "pub": "2026-11-09T06:07+00:00"
+     "medio": "Planet Football",
+     "titulo": "How would Man Utd line-up if Mauricio Pochettino becomes manager?",
+     "url": "https://www.planetfootball.com/manchester-united/man-utd-predicted-xi-mauricio-pochettino-manager",
+     "pub": "2026-11-10T09:40+00:00"
     },
     {
-     "medio": "Google News AR",
-     "titulo": "¿De qué equipo de fútbol es hincha el papa León XIV? Su confesión sobre el Real Madrid que sorprendió a todos",
-     "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQeEljVnNGQUVqUF8wY1gzNjJSdEp4d1dzWWdsVHVxdWxRTGg3Nk5lS0FhT2JXUHQ4QmpGNDZsa1NVSEpUeHR5X0drNC1IV3p3UGFFRFVIcWh0Ym1jbVpUaFJETE9uMlJJaUhPVko4Q0hjM3lCT0hfNmVsdEwzd3JJOFFjV1RXdm1MVzhDeXhCUkxITnFqcl9IcmoweWRTZlVabUJ0RUthRVkwYjR6dmJGZXd3alhla1pTcF9vT2QyLTcwYU5WWXNGelptRldkVUhJbUkxbEV3UUN4dw?oc=5",
-     "pub": "2026-11-09T12:57+00:00"
+     "medio": "FourFourTwo",
+     "titulo": "Manchester United report: Mauricio Pochettino to ACCEPT managerial job role",
+     "url": "https://www.fourfourtwo.com/person/coaches-managers/manchester-united-report-mauricio-pochettino-to-accept-managerial-job-role",
+     "pub": "2026-11-10T09:49+00:00"
     }
    ]
   },
   {
    "tema": "Manchester",
-   "medios": 10,
+   "medios": 11,
    "lista_medios": [
     "Daily Mail",
     "Foot Mercato",
@@ -200,6 +297,7 @@
     "Infobae",
     "L'Equipe",
     "Mundo Deportivo",
+    "Yahoo",
     "ge.globo",
     "talkSPORT"
    ],
@@ -216,12 +314,6 @@
      "titulo": "Manchester City’s weaknesses under Enzo Maresca are being exposed",
      "url": "https://www.theguardian.com/football/2026/nov/09/manchester-city-enzo-maresca-premier-league",
      "pub": "2026-11-09T16:30+00:00"
-    },
-    {
-     "medio": "talkSPORT",
-     "titulo": "Aston Villa chief calls out Manchester United’s last-gasp goal amid fiery rules debate",
-     "url": "https://talksport.com/football/4694301/damian-vidagany-reaction-aston-villa-patrick-dorgu-goal/",
-     "pub": "2026-11-09T08:49+00:00"
     },
     {
      "medio": "FourFourTwo",
@@ -266,16 +358,22 @@
      "pub": "2026-11-09T11:53+00:00"
     },
     {
-     "medio": "Foot Mercato",
-     "titulo": "L’Angleterre fracasse Manchester United, la folle statistique subie par le Real Madrid",
-     "url": "https://www.footmercato.net/a5489294553798979415-langleterre-fracasse-manchester-united-la-folle-statistique-subie-par-le-real-madrid",
-     "pub": "2026-11-09T09:00+00:00"
-    },
-    {
      "medio": "Guardian",
      "titulo": "Manchester City’s Kerstin Casparij: ‘I love football – but it takes over your life’",
      "url": "https://www.theguardian.com/football/2026/nov/10/manchester-citys-kerstin-casparij-i-love-football-but-it-takes-over-your-life",
      "pub": "2026-11-10T08:00+00:00"
+    },
+    {
+     "medio": "Daily Mail",
+     "titulo": "USMNT fans in meltdown as head coach Mauricio Pochettino emerges as frontrunner for Manchester United job",
+     "url": "https://www.dailymail.com/sport/football/article-16279819/usmnt-mauricio-pochettino-manchester-united-job.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+     "pub": "2026-11-10T04:51+00:00"
+    },
+    {
+     "medio": "FourFourTwo",
+     "titulo": "Manchester United chiefs to discuss relegation plan at Michael Carrick summit in Monaco",
+     "url": "https://www.fourfourtwo.com/team/manchester-united-chiefs-to-discuss-relegation-plan-at-michael-carrick-summit-in-monaco",
+     "pub": "2026-11-10T15:00+00:00"
     }
    ]
   },
@@ -371,6 +469,97 @@
    ]
   },
   {
+   "tema": "Mauricio",
+   "medios": 10,
+   "lista_medios": [
+    "Daily Mail",
+    "Foot Mercato",
+    "FourFourTwo",
+    "Google News EN",
+    "Guardian",
+    "Infobae",
+    "L'Equipe",
+    "Mirror",
+    "Planet Football",
+    "talkSPORT"
+   ],
+   "primera_vez": "2026-11-09T16:47+00:00",
+   "titulares": [
+    {
+     "medio": "Mirror",
+     "titulo": "Michael Carrick future LIVE: Man Utd 'appointment plan' as Mauricio Pochettino leads race",
+     "url": "https://www.mirror.co.uk/sport/football/news/carrick-sack-live-man-utd-37856275",
+     "pub": "2026-11-09T15:35+00:00"
+    },
+    {
+     "medio": "Daily Mail",
+     "titulo": "Mauricio Pochettino's 'kill' team talk - when USA were already 3-0 up - convinces Man United fans he's right to replace Michael Carrick",
+     "url": "https://www.dailymail.com/sport/football/article-16281289/Mauricio-Pochettino-team-talk-USA-Man-United.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+     "pub": "2026-11-10T14:57+00:00"
+    },
+    {
+     "medio": "Daily Mail",
+     "titulo": "Man United's new boss contenders: Mauricio Pochettino tops the bookies' favourites ahead of Eddie Howe and Julian Nagelsmann on 14-man list of top candidates",
+     "url": "https://www.dailymail.com/sport/football/article-16280409/Mauricio-Pochettino-leads-bookmakers-favourites-named-new-Man-United-manager-Michael-Carrick-faces-sack.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+     "pub": "2026-11-10T10:18+00:00"
+    },
+    {
+     "medio": "Daily Mail",
+     "titulo": "Michael Carrick facing the sack at Man United: Mauricio Pochettino the frontrunner to replace beleaguered boss - but chiefs face splashing out £7MILLION for former Spurs and Chelsea coach",
+     "url": "https://www.dailymail.com/sport/football/article-16279641/Michael-Carrick-sack-Man-United-Mauricio-Pochettino.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+     "pub": "2026-11-10T07:44+00:00"
+    },
+    {
+     "medio": "Daily Mail",
+     "titulo": "USMNT fans in meltdown as head coach Mauricio Pochettino emerges as frontrunner for Manchester United job",
+     "url": "https://www.dailymail.com/sport/football/article-16279819/usmnt-mauricio-pochettino-manchester-united-job.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+     "pub": "2026-11-10T04:51+00:00"
+    },
+    {
+     "medio": "Mirror",
+     "titulo": "Michael Carrick LIVE: Man Utd chiefs set for crunch Monaco meeting as Mauricio Pochettino tops shortlist",
+     "url": "https://www.mirror.co.uk/sport/football/news/carrick-sack-live-man-utd-37860771",
+     "pub": "2026-11-10T14:47+00:00"
+    },
+    {
+     "medio": "Mirror",
+     "titulo": "Man Utd would have to pay huge fee to hire Mauricio Pochettino as Michael Carrick's successor",
+     "url": "https://www.mirror.co.uk/sport/football/news/man-utd-mauricio-pochettino-buyout-37861393",
+     "pub": "2026-11-10T10:44+00:00"
+    },
+    {
+     "medio": "Mirror",
+     "titulo": "Inside Mauricio Pochettino's private meeting he 'set up' with ex-Man Utd boss",
+     "url": "https://www.mirror.co.uk/sport/football/news/mauricio-pochettino-man-utd-meeting-37860831",
+     "pub": "2026-11-10T09:58+00:00"
+    },
+    {
+     "medio": "Planet Football",
+     "titulo": "How would Man Utd line-up if Mauricio Pochettino becomes manager?",
+     "url": "https://www.planetfootball.com/manchester-united/man-utd-predicted-xi-mauricio-pochettino-manager",
+     "pub": "2026-11-10T09:40+00:00"
+    },
+    {
+     "medio": "FourFourTwo",
+     "titulo": "Manchester United report: Mauricio Pochettino to ACCEPT managerial job role",
+     "url": "https://www.fourfourtwo.com/person/coaches-managers/manchester-united-report-mauricio-pochettino-to-accept-managerial-job-role",
+     "pub": "2026-11-10T09:49+00:00"
+    },
+    {
+     "medio": "FourFourTwo",
+     "titulo": "'I met genius Sir Alex Ferguson for lunch and we argued over who would pay. I came so close, I want to try and win the Premier League again' Mauricio Pochettino adds fuel to Manchester United links",
+     "url": "https://www.fourfourtwo.com/person/coaches-managers/i-met-genius-sir-alex-ferguson-for-lunch-and-we-argued-over-who-would-pay-i-came-so-close-i-want-to-try-and-win-the-premier-league-again-mauricio-pochettino-adds-fuel-to-manchester-united-links",
+     "pub": "2026-11-10T09:29+00:00"
+    },
+    {
+     "medio": "Google News EN",
+     "titulo": "Mauricio Pochettino would consider Manchester United job if Michael Carrick is sacked - Paper Talk | Football News",
+     "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOcmRUUUtDRzcwbmpQMFc3M3l6RmpQTjlrMkNzbVRzd0V2UXAyQVRWdGdmWTlzLXZHb0cwZE9CNkZ2RzlhMjdaQWJsSFJQOTNrNUs3bkNaLWd2blVPV1ZXVC11RXNMWTk3THdXRGFwdWh1dzRMajdFUVhRZWNGU0d1dHhsQUl2Ul9vMnZkU0tTbEt3d2N2MlQtVnJNYUdIQWktZnRGSWJDVE45M2k2SWJnOGVkZHY3YnozU3hYUzJfallIOFI1cHhReFhWUWlIWGxGNF8tUWlVVndKUmdRTkE?oc=5",
+     "pub": "2026-11-10T14:25+00:00"
+    }
+   ]
+  },
+  {
    "tema": "Bayern",
    "medios": 10,
    "lista_medios": [
@@ -458,6 +647,96 @@
      "titulo": "Bayern : Vincent Kompany est de retour !",
      "url": "https://www.footmercato.net/a5768329203274671524-bayern-vincent-kompany-est-de-retour",
      "pub": "2026-11-10T09:43+00:00"
+    }
+   ]
+  },
+  {
+   "tema": "Liverpool",
+   "medios": 9,
+   "lista_medios": [
+    "BBC",
+    "Daily Mail",
+    "Foot Mercato",
+    "Football Italia",
+    "FourFourTwo",
+    "Google News EN",
+    "Mirror",
+    "Sky Sports",
+    "Yahoo"
+   ],
+   "primera_vez": "2026-11-09T16:47+00:00",
+   "titulares": [
+    {
+     "medio": "BBC",
+     "titulo": "Alisson wants to sign new Liverpool contract",
+     "url": "https://www.bbc.co.uk/sport/football/articles/cw62ypepq2m7o?at_medium=RSS&at_campaign=rss",
+     "pub": "2026-11-09T12:00+00:00"
+    },
+    {
+     "medio": "Sky Sports",
+     "titulo": "'My will is to stay' - Alisson wants new Liverpool contract",
+     "url": "https://www.skysports.com/football/news/12040/13610181/alisson-liverpool-goalkeeper-wants-to-stay-at-anfield-beyond-contract-expiry-at-the-end-of-this-season",
+     "pub": "2026-11-09T12:38+00:00"
+    },
+    {
+     "medio": "Daily Mail",
+     "titulo": "Alisson, 34, reveals he wants to STAY at Liverpool after rolling back the years against Crystal Palace... but is extending the goalkeeper's contract the right call, asks LEWIS STEELE",
+     "url": "https://www.dailymail.com/sport/football/article-16277989/alisson-liverpool-contract-stay.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+     "pub": "2026-11-09T12:06+00:00"
+    },
+    {
+     "medio": "Mirror",
+     "titulo": "Alisson gives agent clear Liverpool instruction as goalkeeper's deal winds down",
+     "url": "https://www.mirror.co.uk/sport/football/news/alisson-liverpool-contract-future-update-37858821",
+     "pub": "2026-11-09T14:19+00:00"
+    },
+    {
+     "medio": "FourFourTwo",
+     "titulo": "Heysel ’85 is the definitive, eye-opening drama that finally looks past Liverpool terrace narrative",
+     "url": "https://www.fourfourtwo.com/team/heysel-85-is-the-definitive-eye-opening-drama-that-finally-looks-past-liverpool-terrace-narrative",
+     "pub": "2026-11-09T11:41+00:00"
+    },
+    {
+     "medio": "Yahoo",
+     "titulo": "Journalist suggests Liverpool would be happy to get their money back on one player",
+     "url": "https://sports.yahoo.com/articles/journalist-suggests-liverpool-happy-money-155000412.html",
+     "pub": "2026-11-09T15:50+00:00"
+    },
+    {
+     "medio": "Yahoo",
+     "titulo": "Alisson warning to Juventus, declaring ‘my will is to stay’ at Liverpool",
+     "url": "https://sports.yahoo.com/articles/alisson-warning-juventus-declaring-stay-153400493.html",
+     "pub": "2026-11-09T15:34+00:00"
+    },
+    {
+     "medio": "Yahoo",
+     "titulo": "Journalist claims Liverpool star is set to leave with Premier League replacement considered",
+     "url": "https://sports.yahoo.com/articles/journalist-claims-liverpool-star-set-145000191.html",
+     "pub": "2026-11-09T14:50+00:00"
+    },
+    {
+     "medio": "Football Italia",
+     "titulo": "Chiesa ‘can return soon’ to Italy squad, but requires Liverpool opportunities first",
+     "url": "https://football-italia.net/chiesa-can-return-soon-to-italy-squad-mancini/",
+     "pub": "2026-11-09T13:52+00:00"
+    },
+    {
+     "medio": "Mirror",
+     "titulo": "Inside Alexander Isak's return to form at Liverpool as Andoni Iraola strikes gold",
+     "url": "https://www.mirror.co.uk/sport/football/news/liverpool-alexander-isak-andoni-iraola-37859856",
+     "pub": "2026-11-09T20:00+00:00"
+    },
+    {
+     "medio": "FourFourTwo",
+     "titulo": "Liverpool begin move for Bart Verbruggen: report",
+     "url": "https://www.fourfourtwo.com/transfer/liverpool-begin-move-for-bart-verbruggen-report",
+     "pub": "2026-11-09T17:43+00:00"
+    },
+    {
+     "medio": "Yahoo",
+     "titulo": "Virgil van Dijk 'not in any panic' over Liverpool contract talks",
+     "url": "https://sports.yahoo.com/articles/virgil-van-dijk-not-panic-145149143.html",
+     "pub": "2026-11-10T14:51+00:00"
     }
    ]
   },
@@ -642,96 +921,6 @@
    ]
   },
   {
-   "tema": "Pochettino",
-   "medios": 9,
-   "lista_medios": [
-    "Daily Mail",
-    "Foot Mercato",
-    "FourFourTwo",
-    "Google News EN",
-    "L'Equipe",
-    "Mirror",
-    "Mundo Deportivo",
-    "Planet Football",
-    "talkSPORT"
-   ],
-   "primera_vez": "2026-11-09T16:47+00:00",
-   "titulares": [
-    {
-     "medio": "talkSPORT",
-     "titulo": "Next Man Utd manager odds: Pochettino price demolished and becomes takeover favourite",
-     "url": "https://talksport.com/football/3979087/next-man-united-manager-odds-carrick-howe/",
-     "pub": "2026-11-09T12:32+00:00"
-    },
-    {
-     "medio": "Mirror",
-     "titulo": "Michael Carrick future LIVE: Man Utd 'appointment plan' as Mauricio Pochettino leads race",
-     "url": "https://www.mirror.co.uk/sport/football/news/carrick-sack-live-man-utd-37856275",
-     "pub": "2026-11-09T15:35+00:00"
-    },
-    {
-     "medio": "Mundo Deportivo",
-     "titulo": "Pochettino se vuelve a cruzar en el camino del Espanyol",
-     "url": "https://www.mundodeportivo.com/futbol/rcd-espanyol/20261109/1004249054/pochettino-vuelve-cruzar-camino-espanyol.html",
-     "pub": ""
-    },
-    {
-     "medio": "Daily Mail",
-     "titulo": "Man United's new boss contenders: Mauricio Pochettino tops the bookies' favourites ahead of Eddie Howe and Julian Nagelsmann on 14-man list of top candidates",
-     "url": "https://www.dailymail.com/sport/football/article-16280409/Mauricio-Pochettino-leads-bookmakers-favourites-named-new-Man-United-manager-Michael-Carrick-faces-sack.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-     "pub": "2026-11-10T10:18+00:00"
-    },
-    {
-     "medio": "Daily Mail",
-     "titulo": "Michael Carrick faces Man United sack: Manager's job hangs in the balance ahead of crunch meeting - Pochettino leads the race to take over",
-     "url": "https://www.dailymail.com/sport/football/article-16280403/Michael-Carrick-faces-Man-United-sack-LIVE-Manager-expected-axed-today-Mauricio-Pochettino-exit-clause-USA-contract.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-     "pub": "2026-11-10T13:07+00:00"
-    },
-    {
-     "medio": "Daily Mail",
-     "titulo": "Michael Carrick facing the sack at Man United: Mauricio Pochettino the frontrunner to replace beleaguered boss - but chiefs face splashing out £7MILLION for former Spurs and Chelsea coach",
-     "url": "https://www.dailymail.com/sport/football/article-16279641/Michael-Carrick-sack-Man-United-Mauricio-Pochettino.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-     "pub": "2026-11-10T07:44+00:00"
-    },
-    {
-     "medio": "Daily Mail",
-     "titulo": "USMNT fans in meltdown as head coach Mauricio Pochettino emerges as frontrunner for Manchester United job",
-     "url": "https://www.dailymail.com/sport/football/article-16279819/usmnt-mauricio-pochettino-manchester-united-job.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-     "pub": "2026-11-10T04:51+00:00"
-    },
-    {
-     "medio": "Mirror",
-     "titulo": "Michael Carrick LIVE: Man Utd chiefs set for crunch Monaco meeting as Mauricio Pochettino tops shortlist",
-     "url": "https://www.mirror.co.uk/sport/football/news/carrick-sack-live-man-utd-37860771",
-     "pub": "2026-11-10T14:47+00:00"
-    },
-    {
-     "medio": "Mirror",
-     "titulo": "Man Utd would have to pay huge fee to hire Mauricio Pochettino as Michael Carrick's successor",
-     "url": "https://www.mirror.co.uk/sport/football/news/man-utd-mauricio-pochettino-buyout-37861393",
-     "pub": "2026-11-10T10:44+00:00"
-    },
-    {
-     "medio": "Mirror",
-     "titulo": "Who should be the next Man Utd manager? Have your say on Howe, Pochettino and Conte",
-     "url": "https://www.mirror.co.uk/sport/football/news/man-utd-manager-howe-pochettino-37860685",
-     "pub": "2026-11-10T07:26+00:00"
-    },
-    {
-     "medio": "Planet Football",
-     "titulo": "How would Man Utd line-up if Mauricio Pochettino becomes manager?",
-     "url": "https://www.planetfootball.com/manchester-united/man-utd-predicted-xi-mauricio-pochettino-manager",
-     "pub": "2026-11-10T09:40+00:00"
-    },
-    {
-     "medio": "FourFourTwo",
-     "titulo": "Manchester United report: Mauricio Pochettino to ACCEPT managerial job role",
-     "url": "https://www.fourfourtwo.com/person/coaches-managers/manchester-united-report-mauricio-pochettino-to-accept-managerial-job-role",
-     "pub": "2026-11-10T09:49+00:00"
-    }
-   ]
-  },
-  {
    "tema": "Mourinho",
    "medios": 9,
    "lista_medios": [
@@ -808,16 +997,106 @@
      "pub": "2026-11-09T11:01+00:00"
     },
     {
-     "medio": "Foot Mercato",
-     "titulo": "Real Madrid : le petit coup de pression de José Mourinho à Carlo Ancelotti pour Endrick",
-     "url": "https://www.footmercato.net/a404746261948441142-real-madrid-le-petit-coup-de-pression-de-jose-mourinho-a-carlo-ancelotti-pour-endrick",
-     "pub": "2026-11-09T06:07+00:00"
-    },
-    {
      "medio": "Guardian",
      "titulo": "Carrick on the brink and Madrid on the charge under Mourinho | Football Weekly video",
      "url": "https://www.theguardian.com/football/video/2026/nov/10/carrick-on-the-brink-and-madrid-on-the-charge-under-mourinho-football-weekly-video",
      "pub": "2026-11-10T13:58+00:00"
+    },
+    {
+     "medio": "AS",
+     "titulo": "Mourinho encuentra la solidez defensiva a través de la posesión",
+     "url": "https://as.com/futbol/mourinho-encuentra-la-solidez-defensiva-a-traves-de-la-posesion-f202611-n/",
+     "pub": "2026-11-10T05:22+00:00"
+    }
+   ]
+  },
+  {
+   "tema": "Inter",
+   "medios": 9,
+   "lista_medios": [
+    "Foot Mercato",
+    "Football Italia",
+    "Google News EN",
+    "Guardian",
+    "Infobae",
+    "Sky Sports",
+    "Yahoo",
+    "ge.globo",
+    "talkSPORT"
+   ],
+   "primera_vez": "2026-11-09T16:47+00:00",
+   "titulares": [
+    {
+     "medio": "Yahoo",
+     "titulo": "🔥 Allegri wants 4, when Kalulu returns, an Inter injury: today's news",
+     "url": "https://sports.yahoo.com/articles/allegri-wants-4-kalulu-returns-152400387.html",
+     "pub": "2026-11-09T15:24+00:00"
+    },
+    {
+     "medio": "Football Italia",
+     "titulo": "Newspaper singles out Spence after impressive performance in Inter 2-0 Como",
+     "url": "https://football-italia.net/newspaper-praises-spence-after-inter-2-0-como/",
+     "pub": "2026-11-09T11:51+00:00"
+    },
+    {
+     "medio": "Foot Mercato",
+     "titulo": "Côme : Cesc Fàbregas reconnaît la supériorité totale de l’Inter Milan",
+     "url": "https://www.footmercato.net/a5643292698899972645-come-cesc-fabregas-reconnait-la-superiorite-totale-de-linter-milan",
+     "pub": "2026-11-09T09:50+00:00"
+    },
+    {
+     "medio": "ge.globo",
+     "titulo": "Inter decide título da Copa do Brasil Feminina com o Flamengo como mandante; veja",
+     "url": "https://ge.globo.com/rs/futebol/futebol-feminino/copa-do-brasil-feminina/noticia/2026/11/09/inter-decide-titulo-da-copa-do-brasil-feminina-com-o-flamengo-em-casa-veja-mandos-da-final.ghtml",
+     "pub": "2026-11-09T15:43+00:00"
+    },
+    {
+     "medio": "Football Italia",
+     "titulo": "Inter target Calhanoglu renewal by Christmas but wage remains sticking point",
+     "url": "https://football-italia.net/inter-target-calhanoglu-renewal-by-christmas/",
+     "pub": "2026-11-10T10:36+00:00"
+    },
+    {
+     "medio": "Football Italia",
+     "titulo": "Lazio and Roma make Serie A history as unbeaten Rome duo chase Inter",
+     "url": "https://football-italia.net/lazio-and-roma-make-serie-a-history-inter/",
+     "pub": "2026-11-10T10:00+00:00"
+    },
+    {
+     "medio": "Infobae",
+     "titulo": "El llamativo cambio que anunció Lautaro Martínez y la divertida respuesta de uno de sus compañeros en el Inter",
+     "url": "https://www.infobae.com/deportes/2026/11/09/el-llamativo-cambio-que-anuncio-lautaro-martinez-y-la-divertida-respuesta-de-uno-de-sus-companeros-en-el-inter/",
+     "pub": "2026-11-09T23:59+00:00"
+    },
+    {
+     "medio": "ge.globo",
+     "titulo": "CBF confirma Luso-Brasileiro para Flamengo x Inter na final da Copa do Brasil Feminina; Maracanã não será utilizado",
+     "url": "https://ge.globo.com/futebol/times/flamengo/noticia/2026/11/10/cbf-confirma-luso-brasileiro-para-flamengo-x-inter-na-final-da-copa-do-brasil-feminina-maracana-nao-sera-utilizado.ghtml",
+     "pub": "2026-11-10T15:03+00:00"
+    },
+    {
+     "medio": "Guardian",
+     "titulo": "Inter v Manchester City: Women’s Champions League – live",
+     "url": "https://www.theguardian.com/football/live/2026/nov/10/inter-v-manchester-city-womens-champions-league-live",
+     "pub": "2026-11-10T21:19+00:00"
+    },
+    {
+     "medio": "Sky Sports",
+     "titulo": "Breathing space for Man City who extend lead vs Inter LIVE!",
+     "url": "https://www.skysports.com/football/inter-milan-women-vs-manchester-city-women/live/578260",
+     "pub": "2026-11-10T19:30+00:00"
+    },
+    {
+     "medio": "talkSPORT",
+     "titulo": "Djed Spence getting rave reviews for Inter Milan as Premier League legend pays huge compliment",
+     "url": "https://talksport.com/football/4699734/djed-spence-rave-reviews-inter-milan-premier-league/",
+     "pub": "2026-11-10T18:36+00:00"
+    },
+    {
+     "medio": "Google News EN",
+     "titulo": "Inter Milan vs Man City LIVE! Women's Champions League match updates, news and score",
+     "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPWXBjVzg1dDVuWkJHNm1fZ2ljT0tvTnRaODhid1JxSXpiN2hnR1VqN1IwWHc5TUVaZVFzR09hdzhFSXJWRDlDNUpxTktaZzY0d2lyRnlLa1NqaWZLQ2cxbHFKclVSUC1xWHlZcC1JU2pNZEpKc1VlRUJJdl9IaXY2THRzMlloOEZHdmlLTnhMMUozMXRtaFpEdTZrUnhhT28yQk15eG5KU2JMQXhUanlQNVJfek00UXEzdTZPdF9xT0dsVXdHUVJHZXBsLU5Pblo4?oc=5",
+     "pub": "2026-11-10T20:51+00:00"
     }
    ]
   },
@@ -995,30 +1274,37 @@
    ]
   },
   {
-   "tema": "Liverpool",
-   "medios": 7,
+   "tema": "Palace",
+   "medios": 8,
    "lista_medios": [
-    "BBC",
     "Daily Mail",
-    "Football Italia",
-    "FourFourTwo",
+    "Foot Mercato",
+    "Google News EN",
+    "Guardian",
     "Mirror",
-    "Sky Sports",
-    "Yahoo"
+    "Planet Football",
+    "Yahoo",
+    "talkSPORT"
    ],
    "primera_vez": "2026-11-09T16:47+00:00",
    "titulares": [
     {
-     "medio": "BBC",
-     "titulo": "Alisson wants to sign new Liverpool contract",
-     "url": "https://www.bbc.co.uk/sport/football/articles/cw62ypepq2m7o?at_medium=RSS&at_campaign=rss",
-     "pub": "2026-11-09T12:00+00:00"
+     "medio": "talkSPORT",
+     "titulo": "Next Crystal Palace manager odds: Former Spurs and Brentford boss odds on favourite",
+     "url": "https://talksport.com/football/4653974/next-crystal-palace-manager-odds-2026/",
+     "pub": "2026-11-09T11:12+00:00"
     },
     {
-     "medio": "Sky Sports",
-     "titulo": "'My will is to stay' - Alisson wants new Liverpool contract",
-     "url": "https://www.skysports.com/football/news/12040/13610181/alisson-liverpool-goalkeeper-wants-to-stay-at-anfield-beyond-contract-expiry-at-the-end-of-this-season",
-     "pub": "2026-11-09T12:38+00:00"
+     "medio": "talkSPORT",
+     "titulo": "Crystal Palace told to re-hire former manager despite eight-year Premier League hiatus",
+     "url": "https://talksport.com/football/4694331/alan-pardew-crystal-palace-next-manager-contenders/",
+     "pub": "2026-11-09T09:31+00:00"
+    },
+    {
+     "medio": "Daily Mail",
+     "titulo": "Crystal Palace will sack Pierre Sage TODAY after disastrous 16-game spell - this is how his reign fell apart over late, intense sessions, dinner at the training ground and an unpopular assistant manager",
+     "url": "https://www.dailymail.com/sport/football/article-16276215/Crystal-Palace-Pierre-Sage-sacked-training-assistant.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+     "pub": "2026-11-09T15:46+00:00"
     },
     {
      "medio": "Daily Mail",
@@ -1028,57 +1314,281 @@
     },
     {
      "medio": "Mirror",
-     "titulo": "Alisson gives agent clear Liverpool instruction as goalkeeper's deal winds down",
-     "url": "https://www.mirror.co.uk/sport/football/news/alisson-liverpool-contract-future-update-37858821",
-     "pub": "2026-11-09T14:19+00:00"
-    },
-    {
-     "medio": "FourFourTwo",
-     "titulo": "Heysel ’85 is the definitive, eye-opening drama that finally looks past Liverpool terrace narrative",
-     "url": "https://www.fourfourtwo.com/team/heysel-85-is-the-definitive-eye-opening-drama-that-finally-looks-past-liverpool-terrace-narrative",
-     "pub": "2026-11-09T11:41+00:00"
-    },
-    {
-     "medio": "Yahoo",
-     "titulo": "Journalist suggests Liverpool would be happy to get their money back on one player",
-     "url": "https://sports.yahoo.com/articles/journalist-suggests-liverpool-happy-money-155000412.html",
-     "pub": "2026-11-09T15:50+00:00"
-    },
-    {
-     "medio": "Yahoo",
-     "titulo": "Alisson warning to Juventus, declaring ‘my will is to stay’ at Liverpool",
-     "url": "https://sports.yahoo.com/articles/alisson-warning-juventus-declaring-stay-153400493.html",
+     "titulo": "Thomas Frank can rebuild reputation at Crystal Palace after Tottenham nightmare",
+     "url": "https://www.mirror.co.uk/sport/football/news/thomas-frank-can-rebuild-reputation-37859388",
      "pub": "2026-11-09T15:34+00:00"
     },
     {
-     "medio": "Yahoo",
-     "titulo": "Journalist claims Liverpool star is set to leave with Premier League replacement considered",
-     "url": "https://sports.yahoo.com/articles/journalist-claims-liverpool-star-set-145000191.html",
-     "pub": "2026-11-09T14:50+00:00"
+     "medio": "Planet Football",
+     "titulo": "Man Utd, Celtic & Palace considering options? The best managers currently out of work",
+     "url": "https://www.planetfootball.com/lists-and-rankings/available-football-managers-summer-2026-ranked",
+     "pub": "2026-11-09T12:41+00:00"
     },
     {
-     "medio": "Football Italia",
-     "titulo": "Chiesa ‘can return soon’ to Italy squad, but requires Liverpool opportunities first",
-     "url": "https://football-italia.net/chiesa-can-return-soon-to-italy-squad-mancini/",
-     "pub": "2026-11-09T13:52+00:00"
+     "medio": "Planet Football",
+     "titulo": "Can you name every Crystal Palace manager since 2000?",
+     "url": "https://www.planetfootball.com/quizzes/can-you-name-every-crystal-palace-manager-since-2000",
+     "pub": "2026-11-09T11:50+00:00"
+    },
+    {
+     "medio": "Google News EN",
+     "titulo": "Highlights: Crystal Palace U21s 1-1 Everton U21s",
+     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQbUlwQUdkd3RIZy03WnJ5Mm9Dbl8zcG1zMUVmeWZrNGdWX1k3ekNqeHFseW5YOFhJdVlGenViTVVsYkxBbEJ2WEs0elZiU0VrWEhjR2YtNEpYR29uaDEwZExDaVpKMWtvdXI0RlhzY3hkUC1iRkFDVExJd2NEUXpneV9TUkFBSUlMTEZCVkVsYWxxSVhWdjBkNTFRald1dw?oc=5",
+     "pub": "2026-11-09T13:21+00:00"
+    },
+    {
+     "medio": "Yahoo",
+     "titulo": "Crystal Palace favourites to sign 19-year-old midfielder",
+     "url": "https://sports.yahoo.com/articles/crystal-palace-favourites-sign-19-145000684.html",
+     "pub": "2026-11-10T14:50+00:00"
+    },
+    {
+     "medio": "Guardian",
+     "titulo": "Crystal Palace could avoid significant compensation if Pierre Sage rejoins Lens",
+     "url": "https://www.theguardian.com/football/2026/nov/10/pierre-sage-crystal-palace-premier-league-lens",
+     "pub": "2026-11-10T15:08+00:00"
+    },
+    {
+     "medio": "talkSPORT",
+     "titulo": "Pierre Sage on shortlist for new job immediately after Crystal Palace sacking",
+     "url": "https://talksport.com/football/4698061/pierre-sage-new-job-crystal-palace-sacked/",
+     "pub": "2026-11-10T11:10+00:00"
+    },
+    {
+     "medio": "Foot Mercato",
+     "titulo": "Crystal Palace ajoute un entraîneur de Ligue 1 à sa short-list pour remplacer Pierre Sage",
+     "url": "https://www.footmercato.net/a282362573233003831-crystal-palace-ajoute-un-entraineur-de-ligue-1-a-sa-short-list-pour-remplacer-pierre-sage",
+     "pub": "2026-11-10T16:53+00:00"
+    }
+   ]
+  },
+  {
+   "tema": "Crystal",
+   "medios": 8,
+   "lista_medios": [
+    "Daily Mail",
+    "Foot Mercato",
+    "Google News EN",
+    "Guardian",
+    "Mirror",
+    "Planet Football",
+    "Yahoo",
+    "talkSPORT"
+   ],
+   "primera_vez": "2026-11-09T16:47+00:00",
+   "titulares": [
+    {
+     "medio": "talkSPORT",
+     "titulo": "Next Crystal Palace manager odds: Former Spurs and Brentford boss odds on favourite",
+     "url": "https://talksport.com/football/4653974/next-crystal-palace-manager-odds-2026/",
+     "pub": "2026-11-09T11:12+00:00"
+    },
+    {
+     "medio": "talkSPORT",
+     "titulo": "Crystal Palace told to re-hire former manager despite eight-year Premier League hiatus",
+     "url": "https://talksport.com/football/4694331/alan-pardew-crystal-palace-next-manager-contenders/",
+     "pub": "2026-11-09T09:31+00:00"
+    },
+    {
+     "medio": "Daily Mail",
+     "titulo": "Crystal Palace will sack Pierre Sage TODAY after disastrous 16-game spell - this is how his reign fell apart over late, intense sessions, dinner at the training ground and an unpopular assistant manager",
+     "url": "https://www.dailymail.com/sport/football/article-16276215/Crystal-Palace-Pierre-Sage-sacked-training-assistant.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+     "pub": "2026-11-09T15:46+00:00"
+    },
+    {
+     "medio": "Daily Mail",
+     "titulo": "Alisson, 34, reveals he wants to STAY at Liverpool after rolling back the years against Crystal Palace... but is extending the goalkeeper's contract the right call, asks LEWIS STEELE",
+     "url": "https://www.dailymail.com/sport/football/article-16277989/alisson-liverpool-contract-stay.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+     "pub": "2026-11-09T12:06+00:00"
     },
     {
      "medio": "Mirror",
-     "titulo": "Inside Alexander Isak's return to form at Liverpool as Andoni Iraola strikes gold",
-     "url": "https://www.mirror.co.uk/sport/football/news/liverpool-alexander-isak-andoni-iraola-37859856",
-     "pub": "2026-11-09T20:00+00:00"
+     "titulo": "Thomas Frank can rebuild reputation at Crystal Palace after Tottenham nightmare",
+     "url": "https://www.mirror.co.uk/sport/football/news/thomas-frank-can-rebuild-reputation-37859388",
+     "pub": "2026-11-09T15:34+00:00"
     },
     {
-     "medio": "FourFourTwo",
-     "titulo": "Liverpool begin move for Bart Verbruggen: report",
-     "url": "https://www.fourfourtwo.com/transfer/liverpool-begin-move-for-bart-verbruggen-report",
-     "pub": "2026-11-09T17:43+00:00"
+     "medio": "Planet Football",
+     "titulo": "Can you name every Crystal Palace manager since 2000?",
+     "url": "https://www.planetfootball.com/quizzes/can-you-name-every-crystal-palace-manager-since-2000",
+     "pub": "2026-11-09T11:50+00:00"
+    },
+    {
+     "medio": "Google News EN",
+     "titulo": "Highlights: Crystal Palace U21s 1-1 Everton U21s",
+     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQbUlwQUdkd3RIZy03WnJ5Mm9Dbl8zcG1zMUVmeWZrNGdWX1k3ekNqeHFseW5YOFhJdVlGenViTVVsYkxBbEJ2WEs0elZiU0VrWEhjR2YtNEpYR29uaDEwZExDaVpKMWtvdXI0RlhzY3hkUC1iRkFDVExJd2NEUXpneV9TUkFBSUlMTEZCVkVsYWxxSVhWdjBkNTFRald1dw?oc=5",
+     "pub": "2026-11-09T13:21+00:00"
     },
     {
      "medio": "Yahoo",
-     "titulo": "Virgil van Dijk 'not in any panic' over Liverpool contract talks",
-     "url": "https://sports.yahoo.com/articles/virgil-van-dijk-not-panic-145149143.html",
-     "pub": "2026-11-10T14:51+00:00"
+     "titulo": "Crystal Palace favourites to sign 19-year-old midfielder",
+     "url": "https://sports.yahoo.com/articles/crystal-palace-favourites-sign-19-145000684.html",
+     "pub": "2026-11-10T14:50+00:00"
+    },
+    {
+     "medio": "Guardian",
+     "titulo": "Crystal Palace could avoid significant compensation if Pierre Sage rejoins Lens",
+     "url": "https://www.theguardian.com/football/2026/nov/10/pierre-sage-crystal-palace-premier-league-lens",
+     "pub": "2026-11-10T15:08+00:00"
+    },
+    {
+     "medio": "talkSPORT",
+     "titulo": "Pierre Sage on shortlist for new job immediately after Crystal Palace sacking",
+     "url": "https://talksport.com/football/4698061/pierre-sage-new-job-crystal-palace-sacked/",
+     "pub": "2026-11-10T11:10+00:00"
+    },
+    {
+     "medio": "Foot Mercato",
+     "titulo": "Crystal Palace ajoute un entraîneur de Ligue 1 à sa short-list pour remplacer Pierre Sage",
+     "url": "https://www.footmercato.net/a282362573233003831-crystal-palace-ajoute-un-entraineur-de-ligue-1-a-sa-short-list-pour-remplacer-pierre-sage",
+     "pub": "2026-11-10T16:53+00:00"
+    }
+   ]
+  },
+  {
+   "tema": "McTominay",
+   "medios": 8,
+   "lista_medios": [
+    "BBC",
+    "Daily Mail",
+    "Google News EN",
+    "Guardian",
+    "Mundo Deportivo",
+    "Sky Sports",
+    "Yahoo",
+    "talkSPORT"
+   ],
+   "primera_vez": "2026-11-10T15:10+00:00",
+   "titulares": [
+    {
+     "medio": "Yahoo",
+     "titulo": "McTominay: ‘Napoli gave me the foundation to focus, and I have to thank Conte’",
+     "url": "https://sports.yahoo.com/articles/mctominay-napoli-gave-foundation-focus-140000195.html",
+     "pub": "2026-11-10T14:00+00:00"
+    },
+    {
+     "medio": "BBC",
+     "titulo": "McTominay reveals heart treatment at World Cup",
+     "url": "https://www.bbc.co.uk/sport/football/articles/cw5ynynx204zo?at_medium=RSS&at_campaign=rss",
+     "pub": "2026-11-10T16:46+00:00"
+    },
+    {
+     "medio": "Guardian",
+     "titulo": "McTominay reveals heart treatment two days before Scotland’s World Cup opener",
+     "url": "https://www.theguardian.com/football/2026/nov/10/mctominay-reveals-heart-treatment-two-days-before-scotlands-world-cup-opener",
+     "pub": "2026-11-10T19:54+00:00"
+    },
+    {
+     "medio": "Sky Sports",
+     "titulo": "McTominay had heart 'shocked' two days before Scotland's World Cup opener",
+     "url": "https://www.skysports.com/football/news/12040/13610728/scott-mctominay-scotland-midfielder-had-heart-shocked-two-days-before-world-cup-opener-against-haiti",
+     "pub": "2026-11-10T16:00+00:00"
+    },
+    {
+     "medio": "talkSPORT",
+     "titulo": "‘Put to sleep’ – Scott McTominay had his heart ‘shocked’ two days before World Cup opener",
+     "url": "https://talksport.com/football/4700179/scott-mctominay-heart-shocked-scotland-world-cup-haiti/",
+     "pub": "2026-11-10T20:06+00:00"
+    },
+    {
+     "medio": "Daily Mail",
+     "titulo": "Scott McTominay reveals hospital dash and heart shock treatment days before Scotland's World Cup opener",
+     "url": "https://www.dailymail.com/sport/football/article-16282111/McTominay-Scotland-heart-scare-Haiti.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+     "pub": "2026-11-10T18:18+00:00"
+    },
+    {
+     "medio": "Google News EN",
+     "titulo": "Sebastien Pocognoli: Scotland boss to lean on Scott McTominay in his 'captain group of five'",
+     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE50aC14WS0tcDh0MFBpUk1RN1dlcXJObkxDVDZoNTkybEpvbmJjYnVsUnVKR0VJU284OS05Y01wcWhwSXNzQURuNGVkZDNnZ1VJUGlXelgyaVdjSEFHZVZfYlZCbnlPUjJHekJz?oc=5",
+     "pub": "2026-11-10T20:49+00:00"
+    },
+    {
+     "medio": "Mundo Deportivo",
+     "titulo": "McTominay revela que sufrió problemas cardiacos en el Mundial",
+     "url": "https://www.mundodeportivo.com/futbol/internacional/20261110/1004249626/mctominay.html",
+     "pub": ""
+    }
+   ]
+  },
+  {
+   "tema": "Oviedo",
+   "medios": 7,
+   "lista_medios": [
+    "AS",
+    "BBC",
+    "Foot Mercato",
+    "Kicker",
+    "L'Equipe",
+    "Mundo Deportivo",
+    "Record"
+   ],
+   "primera_vez": "2026-11-09T16:47+00:00",
+   "titulares": [
+    {
+     "medio": "BBC",
+     "titulo": "Real Madrid legend Raul named Real Oviedo manager",
+     "url": "https://www.bbc.co.uk/sport/football/articles/cwnv0v1yj585o?at_medium=RSS&at_campaign=rss",
+     "pub": "2026-11-09T16:16+00:00"
+    },
+    {
+     "medio": "Mundo Deportivo",
+     "titulo": "Primeras palabras de Raúl como entrenador del Real Oviedo",
+     "url": "https://www.mundodeportivo.com/futbol/fichajes/oficial/20261109/1004249073/raul.html",
+     "pub": ""
+    },
+    {
+     "medio": "Mundo Deportivo",
+     "titulo": "Raúl ya está en Oviedo",
+     "url": "https://www.mundodeportivo.com/futbol/real-madrid/20261109/1004249061/raul-oviedo.html",
+     "pub": ""
+    },
+    {
+     "medio": "Kicker",
+     "titulo": "Offiziell: Raul wird neuer Chefcoach in Oviedo",
+     "url": "https://www.kicker.de/offiziell-raul-wird-neuer-chefcoach-in-oviedo-1270178/artikel#omrss",
+     "pub": "2026-11-09T14:21+00:00"
+    },
+    {
+     "medio": "L'Equipe",
+     "titulo": "La légende du Real Madrid Raul va lancer sa carrière d'entraîneur professionnel à Oviedo",
+     "url": "https://www.lequipe.fr/Football/Actualites/La-legende-du-real-madrid-raul-va-lancer-sa-carriere-d-entraineur-professionnel-a-oviedo/1742491#at_medium=RSS_feeds",
+     "pub": "2026-11-09T13:56+00:00"
+    },
+    {
+     "medio": "AS",
+     "titulo": "Raúl ya ejerce de azul: “¿Si me veo en el futuro en el Madrid? Me veo estando en el Oviedo\"",
+     "url": "https://as.com/futbol/segunda/raul-ya-ejerce-de-azul-si-me-veo-en-el-futuro-en-el-madrid-me-veo-estando-en-el-oviedo-f202611-n/",
+     "pub": "2026-11-10T13:30+00:00"
+    },
+    {
+     "medio": "AS",
+     "titulo": "Las imágenes del primer entrenamiento de Raúl al frente del Real Oviedo",
+     "url": "https://as.com/futbol/fotorrelato/las-imagenes-del-primer-entrenamiento-de-raul-al-frente-del-real-oviedo-f202611-f/",
+     "pub": "2026-11-10T13:32+00:00"
+    },
+    {
+     "medio": "Mundo Deportivo",
+     "titulo": "Raúl, presentado: este es el Real Oviedo que quiere",
+     "url": "https://www.mundodeportivo.com/futbol/oviedo/20261110/1004249480/raul.html",
+     "pub": ""
+    },
+    {
+     "medio": "Mundo Deportivo",
+     "titulo": "La cesión de Goti en Oviedo cambia de dimensión: Raúl toma el mando",
+     "url": "https://www.mundodeportivo.com/futbol/real-sociedad/20261110/1004249389/cesion-goti-oviedo-cambia-dimension-raul-toma-mando.html",
+     "pub": ""
+    },
+    {
+     "medio": "Foot Mercato",
+     "titulo": "Real Oviedo : ça s’annonce déjà compliqué pour Raul",
+     "url": "https://www.footmercato.net/a2823251854759664844-real-oviedo-ca-sannonce-deja-complique-pour-raul",
+     "pub": "2026-11-10T18:00+00:00"
+    },
+    {
+     "medio": "Record",
+     "titulo": "<![CDATA[ Raúl González é apresentado no Oviedo: «Treinar o Real Madrid? Foi aqui que me deram a oportunidade...» ]]>",
+     "url": "https://www.record.pt/internacional/paises/espanha/detalhe/raul-gonzalez-e-apresentado-no-oviedo-treinar-o-real-madrid-foi-aqui-que-me-deram-a-oportunidade",
+     "pub": "2026-11-10T20:45+00:00"
     }
    ]
   },
@@ -1149,94 +1659,188 @@
      "titulo": "La légende de la NFL Tom Brady n'est plus actionnaire de Birmingham City",
      "url": "https://www.lequipe.fr/Football/Actualites/La-legende-de-la-nfl-tom-brady-n-est-plus-actionnaire-de-birmingham-city/1742662#at_medium=RSS_feeds",
      "pub": "2026-11-09T23:24+00:00"
+    },
+    {
+     "medio": "talkSPORT",
+     "titulo": "Tom Brady ends ties with Birmingham City in shock announcement",
+     "url": "https://talksport.com/football/4696819/tom-brady-leaves-birmingham-city-owner/",
+     "pub": "2026-11-09T21:39+00:00"
     }
    ]
   },
   {
-   "tema": "Mauricio",
+   "tema": "Marc",
    "medios": 7,
    "lista_medios": [
-    "Daily Mail",
     "Foot Mercato",
-    "FourFourTwo",
-    "Google News EN",
+    "Google News ES",
     "L'Equipe",
     "Mirror",
-    "Planet Football"
+    "Mundo Deportivo",
+    "Yahoo",
+    "talkSPORT"
+   ],
+   "primera_vez": "2026-11-09T16:47+00:00",
+   "titulares": [
+    {
+     "medio": "talkSPORT",
+     "titulo": "Marc Guehi forced to withdraw from England squad and immediately replaced",
+     "url": "https://talksport.com/football/4694961/marc-guehi-injury-england-squad-dan-burn/",
+     "pub": "2026-11-09T11:56+00:00"
+    },
+    {
+     "medio": "Mirror",
+     "titulo": "Marc Guehi withdraws from England squad through injury as replacement named",
+     "url": "https://www.mirror.co.uk/sport/football/news/marc-guehi-withdraws-england-squad-37858269",
+     "pub": "2026-11-09T12:19+00:00"
+    },
+    {
+     "medio": "Mundo Deportivo",
+     "titulo": "Marc Roca, rumbo a su primera cita con España: \"Este Betis no tiene límite\"",
+     "url": "https://www.mundodeportivo.com/futbol/betis/20261109/1004249041/marc-roca-rumbo-primera-cita-espana-betis-no-limite.html",
+     "pub": ""
+    },
+    {
+     "medio": "Mundo Deportivo",
+     "titulo": "Marc Santos cumple 16 años y ya puede firmar su primer contrato profesional con el Levante",
+     "url": "https://www.mundodeportivo.com/futbol/levante/20261109/1004249027/marc-santos-cumple-16-anos-firmar-primer-contrato-profesional-levante.html",
+     "pub": ""
+    },
+    {
+     "medio": "Google News ES",
+     "titulo": "\"Ahora mismo el Real Madrid es el mejor equipo de Europa\": Marc Cucurella y su tajante afirmación sobre el debate",
+     "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNQkd2bVBBTmZwLUdRem05aUxoN0RNek1XbVJac0R4YmU3SXJSMlJUZ1JqSkFKeDMtWjZVYXlzLU1wMjJ2TTFLRHdhbjFJOXg3UjVqZlRrMjFpN3dsTjA4bUJodDhPemZGc0wyUTVHbGJYdHcyOU02aF83VDFoRFN1TklEUDUyemRRUGNPeHcxZTRhdEh1MllrbFBSNXlxWUtBMkFkLUdpb3JFRkw5TXIxdFZ3UzBzVFlxUGZRcEw3d1JRMzUwR3UwUXpjQjY3MzVxYkkxc255MXo0bXFiX005X1N1NEl2NGdtOHN5b1Rnd1g?oc=5",
+     "pub": "2026-11-10T14:46+00:00"
+    },
+    {
+     "medio": "Google News ES",
+     "titulo": "Marc Cucurella y la surrealista anécdota con José Mourinho: \"Me mandó una foto con mi pecho y su cara tatuada\"",
+     "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOSUMwZHE5bkZ2eGxlTFF1WGpFZi1HOWRmSlRVS0MwZzJ0Zy1Wa2Y5S1YxOWVub0xhdHV1dlRIVHlCN0tjX2FMb1VQUzN6Q2xSczYxN3p6bVRwLW9HZUZZcGlFX1VSdFd6UjdQU3MxYTlIeGNhenJUd3RBTm9ENncwbDhTZThOR1V2bW1GM1VESm1ONVpXVkRjZ21ZQkNwY2p3VGVjRzJ4aHBVcWtDNWlRY0kxZHZjZkk0U1czeHJxdUVrczZvSHdJNkpPcWtZZ25OeXhxZGk2czZoaGhlZGExS1l5M0lYM3BhVVJHWG8ydDl0d3B3RXAxTEd3?oc=5",
+     "pub": "2026-11-10T13:57+00:00"
+    },
+    {
+     "medio": "L'Equipe",
+     "titulo": "Pour Marc Cucurella, le Real Madrid est supérieur au PSG : « Actuellement, je dirais que c'est la meilleure équipe au monde »",
+     "url": "https://www.lequipe.fr/Football/Actualites/Pour-marc-cucurella-le-real-madrid-est-superieur-au-psg-actuellement-je-dirais-que-c-est-la-meilleure-equipe-au-monde/1742676#at_medium=RSS_feeds",
+     "pub": "2026-11-10T08:51+00:00"
+    },
+    {
+     "medio": "Foot Mercato",
+     "titulo": "Marc Cucurella : « la meilleure équipe d’Europe ? Pour l’instant, c’est le Real Madrid »",
+     "url": "https://www.footmercato.net/a7546084356084233169-marc-cucurella-la-meilleure-equipe-deurope-pour-linstant-cest-le-real-madrid",
+     "pub": "2026-11-10T10:08+00:00"
+    },
+    {
+     "medio": "Foot Mercato",
+     "titulo": "Real Madrid : Marc Cucurella croit toujours au retour à son prime de Vinicius Jr",
+     "url": "https://www.footmercato.net/a6136320552293711690-real-madrid-marc-cucurella-croit-toujours-au-retour-a-son-prime-de-vinicius-jr",
+     "pub": "2026-11-10T08:01+00:00"
+    },
+    {
+     "medio": "Yahoo",
+     "titulo": "Marc Bernal admits Rodri’s arrival makes Barcelona midfield competition tougher: ‘When you sign a Ballon d’Or winner…’",
+     "url": "https://sports.yahoo.com/articles/marc-bernal-admits-rodri-arrival-200500796.html",
+     "pub": "2026-11-10T20:05+00:00"
+    },
+    {
+     "medio": "Mundo Deportivo",
+     "titulo": "Marc Bernal: ¿Rodri? Si fichan a un Balón de Oro es más difícil jugar\"",
+     "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261110/1004249612/marc-bernal-rodri-fichan-balon-oro-dificil-jugar.html",
+     "pub": ""
+    },
+    {
+     "medio": "Google News ES",
+     "titulo": "Marc Cucurella se decanta por Arda Güler al elegir al mejor jugador del Real Madrid: \"Cuando está en el campo, el equipo juega mejor\"",
+     "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNQ094R0lTQ1YwWFhZcXczMkJIZEdQVU10ckg4bVlsci1XU2xxSlh2dVpfeGZjRXE4WGdwQUhLeGZKLUNOU0FzbEJ0QkU2LUM1MXM0aEp3SXJrMk1PblBTUF95MzRVODZDVHgwSnBFd2FDY3paN0hzNnladXB5MUxrNEdPMmluTGJ4aTZRc3pGcjZPYlpwLVlnc0lTa3hFWFluekxPWHlQUGYyQmhjX0tYRnhRSktkRHBJUkF2OFRRalNoQUJ5ZDNvUG1odGJNWXY2TmxrVGZwbTA2dW1BelE5bmFtTnl0bTBXVk0taEZmeGN3RDZqUC1wUlRkVWhuOGVmTlNDZ25XeVA?oc=5",
+     "pub": "2026-11-10T14:09+00:00"
+    }
+   ]
+  },
+  {
+   "tema": "Arsenal",
+   "medios": 7,
+   "lista_medios": [
+    "FourFourTwo",
+    "Mirror",
+    "Mundo Deportivo",
+    "Planet Football",
+    "Yahoo",
+    "ge.globo",
+    "talkSPORT"
    ],
    "primera_vez": "2026-11-09T16:47+00:00",
    "titulares": [
     {
      "medio": "Mirror",
-     "titulo": "Michael Carrick future LIVE: Man Utd 'appointment plan' as Mauricio Pochettino leads race",
-     "url": "https://www.mirror.co.uk/sport/football/news/carrick-sack-live-man-utd-37856275",
-     "pub": "2026-11-09T15:35+00:00"
+     "titulo": "Arsenal star Declan Rice reveals why he really cut back on social media",
+     "url": "https://www.mirror.co.uk/sport/football/news/arsenal-declan-rice-social-media-37859519",
+     "pub": "2026-11-09T16:38+00:00"
     },
     {
-     "medio": "Daily Mail",
-     "titulo": "Mauricio Pochettino's 'kill' team talk - when USA were already 3-0 up - convinces Man United fans he's right to replace Michael Carrick",
-     "url": "https://www.dailymail.com/sport/football/article-16281289/Mauricio-Pochettino-team-talk-USA-Man-United.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-     "pub": "2026-11-10T14:57+00:00"
+     "medio": "FourFourTwo",
+     "titulo": "Arsenal set to complete THREE seismic deals before January: report",
+     "url": "https://www.fourfourtwo.com/transfer/arsenal-set-to-complete-three-seismic-deals-before-january-report",
+     "pub": "2026-11-09T12:25+00:00"
     },
     {
-     "medio": "Daily Mail",
-     "titulo": "Man United's new boss contenders: Mauricio Pochettino tops the bookies' favourites ahead of Eddie Howe and Julian Nagelsmann on 14-man list of top candidates",
-     "url": "https://www.dailymail.com/sport/football/article-16280409/Mauricio-Pochettino-leads-bookmakers-favourites-named-new-Man-United-manager-Michael-Carrick-faces-sack.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-     "pub": "2026-11-10T10:18+00:00"
+     "medio": "Yahoo",
+     "titulo": "Arsenal monitor Leverkusen striker Kofane",
+     "url": "https://sports.yahoo.com/articles/arsenal-monitor-leverkusen-striker-kofane-154627716.html",
+     "pub": "2026-11-09T15:46+00:00"
     },
     {
-     "medio": "Daily Mail",
-     "titulo": "Michael Carrick facing the sack at Man United: Mauricio Pochettino the frontrunner to replace beleaguered boss - but chiefs face splashing out £7MILLION for former Spurs and Chelsea coach",
-     "url": "https://www.dailymail.com/sport/football/article-16279641/Michael-Carrick-sack-Man-United-Mauricio-Pochettino.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-     "pub": "2026-11-10T07:44+00:00"
-    },
-    {
-     "medio": "Daily Mail",
-     "titulo": "USMNT fans in meltdown as head coach Mauricio Pochettino emerges as frontrunner for Manchester United job",
-     "url": "https://www.dailymail.com/sport/football/article-16279819/usmnt-mauricio-pochettino-manchester-united-job.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-     "pub": "2026-11-10T04:51+00:00"
-    },
-    {
-     "medio": "Mirror",
-     "titulo": "Michael Carrick LIVE: Man Utd chiefs set for crunch Monaco meeting as Mauricio Pochettino tops shortlist",
-     "url": "https://www.mirror.co.uk/sport/football/news/carrick-sack-live-man-utd-37860771",
-     "pub": "2026-11-10T14:47+00:00"
-    },
-    {
-     "medio": "Mirror",
-     "titulo": "Man Utd would have to pay huge fee to hire Mauricio Pochettino as Michael Carrick's successor",
-     "url": "https://www.mirror.co.uk/sport/football/news/man-utd-mauricio-pochettino-buyout-37861393",
-     "pub": "2026-11-10T10:44+00:00"
-    },
-    {
-     "medio": "Mirror",
-     "titulo": "Inside Mauricio Pochettino's private meeting he 'set up' with ex-Man Utd boss",
-     "url": "https://www.mirror.co.uk/sport/football/news/mauricio-pochettino-man-utd-meeting-37860831",
-     "pub": "2026-11-10T09:58+00:00"
+     "medio": "Yahoo",
+     "titulo": "Hull players outnumber Arsenal in Team of the Week after Gunners win",
+     "url": "https://sports.yahoo.com/articles/hull-players-outnumber-arsenal-team-150100829.html",
+     "pub": "2026-11-09T15:01+00:00"
     },
     {
      "medio": "Planet Football",
-     "titulo": "How would Man Utd line-up if Mauricio Pochettino becomes manager?",
-     "url": "https://www.planetfootball.com/manchester-united/man-utd-predicted-xi-mauricio-pochettino-manager",
-     "pub": "2026-11-10T09:40+00:00"
+     "titulo": "Arsenal goalkeepers: Name all 24 to have played a Premier League game",
+     "url": "https://www.planetfootball.com/quizzes/arsenal-every-goalkeeper-played-premier-league-game",
+     "pub": "2026-11-10T14:05+00:00"
     },
     {
-     "medio": "FourFourTwo",
-     "titulo": "Manchester United report: Mauricio Pochettino to ACCEPT managerial job role",
-     "url": "https://www.fourfourtwo.com/person/coaches-managers/manchester-united-report-mauricio-pochettino-to-accept-managerial-job-role",
-     "pub": "2026-11-10T09:49+00:00"
+     "medio": "Yahoo",
+     "titulo": "18yo Arsenal international pulls out of break with injury",
+     "url": "https://sports.yahoo.com/articles/18yo-arsenal-international-pulls-break-140100518.html",
+     "pub": "2026-11-10T14:01+00:00"
     },
     {
-     "medio": "FourFourTwo",
-     "titulo": "'I met genius Sir Alex Ferguson for lunch and we argued over who would pay. I came so close, I want to try and win the Premier League again' Mauricio Pochettino adds fuel to Manchester United links",
-     "url": "https://www.fourfourtwo.com/person/coaches-managers/i-met-genius-sir-alex-ferguson-for-lunch-and-we-argued-over-who-would-pay-i-came-so-close-i-want-to-try-and-win-the-premier-league-again-mauricio-pochettino-adds-fuel-to-manchester-united-links",
-     "pub": "2026-11-10T09:29+00:00"
+     "medio": "Yahoo",
+     "titulo": "Atletico pursue Zubimendi as Arsenal consider swap deal",
+     "url": "https://sports.yahoo.com/articles/atletico-pursue-zubimendi-arsenal-consider-130100706.html",
+     "pub": "2026-11-10T13:01+00:00"
     },
     {
-     "medio": "Google News EN",
-     "titulo": "Mauricio Pochettino would consider Manchester United job if Michael Carrick is sacked - Paper Talk | Football News",
-     "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOcmRUUUtDRzcwbmpQMFc3M3l6RmpQTjlrMkNzbVRzd0V2UXAyQVRWdGdmWTlzLXZHb0cwZE9CNkZ2RzlhMjdaQWJsSFJQOTNrNUs3bkNaLWd2blVPV1ZXVC11RXNMWTk3THdXRGFwdWh1dzRMajdFUVhRZWNGU0d1dHhsQUl2Ul9vMnZkU0tTbEt3d2N2MlQtVnJNYUdIQWktZnRGSWJDVE45M2k2SWJnOGVkZHY3YnozU3hYUzJfallIOFI1cHhReFhWUWlIWGxGNF8tUWlVVndKUmdRTkE?oc=5",
-     "pub": "2026-11-10T14:25+00:00"
+     "medio": "Mundo Deportivo",
+     "titulo": "Pere Romeu pasa de la revancha con el Arsenal: \"No se verá lo mismo que en Lisboa\"",
+     "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261110/1004249470/pere-romeu-pasa-revancha-arsenal-no-vera-lisboa.html",
+     "pub": ""
+    },
+    {
+     "medio": "Mundo Deportivo",
+     "titulo": "El Femení prepara el duelo contra el Arsenal",
+     "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261110/1004249454/femeni-prepara-duelo-arsenal.html",
+     "pub": ""
+    },
+    {
+     "medio": "ge.globo",
+     "titulo": "Efeito Arsenal: por que Pedro Emanuel citou clube inglês após a eliminação do Vasco na Copa do Brasil",
+     "url": "https://ge.globo.com/futebol/times/vasco/noticia/2026/11/10/efeito-arsenal-por-que-pedro-emanuel-citou-clube-ingles-apos-a-eliminacao-do-vasco-na-copa-do-brasil.ghtml",
+     "pub": "2026-11-10T13:00+00:00"
+    },
+    {
+     "medio": "ge.globo",
+     "titulo": "Seleção faz controle de carga e poupa quatro jogadores em treinamento: Raphinha, dupla do Arsenal e Vanderson",
+     "url": "https://ge.globo.com/futebol/selecao-brasileira/noticia/2026/11/10/selecao-faz-controle-de-carga-e-poupa-quatro-jogadores-em-treinamento-raphinha-dupla-do-arsenal-e-vanderson.ghtml",
+     "pub": "2026-11-10T09:58+00:00"
+    },
+    {
+     "medio": "talkSPORT",
+     "titulo": "Transfer notebook: Mauricio Pochettino update as Arsenal hunt Real Madrid star",
+     "url": "https://talksport.com/football/4698822/transfer-notebook-mauricio-pochettino-update-arsenal-endrick/",
+     "pub": "2026-11-10T13:04+00:00"
     }
    ]
   },
@@ -1329,72 +1933,36 @@
    ]
   },
   {
-   "tema": "Golden",
+   "tema": "Lamine",
    "medios": 7,
    "lista_medios": [
     "AS",
     "Foot Mercato",
-    "Kicker",
+    "Google News ES",
     "L'Equipe",
     "Mundo Deportivo",
-    "Record",
+    "Ole",
     "Yahoo"
    ],
    "primera_vez": "2026-11-09T16:47+00:00",
    "titulares": [
     {
      "medio": "Yahoo",
-     "titulo": "🚨 Pau Cubarsí crowned Golden Boy 2026",
-     "url": "https://sports.yahoo.com/articles/pau-cubars-crowned-golden-boy-155200306.html",
-     "pub": "2026-11-09T15:52+00:00"
+     "titulo": "🚨 BREAKING: Kylian Mbappé, Lamine Yamal and Lionel Messi named in FIFPRO World XI",
+     "url": "https://sports.yahoo.com/articles/breaking-kylian-mbapp-lamine-yamal-160600408.html",
+     "pub": "2026-11-09T16:06+00:00"
     },
     {
      "medio": "Yahoo",
-     "titulo": "Pau Cubarsí wins the 2026 Golden Boy award",
-     "url": "https://sports.yahoo.com/articles/pau-cubars-wins-2026-golden-155100538.html",
-     "pub": "2026-11-09T15:51+00:00"
+     "titulo": "Confirmed: Lamine Yamal wins La Liga Goal of the Month award for October",
+     "url": "https://sports.yahoo.com/articles/confirmed-lamine-yamal-wins-la-144000654.html",
+     "pub": "2026-11-09T14:40+00:00"
     },
     {
      "medio": "AS",
-     "titulo": "Cubarsí se viste de oro y se lleva el Golden Boy",
-     "url": "https://as.com/futbol/internacional/cubarsi-se-viste-de-oro-y-se-lleva-el-golden-boy-f202611-n/",
-     "pub": "2026-11-09T15:13+00:00"
-    },
-    {
-     "medio": "AS",
-     "titulo": "¿Qué fue de los otros ganadores del Golden Boy?",
-     "url": "https://as.com/futbol/internacional/que-fue-de-los-otros-ganadores-del-golden-boy-f202611-n/",
-     "pub": "2026-11-09T15:16+00:00"
-    },
-    {
-     "medio": "Mundo Deportivo",
-     "titulo": "Schröder, premio Golden Girl 2026",
-     "url": "https://www.mundodeportivo.com/futbol/real-madrid/20261109/1004249128/schroeder-premio-golden-girl-2026.html",
-     "pub": ""
-    },
-    {
-     "medio": "Mundo Deportivo",
-     "titulo": "El palmarés del premio Golden Boy tras ganar Cubarsí",
-     "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261109/1004249091/palmares-premio-golden-boy-ganar-cubarsi.html",
-     "pub": ""
-    },
-    {
-     "medio": "Mundo Deportivo",
-     "titulo": "Oficial: Cubarsí, Golden Boy 2026",
-     "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261109/1004249074/oficial-cubarsi-golden-boy-2026.html",
-     "pub": ""
-    },
-    {
-     "medio": "Kicker",
-     "titulo": "Cubarsi gewinnt \"Golden Boy\" 2026",
-     "url": "https://www.kicker.de/cubarsi-gewinnt-golden-boy-2026-1270214/artikel#omrss",
-     "pub": "2026-11-09T16:27+00:00"
-    },
-    {
-     "medio": "Kicker",
-     "titulo": "\"Golden Boy\"-Award: Das sind Cubarsis Vorgänger",
-     "url": "https://www.kicker.de/golden-boy-award-das-sind-cubarsis-vorgaenger-789831/slideshow#omrss",
-     "pub": "2026-11-09T16:25+00:00"
+     "titulo": "Lamine y Oyarzabal, KO para Praga: De la Fuente llama a Víctor Muñoz",
+     "url": "https://as.com/futbol/seleccion/lamine-y-oyarzabal-retrasan-su-incorporacion-a-la-concentracion-de-la-seleccion-f202611-n/",
+     "pub": "2026-11-09T10:56+00:00"
     },
     {
      "medio": "L'Equipe",
@@ -1403,16 +1971,140 @@
      "pub": "2026-11-09T16:22+00:00"
     },
     {
-     "medio": "Foot Mercato",
-     "titulo": "Erling Haaland sacré Golden Player 2026",
-     "url": "https://www.footmercato.net/a567856036960449060-erling-haaland-sacre-golden-player-2026",
-     "pub": "2026-11-09T16:22+00:00"
+     "medio": "L'Equipe",
+     "titulo": "Espagne : Lamine Yamal et Mikel Oyarzabal retardent leur arrivée en sélection et manqueront le match de Ligue des nations en Tchéquie",
+     "url": "https://www.lequipe.fr/Football/Actualites/Espagne-lamine-yamal-et-mikel-oyarzabal-retardent-leur-arrivee-en-selection-et-manqueront-le-match-de-ligue-des-nations-en-tchequie/1742465#at_medium=RSS_feeds",
+     "pub": "2026-11-09T11:18+00:00"
     },
     {
      "medio": "Foot Mercato",
-     "titulo": "Pau Cubarsi remporte le Golden Boy 2026 !",
-     "url": "https://www.footmercato.net/a2251432396221468185-pau-cubarsi-remporte-le-golden-boy-2026",
-     "pub": "2026-11-09T15:38+00:00"
+     "titulo": "Espagne : Lamine Yamal va manquer le prochain match",
+     "url": "https://www.footmercato.net/a4279561171637016587-espagne-lamine-yamal-va-manquer-le-prochain-match",
+     "pub": "2026-11-09T11:14+00:00"
+    },
+    {
+     "medio": "Ole",
+     "titulo": "Lamine Yamal es baja en España para enfrentar a República Checa: ¿qué pasó con la figura del Barcelona?",
+     "url": "https://www.ole.com.ar/futbol-internacional/espana/lamineyamal-espana-barcelona-nationsleague-luisdelafuente_0_ccwCRTbJHu.html",
+     "pub": "2026-11-09T15:25+00:00"
+    },
+    {
+     "medio": "AS",
+     "titulo": "De la Fuente cuenta con Lamine Yamal ante Inglaterra",
+     "url": "https://as.com/futbol/seleccion/de-la-fuente-sobre-lamine-no-merecia-la-pena-asumir-riesgo-f202611-n/",
+     "pub": "2026-11-10T13:45+00:00"
+    },
+    {
+     "medio": "Mundo Deportivo",
+     "titulo": "'Mimos' para Lamine y Koundé sigue al margen en el último entreno de la semana",
+     "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261110/1004249478/mimos-lamine-kounde-sigue-margen-ultimo-entreno-semana.html",
+     "pub": ""
+    },
+    {
+     "medio": "Foot Mercato",
+     "titulo": "Les Bleus réagissent à la candidature de Teddy Riner, l’Espagne s’inquiète pour Lamine Yamal",
+     "url": "https://www.footmercato.net/a8614600968496932441-les-bleus-reagissent-a-la-candidature-de-teddy-riner-lespagne-sinquiete-pour-lamine-yamal",
+     "pub": "2026-11-10T09:14+00:00"
+    },
+    {
+     "medio": "Foot Mercato",
+     "titulo": "La presse madrilène met déjà Yan Diomandé au niveau de Lamine Yamal",
+     "url": "https://www.footmercato.net/a5208329652648932383-la-presse-madrilene-met-deja-yan-diomande-au-niveau-de-lamine-yamal",
+     "pub": "2026-11-10T08:17+00:00"
+    },
+    {
+     "medio": "Google News ES",
+     "titulo": "Steven Gerrard alucina con Lamine Yamal y lo compara con Messi y Cristiano Ronaldo: \"Está más avanzado que ellos a su edad\"",
+     "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPQzlpSDVtZ3hCU3NnZl95MDBKWTFUVHhyVldTY3laX0FOamFsWF9lQTk5alJCaE9fMmZUTkhtU2xhaDJXOGV4Y09fYm43Y29ndWxpLTRWQTgwenM1eWZERGRuTlE0VUFwTEpJNmtfSDJzb0UxNHhac2F0c25obEpKV3c0QXM0cExEVEVCNVR2eUVjTVlmZWhYQVlWdDYzZzNPMlN1MkpuMzB3dUxtcjh2RXdzb1hEeURDdTJONzRPanFwZjAwNjd1Y0swbDJKVkxsRGIyOTM1TjJCdjI2ak9WVjZmWDdQenVsM2p2eDFKSmNDNjREOE1aQU5jbE1IQQ?oc=5",
+     "pub": "2026-11-10T17:56+00:00"
+    }
+   ]
+  },
+  {
+   "tema": "Yamal",
+   "medios": 7,
+   "lista_medios": [
+    "AS",
+    "Foot Mercato",
+    "Google News ES",
+    "L'Equipe",
+    "Ole",
+    "Planet Football",
+    "Yahoo"
+   ],
+   "primera_vez": "2026-11-09T16:47+00:00",
+   "titulares": [
+    {
+     "medio": "Yahoo",
+     "titulo": "🚨 BREAKING: Kylian Mbappé, Lamine Yamal and Lionel Messi named in FIFPRO World XI",
+     "url": "https://sports.yahoo.com/articles/breaking-kylian-mbapp-lamine-yamal-160600408.html",
+     "pub": "2026-11-09T16:06+00:00"
+    },
+    {
+     "medio": "Yahoo",
+     "titulo": "Confirmed: Lamine Yamal wins La Liga Goal of the Month award for October",
+     "url": "https://sports.yahoo.com/articles/confirmed-lamine-yamal-wins-la-144000654.html",
+     "pub": "2026-11-09T14:40+00:00"
+    },
+    {
+     "medio": "L'Equipe",
+     "titulo": "Deuxième meilleur jeune talent masculin derrière Lamine Yamal lors de la cérémonie du Ballon d'Or 2026, Pau Cubarsi a été sacré Golden Boy",
+     "url": "https://www.lequipe.fr/Football/Actualites/Deuxieme-meilleur-jeune-talent-masculin-derriere-lamine-yamal-lors-de-la-ceremonie-du-ballon-d-or-2026-pau-cubarsi-a-ete-sacre-golden-boy/1742536#at_medium=RSS_feeds",
+     "pub": "2026-11-09T16:22+00:00"
+    },
+    {
+     "medio": "L'Equipe",
+     "titulo": "Espagne : Lamine Yamal et Mikel Oyarzabal retardent leur arrivée en sélection et manqueront le match de Ligue des nations en Tchéquie",
+     "url": "https://www.lequipe.fr/Football/Actualites/Espagne-lamine-yamal-et-mikel-oyarzabal-retardent-leur-arrivee-en-selection-et-manqueront-le-match-de-ligue-des-nations-en-tchequie/1742465#at_medium=RSS_feeds",
+     "pub": "2026-11-09T11:18+00:00"
+    },
+    {
+     "medio": "Foot Mercato",
+     "titulo": "Espagne : Lamine Yamal va manquer le prochain match",
+     "url": "https://www.footmercato.net/a4279561171637016587-espagne-lamine-yamal-va-manquer-le-prochain-match",
+     "pub": "2026-11-09T11:14+00:00"
+    },
+    {
+     "medio": "Ole",
+     "titulo": "Lamine Yamal es baja en España para enfrentar a República Checa: ¿qué pasó con la figura del Barcelona?",
+     "url": "https://www.ole.com.ar/futbol-internacional/espana/lamineyamal-espana-barcelona-nationsleague-luisdelafuente_0_ccwCRTbJHu.html",
+     "pub": "2026-11-09T15:25+00:00"
+    },
+    {
+     "medio": "Planet Football",
+     "titulo": "The top goalscorers for club & country in 2026 so far: Kane, Yamal, Mbappe, Raphinha…",
+     "url": "https://www.planetfootball.com/stats-tables/2026-top-scorers-europe-club-country-list",
+     "pub": "2026-11-10T09:44+00:00"
+    },
+    {
+     "medio": "Planet Football",
+     "titulo": "Comparing the stats of the main 2027 Ballon d’Or contenders: Kane, Yamal, Olise, Raphinha, Mbappe…",
+     "url": "https://www.planetfootball.com/stats-tables/2027-ballon-dor-contenders-compared-stats-yamal-olise-kane-mbappe",
+     "pub": "2026-11-10T09:19+00:00"
+    },
+    {
+     "medio": "AS",
+     "titulo": "De la Fuente cuenta con Lamine Yamal ante Inglaterra",
+     "url": "https://as.com/futbol/seleccion/de-la-fuente-sobre-lamine-no-merecia-la-pena-asumir-riesgo-f202611-n/",
+     "pub": "2026-11-10T13:45+00:00"
+    },
+    {
+     "medio": "Foot Mercato",
+     "titulo": "Les Bleus réagissent à la candidature de Teddy Riner, l’Espagne s’inquiète pour Lamine Yamal",
+     "url": "https://www.footmercato.net/a8614600968496932441-les-bleus-reagissent-a-la-candidature-de-teddy-riner-lespagne-sinquiete-pour-lamine-yamal",
+     "pub": "2026-11-10T09:14+00:00"
+    },
+    {
+     "medio": "Foot Mercato",
+     "titulo": "La presse madrilène met déjà Yan Diomandé au niveau de Lamine Yamal",
+     "url": "https://www.footmercato.net/a5208329652648932383-la-presse-madrilene-met-deja-yan-diomande-au-niveau-de-lamine-yamal",
+     "pub": "2026-11-10T08:17+00:00"
+    },
+    {
+     "medio": "Google News ES",
+     "titulo": "Steven Gerrard alucina con Lamine Yamal y lo compara con Messi y Cristiano Ronaldo: \"Está más avanzado que ellos a su edad\"",
+     "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPQzlpSDVtZ3hCU3NnZl95MDBKWTFUVHhyVldTY3laX0FOamFsWF9lQTk5alJCaE9fMmZUTkhtU2xhaDJXOGV4Y09fYm43Y29ndWxpLTRWQTgwenM1eWZERGRuTlE0VUFwTEpJNmtfSDJzb0UxNHhac2F0c25obEpKV3c0QXM0cExEVEVCNVR2eUVjTVlmZWhYQVlWdDYzZzNPMlN1MkpuMzB3dUxtcjh2RXdzb1hEeURDdTJONzRPanFwZjAwNjd1Y0swbDJKVkxsRGIyOTM1TjJCdjI2ak9WVjZmWDdQenVsM2p2eDFKSmNDNjREOE1aQU5jbE1IQQ?oc=5",
+     "pub": "2026-11-10T17:56+00:00"
     }
    ]
   },
@@ -1505,6 +2197,94 @@
    ]
   },
   {
+   "tema": "Golden",
+   "medios": 7,
+   "lista_medios": [
+    "AS",
+    "Foot Mercato",
+    "Kicker",
+    "L'Equipe",
+    "Mundo Deportivo",
+    "Record",
+    "Yahoo"
+   ],
+   "primera_vez": "2026-11-09T16:47+00:00",
+   "titulares": [
+    {
+     "medio": "Yahoo",
+     "titulo": "🚨 Pau Cubarsí crowned Golden Boy 2026",
+     "url": "https://sports.yahoo.com/articles/pau-cubars-crowned-golden-boy-155200306.html",
+     "pub": "2026-11-09T15:52+00:00"
+    },
+    {
+     "medio": "Yahoo",
+     "titulo": "Pau Cubarsí wins the 2026 Golden Boy award",
+     "url": "https://sports.yahoo.com/articles/pau-cubars-wins-2026-golden-155100538.html",
+     "pub": "2026-11-09T15:51+00:00"
+    },
+    {
+     "medio": "AS",
+     "titulo": "Cubarsí se viste de oro y se lleva el Golden Boy",
+     "url": "https://as.com/futbol/internacional/cubarsi-se-viste-de-oro-y-se-lleva-el-golden-boy-f202611-n/",
+     "pub": "2026-11-09T15:13+00:00"
+    },
+    {
+     "medio": "AS",
+     "titulo": "¿Qué fue de los otros ganadores del Golden Boy?",
+     "url": "https://as.com/futbol/internacional/que-fue-de-los-otros-ganadores-del-golden-boy-f202611-n/",
+     "pub": "2026-11-09T15:16+00:00"
+    },
+    {
+     "medio": "Mundo Deportivo",
+     "titulo": "Schröder, premio Golden Girl 2026",
+     "url": "https://www.mundodeportivo.com/futbol/real-madrid/20261109/1004249128/schroeder-premio-golden-girl-2026.html",
+     "pub": ""
+    },
+    {
+     "medio": "Mundo Deportivo",
+     "titulo": "El palmarés del premio Golden Boy tras ganar Cubarsí",
+     "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261109/1004249091/palmares-premio-golden-boy-ganar-cubarsi.html",
+     "pub": ""
+    },
+    {
+     "medio": "Mundo Deportivo",
+     "titulo": "Oficial: Cubarsí, Golden Boy 2026",
+     "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261109/1004249074/oficial-cubarsi-golden-boy-2026.html",
+     "pub": ""
+    },
+    {
+     "medio": "Kicker",
+     "titulo": "Cubarsi gewinnt \"Golden Boy\" 2026",
+     "url": "https://www.kicker.de/cubarsi-gewinnt-golden-boy-2026-1270214/artikel#omrss",
+     "pub": "2026-11-09T16:27+00:00"
+    },
+    {
+     "medio": "Kicker",
+     "titulo": "\"Golden Boy\"-Award: Das sind Cubarsis Vorgänger",
+     "url": "https://www.kicker.de/golden-boy-award-das-sind-cubarsis-vorgaenger-789831/slideshow#omrss",
+     "pub": "2026-11-09T16:25+00:00"
+    },
+    {
+     "medio": "L'Equipe",
+     "titulo": "Deuxième meilleur jeune talent masculin derrière Lamine Yamal lors de la cérémonie du Ballon d'Or 2026, Pau Cubarsi a été sacré Golden Boy",
+     "url": "https://www.lequipe.fr/Football/Actualites/Deuxieme-meilleur-jeune-talent-masculin-derriere-lamine-yamal-lors-de-la-ceremonie-du-ballon-d-or-2026-pau-cubarsi-a-ete-sacre-golden-boy/1742536#at_medium=RSS_feeds",
+     "pub": "2026-11-09T16:22+00:00"
+    },
+    {
+     "medio": "Foot Mercato",
+     "titulo": "Erling Haaland sacré Golden Player 2026",
+     "url": "https://www.footmercato.net/a567856036960449060-erling-haaland-sacre-golden-player-2026",
+     "pub": "2026-11-09T16:22+00:00"
+    },
+    {
+     "medio": "Foot Mercato",
+     "titulo": "Pau Cubarsi remporte le Golden Boy 2026 !",
+     "url": "https://www.footmercato.net/a2251432396221468185-pau-cubarsi-remporte-le-golden-boy-2026",
+     "pub": "2026-11-09T15:38+00:00"
+    }
+   ]
+  },
+  {
    "tema": "Atlético",
    "medios": 7,
    "lista_medios": [
@@ -1512,9 +2292,9 @@
     "Google News AR",
     "Google News ES",
     "Infobae",
-    "L'Equipe",
     "Mundo Deportivo",
-    "Ole"
+    "Ole",
+    "Record"
    ],
    "primera_vez": "2026-11-09T16:47+00:00",
    "titulares": [
@@ -1525,22 +2305,10 @@
      "pub": "2026-11-09T14:06+00:00"
     },
     {
-     "medio": "L'Equipe",
-     "titulo": "Auteur d'un doublé face à l'Atlético de Madrid, Fermin Lopez est un joyau dans l'ombre des stars du FC Barcelone",
-     "url": "https://www.lequipe.fr/Football/Actualites/Auteur-d-un-double-face-a-l-atletico-de-madrid-fermin-lopez-est-un-joyau-dans-l-ombre-des-stars-du-fc-barcelone/1742415#at_medium=RSS_feeds",
-     "pub": "2026-11-09T06:25+00:00"
-    },
-    {
      "medio": "Foot Mercato",
      "titulo": "Atlético : Diego Simeone vole au secours de Julián Alvarez",
      "url": "https://www.footmercato.net/a1463291974354114199-atletico-diego-simeone-vole-au-secours-de-julian-alvarez",
      "pub": "2026-11-09T13:36+00:00"
-    },
-    {
-     "medio": "Foot Mercato",
-     "titulo": "Atlético : la soirée catastrophique de Julian Alvarez",
-     "url": "https://www.footmercato.net/a894460135254685602-atletico-la-soiree-catastrophique-de-julian-alvarez",
-     "pub": "2026-11-09T07:13+00:00"
     },
     {
      "medio": "Google News AR",
@@ -1565,591 +2333,58 @@
      "titulo": "“No nos sentó bien”: la confesión de un compañero de Julián Álvarez en el Atlético de Madrid sobre su frustrada venta al Barcelona",
      "url": "https://www.infobae.com/deportes/2026/11/10/no-nos-sento-bien-la-confesion-de-un-companero-de-julian-alvarez-en-el-atletico-de-madrid-sobre-su-frustrada-venta-al-barcelona/",
      "pub": "2026-11-10T02:42+00:00"
-    }
-   ]
-  },
-  {
-   "tema": "Musiala",
-   "medios": 6,
-   "lista_medios": [
-    "BBC",
-    "Google News EN",
-    "Infobae",
-    "L'Equipe",
-    "Ole",
-    "ge.globo"
-   ],
-   "primera_vez": "2026-11-09T16:47+00:00",
-   "titulares": [
-    {
-     "medio": "BBC",
-     "titulo": "Musiala may never return to his best - Hoeness",
-     "url": "https://www.bbc.co.uk/sport/football/articles/cw78p8dp0keeo?at_medium=RSS&at_campaign=rss",
-     "pub": "2026-11-09T11:01+00:00"
     },
     {
-     "medio": "Google News EN",
-     "titulo": "Bayern Munich: Jamal Musiala may never return to best - Uli Hoeness",
-     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1feHVad3AyUWpWN3JLdVpvX2VqRWpPUmxFd1pUS05IZXNtYjhFUFk4VUdEdi1RakM3a01aV3FLQnBMWmhiSHpxbmRtdWx3Vm13T0pKVm0tdFREYkJldjlVZDMzbFJjdzBBLVJF?oc=5",
-     "pub": "2026-11-09T11:01+00:00"
+     "medio": "Mundo Deportivo",
+     "titulo": "El Atlético vuelve a pensar en un viejo objetivo para el lateral izquierdo",
+     "url": "https://www.mundodeportivo.com/futbol/atletico-madrid/20261110/1004249541/atletico-vuelve-pensar-viejo-objetivo-lateral-izquierdo.html",
+     "pub": ""
     },
     {
-     "medio": "L'Equipe",
-     "titulo": "Uli Hoeness à propos de l'état de santé de Jamal Musiala : « Il est impossible de savoir s'il retrouvera un jour son niveau »",
-     "url": "https://www.lequipe.fr/Football/Actualites/Uli-hoeness-a-propos-de-l-etat-de-sante-de-jamal-musiala-il-est-impossible-de-savoir-s-il-retrouvera-un-jour-son-niveau/1742447#at_medium=RSS_feeds",
-     "pub": "2026-11-09T10:14+00:00"
+     "medio": "Mundo Deportivo",
+     "titulo": "Las 17 leyendas del Atlético convocadas para el duelo ante el América",
+     "url": "https://www.mundodeportivo.com/futbol/atletico-madrid/20261110/1004249536/17-leyendas-atletico-convocadas-duelo-america.html",
+     "pub": ""
     },
     {
-     "medio": "ge.globo",
-     "titulo": "Presidente de honra do Bayern revela que Musiala tem doença incurável",
-     "url": "https://ge.globo.com/futebol/futebol-internacional/noticia/2026/11/09/presidente-de-honra-do-bayern-revela-doenca-incuravel-de-musiala.ghtml",
-     "pub": "2026-11-09T09:30+00:00"
+     "medio": "Google News ES",
+     "titulo": "Fútbol | Atlético Madrid vs. Barcelona",
+     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOemNzZEJwZzZRd05Sd1FxejNSY0E2Q0xxOUg5dGJQcmEwYXlRZlBhT0FsLTZlRHVuNmhHbVhWR2Y4Z2Rpd21hQUZoYjIwdDBrSmcyOXVFdkl5cVVqZVl2VE9jT0NZdUN4VTFCOGh4MU1MZ2syUEV6eDRPZ2JoS2N4Y3lfdjE2WnJHWFVaUk42dENFSjI5YW9kbWhBTHpJelpVWmxZZm42Y3k1YmxFUHRzWkNfaFBWWklFQ2ZQSG1DZFdidw?oc=5",
+     "pub": "2026-11-10T19:04+00:00"
+    },
+    {
+     "medio": "Record",
+     "titulo": "<![CDATA[ Reforço à vista: Atlético de Madrid entre Tagliafico e Sergi Cardona ]]>",
+     "url": "https://www.record.pt/internacional/paises/espanha/detalhe/reforco-a-vista-atletico-de-madrid-entre-tagliafico-e-sergi-cardona",
+     "pub": "2026-11-10T20:21+00:00"
     },
     {
      "medio": "Ole",
-     "titulo": "Preocupación en el Bayern Munich por Musiala: el presidente honorario puso en duda su continuidad",
-     "url": "https://www.ole.com.ar/futbol-internacional/jamalmusiala-bayernmunich-ulihoeness-isquiotibiales_0_dHVxsGxany.html",
-     "pub": "2026-11-10T13:50+00:00"
-    },
-    {
-     "medio": "Infobae",
-     "titulo": "Preocupación por la figura del Bayern Múnich Jamal Musiala tras la enfermedad que le detectaron: “No es fácil de curar”",
-     "url": "https://www.infobae.com/deportes/2026/11/10/preocupacion-por-la-figura-del-bayern-munich-jamal-musiala-tras-la-enfermedad-que-le-detectaron-no-es-facil-de-curar/",
-     "pub": "2026-11-10T11:24+00:00"
-    },
-    {
-     "medio": "ge.globo",
-     "titulo": "Ídolo da Alemanha detona presidente de honra do Bayern por expor doença incurável de Musiala: “Criou especulações”",
-     "url": "https://ge.globo.com/futebol/futebol-internacional/noticia/2026/11/10/idolo-da-alemanha-detona-presidente-de-honra-do-bayern-por-expor-doenca-incuravel-de-musiala-criou-especulacoes.ghtml",
-     "pub": "2026-11-10T04:02+00:00"
+     "titulo": "Néstor Lorenzo cruzó al DT de Atlético Nacional que lo criticó por la no convocatoria de Álvaro Montero",
+     "url": "https://www.ole.com.ar/futbol-internacional/america/nestor-lorenzo-respuesta-entrenador-atletico-nacional-lucas-gonzalez-polemica-citacion-alvaro-montero-boca-seleccion-colombia_0_xo0x0xgDY3.html",
+     "pub": "2026-11-10T19:44+00:00"
     }
    ]
   },
   {
-   "tema": "Brady",
-   "medios": 6,
+   "tema": "Ballon",
+   "medios": 7,
    "lista_medios": [
-    "BBC",
     "Daily Mail",
     "Guardian",
     "L'Equipe",
     "Mirror",
-    "talkSPORT"
-   ],
-   "primera_vez": "2026-11-09T16:47+00:00",
-   "titulares": [
-    {
-     "medio": "talkSPORT",
-     "titulo": "Tom Brady statement resurfaces as Birmingham City on course to prove $269m prediction",
-     "url": "https://talksport.com/football/4695056/tom-brady-statement-birmingham-city-prove-prediction/",
-     "pub": "2026-11-09T14:04+00:00"
-    },
-    {
-     "medio": "BBC",
-     "titulo": "Brady ends association with Birmingham City",
-     "url": "https://www.bbc.co.uk/sport/football/articles/cmd6d63vegd4o?at_medium=RSS&at_campaign=rss",
-     "pub": "2026-11-09T22:18+00:00"
-    },
-    {
-     "medio": "Guardian",
-     "titulo": "Tom Brady ends tenure as investor in Birmingham City after three years",
-     "url": "https://www.theguardian.com/football/2026/nov/09/tom-brady-birmingham-city-investor-sale-exit",
-     "pub": "2026-11-09T23:30+00:00"
-    },
-    {
-     "medio": "Daily Mail",
-     "titulo": "Tom Brady QUITS Birmingham City just three years after investing in the club - with Blues top of the Championship",
-     "url": "https://www.dailymail.com/sport/football/article-16279525/Tom-Brady-QUITS-Birmingham-City.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-     "pub": "2026-11-10T02:57+00:00"
-    },
-    {
-     "medio": "Mirror",
-     "titulo": "Tom Brady quits Birmingham City as club release statement confirming shock move",
-     "url": "https://www.mirror.co.uk/sport/football/news/tom-brady-quits-birmingham-city-37860431",
-     "pub": "2026-11-09T21:35+00:00"
-    },
-    {
-     "medio": "L'Equipe",
-     "titulo": "La légende de la NFL Tom Brady n'est plus actionnaire de Birmingham City",
-     "url": "https://www.lequipe.fr/Football/Actualites/La-legende-de-la-nfl-tom-brady-n-est-plus-actionnaire-de-birmingham-city/1742662#at_medium=RSS_feeds",
-     "pub": "2026-11-09T23:24+00:00"
-    }
-   ]
-  },
-  {
-   "tema": "Marc",
-   "medios": 6,
-   "lista_medios": [
-    "Foot Mercato",
-    "Google News ES",
-    "L'Equipe",
-    "Mirror",
-    "Mundo Deportivo",
-    "talkSPORT"
-   ],
-   "primera_vez": "2026-11-09T16:47+00:00",
-   "titulares": [
-    {
-     "medio": "talkSPORT",
-     "titulo": "Marc Guehi forced to withdraw from England squad and immediately replaced",
-     "url": "https://talksport.com/football/4694961/marc-guehi-injury-england-squad-dan-burn/",
-     "pub": "2026-11-09T11:56+00:00"
-    },
-    {
-     "medio": "Mirror",
-     "titulo": "Marc Guehi withdraws from England squad through injury as replacement named",
-     "url": "https://www.mirror.co.uk/sport/football/news/marc-guehi-withdraws-england-squad-37858269",
-     "pub": "2026-11-09T12:19+00:00"
-    },
-    {
-     "medio": "Mundo Deportivo",
-     "titulo": "Marc Roca, rumbo a su primera cita con España: \"Este Betis no tiene límite\"",
-     "url": "https://www.mundodeportivo.com/futbol/betis/20261109/1004249041/marc-roca-rumbo-primera-cita-espana-betis-no-limite.html",
-     "pub": ""
-    },
-    {
-     "medio": "Mundo Deportivo",
-     "titulo": "Marc Santos cumple 16 años y ya puede firmar su primer contrato profesional con el Levante",
-     "url": "https://www.mundodeportivo.com/futbol/levante/20261109/1004249027/marc-santos-cumple-16-anos-firmar-primer-contrato-profesional-levante.html",
-     "pub": ""
-    },
-    {
-     "medio": "Google News ES",
-     "titulo": "\"Ahora mismo el Real Madrid es el mejor equipo de Europa\": Marc Cucurella y su tajante afirmación sobre el debate",
-     "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNQkd2bVBBTmZwLUdRem05aUxoN0RNek1XbVJac0R4YmU3SXJSMlJUZ1JqSkFKeDMtWjZVYXlzLU1wMjJ2TTFLRHdhbjFJOXg3UjVqZlRrMjFpN3dsTjA4bUJodDhPemZGc0wyUTVHbGJYdHcyOU02aF83VDFoRFN1TklEUDUyemRRUGNPeHcxZTRhdEh1MllrbFBSNXlxWUtBMkFkLUdpb3JFRkw5TXIxdFZ3UzBzVFlxUGZRcEw3d1JRMzUwR3UwUXpjQjY3MzVxYkkxc255MXo0bXFiX005X1N1NEl2NGdtOHN5b1Rnd1g?oc=5",
-     "pub": "2026-11-10T14:46+00:00"
-    },
-    {
-     "medio": "Google News ES",
-     "titulo": "Marc Cucurella y la surrealista anécdota con José Mourinho: \"Me mandó una foto con mi pecho y su cara tatuada\"",
-     "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOSUMwZHE5bkZ2eGxlTFF1WGpFZi1HOWRmSlRVS0MwZzJ0Zy1Wa2Y5S1YxOWVub0xhdHV1dlRIVHlCN0tjX2FMb1VQUzN6Q2xSczYxN3p6bVRwLW9HZUZZcGlFX1VSdFd6UjdQU3MxYTlIeGNhenJUd3RBTm9ENncwbDhTZThOR1V2bW1GM1VESm1ONVpXVkRjZ21ZQkNwY2p3VGVjRzJ4aHBVcWtDNWlRY0kxZHZjZkk0U1czeHJxdUVrczZvSHdJNkpPcWtZZ25OeXhxZGk2czZoaGhlZGExS1l5M0lYM3BhVVJHWG8ydDl0d3B3RXAxTEd3?oc=5",
-     "pub": "2026-11-10T13:57+00:00"
-    },
-    {
-     "medio": "L'Equipe",
-     "titulo": "Pour Marc Cucurella, le Real Madrid est supérieur au PSG : « Actuellement, je dirais que c'est la meilleure équipe au monde »",
-     "url": "https://www.lequipe.fr/Football/Actualites/Pour-marc-cucurella-le-real-madrid-est-superieur-au-psg-actuellement-je-dirais-que-c-est-la-meilleure-equipe-au-monde/1742676#at_medium=RSS_feeds",
-     "pub": "2026-11-10T08:51+00:00"
-    },
-    {
-     "medio": "Foot Mercato",
-     "titulo": "Marc Cucurella : « la meilleure équipe d’Europe ? Pour l’instant, c’est le Real Madrid »",
-     "url": "https://www.footmercato.net/a7546084356084233169-marc-cucurella-la-meilleure-equipe-deurope-pour-linstant-cest-le-real-madrid",
-     "pub": "2026-11-10T10:08+00:00"
-    },
-    {
-     "medio": "Foot Mercato",
-     "titulo": "Real Madrid : Marc Cucurella croit toujours au retour à son prime de Vinicius Jr",
-     "url": "https://www.footmercato.net/a6136320552293711690-real-madrid-marc-cucurella-croit-toujours-au-retour-a-son-prime-de-vinicius-jr",
-     "pub": "2026-11-10T08:01+00:00"
-    }
-   ]
-  },
-  {
-   "tema": "Crystal",
-   "medios": 6,
-   "lista_medios": [
-    "Daily Mail",
-    "Google News EN",
-    "Mirror",
     "Planet Football",
     "Yahoo",
     "talkSPORT"
    ],
    "primera_vez": "2026-11-09T16:47+00:00",
    "titulares": [
-    {
-     "medio": "talkSPORT",
-     "titulo": "Next Crystal Palace manager odds: Former Spurs and Brentford boss odds on favourite",
-     "url": "https://talksport.com/football/4653974/next-crystal-palace-manager-odds-2026/",
-     "pub": "2026-11-09T11:12+00:00"
-    },
-    {
-     "medio": "talkSPORT",
-     "titulo": "Crystal Palace told to re-hire former manager despite eight-year Premier League hiatus",
-     "url": "https://talksport.com/football/4694331/alan-pardew-crystal-palace-next-manager-contenders/",
-     "pub": "2026-11-09T09:31+00:00"
-    },
-    {
-     "medio": "Daily Mail",
-     "titulo": "Crystal Palace will sack Pierre Sage TODAY after disastrous 16-game spell - this is how his reign fell apart over late, intense sessions, dinner at the training ground and an unpopular assistant manager",
-     "url": "https://www.dailymail.com/sport/football/article-16276215/Crystal-Palace-Pierre-Sage-sacked-training-assistant.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-     "pub": "2026-11-09T15:46+00:00"
-    },
-    {
-     "medio": "Daily Mail",
-     "titulo": "Alisson, 34, reveals he wants to STAY at Liverpool after rolling back the years against Crystal Palace... but is extending the goalkeeper's contract the right call, asks LEWIS STEELE",
-     "url": "https://www.dailymail.com/sport/football/article-16277989/alisson-liverpool-contract-stay.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-     "pub": "2026-11-09T12:06+00:00"
-    },
-    {
-     "medio": "Mirror",
-     "titulo": "Thomas Frank can rebuild reputation at Crystal Palace after Tottenham nightmare",
-     "url": "https://www.mirror.co.uk/sport/football/news/thomas-frank-can-rebuild-reputation-37859388",
-     "pub": "2026-11-09T15:34+00:00"
-    },
-    {
-     "medio": "Planet Football",
-     "titulo": "Can you name every Crystal Palace manager since 2000?",
-     "url": "https://www.planetfootball.com/quizzes/can-you-name-every-crystal-palace-manager-since-2000",
-     "pub": "2026-11-09T11:50+00:00"
-    },
-    {
-     "medio": "Google News EN",
-     "titulo": "Highlights: Crystal Palace U21s 1-1 Everton U21s",
-     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQbUlwQUdkd3RIZy03WnJ5Mm9Dbl8zcG1zMUVmeWZrNGdWX1k3ekNqeHFseW5YOFhJdVlGenViTVVsYkxBbEJ2WEs0elZiU0VrWEhjR2YtNEpYR29uaDEwZExDaVpKMWtvdXI0RlhzY3hkUC1iRkFDVExJd2NEUXpneV9TUkFBSUlMTEZCVkVsYWxxSVhWdjBkNTFRald1dw?oc=5",
-     "pub": "2026-11-09T13:21+00:00"
-    },
-    {
-     "medio": "Yahoo",
-     "titulo": "Crystal Palace favourites to sign 19-year-old midfielder",
-     "url": "https://sports.yahoo.com/articles/crystal-palace-favourites-sign-19-145000684.html",
-     "pub": "2026-11-10T14:50+00:00"
-    }
-   ]
-  },
-  {
-   "tema": "Palace",
-   "medios": 6,
-   "lista_medios": [
-    "Daily Mail",
-    "Google News EN",
-    "Mirror",
-    "Planet Football",
-    "Yahoo",
-    "talkSPORT"
-   ],
-   "primera_vez": "2026-11-09T16:47+00:00",
-   "titulares": [
-    {
-     "medio": "talkSPORT",
-     "titulo": "Next Crystal Palace manager odds: Former Spurs and Brentford boss odds on favourite",
-     "url": "https://talksport.com/football/4653974/next-crystal-palace-manager-odds-2026/",
-     "pub": "2026-11-09T11:12+00:00"
-    },
-    {
-     "medio": "talkSPORT",
-     "titulo": "Crystal Palace told to re-hire former manager despite eight-year Premier League hiatus",
-     "url": "https://talksport.com/football/4694331/alan-pardew-crystal-palace-next-manager-contenders/",
-     "pub": "2026-11-09T09:31+00:00"
-    },
-    {
-     "medio": "Daily Mail",
-     "titulo": "Crystal Palace will sack Pierre Sage TODAY after disastrous 16-game spell - this is how his reign fell apart over late, intense sessions, dinner at the training ground and an unpopular assistant manager",
-     "url": "https://www.dailymail.com/sport/football/article-16276215/Crystal-Palace-Pierre-Sage-sacked-training-assistant.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-     "pub": "2026-11-09T15:46+00:00"
-    },
-    {
-     "medio": "Daily Mail",
-     "titulo": "Alisson, 34, reveals he wants to STAY at Liverpool after rolling back the years against Crystal Palace... but is extending the goalkeeper's contract the right call, asks LEWIS STEELE",
-     "url": "https://www.dailymail.com/sport/football/article-16277989/alisson-liverpool-contract-stay.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-     "pub": "2026-11-09T12:06+00:00"
-    },
-    {
-     "medio": "Mirror",
-     "titulo": "Thomas Frank can rebuild reputation at Crystal Palace after Tottenham nightmare",
-     "url": "https://www.mirror.co.uk/sport/football/news/thomas-frank-can-rebuild-reputation-37859388",
-     "pub": "2026-11-09T15:34+00:00"
-    },
-    {
-     "medio": "Planet Football",
-     "titulo": "Man Utd, Celtic & Palace considering options? The best managers currently out of work",
-     "url": "https://www.planetfootball.com/lists-and-rankings/available-football-managers-summer-2026-ranked",
-     "pub": "2026-11-09T12:41+00:00"
-    },
-    {
-     "medio": "Planet Football",
-     "titulo": "Can you name every Crystal Palace manager since 2000?",
-     "url": "https://www.planetfootball.com/quizzes/can-you-name-every-crystal-palace-manager-since-2000",
-     "pub": "2026-11-09T11:50+00:00"
-    },
-    {
-     "medio": "Google News EN",
-     "titulo": "Highlights: Crystal Palace U21s 1-1 Everton U21s",
-     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQbUlwQUdkd3RIZy03WnJ5Mm9Dbl8zcG1zMUVmeWZrNGdWX1k3ekNqeHFseW5YOFhJdVlGenViTVVsYkxBbEJ2WEs0elZiU0VrWEhjR2YtNEpYR29uaDEwZExDaVpKMWtvdXI0RlhzY3hkUC1iRkFDVExJd2NEUXpneV9TUkFBSUlMTEZCVkVsYWxxSVhWdjBkNTFRald1dw?oc=5",
-     "pub": "2026-11-09T13:21+00:00"
-    },
-    {
-     "medio": "Yahoo",
-     "titulo": "Crystal Palace favourites to sign 19-year-old midfielder",
-     "url": "https://sports.yahoo.com/articles/crystal-palace-favourites-sign-19-145000684.html",
-     "pub": "2026-11-10T14:50+00:00"
-    }
-   ]
-  },
-  {
-   "tema": "Villa",
-   "medios": 6,
-   "lista_medios": [
-    "Daily Mail",
-    "Foot Mercato",
-    "Google News EN",
-    "Mirror",
-    "ge.globo",
-    "talkSPORT"
-   ],
-   "primera_vez": "2026-11-09T16:47+00:00",
-   "titulares": [
-    {
-     "medio": "talkSPORT",
-     "titulo": "Aston Villa chief calls out Manchester United’s last-gasp goal amid fiery rules debate",
-     "url": "https://talksport.com/football/4694301/damian-vidagany-reaction-aston-villa-patrick-dorgu-goal/",
-     "pub": "2026-11-09T08:49+00:00"
-    },
-    {
-     "medio": "Mirror",
-     "titulo": "Unai Emery butchers Man Utd 'audition' as Aston Villa collapse signals end of link",
-     "url": "https://www.mirror.co.uk/sport/football/news/unai-emery-butchers-man-utd-37858445",
-     "pub": "2026-11-09T13:46+00:00"
-    },
-    {
-     "medio": "Google News EN",
-     "titulo": "Aston Villa: Unai Emery's most entertaining post-match interviews",
-     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxObnlnWGhzYlRfbVNzUEFhdVVpNUw0RnpXa0hTX0UzS3hhZDNtYV9XaWJNUlpUMDZTaEQzejhrRUh1d1VrUHBSc0dCTm02c0g2VExrUFZOaFV2M2xkdjFRdVVLdWMxOFJ2QUhzbXdTVTQ0RF9aM29MaEctdUpUZHgtUno1WURZVzFTY2cxMDNlZmI2YmM5dG1kYzA1aXlKTXRoc2ZB?oc=5",
-     "pub": "2026-11-09T13:18+00:00"
-    },
-    {
-     "medio": "Google News EN",
-     "titulo": "Manchester United, Aston Villa and the unseriousness of a 4-4 draw",
-     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNYUdGdlJTUXdPUGQ2cWJKSVk0U2ExYm5fbTN6dHdYa0F5QUJkYUNRYVk3Z01ZeHB4SUZ5WGxrQ2wyek5GYzJIbnMzYVYtU1pZcWVBVFNPZ1NJRWMwRVdobkFsOTNHUy15bzVTYzd5TDhONngzRjhRQ21QOFU2Zll6cnF4azVLZFpNY0R2WHNYajBRdXUyVFYzOUNFVlBsSjV6dkJKbWln?oc=5",
-     "pub": "2026-11-09T16:41+00:00"
-    },
-    {
-     "medio": "Foot Mercato",
-     "titulo": "Aston Villa : Unai Emery explique pourquoi il a quitté le terrain",
-     "url": "https://www.footmercato.net/a5534693544661442175-aston-villa-unai-emery-explique-pourquoi-il-a-quitte-le-terrain",
-     "pub": "2026-11-09T10:20+00:00"
-    },
-    {
-     "medio": "Daily Mail",
-     "titulo": "Rio Ferdinand claps back at fans mocking him for celebrating Man United's late equaliser against Aston Villa which left them in the relegation zone",
-     "url": "https://www.dailymail.com/sport/football/article-16279149/Rio-Ferdinand-fans-mocking-celebrating-Man-United.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-     "pub": "2026-11-10T09:16+00:00"
-    },
-    {
-     "medio": "ge.globo",
-     "titulo": "Villa Nova vence Aymores, garante acesso e joga final contra Mamoré na 2ª Divisão do Mineiro sub-20",
-     "url": "https://ge.globo.com/mg/triangulo-mineiro/futebol/noticia/2026/11/10/villa-nova-vence-aymores-garante-acesso-e-joga-final-contra-mamore-na-2a-divisao-do-mineiro-sub-20.ghtml",
-     "pub": "2026-11-10T13:57+00:00"
-    }
-   ]
-  },
-  {
-   "tema": "Arsenal",
-   "medios": 6,
-   "lista_medios": [
-    "FourFourTwo",
-    "Mirror",
-    "Mundo Deportivo",
-    "Planet Football",
-    "Yahoo",
-    "ge.globo"
-   ],
-   "primera_vez": "2026-11-09T16:47+00:00",
-   "titulares": [
-    {
-     "medio": "Mirror",
-     "titulo": "Arsenal star Declan Rice reveals why he really cut back on social media",
-     "url": "https://www.mirror.co.uk/sport/football/news/arsenal-declan-rice-social-media-37859519",
-     "pub": "2026-11-09T16:38+00:00"
-    },
-    {
-     "medio": "FourFourTwo",
-     "titulo": "Arsenal set to complete THREE seismic deals before January: report",
-     "url": "https://www.fourfourtwo.com/transfer/arsenal-set-to-complete-three-seismic-deals-before-january-report",
-     "pub": "2026-11-09T12:25+00:00"
-    },
-    {
-     "medio": "Yahoo",
-     "titulo": "Arsenal monitor Leverkusen striker Kofane",
-     "url": "https://sports.yahoo.com/articles/arsenal-monitor-leverkusen-striker-kofane-154627716.html",
-     "pub": "2026-11-09T15:46+00:00"
-    },
-    {
-     "medio": "Yahoo",
-     "titulo": "Hull players outnumber Arsenal in Team of the Week after Gunners win",
-     "url": "https://sports.yahoo.com/articles/hull-players-outnumber-arsenal-team-150100829.html",
-     "pub": "2026-11-09T15:01+00:00"
-    },
-    {
-     "medio": "Planet Football",
-     "titulo": "Arsenal goalkeepers: Name all 24 to have played a Premier League game",
-     "url": "https://www.planetfootball.com/quizzes/arsenal-every-goalkeeper-played-premier-league-game",
-     "pub": "2026-11-10T14:05+00:00"
-    },
-    {
-     "medio": "Yahoo",
-     "titulo": "18yo Arsenal international pulls out of break with injury",
-     "url": "https://sports.yahoo.com/articles/18yo-arsenal-international-pulls-break-140100518.html",
-     "pub": "2026-11-10T14:01+00:00"
-    },
-    {
-     "medio": "Yahoo",
-     "titulo": "Atletico pursue Zubimendi as Arsenal consider swap deal",
-     "url": "https://sports.yahoo.com/articles/atletico-pursue-zubimendi-arsenal-consider-130100706.html",
-     "pub": "2026-11-10T13:01+00:00"
-    },
-    {
-     "medio": "Mundo Deportivo",
-     "titulo": "Pere Romeu pasa de la revancha con el Arsenal: \"No se verá lo mismo que en Lisboa\"",
-     "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261110/1004249470/pere-romeu-pasa-revancha-arsenal-no-vera-lisboa.html",
-     "pub": ""
-    },
-    {
-     "medio": "Mundo Deportivo",
-     "titulo": "El Femení prepara el duelo contra el Arsenal",
-     "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261110/1004249454/femeni-prepara-duelo-arsenal.html",
-     "pub": ""
-    },
-    {
-     "medio": "ge.globo",
-     "titulo": "Efeito Arsenal: por que Pedro Emanuel citou clube inglês após a eliminação do Vasco na Copa do Brasil",
-     "url": "https://ge.globo.com/futebol/times/vasco/noticia/2026/11/10/efeito-arsenal-por-que-pedro-emanuel-citou-clube-ingles-apos-a-eliminacao-do-vasco-na-copa-do-brasil.ghtml",
-     "pub": "2026-11-10T13:00+00:00"
-    },
-    {
-     "medio": "ge.globo",
-     "titulo": "Seleção faz controle de carga e poupa quatro jogadores em treinamento: Raphinha, dupla do Arsenal e Vanderson",
-     "url": "https://ge.globo.com/futebol/selecao-brasileira/noticia/2026/11/10/selecao-faz-controle-de-carga-e-poupa-quatro-jogadores-em-treinamento-raphinha-dupla-do-arsenal-e-vanderson.ghtml",
-     "pub": "2026-11-10T09:58+00:00"
-    }
-   ]
-  },
-  {
-   "tema": "Lamine",
-   "medios": 6,
-   "lista_medios": [
-    "AS",
-    "Foot Mercato",
-    "L'Equipe",
-    "Mundo Deportivo",
-    "Ole",
-    "Yahoo"
-   ],
-   "primera_vez": "2026-11-09T16:47+00:00",
-   "titulares": [
-    {
-     "medio": "Yahoo",
-     "titulo": "🚨 BREAKING: Kylian Mbappé, Lamine Yamal and Lionel Messi named in FIFPRO World XI",
-     "url": "https://sports.yahoo.com/articles/breaking-kylian-mbapp-lamine-yamal-160600408.html",
-     "pub": "2026-11-09T16:06+00:00"
-    },
-    {
-     "medio": "Yahoo",
-     "titulo": "Confirmed: Lamine Yamal wins La Liga Goal of the Month award for October",
-     "url": "https://sports.yahoo.com/articles/confirmed-lamine-yamal-wins-la-144000654.html",
-     "pub": "2026-11-09T14:40+00:00"
-    },
-    {
-     "medio": "AS",
-     "titulo": "Lamine y Oyarzabal, KO para Praga: De la Fuente llama a Víctor Muñoz",
-     "url": "https://as.com/futbol/seleccion/lamine-y-oyarzabal-retrasan-su-incorporacion-a-la-concentracion-de-la-seleccion-f202611-n/",
-     "pub": "2026-11-09T10:56+00:00"
-    },
     {
      "medio": "L'Equipe",
      "titulo": "Deuxième meilleur jeune talent masculin derrière Lamine Yamal lors de la cérémonie du Ballon d'Or 2026, Pau Cubarsi a été sacré Golden Boy",
      "url": "https://www.lequipe.fr/Football/Actualites/Deuxieme-meilleur-jeune-talent-masculin-derriere-lamine-yamal-lors-de-la-ceremonie-du-ballon-d-or-2026-pau-cubarsi-a-ete-sacre-golden-boy/1742536#at_medium=RSS_feeds",
      "pub": "2026-11-09T16:22+00:00"
-    },
-    {
-     "medio": "L'Equipe",
-     "titulo": "Espagne : Lamine Yamal et Mikel Oyarzabal retardent leur arrivée en sélection et manqueront le match de Ligue des nations en Tchéquie",
-     "url": "https://www.lequipe.fr/Football/Actualites/Espagne-lamine-yamal-et-mikel-oyarzabal-retardent-leur-arrivee-en-selection-et-manqueront-le-match-de-ligue-des-nations-en-tchequie/1742465#at_medium=RSS_feeds",
-     "pub": "2026-11-09T11:18+00:00"
-    },
-    {
-     "medio": "Foot Mercato",
-     "titulo": "Espagne : Lamine Yamal va manquer le prochain match",
-     "url": "https://www.footmercato.net/a4279561171637016587-espagne-lamine-yamal-va-manquer-le-prochain-match",
-     "pub": "2026-11-09T11:14+00:00"
-    },
-    {
-     "medio": "Ole",
-     "titulo": "Lamine Yamal es baja en España para enfrentar a República Checa: ¿qué pasó con la figura del Barcelona?",
-     "url": "https://www.ole.com.ar/futbol-internacional/espana/lamineyamal-espana-barcelona-nationsleague-luisdelafuente_0_ccwCRTbJHu.html",
-     "pub": "2026-11-09T15:25+00:00"
-    },
-    {
-     "medio": "AS",
-     "titulo": "De la Fuente cuenta con Lamine Yamal ante Inglaterra",
-     "url": "https://as.com/futbol/seleccion/de-la-fuente-sobre-lamine-no-merecia-la-pena-asumir-riesgo-f202611-n/",
-     "pub": "2026-11-10T13:45+00:00"
-    },
-    {
-     "medio": "Mundo Deportivo",
-     "titulo": "'Mimos' para Lamine y Koundé sigue al margen en el último entreno de la semana",
-     "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261110/1004249478/mimos-lamine-kounde-sigue-margen-ultimo-entreno-semana.html",
-     "pub": ""
-    },
-    {
-     "medio": "Foot Mercato",
-     "titulo": "Les Bleus réagissent à la candidature de Teddy Riner, l’Espagne s’inquiète pour Lamine Yamal",
-     "url": "https://www.footmercato.net/a8614600968496932441-les-bleus-reagissent-a-la-candidature-de-teddy-riner-lespagne-sinquiete-pour-lamine-yamal",
-     "pub": "2026-11-10T09:14+00:00"
-    },
-    {
-     "medio": "Foot Mercato",
-     "titulo": "La presse madrilène met déjà Yan Diomandé au niveau de Lamine Yamal",
-     "url": "https://www.footmercato.net/a5208329652648932383-la-presse-madrilene-met-deja-yan-diomande-au-niveau-de-lamine-yamal",
-     "pub": "2026-11-10T08:17+00:00"
-    }
-   ]
-  },
-  {
-   "tema": "Yamal",
-   "medios": 6,
-   "lista_medios": [
-    "AS",
-    "Foot Mercato",
-    "L'Equipe",
-    "Ole",
-    "Planet Football",
-    "Yahoo"
-   ],
-   "primera_vez": "2026-11-09T16:47+00:00",
-   "titulares": [
-    {
-     "medio": "Yahoo",
-     "titulo": "🚨 BREAKING: Kylian Mbappé, Lamine Yamal and Lionel Messi named in FIFPRO World XI",
-     "url": "https://sports.yahoo.com/articles/breaking-kylian-mbapp-lamine-yamal-160600408.html",
-     "pub": "2026-11-09T16:06+00:00"
-    },
-    {
-     "medio": "Yahoo",
-     "titulo": "Confirmed: Lamine Yamal wins La Liga Goal of the Month award for October",
-     "url": "https://sports.yahoo.com/articles/confirmed-lamine-yamal-wins-la-144000654.html",
-     "pub": "2026-11-09T14:40+00:00"
-    },
-    {
-     "medio": "L'Equipe",
-     "titulo": "Deuxième meilleur jeune talent masculin derrière Lamine Yamal lors de la cérémonie du Ballon d'Or 2026, Pau Cubarsi a été sacré Golden Boy",
-     "url": "https://www.lequipe.fr/Football/Actualites/Deuxieme-meilleur-jeune-talent-masculin-derriere-lamine-yamal-lors-de-la-ceremonie-du-ballon-d-or-2026-pau-cubarsi-a-ete-sacre-golden-boy/1742536#at_medium=RSS_feeds",
-     "pub": "2026-11-09T16:22+00:00"
-    },
-    {
-     "medio": "L'Equipe",
-     "titulo": "Espagne : Lamine Yamal et Mikel Oyarzabal retardent leur arrivée en sélection et manqueront le match de Ligue des nations en Tchéquie",
-     "url": "https://www.lequipe.fr/Football/Actualites/Espagne-lamine-yamal-et-mikel-oyarzabal-retardent-leur-arrivee-en-selection-et-manqueront-le-match-de-ligue-des-nations-en-tchequie/1742465#at_medium=RSS_feeds",
-     "pub": "2026-11-09T11:18+00:00"
-    },
-    {
-     "medio": "Foot Mercato",
-     "titulo": "Espagne : Lamine Yamal va manquer le prochain match",
-     "url": "https://www.footmercato.net/a4279561171637016587-espagne-lamine-yamal-va-manquer-le-prochain-match",
-     "pub": "2026-11-09T11:14+00:00"
-    },
-    {
-     "medio": "Ole",
-     "titulo": "Lamine Yamal es baja en España para enfrentar a República Checa: ¿qué pasó con la figura del Barcelona?",
-     "url": "https://www.ole.com.ar/futbol-internacional/espana/lamineyamal-espana-barcelona-nationsleague-luisdelafuente_0_ccwCRTbJHu.html",
-     "pub": "2026-11-09T15:25+00:00"
-    },
-    {
-     "medio": "Planet Football",
-     "titulo": "The top goalscorers for club & country in 2026 so far: Kane, Yamal, Mbappe, Raphinha…",
-     "url": "https://www.planetfootball.com/stats-tables/2026-top-scorers-europe-club-country-list",
-     "pub": "2026-11-10T09:44+00:00"
     },
     {
      "medio": "Planet Football",
@@ -2158,215 +2393,156 @@
      "pub": "2026-11-10T09:19+00:00"
     },
     {
-     "medio": "AS",
-     "titulo": "De la Fuente cuenta con Lamine Yamal ante Inglaterra",
-     "url": "https://as.com/futbol/seleccion/de-la-fuente-sobre-lamine-no-merecia-la-pena-asumir-riesgo-f202611-n/",
-     "pub": "2026-11-10T13:45+00:00"
+     "medio": "Guardian",
+     "titulo": "Rio Ngumoha ready to make England splash as he spells out Ballon d’Or ambition",
+     "url": "https://www.theguardian.com/football/2026/nov/10/rio-ngumoha-ready-to-make-england-splash-as-he-spells-out-ballon-dor-ambition",
+     "pub": "2026-11-10T19:00+00:00"
     },
     {
-     "medio": "Foot Mercato",
-     "titulo": "Les Bleus réagissent à la candidature de Teddy Riner, l’Espagne s’inquiète pour Lamine Yamal",
-     "url": "https://www.footmercato.net/a8614600968496932441-les-bleus-reagissent-a-la-candidature-de-teddy-riner-lespagne-sinquiete-pour-lamine-yamal",
-     "pub": "2026-11-10T09:14+00:00"
-    },
-    {
-     "medio": "Foot Mercato",
-     "titulo": "La presse madrilène met déjà Yan Diomandé au niveau de Lamine Yamal",
-     "url": "https://www.footmercato.net/a5208329652648932383-la-presse-madrilene-met-deja-yan-diomande-au-niveau-de-lamine-yamal",
-     "pub": "2026-11-10T08:17+00:00"
-    }
-   ]
-  },
-  {
-   "tema": "Zidane",
-   "medios": 6,
-   "lista_medios": [
-    "Foot Mercato",
-    "Kicker",
-    "L'Equipe",
-    "Mundo Deportivo",
-    "Ole",
-    "Record"
-   ],
-   "primera_vez": "2026-11-09T16:47+00:00",
-   "titulares": [
-    {
-     "medio": "Mundo Deportivo",
-     "titulo": "Baja de última hora en la Francia de Zidane",
-     "url": "https://www.mundodeportivo.com/futbol/uefa-nations-league/20261109/1004249063/baja-ultima-hora-francia-zidane.html",
-     "pub": ""
-    },
-    {
-     "medio": "Kicker",
-     "titulo": "Überraschung im Frankreich-Kader: Zidane nominiert Kumbedi nach",
-     "url": "https://www.kicker.de/ueberraschung-im-frankreich-kader-zidane-nominiert-kumbedi-nach-1270133/artikel#omrss",
-     "pub": "2026-11-09T13:29+00:00"
-    },
-    {
-     "medio": "L'Equipe",
-     "titulo": "Joueur de Wolfsburg en D2 allemande, Saël Kumbedi convoqué par Zinédine Zidane pour remplacer Pierre Kalulu dans le groupe de l'équipe de France",
-     "url": "https://www.lequipe.fr/Football/Actualites/Sael-kumbedi-convoque-par-zinedine-zidane-pour-remplacer-pierre-kalulu-dans-le-groupe-de-l-equipe-de-france/1742480#at_medium=RSS_feeds",
-     "pub": "2026-11-09T12:35+00:00"
-    },
-    {
-     "medio": "Foot Mercato",
-     "titulo": "Real Madrid : José Mourinho fait mieux que Guardiola, Ancelotti et Zidane",
-     "url": "https://www.footmercato.net/a8100405535269571440-real-madrid-jose-mourinho-fait-mieux-que-guardiola-ancelotti-et-zidane",
-     "pub": "2026-11-09T12:42+00:00"
-    },
-    {
-     "medio": "Foot Mercato",
-     "titulo": "Équipe de France : Saël Kumbedi appelé par Zidane pour remplacer Kalulu",
-     "url": "https://www.footmercato.net/a8929285272584952834-equipe-de-france-sael-kumbedi-appele-par-zidane-pour-remplacer-kalulu",
-     "pub": "2026-11-09T12:16+00:00"
-    },
-    {
-     "medio": "Foot Mercato",
-     "titulo": "Real Madrid : José Mourinho envoie un avertissement à Zinedine Zidane et Carlo Ancelotti",
-     "url": "https://www.footmercato.net/a3296553617012930372-real-madrid-jose-mourinho-envoie-un-avertissement-a-zinedine-zidane-et-carlo-ancelotti",
-     "pub": "2026-11-09T11:01+00:00"
-    },
-    {
-     "medio": "Ole",
-     "titulo": "Sorpresa en Francia: Zinedine Zidane convocó a la selección a un jugador de la Segunda División de Alemania",
-     "url": "https://www.ole.com.ar/futbol-internacional/francia/zinedinezidane-saelkumbedi-francia-wolfsburgo-pierrekalulu_0_wqkJEHM8f6.html",
-     "pub": "2026-11-09T16:17+00:00"
-    },
-    {
-     "medio": "Kicker",
-     "titulo": "Kumbedi bei Zidane: Misstöne, Millionen und Heckings Forderung",
-     "url": "https://www.kicker.de/kumbedi-bei-zidane-misstoene-millionen-und-heckings-forderung-1270388/artikel#omrss",
-     "pub": "2026-11-10T11:43+00:00"
-    },
-    {
-     "medio": "L'Equipe",
-     "titulo": "Kumbedi : « Être entraîné par Zidane, c’est formidable »",
-     "url": "https://www.lequipe.fr/Football/Video/Bleus-sael-kumbedi-apres-son-premier-entrainement-avec-les-bleus-etre-entraine-par-zidane-c-est-formidable/20245245#at_medium=RSS_feeds",
-     "pub": "2026-11-09T22:37+00:00"
-    },
-    {
-     "medio": "L'Equipe",
-     "titulo": "Des nouveaux et des sourires : l'acte II de Zinédine Zidane, qui a retrouvé les Bleus ce lundi à Clairefontaine, est lancé",
-     "url": "https://www.lequipe.fr/Football/Actualites/Des-nouveaux-et-des-sourires-l-acte-ii-de-zinedine-zidane-qui-a-retrouve-les-bleus-ce-lundi-a-clairefontaine-est-lance/1742638#at_medium=RSS_feeds",
-     "pub": "2026-11-09T20:44+00:00"
-    },
-    {
-     "medio": "Foot Mercato",
-     "titulo": "Équipe de France : Zinedine Zidane prépare un plan spécial pour Kylian Mbappé",
-     "url": "https://www.footmercato.net/a4319406881823602916-equipe-de-france-zinedine-zidane-prepare-un-plan-special-pour-kylian-mbappe",
-     "pub": "2026-11-10T07:15+00:00"
-    },
-    {
-     "medio": "Record",
-     "titulo": "<![CDATA[ Kumbedi vive sonho na seleção francesa: «Ser convocado por Zidane aquece-me o coração» ]]>",
-     "url": "https://www.record.pt/internacional/competicoes-de-selecoes/liga-das-nacoes/detalhe/kumbedi-vive-sonho-na-selecao-francesa-ser-convocado-por-zidane-aquece-me-coracao",
-     "pub": "2026-11-10T13:27+00:00"
-    }
-   ]
-  },
-  {
-   "tema": "Alisson",
-   "medios": 5,
-   "lista_medios": [
-    "BBC",
-    "Daily Mail",
-    "Mirror",
-    "Sky Sports",
-    "Yahoo"
-   ],
-   "primera_vez": "2026-11-09T16:47+00:00",
-   "titulares": [
-    {
-     "medio": "BBC",
-     "titulo": "Alisson wants to sign new Liverpool contract",
-     "url": "https://www.bbc.co.uk/sport/football/articles/cw62ypepq2m7o?at_medium=RSS&at_campaign=rss",
-     "pub": "2026-11-09T12:00+00:00"
-    },
-    {
-     "medio": "Sky Sports",
-     "titulo": "'My will is to stay' - Alisson wants new Liverpool contract",
-     "url": "https://www.skysports.com/football/news/12040/13610181/alisson-liverpool-goalkeeper-wants-to-stay-at-anfield-beyond-contract-expiry-at-the-end-of-this-season",
-     "pub": "2026-11-09T12:38+00:00"
+     "medio": "talkSPORT",
+     "titulo": "Harry Kane suffers unprecedented snub from 2026 World XI despite Ballon d’Or glory",
+     "url": "https://talksport.com/football/4696030/harry-kane-snub-2026-world-xi-ballon-dor/",
+     "pub": "2026-11-09T17:26+00:00"
     },
     {
      "medio": "Daily Mail",
-     "titulo": "Alisson, 34, reveals he wants to STAY at Liverpool after rolling back the years against Crystal Palace... but is extending the goalkeeper's contract the right call, asks LEWIS STEELE",
-     "url": "https://www.dailymail.com/sport/football/article-16277989/alisson-liverpool-contract-stay.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-     "pub": "2026-11-09T12:06+00:00"
+     "titulo": "From crying kid to Ballon d'Or hopeful: How fearless Rio Ngumoha toughened up, via quitting Chelsea for Liverpool at just 15 and being shielded from 'crime and stuff' in East London",
+     "url": "https://www.dailymail.com/sport/football/article-16281739/rio-ngumoha-chelsea-liverpool-england.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+     "pub": "2026-11-10T19:00+00:00"
     },
     {
      "medio": "Mirror",
-     "titulo": "Alisson gives agent clear Liverpool instruction as goalkeeper's deal winds down",
-     "url": "https://www.mirror.co.uk/sport/football/news/alisson-liverpool-contract-future-update-37858821",
-     "pub": "2026-11-09T14:19+00:00"
+     "titulo": "Liverpool wonderkid Rio Ngumoha sets his sights on winning the Ballon d'Or",
+     "url": "https://www.mirror.co.uk/sport/football/news/liverpool-wonderkid-rio-ngumoha-sets-37863491",
+     "pub": "2026-11-10T19:00+00:00"
     },
     {
      "medio": "Yahoo",
-     "titulo": "Alisson warning to Juventus, declaring ‘my will is to stay’ at Liverpool",
-     "url": "https://sports.yahoo.com/articles/alisson-warning-juventus-declaring-stay-153400493.html",
-     "pub": "2026-11-09T15:34+00:00"
+     "titulo": "Marc Bernal admits Rodri’s arrival makes Barcelona midfield competition tougher: ‘When you sign a Ballon d’Or winner…’",
+     "url": "https://sports.yahoo.com/articles/marc-bernal-admits-rodri-arrival-200500796.html",
+     "pub": "2026-11-10T20:05+00:00"
     }
    ]
   },
   {
-   "tema": "Chelsea",
-   "medios": 5,
+   "tema": "Monaco",
+   "medios": 7,
    "lista_medios": [
     "BBC",
     "Daily Mail",
-    "Football Italia",
+    "Foot Mercato",
+    "FourFourTwo",
     "Google News EN",
-    "Sky Sports"
+    "L'Equipe",
+    "Mirror"
    ],
    "primera_vez": "2026-11-09T16:47+00:00",
    "titulares": [
     {
+     "medio": "L'Equipe",
+     "titulo": "« Nous traversons une mauvaise passe » : Monaco face à ses lacunes, sans victoire depuis cinq matches en Ligue 1",
+     "url": "https://www.lequipe.fr/Football/Actualites/-nous-traversons-une-mauvaise-passe-monaco-face-a-ses-lacunes-sans-victoire-depuis-cinq-matches-en-ligue-1/1742488#at_medium=RSS_feeds",
+     "pub": "2026-11-09T13:46+00:00"
+    },
+    {
+     "medio": "Foot Mercato",
+     "titulo": "Monaco : le CNE saisit la commission de discipline après la célébration de Coulibaly",
+     "url": "https://www.footmercato.net/a8417410225331431326-monaco-le-cne-saisit-la-commission-de-discipline-apres-la-celebration-de-coulibaly",
+     "pub": "2026-11-09T11:56+00:00"
+    },
+    {
+     "medio": "Daily Mail",
+     "titulo": "Man United chiefs set for Monaco summit TOMORROW to decide Michael Carrick's fate... with manager taking training today despite facing the sack",
+     "url": "https://www.dailymail.com/sport/football/article-16280515/michael-carrick-manchester-united-sacking.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+     "pub": "2026-11-10T14:07+00:00"
+    },
+    {
+     "medio": "Mirror",
+     "titulo": "Michael Carrick LIVE: Man Utd chiefs set for crunch Monaco meeting as Mauricio Pochettino tops shortlist",
+     "url": "https://www.mirror.co.uk/sport/football/news/carrick-sack-live-man-utd-37860771",
+     "pub": "2026-11-10T14:47+00:00"
+    },
+    {
+     "medio": "Mirror",
+     "titulo": "Michael Carrick's Man Utd future to be decided in Monaco meeting with Sir Jim Ratcliffe",
+     "url": "https://www.mirror.co.uk/sport/football/news/man-utd-michael-carrick-sack-37861790",
+     "pub": "2026-11-10T11:24+00:00"
+    },
+    {
+     "medio": "FourFourTwo",
+     "titulo": "Manchester United chiefs to discuss relegation plan at Michael Carrick summit in Monaco",
+     "url": "https://www.fourfourtwo.com/team/manchester-united-chiefs-to-discuss-relegation-plan-at-michael-carrick-summit-in-monaco",
+     "pub": "2026-11-10T15:00+00:00"
+    },
+    {
      "medio": "BBC",
-     "titulo": "Chelsea staff warned over Fantasy Premier League use",
-     "url": "https://www.bbc.co.uk/sport/football/articles/c98rzr51rlvpo?at_medium=RSS&at_campaign=rss",
-     "pub": "2026-11-09T12:41+00:00"
-    },
-    {
-     "medio": "Daily Mail",
-     "titulo": "Xabi Alonso was brought in to end the chaos at Chelsea and he is failing. PLUS: Football's most vanilla pundit gives out-of-his-depth Michael Carrick an easy ride: IAN LADYMAN on My Football Weekend",
-     "url": "https://www.dailymail.com/sport/football/article-16277759/xabi-alonso-chelsea-carrick-premier-league.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-     "pub": "2026-11-09T12:55+00:00"
-    },
-    {
-     "medio": "Sky Sports",
-     "titulo": "Merson: If Chelsea don't get Champions League it's a massive failure",
-     "url": "https://www.skysports.com/football/news/12040/13610138/chelsea-not-showing-the-consistency-to-get-champions-league-football-this-season-says-paul-merson",
-     "pub": "2026-11-10T10:00+00:00"
-    },
-    {
-     "medio": "Daily Mail",
-     "titulo": "Why Chelsea aren't European contenders, Tottenham aren't 'back'... and Brighton and Bournemouth are in a title race: What you should believe and what's just a mirage after 10 Premier League games - and the proof behind it",
-     "url": "https://www.dailymail.com/sport/football/article-16277687/Premier-League-Chelsea-Tottenham-Brighton-Bournemouth-real-mirage.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-     "pub": "2026-11-10T08:11+00:00"
-    },
-    {
-     "medio": "Daily Mail",
-     "titulo": "The numbers suggest Chelsea are pushovers as they slide down the Premier League table... and club legend GUS POYET says it's time to prove they're up for a fight",
-     "url": "https://www.dailymail.com/sport/football/article-16268099/Morgan-Rogers-Chelsea-Sunderland-willingness-compete.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-     "pub": "2026-11-10T12:43+00:00"
-    },
-    {
-     "medio": "Daily Mail",
-     "titulo": "Michael Carrick facing the sack at Man United: Mauricio Pochettino the frontrunner to replace beleaguered boss - but chiefs face splashing out £7MILLION for former Spurs and Chelsea coach",
-     "url": "https://www.dailymail.com/sport/football/article-16279641/Michael-Carrick-sack-Man-United-Mauricio-Pochettino.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-     "pub": "2026-11-10T07:44+00:00"
+     "titulo": "The Monaco summit that will decide the future of Carrick and Man Utd",
+     "url": "https://www.bbc.co.uk/sport/football/articles/c8wy9yzyzxnko?at_medium=RSS&at_campaign=rss",
+     "pub": "2026-11-10T18:12+00:00"
     },
     {
      "medio": "Google News EN",
-     "titulo": "Chelsea not showing the consistency to get Champions League football this season, says Paul Merson",
-     "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPSC1PR2o3MVZTUFhhblNseEttVkZwRl9tdnlHVVcwLTBzOWU2QmNNOTBHYUtSQjlBcjV6UkY1UWZqV0pxb1B0ZkM3NTBSLWZJemdTYTYzU2hES19uR2h4Y0FMZWRZWGF6NzBPUnUyVkpjNWN6YU5rTXE3ZlpxR2xGNzA1VGFjeU9LWXY5cWlNNnhSTTdsbmdTWGZlQzlZOEdZTDhzTzZGSEtrTy1CTk1VN0NtSHI2Rkl6cFB5eldMY1l6TzZKNEU0YkN1SkRQT2RpV194RUlLUjU3OXAzSERZ?oc=5",
-     "pub": "2026-11-10T12:52+00:00"
+     "titulo": "Manchester United: Michael Carrick future to be discussed at Monaco meeting",
+     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE4zODhtaVNRcGUzb1lsOG5sRDJvQlBZU2N2RUpoSWtKUzlFLWpWVWhrNi1YemxORlhENVZsZ2RyT3QxOFdjSFl1cUhCQlN0OEZXOWVSeVQyN1Z5Qm13OEU5WldpLUMwdng4cnM4?oc=5",
+     "pub": "2026-11-10T18:12+00:00"
+    }
+   ]
+  },
+  {
+   "tema": "Bellingham",
+   "medios": 7,
+   "lista_medios": [
+    "AS",
+    "BBC",
+    "Daily Mail",
+    "Foot Mercato",
+    "FourFourTwo",
+    "Google News ES",
+    "Mundo Deportivo"
+   ],
+   "primera_vez": "2026-11-10T15:10+00:00",
+   "titulares": [
+    {
+     "medio": "BBC",
+     "titulo": "Kane and Bellingham air strong views in England World Cup review",
+     "url": "https://www.bbc.co.uk/sport/football/articles/cqr7y7813l04o?at_medium=RSS&at_campaign=rss",
+     "pub": "2026-11-09T17:30+00:00"
     },
     {
-     "medio": "Football Italia",
-     "titulo": "Como and Milan target Chelsea full-back Malo Gusto",
-     "url": "https://football-italia.net/como-and-milan-target-chelsea-malo-gusto/",
-     "pub": "2026-11-10T12:45+00:00"
+     "medio": "FourFourTwo",
+     "titulo": "Manchester United could bring Jobe Bellingham in as Bruno Fernandes replacement: report",
+     "url": "https://www.fourfourtwo.com/transfer/manchester-united-could-bring-jobe-bellingham-in-as-bruno-fernandes-replacement-report",
+     "pub": "2026-11-09T17:24+00:00"
+    },
+    {
+     "medio": "AS",
+     "titulo": "Bellingham JR es el siguiente",
+     "url": "https://as.com/futbol/internacional/jobe-tira-la-puerta-abajo-f202611-n/",
+     "pub": "2026-11-10T10:03+00:00"
+    },
+    {
+     "medio": "Foot Mercato",
+     "titulo": "Real Madrid : Vinicius Jr agacerait beaucoup Jude Bellingham",
+     "url": "https://www.footmercato.net/a9021501201295546644-real-madrid-vinicius-jr-agacerait-beaucoup-jude-bellingham",
+     "pub": "2026-11-10T06:31+00:00"
+    },
+    {
+     "medio": "Daily Mail",
+     "titulo": "Jude Bellingham says he 'wants to be a gentleman' but admits he doesn't feel 'mature' because 'I can't cook, I can't drive and I rely on my family' in new smouldering photoshoot",
+     "url": "https://www.dailymail.com/sport/football/article-16281645/jude-bellingham-gentleman-family-interview.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+     "pub": "2026-11-10T18:36+00:00"
+    },
+    {
+     "medio": "Mundo Deportivo",
+     "titulo": "Bellingham: \"La temporada pasada sentí que me estaba consumiendo\"",
+     "url": "https://www.mundodeportivo.com/futbol/real-madrid/20261110/1004249585/bellingham-personal-temporada-pasada-senti-me-consumiendo.html",
+     "pub": ""
+    },
+    {
+     "medio": "Google News ES",
+     "titulo": "Bellingham admite que un psicólogo le salvó: «El fútbol me absorbía, me ponía muy tenso y estresado»",
+     "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQWUYwSzhxWk9hTV95eFJmRmI0WWZPdzNZTi13a2Y5TVhBS1ZOaTJVRjU1cjlTbjUyemVNNWhJT3lzUUhHd1psRTlYcjZQaGZjaFZJRVJvVlhlRVVIOUppRFlwMnRmT2gtTnpaWnFqVjZTc3VUUERXUjNHTU1fU3l4TGJnS3RvUS10bEY5R09EUDM1dUNfTG82OVhwVkViQzdmREpVb3J6V25GQW5PZGd0UERGR2JoVDNLeDQyUC11WkNZVi1jam1JaUFsVHNBc05BZkHSAdcBQVVfeXFMUGgxaXpLdkFkenkxWHk3QTB4dHZKaE11ckcxdHNqZWFCNDB4WTdYeVEtV19pbDhsVTFuU0p3dXZJX2lTbGJ4NUp5elZncTlxc2tPbkEyODJxbnBOQTNfdmQzRnVCSFBMZlowNEVMMlFFWkdaMlc3VFNYYzJvcXVtVXRKbXdxRWU4RnYtenRuZHRnVTZyNTUyNG5ua0p6ZUVNRnRYQ1RCTUUwcUFnbDY5LU9Wd19EeTIwRkFLNnhVc1RfazF2OHNlWmFNMTkwc2xmX2RDU1NlRzQ?oc=5",
+     "pub": "2026-11-10T16:19+00:00"
     }
    ]
   }
