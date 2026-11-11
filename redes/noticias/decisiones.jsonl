@@ -213,3 +213,4 @@
 {"t": "2026-11-11T22:11+00:00", "estado": "descartar", "temas": ["Kane"], "clave": "kane-ballon-dor-wembley", "motivo": "falta question"}
 {"t": "2026-11-11T22:11+00:00", "estado": "revisar", "temas": ["McTominay"], "clave": "mctominay-heart-treatment", "motivo": "categoría sensible: injury"}
 {"t": "2026-11-11T22:12+00:00", "estado": "publicado", "temas": ["Madrid"], "clave": "real-madrid-summer-exits", "video": "https://raw.githubusercontent.com/oundialae-debug/live/main/media/noticias/2026-11-11_2311_real-madrid-summer-exits.mp4"}
+{"t": "2026-11-11T22:12+00:00", "estado": "revisar", "temas": ["Arsenal"], "clave": "arsenal-goalkeepers-record", "motivo": "palabra sensible en los titulares: bombshell"}

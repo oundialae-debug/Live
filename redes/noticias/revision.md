@@ -882,3 +882,21 @@
 - AS: Aguirre, sobre las palabras de Mourinho: “Yo tengo buenos jugadores y no se las tomaron como algo personal”
 - Mundo Deportivo: Aguirre responde a Mourinho
 
+## 11/11 23:11 · McTominay’s heart shock · revisar
+- Motivo: categoría sensible: injury
+- Temas: McTominay
+- Yahoo: McTominay: ‘Napoli gave me the foundation to focus, and I have to thank Conte’
+- BBC: McTominay reveals heart treatment at World Cup
+- Guardian: McTominay reveals heart treatment two days before Scotland’s World Cup opener
+- Sky Sports: McTominay had heart 'shocked' two days before Scotland's World Cup opener
+- talkSPORT: ‘Put to sleep’ – Scott McTominay had his heart ‘shocked’ two days before World Cup opener
+
+## 11/11 23:12 · Arsenal's 24 PL goalkeepers · revisar
+- Motivo: palabra sensible en los titulares: bombshell
+- Temas: Arsenal
+- Planet Football: Arsenal goalkeepers: Name all 24 to have played a Premier League game
+- Yahoo: 18yo Arsenal international pulls out of break with injury
+- Yahoo: Atletico pursue Zubimendi as Arsenal consider swap deal
+- Mundo Deportivo: Pere Romeu pasa de la revancha con el Arsenal: "No se verá lo mismo que en Lisboa"
+- Mundo Deportivo: El Femení prepara el duelo contra el Arsenal
+
