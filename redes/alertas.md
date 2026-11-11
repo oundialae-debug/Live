@@ -1,23 +1,26 @@
-# Alertas de noticias (2026-11-10 21:24 UTC)
+# Alertas de noticias (2026-11-11 14:40 UTC)
 
 Temas en >= 7 medios. La rutina diaria y cualquier sesión deben mirar esto ANTES de elegir tema (regla 6: la noticia que todos comentan va primero).
 
 ## Grandes SIN publicar en las últimas 48 h (hacer post si pasa el listón: nada repetido, foto del momento)
 
-- **Madrid** (14 medios): Carrick on the brink and Madrid on the charge under Mourinho
-- **Carrick** (13 medios): The Monaco summit that will decide the future of Carrick and Man Utd
-- **Pochettino** (12 medios): Pochettino, Howe, Emery... or Carrick? Man Utd's managerial options
-- **Manchester** (11 medios): Inter v Manchester City: Women’s Champions League – live
-- **Man** (10 medios): The Monaco summit that will decide the future of Carrick and Man Utd
-- **McTominay** (9 medios): McTominay reveals heart treatment at World Cup
-- **England** (9 medios): Hill gets first England call-up as Konsa cover
-- **Mauricio** (9 medios): Mauricio Pochettino interested in leaving USMNT job for Manchester United
-- **Michael** (9 medios): Blame three people for Manchester United insanity but not Michael Carrick
-- **Utd** (7 medios): The Monaco summit that will decide the future of Carrick and Man Utd
-- **Chelsea** (7 medios): Chelsea play out goalless draw with Hacken
-- **Ballon** (7 medios): Rio Ngumoha ready to make England splash as he spells out Ballon d’Or ambition
-- **Liverpool** (7 medios): From crying kid to Ballon d'Or hopeful: How fearless Rio Ngumoha toughened up, via quitting Chelsea for Liverp
+- **Pochettino** (14 medios): Pochettino a decade in Man Utd's making - but Carrick deserves better
+- **England** (11 medios): Does Pickford finally face serious competition for his England place?
+- **Manchester** (11 medios): Manchester United reach framework deal with Pochettino before settling Carrick’s fate
+- **Madrid** (11 medios): Carrick on the brink and Madrid on the charge under Mourinho
+- **Carrick** (10 medios): Pochettino a decade in Man Utd's making - but Carrick deserves better
+- **Man** (10 medios): Pochettino a decade in Man Utd's making - but Carrick deserves better
+- **Arsenal** (10 medios): Arsenal eye Real's Endrick - Wednesday's gossip
+- **Liverpool** (10 medios): From Jersey to Somalia... via Liverpool & Man City
+- **Chelsea** (9 medios): Chelsea play out goalless draw with Hacken
+- **Mauricio** (9 medios): Man United reach agreement in principle with Mauricio Pochettino to spark USA uncertainty
+- **McTominay** (8 medios): McTominay reveals he had heart ‘shocked’ two days before World Cup opener
+- **Mbappé** (8 medios): 👑 Top 20 scorers: Yamal ahead of Raphinha, Sinayoko close behind Mbappé
+- **Utd** (7 medios): Pochettino ready to accept Man Utd offer to replace Carrick
+- **Inter** (7 medios): Man City thrash Inter to claim first CL win of season
+- **Bellingham** (7 medios): How England could line-up against Croatia with Jobe Bellingham debut and Jordan Pickford decision
+- **Michael** (7 medios): Blame three people for Manchester United insanity but not Michael Carrick
 
 ## Grandes ya cubiertas
 
-- Inter (7): Inter v Manchester City: Women’s Champions League – live
+- (ninguna)
