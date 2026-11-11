@@ -8,5 +8,8 @@
  "recordatorio": false,
  "musica": "hh04",
  "variante": "seg=5.0;arranque=s1;hook=pregunta;musica=hh04;formato=auto_noticia;hora=23",
- "notas": "noticia automática (IA + reglas): Guardian: Carrick on the brink and Madrid on the charge under Mourinho | Football Weekly video; Planet Football: The 5 players Real Madrid let go in the summer – & how they’re faring elsewhere"
+ "notas": "noticia automática (IA + reglas): Guardian: Carrick on the brink and Madrid on the charge under Mourinho | Football Weekly video; Planet Football: The 5 players Real Madrid let go in the summer – & how they’re faring elsewhere",
+ "estado": "enviado",
+ "buffer_id": "6af4e85cbc9f3773a1a348a9",
+ "dueAt": "2026-11-11T22:15:43+00:00"
 }
