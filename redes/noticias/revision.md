@@ -918,3 +918,21 @@
 - Sky Sports: Crystal Palace sack Sage
 - talkSPORT: Crystal Palace sack Pierre Sage with three names on shortlist to replace him
 
+## 12/11 23:26 · United eye Pochettino · revisar
+- Motivo: palabra sensible en los titulares: broken
+- Temas: Carrick, Pochettino, Manchester
+- BBC: Pochettino a decade in Man Utd's making - but Carrick deserves better
+- BBC: Pochettino ready to accept Man Utd offer to replace Carrick
+- Sky Sports: Man Utd strike Pochettino agreement as Carrick takes training
+- Daily Mail: Man United advance in talks with Mauricio Pochettino as club chiefs jet to Monaco to make final call over sacking manager Michael Carrick - with bookies suspending betting on the 54-year-old taking over
+- Mirror: Michael Carrick sack LIVE: Man Utd announcement plan as Mauricio Pochettino agreement reached
+
+## 12/11 23:26 · Mbappé doubtful for Italy · revisar
+- Motivo: categoría sensible: injury
+- Temas: Mbappé
+- Yahoo: 👑 Top 20 scorers: Yamal ahead of Raphinha, Sinayoko close behind Mbappé
+- Yahoo: Report injured Mbappé out of France squad to face Italy in Nations League
+- Mundo Deportivo: Zidane reacciona a la incertidumbre con Mbappé llamando a uno de los ojitos derechos de Luis Enrique
+- Mundo Deportivo: El Italia-Francia, en el aire para Mbappé
+- Mundo Deportivo: Mbappé, premiado por LaLiga
+
