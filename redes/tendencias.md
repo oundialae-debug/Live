@@ -1,22 +1,18 @@
-# Tendencias de fútbol (2026-11-11 22:10 UTC, Google Trends)
+# Tendencias de fútbol (2026-11-12 15:32 UTC, Google Trends)
 
 Generado por el workflow `tendencias`. Úsalo para elegir temas de memes, curiosos y jugador vs jugador.
 
 | País | Búsqueda | Tráfico | Titular |
 |---|---|---|---|
-| UK | dirk kuyt coaching staff exit | 200+ | Dirk Kuyt leaves Fenerbahce a week after defeating Liverpool |
-| Spain | el tiempo barcelona | 200+ |  |
-| Spain | petróleo crudo | 200+ | El petróleo de EEUU inunda el mercado y expulsa a la OPEP poco a poco: el 70% del nuevo crudo mundia |
-| Italy | romolo casamonica | 200+ | Il pranzo di pesce, poi l’estorsione: “Dammi 500mila euro”. Arrestato l’ex pugile Romolo Casamonica |
-| Germany | sepp blatter | 100+ | »Vielleicht sollte man Infantino einmal in die Psychiatrie schicken« |
-| USA | kamario taylor | 1000+ | Sources: Kamario Taylor finalizing deal to return to Mississippi State in '27 |
-| Brazil | arilson | 2000+ | Ídolo do Grêmio é anunciado como novo técnico de clube do Amapá |
-| Portugal | cf estrela amadora | 100+ | Clube alemão aciona Estrela da Amadora na FIFA, tricolores reagem |
-| Portugal | porto benfica hoquei | 200+ | FC Porto Benfica Jogo Campeonato |
-| Portugal | vitinha | 200+ | LaLiga lidera a representação no Fifpro World 11 2026, com cinco jogadores no onze ideal mundial |
-| Portugal | vitor roque | 500+ | Pérola de Abel que esteve na mira do Sporting tem interessados (e o Barcelona esfrega as mãos) |
-| Mexico | 13 de noviembre | 1000+ | ¿Por qué un estudio predijo el fin del mundo para este 13 de noviembre de 2026? |
-| Mexico | juventus vs ol lyonnes | 1000+ | Juventus vs OL Lyonnes: UEFA Women's Champions League stats & head-to-head |
-| Mexico | juventus femenino | 1000+ | Women´s Champions League: ¿Dónde y a qué hora ver EN VIVO Juventus vs OL Lyonnes? |
-| Mexico | apagón mundial 2026 | 500+ | ¿Habrá un apagón masivo el 17 de noviembre en México? Esto es lo que realmente ocurrirá |
-| Mexico | francia vs | 200+ | Mbappé no jugará contra Italia, confirma Zidane |
+| UK | gabriel martinelli | 200+ | Al-Hilal have already learned the Gabriel Martinelli lesson that escaped Arsenal |
+| UK | carrick man utd | 20000+ | Michael Carrick sacked: Man Utd boss goes from signing two-year deal to being sacked 15 games later |
+| Spain | selección de fútbol de inglaterra | 200+ | Inglaterra - Croacia: alineaciones, horario, dónde ver, pronósticos y estadísticas |
+| Spain | festividad | 500+ | Aún queda el puente de diciembre: recomendaciones viajeras según tus gustos |
+| Germany | türkiye maci | 500+ | A Millî Takımımız, UEFA Uluslar A Ligi'nde Belçika Karşısında |
+| France | serpaize | 200+ | Six blessés dans un grave accident de la route près de Vienne, deux enfants transportés au CHU de Ly |
+| Argentina | jugador | 200+ | Un futbolista de 22 años murió mientras se entrenaba con su equipo |
+| Argentina | nations league | 100+ | Barcelona duo in line to start for Spain against Czechia in UEFA Nations League clash |
+| Brazil | frança | 200+ | Mbappé desfalca França contra a Itália, em Milão; craque foi baixa nos três jogos anteriores |
+| Portugal | greve | 2000+ | Namorada de Mbappé junta-se à greve geral em Espanha (vídeo) |
+| Portugal | viktor gyökeres | 200+ | Gyokeres dá garantias sobre o futuro |
+| Mexico | michael carrick | 1000+ | Club statement on Michael Carrick |

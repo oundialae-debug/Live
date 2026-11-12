@@ -1,28 +1,26 @@
-# Alertas de noticias (2026-11-11 22:10 UTC)
+# Alertas de noticias (2026-11-12 15:32 UTC)
 
 Temas en >= 7 medios. La rutina diaria y cualquier sesión deben mirar esto ANTES de elegir tema (regla 6: la noticia que todos comentan va primero).
 
 ## Grandes SIN publicar en las últimas 48 h (hacer post si pasa el listón: nada repetido, foto del momento)
 
-- **Pochettino** (15 medios): Pochettino a decade in Man Utd's making - but Carrick deserves better
-- **Arsenal** (12 medios): Arsenal join Scott chase - Thursday's gossip
-- **Chelsea** (12 medios): Chelsea play out goalless draw with Hacken
-- **Kane** (11 medios): ‘I’ve had to prove people wrong’: Kane still striving before record England cap
-- **Liverpool** (10 medios): From Jersey to Somalia... via Liverpool & Man City
-- **Tuchel** (10 medios): Thomas Tuchel keeps laser focus on ‘unfinished business’ with England
-- **Harry** (10 medios): Bone broth, sweets ban and acupuncture: Harry Kane’s road to record England cap
-- **Madrid** (10 medios): Carrick on the brink and Madrid on the charge under Mourinho
-- **Mauricio** (10 medios): Harry Kane tells Manchester United fans exactly what to expect from &#8216;incredible&#8217; Mauricio Pochetti
-- **Mbappé** (10 medios): Official: Mbappé out of Italy vs. France, as Zidane warns ‘we won’t risk him’
-- **Carrick** (9 medios): Pochettino a decade in Man Utd's making - but Carrick deserves better
-- **Man** (9 medios): Pochettino a decade in Man Utd's making - but Carrick deserves better
-- **England** (9 medios): Does Pickford finally face serious competition for his England place?
-- **Manchester** (9 medios): Meeting of two lost souls: can Pochettino make it work at Manchester United?
-- **Guardiola** (9 medios): Pep Guardiola eyed for new manager&#8217;s job in dramatic swoop
-- **Zidane** (9 medios): Zidane: ‘France competitive, Lippi a master and I’d love to be Juventus coach one day’
-- **Inter** (7 medios): Man City thrash Inter to claim first CL win of season
-- **Michael** (7 medios): Michael Beale resigns from management role after just 12 games in charge
+- **Pochettino** (15 medios): Robinson unfazed by Pochettino departure talk
+- **Sage** (13 medios): Crystal Palace sack boss Sage after 16 games
+- **Palace** (13 medios): Crystal Palace sack boss Sage after 16 games
+- **Michael** (13 medios): Michael Carrick was just the latest fall guy for Manchester United’s dysfunctional hierarchy
+- **Crystal** (12 medios): Crystal Palace sack boss Sage after 16 games
+- **Manchester** (12 medios): Carrick sacked by Manchester United with team in Premier League relegation zone – live
+- **Man** (10 medios): Six matches that defined Carrick's Man Utd tenure
+- **Pierre** (10 medios): Crystal Palace sack Pierre Sage and in advanced talks to appoint Thomas Frank
+- **Mauricio** (10 medios): Glazers spearheaded Mauricio Pochettino deal as Eddie Howe not given Man United interview
+- **England** (9 medios): Kane's top 10 England moments - which was your favourite?
+- **Guardiola** (9 medios): Guardiola revealed how he would make USMNT &#8216;great&#8217; as Pochettino digs in on Man United reboot
+- **Tuchel** (8 medios): 'Unfinished business' - Tuchel committed to England
+- **Utd** (7 medios): Six matches that defined Carrick's Man Utd tenure
+- **Thomas** (7 medios): Crystal Palace sack Pierre Sage and in advanced talks to appoint Thomas Frank
+- **Harry** (7 medios): Bone broth, sweets ban and acupuncture: Harry Kane’s road to record England cap
 
 ## Grandes ya cubiertas
 
-- (ninguna)
+- Carrick (17): The chaos that took Carrick from two-year deal to sacked within 15 games
+- Madrid (7): How Michael Carrick's Man United fell apart: Players' bust-up on flight back from Madrid, weakness in training
