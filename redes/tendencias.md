@@ -1,18 +1,31 @@
-# Tendencias de fútbol (2026-11-12 15:32 UTC, Google Trends)
+# Tendencias de fútbol (2026-11-12 22:24 UTC, Google Trends)
 
 Generado por el workflow `tendencias`. Úsalo para elegir temas de memes, curiosos y jugador vs jugador.
 
 | País | Búsqueda | Tráfico | Titular |
 |---|---|---|---|
-| UK | gabriel martinelli | 200+ | Al-Hilal have already learned the Gabriel Martinelli lesson that escaped Arsenal |
-| UK | carrick man utd | 20000+ | Michael Carrick sacked: Man Utd boss goes from signing two-year deal to being sacked 15 games later |
-| Spain | selección de fútbol de inglaterra | 200+ | Inglaterra - Croacia: alineaciones, horario, dónde ver, pronósticos y estadísticas |
-| Spain | festividad | 500+ | Aún queda el puente de diciembre: recomendaciones viajeras según tus gustos |
-| Germany | türkiye maci | 500+ | A Millî Takımımız, UEFA Uluslar A Ligi'nde Belçika Karşısında |
-| France | serpaize | 200+ | Six blessés dans un grave accident de la route près de Vienne, deux enfants transportés au CHU de Ly |
-| Argentina | jugador | 200+ | Un futbolista de 22 años murió mientras se entrenaba con su equipo |
-| Argentina | nations league | 100+ | Barcelona duo in line to start for Spain against Czechia in UEFA Nations League clash |
-| Brazil | frança | 200+ | Mbappé desfalca França contra a Itália, em Milão; craque foi baixa nos três jogos anteriores |
-| Portugal | greve | 2000+ | Namorada de Mbappé junta-se à greve geral em Espanha (vídeo) |
-| Portugal | viktor gyökeres | 200+ | Gyokeres dá garantias sobre o futuro |
-| Mexico | michael carrick | 1000+ | Club statement on Michael Carrick |
+| UK | nations league games | 200+ | Pierre brothers keep family rivalry alive for USMNT-Haiti Nations League QFs |
+| UK | martin baturina | 200+ | Licensable picture: Croatia National Football Team - Departure to London |
+| Spain | clasificación nations league | 200+ | Italia sorprende a Francia e Inglaterra lo fía todo al Metropolitano |
+| Spain | posiciones de selección de fútbol de inglaterra contra selección de fútbol de croacia | 5000+ | England 2-1 Croatia (Nov 12, 2026) Game Analysis |
+| Spain | real madrid baloncesto | 500+ | Real Madrid-Estrella Roja: a por la victoria en el Movistar Arena |
+| Italy | gazzetta | 2000+ | Frattesi vola, Palacios brilla in Argentina, l'"arabo" e tanti giovani: Inter, come vanno i 16 prest |
+| Germany | luka vušković | 200+ | Liverpool-Wechsel? So teuer wird Brightons Luka Vuskovic |
+| Germany | tierquälerei | 200+ | Tierquälerei: 1.000 Euro Belohnung für Hinweise zu toten Katzen |
+| Germany | luka modrić | 100+ | CM: Three names on the list as Milan begin difficult hunt for Modric’s heir |
+| France | liga das nações | 100+ | Kane se prepara para bater recorde pela Inglaterra; saiba qual |
+| France | arda güler | 5000+ | Türkiye 1-2 Belçika (UEFA Uluslar A Ligi maçı özeti) |
+| USA | england national football team vs croatia national football team standings | 10000+ | England 2-1 Croatia (Nov 12, 2026) Game Analysis |
+| Argentina | papa | 1000+ | Papa León XIV en Perú, EN VIVO: recorrida, agenda y últimas noticias del Santo Padre en su visita a  |
+| Argentina | posiciones de selección de fútbol de inglaterra contra selección de fútbol de croacia | 2000+ | England 2-1 Croatia (Nov 12, 2026) Game Analysis |
+| Argentina | montenegro vs | 100+ | Montenegro vs. Latvia por el Liga de Naciones 2026: día, hora y cómo seguir online |
+| Argentina | cuándo juega argentina | 200+ | Calendario de la Selección Argentina: cuándo juega y próximos partidos |
+| Brazil | sao bernardo fc | 200+ | São Bernardo x Athletic: onde assistir ao vivo, horário e escalações |
+| Portugal | classificações de futebol feminino do sport lisboa e benfica x fk austria wien women | 200+ | Benfica vs Austria Wien: UEFA Women's Champions League stats & head-to-head |
+| Portugal | seleção de futebol dos estados unidos | 100+ | Manchester United pode abrir a porta da seleção dos EUA a... Guardiola |
+| Portugal | uefa nations league | 100+ | England vs Croatia LIVE: UEFA Nations League score, commentary, updates & stats |
+| Mexico | curazao vs panama | 200+ | Curazao y Panamá inauguran los Cuartos de Final de la Liga A |
+| Mexico | alemania vs | 100+ | «Podremos comunicarnos»: Philipp Treu espera con ganas el inquietante duelo contra Serbia en un esta |
+| Mexico | posiciones de selección de fútbol de inglaterra contra selección de fútbol de croacia | 10000+ | England 2-1 Croatia (Nov 12, 2026) Game Analysis |
+| Mexico | nations league concacaf | 5000+ | ¿Rafa Márquez abarata a la Selección Mexicana en sus convocatorias? |
+| Mexico | gianluigi donnarumma | 100+ | Gianluigi Donnarumma sums up Enzo Maresca concern at Man City |
