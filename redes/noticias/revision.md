@@ -900,3 +900,21 @@
 - Mundo Deportivo: Pere Romeu pasa de la revancha con el Arsenal: "No se verá lo mismo que en Lisboa"
 - Mundo Deportivo: El Femení prepara el duelo contra el Arsenal
 
+## 12/11 16:33 · Kane gets Ballon d'Or · revisar
+- Motivo: sin foto buena con cara visible
+- Temas: Kane, Tuchel
+- Sky Sports: England's best? Record-breaking Ballon d'Or winner Kane set for Wembley celebration
+- talkSPORT: England vs Croatia Super Boost: England to win & Kane to score NOW 5/4 on talkSPORT BET
+- Mirror: Dominic Calvert-Lewin speaks out on England World Cup snub and new Harry Kane plan
+- Planet Football: Ranking the 10 best strikers in world football right now: Mbappe, Kane or Haaland top?
+- Yahoo: 'Perfect captain' Harry Kane to be presented with Ballon d'Or at Wembley, says Thomas Tuchel
+
+## 12/11 16:33 · Sage out, Frank in the frame · revisar
+- Motivo: datos que no salen en los titulares: Monaco
+- Temas: Palace, Sage
+- Foot Mercato: Crystal Palace : un favori se dégage pour la succession de Pierre Sage
+- BBC: Crystal Palace sack boss Sage after 16 games
+- Guardian: Crystal Palace sack Pierre Sage and in advanced talks to appoint Thomas Frank
+- Sky Sports: Crystal Palace sack Sage
+- talkSPORT: Crystal Palace sack Pierre Sage with three names on shortlist to replace him
+
