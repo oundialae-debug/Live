@@ -8,5 +8,8 @@
  "recordatorio": false,
  "musica": "hh08",
  "variante": "seg=5.0;arranque=s0;hook=pregunta;musica=hh08;formato=auto_noticia;hora=22",
- "notas": "noticia automática (IA + reglas): Google News EN: Ronaldo confirms filming has started on his new show - but what is it about?; L'Equipe: Nazinho déçu de ne pas côtoyer Cristiano Ronaldo en sélection"
+ "notas": "noticia automática (IA + reglas): Google News EN: Ronaldo confirms filming has started on his new show - but what is it about?; L'Equipe: Nazinho déçu de ne pas côtoyer Cristiano Ronaldo en sélection",
+ "estado": "enviado",
+ "buffer_id": "6af7821681e1228421c63dd4",
+ "dueAt": "2026-11-13T21:36:09+00:00"
 }

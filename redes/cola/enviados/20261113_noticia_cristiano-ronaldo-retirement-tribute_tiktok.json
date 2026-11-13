@@ -9,5 +9,8 @@
  "musica": "hh08",
  "variante": "seg=5.0;arranque=s0;hook=pregunta;musica=hh08;formato=auto_noticia;hora=22",
  "notas": "noticia automática (IA + reglas): Google News EN: Ronaldo confirms filming has started on his new show - but what is it about?; L'Equipe: Nazinho déçu de ne pas côtoyer Cristiano Ronaldo en sélection",
- "titulo": "Portugal’s massive tribute to retiring Cristiano Ronaldo"
+ "titulo": "Portugal’s massive tribute to retiring Cristiano Ronaldo",
+ "estado": "enviado",
+ "buffer_id": "6af7821678196a0a972106be",
+ "dueAt": "2026-11-13T21:36:09+00:00"
 }
