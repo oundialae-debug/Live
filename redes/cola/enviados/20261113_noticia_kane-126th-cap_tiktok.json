@@ -1,5 +1,5 @@
 {
- "red": "instagram",
+ "red": "tiktok",
  "hora": "2026-11-13T15:54:34+01:00",
  "tipo": "noticia",
  "partido": "Kane hits 126 caps",
@@ -8,5 +8,9 @@
  "recordatorio": false,
  "musica": "mtrap",
  "variante": "seg=5.0;arranque=s0;hook=pregunta;musica=mtrap;formato=auto_noticia;hora=15",
- "notas": "noticia automática (IA + reglas): talkSPORT: Ballon d’Or winner Harry Kane is phenomenal but one England star could be up there with Diego Maradona; Google News EN: Harry Kane’s England caps record: an illustrious career in numbers an"
+ "notas": "noticia automática (IA + reglas): talkSPORT: Ballon d’Or winner Harry Kane is phenomenal but one England star could be up there with Diego Maradona; Google News EN: Harry Kane’s England caps record: an illustrious career in numbers an",
+ "titulo": "Harry Kane's record‑breaking 126th England cap",
+ "estado": "enviado",
+ "buffer_id": "6af7241488f57d6580d002be",
+ "dueAt": "2026-11-13T14:55:02+00:00"
 }
