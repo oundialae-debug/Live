@@ -936,3 +936,12 @@
 - Mundo Deportivo: El Italia-Francia, en el aire para Mbappé
 - Mundo Deportivo: Mbappé, premiado por LaLiga
 
+## 13/11 15:51 · England make 10 changes · revisar
+- Motivo: palabra sensible en los titulares: arrested
+- Temas: England
+- BBC: Kane's top 10 England moments - which was your favourite?
+- BBC: 'Unfinished business' - Tuchel committed to England
+- Sky Sports: Pollock starts as England ring 10 changes for Japan clash
+- talkSPORT: I’m joint-fifth highest goalscorer in Premier League and still eyeing first England call-up
+- talkSPORT: Ballon d’Or winner Harry Kane is phenomenal but one England star could be up there with Diego Maradona
+

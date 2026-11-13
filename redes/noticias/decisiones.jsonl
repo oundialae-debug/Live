@@ -220,3 +220,4 @@
 {"t": "2026-11-12T22:26+00:00", "estado": "revisar", "temas": ["Mbappé"], "clave": "mbappe-france-uncertainty", "motivo": "categoría sensible: injury"}
 {"t": "2026-11-12T22:26+00:00", "estado": "descartar", "temas": ["England"], "clave": "england-squad-uncertainty", "motivo": "falta question"}
 {"t": "2026-11-13T14:51+00:00", "estado": "publicado", "temas": ["Harry"], "clave": "kane-126th-cap", "video": "https://raw.githubusercontent.com/oundialae-debug/live/main/media/noticias/2026-11-13_1551_kane-126th-cap.mp4"}
+{"t": "2026-11-13T14:51+00:00", "estado": "revisar", "temas": ["England"], "clave": "england-10-changes", "motivo": "palabra sensible en los titulares: arrested"}
