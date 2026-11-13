@@ -945,3 +945,12 @@
 - talkSPORT: I’m joint-fifth highest goalscorer in Premier League and still eyeing first England call-up
 - talkSPORT: Ballon d’Or winner Harry Kane is phenomenal but one England star could be up there with Diego Maradona
 
+## 13/11 22:32 · Goalkeeper Jesús de Miguel dies · revisar
+- Motivo: categoría sensible: death
+- Temas: Miguel
+- Mundo Deportivo: Materazzi: "La muerte de Jesús de Miguel me hizo dar gracias a Dios de que no hubiera pasado nada"
+- Google News ES: Carlos Manso habla del momento que atraviesa Jesús Owono tras el desgraciado fallecimiento de Jesús de Miguel: "Hay que darle espacio"
+- Foot Mercato: Le parallèle troublant de Marco Materazzi entre le coup de tête de Zidane et la mort de Jesus de Miguel
+- Ole: El DT del Andorra y cómo está Owono tras la muerte de Jesús de Miguel
+- Google News AR: La desubicada comparación de Materazzi: el cabezazo de Zidane y la muerte de Jesús de Miguel
+

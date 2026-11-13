@@ -222,3 +222,5 @@
 {"t": "2026-11-13T14:51+00:00", "estado": "publicado", "temas": ["Harry"], "clave": "kane-126th-cap", "video": "https://raw.githubusercontent.com/oundialae-debug/live/main/media/noticias/2026-11-13_1551_kane-126th-cap.mp4"}
 {"t": "2026-11-13T14:51+00:00", "estado": "revisar", "temas": ["England"], "clave": "england-10-changes", "motivo": "palabra sensible en los titulares: arrested"}
 {"t": "2026-11-13T21:32+00:00", "estado": "publicado", "temas": ["Ronaldo"], "clave": "cristiano-ronaldo-retirement-tribute", "video": "https://raw.githubusercontent.com/oundialae-debug/live/main/media/noticias/2026-11-13_2232_cristiano-ronaldo-retirement-tribute.mp4"}
+{"t": "2026-11-13T21:32+00:00", "estado": "revisar", "temas": ["Miguel"], "clave": "jesus-de-miguel-death", "motivo": "categoría sensible: death"}
+{"t": "2026-11-13T21:32+00:00", "estado": "descartar", "temas": ["Argentina"], "clave": "supercopa-argentina-final", "motivo": "importancia 6 < 7"}
