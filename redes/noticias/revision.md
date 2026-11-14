@@ -954,3 +954,12 @@
 - Ole: El DT del Andorra y cómo está Owono tras la muerte de Jesús de Miguel
 - Google News AR: La desubicada comparación de Materazzi: el cabezazo de Zidane y la muerte de Jesús de Miguel
 
+## 14/11 14:45 · Chelsea face City as WSL underdogs · revisar
+- Motivo: datos que no salen en los titulares: Blues
+- Temas: Chelsea
+- Guardian: Why Chelsea and Manchester City’s WSL clash is not as season-defining as you think
+- Guardian: Pochettino’s Chelsea maelstrom the best yardstick for what lies ahead at United
+- Planet Football: The 10 players Chelsea let go in the summer – & how they’re faring elsewhere
+- Google News EN: Chelsea vs Man City: Mary Fowler reveals her side's latest evolution as we ask: Are City more dangerous than ever?
+- Google News EN: Do Chelsea go into this weekend's top-of-the-table WSL clash with Manchester City as underdogs?
+

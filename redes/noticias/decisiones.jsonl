@@ -224,3 +224,5 @@
 {"t": "2026-11-13T21:32+00:00", "estado": "publicado", "temas": ["Ronaldo"], "clave": "cristiano-ronaldo-retirement-tribute", "video": "https://raw.githubusercontent.com/oundialae-debug/live/main/media/noticias/2026-11-13_2232_cristiano-ronaldo-retirement-tribute.mp4"}
 {"t": "2026-11-13T21:32+00:00", "estado": "revisar", "temas": ["Miguel"], "clave": "jesus-de-miguel-death", "motivo": "categoría sensible: death"}
 {"t": "2026-11-13T21:32+00:00", "estado": "descartar", "temas": ["Argentina"], "clave": "supercopa-argentina-final", "motivo": "importancia 6 < 7"}
+{"t": "2026-11-14T13:45+00:00", "estado": "revisar", "temas": ["Chelsea"], "clave": "chelsea-wsl-clash", "motivo": "datos que no salen en los titulares: Blues"}
+{"t": "2026-11-14T13:45+00:00", "estado": "descartar", "temas": ["Raphinha"], "clave": "raphinha-controversy", "motivo": "importancia 6 < 7"}
