@@ -963,3 +963,12 @@
 - Google News EN: Chelsea vs Man City: Mary Fowler reveals her side's latest evolution as we ask: Are City more dangerous than ever?
 - Google News EN: Do Chelsea go into this weekend's top-of-the-table WSL clash with Manchester City as underdogs?
 
+## 14/11 20:26 · Ancelotti, Raphinha sent off · revisar
+- Motivo: sin foto buena con cara visible
+- Temas: Ancelotti
+- Mundo Deportivo: Ancelotti responde a Real Madrid y Barça
+- L'Equipe: L'ère Neymar est finie, Carlo Ancelotti veut rajeunir le Brésil : « Nous construisons maintenant une nouvelle génération »
+- Infobae: Raphinha se defendió al borde del llanto luego de la polémica que generó en Brasil tras su pedido a Ancelotti
+- ge.globo: Escalação da Seleção: Ancelotti mantém Rayan como meia para amistoso com o Japão
+- ge.globo: Ancelotti coloca renovação em prática, e Seleção reduz seis anos de média de idade em relação à Copa do Mundo
+
