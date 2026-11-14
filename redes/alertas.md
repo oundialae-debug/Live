@@ -1,24 +1,24 @@
-# Alertas de noticias (2026-11-13 21:31 UTC)
+# Alertas de noticias (2026-11-14 13:45 UTC)
 
 Temas en >= 7 medios. La rutina diaria y cualquier sesión deben mirar esto ANTES de elegir tema (regla 6: la noticia que todos comentan va primero).
 
 ## Grandes SIN publicar en las últimas 48 h (hacer post si pasa el listón: nada repetido, foto del momento)
 
-- **Pochettino** (17 medios): Tearful Pochettino on 'difficult' decision to leave USA for Man Utd
-- **Mauricio** (12 medios): Mauricio Pochettino to Manchester United and record breaker Kane
-- **Manchester** (10 medios): Why Chelsea and Manchester City’s WSL clash is not as season-defining as you think
-- **France** (9 medios): Nations League: Italy roar back to beat France despite Donnarumma’s early howler
-- **Man** (8 medios): Tearful Pochettino on 'difficult' decision to leave USA for Man Utd
-- **Spain** (8 medios): Tuchel to remind England players of anti-racism protocols before game in Spain
-- **Miguel** (8 medios): Goalkeeper involved in fatal collision with Spanish footballer Jesus de Miguel given 12-MATCH ban - and may ne
-- **Utd** (7 medios): Tearful Pochettino on 'difficult' decision to leave USA for Man Utd
-- **Ronaldinho** (7 medios): Ronaldinho, 46, to play first game since 2015
-- **Michael** (7 medios): Michael Carrick was just the latest fall guy for Manchester United’s dysfunctional hierarchy
-- **Cristiano** (7 medios): Cristiano Ronaldo&#8217;s A-list TV show begins filming at Premier League club
-- **Owono** (7 medios): 🚨 Official: Jesús Owono banned for 12 games for tackle on Jesús de Miguel
+- **Pochettino** (14 medios): Fitness obsessed & 'control freak' - what can Man Utd expect from Pochettino?
+- **Raphinha** (11 medios): Raphinha sees red as Brazil stunned by Japan while Argentina’s post-Messi era starts with defeat
+- **Chelsea** (10 medios): Man Utd want Paz, Chelsea target Kounde - Saturday's gossip
+- **Manchester** (10 medios): Chelsea v Manchester City: Women’s Super League – live
+- **Man** (9 medios): Fitness obsessed & 'control freak' - what can Man Utd expect from Pochettino?
+- **Messi** (9 medios): Raphinha sees red as Brazil stunned by Japan while Argentina’s post-Messi era starts with defeat
+- **Mauricio** (9 medios): Mauricio Pochettino to Manchester United and record breaker Kane
+- **Argentina** (9 medios): Thomas Tuchel warns England can’t repeat Argentina mistake if they want to beat Spain
+- **Uruguay** (9 medios): Watch Argentina vs Uruguay: FREE streams and TV channels
+- **Ancelotti** (9 medios): Watch: Barcelona captain Raphinha sent off alongside Ancelotti after Brazil defeat against Japan
+- **Spain** (7 medios): Tuchel to remind England of anti-racism protocols before Spain game
+- **Vinicius** (7 medios): Japan beat Brazil in thriller as Vinicius scores stunners while Ancelotti, Raphinha sent off
+- **Brasil** (7 medios): 3-2: La Brasil de Ancelotti sigue sin encontrar su rumbo y cae ante Japón
 
 ## Grandes ya cubiertas
 
-- England (12): Where does Kane rank among all-time England greats?
-- Kane (10): Where does Kane rank among all-time England greats?
-- Carrick (7): How Ferguson-inspired Pochettino can succeed where Carrick failed at Man Utd
+- Portugal (10): Portugal did the extraordinary with Cristiano Ronaldo. Can they do it without him?
+- England (8): Tuchel to remind England of anti-racism protocols before Spain game
