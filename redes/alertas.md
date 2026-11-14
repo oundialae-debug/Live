@@ -1,24 +1,26 @@
-# Alertas de noticias (2026-11-14 13:45 UTC)
+# Alertas de noticias (2026-11-14 19:25 UTC)
 
 Temas en >= 7 medios. La rutina diaria y cualquier sesión deben mirar esto ANTES de elegir tema (regla 6: la noticia que todos comentan va primero).
 
 ## Grandes SIN publicar en las últimas 48 h (hacer post si pasa el listón: nada repetido, foto del momento)
 
-- **Pochettino** (14 medios): Fitness obsessed & 'control freak' - what can Man Utd expect from Pochettino?
+- **Pochettino** (11 medios): Fitness obsessed & 'control freak' - what can Man Utd expect from Pochettino?
 - **Raphinha** (11 medios): Raphinha sees red as Brazil stunned by Japan while Argentina’s post-Messi era starts with defeat
-- **Chelsea** (10 medios): Man Utd want Paz, Chelsea target Kounde - Saturday's gossip
-- **Manchester** (10 medios): Chelsea v Manchester City: Women’s Super League – live
-- **Man** (9 medios): Fitness obsessed & 'control freak' - what can Man Utd expect from Pochettino?
-- **Messi** (9 medios): Raphinha sees red as Brazil stunned by Japan while Argentina’s post-Messi era starts with defeat
-- **Mauricio** (9 medios): Mauricio Pochettino to Manchester United and record breaker Kane
-- **Argentina** (9 medios): Thomas Tuchel warns England can’t repeat Argentina mistake if they want to beat Spain
-- **Uruguay** (9 medios): Watch Argentina vs Uruguay: FREE streams and TV channels
-- **Ancelotti** (9 medios): Watch: Barcelona captain Raphinha sent off alongside Ancelotti after Brazil defeat against Japan
-- **Spain** (7 medios): Tuchel to remind England of anti-racism protocols before Spain game
-- **Vinicius** (7 medios): Japan beat Brazil in thriller as Vinicius scores stunners while Ancelotti, Raphinha sent off
-- **Brasil** (7 medios): 3-2: La Brasil de Ancelotti sigue sin encontrar su rumbo y cae ante Japón
+- **Ancelotti** (9 medios): Carlo Ancelotti and Raphinha see red: Security separate furious Brazil stars from officials after shock 3-2 de
+- **Tuchel** (8 medios): Tuchel to remind England of anti-racism protocols before Spain game
+- **Chelsea** (8 medios): Bompastor's risks pay off as Chelsea go top of WSL
+- **Wales** (8 medios): Wales' top-tier survival hopes hit by Norway loss
+- **Norway** (8 medios): Wales' top-tier survival hopes hit by Norway loss
+- **Ronaldinho** (8 medios): Ronaldinho, 46, to play first game since 2015
+- **Manchester** (8 medios): Chelsea go top of WSL as Sandy Baltimore bullet sees off Manchester City
+- **Mauricio** (8 medios): Mauricio Pochettino asked the US to believe in his project. Did he believe in it himself?
+- **Man** (7 medios): Fitness obsessed & 'control freak' - what can Man Utd expect from Pochettino?
+- **Brazil** (7 medios): Raphinha sees red as Brazil stunned by Japan while Argentina’s post-Messi era starts with defeat
+- **Japan** (7 medios): Raphinha sees red as Brazil stunned by Japan while Argentina’s post-Messi era starts with defeat
 
 ## Grandes ya cubiertas
 
-- Portugal (10): Portugal did the extraordinary with Cristiano Ronaldo. Can they do it without him?
+- Portugal (14): Portugal did the extraordinary with Cristiano Ronaldo. Can they do it without him?
+- Ronaldo (12): Portugal did the extraordinary with Cristiano Ronaldo. Can they do it without him?
+- Cristiano (10): Portugal did the extraordinary with Cristiano Ronaldo. Can they do it without him?
 - England (8): Tuchel to remind England of anti-racism protocols before Spain game
