@@ -972,3 +972,21 @@
 - ge.globo: Escalação da Seleção: Ancelotti mantém Rayan como meia para amistoso com o Japão
 - ge.globo: Ancelotti coloca renovação em prática, e Seleção reduz seis anos de média de idade em relação à Copa do Mundo
 
+## 15/11 20:56 · Pochettino takes United helm · revisar
+- Motivo: sin foto buena con cara visible
+- Temas: Pochettino
+- talkSPORT: Rickie Lambert’s brutal memory proves Mauricio Pochettino will fix glaring Man United problem
+- Mirror: Man Utd star sends alarming message to Mauricio Pochettino as he confirms blow
+- Mirror: Man Utd ready to spend big in January as Mauricio Pochettino picks his targets
+- Yahoo: Mauricio Pochettino needs to be the most ruthless version of himself to rejuvenate Manchester United
+- Yahoo: Mauricio Pochettino already dealt Manchester United injury blow
+
+## 15/11 20:56 · England‑Spain showdown looms · revisar
+- Motivo: palabra sensible en los titulares: racism
+- Temas: England, Spain
+- BBC: Tuchel to remind England of anti-racism protocols before Spain game
+- Sky Sports: Wales vs New Zealand LIVE! All Blacks visit Cardiff before England play Japan
+- Mirror: Man Utd news LIVE: Nico Paz interest, Marcus Rashford plan, England youth star signed
+- Yahoo: England Under-21 debut for Norwich forward Makama
+- Yahoo: 3 Arsenal youngsters feature as Dowman breaks England record
+
