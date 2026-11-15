@@ -1,26 +1,28 @@
-# Alertas de noticias (2026-11-14 19:25 UTC)
+# Alertas de noticias (2026-11-15 14:15 UTC)
 
 Temas en >= 7 medios. La rutina diaria y cualquier sesión deben mirar esto ANTES de elegir tema (regla 6: la noticia que todos comentan va primero).
 
 ## Grandes SIN publicar en las últimas 48 h (hacer post si pasa el listón: nada repetido, foto del momento)
 
-- **Pochettino** (11 medios): Fitness obsessed & 'control freak' - what can Man Utd expect from Pochettino?
-- **Raphinha** (11 medios): Raphinha sees red as Brazil stunned by Japan while Argentina’s post-Messi era starts with defeat
-- **Ancelotti** (9 medios): Carlo Ancelotti and Raphinha see red: Security separate furious Brazil stars from officials after shock 3-2 de
-- **Tuchel** (8 medios): Tuchel to remind England of anti-racism protocols before Spain game
-- **Chelsea** (8 medios): Bompastor's risks pay off as Chelsea go top of WSL
-- **Wales** (8 medios): Wales' top-tier survival hopes hit by Norway loss
-- **Norway** (8 medios): Wales' top-tier survival hopes hit by Norway loss
-- **Ronaldinho** (8 medios): Ronaldinho, 46, to play first game since 2015
-- **Manchester** (8 medios): Chelsea go top of WSL as Sandy Baltimore bullet sees off Manchester City
-- **Mauricio** (8 medios): Mauricio Pochettino asked the US to believe in his project. Did he believe in it himself?
-- **Man** (7 medios): Fitness obsessed & 'control freak' - what can Man Utd expect from Pochettino?
-- **Brazil** (7 medios): Raphinha sees red as Brazil stunned by Japan while Argentina’s post-Messi era starts with defeat
+- **Pochettino** (12 medios): Mauricio Pochettino asked the US to believe in his project. Did he believe in it himself?
+- **Ancelotti** (11 medios): Carlo Ancelotti and Raphinha see red: Security separate furious Brazil stars from officials after shock 3-2 de
+- **Spain** (9 medios): Branthwaite, Garner and King omitted for Spain game
+- **Tuchel** (9 medios): Spain test will reveal if Tuchel and England have learned World Cup lessons
+- **Ronaldinho** (9 medios): Ronaldinho returns for Italian third-tier side, aged 46
+- **Arsenal** (8 medios): Arsenal target Nusa could cost £66m - Sunday's gossip
+- **Rice** (8 medios): White has 'exciting future' despite boos - Rice
+- **Lamine** (8 medios): De la Fuente feels the strain as Lamine Yamal club v country debate rages in Spain
+- **Jesus** (8 medios): Goalkeeper involved in fatal collision with Spanish footballer Jesus de Miguel given 12-MATCH ban - and may ne
+- **Wales** (7 medios): Haaland helps Norway to win over Wales in Nations League
+- **Manchester** (7 medios): Here Manchester United go again, taking the Two Ronnies route to hiring a new boss
 - **Japan** (7 medios): Raphinha sees red as Brazil stunned by Japan while Argentina’s post-Messi era starts with defeat
+- **Brazil** (7 medios): Raphinha sees red as Brazil stunned by Japan while Argentina’s post-Messi era starts with defeat
+- **Primera** (7 medios): Primera RFEF hoy, en directo: resultados y partidos de la jornada 12, grupos 1 y 2, en vivo
+- **Chapecoense** (7 medios): Un sobreviviente de la tragedia del Chapecoense se retira del fútbol con el ascenso a Primera
 
 ## Grandes ya cubiertas
 
-- Portugal (14): Portugal did the extraordinary with Cristiano Ronaldo. Can they do it without him?
-- Ronaldo (12): Portugal did the extraordinary with Cristiano Ronaldo. Can they do it without him?
-- Cristiano (10): Portugal did the extraordinary with Cristiano Ronaldo. Can they do it without him?
-- England (8): Tuchel to remind England of anti-racism protocols before Spain game
+- Portugal (10): Nations League roundup: Portugal mauled by Denmark as Norway sink Wales
+- England (9): Spain test will reveal if Tuchel and England have learned World Cup lessons
+- Cristiano (9): Portugal immortalise Cristiano Ronaldo’s No 7 shirt in tribute to national legend
+- Ronaldo (8): Portugal did the extraordinary with Cristiano Ronaldo. Can they do it without him?
