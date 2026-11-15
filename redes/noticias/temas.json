@@ -1,6 +1,103 @@
 {
- "generado": "2026-11-15T14:15+00:00",
+ "generado": "2026-11-15T19:55+00:00",
  "temas": [
+  {
+   "tema": "Ronaldinho",
+   "medios": 16,
+   "lista_medios": [
+    "AS",
+    "BBC",
+    "Foot Mercato",
+    "Football Italia",
+    "Google News AR",
+    "Google News EN",
+    "Google News ES",
+    "Guardian",
+    "Infobae",
+    "Kicker",
+    "L'Equipe",
+    "Mundo Deportivo",
+    "Ole",
+    "Record",
+    "Yahoo",
+    "ge.globo"
+   ],
+   "primera_vez": "2026-11-14T13:45+00:00",
+   "titulares": [
+    {
+     "medio": "Yahoo",
+     "titulo": "Picture: Ronaldinho joins Ravenna teammates for dinner before first training",
+     "url": "https://sports.yahoo.com/articles/picture-ronaldinho-joins-ravenna-teammates-130000631.html",
+     "pub": "2026-11-14T13:00+00:00"
+    },
+    {
+     "medio": "Yahoo",
+     "titulo": "Ronaldinho to start for Ravenna as Brazil legend reveals two reasons for his comeback at 46",
+     "url": "https://sports.yahoo.com/articles/ronaldinho-start-ravenna-brazil-legend-122800306.html",
+     "pub": "2026-11-14T12:28+00:00"
+    },
+    {
+     "medio": "L'Equipe",
+     "titulo": "À 46 ans, Ronaldinho sera titulaire en Serie C onze ans après son dernier match en pro",
+     "url": "https://www.lequipe.fr/Football/Actualites/A-46-ans-ronaldinho-sera-titulaire-en-serie-c-onze-ans-apres-son-dernier-match-en-pro/1743611#at_medium=RSS_feeds",
+     "pub": "2026-11-14T11:38+00:00"
+    },
+    {
+     "medio": "Yahoo",
+     "titulo": "Ronaldinho: ‘Endrick can play in any league’ amid Roma and Milan links",
+     "url": "https://sports.yahoo.com/articles/ronaldinho-endrick-play-league-amid-174500960.html",
+     "pub": "2026-11-14T17:45+00:00"
+    },
+    {
+     "medio": "Yahoo",
+     "titulo": "Watch: Ronaldinho trains with Ravenna before first competitive game in over a decade",
+     "url": "https://sports.yahoo.com/articles/watch-ronaldinho-trains-ravenna-first-161700767.html",
+     "pub": "2026-11-14T16:17+00:00"
+    },
+    {
+     "medio": "Mundo Deportivo",
+     "titulo": "Ronaldinho, antes de su debut: \"Van a decir que es IA\"",
+     "url": "https://www.mundodeportivo.com/futbol/internacional/20261114/1004250979/locura-ronaldinho-entrenamiento-previo-reaparicion.html",
+     "pub": ""
+    },
+    {
+     "medio": "Google News ES",
+     "titulo": "Ronaldinho vuelve al fútbol... ¡con la misma magia que lo dejó!",
+     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNMnhUYUdzS2MzWHJJbmtyYlhGQXFRTG12MjI0YUt0VTJ1ODRnc1BEZXZLbE56Y2VQdmtVMWtZX2VHaXJNRGs5cEUwRWJqUDQweGRTbDJtWnh0MXQ2MFdjbF9KaHFzZGd1UEhyY3FmWHFYYWYwMWVqUE5LZGZIYWVod0hfMmxVUmJKV3cwX2VvLU5kd1ZQQ0NvZWhlTkbSAaIBQVVfeXFMTjlnT0txQUhzZzNHRHpCUGdSYnBYVWltUlFBbEpXVlVpb0pWRk11cjhuVExOWERtbEx3dmtWUnZQVFowaGRvRVMzdEVnaHp0Qkwyc3dFaV8xbDA3SVI0WlNzT3VHRWtfaUdBU2pmeTNTemxJOW80S2RDb0x1YjdwcEdadHMxTUtfYXRKT3AwQ09TYWdZaW1tVElhZnpWU0RTelRB?oc=5",
+     "pub": "2026-11-14T18:14+00:00"
+    },
+    {
+     "medio": "Google News ES",
+     "titulo": "Ronaldinho prepara su regreso al fútbol profesional: ya entrena con el Ravena de la Serie C",
+     "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQaXkwY2NvQ3JHdHVZdHdMTEJISHA3NXBpRi1YdmhIZzRYMUxVa3RJWXdtU0UtS29mekZibXg1Nk5CcGg0R0MtLWl3Zzg0SUlISFExSGQzNlZsZENZMFh1Zk8xZDRDNEtFOUs3OVpfTmFzYllIcVNhZ0lHc1NqdlN6VS0tNlpEYVctTnhTZkNlaWNqQ1JnLUxCMUJmSHVYZTMyMmlzQXNwR1VwVjJrZzBycFBhVGxvNWsyOHEtTkk2WTB1S0hFaE9mek10MTE?oc=5",
+     "pub": "2026-11-14T18:43+00:00"
+    },
+    {
+     "medio": "Football Italia",
+     "titulo": "Ronaldinho: Endrick would suit Milan or Roma, Ancelotti ‘the best coach in the world’",
+     "url": "https://football-italia.net/ronaldinho-endrick-milan-roma-ancelotti-best/",
+     "pub": "2026-11-14T14:38+00:00"
+    },
+    {
+     "medio": "Foot Mercato",
+     "titulo": "Italie : Ronaldinho va être titulaire dans un match de Serie C",
+     "url": "https://www.footmercato.net/a8819070247560753879-italie-ronaldinho-va-etre-titulaire-dans-un-match-de-serie-c",
+     "pub": "2026-11-14T16:38+00:00"
+    },
+    {
+     "medio": "Google News EN",
+     "titulo": "Ronaldinho returns for Italian third-tier side, aged 46",
+     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1uUkFFanI1NUxIcEV1N3hlRWVUQkdGWGYzLUJCUUh0WU51RnpuS3Y5dTJUVFI4czVvRGdqZU5ETVRfUWM0STQ2WmNwT3dvMERhVzhMaFNJd1dtM0VSWXVPd0lFbnQyeDVH?oc=5",
+     "pub": "2026-11-15T10:34+00:00"
+    },
+    {
+     "medio": "AS",
+     "titulo": "¡Ronaldinho vuelve al fútbol!",
+     "url": "https://as.com/futbol/internacional/ronaldinho-vuelve-al-futbol-f202611-n/",
+     "pub": "2026-11-15T07:33+00:00"
+    }
+   ]
+  },
   {
    "tema": "Portugal",
    "medios": 15,
@@ -23,12 +120,6 @@
    ],
    "primera_vez": "2026-11-14T13:45+00:00",
    "titulares": [
-    {
-     "medio": "Guardian",
-     "titulo": "Portugal did the extraordinary with Cristiano Ronaldo. Can they do it without him?",
-     "url": "https://www.theguardian.com/football/2026/nov/14/portugal-cristiano-ronaldo-football-memories-future",
-     "pub": "2026-11-14T06:53+00:00"
-    },
     {
      "medio": "Google News EN",
      "titulo": "Nations League: What's at stake for Wales against Norway and Portugal?",
@@ -94,6 +185,12 @@
      "titulo": "Portugal toma una decisión histórica con el '7' de Cristiano Ronaldo",
      "url": "https://www.mundodeportivo.com/futbol/internacional/20261114/1004250987/portugal-cambia-7-homenaje-cristiano-ronaldo-historia-sera-olvidada.html",
      "pub": ""
+    },
+    {
+     "medio": "L'Equipe",
+     "titulo": "Carlos Forbs est le nouveau numéro 7 du Portugal, mais le flocage est différent de celui de Cristiano Ronaldo",
+     "url": "https://www.lequipe.fr/Football/Actualites/Carlos-forbs-est-le-nouveau-numero-sept-du-portugal-mais-le-flocage-est-different-de-celui-de-cristiano-ronaldo/1743646#at_medium=RSS_feeds",
+     "pub": "2026-11-14T15:52+00:00"
     }
    ]
   },
@@ -193,112 +290,18 @@
    ]
   },
   {
-   "tema": "Pochettino",
-   "medios": 13,
+   "tema": "England",
+   "medios": 12,
    "lista_medios": [
+    "BBC",
     "Daily Mail",
-    "Foot Mercato",
-    "Google News AR",
+    "FourFourTwo",
     "Google News EN",
     "Guardian",
     "Kicker",
-    "L'Equipe",
     "Mirror",
-    "Mundo Deportivo",
     "Planet Football",
-    "Record",
-    "Yahoo",
-    "talkSPORT"
-   ],
-   "primera_vez": "2026-11-14T13:45+00:00",
-   "titulares": [
-    {
-     "medio": "talkSPORT",
-     "titulo": "Rickie Lambert’s brutal memory proves Mauricio Pochettino will fix glaring Man United problem",
-     "url": "https://talksport.com/football/4701501/mauricio-pochettino-man-united-running-stats/",
-     "pub": "2026-11-14T12:37+00:00"
-    },
-    {
-     "medio": "Mirror",
-     "titulo": "Man Utd star sends alarming message to Mauricio Pochettino as he confirms blow",
-     "url": "https://www.mirror.co.uk/sport/football/news/man-utd-senne-lammens-pochettino-37877388",
-     "pub": "2026-11-14T13:35+00:00"
-    },
-    {
-     "medio": "Mirror",
-     "titulo": "Man Utd ready to spend big in January as Mauricio Pochettino picks his targets",
-     "url": "https://www.mirror.co.uk/sport/football/news/man-united-transfers-mauricio-pochettino-37877358",
-     "pub": "2026-11-14T12:56+00:00"
-    },
-    {
-     "medio": "Mirror",
-     "titulo": "Man Utd's reality spelled out to Mauricio Pochettino - 'Surprised if he lasts 18 months'",
-     "url": "https://www.mirror.co.uk/sport/football/news/man-utd-mauricio-pochettino-lineker-37876823",
-     "pub": "2026-11-14T06:49+00:00"
-    },
-    {
-     "medio": "Mirror",
-     "titulo": "'I played for Mauricio Pochettino and Jose Mourinho – one manager was better than both'",
-     "url": "https://www.mirror.co.uk/sport/football/news/mauricio-pochettino-mourinho-man-utd-37871645",
-     "pub": "2026-11-14T06:00+00:00"
-    },
-    {
-     "medio": "Planet Football",
-     "titulo": "Planet Football Weekend Quiz: Pochettino, Carrick, Kane and more…",
-     "url": "https://www.planetfootball.com/quizzes/planet-football-weekend-quiz-pochettino-carrick-kane",
-     "pub": "2026-11-14T07:08+00:00"
-    },
-    {
-     "medio": "Yahoo",
-     "titulo": "Mauricio Pochettino needs to be the most ruthless version of himself to rejuvenate Manchester United",
-     "url": "https://sports.yahoo.com/articles/mauricio-pochettino-needs-most-ruthless-121918088.html",
-     "pub": "2026-11-14T12:19+00:00"
-    },
-    {
-     "medio": "Yahoo",
-     "titulo": "Mauricio Pochettino already dealt Manchester United injury blow",
-     "url": "https://sports.yahoo.com/articles/mauricio-pochettino-already-dealt-manchester-105000681.html",
-     "pub": "2026-11-14T10:50+00:00"
-    },
-    {
-     "medio": "Google News EN",
-     "titulo": "Can Manchester United’s young stars thrive under Mauricio Pochettino?",
-     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNZTV1bFZ5RUdzME5ONENNNW5EeU4tT1VBTjhMb1U2bWlIVkpZWEYxMXdPQUxGRUF4bjBjOFJ5SHc4Y1F1c1NMTTR6dXp3Q2toU0xwZE1WZU9SNE0wbEpyc0JES0FUcHdXRFdjMmFkM2VFTGUzNlo4UGlPdGtubGo1NUpzdk5rVlM1dHR1M2t2SGoyN3lKeHB2OUpLeVNyYmxMNnkxdlAtaUpxV0N6dXdaQ2dLazYzN0V5UHc?oc=5",
-     "pub": "2026-11-14T07:01+00:00"
-    },
-    {
-     "medio": "Google News EN",
-     "titulo": "Mauricio Pochettino: New Man Utd head coach in tears as he labels leaving USMNT 'toughest decision of career'",
-     "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPVU5lb3ZFanoxUkJVSmVjUUl3T3hJWGg2QjNmN0hIZERLaVFTTGFZTy1lLTNIbXdUckQtSWR6R2lPX01mcV84cFVtTXI2N2ZRNEh0TXNscnowenlHalU0RnZENi1vYXQ5RGc2SnE3ZTNnODZiaDRUdURtb08tV1VGVlMzMXZJSWVFdEhtMS13YWhOZ2pDNHF1a2Q1VjA4dUNhSGQ0QUlGZWN1SlJRa0diTVE0YUhXajRjRTZIT0VWTFdNdnN4SHRPTFIyaFlLRDRIUFdiOFRpOWY1VmRwT0hMbWdwMnFOMXVHQmdr?oc=5",
-     "pub": "2026-11-14T09:26+00:00"
-    },
-    {
-     "medio": "Google News EN",
-     "titulo": "Pochettino bids emotional farewell to US football ahead of Man Utd move",
-     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPWlhTb25XRC0xRnp6Sk9nNXRqZnJuUUl3YUVaazVQU3RleG5GcWJZMFdZSGxhRGlpM0FSVFI1TjNzMElSYW1EWVJsbERyZFpWMEplMUtNY0JNd0pMXzdCOWVFS2JIb1BuSjY0elBhU3FNM3g5a1NBaWgzaXF1cFVqZDdGaXk0Sm9QN0JGbVFGZ3Z4cHRBblBiNnBKbWJocm9TZnNzZ1NRX2EwWm44NEQ3V2F6ZW82QUlaSWVjR0ZmN2zSAcYBQVVfeXFMTlNsN2VTVGtwQmVpd0FOeXFDc3RTVkxHNklvSlJjT3c3QTA0ZVY5Qzh2eUk0Ml9ZcTdCODk5MU9kTzV3YkhWR2lyM1prSHRoRDRXUExUZF9EcFFHM3hGYnE0YThyQWk2OWtPRzBrZzNsNlYyMlpiaGZFZEc1REh1UllIUlBacWVjYzhGUkt3NFdVamduajNDYTB3Rm5GVzNYcU1jbFA5RHJkMm1xUjVTSHc4UDR2SHN5SGs3bnVvUVhJbDhqU1B3?oc=5",
-     "pub": "2026-11-14T09:28+00:00"
-    },
-    {
-     "medio": "Mundo Deportivo",
-     "titulo": "\"Me sorprendería si Pochettino dura 18 meses en el Manchester United\"",
-     "url": "https://www.mundodeportivo.com/futbol/20261114/1004250884/me-sorprenderia-pochettino-dura-18-meses-manchester-united.html",
-     "pub": ""
-    }
-   ]
-  },
-  {
-   "tema": "Ronaldo",
-   "medios": 12,
-   "lista_medios": [
-    "Foot Mercato",
-    "Google News AR",
-    "Guardian",
-    "Infobae",
-    "L'Equipe",
-    "Mirror",
-    "Mundo Deportivo",
-    "Ole",
-    "Record",
+    "Sky Sports",
     "Yahoo",
     "ge.globo",
     "talkSPORT"
@@ -306,76 +309,76 @@
    "primera_vez": "2026-11-14T13:45+00:00",
    "titulares": [
     {
-     "medio": "Guardian",
-     "titulo": "Portugal did the extraordinary with Cristiano Ronaldo. Can they do it without him?",
-     "url": "https://www.theguardian.com/football/2026/nov/14/portugal-cristiano-ronaldo-football-memories-future",
-     "pub": "2026-11-14T06:53+00:00"
+     "medio": "BBC",
+     "titulo": "Tuchel to remind England of anti-racism protocols before Spain game",
+     "url": "https://www.bbc.co.uk/sport/football/articles/c60mdzn2dk1eo?at_medium=RSS&at_campaign=rss",
+     "pub": "2026-11-14T09:13+00:00"
     },
     {
-     "medio": "Foot Mercato",
-     "titulo": "Les incroyables anecdotes de Medhi Benatia sur Cristiano Ronaldo",
-     "url": "https://www.footmercato.net/a3766906766834372926-les-incroyables-anecdotes-de-medhi-benatia-sur-cristiano-ronaldo",
-     "pub": "2026-11-14T12:57+00:00"
+     "medio": "Sky Sports",
+     "titulo": "Wales vs New Zealand LIVE! All Blacks visit Cardiff before England play Japan",
+     "url": "https://www.skysports.com/rugby-union/live-blog/12040/13612004/wales-vs-new-zealand-england-vs-japan-live-nations-championship-updates-latest-scores-team-news-commentary-from-cardiff-twickenham",
+     "pub": "2026-11-14T12:45+00:00"
     },
     {
-     "medio": "Foot Mercato",
-     "titulo": "Portugal : le successeur du numéro 7 de Cristiano Ronaldo est connu",
-     "url": "https://www.footmercato.net/a1564203716687109788-portugal-le-successeur-du-numero-7-de-cristiano-ronaldo-est-connu",
-     "pub": "2026-11-14T10:58+00:00"
-    },
-    {
-     "medio": "Foot Mercato",
-     "titulo": "Portugal : de nombreux hommages prévus pour Cristiano Ronaldo",
-     "url": "https://www.footmercato.net/a5454640922266554944-portugal-de-nombreux-hommages-prevus-pour-cristiano-ronaldo",
-     "pub": "2026-11-14T09:10+00:00"
-    },
-    {
-     "medio": "ge.globo",
-     "titulo": "Fred destaca impacto de Cristiano Ronaldo na nova geração de jogadores do Fluminense: \"Influência absurda\"",
-     "url": "https://ge.globo.com/futebol/times/fluminense/noticia/2026/11/14/fred-destaca-impacto-de-cristiano-ronaldo-na-nova-geracao-de-jogadores-do-fluminense-influencia-absurda.ghtml",
-     "pub": "2026-11-14T12:00+00:00"
+     "medio": "Mirror",
+     "titulo": "Man Utd news LIVE: Nico Paz interest, Marcus Rashford plan, England youth star signed",
+     "url": "https://www.mirror.co.uk/sport/football/news/man-utd-mauricio-pochettino-transfers-37876833",
+     "pub": "2026-11-14T13:25+00:00"
     },
     {
      "medio": "Yahoo",
-     "titulo": "Benatia: ‘Ronaldo asked me to speak to Allegri at Juventus about skipping pre-match retreats’",
-     "url": "https://sports.yahoo.com/articles/benatia-ronaldo-asked-speak-allegri-183500405.html",
-     "pub": "2026-11-14T18:35+00:00"
+     "titulo": "England Under-21 debut for Norwich forward Makama",
+     "url": "https://sports.yahoo.com/articles/england-under-21-debut-norwich-130014428.html",
+     "pub": "2026-11-14T13:00+00:00"
     },
     {
-     "medio": "Mundo Deportivo",
-     "titulo": "Portugal toma una decisión histórica con el '7' de Cristiano Ronaldo",
-     "url": "https://www.mundodeportivo.com/futbol/internacional/20261114/1004250987/portugal-cambia-7-homenaje-cristiano-ronaldo-historia-sera-olvidada.html",
-     "pub": ""
+     "medio": "Yahoo",
+     "titulo": "3 Arsenal youngsters feature as Dowman breaks England record",
+     "url": "https://sports.yahoo.com/articles/3-arsenal-youngsters-feature-dowman-120100787.html",
+     "pub": "2026-11-14T12:01+00:00"
     },
     {
-     "medio": "L'Equipe",
-     "titulo": "Carlos Forbs est le nouveau numéro 7 du Portugal, mais le flocage est différent de celui de Cristiano Ronaldo",
-     "url": "https://www.lequipe.fr/Football/Actualites/Carlos-forbs-est-le-nouveau-numero-sept-du-portugal-mais-le-flocage-est-different-de-celui-de-cristiano-ronaldo/1743646#at_medium=RSS_feeds",
-     "pub": "2026-11-14T15:52+00:00"
+     "medio": "Google News EN",
+     "titulo": "England XI vs Spain: Confirmed team news, predicted lineup and injury latest for Nations League",
+     "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPRE1XNW53UlFMOUNDYXRnVkNqM0lTMnlrSzFycG1YSGNWZzJVUVIyRW92T3ViNF9WSUhNWlE0ZkVIdkI2R0JySEpkNVZkSkdhYWJ5VGpqX3RyUTg2Zmo3ajRCSzNPQ0FDMFBFZlBzeEFONU9BczFVR1owSDBCaVB6NmJ0aTZYYVFwQ1FZUWFFQzJTdS1UNnlnTzFsRVVMMjlQc1lySEpOVlF0TVNPaGd1REJtS3RfWmlRdi0zR2IyQVF4TkxnSGRnOC0yaTU0VFVVX0ZRcFVUblY?oc=5",
+     "pub": "2026-11-14T11:27+00:00"
     },
     {
-     "medio": "Foot Mercato",
-     "titulo": "Le Portugal a une idée folle pour laisser le 7 à Cristiano Ronaldo",
-     "url": "https://www.footmercato.net/a743769085841702122-le-portugal-a-une-idee-folle-pour-laisser-le-7-a-cristiano-ronaldo",
-     "pub": "2026-11-14T14:52+00:00"
+     "medio": "Guardian",
+     "titulo": "De la Fuente adamant there is no racism in Spain despite England reminder to players",
+     "url": "https://www.theguardian.com/football/2026/nov/14/luis-de-la-fuente-spain-england-racism-thomas-tuchel-natiions-league",
+     "pub": "2026-11-14T18:59+00:00"
     },
     {
-     "medio": "Record",
-     "titulo": "<![CDATA[ «Obrigado por cada sorriso que nos deste»: mensagens de adeptos para Ronaldo passam no Estádio Municipal de Braga ]]>",
-     "url": "https://www.record.pt/multimedia/videos/detalhe/obrigado-por-cada-sorriso-que-nos-deste-mensagens-de-adeptos-para-ronaldo-passam-no-estadio-municipal-de-braga",
-     "pub": "2026-11-14T19:01+00:00"
+     "medio": "Sky Sports",
+     "titulo": "Joseph scores five tries in England annihilation of Japan",
+     "url": "https://www.skysports.com/rugby-union/england-vs-japan/report/111692",
+     "pub": "2026-11-14T14:31+00:00"
     },
     {
-     "medio": "Ole",
-     "titulo": "Portugal homenajeó a Cristiano Ronaldo luego de su retiro de la selección",
-     "url": "https://www.ole.com.ar/futbol-internacional/cristiano-ronaldo-portugal-homenaje-nations-league-camiseta-partido-dinamarca_0_OundhcFnEF.html",
-     "pub": "2026-11-14T18:50+00:00"
+     "medio": "Daily Mail",
+     "titulo": "Why Bukayo Saka's England spot is suddenly under threat: Clocking up the miles has made Arsenal star a fitness concern - while his rival Morgan Rogers is hitting top gear: CRAIG HOPE",
+     "url": "https://www.dailymail.com/sport/football/article-16290387/Why-Bukayo-Sakas-England-spot-suddenly-threat-Morgan-Rogers-hits-gear-CRAIG-HOPE.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+     "pub": "2026-11-14T14:21+00:00"
     },
     {
-     "medio": "Infobae",
-     "titulo": "El cambio que hizo Portugal en su camiseta para homenajear a Cristiano Ronaldo: quién será el primer dueño de la “7” tras su retiro",
-     "url": "https://www.infobae.com/deportes/2026/11/14/el-cambio-que-hizo-portugal-en-su-camiseta-para-homenajear-a-cristiano-ronaldo-quien-sera-el-primer-dueno-de-la-7-tras-su-retiro/",
-     "pub": "2026-11-14T16:57+00:00"
+     "medio": "Planet Football",
+     "titulo": "18 more England records Harry Kane could break after becoming all-time caps leader",
+     "url": "https://www.planetfootball.com/stats-tables/england-records-harry-kane-still-break",
+     "pub": "2026-11-14T16:14+00:00"
+    },
+    {
+     "medio": "Yahoo",
+     "titulo": "Rico Lewis Outlines Path to Return to Thomas Tuchel's Squad Following England U21 Heroics",
+     "url": "https://sports.yahoo.com/articles/rico-lewis-outlines-path-return-153000781.html",
+     "pub": "2026-11-14T15:30+00:00"
+    },
+    {
+     "medio": "BBC",
+     "titulo": "Spain test will reveal if Tuchel and England have learned World Cup lessons",
+     "url": "https://www.bbc.co.uk/sport/football/articles/cq2d9l3e313zo?at_medium=RSS&at_campaign=rss",
+     "pub": "2026-11-14T20:22+00:00"
     }
    ]
   },
@@ -473,6 +476,99 @@
    ]
   },
   {
+   "tema": "Pochettino",
+   "medios": 12,
+   "lista_medios": [
+    "Daily Mail",
+    "Foot Mercato",
+    "Google News AR",
+    "Google News EN",
+    "Guardian",
+    "Kicker",
+    "L'Equipe",
+    "Mirror",
+    "Mundo Deportivo",
+    "Record",
+    "Yahoo",
+    "talkSPORT"
+   ],
+   "primera_vez": "2026-11-14T13:45+00:00",
+   "titulares": [
+    {
+     "medio": "talkSPORT",
+     "titulo": "Rickie Lambert’s brutal memory proves Mauricio Pochettino will fix glaring Man United problem",
+     "url": "https://talksport.com/football/4701501/mauricio-pochettino-man-united-running-stats/",
+     "pub": "2026-11-14T12:37+00:00"
+    },
+    {
+     "medio": "Mirror",
+     "titulo": "Man Utd star sends alarming message to Mauricio Pochettino as he confirms blow",
+     "url": "https://www.mirror.co.uk/sport/football/news/man-utd-senne-lammens-pochettino-37877388",
+     "pub": "2026-11-14T13:35+00:00"
+    },
+    {
+     "medio": "Mirror",
+     "titulo": "Man Utd ready to spend big in January as Mauricio Pochettino picks his targets",
+     "url": "https://www.mirror.co.uk/sport/football/news/man-united-transfers-mauricio-pochettino-37877358",
+     "pub": "2026-11-14T12:56+00:00"
+    },
+    {
+     "medio": "Yahoo",
+     "titulo": "Mauricio Pochettino needs to be the most ruthless version of himself to rejuvenate Manchester United",
+     "url": "https://sports.yahoo.com/articles/mauricio-pochettino-needs-most-ruthless-121918088.html",
+     "pub": "2026-11-14T12:19+00:00"
+    },
+    {
+     "medio": "Yahoo",
+     "titulo": "Mauricio Pochettino already dealt Manchester United injury blow",
+     "url": "https://sports.yahoo.com/articles/mauricio-pochettino-already-dealt-manchester-105000681.html",
+     "pub": "2026-11-14T10:50+00:00"
+    },
+    {
+     "medio": "Google News EN",
+     "titulo": "Mauricio Pochettino: New Man Utd head coach in tears as he labels leaving USMNT 'toughest decision of career'",
+     "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPVU5lb3ZFanoxUkJVSmVjUUl3T3hJWGg2QjNmN0hIZERLaVFTTGFZTy1lLTNIbXdUckQtSWR6R2lPX01mcV84cFVtTXI2N2ZRNEh0TXNscnowenlHalU0RnZENi1vYXQ5RGc2SnE3ZTNnODZiaDRUdURtb08tV1VGVlMzMXZJSWVFdEhtMS13YWhOZ2pDNHF1a2Q1VjA4dUNhSGQ0QUlGZWN1SlJRa0diTVE0YUhXajRjRTZIT0VWTFdNdnN4SHRPTFIyaFlLRDRIUFdiOFRpOWY1VmRwT0hMbWdwMnFOMXVHQmdr?oc=5",
+     "pub": "2026-11-14T09:26+00:00"
+    },
+    {
+     "medio": "Google News EN",
+     "titulo": "Pochettino bids emotional farewell to US football ahead of Man Utd move",
+     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPWlhTb25XRC0xRnp6Sk9nNXRqZnJuUUl3YUVaazVQU3RleG5GcWJZMFdZSGxhRGlpM0FSVFI1TjNzMElSYW1EWVJsbERyZFpWMEplMUtNY0JNd0pMXzdCOWVFS2JIb1BuSjY0elBhU3FNM3g5a1NBaWgzaXF1cFVqZDdGaXk0Sm9QN0JGbVFGZ3Z4cHRBblBiNnBKbWJocm9TZnNzZ1NRX2EwWm44NEQ3V2F6ZW82QUlaSWVjR0ZmN2zSAcYBQVVfeXFMTlNsN2VTVGtwQmVpd0FOeXFDc3RTVkxHNklvSlJjT3c3QTA0ZVY5Qzh2eUk0Ml9ZcTdCODk5MU9kTzV3YkhWR2lyM1prSHRoRDRXUExUZF9EcFFHM3hGYnE0YThyQWk2OWtPRzBrZzNsNlYyMlpiaGZFZEc1REh1UllIUlBacWVjYzhGUkt3NFdVamduajNDYTB3Rm5GVzNYcU1jbFA5RHJkMm1xUjVTSHc4UDR2SHN5SGs3bnVvUVhJbDhqU1B3?oc=5",
+     "pub": "2026-11-14T09:28+00:00"
+    },
+    {
+     "medio": "Mundo Deportivo",
+     "titulo": "\"Me sorprendería si Pochettino dura 18 meses en el Manchester United\"",
+     "url": "https://www.mundodeportivo.com/futbol/20261114/1004250884/me-sorprenderia-pochettino-dura-18-meses-manchester-united.html",
+     "pub": ""
+    },
+    {
+     "medio": "Guardian",
+     "titulo": "Mauricio Pochettino asked the US to believe in his project. Did he believe in it himself?",
+     "url": "https://www.theguardian.com/football/2026/nov/14/mauricio-pochettino-usmnt-legacy-belief",
+     "pub": "2026-11-14T14:06+00:00"
+    },
+    {
+     "medio": "talkSPORT",
+     "titulo": "Manchester United quietly complete first signing of Mauricio Pochettino era",
+     "url": "https://talksport.com/football/4707736/manchester-united-transfer-news-mauricio-pochettino-tyler-adjei/",
+     "pub": "2026-11-14T16:43+00:00"
+    },
+    {
+     "medio": "Daily Mail",
+     "titulo": "Mauricio Pochettino leaves behind a negligible legacy at USMNT... where raised standards never materialized into results as tearful Argentine bolts for Man United",
+     "url": "https://www.dailymail.com/sport/football/article-16291521/mauricio-pochettino-usmnt-manchester-united.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+     "pub": "2026-11-14T18:42+00:00"
+    },
+    {
+     "medio": "Google News AR",
+     "titulo": "Una leyenda del fútbol inglés sorprendió con su pronóstico sobre Pochettino: “Si dura 18 meses en el Manchester United, estaré sorprendido\"",
+     "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOU1BnbDR5M0g4SUk3M0p2ZG5MYUU2OHBlQ29pUzdhLVNDRGJPNlUySHhfaW5ILUlOWE1lUlNsNEg5UVlCb3c3cEVBRzFTcktadVVHLVQyUWp1ZFpkWkRvQlVNWHdBU294TEZMWF9Yem1CQ1pmU2s0VFpOOG1jcTR4cEVJTVU3cnBiVTlqZGdKTEd6M0lnVGRDR183Mmg3dExzdnVobkduZlFscFRJRVd2dGFVUERiUVBTWV92T1FBckdhSU5OaWJtZnFPMEpUR1F2aVhSQzUxbjNBYUp0TDNaRUFPZmc5ek5qWlY1OE1nUS1WX2t6bFHSAYoCQVVfeXFMTnNFclhEVkw3N0s1VHRlOGg5RG4tUFVTMkV5UDB3SWdKQl84MGd1XzZ1OXIwdnpVLWk0bGhJUGtsd1JXSUVTX2QtTXk1emtWT29ZZHhWNmc2YjlMektUOVN6RmVhM3l1dzhKWnhXazd3TlJNenFsZkpLR0x1SWtYWlFKREhCYnFEMWlURzFEalhIT1BJVG5YREpfaHE3cTFDQ1EzOGtMVi0wWl9WUDF4ZVZMY3l3bzJTRnB2WWlTRHVEdC1vdjNaRlRKWkhDZTRyTDVTRWZvc0ZJMHBuWV9ObkVDQ0FULWxXTUZ0V25zcmMxRUduZkk5Y0xUSVAzVDU3em9YMlpGNG52LVE?oc=5",
+     "pub": "2026-11-14T19:02+00:00"
+    }
+   ]
+  },
+  {
    "tema": "Cristiano",
    "medios": 11,
    "lista_medios": [
@@ -490,12 +586,6 @@
    ],
    "primera_vez": "2026-11-14T13:45+00:00",
    "titulares": [
-    {
-     "medio": "Guardian",
-     "titulo": "Portugal did the extraordinary with Cristiano Ronaldo. Can they do it without him?",
-     "url": "https://www.theguardian.com/football/2026/nov/14/portugal-cristiano-ronaldo-football-memories-future",
-     "pub": "2026-11-14T06:53+00:00"
-    },
     {
      "medio": "Foot Mercato",
      "titulo": "Les incroyables anecdotes de Medhi Benatia sur Cristiano Ronaldo",
@@ -561,114 +651,120 @@
      "titulo": "La selección de Portugal cambió el diseño del dorsal 7 de su camiseta tras el retiro de Cristiano Ronaldo: quién lo reemplazará",
      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOeWUtaXhCZGdPX0ZSejlyVU1zdXJXaVZoeXN6WXJhZmF4MjNQTTVvQzRHeTlKMUhSbXhxWlM2Vk1rakUwbVIyWUkxWENVV3FzcE1scHc0UWUxdHpxS0NyRC1MTVpEV01oZDh4T2lNUi1vOVZ3R2RZQnc5eVJvaDY2dmVkUzI2Yzd1UWROdmVPVVVvbFdoZzRudTNLcDJUc2pCckp6UURkMDhRRmxJSkMweVkyWFJWbUxXUWI1R1lnNDhSWDFEcXlGTEdkRnEzZHM3bnIyMVdsNlFzMlpxZ2dYUTRONEZ1MkFkNmc?oc=5",
      "pub": "2026-11-14T18:40+00:00"
+    },
+    {
+     "medio": "Google News AR",
+     "titulo": "¿Quién usará la camiseta 7 de Cristiano Ronaldo en Portugal tras su retiro?",
+     "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1QWEprQTZtU0lHYmNHNFZLQVEzTjdST2ZOSmlWNHI4Nkd2eDZnWldESUZEc2NZR3ZmZzdyRVB1dk1JdHFTeVBmbEtpX05mZm03WlcwR01oMHNtTzF3enhwNUdJX3hUVkNzbDZnSHowSFo2QW5HYnNueUlaNVY?oc=5",
+     "pub": "2026-11-14T18:10+00:00"
     }
    ]
   },
   {
-   "tema": "Ronaldinho",
+   "tema": "Ronaldo",
    "medios": 11,
    "lista_medios": [
-    "AS",
     "Foot Mercato",
-    "Football Italia",
     "Google News AR",
-    "Google News EN",
-    "Google News ES",
     "Infobae",
     "L'Equipe",
+    "Mirror",
     "Mundo Deportivo",
+    "Ole",
+    "Record",
     "Yahoo",
-    "ge.globo"
+    "ge.globo",
+    "talkSPORT"
    ],
    "primera_vez": "2026-11-14T13:45+00:00",
    "titulares": [
     {
-     "medio": "Yahoo",
-     "titulo": "Picture: Ronaldinho joins Ravenna teammates for dinner before first training",
-     "url": "https://sports.yahoo.com/articles/picture-ronaldinho-joins-ravenna-teammates-130000631.html",
-     "pub": "2026-11-14T13:00+00:00"
-    },
-    {
-     "medio": "Yahoo",
-     "titulo": "Ronaldinho to start for Ravenna as Brazil legend reveals two reasons for his comeback at 46",
-     "url": "https://sports.yahoo.com/articles/ronaldinho-start-ravenna-brazil-legend-122800306.html",
-     "pub": "2026-11-14T12:28+00:00"
-    },
-    {
-     "medio": "L'Equipe",
-     "titulo": "À 46 ans, Ronaldinho sera titulaire en Serie C onze ans après son dernier match en pro",
-     "url": "https://www.lequipe.fr/Football/Actualites/A-46-ans-ronaldinho-sera-titulaire-en-serie-c-onze-ans-apres-son-dernier-match-en-pro/1743611#at_medium=RSS_feeds",
-     "pub": "2026-11-14T11:38+00:00"
-    },
-    {
-     "medio": "Yahoo",
-     "titulo": "Ronaldinho: ‘Endrick can play in any league’ amid Roma and Milan links",
-     "url": "https://sports.yahoo.com/articles/ronaldinho-endrick-play-league-amid-174500960.html",
-     "pub": "2026-11-14T17:45+00:00"
-    },
-    {
-     "medio": "Yahoo",
-     "titulo": "Watch: Ronaldinho trains with Ravenna before first competitive game in over a decade",
-     "url": "https://sports.yahoo.com/articles/watch-ronaldinho-trains-ravenna-first-161700767.html",
-     "pub": "2026-11-14T16:17+00:00"
-    },
-    {
-     "medio": "Mundo Deportivo",
-     "titulo": "Ronaldinho, antes de su debut: \"Van a decir que es IA\"",
-     "url": "https://www.mundodeportivo.com/futbol/internacional/20261114/1004250979/locura-ronaldinho-entrenamiento-previo-reaparicion.html",
-     "pub": ""
-    },
-    {
-     "medio": "Google News ES",
-     "titulo": "Ronaldinho vuelve al fútbol... ¡con la misma magia que lo dejó!",
-     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNMnhUYUdzS2MzWHJJbmtyYlhGQXFRTG12MjI0YUt0VTJ1ODRnc1BEZXZLbE56Y2VQdmtVMWtZX2VHaXJNRGs5cEUwRWJqUDQweGRTbDJtWnh0MXQ2MFdjbF9KaHFzZGd1UEhyY3FmWHFYYWYwMWVqUE5LZGZIYWVod0hfMmxVUmJKV3cwX2VvLU5kd1ZQQ0NvZWhlTkbSAaIBQVVfeXFMTjlnT0txQUhzZzNHRHpCUGdSYnBYVWltUlFBbEpXVlVpb0pWRk11cjhuVExOWERtbEx3dmtWUnZQVFowaGRvRVMzdEVnaHp0Qkwyc3dFaV8xbDA3SVI0WlNzT3VHRWtfaUdBU2pmeTNTemxJOW80S2RDb0x1YjdwcEdadHMxTUtfYXRKT3AwQ09TYWdZaW1tVElhZnpWU0RTelRB?oc=5",
-     "pub": "2026-11-14T18:14+00:00"
-    },
-    {
-     "medio": "Google News ES",
-     "titulo": "Ronaldinho prepara su regreso al fútbol profesional: ya entrena con el Ravena de la Serie C",
-     "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQaXkwY2NvQ3JHdHVZdHdMTEJISHA3NXBpRi1YdmhIZzRYMUxVa3RJWXdtU0UtS29mekZibXg1Nk5CcGg0R0MtLWl3Zzg0SUlISFExSGQzNlZsZENZMFh1Zk8xZDRDNEtFOUs3OVpfTmFzYllIcVNhZ0lHc1NqdlN6VS0tNlpEYVctTnhTZkNlaWNqQ1JnLUxCMUJmSHVYZTMyMmlzQXNwR1VwVjJrZzBycFBhVGxvNWsyOHEtTkk2WTB1S0hFaE9mek10MTE?oc=5",
-     "pub": "2026-11-14T18:43+00:00"
-    },
-    {
-     "medio": "Football Italia",
-     "titulo": "Ronaldinho: Endrick would suit Milan or Roma, Ancelotti ‘the best coach in the world’",
-     "url": "https://football-italia.net/ronaldinho-endrick-milan-roma-ancelotti-best/",
-     "pub": "2026-11-14T14:38+00:00"
+     "medio": "Foot Mercato",
+     "titulo": "Les incroyables anecdotes de Medhi Benatia sur Cristiano Ronaldo",
+     "url": "https://www.footmercato.net/a3766906766834372926-les-incroyables-anecdotes-de-medhi-benatia-sur-cristiano-ronaldo",
+     "pub": "2026-11-14T12:57+00:00"
     },
     {
      "medio": "Foot Mercato",
-     "titulo": "Italie : Ronaldinho va être titulaire dans un match de Serie C",
-     "url": "https://www.footmercato.net/a8819070247560753879-italie-ronaldinho-va-etre-titulaire-dans-un-match-de-serie-c",
-     "pub": "2026-11-14T16:38+00:00"
+     "titulo": "Portugal : le successeur du numéro 7 de Cristiano Ronaldo est connu",
+     "url": "https://www.footmercato.net/a1564203716687109788-portugal-le-successeur-du-numero-7-de-cristiano-ronaldo-est-connu",
+     "pub": "2026-11-14T10:58+00:00"
     },
     {
-     "medio": "Google News EN",
-     "titulo": "Ronaldinho returns for Italian third-tier side, aged 46",
-     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1uUkFFanI1NUxIcEV1N3hlRWVUQkdGWGYzLUJCUUh0WU51RnpuS3Y5dTJUVFI4czVvRGdqZU5ETVRfUWM0STQ2WmNwT3dvMERhVzhMaFNJd1dtM0VSWXVPd0lFbnQyeDVH?oc=5",
-     "pub": "2026-11-15T10:34+00:00"
+     "medio": "Foot Mercato",
+     "titulo": "Portugal : de nombreux hommages prévus pour Cristiano Ronaldo",
+     "url": "https://www.footmercato.net/a5454640922266554944-portugal-de-nombreux-hommages-prevus-pour-cristiano-ronaldo",
+     "pub": "2026-11-14T09:10+00:00"
     },
     {
-     "medio": "AS",
-     "titulo": "¡Ronaldinho vuelve al fútbol!",
-     "url": "https://as.com/futbol/internacional/ronaldinho-vuelve-al-futbol-f202611-n/",
-     "pub": "2026-11-15T07:33+00:00"
+     "medio": "ge.globo",
+     "titulo": "Fred destaca impacto de Cristiano Ronaldo na nova geração de jogadores do Fluminense: \"Influência absurda\"",
+     "url": "https://ge.globo.com/futebol/times/fluminense/noticia/2026/11/14/fred-destaca-impacto-de-cristiano-ronaldo-na-nova-geracao-de-jogadores-do-fluminense-influencia-absurda.ghtml",
+     "pub": "2026-11-14T12:00+00:00"
+    },
+    {
+     "medio": "Yahoo",
+     "titulo": "Benatia: ‘Ronaldo asked me to speak to Allegri at Juventus about skipping pre-match retreats’",
+     "url": "https://sports.yahoo.com/articles/benatia-ronaldo-asked-speak-allegri-183500405.html",
+     "pub": "2026-11-14T18:35+00:00"
+    },
+    {
+     "medio": "Mundo Deportivo",
+     "titulo": "Portugal toma una decisión histórica con el '7' de Cristiano Ronaldo",
+     "url": "https://www.mundodeportivo.com/futbol/internacional/20261114/1004250987/portugal-cambia-7-homenaje-cristiano-ronaldo-historia-sera-olvidada.html",
+     "pub": ""
+    },
+    {
+     "medio": "L'Equipe",
+     "titulo": "Carlos Forbs est le nouveau numéro 7 du Portugal, mais le flocage est différent de celui de Cristiano Ronaldo",
+     "url": "https://www.lequipe.fr/Football/Actualites/Carlos-forbs-est-le-nouveau-numero-sept-du-portugal-mais-le-flocage-est-different-de-celui-de-cristiano-ronaldo/1743646#at_medium=RSS_feeds",
+     "pub": "2026-11-14T15:52+00:00"
+    },
+    {
+     "medio": "Foot Mercato",
+     "titulo": "Le Portugal a une idée folle pour laisser le 7 à Cristiano Ronaldo",
+     "url": "https://www.footmercato.net/a743769085841702122-le-portugal-a-une-idee-folle-pour-laisser-le-7-a-cristiano-ronaldo",
+     "pub": "2026-11-14T14:52+00:00"
+    },
+    {
+     "medio": "Record",
+     "titulo": "<![CDATA[ «Obrigado por cada sorriso que nos deste»: mensagens de adeptos para Ronaldo passam no Estádio Municipal de Braga ]]>",
+     "url": "https://www.record.pt/multimedia/videos/detalhe/obrigado-por-cada-sorriso-que-nos-deste-mensagens-de-adeptos-para-ronaldo-passam-no-estadio-municipal-de-braga",
+     "pub": "2026-11-14T19:01+00:00"
+    },
+    {
+     "medio": "Ole",
+     "titulo": "Portugal homenajeó a Cristiano Ronaldo luego de su retiro de la selección",
+     "url": "https://www.ole.com.ar/futbol-internacional/cristiano-ronaldo-portugal-homenaje-nations-league-camiseta-partido-dinamarca_0_OundhcFnEF.html",
+     "pub": "2026-11-14T18:50+00:00"
+    },
+    {
+     "medio": "Infobae",
+     "titulo": "El cambio que hizo Portugal en su camiseta para homenajear a Cristiano Ronaldo: quién será el primer dueño de la “7” tras su retiro",
+     "url": "https://www.infobae.com/deportes/2026/11/14/el-cambio-que-hizo-portugal-en-su-camiseta-para-homenajear-a-cristiano-ronaldo-quien-sera-el-primer-dueno-de-la-7-tras-su-retiro/",
+     "pub": "2026-11-14T16:57+00:00"
+    },
+    {
+     "medio": "Google News AR",
+     "titulo": "La selección de Portugal cambió el diseño del dorsal 7 de su camiseta tras el retiro de Cristiano Ronaldo: quién lo reemplazará",
+     "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOeWUtaXhCZGdPX0ZSejlyVU1zdXJXaVZoeXN6WXJhZmF4MjNQTTVvQzRHeTlKMUhSbXhxWlM2Vk1rakUwbVIyWUkxWENVV3FzcE1scHc0UWUxdHpxS0NyRC1MTVpEV01oZDh4T2lNUi1vOVZ3R2RZQnc5eVJvaDY2dmVkUzI2Yzd1UWROdmVPVVVvbFdoZzRudTNLcDJUc2pCckp6UURkMDhRRmxJSkMweVkyWFJWbUxXUWI1R1lnNDhSWDFEcXlGTEdkRnEzZHM3bnIyMVdsNlFzMlpxZ2dYUTRONEZ1MkFkNmc?oc=5",
+     "pub": "2026-11-14T18:40+00:00"
     }
    ]
   },
   {
-   "tema": "England",
+   "tema": "Spain",
    "medios": 10,
    "lista_medios": [
     "BBC",
     "Daily Mail",
+    "FourFourTwo",
     "Google News EN",
     "Guardian",
     "Mirror",
     "Planet Football",
     "Sky Sports",
     "Yahoo",
-    "ge.globo",
     "talkSPORT"
    ],
    "primera_vez": "2026-11-14T13:45+00:00",
@@ -680,28 +776,10 @@
      "pub": "2026-11-14T09:13+00:00"
     },
     {
-     "medio": "Sky Sports",
-     "titulo": "Wales vs New Zealand LIVE! All Blacks visit Cardiff before England play Japan",
-     "url": "https://www.skysports.com/rugby-union/live-blog/12040/13612004/wales-vs-new-zealand-england-vs-japan-live-nations-championship-updates-latest-scores-team-news-commentary-from-cardiff-twickenham",
-     "pub": "2026-11-14T12:45+00:00"
-    },
-    {
-     "medio": "Mirror",
-     "titulo": "Man Utd news LIVE: Nico Paz interest, Marcus Rashford plan, England youth star signed",
-     "url": "https://www.mirror.co.uk/sport/football/news/man-utd-mauricio-pochettino-transfers-37876833",
-     "pub": "2026-11-14T13:25+00:00"
-    },
-    {
-     "medio": "Yahoo",
-     "titulo": "England Under-21 debut for Norwich forward Makama",
-     "url": "https://sports.yahoo.com/articles/england-under-21-debut-norwich-130014428.html",
-     "pub": "2026-11-14T13:00+00:00"
-    },
-    {
-     "medio": "Yahoo",
-     "titulo": "3 Arsenal youngsters feature as Dowman breaks England record",
-     "url": "https://sports.yahoo.com/articles/3-arsenal-youngsters-feature-dowman-120100787.html",
-     "pub": "2026-11-14T12:01+00:00"
+     "medio": "Guardian",
+     "titulo": "De la Fuente feels the strain as Lamine Yamal club v country debate rages in Spain",
+     "url": "https://www.theguardian.com/football/2026/nov/14/lamine-yamal-luis-de-la-fuente-spain-england-club-country",
+     "pub": "2026-11-14T08:00+00:00"
     },
     {
      "medio": "Google News EN",
@@ -716,46 +794,65 @@
      "pub": "2026-11-14T18:59+00:00"
     },
     {
-     "medio": "Sky Sports",
-     "titulo": "Joseph scores five tries in England annihilation of Japan",
-     "url": "https://www.skysports.com/rugby-union/england-vs-japan/report/111692",
-     "pub": "2026-11-14T14:31+00:00"
-    },
-    {
-     "medio": "Daily Mail",
-     "titulo": "Why Bukayo Saka's England spot is suddenly under threat: Clocking up the miles has made Arsenal star a fitness concern - while his rival Morgan Rogers is hitting top gear: CRAIG HOPE",
-     "url": "https://www.dailymail.com/sport/football/article-16290387/Why-Bukayo-Sakas-England-spot-suddenly-threat-Morgan-Rogers-hits-gear-CRAIG-HOPE.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-     "pub": "2026-11-14T14:21+00:00"
-    },
-    {
-     "medio": "Planet Football",
-     "titulo": "18 more England records Harry Kane could break after becoming all-time caps leader",
-     "url": "https://www.planetfootball.com/stats-tables/england-records-harry-kane-still-break",
-     "pub": "2026-11-14T16:14+00:00"
-    },
-    {
-     "medio": "Yahoo",
-     "titulo": "Rico Lewis Outlines Path to Return to Thomas Tuchel's Squad Following England U21 Heroics",
-     "url": "https://sports.yahoo.com/articles/rico-lewis-outlines-path-return-153000781.html",
-     "pub": "2026-11-14T15:30+00:00"
+     "medio": "BBC",
+     "titulo": "Branthwaite, Garner and King omitted for Spain game",
+     "url": "https://www.bbc.co.uk/sport/football/articles/cq4gn7014x76o?at_medium=RSS&at_campaign=rss",
+     "pub": "2026-11-15T13:15+00:00"
     },
     {
      "medio": "BBC",
      "titulo": "Spain test will reveal if Tuchel and England have learned World Cup lessons",
      "url": "https://www.bbc.co.uk/sport/football/articles/cq2d9l3e313zo?at_medium=RSS&at_campaign=rss",
      "pub": "2026-11-14T20:22+00:00"
+    },
+    {
+     "medio": "BBC",
+     "titulo": "'No racism in Spain' – De la Fuente message for Tuchel",
+     "url": "https://www.bbc.co.uk/sport/football/articles/c893r74ryy3qo?at_medium=RSS&at_campaign=rss",
+     "pub": "2026-11-14T20:43+00:00"
+    },
+    {
+     "medio": "Guardian",
+     "titulo": "Declan Rice accepts he had an ‘average World Cup’ as England gear up for Spain showdown",
+     "url": "https://www.theguardian.com/football/2026/nov/14/declan-rice-england-spain-nations-league-world-cup-thomas-tuchel",
+     "pub": "2026-11-14T20:30+00:00"
+    },
+    {
+     "medio": "talkSPORT",
+     "titulo": "Spain vs England Super Boost: England to score & Kane 1+ SOT NOW 6/4 on talkSPORT BET",
+     "url": "https://talksport.com/football/4706669/spain-vs-england-super-boost-kane-shot-talksportbet/",
+     "pub": "2026-11-15T09:00+00:00"
+    },
+    {
+     "medio": "talkSPORT",
+     "titulo": "Thomas Tuchel to drop key England star for crunch Nations League clash against Spain",
+     "url": "https://talksport.com/football/4707960/james-trafford-jordan-pickford-england-spain-thomas-tuchel/",
+     "pub": "2026-11-14T19:45+00:00"
+    },
+    {
+     "medio": "Daily Mail",
+     "titulo": "England's Euro 2028 mission starts NOW! Thomas Tuchel's men must beat Spain to prove they can compete with the best - or risk their 'DNA' cursing them yet again, writes OLIVER HOLT",
+     "url": "https://www.dailymail.com/sport/football/article-16293007/england-spain-euro-2028-oliver-holt.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+     "pub": "2026-11-15T00:04+00:00"
+    },
+    {
+     "medio": "Daily Mail",
+     "titulo": "England boss Thomas Tuchel angry at being dragged into race row after being told by Luis de la Fuente: 'There is no racism in Spain!' on eve of Nations League showdown",
+     "url": "https://www.dailymail.com/sport/football/article-16293027/England-boss-Thomas-Tuchel-angry-dragged-race-row-told-Luis-la-Fuente-no-racism-Spain-eve-Nations-League-showdown.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+     "pub": "2026-11-14T21:48+00:00"
     }
    ]
   },
   {
    "tema": "Tuchel",
-   "medios": 9,
+   "medios": 10,
    "lista_medios": [
     "AS",
     "BBC",
     "Daily Mail",
     "Foot Mercato",
     "Google News EN",
+    "Google News ES",
     "Kicker",
     "L'Equipe",
     "Mirror",
@@ -838,104 +935,15 @@
    ]
   },
   {
-   "tema": "Chelsea",
-   "medios": 9,
-   "lista_medios": [
-    "BBC",
-    "Daily Mail",
-    "FourFourTwo",
-    "Google News EN",
-    "Guardian",
-    "Mirror",
-    "Mundo Deportivo",
-    "Sky Sports",
-    "Yahoo"
-   ],
-   "primera_vez": "2026-11-14T13:45+00:00",
-   "titulares": [
-    {
-     "medio": "Guardian",
-     "titulo": "Chelsea v Manchester City: Women’s Super League – live",
-     "url": "https://www.theguardian.com/football/live/2026/nov/14/chelsea-v-man-city-womens-super-league-live",
-     "pub": "2026-11-14T13:27+00:00"
-    },
-    {
-     "medio": "Sky Sports",
-     "titulo": "WSL LIVE! Chelsea vs Man City under way, Man Utd lead Palace",
-     "url": "https://www.skysports.com/football/chelsea-women-vs-manchester-city-women/live/575819",
-     "pub": "2026-11-14T11:15+00:00"
-    },
-    {
-     "medio": "Daily Mail",
-     "titulo": "Named: Premier League team of the season so far as Erling Haaland, THREE Chelsea players and a surprise addition from Sunderland make the cut",
-     "url": "https://www.dailymail.com/sport/football/article-16277835/Named-Premier-League-team-season-far-Brightons-star-man-THREE-Chelsea-players-surprise-addition-Sunderland.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-     "pub": "2026-11-14T09:56+00:00"
-    },
-    {
-     "medio": "Mirror",
-     "titulo": "Mauricio Pochettino's dream Man Utd XI as Bruno Fernandes replaced and Chelsea star signs",
-     "url": "https://www.mirror.co.uk/sport/football/news/man-utd-team-mauricio-pochettino-37875314",
-     "pub": "2026-11-14T06:00+00:00"
-    },
-    {
-     "medio": "FourFourTwo",
-     "titulo": "How to watch Chelsea vs Manchester City: Free streams and TV channels as heavyweights face off",
-     "url": "https://www.fourfourtwo.com/competition/watch-chelsea-vs-manchester-city-wsl-2026-27-free",
-     "pub": "2026-11-14T08:00+00:00"
-    },
-    {
-     "medio": "Yahoo",
-     "titulo": "Chelsea set to battle Man United in the race to sign €80m star",
-     "url": "https://sports.yahoo.com/articles/chelsea-set-battle-man-united-115000198.html",
-     "pub": "2026-11-14T11:50+00:00"
-    },
-    {
-     "medio": "Google News EN",
-     "titulo": "Melvine Malard & Sonia Bompastor: How Chelsea reunion has brought best in France striker",
-     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5PQlJMRERoWHo1MkF1X2dTeElGYmc4ZHhvU2s0NDE2c1FqUExmMGxmOUNqaWUzeWZ6RktEZmtpRHV5SDg1Wnpwa1gycks2dU1neUFZOEw4X2dCLW9IQnNFdGpsazlJQnprZ2Fr?oc=5",
-     "pub": "2026-11-14T06:37+00:00"
-    },
-    {
-     "medio": "Google News EN",
-     "titulo": "Women's Super League LIVE! Chelsea vs Man City and Man Utd vs Crystal Palace match updates, news and score",
-     "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQX3lXbTdKQm9JVkJzTzVkbHhodlE4SzdGOFByM01vQVRPTUJsdTY4cEtHZG42NHpuQnl5OUJ1U1RFOUI5SGxZbVJUZEIyRnQ2TGhycmJoQTRjdk5oVUtaTTV3c2NSeGdvWFZWVFJmTkpvT3ljWDBFVkRKbmN5LXZaem0wNjFwbHlhVXRqNkZ6SGZ6bFdSNUQtZGp3S0g3eDB0cEVZblZYMUc5NDRDZ0FGWTZWaEROQk5hUXFoTFlaaXc2RVgyT2psQnN1VGxvSDhnYldyNXFxU1hRMFhaTUhIRjA0Umk0MHJlbnBqbUJB?oc=5",
-     "pub": "2026-11-14T12:21+00:00"
-    },
-    {
-     "medio": "Mundo Deportivo",
-     "titulo": "El Chelsea tanteó a Morante, que apostó por seguir en el Betis",
-     "url": "https://www.mundodeportivo.com/futbol/20261114/1004250872/chelsea-tanteo-morante-aposto-seguir-betis.html",
-     "pub": ""
-    },
-    {
-     "medio": "BBC",
-     "titulo": "Bompastor's risks pay off as Chelsea go top of WSL",
-     "url": "https://www.bbc.co.uk/sport/football/articles/cmvg25w18q9qo?at_medium=RSS&at_campaign=rss",
-     "pub": "2026-11-14T18:55+00:00"
-    },
-    {
-     "medio": "BBC",
-     "titulo": "Chelsea go top with 1-0 win against Man City",
-     "url": "https://www.bbc.co.uk/sport/football/videos/cm702wwpj9keo?at_medium=RSS&at_campaign=rss",
-     "pub": "2026-11-14T15:50+00:00"
-    },
-    {
-     "medio": "Guardian",
-     "titulo": "Chelsea go top of WSL as Sandy Baltimore bullet sees off Manchester City",
-     "url": "https://www.theguardian.com/football/2026/nov/14/chelsea-manchester-city-womens-super-league-match-report",
-     "pub": "2026-11-14T15:36+00:00"
-    }
-   ]
-  },
-  {
    "tema": "Lamine",
-   "medios": 9,
+   "medios": 10,
    "lista_medios": [
     "AS",
     "Foot Mercato",
     "Google News ES",
     "Guardian",
     "Kicker",
+    "L'Equipe",
     "Mundo Deportivo",
     "Sky Sports",
     "Yahoo",
@@ -1019,7 +1027,7 @@
   },
   {
    "tema": "Haaland",
-   "medios": 9,
+   "medios": 10,
    "lista_medios": [
     "BBC",
     "Daily Mail",
@@ -1027,6 +1035,7 @@
     "Google News EN",
     "Kicker",
     "Mirror",
+    "Mundo Deportivo",
     "Ole",
     "Yahoo",
     "talkSPORT"
@@ -1092,269 +1101,389 @@
      "titulo": "Erling Haaland snaps back at questions over Man City charges",
      "url": "https://sports.yahoo.com/articles/erling-haaland-snaps-back-over-110326648.html",
      "pub": "2026-11-15T11:30+00:00"
+    },
+    {
+     "medio": "Daily Mail",
+     "titulo": "'Am I supposed to answer that?': Erling Haaland breaks silence and distances himself from Man City cheating verdict as star striker insists 'I don't really know much' but is 'incredibly happy'",
+     "url": "https://www.dailymail.com/sport/football/article-16294157/Erling-Haaland-Man-City-cheating-verdict-star-striker-insists-dont-really-know-incredibly-happy.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+     "pub": "2026-11-15T15:41+00:00"
+    },
+    {
+     "medio": "Yahoo",
+     "titulo": "Erling Haaland provides interesting answer on Manchester City charges",
+     "url": "https://sports.yahoo.com/articles/erling-haaland-provides-interesting-answer-175000250.html",
+     "pub": "2026-11-15T17:50+00:00"
     }
    ]
   },
   {
-   "tema": "Uruguay",
-   "medios": 9,
+   "tema": "Ravenna",
+   "medios": 10,
    "lista_medios": [
+    "BBC",
     "Foot Mercato",
+    "Football Italia",
     "Google News AR",
+    "Google News EN",
     "Google News ES",
-    "Infobae",
-    "Kicker",
-    "L'Equipe",
-    "Mundo Deportivo",
-    "Ole",
-    "Yahoo"
+    "Guardian",
+    "Record",
+    "Yahoo",
+    "ge.globo"
    ],
    "primera_vez": "2026-11-14T13:45+00:00",
    "titulares": [
     {
-     "medio": "Mundo Deportivo",
-     "titulo": "Uruguay festejó ante una Argentina que extrañó a Messi",
-     "url": "https://www.mundodeportivo.com/futbol/internacional/20261114/1004250865/uruguay-festejo-argentina-extrano-messi.html",
-     "pub": ""
-    },
-    {
-     "medio": "Google News ES",
-     "titulo": "Argentina - Uruguay en directo - Amistosos: Resultados y resúmenes de Fútbol - 13/11/2026",
-     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOVFY4ZDBOc1lUMkZhTXN6VFVZeXN0dUJ3dzBQb0dQY2tuQWhiZXpUMDN4WXFiN3NkdkZ6MGNtV0NQR1dCVmIzWDlFbHlaNkdueXlYcWIyVEZoUlR5OTEyNm1MRTEtb2RjZHdwbVJSd0VWYXZCWFZfamRTa1ZMbGJ0UzU5NUhtMGFIREtQZDBMY3VmVEJUYXE0?oc=5",
-     "pub": "2026-11-14T09:20+00:00"
-    },
-    {
-     "medio": "Kicker",
-     "titulo": "Erste Pleite nach der Ära Messi: Argentinien unterliegt Uruguay",
-     "url": "https://www.kicker.de/argentinien-gegen-uruguay-2026-nationalteams-freundschaftsspiele-5274279/spielbericht#omrss",
-     "pub": "2026-11-14T07:11+00:00"
-    },
-    {
-     "medio": "L'Equipe",
-     "titulo": "Leonardi Balerdi buteur contre son camp, l'Argentine perd face à l'Uruguay",
-     "url": "https://www.lequipe.fr/Football/Actualites/Pour-sa-premiere-depuis-les-adieux-de-lionel-messi-l-argentine-s-incline-a-domicile-face-a-l-uruguay/1743583#at_medium=RSS_feeds",
-     "pub": "2026-11-14T08:27+00:00"
-    },
-    {
-     "medio": "Foot Mercato",
-     "titulo": "Amical : pour son premier match de l’après-Messi, l’Argentine s’incline contre l’Uruguay !",
-     "url": "https://www.footmercato.net/a1958732826287165383-amical-pour-son-premier-match-de-lapres-messi-largentine-sincline-contre-luruguay",
-     "pub": "2026-11-14T07:25+00:00"
-    },
-    {
-     "medio": "Infobae",
-     "titulo": "Lo que no se vio de la caída de Argentina ante Uruguay: el nuevo mimado por los hinchas, el recuerdo de Maradona y el público en la bombonera",
-     "url": "https://www.infobae.com/deportes/2026/11/14/lo-que-no-se-vio-de-la-derrota-de-argentina-frente-a-uruguay-el-nuevo-mimado-por-los-hinchas-el-recuerdo-de-maradona-y-publico-en-la-bombonera/",
-     "pub": "2026-11-14T12:43+00:00"
-    },
-    {
-     "medio": "Google News AR",
-     "titulo": "La Argentina juega con nostalgia: sin Messi y con menos fútbol, la derrota con Uruguay apunta al futuro",
-     "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPUTlIUUZvUGM0bngyRkhmUEtqQnUyUFVRSjYzdWZHSElWSkRRb0ZZWFc0WWdJcTJOM0U3QmI1OUN6dUk5R2o2YUthQ2hMV3BXVEJVeEFsbnN6SzdNY1RWajBDRDJjeEZnRUIxNlhQVXRES2Z2aDBTeGVNdU1VRlY1eGdVQlB0U2Y5TzI4bl9fbkVEVVdKOEJ2TmRJcGFlQnNlV0V2Q19qTW9Ud01nQVpwend2d21sTGVqNk1MRlNUV2YycTBwN1R4b2w5VjhyVk5fUHp6bEY1X1pDdDA5MmNuZGZPVlRIbWxSS3ZleW1n?oc=5",
-     "pub": "2026-11-14T02:28+00:00"
-    },
-    {
-     "medio": "Ole",
-     "titulo": "El tremendo invicto que se le cortó a la Selección con su derrota ante Uruguay",
-     "url": "https://www.ole.com.ar/seleccion/tremendo-invicto-seleccionargentina-derrota-uruguay-amistoso_0_On02UpW2IQ.html",
-     "pub": "2026-11-14T19:15+00:00"
+     "medio": "Yahoo",
+     "titulo": "Picture: Ronaldinho joins Ravenna teammates for dinner before first training",
+     "url": "https://sports.yahoo.com/articles/picture-ronaldinho-joins-ravenna-teammates-130000631.html",
+     "pub": "2026-11-14T13:00+00:00"
     },
     {
      "medio": "Yahoo",
-     "titulo": "Uruguay boss Diego Forlan explains Federico Valverde benching after talks with Real Madrid",
-     "url": "https://sports.yahoo.com/articles/uruguay-boss-diego-forlan-explains-133800275.html",
-     "pub": "2026-11-15T13:38+00:00"
+     "titulo": "Ronaldinho to start for Ravenna as Brazil legend reveals two reasons for his comeback at 46",
+     "url": "https://sports.yahoo.com/articles/ronaldinho-start-ravenna-brazil-legend-122800306.html",
+     "pub": "2026-11-14T12:28+00:00"
     },
     {
-     "medio": "Google News AR",
-     "titulo": "La rápida decisión de Scaloni tras la caída con Uruguay: fútbol y la prueba que se viene en la Selección",
-     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOeTJjNEpFdnVsSjZHY3kwWDZxOE9aaGNZd193ZUxUZ2piOWpSZ0R1UVF6TG1MNU44elZEOTZVNnJCcmROa3ZvaFhKWW1CUlNoaXhvc1JRTHg0czAtOHZqTXRaMXY3bmNHdTk1Q0pWaEpwaFkzYzRSWVJ0N2FyX0R5Q0hRemo0VTF1Y0tQN0EtQlRpNzNrSTl2YlFqbmV0UdIBowFBVV95cUxPSm4zeXFsR056YkpTbHhPWl9UV3VUUm84cHd0S09XYnl6NUlnVHhJZjgtTnI4cEpjaGFKYVFkcXEzaGpOS2FocFUzTV9kOTlMUGtKeEdxUWZYRE5qbF8zVVhocmhiTVU0RmhSbHlQQWZNNE92VWtIa0gweFlEX3l4bU96X0pxQXhtTXdVaUVITkhLQzlHellpQlV2LWZRcVM5el9F?oc=5",
-     "pub": "2026-11-14T22:36+00:00"
+     "medio": "Yahoo",
+     "titulo": "Watch: Ronaldinho trains with Ravenna before first competitive game in over a decade",
+     "url": "https://sports.yahoo.com/articles/watch-ronaldinho-trains-ravenna-first-161700767.html",
+     "pub": "2026-11-14T16:17+00:00"
+    },
+    {
+     "medio": "Football Italia",
+     "titulo": "Ravenna coach Mandorlini: ‘Having Ronaldinho here is wonderful and exciting’",
+     "url": "https://football-italia.net/ravenna-coach-mandorlini-having-ronaldinho/",
+     "pub": "2026-11-14T21:00+00:00"
+    },
+    {
+     "medio": "BBC",
+     "titulo": "Ronaldinho makes comeback in Ravenna win",
+     "url": "https://www.bbc.co.uk/sport/football/articles/ckregz4g823xo?at_medium=RSS&at_campaign=rss",
+     "pub": "2026-11-15T19:31+00:00"
+    },
+    {
+     "medio": "Guardian",
+     "titulo": "Ronaldinho makes debut for Italian side Ravenna after 11-year hiatus in playing career",
+     "url": "https://www.theguardian.com/football/2026/nov/15/ronaldinho-debut-italian-side-ravenna-after-11-year-hiatus-playing-career",
+     "pub": "2026-11-15T19:20+00:00"
+    },
+    {
+     "medio": "Yahoo",
+     "titulo": "Ronaldinho after Ravenna debut: “If the president calls me, I’ll come back”",
+     "url": "https://sports.yahoo.com/articles/ronaldinho-ravenna-debut-president-calls-185500551.html",
+     "pub": "2026-11-15T18:55+00:00"
+    },
+    {
+     "medio": "Yahoo",
+     "titulo": "Ronaldinho’s return: Best moments and key stats from the Brazilian legend’s game in Ravenna",
+     "url": "https://sports.yahoo.com/articles/ronaldinho-return-best-moments-key-183600894.html",
+     "pub": "2026-11-15T18:36+00:00"
+    },
+    {
+     "medio": "Yahoo",
+     "titulo": "🎙️If they call, I'll return: Ronaldinho dazzled at Ravenna",
+     "url": "https://sports.yahoo.com/articles/call-ill-return-ronaldinho-dazzled-180800039.html",
+     "pub": "2026-11-15T18:08+00:00"
+    },
+    {
+     "medio": "Yahoo",
+     "titulo": "Ronaldinho after Ravenna debut at 46: ‘It went by too fast, football most wonderful thing in my life’",
+     "url": "https://sports.yahoo.com/articles/ronaldinho-ravenna-debut-46-went-174000654.html",
+     "pub": "2026-11-15T17:40+00:00"
+    },
+    {
+     "medio": "Google News EN",
+     "titulo": "Ronaldinho makes comeback for Ravenna",
+     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE12aWZUaDRaZndPWlZGSGhPUUNtVkRtbUNDZmNoeGpQb1htMVVYM09OVEtnbGo0ZHJMZkw0bzVCcDZzOUFXblR5ZlZGMG9MLVlicElyTEg4VjJxTXJ2VmVuV2lQOWxJdnVfQ0tF?oc=5",
+     "pub": "2026-11-15T18:01+00:00"
+    },
+    {
+     "medio": "Google News EN",
+     "titulo": "Brazil legend Ronaldinho involved in Ravenna opener on debut",
+     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQWC1BVEdCX3VObHVPSU9kSm5NRTIxeG1Uam05aFdRYTZMbnVMd2pXVWJ1ejdqckhZQnBnZnRHcmZMb3JGbTdYbWNYOWFNTmNpR29LLTZjOEpiU1JSenVhVFlOTC1xNXFPb01GdmxpRmI4SUxoYTV2cVJXTXNheXhpWnV4UE5vX0VWRWcyQmo5S1lzQ1V2aFdXX05ablJyLWZod2hoMFZneE0zTEhfbGZj?oc=5",
+     "pub": "2026-11-15T17:48+00:00"
     }
    ]
   },
   {
-   "tema": "Spain",
-   "medios": 8,
+   "tema": "Tenerife",
+   "medios": 10,
+   "lista_medios": [
+    "AS",
+    "BBC",
+    "Daily Mail",
+    "Foot Mercato",
+    "Google News EN",
+    "Google News ES",
+    "L'Equipe",
+    "Mirror",
+    "Mundo Deportivo",
+    "ge.globo"
+   ],
+   "primera_vez": "2026-11-14T13:45+00:00",
+   "titulares": [
+    {
+     "medio": "Google News EN",
+     "titulo": "Goalkeeper Jesus Owono given 12-match ban after Tenerife forward Jesus de Miguel's death following collision",
+     "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOb1RCT3VjREo2RUpSWTREbi1hMWt3aEJVcUxpRFNXalh4VVJzVldENXBDQnN4ZV9iNllUX2xmLXBYS3ptTVpxVW40cEI2dTk4N094UkRtMFZNVnFEWkRNRVd3d2Y5NVU2ME5oZTNBTDRGYkRmQlctSUc5RUFEUk1pOUF1ZGJTWmpHNWRrbmFHcDA0dlhtMUVwNlJIX2VfNGpLSzRra3FnZERicG5td2p1dHlEcFJSNzA0UWdXNDcxV0JIeEJFUW51MmE0SU5fOGI0M2VpZ1RKMGpuZlBmN2xKYTQycmhoTjdOUzFfeQ?oc=5",
+     "pub": "2026-11-14T08:05+00:00"
+    },
+    {
+     "medio": "Mundo Deportivo",
+     "titulo": "Ya hay fecha para los encuentros aplazados del Tenerife, Andorra y Castellón",
+     "url": "https://www.mundodeportivo.com/futbol/liga-segunda-division/20261114/1004250898/hay-fecha-encuentros-aplazados-tenerife-andorra-castellon.html",
+     "pub": ""
+    },
+    {
+     "medio": "BBC",
+     "titulo": "Tenerife boss says Owono's 12-match ban 'feels light'",
+     "url": "https://www.bbc.co.uk/sport/football/articles/cmjeq0x815zko?at_medium=RSS&at_campaign=rss",
+     "pub": "2026-11-14T16:26+00:00"
+    },
+    {
+     "medio": "Mirror",
+     "titulo": "Tenerife boss claims ban for keeper involved in fatal Jesus de Miguel clash is 'too light'",
+     "url": "https://www.mirror.co.uk/sport/football/news/jesus-de-miguel-owono-ban-37877911",
+     "pub": "2026-11-14T17:45+00:00"
+    },
+    {
+     "medio": "Google News EN",
+     "titulo": "Jesus Owono: Tenerife boss Alvaro Cervera says 12-game ban 'might seem light' but accepts rules",
+     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE15dGVULWd4aGRVeFBicTQtV3ZyU3VqV2lDVEg5b1MzYWNUOXJqeXEzWHltSXRQbFRpLS1aTVhuRmR4WnJ0VzJSZVIxZndaazhja3o5dDNOYjV6MXNTX0xQZGZCczk2SUNpRjlN?oc=5",
+     "pub": "2026-11-14T16:58+00:00"
+    },
+    {
+     "medio": "Google News ES",
+     "titulo": "#LaPrevia | El Tenerife vuelve al Heliodoro entre el dolor y la necesidad de ganar",
+     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQMzN1b1VodEU0V2Qtanc3cENQN0xZcWxGYi1CUDk5R05QaUJFMnRva2haLWxlUV9QNUloUnpqODRVZTFjeTluT3RnZUNuRlFvUkVtTy1HTDZWakRWZlVBMklzMU9DOWE0NGh2U2VhSFJMb0FJazVaeUlDd2hmdlo1YW94dndVaDVKdVZfNU5ETUJ0RlFMblJrOXVUV0ZuV29mWjFkQ05FcUxabXY4Z0xFTXhVZEljUVk5OTQw?oc=5",
+     "pub": "2026-11-14T19:15+00:00"
+    },
+    {
+     "medio": "Google News ES",
+     "titulo": "Dani Martín, la principal ausencia del Tenerife para recibir al Ceuta",
+     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQUU5EaG16YVFWeGtiazIzZENBTWhZZ0U4UnRkMURxNFBTMXRwZmo2bDRJWHd0UzZVWXhjUDEwZC1qalI0OHFKVkl2QzdIdTFrR0lRQmt6N3pjMnhpUGMwNGxjNFJVb0RtN25yMlpmaDBGQVlaNjdRbmwzWW9Odi0xSW5pZ1lOVVdXQkNKNUd6VThoWGtJU1NlY2lpeGpsdVRsdEc1cUR6U0xMVnJS?oc=5",
+     "pub": "2026-11-14T18:52+00:00"
+    },
+    {
+     "medio": "AS",
+     "titulo": "Tenerife - Ceuta en directo: LaLiga Hypermotion hoy en vivo",
+     "url": "https://as.com/futbol/segunda/tenerife-ceuta-en-directo-laliga-hypermotion-hoy-en-vivo-f202611-d/",
+     "pub": "2026-11-15T14:10+00:00"
+    },
+    {
+     "medio": "Mundo Deportivo",
+     "titulo": "Primer partido del Tenerife tras la muerte de De Miguel",
+     "url": "https://www.mundodeportivo.com/futbol/liga-segunda-division/20261115/1004249508/tenerife-ceuta-directo-laliga-hypermotion-segunda-division.html",
+     "pub": ""
+    },
+    {
+     "medio": "Google News ES",
+     "titulo": "Emocionante homenaje del Heliodoro a Jesús de Miguel en la vuelta al fútbol del Tenerife",
+     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPcmMwY1lvdUFlZWoxaWhxOElEUktWbVVrR2RnbXNpekkwODlvcTJDWjZRTkNJSkJQZXg0VnlaSWc4aHFmSmhLUG12VUlmQUY3Qlh4Q2EyZEZGdHBOdGJaMGxEVXZPNlNhaXgwVWFmTjZXY080N1RvMENvQWMxN0JhQmpCT25PV3lmUHdGeWJBT0dDQ01vZUNfRGxpTGFlVFFZYnpBTGVkWdIBrAFBVV95cUxPRjQzU0NjYWFfOW82OTJ1SHd4OGdONEpUVkRGSGlkU01WR3Bac04xMi16aV9kRVNmci1EZ0NaWGx2eUx2Z0VFQnFaeWZxbVNPejRFNjJPQnRJaTQ0LXVsYm52MkdjNUhKcWJtcV9OSWZsR0hwMW11c1dveWRJNE5NaEVxeWNzY1NJblMtZG14a2FIN2NFb0VnWkF3SU9oUTNSa2tIMjFERkktWHdj?oc=5",
+     "pub": "2026-11-15T14:03+00:00"
+    },
+    {
+     "medio": "ge.globo",
+     "titulo": "Tenerife e Ceuta homenageiam Jesús de Miguel em primeiro jogo após morte do atacante",
+     "url": "https://ge.globo.com/futebol/futebol-internacional/noticia/2026/11/15/tenerife-e-ceuta-homenageiam-jesus-de-miguel-em-primeiro-jogo-apos-morte-do-atacante.ghtml",
+     "pub": "2026-11-15T13:43+00:00"
+    },
+    {
+     "medio": "BBC",
+     "titulo": "Tenerife return to action after death of De Miguel",
+     "url": "https://www.bbc.co.uk/sport/football/articles/cqx2xn535yj8o?at_medium=RSS&at_campaign=rss",
+     "pub": "2026-11-15T16:38+00:00"
+    }
+   ]
+  },
+  {
+   "tema": "Miguel",
+   "medios": 10,
+   "lista_medios": [
+    "AS",
+    "BBC",
+    "Daily Mail",
+    "Foot Mercato",
+    "Google News EN",
+    "Google News ES",
+    "L'Equipe",
+    "Mirror",
+    "Mundo Deportivo",
+    "ge.globo"
+   ],
+   "primera_vez": "2026-11-14T19:25+00:00",
+   "titulares": [
+    {
+     "medio": "Mirror",
+     "titulo": "Tenerife boss claims ban for keeper involved in fatal Jesus de Miguel clash is 'too light'",
+     "url": "https://www.mirror.co.uk/sport/football/news/jesus-de-miguel-owono-ban-37877911",
+     "pub": "2026-11-14T17:45+00:00"
+    },
+    {
+     "medio": "AS",
+     "titulo": "El Castellón le dedica a De Miguel la conquista de Zorrilla",
+     "url": "https://as.com/futbol/el-castellon-le-dedica-a-de-miguel-la-conquista-de-zorrilla-f202611-n/",
+     "pub": "2026-11-14T15:30+00:00"
+    },
+    {
+     "medio": "AS",
+     "titulo": "Emocionante homenaje a De Miguel: “Eterno blanquiazul”",
+     "url": "https://as.com/futbol/segunda/el-primer-dia-sin-demi-f202611-n/",
+     "pub": "2026-11-15T13:48+00:00"
+    },
+    {
+     "medio": "Mundo Deportivo",
+     "titulo": "Primer partido del Tenerife tras la muerte de De Miguel",
+     "url": "https://www.mundodeportivo.com/futbol/liga-segunda-division/20261115/1004249508/tenerife-ceuta-directo-laliga-hypermotion-segunda-division.html",
+     "pub": ""
+    },
+    {
+     "medio": "Google News ES",
+     "titulo": "Emocionante homenaje del Heliodoro a Jesús de Miguel en la vuelta al fútbol del Tenerife",
+     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPcmMwY1lvdUFlZWoxaWhxOElEUktWbVVrR2RnbXNpekkwODlvcTJDWjZRTkNJSkJQZXg0VnlaSWc4aHFmSmhLUG12VUlmQUY3Qlh4Q2EyZEZGdHBOdGJaMGxEVXZPNlNhaXgwVWFmTjZXY080N1RvMENvQWMxN0JhQmpCT25PV3lmUHdGeWJBT0dDQ01vZUNfRGxpTGFlVFFZYnpBTGVkWdIBrAFBVV95cUxPRjQzU0NjYWFfOW82OTJ1SHd4OGdONEpUVkRGSGlkU01WR3Bac04xMi16aV9kRVNmci1EZ0NaWGx2eUx2Z0VFQnFaeWZxbVNPejRFNjJPQnRJaTQ0LXVsYm52MkdjNUhKcWJtcV9OSWZsR0hwMW11c1dveWRJNE5NaEVxeWNzY1NJblMtZG14a2FIN2NFb0VnWkF3SU9oUTNSa2tIMjFERkktWHdj?oc=5",
+     "pub": "2026-11-15T14:03+00:00"
+    },
+    {
+     "medio": "ge.globo",
+     "titulo": "Tenerife e Ceuta homenageiam Jesús de Miguel em primeiro jogo após morte do atacante",
+     "url": "https://ge.globo.com/futebol/futebol-internacional/noticia/2026/11/15/tenerife-e-ceuta-homenageiam-jesus-de-miguel-em-primeiro-jogo-apos-morte-do-atacante.ghtml",
+     "pub": "2026-11-15T13:43+00:00"
+    },
+    {
+     "medio": "BBC",
+     "titulo": "Tenerife return to action after death of De Miguel",
+     "url": "https://www.bbc.co.uk/sport/football/articles/cqx2xn535yj8o?at_medium=RSS&at_campaign=rss",
+     "pub": "2026-11-15T16:38+00:00"
+    },
+    {
+     "medio": "Daily Mail",
+     "titulo": "Grief-stricken Tenerife stars return to action for first time since death of Jesus de Miguel, 30, after fatal on-field collision with goalkeeper: Tributes paid and match paused in 9th minute on emotional day",
+     "url": "https://www.dailymail.com/sport/football/article-16294619/Tenerife-stars-return-death-Jesus-Miguel.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+     "pub": "2026-11-15T19:36+00:00"
+    },
+    {
+     "medio": "Google News EN",
+     "titulo": "Tenerife play first game since death of striker Jesus de Miguel",
+     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5oV3V4QUZmRnprTWhiOThWbm5LSTc4bTJEQmhkVUdWeXlHdkRKVkZCYVFtdFlTbXAzQTk4ckhrM0NGMW1LYzZvVlliQjh3MjdldjBhWndvX1IwZUJoenppYmdoQU1vTUpTVlgw?oc=5",
+     "pub": "2026-11-15T16:38+00:00"
+    },
+    {
+     "medio": "Mundo Deportivo",
+     "titulo": "El emotivo discurso de Enric Gallego recordando a De Miguel: \"Hoy ha estado él ahí, nos ha ayudado\"",
+     "url": "https://www.mundodeportivo.com/futbol/tenerife/20261115/1004251299/emotivo-discurso-enric-gallego-recordando-miguel-hoy-ayudado.html",
+     "pub": ""
+    },
+    {
+     "medio": "Google News ES",
+     "titulo": "El Tenerife homenajea a Jesús de Miguel en el minuto 9 con un mensaje para la eternidad: \"Eterno blanquiazul\"",
+     "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxObEF5MnZnOVdOejVhenZEWlc2NlpLdVFJRG9nS0dqdWNYUzRPcmNCbWdnZ3ZHY3MybGFkV0xtcmE4OUVJd3dxQVVZeDhTLXFNdUNYY2EtTHFHWkdCTE5icjMxWjI1RjBJT2N3eGRKT2R1Tlh3WHh6cjlvVmpUQWNwT0R2d09zemRHbGMzNE1iamlwMjJUc3d1Sy01aXhCOU94ZXhQbWFfQV9INmNhWmVVT19OSy10NGZBYmN2OHg0QlFlSDZRMzctUVZqNnp3dXdFcUw5SGYzU21LNWZsZmVz?oc=5",
+     "pub": "2026-11-15T14:59+00:00"
+    },
+    {
+     "medio": "Google News ES",
+     "titulo": "El sentido homenaje a Jesús de Miguel en la vuelta al fútbol en el Heliodoro Rodríguez López: lágrimas, una camiseta especial y un desgarrador minuto de silencio",
+     "url": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxQZGNEVjkyY2YxZG9WT0FUQ2lCQjJhdWEwcXlkMVZ3dXk4MXl2bTMyWkptdGdzVXRmaUJXZU9FVG96aWU4UFpKYkNjaTNhRlNkR182bVMtU2EyR1BVZE05UjdTOE9UcDI3aTEwbHdNcm5CemN5NW5LZm5YZVdhNzZOWUNkRFhEdDgxZ3VIZ24tdXBVdTdDV3pQaks3NERZQThVTzNoQXdwejFtcERLVjYydC0xZm1icVBQUHAySVFqSm1GMmVTS1JrVm01LXJjZTNSbURlM0tGY2hpTkwwOHF2N09kZjRuQk8xSzJPTXBQc3VwbGI4am9DbGpQZlc4LXh3X0ZJd1R1QlpqWWxyQlZDTWdVOVpmLW1vSTBtY01VWjhTR0xXMW1BYtIBrgJBVV95cUxOZHBEY1g2Q2lPT3VnR0Y3ZmZIVTBEWnFWZmJPNzNfXzFtM0JJcjdKQlQwWHRvWExHYXdmV3A0cnRrcVNqVDRZZ0FpaDQ1akRzajFfYVE3NDRNNVowNUdjdGx1RWlmYVBqNG1wanp2dTMtRHVrSnV5ZjhuY1RLeUNSSkQtSzBvNlRPR2NWSy04NFV5RE1wNWk0cTFjakM2SXhhV0ZzUmhhOTdkMEFVblNyUU9KYlUtbGtkdzZCeFhQelFzbm1VV3RSbnlpNUxidTlLeXVkeEgzdmlSc2lucno3MXZSQnlORVQzUUExQXpsaHdkZzZyX2hPWVhhajRVcDVqT0FweXc0RHBRRXFkUU03Q0tQRExMNHJRSTZZTXlxcU8wTFB1Ny14a1Azb1JLQQ?oc=5",
+     "pub": "2026-11-15T15:02+00:00"
+    }
+   ]
+  },
+  {
+   "tema": "Arsenal",
+   "medios": 9,
    "lista_medios": [
     "BBC",
     "Daily Mail",
     "Google News EN",
     "Guardian",
     "Mirror",
-    "Planet Football",
+    "Record",
+    "Sky Sports",
     "Yahoo",
     "talkSPORT"
    ],
    "primera_vez": "2026-11-14T13:45+00:00",
    "titulares": [
     {
-     "medio": "BBC",
-     "titulo": "Tuchel to remind England of anti-racism protocols before Spain game",
-     "url": "https://www.bbc.co.uk/sport/football/articles/c60mdzn2dk1eo?at_medium=RSS&at_campaign=rss",
-     "pub": "2026-11-14T09:13+00:00"
-    },
-    {
-     "medio": "Guardian",
-     "titulo": "De la Fuente feels the strain as Lamine Yamal club v country debate rages in Spain",
-     "url": "https://www.theguardian.com/football/2026/nov/14/lamine-yamal-luis-de-la-fuente-spain-england-club-country",
-     "pub": "2026-11-14T08:00+00:00"
-    },
-    {
-     "medio": "Google News EN",
-     "titulo": "England XI vs Spain: Confirmed team news, predicted lineup and injury latest for Nations League",
-     "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPRE1XNW53UlFMOUNDYXRnVkNqM0lTMnlrSzFycG1YSGNWZzJVUVIyRW92T3ViNF9WSUhNWlE0ZkVIdkI2R0JySEpkNVZkSkdhYWJ5VGpqX3RyUTg2Zmo3ajRCSzNPQ0FDMFBFZlBzeEFONU9BczFVR1owSDBCaVB6NmJ0aTZYYVFwQ1FZUWFFQzJTdS1UNnlnTzFsRVVMMjlQc1lySEpOVlF0TVNPaGd1REJtS3RfWmlRdi0zR2IyQVF4TkxnSGRnOC0yaTU0VFVVX0ZRcFVUblY?oc=5",
-     "pub": "2026-11-14T11:27+00:00"
-    },
-    {
-     "medio": "Guardian",
-     "titulo": "De la Fuente adamant there is no racism in Spain despite England reminder to players",
-     "url": "https://www.theguardian.com/football/2026/nov/14/luis-de-la-fuente-spain-england-racism-thomas-tuchel-natiions-league",
-     "pub": "2026-11-14T18:59+00:00"
-    },
-    {
-     "medio": "BBC",
-     "titulo": "Branthwaite, Garner and King omitted for Spain game",
-     "url": "https://www.bbc.co.uk/sport/football/articles/cq4gn7014x76o?at_medium=RSS&at_campaign=rss",
-     "pub": "2026-11-15T13:15+00:00"
-    },
-    {
-     "medio": "BBC",
-     "titulo": "Spain test will reveal if Tuchel and England have learned World Cup lessons",
-     "url": "https://www.bbc.co.uk/sport/football/articles/cq2d9l3e313zo?at_medium=RSS&at_campaign=rss",
-     "pub": "2026-11-14T20:22+00:00"
-    },
-    {
-     "medio": "BBC",
-     "titulo": "'No racism in Spain' – De la Fuente message for Tuchel",
-     "url": "https://www.bbc.co.uk/sport/football/articles/c893r74ryy3qo?at_medium=RSS&at_campaign=rss",
-     "pub": "2026-11-14T20:43+00:00"
-    },
-    {
-     "medio": "Guardian",
-     "titulo": "Declan Rice accepts he had an ‘average World Cup’ as England gear up for Spain showdown",
-     "url": "https://www.theguardian.com/football/2026/nov/14/declan-rice-england-spain-nations-league-world-cup-thomas-tuchel",
-     "pub": "2026-11-14T20:30+00:00"
-    },
-    {
      "medio": "talkSPORT",
-     "titulo": "Spain vs England Super Boost: England to score & Kane 1+ SOT NOW 6/4 on talkSPORT BET",
-     "url": "https://talksport.com/football/4706669/spain-vs-england-super-boost-kane-shot-talksportbet/",
-     "pub": "2026-11-15T09:00+00:00"
+     "titulo": "Arsenal told £79million rival Premier League striker would be their perfect No.9",
+     "url": "https://talksport.com/football/4707456/arsenal-hugo-ekitike-liverpool-perfect-striker/",
+     "pub": "2026-11-14T12:26+00:00"
     },
     {
-     "medio": "talkSPORT",
-     "titulo": "Thomas Tuchel to drop key England star for crunch Nations League clash against Spain",
-     "url": "https://talksport.com/football/4707960/james-trafford-jordan-pickford-england-spain-thomas-tuchel/",
-     "pub": "2026-11-14T19:45+00:00"
+     "medio": "Yahoo",
+     "titulo": "Arsenal 27yo helps keep Germany’s Nations League campaign alive",
+     "url": "https://sports.yahoo.com/articles/arsenal-27yo-helps-keep-germany-130100202.html",
+     "pub": "2026-11-14T13:01+00:00"
+    },
+    {
+     "medio": "Yahoo",
+     "titulo": "Bundesliga forward breaks silence on potential Arsenal move",
+     "url": "https://sports.yahoo.com/articles/bundesliga-forward-breaks-silence-potential-125000068.html",
+     "pub": "2026-11-14T12:50+00:00"
+    },
+    {
+     "medio": "Yahoo",
+     "titulo": "3 Arsenal youngsters feature as Dowman breaks England record",
+     "url": "https://sports.yahoo.com/articles/3-arsenal-youngsters-feature-dowman-120100787.html",
+     "pub": "2026-11-14T12:01+00:00"
+    },
+    {
+     "medio": "Yahoo",
+     "titulo": "Arsenal defender scores international brace playing out of position",
+     "url": "https://sports.yahoo.com/articles/arsenal-defender-scores-international-brace-113100018.html",
+     "pub": "2026-11-14T11:31+00:00"
+    },
+    {
+     "medio": "Yahoo",
+     "titulo": "Premier League champions Arsenal renew interest in 25-year-old forgotten Real Madrid star – report",
+     "url": "https://sports.yahoo.com/articles/premier-league-champions-arsenal-renew-110600480.html",
+     "pub": "2026-11-14T11:06+00:00"
     },
     {
      "medio": "Daily Mail",
-     "titulo": "England's Euro 2028 mission starts NOW! Thomas Tuchel's men must beat Spain to prove they can compete with the best - or risk their 'DNA' cursing them yet again, writes OLIVER HOLT",
-     "url": "https://www.dailymail.com/sport/football/article-16293007/england-spain-euro-2028-oliver-holt.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-     "pub": "2026-11-15T00:04+00:00"
-    },
-    {
-     "medio": "Daily Mail",
-     "titulo": "England boss Thomas Tuchel angry at being dragged into race row after being told by Luis de la Fuente: 'There is no racism in Spain!' on eve of Nations League showdown",
-     "url": "https://www.dailymail.com/sport/football/article-16293027/England-boss-Thomas-Tuchel-angry-dragged-race-row-told-Luis-la-Fuente-no-racism-Spain-eve-Nations-League-showdown.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-     "pub": "2026-11-14T21:48+00:00"
-    }
-   ]
-  },
-  {
-   "tema": "Manchester",
-   "medios": 8,
-   "lista_medios": [
-    "Foot Mercato",
-    "FourFourTwo",
-    "Google News AR",
-    "Google News EN",
-    "Guardian",
-    "Mundo Deportivo",
-    "Yahoo",
-    "talkSPORT"
-   ],
-   "primera_vez": "2026-11-14T13:45+00:00",
-   "titulares": [
-    {
-     "medio": "Guardian",
-     "titulo": "Chelsea v Manchester City: Women’s Super League – live",
-     "url": "https://www.theguardian.com/football/live/2026/nov/14/chelsea-v-man-city-womens-super-league-live",
-     "pub": "2026-11-14T13:27+00:00"
-    },
-    {
-     "medio": "FourFourTwo",
-     "titulo": "How to watch Chelsea vs Manchester City: Free streams and TV channels as heavyweights face off",
-     "url": "https://www.fourfourtwo.com/competition/watch-chelsea-vs-manchester-city-wsl-2026-27-free",
-     "pub": "2026-11-14T08:00+00:00"
+     "titulo": "Why Bukayo Saka's England spot is suddenly under threat: Clocking up the miles has made Arsenal star a fitness concern - while his rival Morgan Rogers is hitting top gear: CRAIG HOPE",
+     "url": "https://www.dailymail.com/sport/football/article-16290387/Why-Bukayo-Sakas-England-spot-suddenly-threat-Morgan-Rogers-hits-gear-CRAIG-HOPE.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+     "pub": "2026-11-14T14:21+00:00"
     },
     {
      "medio": "Yahoo",
-     "titulo": "Michele De Bruyne Discusses Manchester City Legend's \"Very Restricted Life in Napoli\" Amid January Exit Talk",
-     "url": "https://sports.yahoo.com/articles/michele-bruyne-discusses-manchester-city-133000361.html",
-     "pub": "2026-11-14T13:30+00:00"
+     "titulo": "Arsenal learn 3rd-round FA Youth Cup draw",
+     "url": "https://sports.yahoo.com/articles/arsenal-learn-3rd-round-fa-190100480.html",
+     "pub": "2026-11-14T19:01+00:00"
     },
     {
      "medio": "Yahoo",
-     "titulo": "Mauricio Pochettino needs to be the most ruthless version of himself to rejuvenate Manchester United",
-     "url": "https://sports.yahoo.com/articles/mauricio-pochettino-needs-most-ruthless-121918088.html",
-     "pub": "2026-11-14T12:19+00:00"
+     "titulo": "Arsenal receive huge injury boost ahead of Newcastle United clash",
+     "url": "https://sports.yahoo.com/articles/arsenal-receive-huge-injury-boost-175000049.html",
+     "pub": "2026-11-14T17:50+00:00"
     },
     {
      "medio": "Yahoo",
-     "titulo": "Refusing to Buy Defensive Cover in January Would Be Negligence That Will Cost Manchester City the Title",
-     "url": "https://sports.yahoo.com/articles/refusing-buy-defensive-cover-january-113000858.html",
-     "pub": "2026-11-14T11:30+00:00"
+     "titulo": "Released Arsenal winger signs for new club",
+     "url": "https://sports.yahoo.com/articles/released-arsenal-winger-signs-club-170100700.html",
+     "pub": "2026-11-14T17:01+00:00"
     },
     {
      "medio": "Yahoo",
-     "titulo": "Mauricio Pochettino already dealt Manchester United injury blow",
-     "url": "https://sports.yahoo.com/articles/mauricio-pochettino-already-dealt-manchester-105000681.html",
-     "pub": "2026-11-14T10:50+00:00"
+     "titulo": "Arsenal have joined the race to sign £20m former Spurs forward",
+     "url": "https://sports.yahoo.com/articles/arsenal-joined-race-sign-20m-165000495.html",
+     "pub": "2026-11-14T16:50+00:00"
     },
     {
-     "medio": "Google News EN",
-     "titulo": "Can Manchester United’s young stars thrive under Mauricio Pochettino?",
-     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNZTV1bFZ5RUdzME5ONENNNW5EeU4tT1VBTjhMb1U2bWlIVkpZWEYxMXdPQUxGRUF4bjBjOFJ5SHc4Y1F1c1NMTTR6dXp3Q2toU0xwZE1WZU9SNE0wbEpyc0JES0FUcHdXRFdjMmFkM2VFTGUzNlo4UGlPdGtubGo1NUpzdk5rVlM1dHR1M2t2SGoyN3lKeHB2OUpLeVNyYmxMNnkxdlAtaUpxV0N6dXdaQ2dLazYzN0V5UHc?oc=5",
-     "pub": "2026-11-14T07:01+00:00"
-    },
-    {
-     "medio": "Mundo Deportivo",
-     "titulo": "Definida la fecha para conocer la posible sanción al Manchester City",
-     "url": "https://www.mundodeportivo.com/futbol/20261114/1004250911/definida-fecha-conocer-posible-sancion-manchester-city.html",
-     "pub": ""
-    },
-    {
-     "medio": "Mundo Deportivo",
-     "titulo": "\"Me sorprendería si Pochettino dura 18 meses en el Manchester United\"",
-     "url": "https://www.mundodeportivo.com/futbol/20261114/1004250884/me-sorprenderia-pochettino-dura-18-meses-manchester-united.html",
-     "pub": ""
-    },
-    {
-     "medio": "Foot Mercato",
-     "titulo": "Côme : Nico Paz dans le viseur de Manchester United",
-     "url": "https://www.footmercato.net/a6035076432730366565-come-nico-paz-dans-le-viseur-de-manchester-united",
-     "pub": "2026-11-14T10:15+00:00"
-    },
-    {
-     "medio": "Guardian",
-     "titulo": "Chelsea go top of WSL as Sandy Baltimore bullet sees off Manchester City",
-     "url": "https://www.theguardian.com/football/2026/nov/14/chelsea-manchester-city-womens-super-league-match-report",
-     "pub": "2026-11-14T15:36+00:00"
-    },
-    {
-     "medio": "talkSPORT",
-     "titulo": "Manchester United quietly complete first signing of Mauricio Pochettino era",
-     "url": "https://talksport.com/football/4707736/manchester-united-transfer-news-mauricio-pochettino-tyler-adjei/",
-     "pub": "2026-11-14T16:43+00:00"
+     "medio": "Yahoo",
+     "titulo": "Arsenal interest in Real Madrid striker denied",
+     "url": "https://sports.yahoo.com/articles/arsenal-interest-real-madrid-striker-160100786.html",
+     "pub": "2026-11-14T16:01+00:00"
     }
    ]
   },
   {
    "tema": "Jesus",
-   "medios": 8,
+   "medios": 9,
    "lista_medios": [
+    "Daily Mail",
     "Foot Mercato",
     "Google News EN",
     "Infobae",
@@ -1441,103 +1570,104 @@
    ]
   },
   {
-   "tema": "Brasil",
+   "tema": "Manchester",
    "medios": 8,
    "lista_medios": [
-    "AS",
+    "Foot Mercato",
+    "FourFourTwo",
     "Google News AR",
-    "Google News ES",
-    "Infobae",
+    "Google News EN",
+    "Guardian",
     "Mundo Deportivo",
-    "Ole",
-    "Record",
-    "ge.globo"
+    "Yahoo",
+    "talkSPORT"
    ],
    "primera_vez": "2026-11-14T13:45+00:00",
    "titulares": [
     {
+     "medio": "Guardian",
+     "titulo": "Chelsea v Manchester City: Women’s Super League – live",
+     "url": "https://www.theguardian.com/football/live/2026/nov/14/chelsea-v-man-city-womens-super-league-live",
+     "pub": "2026-11-14T13:27+00:00"
+    },
+    {
+     "medio": "FourFourTwo",
+     "titulo": "How to watch Chelsea vs Manchester City: Free streams and TV channels as heavyweights face off",
+     "url": "https://www.fourfourtwo.com/competition/watch-chelsea-vs-manchester-city-wsl-2026-27-free",
+     "pub": "2026-11-14T08:00+00:00"
+    },
+    {
+     "medio": "Yahoo",
+     "titulo": "Michele De Bruyne Discusses Manchester City Legend's \"Very Restricted Life in Napoli\" Amid January Exit Talk",
+     "url": "https://sports.yahoo.com/articles/michele-bruyne-discusses-manchester-city-133000361.html",
+     "pub": "2026-11-14T13:30+00:00"
+    },
+    {
+     "medio": "Yahoo",
+     "titulo": "Mauricio Pochettino needs to be the most ruthless version of himself to rejuvenate Manchester United",
+     "url": "https://sports.yahoo.com/articles/mauricio-pochettino-needs-most-ruthless-121918088.html",
+     "pub": "2026-11-14T12:19+00:00"
+    },
+    {
+     "medio": "Yahoo",
+     "titulo": "Refusing to Buy Defensive Cover in January Would Be Negligence That Will Cost Manchester City the Title",
+     "url": "https://sports.yahoo.com/articles/refusing-buy-defensive-cover-january-113000858.html",
+     "pub": "2026-11-14T11:30+00:00"
+    },
+    {
+     "medio": "Yahoo",
+     "titulo": "Mauricio Pochettino already dealt Manchester United injury blow",
+     "url": "https://sports.yahoo.com/articles/mauricio-pochettino-already-dealt-manchester-105000681.html",
+     "pub": "2026-11-14T10:50+00:00"
+    },
+    {
      "medio": "Mundo Deportivo",
-     "titulo": "3-2: La Brasil de Ancelotti sigue sin encontrar su rumbo y cae ante Japón",
-     "url": "https://www.mundodeportivo.com/futbol/20261114/1004250930/3-2-brasil-ancelotti-sigue-encontrar-rumbo-cae-japon.html",
+     "titulo": "Definida la fecha para conocer la posible sanción al Manchester City",
+     "url": "https://www.mundodeportivo.com/futbol/20261114/1004250911/definida-fecha-conocer-posible-sancion-manchester-city.html",
      "pub": ""
     },
     {
      "medio": "Mundo Deportivo",
-     "titulo": "Vinicius resucita con Brasil",
-     "url": "https://www.mundodeportivo.com/futbol/real-madrid/20261114/1004250914/vinicius-resucita-brasil.html",
+     "titulo": "\"Me sorprendería si Pochettino dura 18 meses en el Manchester United\"",
+     "url": "https://www.mundodeportivo.com/futbol/20261114/1004250884/me-sorprenderia-pochettino-dura-18-meses-manchester-united.html",
      "pub": ""
     },
     {
-     "medio": "Mundo Deportivo",
-     "titulo": "Take Kubo se reivindica con Japón, marca a Brasil y tiene un precioso gesto con Barrene",
-     "url": "https://www.mundodeportivo.com/futbol/real-sociedad/20261114/1004250896/take-kubo-reivindica-japon-marca-brasil-precioso-gesto-barrene.html",
-     "pub": ""
+     "medio": "Foot Mercato",
+     "titulo": "Côme : Nico Paz dans le viseur de Manchester United",
+     "url": "https://www.footmercato.net/a6035076432730366565-come-nico-paz-dans-le-viseur-de-manchester-united",
+     "pub": "2026-11-14T10:15+00:00"
     },
     {
-     "medio": "Mundo Deportivo",
-     "titulo": "¡Ojo al golazo de Vinicius con Brasil!",
-     "url": "https://www.mundodeportivo.com/futbol/real-madrid/20261114/1004250893/ojo-golazo-vinicius-brasil.html",
-     "pub": ""
+     "medio": "Guardian",
+     "titulo": "Chelsea go top of WSL as Sandy Baltimore bullet sees off Manchester City",
+     "url": "https://www.theguardian.com/football/2026/nov/14/chelsea-manchester-city-womens-super-league-match-report",
+     "pub": "2026-11-14T15:36+00:00"
     },
     {
-     "medio": "Google News ES",
-     "titulo": "Japón vs Brasil en vivo: horarios, transmisión online y canales del partido amistoso internacional en España, Latinoamérica, México y Estados Unidos",
-     "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOVlhHbUdKN0I3dEVmeEZYSUdqMkozNDNIaWxCd3lzLVhSZ1dZZ2hqSWM3LUJDNXRIRHd4Wml4VlF4eldXS3lIdDZiZlhULXdPNEVsLWQ2ZU9HQ0tCYXhwY3hjUVRRR042X1RCanVnYU9MZm5MNmZzMnZrLWZMTHh2T1FpeHYwWnFwbGdvbmEwRTlfemdmWVNTenp1blpHZmdyMy1jMHcwYUdxTXpfYk1DdHEzQnlkdlRpUGFDbnhQYW1oVFhocjh4VGg0RktOcjQ0UFVLTzdGVjdpZnlo?oc=5",
-     "pub": "2026-11-14T03:33+00:00"
+     "medio": "talkSPORT",
+     "titulo": "Manchester United quietly complete first signing of Mauricio Pochettino era",
+     "url": "https://talksport.com/football/4707736/manchester-united-transfer-news-mauricio-pochettino-tyler-adjei/",
+     "pub": "2026-11-14T16:43+00:00"
     },
     {
-     "medio": "Google News ES",
-     "titulo": "Vinicius despierta con Brasil, marca dos golazos pero no evita la derrota ante Japón",
-     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOQWxMdVNLcjhBOUFSazNBWkV0TjU0WWhTLUxqY1JNVXhHXzY0WlN4RWJmeEpkUG5mdUhNSV9Qb2VCdm96Q2t3STc3VGZaVTJ2dmNkbHNzWm45aXZRZUprSEVLSnZtdVVmNE1aR2loWXRuMTctNUhqSUlZdkl6VkxYUVZtQXVMZ9IBhgFBVV95cUxPLXhTSGt0SlZuUXBlRG5SR21mRkEtTTV6bkgzVFMzWWJTQzY0V0pUTlpfQlBoVGFuWVZWUUNLZnhWU0Q1VFpVaUswcjlrdVY4T3l0d1RKVWE2aTFFZ0p6ZGFyVldCS0w2VGFoMHlpSU1YVzNrNlpvNXQ0S1lzWWFGNlJNN1NfQQ?oc=5",
-     "pub": "2026-11-14T12:55+00:00"
-    },
-    {
-     "medio": "Google News ES",
-     "titulo": "Japón - Brasil en directo - Amistosos: Resultados y resúmenes de Fútbol - 14/11/2026",
-     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQUEpqdzUxSWhtdEhJYkxtSlFmcXM4eUViYW42QXBVTUh3LUZpdDdocTBVaHRnLW55bzNzVFpEdjF5d1RUOVo0dGh4NnlsZHlxcVFIRXB3bVJFd2pmNFJubm4wa2QzZ2M1WFJHNUdSYVQ3MnJpc1doWktXR2VPZUNZQ1N2U0JvRmYtV0xmVFJhN0o?oc=5",
-     "pub": "2026-11-14T10:14+00:00"
-    },
-    {
-     "medio": "Record",
-     "titulo": "<![CDATA[ Os dois golaços de Vinícius Júnior que não foram suficientes para evitar a derrota do Brasil diante do Japão ]]>",
-     "url": "https://www.record.pt/multimedia/videos/detalhe/os-dois-golacos-de-vinicius-junior-que-nao-foram-suficientes-para-evitar-a-derrota-do-brasil-diante-do-japao",
-     "pub": "2026-11-14T12:41+00:00"
-    },
-    {
-     "medio": "Record",
-     "titulo": "<![CDATA[ Japão derrota Brasil em particular com cinco golos e expulsões de Ancelotti e Raphinha ]]>",
-     "url": "https://www.record.pt/internacional/detalhe/japao-derrota-o-brasil-em-particular-com-cinco-golos",
-     "pub": "2026-11-14T12:20+00:00"
-    },
-    {
-     "medio": "Ole",
-     "titulo": "La calentura de Brasil tras la derrota sobre la hora ante Japón: Carlo Ancelotti y Raphinha invadieron la cancha y fueron expulsados",
-     "url": "https://www.ole.com.ar/futbol-internacional/america/brasil-japon-carlo-ancelotti-raphinha_0_SbSh4CiRU8.html",
-     "pub": "2026-11-14T13:03+00:00"
-    },
-    {
-     "medio": "Infobae",
-     "titulo": "En un partido marcado por las polémicas, Brasil perdió contra Japón en el último minuto y sumó otro traspié en la era Ancelotti",
-     "url": "https://www.infobae.com/deportes/2026/11/14/en-un-partido-marcado-por-las-polemicas-brasil-perdio-contra-japon-en-el-ultimo-minuto-y-sumo-otro-traspie-en-la-era-ancelotti/",
-     "pub": "2026-11-14T13:39+00:00"
-    },
-    {
-     "medio": "Google News AR",
-     "titulo": "Estadísticas de Brasil vs Japón: remates, posesión y goles esperados del amistoso internacional",
-     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9obEQ0SUpmNEgyU2VOVjQ1T2NWbnZBRUF0RE8tZnhYb0FjdGpob0dTd09fRWFjWXpuczczbXo1UzhvU29LNnkyRlkzMnpXcTZldlBZNG5pWXZYZWZscHVCWnBhczlkdHk0eV84U0VLWmVsSXVydXlKNE40cjctQ1k?oc=5",
-     "pub": "2026-11-14T11:05+00:00"
+     "medio": "Google News EN",
+     "titulo": "Women's Super League highlights: Chelsea 1-0 Manchester City",
+     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFB5dDRoVmFsb0Jjc1QwTWpPUjVCdXlrSXMxQTJycUR0dU5EWUlFLUNOd3huR1NEZGVxUFZfTkRCN1BXbHdQdExFTXgySktodVhuWHRpdHJzS3VFbEVqOFJZM2IzMGdMMHkz?oc=5",
+     "pub": "2026-11-14T15:50+00:00"
     }
    ]
   },
   {
-   "tema": "Japan",
-   "medios": 7,
+   "tema": "Chelsea",
+   "medios": 8,
    "lista_medios": [
+    "BBC",
     "Daily Mail",
-    "Football Italia",
     "FourFourTwo",
+    "Google News EN",
     "Guardian",
-    "Mirror",
+    "Mundo Deportivo",
     "Sky Sports",
     "Yahoo"
    ],
@@ -1545,255 +1675,86 @@
    "titulares": [
     {
      "medio": "Guardian",
-     "titulo": "Raphinha sees red as Brazil stunned by Japan while Argentina’s post-Messi era starts with defeat",
-     "url": "https://www.theguardian.com/football/2026/nov/14/brazil-argentina-japan-uruguay-wales-norway-portugal-denmark",
-     "pub": "2026-11-14T13:07+00:00"
+     "titulo": "Chelsea v Manchester City: Women’s Super League – live",
+     "url": "https://www.theguardian.com/football/live/2026/nov/14/chelsea-v-man-city-womens-super-league-live",
+     "pub": "2026-11-14T13:27+00:00"
     },
     {
      "medio": "Sky Sports",
-     "titulo": "Wales vs New Zealand LIVE! All Blacks visit Cardiff before England play Japan",
-     "url": "https://www.skysports.com/rugby-union/live-blog/12040/13612004/wales-vs-new-zealand-england-vs-japan-live-nations-championship-updates-latest-scores-team-news-commentary-from-cardiff-twickenham",
-     "pub": "2026-11-14T12:45+00:00"
+     "titulo": "WSL LIVE! Chelsea vs Man City under way, Man Utd lead Palace",
+     "url": "https://www.skysports.com/football/chelsea-women-vs-manchester-city-women/live/575819",
+     "pub": "2026-11-14T11:15+00:00"
+    },
+    {
+     "medio": "Daily Mail",
+     "titulo": "Named: Premier League team of the season so far as Erling Haaland, THREE Chelsea players and a surprise addition from Sunderland make the cut",
+     "url": "https://www.dailymail.com/sport/football/article-16277835/Named-Premier-League-team-season-far-Brightons-star-man-THREE-Chelsea-players-surprise-addition-Sunderland.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+     "pub": "2026-11-14T09:56+00:00"
     },
     {
      "medio": "FourFourTwo",
-     "titulo": "How to watch Japan vs Brazil: live stream international friendly for FREE",
-     "url": "https://www.fourfourtwo.com/competition/japan-vs-brazil-free-live-stream-tv-channels-kick-off-time-and-predictions-for-prestige-international-friendly-in-singapore",
-     "pub": "2026-11-14T06:00+00:00"
-    },
-    {
-     "medio": "Yahoo",
-     "titulo": "Watch: Barcelona captain Raphinha sent off alongside Ancelotti after Brazil defeat against Japan",
-     "url": "https://sports.yahoo.com/articles/watch-barcelona-captain-raphinha-sent-125300412.html",
-     "pub": "2026-11-14T12:53+00:00"
-    },
-    {
-     "medio": "Yahoo",
-     "titulo": "Watch: Under-fire Real Madrid forward scores stunning brace in 2-3 international loss to Japan",
-     "url": "https://sports.yahoo.com/articles/watch-under-fire-real-madrid-124200542.html",
-     "pub": "2026-11-14T12:42+00:00"
-    },
-    {
-     "medio": "Yahoo",
-     "titulo": "Japan beat Brazil in thriller as Vinicius scores stunners while Ancelotti, Raphinha sent off",
-     "url": "https://sports.yahoo.com/articles/japan-beat-brazil-thriller-vinicius-124108109.html",
-     "pub": "2026-11-14T12:41+00:00"
-    },
-    {
-     "medio": "Yahoo",
-     "titulo": "What a ruuuun! Japan extend their lead against Brazil; follow live",
-     "url": "https://sports.yahoo.com/articles/kubo-opens-scoring-japan-against-103300426.html",
-     "pub": "2026-11-14T10:33+00:00"
-    },
-    {
-     "medio": "Sky Sports",
-     "titulo": "Joseph scores five tries in England annihilation of Japan",
-     "url": "https://www.skysports.com/rugby-union/england-vs-japan/report/111692",
-     "pub": "2026-11-14T14:31+00:00"
-    },
-    {
-     "medio": "Daily Mail",
-     "titulo": "Carlo Ancelotti and Raphinha see red: Security separate furious Brazil stars from officials after shock 3-2 defeat by Japan - with manager and captain sent off in bad-tempered friendly",
-     "url": "https://www.dailymail.com/sport/football/article-16292553/Carlo-Ancelotti-scathing-attack-inexperienced-referee-Raphinha-sent-Brazil-defeat-Japan.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-     "pub": "2026-11-14T17:52+00:00"
-    },
-    {
-     "medio": "Yahoo",
-     "titulo": "Ancelotti and Raphinha sent off as Japan beat Brazil",
-     "url": "https://sports.yahoo.com/articles/ancelotti-raphinha-sent-off-japan-132515222.html",
-     "pub": "2026-11-14T15:53+00:00"
-    },
-    {
-     "medio": "Yahoo",
-     "titulo": "Big boost for Barcelona as Brazil consider sending star attacker back after red card vs Japan",
-     "url": "https://sports.yahoo.com/articles/big-boost-barcelona-brazil-consider-153400906.html",
-     "pub": "2026-11-14T15:34+00:00"
-    },
-    {
-     "medio": "Mirror",
-     "titulo": "Brazil players separated from referee by security as Carlo Ancelotti sees red vs Japan",
-     "url": "https://www.mirror.co.uk/sport/football/news/carlo-ancelotti-sent-off-japan-37878289",
-     "pub": "2026-11-14T22:54+00:00"
-    }
-   ]
-  },
-  {
-   "tema": "Messi",
-   "medios": 7,
-   "lista_medios": [
-    "Foot Mercato",
-    "Google News AR",
-    "Guardian",
-    "Infobae",
-    "Kicker",
-    "Mundo Deportivo",
-    "ge.globo"
-   ],
-   "primera_vez": "2026-11-14T13:45+00:00",
-   "titulares": [
-    {
-     "medio": "Guardian",
-     "titulo": "Raphinha sees red as Brazil stunned by Japan while Argentina’s post-Messi era starts with defeat",
-     "url": "https://www.theguardian.com/football/2026/nov/14/brazil-argentina-japan-uruguay-wales-norway-portugal-denmark",
-     "pub": "2026-11-14T13:07+00:00"
-    },
-    {
-     "medio": "Mundo Deportivo",
-     "titulo": "Uruguay festejó ante una Argentina que extrañó a Messi",
-     "url": "https://www.mundodeportivo.com/futbol/internacional/20261114/1004250865/uruguay-festejo-argentina-extrano-messi.html",
-     "pub": ""
-    },
-    {
-     "medio": "Kicker",
-     "titulo": "Erste Pleite nach der Ära Messi: Argentinien unterliegt Uruguay",
-     "url": "https://www.kicker.de/argentinien-gegen-uruguay-2026-nationalteams-freundschaftsspiele-5274279/spielbericht#omrss",
-     "pub": "2026-11-14T07:11+00:00"
-    },
-    {
-     "medio": "Foot Mercato",
-     "titulo": "Amical : pour son premier match de l’après-Messi, l’Argentine s’incline contre l’Uruguay !",
-     "url": "https://www.footmercato.net/a1958732826287165383-amical-pour-son-premier-match-de-lapres-messi-largentine-sincline-contre-luruguay",
-     "pub": "2026-11-14T07:25+00:00"
-    },
-    {
-     "medio": "Infobae",
-     "titulo": "9 frases de Scaloni tras la derrota de Argentina: del “factor Messi” a su respaldo a Rulli tras reemplazar a Dibu Martínez",
-     "url": "https://www.infobae.com/deportes/2026/11/14/9-frases-de-scaloni-tras-la-derrota-de-argentina-del-factor-messi-a-su-respaldo-a-rulli-tras-reemplazar-a-dibu-martinez/",
-     "pub": "2026-11-14T02:45+00:00"
-    },
-    {
-     "medio": "Infobae",
-     "titulo": "Julián Álvarez se refirió a la era post Messi y dejó un mensaje sobre el futuro de la Selección: “Hay que seguir el legado”",
-     "url": "https://www.infobae.com/deportes/2026/11/14/julian-alvarez-se-refirio-a-la-era-post-messi-y-dejo-un-mensaje-sobre-el-futuro-de-la-seleccion-hay-que-seguir-el-legado/",
-     "pub": "2026-11-14T02:36+00:00"
-    },
-    {
-     "medio": "Google News AR",
-     "titulo": "Quique Wolff, mucho más que fútbol: del Racing de José al periodismo, y sus anécdotas con Pelé, Maradona y Messi",
-     "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNbE5BemZ3Ujg5VVREMVpvaVhLYzNvbXV2QzVtMVBldDZ4ZTBNcF9ZZUg5UXBoY0ZlVWpnbWYtaXMtOV8zak9IakliTU5sZTdkN3RtRnBrOEhSMWFFN3RocXlXM2RIRU9OOVlkdWIwQlhJRHV1ZWZ2d205My1MM0hHVFEyZDU1SHZPRFMwc3M0RXdidE9jb3ZESWE4cUoyYnkxNDhrRVVua0x6VndJejZGWHhSdjUyRXZFWmJtRGZHX3ZXRTlpc1g1MXhYNWhYY2R3a0pLc3ZMdnNFOVZ3RzhkaW00TkpaYkZQLUtPcDNB?oc=5",
-     "pub": "2026-11-14T11:42+00:00"
-    },
-    {
-     "medio": "Google News AR",
-     "titulo": "Ser Messi sin ser Lionel: historias de Recanati, un pueblo italiano donde el apellido más famoso del fútbol es uno más",
-     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOOE5DMGdCQlBzNEdDbFhGeW1nMWZOUklBZXViTi1BZ2JON2dCMXNqejJhWk1JNVFmbkM4X0hOdi15X3JKX21RNkRDSTB2UHNOYmF1QUdUOXRtOUdraU4zZ21yTTBFZmpPN3NpUjNhVDJobmhuak9kMTRaZFNaelNVR0IyRXdCYV8zdWU1NlNOd0dCekJWMThWa1FvWjBIVnJCWnM1T2c1ZzhMZVFwYkdoRk4wMGN2bHdZRjgwdA?oc=5",
-     "pub": "2026-11-14T09:00+00:00"
-    },
-    {
-     "medio": "Google News AR",
-     "titulo": "La Argentina juega con nostalgia: sin Messi y con menos fútbol, la derrota con Uruguay apunta al futuro",
-     "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPUTlIUUZvUGM0bngyRkhmUEtqQnUyUFVRSjYzdWZHSElWSkRRb0ZZWFc0WWdJcTJOM0U3QmI1OUN6dUk5R2o2YUthQ2hMV3BXVEJVeEFsbnN6SzdNY1RWajBDRDJjeEZnRUIxNlhQVXRES2Z2aDBTeGVNdU1VRlY1eGdVQlB0U2Y5TzI4bl9fbkVEVVdKOEJ2TmRJcGFlQnNlV0V2Q19qTW9Ud01nQVpwend2d21sTGVqNk1MRlNUV2YycTBwN1R4b2w5VjhyVk5fUHp6bEY1X1pDdDA5MmNuZGZPVlRIbWxSS3ZleW1n?oc=5",
-     "pub": "2026-11-14T02:28+00:00"
-    },
-    {
-     "medio": "Infobae",
-     "titulo": "Las perlitas que dejó la primera jornada de la Copa Potrero: del golazo de Dieguito Latorre a la presencia del ahijado de Messi",
-     "url": "https://www.infobae.com/deportes/2026/11/14/las-perlitas-que-dejo-la-primera-jornada-de-la-copa-potrero-del-golazo-de-dieguito-latorre-a-la-presencia-del-ahijado-de-messi/",
-     "pub": "2026-11-14T20:59+00:00"
-    },
-    {
-     "medio": "ge.globo",
-     "titulo": "Transição difícil: Argentina e Portugal perdem os primeiros jogos após saídas de Messi e Cristiano Ronaldo",
-     "url": "https://ge.globo.com/futebol/futebol-internacional/noticia/2026/11/15/transicao-dificil-argentina-e-portugal-perdem-os-primeiros-jogos-apos-saidas-de-messi-e-cristiano-ronaldo.ghtml",
-     "pub": "2026-11-15T07:00+00:00"
-    }
-   ]
-  },
-  {
-   "tema": "Fuente",
-   "medios": 7,
-   "lista_medios": [
-    "AS",
-    "BBC",
-    "Daily Mail",
-    "Foot Mercato",
-    "Google News ES",
-    "Guardian",
-    "L'Equipe"
-   ],
-   "primera_vez": "2026-11-14T13:45+00:00",
-   "titulares": [
-    {
-     "medio": "Guardian",
-     "titulo": "De la Fuente feels the strain as Lamine Yamal club v country debate rages in Spain",
-     "url": "https://www.theguardian.com/football/2026/nov/14/lamine-yamal-luis-de-la-fuente-spain-england-club-country",
+     "titulo": "How to watch Chelsea vs Manchester City: Free streams and TV channels as heavyweights face off",
+     "url": "https://www.fourfourtwo.com/competition/watch-chelsea-vs-manchester-city-wsl-2026-27-free",
      "pub": "2026-11-14T08:00+00:00"
     },
     {
-     "medio": "AS",
-     "titulo": "De la Fuente, licencia para zanjar",
-     "url": "https://as.com/futbol/seleccion/de-la-fuente-licencia-para-zanjar-f202611-n/",
-     "pub": "2026-11-14T06:14+00:00"
+     "medio": "Yahoo",
+     "titulo": "Chelsea set to battle Man United in the race to sign €80m star",
+     "url": "https://sports.yahoo.com/articles/chelsea-set-battle-man-united-115000198.html",
+     "pub": "2026-11-14T11:50+00:00"
     },
     {
-     "medio": "Guardian",
-     "titulo": "De la Fuente adamant there is no racism in Spain despite England reminder to players",
-     "url": "https://www.theguardian.com/football/2026/nov/14/luis-de-la-fuente-spain-england-racism-thomas-tuchel-natiions-league",
-     "pub": "2026-11-14T18:59+00:00"
+     "medio": "Google News EN",
+     "titulo": "Women's Super League LIVE! Chelsea vs Man City and Man Utd vs Crystal Palace match updates, news and score",
+     "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQX3lXbTdKQm9JVkJzTzVkbHhodlE4SzdGOFByM01vQVRPTUJsdTY4cEtHZG42NHpuQnl5OUJ1U1RFOUI5SGxZbVJUZEIyRnQ2TGhycmJoQTRjdk5oVUtaTTV3c2NSeGdvWFZWVFJmTkpvT3ljWDBFVkRKbmN5LXZaem0wNjFwbHlhVXRqNkZ6SGZ6bFdSNUQtZGp3S0g3eDB0cEVZblZYMUc5NDRDZ0FGWTZWaEROQk5hUXFoTFlaaXc2RVgyT2psQnN1VGxvSDhnYldyNXFxU1hRMFhaTUhIRjA0Umk0MHJlbnBqbUJB?oc=5",
+     "pub": "2026-11-14T12:21+00:00"
     },
     {
-     "medio": "AS",
-     "titulo": "De la Fuente: “Decidle a Tuchel que en España no hay racismo”",
-     "url": "https://as.com/futbol/seleccion/de-la-fuente-espana-no-hay-racismo-asi-de-contundente-f202611-n/",
-     "pub": "2026-11-14T17:22+00:00"
-    },
-    {
-     "medio": "AS",
-     "titulo": "Rueda de prensa de Luis de la Fuente, en directo: previa del España - Inglaterra de Nations League, en vivo",
-     "url": "https://as.com/futbol/seleccion/rueda-de-prensa-de-luis-de-la-fuente-en-directo-previa-del-espana-inglaterra-de-nations-league-en-vivo-f202611-d/",
-     "pub": "2026-11-14T17:47+00:00"
-    },
-    {
-     "medio": "Google News ES",
-     "titulo": "Luís De la Fuente 'desvela' el plan de la Selección con Lamine Yamal ante Inglaterra: \"Está para jugar sin ningún problema\"",
-     "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQcFRKem5FQkJicDR5clV5RDJtZUtPNmFCanpfOU9NenpCMHJYNzdmQ09fbktsTTNUNnZFYXJRSm5NNloyRW1JY0NGeUw3NHkzSmlBS0dzS1N0Y1lpZHB0VzlSRTItTW1UV2s0ZWJ3TWJTck9SenloZGk4NF92WFNnaGxKdUVUUHp1UWIzRGpSM2U2Ny1ueFJHSm0wRE1zSDZPVHBiYVE0NGVDOUoyN1hTUnJ1dE80eVlmRjJQaTY5M1hPSVdoZmpHOEVfY1VBbmRMY19uRW92QXYwZHVJbVhMM1A2amhTM3F5OTZ3NUFUcURuY1BDbUc1Ug?oc=5",
-     "pub": "2026-11-14T18:04+00:00"
-    },
-    {
-     "medio": "Google News ES",
-     "titulo": "Luis de la Fuente: “En España no hay racismo”",
-     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQZnJ1QmtBd0lWd2QyeXZkNEM4RnNhNVlQZFdya2JNbUdtT09WVjUzbnBidDVUSmNraFp1WURNbWVycGVhQUtheDlRdVdMT1RGNThNLUJoSjVNYk1iZUY5TXVnQlRISXh4X29UYUlWd1Ztbk01MG1keFhrYXBtM1FYb3E4emVsb1BwaXVpMzVYaVFGZWNzNXfSAZsBQVVfeXFMTWJpYkd3OGtIWWtidUJMNFFJUlZuTWNSbklLbWRtb01kQ0Z0MmhkTC1nWDlUVGowTGx6VFZXXzhhQlhtd1kxeHBpSUdJcE43Mkd4NGh3WDVEcl9CdW1OaEV0Yl9mYl80UVo5QlRNOWhLTEtZUDl5eWkyUm9lQnNsS0pZV0d1dHFLOWo4SFpqZnFNbFN5OFpxdU1MNmc?oc=5",
-     "pub": "2026-11-14T18:04+00:00"
+     "medio": "Mundo Deportivo",
+     "titulo": "El Chelsea tanteó a Morante, que apostó por seguir en el Betis",
+     "url": "https://www.mundodeportivo.com/futbol/20261114/1004250872/chelsea-tanteo-morante-aposto-seguir-betis.html",
+     "pub": ""
     },
     {
      "medio": "BBC",
-     "titulo": "'No racism in Spain' – De la Fuente message for Tuchel",
-     "url": "https://www.bbc.co.uk/sport/football/articles/c893r74ryy3qo?at_medium=RSS&at_campaign=rss",
-     "pub": "2026-11-14T20:43+00:00"
+     "titulo": "Bompastor's risks pay off as Chelsea go top of WSL",
+     "url": "https://www.bbc.co.uk/sport/football/articles/cmvg25w18q9qo?at_medium=RSS&at_campaign=rss",
+     "pub": "2026-11-14T18:55+00:00"
+    },
+    {
+     "medio": "BBC",
+     "titulo": "Chelsea go top with 1-0 win against Man City",
+     "url": "https://www.bbc.co.uk/sport/football/videos/cm702wwpj9keo?at_medium=RSS&at_campaign=rss",
+     "pub": "2026-11-14T15:50+00:00"
+    },
+    {
+     "medio": "Guardian",
+     "titulo": "Chelsea go top of WSL as Sandy Baltimore bullet sees off Manchester City",
+     "url": "https://www.theguardian.com/football/2026/nov/14/chelsea-manchester-city-womens-super-league-match-report",
+     "pub": "2026-11-14T15:36+00:00"
     },
     {
      "medio": "Daily Mail",
-     "titulo": "England boss Thomas Tuchel angry at being dragged into race row after being told by Luis de la Fuente: 'There is no racism in Spain!' on eve of Nations League showdown",
-     "url": "https://www.dailymail.com/sport/football/article-16293027/England-boss-Thomas-Tuchel-angry-dragged-race-row-told-Luis-la-Fuente-no-racism-Spain-eve-Nations-League-showdown.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-     "pub": "2026-11-14T21:48+00:00"
+     "titulo": "Sonia Bompastor's side show their teeth as Chelsea sink the reigning champions to reclaim top spot in WSL title race: Chelsea 1-0 Man City",
+     "url": "https://www.dailymail.com/sport/football/article-16290255/wsl-sonia-bompastor-chelsea-man-city-title-race.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+     "pub": "2026-11-14T18:50+00:00"
     },
     {
-     "medio": "L'Equipe",
-     "titulo": "De la Fuente répond à Tuchel : « Il n'y a pas de racisme en Espagne »",
-     "url": "https://www.lequipe.fr/Football/Video/Ligue-des-nations-de-la-fuente-repond-a-tuchel-il-n-y-a-pas-de-racisme-en-espagne/20245585#at_medium=RSS_feeds",
-     "pub": "2026-11-14T23:15+00:00"
-    },
-    {
-     "medio": "Foot Mercato",
-     "titulo": "Espagne-Angleterre : une polémique sur le racisme éclate entre Thomas Tuchel et Luis de la Fuente",
-     "url": "https://www.footmercato.net/a5575846397648722211-espagne-angleterre-une-polemique-sur-le-racisme-eclate-entre-thomas-tuchel-et-luis-de-la-fuente",
-     "pub": "2026-11-15T12:30+00:00"
-    },
-    {
-     "medio": "Foot Mercato",
-     "titulo": "Espagne : Luis de la Fuente clôt la polémique autour de Lamine Yamal",
-     "url": "https://www.footmercato.net/a7578144948280060071-espagne-luis-de-la-fuente-clot-la-polemique-autour-de-lamine-yamal",
-     "pub": "2026-11-15T11:35+00:00"
+     "medio": "Yahoo",
+     "titulo": "Report: Chelsea star wanted by Serie A giants",
+     "url": "https://sports.yahoo.com/articles/report-chelsea-star-wanted-serie-185000083.html",
+     "pub": "2026-11-14T18:50+00:00"
     }
    ]
   },
   {
    "tema": "Yamal",
-   "medios": 7,
+   "medios": 8,
    "lista_medios": [
     "Foot Mercato",
     "Google News ES",
     "Guardian",
+    "L'Equipe",
     "Mundo Deportivo",
     "Sky Sports",
     "Yahoo",
@@ -1866,6 +1827,450 @@
      "titulo": "Espagne : Lamine Yamal portera le numéro 10 face à l’Angleterre",
      "url": "https://www.footmercato.net/a450321065472787096-espagne-lamine-yamal-portera-le-numero-10-face-a-langleterre",
      "pub": "2026-11-15T09:25+00:00"
+    },
+    {
+     "medio": "Yahoo",
+     "titulo": "Confirmed: Three Barcelona players start in England vs Spain as Lamine Yamal returns",
+     "url": "https://sports.yahoo.com/articles/confirmed-three-barcelona-players-start-190300481.html",
+     "pub": "2026-11-15T19:03+00:00"
+    }
+   ]
+  },
+  {
+   "tema": "Thomas",
+   "medios": 8,
+   "lista_medios": [
+    "Daily Mail",
+    "Foot Mercato",
+    "Google News EN",
+    "Google News ES",
+    "Mirror",
+    "Planet Football",
+    "Yahoo",
+    "talkSPORT"
+   ],
+   "primera_vez": "2026-11-14T13:45+00:00",
+   "titulares": [
+    {
+     "medio": "Planet Football",
+     "titulo": "Crystal Palace: Four signings that would be perfect for Thomas Frank in January",
+     "url": "https://www.planetfootball.com/premier-league/crystal-palace-transfers-perfect-signings-thomas-frank",
+     "pub": "2026-11-14T13:29+00:00"
+    },
+    {
+     "medio": "talkSPORT",
+     "titulo": "Thomas Tuchel questioned for overlooking uncapped English star thriving in Premier League",
+     "url": "https://talksport.com/football/4707685/thomas-tuchel-questioned-jayden-bogle-england-squad-leeds-united/",
+     "pub": "2026-11-14T17:12+00:00"
+    },
+    {
+     "medio": "Yahoo",
+     "titulo": "Rico Lewis Outlines Path to Return to Thomas Tuchel's Squad Following England U21 Heroics",
+     "url": "https://sports.yahoo.com/articles/rico-lewis-outlines-path-return-153000781.html",
+     "pub": "2026-11-14T15:30+00:00"
+    },
+    {
+     "medio": "talkSPORT",
+     "titulo": "Thomas Tuchel to drop key England star for crunch Nations League clash against Spain",
+     "url": "https://talksport.com/football/4707960/james-trafford-jordan-pickford-england-spain-thomas-tuchel/",
+     "pub": "2026-11-14T19:45+00:00"
+    },
+    {
+     "medio": "Daily Mail",
+     "titulo": "England's Euro 2028 mission starts NOW! Thomas Tuchel's men must beat Spain to prove they can compete with the best - or risk their 'DNA' cursing them yet again, writes OLIVER HOLT",
+     "url": "https://www.dailymail.com/sport/football/article-16293007/england-spain-euro-2028-oliver-holt.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+     "pub": "2026-11-15T00:04+00:00"
+    },
+    {
+     "medio": "Daily Mail",
+     "titulo": "England boss Thomas Tuchel angry at being dragged into race row after being told by Luis de la Fuente: 'There is no racism in Spain!' on eve of Nations League showdown",
+     "url": "https://www.dailymail.com/sport/football/article-16293027/England-boss-Thomas-Tuchel-angry-dragged-race-row-told-Luis-la-Fuente-no-racism-Spain-eve-Nations-League-showdown.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+     "pub": "2026-11-14T21:48+00:00"
+    },
+    {
+     "medio": "Mirror",
+     "titulo": "Thomas Tuchel responds after Spain boss hits back over racism message to England stars",
+     "url": "https://www.mirror.co.uk/sport/football/news/england-thomas-tuchel-spain-racism-37878157",
+     "pub": "2026-11-14T21:05+00:00"
+    },
+    {
+     "medio": "Google News EN",
+     "titulo": "Thomas Tuchel: England boss unhappy as anti-racism protocol questions overshadow Nations League test in Spain",
+     "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQX0ZfY1YtWG41ZVh5S3FIalJRNi1pRjZTRGhnV0hmUU5HRUdqMk1DcU9ZdlRDYldlb2xLQkV5TjBPSk51ZzMtUGQzSXl0SC1iNWtRZEc3cFE5Si0xdm16R2t3RkI0LUQzemt3N2EydEVpalpNU001UTRicmc1RFNYWks2cDh0bjF5MFR2NWxVb2NZZ21TYk5CaGZ4S1BjTlhpc0VHMkdpSXFCWkQwUl9rZ2E0d04tQ1FTSWFiUm9qVEhxMWZndzJpMVNYakNSNUhhTWN0ZHZjS0RsdFN2eGwzVnlfNG1DWm96SEZ3bV93?oc=5",
+     "pub": "2026-11-15T09:05+00:00"
+    },
+    {
+     "medio": "Foot Mercato",
+     "titulo": "Espagne-Angleterre : une polémique sur le racisme éclate entre Thomas Tuchel et Luis de la Fuente",
+     "url": "https://www.footmercato.net/a5575846397648722211-espagne-angleterre-une-polemique-sur-le-racisme-eclate-entre-thomas-tuchel-et-luis-de-la-fuente",
+     "pub": "2026-11-15T12:30+00:00"
+    },
+    {
+     "medio": "Daily Mail",
+     "titulo": "Jarrad Branthwaite left out of England squad for Nations League decider with Spain - as James Hill and Dan Burn leapfrog defender in Thomas Tuchel's pecking order",
+     "url": "https://www.dailymail.com/sport/football/article-16294353/Jarrad-Branthwaite-England-squad-Nations-League-decider-Spain-James-Hill-Dan-Burn-Thomas-Tuchel.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+     "pub": "2026-11-15T15:07+00:00"
+    },
+    {
+     "medio": "Google News ES",
+     "titulo": "Alineaciones España vs Inglaterra hoy: once inicial y banquillo de suplentes de Luis de la Fuente y Thomas Tuchel para la Nations League 2026/27",
+     "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxObWpoNGJEVGN5cmMwQmdjeFNNMGtDRFJGc3o4dGo2bmxTdWtOVWlISmZNX1MxdGZ4S3FNdzM2TzZsMGxRc1R2TEh2TVJVWW42bExxSml5ZmdCMjlFLW84cjVORlRuUGNDdFdMWUFBODd6cmJCbzU0Z2lzdm96YUJaVUp1a01UZ1U5dFowaWZ2ZlZtTVFGM0NBRWtqdEdhQ2RCNkp3d3R3MlhZcTJ4c3dja1MzM0c5Z29MMnpYSHdJelRuQWxVbVN3bHZLakNoeDhiRkRkRV9sVDZxelBYbjVQbEhSLWtLbng3Nkl2czRLNkZJcUpPX2c4ZkNvRHZlVG92X2RZZmYxQVYwR2J3WTJQWGU1UHZXdw?oc=5",
+     "pub": "2026-11-15T18:37+00:00"
+    }
+   ]
+  },
+  {
+   "tema": "Brasil",
+   "medios": 8,
+   "lista_medios": [
+    "AS",
+    "Google News AR",
+    "Google News ES",
+    "Infobae",
+    "Mundo Deportivo",
+    "Ole",
+    "Record",
+    "ge.globo"
+   ],
+   "primera_vez": "2026-11-14T13:45+00:00",
+   "titulares": [
+    {
+     "medio": "Mundo Deportivo",
+     "titulo": "3-2: La Brasil de Ancelotti sigue sin encontrar su rumbo y cae ante Japón",
+     "url": "https://www.mundodeportivo.com/futbol/20261114/1004250930/3-2-brasil-ancelotti-sigue-encontrar-rumbo-cae-japon.html",
+     "pub": ""
+    },
+    {
+     "medio": "Mundo Deportivo",
+     "titulo": "Vinicius resucita con Brasil",
+     "url": "https://www.mundodeportivo.com/futbol/real-madrid/20261114/1004250914/vinicius-resucita-brasil.html",
+     "pub": ""
+    },
+    {
+     "medio": "Mundo Deportivo",
+     "titulo": "Take Kubo se reivindica con Japón, marca a Brasil y tiene un precioso gesto con Barrene",
+     "url": "https://www.mundodeportivo.com/futbol/real-sociedad/20261114/1004250896/take-kubo-reivindica-japon-marca-brasil-precioso-gesto-barrene.html",
+     "pub": ""
+    },
+    {
+     "medio": "Mundo Deportivo",
+     "titulo": "¡Ojo al golazo de Vinicius con Brasil!",
+     "url": "https://www.mundodeportivo.com/futbol/real-madrid/20261114/1004250893/ojo-golazo-vinicius-brasil.html",
+     "pub": ""
+    },
+    {
+     "medio": "Google News ES",
+     "titulo": "Vinicius despierta con Brasil, marca dos golazos pero no evita la derrota ante Japón",
+     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOQWxMdVNLcjhBOUFSazNBWkV0TjU0WWhTLUxqY1JNVXhHXzY0WlN4RWJmeEpkUG5mdUhNSV9Qb2VCdm96Q2t3STc3VGZaVTJ2dmNkbHNzWm45aXZRZUprSEVLSnZtdVVmNE1aR2loWXRuMTctNUhqSUlZdkl6VkxYUVZtQXVMZ9IBhgFBVV95cUxPLXhTSGt0SlZuUXBlRG5SR21mRkEtTTV6bkgzVFMzWWJTQzY0V0pUTlpfQlBoVGFuWVZWUUNLZnhWU0Q1VFpVaUswcjlrdVY4T3l0d1RKVWE2aTFFZ0p6ZGFyVldCS0w2VGFoMHlpSU1YVzNrNlpvNXQ0S1lzWWFGNlJNN1NfQQ?oc=5",
+     "pub": "2026-11-14T12:55+00:00"
+    },
+    {
+     "medio": "Google News ES",
+     "titulo": "Japón - Brasil en directo - Amistosos: Resultados y resúmenes de Fútbol - 14/11/2026",
+     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQUEpqdzUxSWhtdEhJYkxtSlFmcXM4eUViYW42QXBVTUh3LUZpdDdocTBVaHRnLW55bzNzVFpEdjF5d1RUOVo0dGh4NnlsZHlxcVFIRXB3bVJFd2pmNFJubm4wa2QzZ2M1WFJHNUdSYVQ3MnJpc1doWktXR2VPZUNZQ1N2U0JvRmYtV0xmVFJhN0o?oc=5",
+     "pub": "2026-11-14T10:14+00:00"
+    },
+    {
+     "medio": "Record",
+     "titulo": "<![CDATA[ Os dois golaços de Vinícius Júnior que não foram suficientes para evitar a derrota do Brasil diante do Japão ]]>",
+     "url": "https://www.record.pt/multimedia/videos/detalhe/os-dois-golacos-de-vinicius-junior-que-nao-foram-suficientes-para-evitar-a-derrota-do-brasil-diante-do-japao",
+     "pub": "2026-11-14T12:41+00:00"
+    },
+    {
+     "medio": "Record",
+     "titulo": "<![CDATA[ Japão derrota Brasil em particular com cinco golos e expulsões de Ancelotti e Raphinha ]]>",
+     "url": "https://www.record.pt/internacional/detalhe/japao-derrota-o-brasil-em-particular-com-cinco-golos",
+     "pub": "2026-11-14T12:20+00:00"
+    },
+    {
+     "medio": "Ole",
+     "titulo": "La calentura de Brasil tras la derrota sobre la hora ante Japón: Carlo Ancelotti y Raphinha invadieron la cancha y fueron expulsados",
+     "url": "https://www.ole.com.ar/futbol-internacional/america/brasil-japon-carlo-ancelotti-raphinha_0_SbSh4CiRU8.html",
+     "pub": "2026-11-14T13:03+00:00"
+    },
+    {
+     "medio": "Infobae",
+     "titulo": "En un partido marcado por las polémicas, Brasil perdió contra Japón en el último minuto y sumó otro traspié en la era Ancelotti",
+     "url": "https://www.infobae.com/deportes/2026/11/14/en-un-partido-marcado-por-las-polemicas-brasil-perdio-contra-japon-en-el-ultimo-minuto-y-sumo-otro-traspie-en-la-era-ancelotti/",
+     "pub": "2026-11-14T13:39+00:00"
+    },
+    {
+     "medio": "Google News AR",
+     "titulo": "Estadísticas de Brasil vs Japón: remates, posesión y goles esperados del amistoso internacional",
+     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9obEQ0SUpmNEgyU2VOVjQ1T2NWbnZBRUF0RE8tZnhYb0FjdGpob0dTd09fRWFjWXpuczczbXo1UzhvU29LNnkyRlkzMnpXcTZldlBZNG5pWXZYZWZscHVCWnBhczlkdHk0eV84U0VLWmVsSXVydXlKNE40cjctQ1k?oc=5",
+     "pub": "2026-11-14T11:05+00:00"
+    },
+    {
+     "medio": "Google News AR",
+     "titulo": "Dónde ver Brasil vs Japón EN VIVO: canales y streaming del amistoso internacional",
+     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9PRnFXTml0WTNfR2MtQjhVOUdQdnZqRU5WWldKMHRMcHp6Nzg2dmFkbmtwT0dsLUZvNWloaFJpQWtOTXJUZGpkRUlybGNnOEZiX0pqYVpLZVFOa0Z4LUtuVUdRTk10QWozaXlUTzVhUVJVWDBISWJ0UlBxMExrUVE?oc=5",
+     "pub": "2026-11-14T08:22+00:00"
+    }
+   ]
+  },
+  {
+   "tema": "Argentina",
+   "medios": 8,
+   "lista_medios": [
+    "Daily Mail",
+    "Google News AR",
+    "Google News ES",
+    "Infobae",
+    "Mundo Deportivo",
+    "Ole",
+    "Record",
+    "ge.globo"
+   ],
+   "primera_vez": "2026-11-14T13:45+00:00",
+   "titulares": [
+    {
+     "medio": "Mundo Deportivo",
+     "titulo": "Uruguay festejó ante una Argentina que extrañó a Messi",
+     "url": "https://www.mundodeportivo.com/futbol/internacional/20261114/1004250865/uruguay-festejo-argentina-extrano-messi.html",
+     "pub": ""
+    },
+    {
+     "medio": "Google News ES",
+     "titulo": "Argentina - Uruguay en directo - Amistosos: Resultados y resúmenes de Fútbol - 13/11/2026",
+     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOVFY4ZDBOc1lUMkZhTXN6VFVZeXN0dUJ3dzBQb0dQY2tuQWhiZXpUMDN4WXFiN3NkdkZ6MGNtV0NQR1dCVmIzWDlFbHlaNkdueXlYcWIyVEZoUlR5OTEyNm1MRTEtb2RjZHdwbVJSd0VWYXZCWFZfamRTa1ZMbGJ0UzU5NUhtMGFIREtQZDBMY3VmVEJUYXE0?oc=5",
+     "pub": "2026-11-14T09:20+00:00"
+    },
+    {
+     "medio": "Ole",
+     "titulo": "Qué canal de TV transmite Boca vs. Banfield, por la Copa Argentina 2026",
+     "url": "https://www.ole.com.ar/copa-argentina/boca-vs-banfield-semifinal-copa-argentina-2026-partido-dia-horario-tv-formaciones_0_WOhz0vaAMj.html",
+     "pub": "2026-11-14T13:07+00:00"
+    },
+    {
+     "medio": "Ole",
+     "titulo": "A qué hora juega hoy Boca vs. Banfield y por dónde ver EN VIVO la Copa Argentina",
+     "url": "https://www.ole.com.ar/copa-argentina/boca-vs-banfield-partido-semifinal-copa-argentina-2026-vivo_0_O1FUYZUgJe.html",
+     "pub": "2026-11-14T12:23+00:00"
+    },
+    {
+     "medio": "Infobae",
+     "titulo": "Boca Juniors y Banfield se medirán por un lugar en la final de la Copa Argentina: hora, TV y formaciones",
+     "url": "https://www.infobae.com/deportes/2026/11/14/boca-juniors-y-banfield-se-mediran-por-un-lugar-en-la-final-de-la-copa-argentina-hora-tv-y-formaciones/",
+     "pub": "2026-11-14T13:30+00:00"
+    },
+    {
+     "medio": "Infobae",
+     "titulo": "Lo que no se vio de la caída de Argentina ante Uruguay: el nuevo mimado por los hinchas, el recuerdo de Maradona y el público en la bombonera",
+     "url": "https://www.infobae.com/deportes/2026/11/14/lo-que-no-se-vio-de-la-derrota-de-argentina-frente-a-uruguay-el-nuevo-mimado-por-los-hinchas-el-recuerdo-de-maradona-y-publico-en-la-bombonera/",
+     "pub": "2026-11-14T12:43+00:00"
+    },
+    {
+     "medio": "Google News AR",
+     "titulo": "La camiseta homenaje de Los Pumas a la selección Argentina de fútbol campeona del Mundial 1986",
+     "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNal8xNVZoZVNjbU4tN2RQT0g2UWJQQ2VsOTNZdDVrcllJVlhwOW5uUHVaV2QtbDE5ZVRrZUxYcm05UnJIMWpsUk9HeWZhZkxqNXJJX1pRSFVNNnZ5dXhrelRrMVk4S3pjMWpyS3duby00OElhcGdxWEEyQnVnc1dxVzE3SU5wLXBuZWNBcTdQbUY5bjhpZ1JhNTRRNHJJckFoMUltRXBxZXo2UFo3Q1V2OEJBNkw0LUhfNEtTUGhKUmh6LUR1SThlODkzcFFmWFgyZWJXVTZ3?oc=5",
+     "pub": "2026-11-14T11:44+00:00"
+    },
+    {
+     "medio": "Google News AR",
+     "titulo": "Agenda de fútbol por TV: Banfield vs. Boca por las semifinales de la Copa Argentina es el plato fuerte de este sábado",
+     "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPLVlPNVQ1Rnh5bGlfSS1YSVV4cHFvME0wMEdVVU5LU2NGS0NnRkZ4RmMwR2gzWTJYOExCdk01RkVPTWJYWmtlakVrci1TbjgtcGk3RW9NMFVkS0J0eDVIdnhYQzVQNDJTWXNDZjczX0pXaUVmWXNfMThKbE5RaDBMOWs0cGRCZ1dXVzVCQjh6YWtrbDVQSldXUHFFMW5FWXBiZXIxdm1Eb3RySWFXVDMyQTJoU1pQSHlIeXk2V0ZLR19wM2I1LTlmV19OSFdoazVKQUFub2tfdlVLZDhLSXF4aFRESDJyVldGX2c?oc=5",
+     "pub": "2026-11-14T12:39+00:00"
+    },
+    {
+     "medio": "Google News AR",
+     "titulo": "FÚTBOL: Boca y Banfield definen al segundo finalista de la Copa Argentina",
+     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPUFVBY1BTSmJXWkhRSWtNMTF1Ty1tMDJzWks4TEFNbDVpYno1eXU4cTZQMVB2VGN1ekYyTzRHbUR0eFBuT1JyaUlaanItY3dyenRZVzlPdzg5QTd3Nlljb21UeUdhODluSmNyYk5lYkJITUM4U1M5Z1RYOVByZVRfSi1NQlFINERuM2xsZ3pfbDVvbV9GX3lYbTEwd3Bua1B4cHFoOHVnQmNsWDQ4OXc?oc=5",
+     "pub": "2026-11-14T13:20+00:00"
+    },
+    {
+     "medio": "Google News AR",
+     "titulo": "Boca y Banfield se enfrentan en busca de un lugar en la gran final de la Copa Argentina",
+     "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNR2hyTGJ5bHRMM2hBbFMtc0RIT0ZhczVsRF9qdWh6TTFvbXA2THYwOG5ZMjZ3bDlucFMtQjBqbGZBUmZxQnVRaDhnbzU5ei1Zd1g4U3l3WDNta2dTWkRCb19lc2tsdm5URk8wb21XRzAzNlpPcG5Hdk9sZmFSTjduRmF0ak5CNXNLdmRmVDk5NGtnSUhWbmdsVWtxMHZxWmJtb3lRSDluWWtVTDFiRjBhVFdQaXVoZDNBSlktRF9yOU11d1NuRkRTYTZmT0ZFUdIB0wFBVV95cUxQMkZkOWxVSjhxTGlJblVXMVFRQTlNcGpKQWo0ejAwa1dOaFFoNTBmTFR5b3NSaFdjVjZRZDcyZEdUTXBYR3M2NmE4QkVEN1JHVDlEdkJoSmItXzREVFR6U3l6bzVkNE1NYW1welVIYlRHR1c3Zm9wX1dJNElDYlQzN1V2dkh4azg5U0VkQWJWUlJRNVVEQXNiUmdGYTg4bGlTN3M4a0syaDA3RmNnTURCN1YyVHVfcFVtZmZ0Ul9KNlhLRUFLZHoydmpsdWZkMGJaRmpj?oc=5",
+     "pub": "2026-11-14T12:27+00:00"
+    },
+    {
+     "medio": "Google News AR",
+     "titulo": "Copa Argentina de Fútbol: Boca busca ante Banfield en Mendoza su clasificación a la final",
+     "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOeDI0TjBYdEpXVDBXTlBIdEwxcUJQb29OYmhkT2xpQUFXSm9QUHU1OHJjWTZpQm1ZSXRtdGJ3V0hkLWNkakpwWXdTQ1NRZUdyWC1VeFFUNWg2SHRzbE1NN0tGcFR6ZGg2S1NPWTR5aGVqNmxvaF90LVYwMloxWC04c183RGZhOGExSGtma2tWd3YwYWw3UVZCdzRudHJ1TkVnN044b1VhN1FORXBsNE5SX0hvV1ZsSkxBTDVoOVFybFNHRDdVZkdFcGtvUdIB0AFBVV95cUxNY0FxZUJHcHZPa1VWR0IxUE1zOEE2aDRtOGVLSm9DWjRwLWdvZVJkU2VKazFRMEk2NG9qYk1kRDVLYTRvdGlZczB2cXBVdUtVXzczdHJxMmdRdXphcVpjdmRqMF9sMW9JZldZR1FDb3o2TGJPcEtLRUloR0xiY1pMVjE5eGR5emJNdW9HbnA3V3Bsb3ctQ3hWbXpHSUpzdDBLNU01dG9Vekk3emE2UV80MWZxWkUtM1JCWlVzNWVXZjFPcGRURWF3RTd3LXVqWHRQ?oc=5",
+     "pub": "2026-11-14T10:56+00:00"
+    },
+    {
+     "medio": "Mundo Deportivo",
+     "titulo": "3-0: Boca viaja a la final de la Copa Argentina con jerarquía y contundencia",
+     "url": "https://www.mundodeportivo.com/futbol/america/20261115/1004251175/3-0-boca-viaja-final-copa-argentina-jerarquia-contundencia.html",
+     "pub": ""
+    }
+   ]
+  },
+  {
+   "tema": "Chapecoense",
+   "medios": 8,
+   "lista_medios": [
+    "BBC",
+    "Google News AR",
+    "Google News EN",
+    "Google News ES",
+    "Infobae",
+    "Ole",
+    "Record",
+    "ge.globo"
+   ],
+   "primera_vez": "2026-11-14T13:45+00:00",
+   "titulares": [
+    {
+     "medio": "Record",
+     "titulo": "<![CDATA[ Alan Ruschel despede-se do futebol com vídeo arrepiante e mostra cicatrizes da tragédia da Chapecoense ]]>",
+     "url": "https://www.record.pt/multimedia/videos/detalhe/alan-ruschel-despede-se-do-futebol-com-video-arrepiante-e-mostra-cicatrizes-da-tragedia-da-chapecoense",
+     "pub": "2026-11-14T10:54+00:00"
+    },
+    {
+     "medio": "Record",
+     "titulo": "<![CDATA[ Sobrevivente do acidente de aviação da Chapecoense retira-se dos relvados 10 anos após a tragédia ]]>",
+     "url": "https://www.record.pt/internacional/paises/brasil/detalhe/sobrevivente-do-acidente-de-aviacao-da-chapecoense-retira-se-dos-relvados-10-anos-apos-a-tragedia",
+     "pub": "2026-11-14T10:33+00:00"
+    },
+    {
+     "medio": "Ole",
+     "titulo": "A casi una década de la tragedia de Chapecoense, Alan Ruschel anunció su retiro",
+     "url": "https://www.ole.com.ar/futbol-internacional/alan-ruschel-chapecoense-retira-video-despedida_0_F8Ow5obyYf.html",
+     "pub": "2026-11-14T11:59+00:00"
+    },
+    {
+     "medio": "Google News AR",
+     "titulo": "Se retira del fútbol el único sobreviviente de la tragedia de Chapecoense que pudo volver a jugar: el emotivo mensaje de Alan Ruschel",
+     "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNZG8tcXdOOGZ6LWdlaGVITGM1UGZCNTdrckNFeF9WU2VyTElEOG1wdDVBV0c5bmdEVnIzdmVsUnpTb2gzaFdKRmZFSEVqSmY3VVZsVU5DdTMydnVmXzdDQXpNSzZjR1VTd2ZHdzFSU2l0MUxhbmoxODNEYm94UC1kTDB2MXRPekgzeXNEdDY0WWdoZG5TeHVFM1NvVm80RHhQNWZQNl9nM3Q4eVVReFRXTjJYdGdRd0VUNjl4cnNKU3dJZDNsZ2xXR3oxU0lOWTcxTWlPR0JZOV9KSzh1N2t4WjBVQk01UDZ6MkNRUFFfSzQtYnBDYnY0aWVJeULSAZACQVVfeXFMUDM0RnBTZGxKQ2VqRXhQTGN3dldfVkY2d09Ob3R3RG0zamdPVUh1ZG5UMVJHVktZTjU2N04yLW9LS2l2bkNFM2xCRjRaNk5oZ2dGTTFlalE2em1CT0JqUV83R0dzeGd4WDd3akRsbE02ZW5yQXBmMXJ0aGtZT3ZBWjhlc2thRU5zRDJmU190d25pMGV5NHpQaXU3WGx2WVBaMi14SlFCV1RqN2lDTGNkclp5ektPNk12R0RUY284aWQwY0JOUWhKcU5FclJ5X3JsN1Y4VkhWV1piNmxRc1NERkw1VmpIbi1USGRGOG5HMEswVk1JZ3ZsRnhPRzI5Tlota3ZZWmY1OTdZRmw4a2ZkMi0?oc=5",
+     "pub": "2026-11-14T11:40+00:00"
+    },
+    {
+     "medio": "Google News AR",
+     "titulo": "Alan Ruschel anunció su retiro del fútbol: la historia del sobreviviente de la tragedia de Chapecoense",
+     "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNQzVfaXlPZHFVT2NHTmJ3bE01LW55V0oteE5oZDBHN3AwdjJRa3owT1Y3eTFqY1ppQk1PTGU0NEFLSXh3TjZXM2Vqd1hSMjRCWEhuRHlMTkZmQ00za3RReFFyZU1SZ0dwdW9VMV96NlYwNkpNZzJJOG4xWE1SblpNYmc5VkhkMDZtMUcyZU1RXzNnUmxFNnVTa0ZiVVNBaHNtWDlKeVJxQmRyNEpxUko2UUVCeVZkdG9SQWdiNWNGbjFBT3hOS0ZCRmY5ZWptZ9IB0wFBVV95cUxOQmdlLTdXb3VHTy1LQktraVVjX3FNUWJzVFhPb1JFR1l5N0VwVHQ2RjZqN0VYTC1yNGJrWklWME83Tlk2THdjdnVyLUd0ajhTbHk3M0pqcXFvX3pzbDJVcjR2WHBsRFNkbjRIcGttc0prSjY5cENtRmNkNHdOQUJ5TlhkWTd4WUMySmtKZl81bFRTZnJvWUN2NzFoWWVfLWlTeVhUdE4yOWpjbmpzTlN0bzJEWV9LT2xOUi0zZ0VJYjd4bi02MlJoendPa01hV1k2Mmhv?oc=5",
+     "pub": "2026-11-14T13:09+00:00"
+    },
+    {
+     "medio": "Google News AR",
+     "titulo": "A casi una década de la tragedia de Chapecoense, Alan Ruschel anunció su retiro :: Olé - ole.com.ar",
+     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPaU9TQldjX3UwSXVCS2NqeEFpSkpJQXBzd2I0M0I1b3Q2QmtDdXZUZTEyc1VuWUtDZ1owM1BLVEF5UzFvVlVsVTdEeU5TS1VmNXp0X3J5eGxTQ0IxMkFCTTRfZkdaTm5vcWVId2NfU0Z3TFhWY09SaXBQZlZyd3o5LW83WG9SdmdHQzkxNUt6VW5FRDktMld5b0dBTVl4N2taYng3Y3FzOGROTzhUM1E?oc=5",
+     "pub": "2026-11-14T11:59+00:00"
+    },
+    {
+     "medio": "Google News ES",
+     "titulo": "Un sobreviviente de la tragedia del Chapecoense se retira del fútbol con el ascenso a Primera",
+     "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOR2dHajYzLVZKaERLbEN6YndnYzZjY2R3LXNVSW1KaWtsWXBzdG93ZDZCZHRESjJMRjVkU1ZvaEoyeGpPRkY4elNMLXpjcXptUEk4UXRSdk1CdUU3elJNb1NJQmVIQ2ctWGtzZGx2d1k0U2JXcUZfTWdtSDl1R1kwU29KckFUMGNsSzF5RXBJVzc0TklmU292c21wVkE0MXpHU2xxWmJqdGhBSUIzVE4zYWNIbEVOSEJuMGxKMjJENkctazZlYXhEb0NiRVlqazQ3aWc?oc=5",
+     "pub": "2026-11-15T12:02+00:00"
+    },
+    {
+     "medio": "Record",
+     "titulo": "<![CDATA[ Vasco da Gama de Pedro Emanuel vence Chapecoense e fica mais perto da permanência ]]>",
+     "url": "https://www.record.pt/internacional/paises/brasil/detalhe/vasco-da-gama-de-pedro-emanuel-vence-chapecoense-e-fica-mais-perto-da-permanencia",
+     "pub": "2026-11-15T11:50+00:00"
+    },
+    {
+     "medio": "Ole",
+     "titulo": "Alan Ruschel y un retiro soñado: a casi una década de la tragedia de Chapecoense llegó a su último partido en andas y logró el ascenso con Juventude",
+     "url": "https://www.ole.com.ar/futbol-internacional/alanruschel-chapecoense-juventude-retiro_0_x5LkapmPgx.html",
+     "pub": "2026-11-15T14:01+00:00"
+    },
+    {
+     "medio": "Infobae",
+     "titulo": "Se retiró uno de los sobrevivientes de la tragedia de Chapecoense: el emocionante recibimiento de los hinchas",
+     "url": "https://www.infobae.com/deportes/2026/11/14/se-retiro-uno-de-los-sobrevivientes-de-la-tragedia-de-chapecoense-el-emocionante-recibimiento-de-los-hinchas/",
+     "pub": "2026-11-14T22:03+00:00"
+    },
+    {
+     "medio": "Google News AR",
+     "titulo": "Conmovedora despedida del fútbol a Alan Ruschel, el único sobreviviente de la tragedia de Chapecoense que volvió a jugar",
+     "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNaTFLNF83THJsc010MHotR3dVcUpsbjJLWlBiVmgyR3VfT2NkTXp6dTJESjRnd01TTnRkN0gwaWdiOUUzZWw5M3FIZG1zNWRFWXV5RGJvNENwZGpuNmdobV9iOWtSVnFqdDBzbFAwSGFJYXBkU0ZLekZVMHNEM3FvYnRqQ0dSRk9XOHZxV0xCVnE3dXRORlJBNndfMk9seTVhTXJRRWplbzR1LUJmbXBhQUxRMzFGX2ZTTTVLSTdmUE5NeU1WUGYzVEhQWlhZQXFVWlFUZkktRHJxcGlyTFZRd01kRVZIZHlTM0dLTlJSM0NyamgtM0RhcTFLdFdYTWlvNTFVQw?oc=5",
+     "pub": "2026-11-15T12:10+00:00"
+    },
+    {
+     "medio": "ge.globo",
+     "titulo": "Atuações do Vasco: Bruno Duarte é o melhor contra a Chapecoense; dê suas notas",
+     "url": "https://ge.globo.com/futebol/times/vasco/noticia/2026/11/14/atuacoes-bruno-duarte-e-o-melhor-em-vitoria-do-vasco-de-suas-notas.ghtml",
+     "pub": "2026-11-15T01:39+00:00"
+    }
+   ]
+  },
+  {
+   "tema": "Fuente",
+   "medios": 7,
+   "lista_medios": [
+    "AS",
+    "BBC",
+    "Daily Mail",
+    "Foot Mercato",
+    "Google News ES",
+    "Guardian",
+    "L'Equipe"
+   ],
+   "primera_vez": "2026-11-14T13:45+00:00",
+   "titulares": [
+    {
+     "medio": "Guardian",
+     "titulo": "De la Fuente feels the strain as Lamine Yamal club v country debate rages in Spain",
+     "url": "https://www.theguardian.com/football/2026/nov/14/lamine-yamal-luis-de-la-fuente-spain-england-club-country",
+     "pub": "2026-11-14T08:00+00:00"
+    },
+    {
+     "medio": "Guardian",
+     "titulo": "De la Fuente adamant there is no racism in Spain despite England reminder to players",
+     "url": "https://www.theguardian.com/football/2026/nov/14/luis-de-la-fuente-spain-england-racism-thomas-tuchel-natiions-league",
+     "pub": "2026-11-14T18:59+00:00"
+    },
+    {
+     "medio": "AS",
+     "titulo": "De la Fuente: “Decidle a Tuchel que en España no hay racismo”",
+     "url": "https://as.com/futbol/seleccion/de-la-fuente-espana-no-hay-racismo-asi-de-contundente-f202611-n/",
+     "pub": "2026-11-14T17:22+00:00"
+    },
+    {
+     "medio": "AS",
+     "titulo": "Rueda de prensa de Luis de la Fuente, en directo: previa del España - Inglaterra de Nations League, en vivo",
+     "url": "https://as.com/futbol/seleccion/rueda-de-prensa-de-luis-de-la-fuente-en-directo-previa-del-espana-inglaterra-de-nations-league-en-vivo-f202611-d/",
+     "pub": "2026-11-14T17:47+00:00"
+    },
+    {
+     "medio": "Google News ES",
+     "titulo": "Luís De la Fuente 'desvela' el plan de la Selección con Lamine Yamal ante Inglaterra: \"Está para jugar sin ningún problema\"",
+     "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQcFRKem5FQkJicDR5clV5RDJtZUtPNmFCanpfOU9NenpCMHJYNzdmQ09fbktsTTNUNnZFYXJRSm5NNloyRW1JY0NGeUw3NHkzSmlBS0dzS1N0Y1lpZHB0VzlSRTItTW1UV2s0ZWJ3TWJTck9SenloZGk4NF92WFNnaGxKdUVUUHp1UWIzRGpSM2U2Ny1ueFJHSm0wRE1zSDZPVHBiYVE0NGVDOUoyN1hTUnJ1dE80eVlmRjJQaTY5M1hPSVdoZmpHOEVfY1VBbmRMY19uRW92QXYwZHVJbVhMM1A2amhTM3F5OTZ3NUFUcURuY1BDbUc1Ug?oc=5",
+     "pub": "2026-11-14T18:04+00:00"
+    },
+    {
+     "medio": "Google News ES",
+     "titulo": "Luis de la Fuente: “En España no hay racismo”",
+     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQZnJ1QmtBd0lWd2QyeXZkNEM4RnNhNVlQZFdya2JNbUdtT09WVjUzbnBidDVUSmNraFp1WURNbWVycGVhQUtheDlRdVdMT1RGNThNLUJoSjVNYk1iZUY5TXVnQlRISXh4X29UYUlWd1Ztbk01MG1keFhrYXBtM1FYb3E4emVsb1BwaXVpMzVYaVFGZWNzNXfSAZsBQVVfeXFMTWJpYkd3OGtIWWtidUJMNFFJUlZuTWNSbklLbWRtb01kQ0Z0MmhkTC1nWDlUVGowTGx6VFZXXzhhQlhtd1kxeHBpSUdJcE43Mkd4NGh3WDVEcl9CdW1OaEV0Yl9mYl80UVo5QlRNOWhLTEtZUDl5eWkyUm9lQnNsS0pZV0d1dHFLOWo4SFpqZnFNbFN5OFpxdU1MNmc?oc=5",
+     "pub": "2026-11-14T18:04+00:00"
+    },
+    {
+     "medio": "BBC",
+     "titulo": "'No racism in Spain' – De la Fuente message for Tuchel",
+     "url": "https://www.bbc.co.uk/sport/football/articles/c893r74ryy3qo?at_medium=RSS&at_campaign=rss",
+     "pub": "2026-11-14T20:43+00:00"
+    },
+    {
+     "medio": "Daily Mail",
+     "titulo": "England boss Thomas Tuchel angry at being dragged into race row after being told by Luis de la Fuente: 'There is no racism in Spain!' on eve of Nations League showdown",
+     "url": "https://www.dailymail.com/sport/football/article-16293027/England-boss-Thomas-Tuchel-angry-dragged-race-row-told-Luis-la-Fuente-no-racism-Spain-eve-Nations-League-showdown.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+     "pub": "2026-11-14T21:48+00:00"
+    },
+    {
+     "medio": "L'Equipe",
+     "titulo": "De la Fuente répond à Tuchel : « Il n'y a pas de racisme en Espagne »",
+     "url": "https://www.lequipe.fr/Football/Video/Ligue-des-nations-de-la-fuente-repond-a-tuchel-il-n-y-a-pas-de-racisme-en-espagne/20245585#at_medium=RSS_feeds",
+     "pub": "2026-11-14T23:15+00:00"
+    },
+    {
+     "medio": "Foot Mercato",
+     "titulo": "Espagne-Angleterre : une polémique sur le racisme éclate entre Thomas Tuchel et Luis de la Fuente",
+     "url": "https://www.footmercato.net/a5575846397648722211-espagne-angleterre-une-polemique-sur-le-racisme-eclate-entre-thomas-tuchel-et-luis-de-la-fuente",
+     "pub": "2026-11-15T12:30+00:00"
+    },
+    {
+     "medio": "Foot Mercato",
+     "titulo": "Espagne : Luis de la Fuente clôt la polémique autour de Lamine Yamal",
+     "url": "https://www.footmercato.net/a7578144948280060071-espagne-luis-de-la-fuente-clot-la-polemique-autour-de-lamine-yamal",
+     "pub": "2026-11-15T11:35+00:00"
+    },
+    {
+     "medio": "Google News ES",
+     "titulo": "Alineaciones España vs Inglaterra hoy: once inicial y banquillo de suplentes de Luis de la Fuente y Thomas Tuchel para la Nations League 2026/27",
+     "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxObWpoNGJEVGN5cmMwQmdjeFNNMGtDRFJGc3o4dGo2bmxTdWtOVWlISmZNX1MxdGZ4S3FNdzM2TzZsMGxRc1R2TEh2TVJVWW42bExxSml5ZmdCMjlFLW84cjVORlRuUGNDdFdMWUFBODd6cmJCbzU0Z2lzdm96YUJaVUp1a01UZ1U5dFowaWZ2ZlZtTVFGM0NBRWtqdEdhQ2RCNkp3d3R3MlhZcTJ4c3dja1MzM0c5Z29MMnpYSHdJelRuQWxVbVN3bHZLakNoeDhiRkRkRV9sVDZxelBYbjVQbEhSLWtLbng3Nkl2czRLNkZJcUpPX2c4ZkNvRHZlVG92X2RZZmYxQVYwR2J3WTJQWGU1UHZXdw?oc=5",
+     "pub": "2026-11-15T18:37+00:00"
     }
    ]
   },
@@ -2020,18 +2425,6 @@
      "pub": "2026-11-14T08:33+00:00"
     },
     {
-     "medio": "Mirror",
-     "titulo": "Man Utd's reality spelled out to Mauricio Pochettino - 'Surprised if he lasts 18 months'",
-     "url": "https://www.mirror.co.uk/sport/football/news/man-utd-mauricio-pochettino-lineker-37876823",
-     "pub": "2026-11-14T06:49+00:00"
-    },
-    {
-     "medio": "Mirror",
-     "titulo": "Mauricio Pochettino's dream Man Utd XI as Bruno Fernandes replaced and Chelsea star signs",
-     "url": "https://www.mirror.co.uk/sport/football/news/man-utd-team-mauricio-pochettino-37875314",
-     "pub": "2026-11-14T06:00+00:00"
-    },
-    {
      "medio": "Yahoo",
      "titulo": "Chelsea set to battle Man United in the race to sign €80m star",
      "url": "https://sports.yahoo.com/articles/chelsea-set-battle-man-united-115000198.html",
@@ -2042,6 +2435,18 @@
      "titulo": "Man Utd transfer news: Como star Nico Paz emerges as target ahead of summer transfer window - Paper Talk",
      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOWXY1ZHdVeHkzUTd2UjRqeVFDaGtadTM4UlI0cndSbFg1YndZZGx2X01LVGNkYThXTXhySTB2MXgxdnZjTnAxZGxCS25ycVBKS3pjakp1UU1CZjJobUlBWEx4LUtyNS1sNXFFdm5NTFhFb1hOSHFfbVc2UE1MaVBZNVgwOGMwUklwaTA5U2tiLVdiVFRWWGlLLUJraTZQdk96eDJ4UlRxYmdxRDVaNk9aOG1JRXk4cXJKeDlxUFZvMHNlVGZlbVVjbGVVWUl2bEpDM0pHT2dud18tMUdOREZaNGdoWDU?oc=5",
      "pub": "2026-11-14T11:41+00:00"
+    },
+    {
+     "medio": "Google News EN",
+     "titulo": "Saturday Social: How has Man City's midfield trio performed this season?",
+     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPT0EwUGQ5WW1Tb18yakQ5TU5Od1pDcjBVX2pVTkVYaHVRMzFWRWY0d192SlZBNXpZQXhXN01Od21xQ0VqQ2diYlhyNmV4NnY4aURYVjJfSDJoVTNycHRSMlpiM1g1ekdGUDFBYXk5RGJLd3B2MEpwZVU0WmdueE5wclVKWXpVSFgzTXFWejhIZ19lbmQtaGY1UmZVWURwVF9USkJqSjdzbGxCaHNLNVJ0cHR5UkxiMmVDRUhR?oc=5",
+     "pub": "2026-11-14T11:47+00:00"
+    },
+    {
+     "medio": "Google News EN",
+     "titulo": "Mauricio Pochettino: New Man Utd head coach in tears as he labels leaving USMNT 'toughest decision of career'",
+     "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPVU5lb3ZFanoxUkJVSmVjUUl3T3hJWGg2QjNmN0hIZERLaVFTTGFZTy1lLTNIbXdUckQtSWR6R2lPX01mcV84cFVtTXI2N2ZRNEh0TXNscnowenlHalU0RnZENi1vYXQ5RGc2SnE3ZTNnODZiaDRUdURtb08tV1VGVlMzMXZJSWVFdEhtMS13YWhOZ2pDNHF1a2Q1VjA4dUNhSGQ0QUlGZWN1SlJRa0diTVE0YUhXajRjRTZIT0VWTFdNdnN4SHRPTFIyaFlLRDRIUFdiOFRpOWY1VmRwT0hMbWdwMnFOMXVHQmdr?oc=5",
+     "pub": "2026-11-14T09:26+00:00"
     }
    ]
   },
@@ -2090,24 +2495,6 @@
      "pub": "2026-11-14T08:33+00:00"
     },
     {
-     "medio": "Mirror",
-     "titulo": "Man Utd's reality spelled out to Mauricio Pochettino - 'Surprised if he lasts 18 months'",
-     "url": "https://www.mirror.co.uk/sport/football/news/man-utd-mauricio-pochettino-lineker-37876823",
-     "pub": "2026-11-14T06:49+00:00"
-    },
-    {
-     "medio": "Mirror",
-     "titulo": "'I played for Mauricio Pochettino and Jose Mourinho – one manager was better than both'",
-     "url": "https://www.mirror.co.uk/sport/football/news/mauricio-pochettino-mourinho-man-utd-37871645",
-     "pub": "2026-11-14T06:00+00:00"
-    },
-    {
-     "medio": "Mirror",
-     "titulo": "Mauricio Pochettino's dream Man Utd XI as Bruno Fernandes replaced and Chelsea star signs",
-     "url": "https://www.mirror.co.uk/sport/football/news/man-utd-team-mauricio-pochettino-37875314",
-     "pub": "2026-11-14T06:00+00:00"
-    },
-    {
      "medio": "Yahoo",
      "titulo": "Mauricio Pochettino needs to be the most ruthless version of himself to rejuvenate Manchester United",
      "url": "https://sports.yahoo.com/articles/mauricio-pochettino-needs-most-ruthless-121918088.html",
@@ -2121,173 +2508,121 @@
     },
     {
      "medio": "Google News EN",
-     "titulo": "Can Manchester United’s young stars thrive under Mauricio Pochettino?",
-     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNZTV1bFZ5RUdzME5ONENNNW5EeU4tT1VBTjhMb1U2bWlIVkpZWEYxMXdPQUxGRUF4bjBjOFJ5SHc4Y1F1c1NMTTR6dXp3Q2toU0xwZE1WZU9SNE0wbEpyc0JES0FUcHdXRFdjMmFkM2VFTGUzNlo4UGlPdGtubGo1NUpzdk5rVlM1dHR1M2t2SGoyN3lKeHB2OUpLeVNyYmxMNnkxdlAtaUpxV0N6dXdaQ2dLazYzN0V5UHc?oc=5",
-     "pub": "2026-11-14T07:01+00:00"
-    },
-    {
-     "medio": "Google News EN",
      "titulo": "Mauricio Pochettino: New Man Utd head coach in tears as he labels leaving USMNT 'toughest decision of career'",
      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPVU5lb3ZFanoxUkJVSmVjUUl3T3hJWGg2QjNmN0hIZERLaVFTTGFZTy1lLTNIbXdUckQtSWR6R2lPX01mcV84cFVtTXI2N2ZRNEh0TXNscnowenlHalU0RnZENi1vYXQ5RGc2SnE3ZTNnODZiaDRUdURtb08tV1VGVlMzMXZJSWVFdEhtMS13YWhOZ2pDNHF1a2Q1VjA4dUNhSGQ0QUlGZWN1SlJRa0diTVE0YUhXajRjRTZIT0VWTFdNdnN4SHRPTFIyaFlLRDRIUFdiOFRpOWY1VmRwT0hMbWdwMnFOMXVHQmdr?oc=5",
      "pub": "2026-11-14T09:26+00:00"
-    }
-   ]
-  },
-  {
-   "tema": "Arsenal",
-   "medios": 7,
-   "lista_medios": [
-    "BBC",
-    "Daily Mail",
-    "Google News EN",
-    "Mirror",
-    "Record",
-    "Yahoo",
-    "talkSPORT"
-   ],
-   "primera_vez": "2026-11-14T13:45+00:00",
-   "titulares": [
+    },
+    {
+     "medio": "Guardian",
+     "titulo": "Mauricio Pochettino asked the US to believe in his project. Did he believe in it himself?",
+     "url": "https://www.theguardian.com/football/2026/nov/14/mauricio-pochettino-usmnt-legacy-belief",
+     "pub": "2026-11-14T14:06+00:00"
+    },
     {
      "medio": "talkSPORT",
-     "titulo": "Arsenal told £79million rival Premier League striker would be their perfect No.9",
-     "url": "https://talksport.com/football/4707456/arsenal-hugo-ekitike-liverpool-perfect-striker/",
-     "pub": "2026-11-14T12:26+00:00"
-    },
-    {
-     "medio": "Mirror",
-     "titulo": "Mikel Arteta the 'most difficult' Premier League manager as ex-ref calls out Arsenal boss",
-     "url": "https://www.mirror.co.uk/sport/football/news/arsenal-arteta-premier-league-referees-37876806",
-     "pub": "2026-11-14T05:58+00:00"
-    },
-    {
-     "medio": "Yahoo",
-     "titulo": "Arsenal 27yo helps keep Germany’s Nations League campaign alive",
-     "url": "https://sports.yahoo.com/articles/arsenal-27yo-helps-keep-germany-130100202.html",
-     "pub": "2026-11-14T13:01+00:00"
-    },
-    {
-     "medio": "Yahoo",
-     "titulo": "Bundesliga forward breaks silence on potential Arsenal move",
-     "url": "https://sports.yahoo.com/articles/bundesliga-forward-breaks-silence-potential-125000068.html",
-     "pub": "2026-11-14T12:50+00:00"
-    },
-    {
-     "medio": "Yahoo",
-     "titulo": "3 Arsenal youngsters feature as Dowman breaks England record",
-     "url": "https://sports.yahoo.com/articles/3-arsenal-youngsters-feature-dowman-120100787.html",
-     "pub": "2026-11-14T12:01+00:00"
-    },
-    {
-     "medio": "Yahoo",
-     "titulo": "Arsenal defender scores international brace playing out of position",
-     "url": "https://sports.yahoo.com/articles/arsenal-defender-scores-international-brace-113100018.html",
-     "pub": "2026-11-14T11:31+00:00"
-    },
-    {
-     "medio": "Yahoo",
-     "titulo": "Premier League champions Arsenal renew interest in 25-year-old forgotten Real Madrid star – report",
-     "url": "https://sports.yahoo.com/articles/premier-league-champions-arsenal-renew-110600480.html",
-     "pub": "2026-11-14T11:06+00:00"
+     "titulo": "Manchester United quietly complete first signing of Mauricio Pochettino era",
+     "url": "https://talksport.com/football/4707736/manchester-united-transfer-news-mauricio-pochettino-tyler-adjei/",
+     "pub": "2026-11-14T16:43+00:00"
     },
     {
      "medio": "Daily Mail",
-     "titulo": "Why Bukayo Saka's England spot is suddenly under threat: Clocking up the miles has made Arsenal star a fitness concern - while his rival Morgan Rogers is hitting top gear: CRAIG HOPE",
-     "url": "https://www.dailymail.com/sport/football/article-16290387/Why-Bukayo-Sakas-England-spot-suddenly-threat-Morgan-Rogers-hits-gear-CRAIG-HOPE.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-     "pub": "2026-11-14T14:21+00:00"
+     "titulo": "Mauricio Pochettino leaves behind a negligible legacy at USMNT... where raised standards never materialized into results as tearful Argentine bolts for Man United",
+     "url": "https://www.dailymail.com/sport/football/article-16291521/mauricio-pochettino-usmnt-manchester-united.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+     "pub": "2026-11-14T18:42+00:00"
     },
     {
-     "medio": "Yahoo",
-     "titulo": "Arsenal learn 3rd-round FA Youth Cup draw",
-     "url": "https://sports.yahoo.com/articles/arsenal-learn-3rd-round-fa-190100480.html",
-     "pub": "2026-11-14T19:01+00:00"
-    },
-    {
-     "medio": "Yahoo",
-     "titulo": "Arsenal receive huge injury boost ahead of Newcastle United clash",
-     "url": "https://sports.yahoo.com/articles/arsenal-receive-huge-injury-boost-175000049.html",
-     "pub": "2026-11-14T17:50+00:00"
-    },
-    {
-     "medio": "Yahoo",
-     "titulo": "Released Arsenal winger signs for new club",
-     "url": "https://sports.yahoo.com/articles/released-arsenal-winger-signs-club-170100700.html",
-     "pub": "2026-11-14T17:01+00:00"
-    },
-    {
-     "medio": "Yahoo",
-     "titulo": "Arsenal have joined the race to sign £20m former Spurs forward",
-     "url": "https://sports.yahoo.com/articles/arsenal-joined-race-sign-20m-165000495.html",
-     "pub": "2026-11-14T16:50+00:00"
+     "medio": "Daily Mail",
+     "titulo": "Youngsters will get their chance, Bruno Fernandes can thrive and touchline energy will be vital: Key lessons for Man United from incoming boss Mauricio Pochettino's 6-0 USA masterclass",
+     "url": "https://www.dailymail.com/sport/football/article-16290257/Pochettino-USA-game-things-learnemauricio-pochettino-man-united-usa-things-learned.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+     "pub": "2026-11-15T09:35+00:00"
     }
    ]
   },
   {
-   "tema": "Thomas",
+   "tema": "Bruno",
    "medios": 7,
    "lista_medios": [
     "Daily Mail",
     "Foot Mercato",
     "Google News EN",
+    "Google News ES",
     "Mirror",
-    "Planet Football",
     "Yahoo",
-    "talkSPORT"
+    "ge.globo"
    ],
    "primera_vez": "2026-11-14T13:45+00:00",
    "titulares": [
     {
-     "medio": "Planet Football",
-     "titulo": "Crystal Palace: Four signings that would be perfect for Thomas Frank in January",
-     "url": "https://www.planetfootball.com/premier-league/crystal-palace-transfers-perfect-signings-thomas-frank",
-     "pub": "2026-11-14T13:29+00:00"
-    },
-    {
-     "medio": "talkSPORT",
-     "titulo": "Thomas Tuchel questioned for overlooking uncapped English star thriving in Premier League",
-     "url": "https://talksport.com/football/4707685/thomas-tuchel-questioned-jayden-bogle-england-squad-leeds-united/",
-     "pub": "2026-11-14T17:12+00:00"
-    },
-    {
-     "medio": "Yahoo",
-     "titulo": "Rico Lewis Outlines Path to Return to Thomas Tuchel's Squad Following England U21 Heroics",
-     "url": "https://sports.yahoo.com/articles/rico-lewis-outlines-path-return-153000781.html",
-     "pub": "2026-11-14T15:30+00:00"
-    },
-    {
-     "medio": "talkSPORT",
-     "titulo": "Thomas Tuchel to drop key England star for crunch Nations League clash against Spain",
-     "url": "https://talksport.com/football/4707960/james-trafford-jordan-pickford-england-spain-thomas-tuchel/",
-     "pub": "2026-11-14T19:45+00:00"
-    },
-    {
-     "medio": "Daily Mail",
-     "titulo": "England's Euro 2028 mission starts NOW! Thomas Tuchel's men must beat Spain to prove they can compete with the best - or risk their 'DNA' cursing them yet again, writes OLIVER HOLT",
-     "url": "https://www.dailymail.com/sport/football/article-16293007/england-spain-euro-2028-oliver-holt.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-     "pub": "2026-11-15T00:04+00:00"
-    },
-    {
-     "medio": "Daily Mail",
-     "titulo": "England boss Thomas Tuchel angry at being dragged into race row after being told by Luis de la Fuente: 'There is no racism in Spain!' on eve of Nations League showdown",
-     "url": "https://www.dailymail.com/sport/football/article-16293027/England-boss-Thomas-Tuchel-angry-dragged-race-row-told-Luis-la-Fuente-no-racism-Spain-eve-Nations-League-showdown.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-     "pub": "2026-11-14T21:48+00:00"
-    },
-    {
      "medio": "Mirror",
-     "titulo": "Thomas Tuchel responds after Spain boss hits back over racism message to England stars",
-     "url": "https://www.mirror.co.uk/sport/football/news/england-thomas-tuchel-spain-racism-37878157",
-     "pub": "2026-11-14T21:05+00:00"
+     "titulo": "Man Utd facing huge Bruno Fernandes dilemma after turning down contract offer",
+     "url": "https://www.mirror.co.uk/sport/football/news/fernandes-man-utd-future-contract-37877080",
+     "pub": "2026-11-14T11:14+00:00"
     },
     {
-     "medio": "Google News EN",
-     "titulo": "Thomas Tuchel: England boss unhappy as anti-racism protocol questions overshadow Nations League test in Spain",
-     "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQX0ZfY1YtWG41ZVh5S3FIalJRNi1pRjZTRGhnV0hmUU5HRUdqMk1DcU9ZdlRDYldlb2xLQkV5TjBPSk51ZzMtUGQzSXl0SC1iNWtRZEc3cFE5Si0xdm16R2t3RkI0LUQzemt3N2EydEVpalpNU001UTRicmc1RFNYWks2cDh0bjF5MFR2NWxVb2NZZ21TYk5CaGZ4S1BjTlhpc0VHMkdpSXFCWkQwUl9rZ2E0d04tQ1FTSWFiUm9qVEhxMWZndzJpMVNYakNSNUhhTWN0ZHZjS0RsdFN2eGwzVnlfNG1DWm96SEZ3bV93?oc=5",
-     "pub": "2026-11-15T09:05+00:00"
+     "medio": "Google News ES",
+     "titulo": "Bruno Iribarne: el portero almeriense, brutal con España",
+     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOdlJtTzkzSWJWbW4ySjc4eUZCZGZfazdZVTNnNTJ1UmJaQjlxTzdSOTN3SExic1dqT0lrZTVXVWZ1alZCbHFyMzVoRlNYRkhrSnIyMzVxamFrajluclBKUl9KZmc4d2xlOUxHVF9UNlRSSHYwMFR0RC14RXdHMl9lUkl6QkxmR2xWS1haNVNURVZrZmZUeFpPeVJST0JHMnRKOENlOWRHZmhPdmhtYmJN0gHDAUFVX3lxTE9fM2t1dUVXRVFDY21KN0FhTWJBUG1uZVNRNHY5V3lPNzdXX3NFbG9CRHRoTlF2OWFyZE5IQmdfTm9rcjlUS005Y2hFSmFQaEVxb2UwRF9Ja2hSUnY2end5dkVBSEtacHo4WjJZQzg4RTB6aFh1M3dFSk9JcVd5WnhBWWsxdzExTDg4dG9tN2FYTTZVTFFtZC1Fc1ZxLXU3NnR0aEFSTllabUVJcU9SLUxOTlBPMEhmR2xneTAzdmRoU2FGSQ?oc=5",
+     "pub": "2026-11-14T08:46+00:00"
     },
     {
      "medio": "Foot Mercato",
-     "titulo": "Espagne-Angleterre : une polémique sur le racisme éclate entre Thomas Tuchel et Luis de la Fuente",
-     "url": "https://www.footmercato.net/a5575846397648722211-espagne-angleterre-une-polemique-sur-le-racisme-eclate-entre-thomas-tuchel-et-luis-de-la-fuente",
-     "pub": "2026-11-15T12:30+00:00"
+     "titulo": "MU : Bruno Fernandes repousse une deuxième offre de prolongation",
+     "url": "https://www.footmercato.net/a485231660783755490-mu-bruno-fernandes-repousse-une-deuxieme-offre-de-prolongation",
+     "pub": "2026-11-14T09:35+00:00"
+    },
+    {
+     "medio": "ge.globo",
+     "titulo": "Bruno Guimarães vê Brasil em formação após derrota: \"Precisa gerar casca\"",
+     "url": "https://ge.globo.com/futebol/selecao-brasileira/noticia/2026/11/14/bruno-guimaraes-ve-brasil-em-formacao-apos-derrota-precisamos-gerar-casca.ghtml",
+     "pub": "2026-11-14T13:41+00:00"
+    },
+    {
+     "medio": "Google News ES",
+     "titulo": "Larcamón explica el cambio de Bruno Rubio: \"Nada más, fútbol\"",
+     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOTTg4empQeGhYZVZxbEVDa3VBM0RhMTNiMlpoZUJpVUZXMlBKTHlncV8xVmVDWFd1RXhUVU9kQUdhQmx5SVI4MkVVeVZyd05Rc0FmTFNZMW9lZ1NtSGZuejFMQUxvX1VteWJ4a3plZk1vYWpPM3VRX1NlNTB5X1lqN2ZLOTljTGlEQ1FRZWROY2tSU2FlVEZvZQ?oc=5",
+     "pub": "2026-11-14T18:44+00:00"
+    },
+    {
+     "medio": "ge.globo",
+     "titulo": "E se derrota do Brasil valesse para o Cartola? Vini Jr. e Bruno Guimarães seriam os melhores",
+     "url": "https://ge.globo.com/cartola/noticia/2026/11/14/e-se-derrota-do-brasil-valesse-para-o-cartola-vini-jr-e-bruno-guimaraes-seriam-os-melhores.ghtml",
+     "pub": "2026-11-14T14:09+00:00"
+    },
+    {
+     "medio": "Daily Mail",
+     "titulo": "Youngsters will get their chance, Bruno Fernandes can thrive and touchline energy will be vital: Key lessons for Man United from incoming boss Mauricio Pochettino's 6-0 USA masterclass",
+     "url": "https://www.dailymail.com/sport/football/article-16290257/Pochettino-USA-game-things-learnemauricio-pochettino-man-united-usa-things-learned.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+     "pub": "2026-11-15T09:35+00:00"
+    },
+    {
+     "medio": "Mirror",
+     "titulo": "Bruno Fernandes halts Man Utd contract talks - until Mauricio Pochettino 'proves himself'",
+     "url": "https://www.mirror.co.uk/sport/football/news/man-utd-fernandes-contract-pochettino-37878541",
+     "pub": "2026-11-15T07:56+00:00"
+    },
+    {
+     "medio": "Mirror",
+     "titulo": "Mauricio Pochettino has very easy choice to make on Bruno Fernandes' Man Utd future",
+     "url": "https://www.mirror.co.uk/sport/football/news/man-united-bruno-fernandes-transfer-37877592",
+     "pub": "2026-11-15T07:00+00:00"
+    },
+    {
+     "medio": "ge.globo",
+     "titulo": "Bruno Duarte repete gesto em vitória do Vasco, e Loide Augusto comenta: \"Estão sempre a zombar\"",
+     "url": "https://ge.globo.com/futebol/times/vasco/noticia/2026/11/14/bruno-duarte-repete-gesto-em-vitoria-do-vasco-e-loide-augusto-comenta-estao-sempre-a-zombar.ghtml",
+     "pub": "2026-11-15T02:45+00:00"
+    },
+    {
+     "medio": "ge.globo",
+     "titulo": "Atuações do Vasco: Bruno Duarte é o melhor contra a Chapecoense; dê suas notas",
+     "url": "https://ge.globo.com/futebol/times/vasco/noticia/2026/11/14/atuacoes-bruno-duarte-e-o-melhor-em-vitoria-do-vasco-de-suas-notas.ghtml",
+     "pub": "2026-11-15T01:39+00:00"
+    },
+    {
+     "medio": "Yahoo",
+     "titulo": "Report Bruno Fernandes targeted by Milan along with Goncalo Inacio",
+     "url": "https://sports.yahoo.com/articles/report-bruno-fernandes-targeted-milan-181000454.html",
+     "pub": "2026-11-15T18:10+00:00"
     }
    ]
   },
@@ -2376,258 +2711,6 @@
      "titulo": "Real Madrid veteran launches bid to acquire Italian club – report",
      "url": "https://sports.yahoo.com/articles/real-madrid-veteran-launches-bid-180300078.html",
      "pub": "2026-11-14T18:03+00:00"
-    }
-   ]
-  },
-  {
-   "tema": "Vinicius",
-   "medios": 7,
-   "lista_medios": [
-    "AS",
-    "Foot Mercato",
-    "Google News AR",
-    "Google News ES",
-    "L'Equipe",
-    "Mundo Deportivo",
-    "Yahoo"
-   ],
-   "primera_vez": "2026-11-14T13:45+00:00",
-   "titulares": [
-    {
-     "medio": "Yahoo",
-     "titulo": "Japan beat Brazil in thriller as Vinicius scores stunners while Ancelotti, Raphinha sent off",
-     "url": "https://sports.yahoo.com/articles/japan-beat-brazil-thriller-vinicius-124108109.html",
-     "pub": "2026-11-14T12:41+00:00"
-    },
-    {
-     "medio": "Mundo Deportivo",
-     "titulo": "Vinicius resucita con Brasil",
-     "url": "https://www.mundodeportivo.com/futbol/real-madrid/20261114/1004250914/vinicius-resucita-brasil.html",
-     "pub": ""
-    },
-    {
-     "medio": "Mundo Deportivo",
-     "titulo": "¡Ojo al golazo de Vinicius con Brasil!",
-     "url": "https://www.mundodeportivo.com/futbol/real-madrid/20261114/1004250893/ojo-golazo-vinicius-brasil.html",
-     "pub": ""
-    },
-    {
-     "medio": "Google News ES",
-     "titulo": "Vinicius despierta con Brasil, marca dos golazos pero no evita la derrota ante Japón",
-     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOQWxMdVNLcjhBOUFSazNBWkV0TjU0WWhTLUxqY1JNVXhHXzY0WlN4RWJmeEpkUG5mdUhNSV9Qb2VCdm96Q2t3STc3VGZaVTJ2dmNkbHNzWm45aXZRZUprSEVLSnZtdVVmNE1aR2loWXRuMTctNUhqSUlZdkl6VkxYUVZtQXVMZ9IBhgFBVV95cUxPLXhTSGt0SlZuUXBlRG5SR21mRkEtTTV6bkgzVFMzWWJTQzY0V0pUTlpfQlBoVGFuWVZWUUNLZnhWU0Q1VFpVaUswcjlrdVY4T3l0d1RKVWE2aTFFZ0p6ZGFyVldCS0w2VGFoMHlpSU1YVzNrNlpvNXQ0S1lzWWFGNlJNN1NfQQ?oc=5",
-     "pub": "2026-11-14T12:55+00:00"
-    },
-    {
-     "medio": "L'Equipe",
-     "titulo": "Malgré deux missiles de Vinicius, le Brésil s'incline sur le gong contre le Japon en match amical",
-     "url": "https://www.lequipe.fr/Football/Actualites/Malgre-deux-missiles-de-vinicius-le-bresil-s-incline-sur-le-gong-contre-le-japon-en-match-amical/1743618#at_medium=RSS_feeds",
-     "pub": "2026-11-14T12:47+00:00"
-    },
-    {
-     "medio": "Foot Mercato",
-     "titulo": "Brésil : les deux buts phénoménaux de Vinicius Junior contre le Japon",
-     "url": "https://www.footmercato.net/a2713029883601857779-bresil-les-deux-buts-phenomenaux-de-vinicius-junior-contre-le-japon",
-     "pub": "2026-11-14T12:35+00:00"
-    },
-    {
-     "medio": "Foot Mercato",
-     "titulo": "Ancelotti et Raphinha expulsés : le Brésil craque face au Japon malgré un doublé de Vinicius Junior",
-     "url": "https://www.footmercato.net/a1704921375085270114-amical-malgre-un-double-sublime-de-vinicius-junior-le-bresil-chute-contre-le-japon",
-     "pub": "2026-11-14T12:15+00:00"
-    },
-    {
-     "medio": "Google News AR",
-     "titulo": "Vinicius Jr vs Japón: estadísticas, goles, asistencias y números en el amistoso de Fecha FIFA",
-     "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBWamNoY25JZzN0NVZQT3JTbFdjbEJRNll6NktJa052bjlJX19CU2dSMUpqN3dnTmhJQjEyRjlReEFNUFY3OWpCTVFMc205TXN2U0hOay1tWHZJMy1IYWNtakpabXRFTEh2QVRBanZ1Uml2Szh6WFNsVTVR?oc=5",
-     "pub": "2026-11-14T12:26+00:00"
-    },
-    {
-     "medio": "AS",
-     "titulo": "Vinicius, giro de guion",
-     "url": "https://as.com/futbol/primera/vinicius-giro-de-guion-f202611-n/",
-     "pub": "2026-11-15T09:05+00:00"
-    },
-    {
-     "medio": "Mundo Deportivo",
-     "titulo": "Vinicius y Diomande presentan sus candidaturas durante el parón de selecciones",
-     "url": "https://www.mundodeportivo.com/futbol/real-madrid/20261115/1004251186/vinicius-diomande-presentan-candidaturas-paron-selecciones.html",
-     "pub": ""
-    },
-    {
-     "medio": "Mundo Deportivo",
-     "titulo": "Vinicius se reivindica con una canción de Rauw Alejandro",
-     "url": "https://www.mundodeportivo.com/futbol/real-madrid/20261115/1004251192/vinicius-reivindica-cancion-rauw-alejandro.html",
-     "pub": ""
-    }
-   ]
-  },
-  {
-   "tema": "Norway",
-   "medios": 7,
-   "lista_medios": [
-    "BBC",
-    "FourFourTwo",
-    "Google News EN",
-    "Guardian",
-    "Mirror",
-    "Sky Sports",
-    "Yahoo"
-   ],
-   "primera_vez": "2026-11-14T13:45+00:00",
-   "titulares": [
-    {
-     "medio": "Google News EN",
-     "titulo": "Nations League: What's at stake for Wales against Norway and Portugal?",
-     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE90SE1sdjNjajNwR1kyNGtyRmJxY2xSeTFGN0hxamVIU1RjTWxubC0xVHZfVVI0UXdfN2dPWElURWNaVndWUEd4REc2aE5RaTA5b1dSbGZfMFdEbDhEY3FfbkVUWTNhNDZv?oc=5",
-     "pub": "2026-11-14T08:59+00:00"
-    },
-    {
-     "medio": "BBC",
-     "titulo": "Wales' top-tier survival hopes hit by Norway loss",
-     "url": "https://www.bbc.co.uk/sport/articles/ck3rgxwwqp0wo?at_medium=RSS&at_campaign=rss",
-     "pub": "2026-11-14T18:55+00:00"
-    },
-    {
-     "medio": "Guardian",
-     "titulo": "Norway v Wales: Nations League – live",
-     "url": "https://www.theguardian.com/football/live/2026/nov/14/norway-v-wales-nations-league-live",
-     "pub": "2026-11-14T19:06+00:00"
-    },
-    {
-     "medio": "Sky Sports",
-     "titulo": "Wales beaten in Norway as threat of Nations League relegation grows",
-     "url": "https://www.skysports.com/football/norway-vs-wales/report/554107",
-     "pub": "2026-11-14T19:00+00:00"
-    },
-    {
-     "medio": "Mirror",
-     "titulo": "How to watch Norway vs Wales for free – TV channel, live stream, kick-off time",
-     "url": "https://www.mirror.co.uk/sport/football/news/norway-wales-tv-channel-stream-37871152",
-     "pub": "2026-11-14T15:00+00:00"
-    },
-    {
-     "medio": "FourFourTwo",
-     "titulo": "How to watch Norway vs Wales: FREE streams and TV channels",
-     "url": "https://www.fourfourtwo.com/competition/watch-norway-vs-wales-nations-league-2026-27-free",
-     "pub": "2026-11-14T14:00+00:00"
-    },
-    {
-     "medio": "Yahoo",
-     "titulo": "🔥 In-demand Antonio Nusa continues post-World Cup form for Norway",
-     "url": "https://sports.yahoo.com/articles/demand-antonio-nusa-continues-post-184600111.html",
-     "pub": "2026-11-14T18:46+00:00"
-    },
-    {
-     "medio": "Google News EN",
-     "titulo": "Norway vs Wales LIVE! Nations League Group A4 score updates, commentary, news and line-ups",
-     "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNQTBTcUNjS1kzUW02d3VmOXVqMGVTWUtWaWRjSEtZOVZmXzR5RVVUSWNEaHd3REhTMHFIRmxVOG4xUTB1ZmNpVzZpSDNPTldBN09VSTJlNXpmenRyY3VlR2ljV1BMZFBkOUdhMFFlc0RqR2dEWDFrdVZSZDRiR0RlRFJXQkJiOFZEUENGeXFDX0tCaTNjOHlaOHRFZnZkX085SzBfQWhYdFZETzdaWGU2QmZmenVGa1JmUHRfZm1NaXFiMDdHbHRrSFg1bjAtZjc1VlV3emZveHI?oc=5",
-     "pub": "2026-11-14T19:05+00:00"
-    },
-    {
-     "medio": "Google News EN",
-     "titulo": "Nations League: David Brooks shows class with Wales goal against Norway",
-     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5xUFBFNlIzblh5WVNiYUUxYXVkU2FBR1h5eU51VHlBM1Q1cWZUdWk4YzBHMDBJWWNleXc2SDN6c2xYQW45aHdZRjBDb29MYkNqYVg5cjlBbDk2c0s3alpURUdIamFjSHUx?oc=5",
-     "pub": "2026-11-14T19:09+00:00"
-    },
-    {
-     "medio": "Google News EN",
-     "titulo": "Erling Haaland scores 66th international goal as Norway beat Wales",
-     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE13OWRUVHllRTRWV09fTU44U2pHWmdHbGZRUnNpSUVLRS1tcEc5ZDdidnNGNE1OU28wSEQwQ3dLcmtNbTZJbVQ0RTRLU3FrLWhla0Q5QUx6YVk3S0JsbjlhTGdVajdpOEpu?oc=5",
-     "pub": "2026-11-14T19:19+00:00"
-    },
-    {
-     "medio": "Google News EN",
-     "titulo": "'Norwegian Neymar' Antonio Nusa gives Norway the lead over Wales",
-     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9Ka1AtNzM4U2NtNlBwb1MtLW5YQ3N5ZzhvVF9zNjN5ZFEyUkhTQ2RpQ25ubmxIQUl2NmJ6bDRZenV5c1FZVlBWaHFrYmNlYkE0YXlMRVpnYUtSY2VIWUVBdlZsNzRHUGRB?oc=5",
-     "pub": "2026-11-14T18:40+00:00"
-    },
-    {
-     "medio": "BBC",
-     "titulo": "Haaland helps Norway to win over Wales in Nations League",
-     "url": "https://www.bbc.co.uk/sport/football/videos/cr20vgxv43p8o?at_medium=RSS&at_campaign=rss",
-     "pub": "2026-11-14T19:23+00:00"
-    }
-   ]
-  },
-  {
-   "tema": "Tenerife",
-   "medios": 7,
-   "lista_medios": [
-    "AS",
-    "BBC",
-    "Google News EN",
-    "Google News ES",
-    "Mirror",
-    "Mundo Deportivo",
-    "ge.globo"
-   ],
-   "primera_vez": "2026-11-14T13:45+00:00",
-   "titulares": [
-    {
-     "medio": "Google News EN",
-     "titulo": "Goalkeeper Jesus Owono given 12-match ban after Tenerife forward Jesus de Miguel's death following collision",
-     "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOb1RCT3VjREo2RUpSWTREbi1hMWt3aEJVcUxpRFNXalh4VVJzVldENXBDQnN4ZV9iNllUX2xmLXBYS3ptTVpxVW40cEI2dTk4N094UkRtMFZNVnFEWkRNRVd3d2Y5NVU2ME5oZTNBTDRGYkRmQlctSUc5RUFEUk1pOUF1ZGJTWmpHNWRrbmFHcDA0dlhtMUVwNlJIX2VfNGpLSzRra3FnZERicG5td2p1dHlEcFJSNzA0UWdXNDcxV0JIeEJFUW51MmE0SU5fOGI0M2VpZ1RKMGpuZlBmN2xKYTQycmhoTjdOUzFfeQ?oc=5",
-     "pub": "2026-11-14T08:05+00:00"
-    },
-    {
-     "medio": "Mundo Deportivo",
-     "titulo": "Ya hay fecha para los encuentros aplazados del Tenerife, Andorra y Castellón",
-     "url": "https://www.mundodeportivo.com/futbol/liga-segunda-division/20261114/1004250898/hay-fecha-encuentros-aplazados-tenerife-andorra-castellon.html",
-     "pub": ""
-    },
-    {
-     "medio": "BBC",
-     "titulo": "Tenerife boss says Owono's 12-match ban 'feels light'",
-     "url": "https://www.bbc.co.uk/sport/football/articles/cmjeq0x815zko?at_medium=RSS&at_campaign=rss",
-     "pub": "2026-11-14T16:26+00:00"
-    },
-    {
-     "medio": "Mirror",
-     "titulo": "Tenerife boss claims ban for keeper involved in fatal Jesus de Miguel clash is 'too light'",
-     "url": "https://www.mirror.co.uk/sport/football/news/jesus-de-miguel-owono-ban-37877911",
-     "pub": "2026-11-14T17:45+00:00"
-    },
-    {
-     "medio": "Google News EN",
-     "titulo": "Jesus Owono: Tenerife boss Alvaro Cervera says 12-game ban 'might seem light' but accepts rules",
-     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE15dGVULWd4aGRVeFBicTQtV3ZyU3VqV2lDVEg5b1MzYWNUOXJqeXEzWHltSXRQbFRpLS1aTVhuRmR4WnJ0VzJSZVIxZndaazhja3o5dDNOYjV6MXNTX0xQZGZCczk2SUNpRjlN?oc=5",
-     "pub": "2026-11-14T16:58+00:00"
-    },
-    {
-     "medio": "Google News ES",
-     "titulo": "#LaPrevia | El Tenerife vuelve al Heliodoro entre el dolor y la necesidad de ganar",
-     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQMzN1b1VodEU0V2Qtanc3cENQN0xZcWxGYi1CUDk5R05QaUJFMnRva2haLWxlUV9QNUloUnpqODRVZTFjeTluT3RnZUNuRlFvUkVtTy1HTDZWakRWZlVBMklzMU9DOWE0NGh2U2VhSFJMb0FJazVaeUlDd2hmdlo1YW94dndVaDVKdVZfNU5ETUJ0RlFMblJrOXVUV0ZuV29mWjFkQ05FcUxabXY4Z0xFTXhVZEljUVk5OTQw?oc=5",
-     "pub": "2026-11-14T19:15+00:00"
-    },
-    {
-     "medio": "Google News ES",
-     "titulo": "Dani Martín, la principal ausencia del Tenerife para recibir al Ceuta",
-     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQUU5EaG16YVFWeGtiazIzZENBTWhZZ0U4UnRkMURxNFBTMXRwZmo2bDRJWHd0UzZVWXhjUDEwZC1qalI0OHFKVkl2QzdIdTFrR0lRQmt6N3pjMnhpUGMwNGxjNFJVb0RtN25yMlpmaDBGQVlaNjdRbmwzWW9Odi0xSW5pZ1lOVVdXQkNKNUd6VThoWGtJU1NlY2lpeGpsdVRsdEc1cUR6U0xMVnJS?oc=5",
-     "pub": "2026-11-14T18:52+00:00"
-    },
-    {
-     "medio": "AS",
-     "titulo": "Tenerife - Ceuta en directo: LaLiga Hypermotion hoy en vivo",
-     "url": "https://as.com/futbol/segunda/tenerife-ceuta-en-directo-laliga-hypermotion-hoy-en-vivo-f202611-d/",
-     "pub": "2026-11-15T14:10+00:00"
-    },
-    {
-     "medio": "Mundo Deportivo",
-     "titulo": "Primer partido del Tenerife tras la muerte de De Miguel",
-     "url": "https://www.mundodeportivo.com/futbol/liga-segunda-division/20261115/1004249508/tenerife-ceuta-directo-laliga-hypermotion-segunda-division.html",
-     "pub": ""
-    },
-    {
-     "medio": "Google News ES",
-     "titulo": "Emocionante homenaje del Heliodoro a Jesús de Miguel en la vuelta al fútbol del Tenerife",
-     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPcmMwY1lvdUFlZWoxaWhxOElEUktWbVVrR2RnbXNpekkwODlvcTJDWjZRTkNJSkJQZXg0VnlaSWc4aHFmSmhLUG12VUlmQUY3Qlh4Q2EyZEZGdHBOdGJaMGxEVXZPNlNhaXgwVWFmTjZXY080N1RvMENvQWMxN0JhQmpCT25PV3lmUHdGeWJBT0dDQ01vZUNfRGxpTGFlVFFZYnpBTGVkWdIBrAFBVV95cUxPRjQzU0NjYWFfOW82OTJ1SHd4OGdONEpUVkRGSGlkU01WR3Bac04xMi16aV9kRVNmci1EZ0NaWGx2eUx2Z0VFQnFaeWZxbVNPejRFNjJPQnRJaTQ0LXVsYm52MkdjNUhKcWJtcV9OSWZsR0hwMW11c1dveWRJNE5NaEVxeWNzY1NJblMtZG14a2FIN2NFb0VnWkF3SU9oUTNSa2tIMjFERkktWHdj?oc=5",
-     "pub": "2026-11-15T14:03+00:00"
-    },
-    {
-     "medio": "ge.globo",
-     "titulo": "Tenerife e Ceuta homenageiam Jesús de Miguel em primeiro jogo após morte do atacante",
-     "url": "https://ge.globo.com/futebol/futebol-internacional/noticia/2026/11/15/tenerife-e-ceuta-homenageiam-jesus-de-miguel-em-primeiro-jogo-apos-morte-do-atacante.ghtml",
-     "pub": "2026-11-15T13:43+00:00"
     }
    ]
   }
