@@ -230,3 +230,8 @@
 {"t": "2026-11-15T19:56+00:00", "estado": "revisar", "temas": ["Pochettino"], "clave": "pochettino-man-utd-appointment", "motivo": "sin foto buena con cara visible"}
 {"t": "2026-11-15T19:56+00:00", "estado": "revisar", "temas": ["England", "Spain"], "clave": "england-spain-anti-racism", "motivo": "palabra sensible en los titulares: racism"}
 {"t": "2026-11-15T19:56+00:00", "estado": "descartar", "temas": ["Cristiano"], "clave": "portugal-number-7-legacy", "motivo": "importancia 6 < 7"}
+{"t": "2026-11-16T16:20+00:00", "estado": "revisar", "temas": ["Ronaldinho", "Ravenna"], "clave": "ronaldinho-comeback", "motivo": "palabra sensible en los titulares: president"}
+{"t": "2026-11-16T16:20+00:00", "estado": "revisar", "temas": ["Tuchel"], "clave": "tuchel-anti-racism", "motivo": "palabra sensible en los titulares: racism"}
+{"t": "2026-11-16T16:20+00:00", "estado": "revisar", "temas": ["Infantino"], "clave": "infantino-challenge", "motivo": "categoría sensible: politics"}
+{"t": "2026-11-16T16:20+00:00", "estado": "revisar", "temas": ["Argentina"], "clave": "argentina-copa-argentina", "motivo": "palabra sensible en los titulares: tragedia"}
+{"t": "2026-11-16T16:20+00:00", "estado": "revisar", "temas": ["UEFA"], "clave": "uefa-nations-league", "motivo": "palabra sensible en los titulares: president"}

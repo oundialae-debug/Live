@@ -990,3 +990,48 @@
 - Yahoo: England Under-21 debut for Norwich forward Makama
 - Yahoo: 3 Arsenal youngsters feature as Dowman breaks England record
 
+## 16/11 17:20 · Ronaldinho returns at 46 · revisar
+- Motivo: palabra sensible en los titulares: president
+- Temas: Ronaldinho, Ravenna
+- Google News EN: Ronaldinho returns for Italian third-tier side, aged 46
+- AS: ¡Ronaldinho vuelve al fútbol!
+- Foot Mercato: Ronaldinho envoie Endrick en Serie A
+- Google News AR: Ronaldinho vuelve al fútbol oficial a los 46 años con un objetivo histórico
+- Google News AR: Ronaldinho vuelve al fútbol oficial a los 46 años: a qué hora juega y dónde
+
+## 16/11 17:20 · Tuchel vs anti‑racism row · revisar
+- Motivo: palabra sensible en los titulares: racism
+- Temas: Tuchel
+- Google News EN: Thomas Tuchel: England boss unhappy as anti-racism protocol questions overshadow Nations League test in Spain
+- Kicker: Wie Tuchel in eine merkwürdige Rassismus-Debatte geriet
+- Kicker: Tuchel wird deutlich: "Habe nie über Rassismus in Spanien gesprochen"
+- Foot Mercato: Espagne-Angleterre : une polémique sur le racisme éclate entre Thomas Tuchel et Luis de la Fuente
+- Google News ES: Alineaciones España vs Inglaterra hoy: once inicial y banquillo de suplentes de Luis de la Fuente y Thomas Tuchel para la Nations League 2026/27
+
+## 16/11 17:20 · Calls to oust Infantino · revisar
+- Motivo: categoría sensible: politics
+- Temas: Infantino
+- BBC: Wenger decides not to challenge Fifa chief Infantino
+- Yahoo: Arsène Wenger not expected to challenge Gianni Infantino for FIFA presidency
+- Google News EN: Arsene Wenger will not stand against Gianni Infantino for Fifa presidency
+- Google News AR: Infantino firma con Filipinas acuerdo de 25 millones de dólares para estadios de fútbol
+- Mundo Deportivo: Klopp, muy crítico con Infantino: "Un cambio tendría sentido"
+
+## 16/11 17:20 · Boca reaches Copa final · revisar
+- Motivo: palabra sensible en los titulares: tragedia
+- Temas: Argentina
+- Mundo Deportivo: 3-0: Boca viaja a la final de la Copa Argentina con jerarquía y contundencia
+- Record: <![CDATA[ Insólito: guarda-redes faz autogolo na Argentina ao tentar lançar a bola... em frente ]]>
+- Google News AR: Boca golea a Banfield y es finalista de la Copa Argentina
+- ge.globo: Transição difícil: Argentina e Portugal perdem os primeiros jogos após saídas de Messi e Cristiano Ronaldo
+- Daily Mail: Goalkeeper scores one of the most bizarre own goals EVER during play-off clash in Argentina
+
+## 16/11 17:20 · UEFA Nations League live · revisar
+- Motivo: palabra sensible en los titulares: president
+- Temas: UEFA
+- AS: España - Inglaterra hoy, en directo: última hora de la UEFA Nations League en vivo
+- Google News AR: El vicepresidente de UEFA criticó el estilo de juego de Pep Guardiola: «Mató al fútbol»
+- Daily Mail: Spain vs England - UEFA Nations League LIVE: Jude Bellingham denied second-minute opener in fast start
+- AS: Bélgica - Italia, en directo: UEFA Nations League, en vivo hoy
+- AS: Croacia - República Checa en directo: UEFA Nations League hoy, en vivo
+
