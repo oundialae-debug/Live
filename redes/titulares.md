@@ -1,4 +1,4 @@
-# Titulares de fútbol (2026-11-15 19:55 UTC, últimas 36 h)
+# Titulares de fútbol (2026-11-16 16:19 UTC, últimas 36 h)
 
 Generado por `scripts/titulares.py` (workflow `tendencias`). Leídos 26 de 34 medios; fuentes en `redes/fuentes.md`.
 
@@ -6,356 +6,357 @@ Generado por `scripts/titulares.py` (workflow `tendencias`). Leídos 26 de 34 me
 
 | Tema | Nº medios | Medios | Ejemplo |
 |---|---|---|---|
-| Ronaldinho | 16 | AS, BBC, Foot Mercato, Football Italia, Google News AR, Google News EN, Google N | Ronaldinho makes comeback in Ravenna win |
-| England | 11 | BBC, Daily Mail, FourFourTwo, Google News EN, Guardian, Kicker, Mirror, Planet F | Spain test will reveal if Tuchel and England have learned World Cup lessons |
-| Spain | 11 | BBC, Daily Mail, FourFourTwo, Google News EN, Guardian, Mirror, Planet Football, | Spain test will reveal if Tuchel and England have learned World Cup lessons |
-| Ravenna | 10 | BBC, Foot Mercato, Football Italia, Google News AR, Google News EN, Google News  | Ronaldinho makes comeback in Ravenna win |
-| Tenerife | 10 | BBC, Daily Mail, Foot Mercato, Google News EN, Google News ES, L'Equipe, Mirror, | Tenerife return to action after death of De Miguel |
-| Miguel | 10 | BBC, Daily Mail, Foot Mercato, Google News EN, Google News ES, L'Equipe, Mirror, | Tenerife return to action after death of De Miguel |
-| Portugal | 10 | Foot Mercato, FourFourTwo, Guardian, Infobae, L'Equipe, Mirror, Record, ge.globo | Nations League roundup: Portugal mauled by Denmark as Norway sink Wales |
-| Arsenal | 9 | BBC, Daily Mail, Google News EN, Guardian, Mirror, Sky Sports, Yahoo, r/soccer ( | Arsenal target Nusa could cost £66m - Sunday's gossip |
-| Tuchel | 9 | BBC, Daily Mail, Foot Mercato, Google News AR, Google News ES, L'Equipe, Mirror, | Spain test will reveal if Tuchel and England have learned World Cup lessons |
-| Pochettino | 8 | Daily Mail, Foot Mercato, Football Italia, Google News EN, Guardian, Mirror, r/s | Mauricio Pochettino asked the US to believe in his project. Did he believe in it himself? |
-| Jesus | 8 | Daily Mail, Foot Mercato, Google News EN, Infobae, L'Equipe, Mirror, ge.globo, r | Grief-stricken Tenerife stars return to action for first time since death of Jesus de Miguel, 30, after fatal  |
-| Thomas | 7 | Daily Mail, Foot Mercato, Google News AR, Google News ES, Mirror, r/soccer (top  | Thomas Tuchel to drop key England star for crunch Nations League clash against Spain |
-| Haaland | 6 | BBC, Daily Mail, Mirror, Mundo Deportivo, Yahoo, talkSPORT | Haaland helps Norway to win over Wales in Nations League |
-| Man | 6 | BBC, Daily Mail, Google News EN, Mirror, r/soccer (top día), talkSPORT | Chelsea go top with 1-0 win against Man City |
-| Fuente | 6 | BBC, Daily Mail, Foot Mercato, Google News AR, Google News ES, Guardian | 'No racism in Spain' – De la Fuente message for Tuchel |
-| Manchester | 6 | Foot Mercato, Football Italia, FourFourTwo, Guardian, Yahoo, talkSPORT | Here Manchester United go again, taking the Two Ronnies route to hiring a new boss | Jonathan Wilson |
-| Mauricio | 6 | Daily Mail, Google News EN, Guardian, Mirror, r/soccer (top día), talkSPORT | Mauricio Pochettino asked the US to believe in his project. Did he believe in it himself? |
-| Lamine | 6 | Foot Mercato, Guardian, L'Equipe, Yahoo, r/soccer (top día), talkSPORT | De la Fuente feels the strain as Lamine Yamal club v country debate rages in Spain |
-| Yamal | 6 | Foot Mercato, Guardian, L'Equipe, Planet Football, Yahoo, talkSPORT | De la Fuente feels the strain as Lamine Yamal club v country debate rages in Spain |
-| Fernandes | 6 | Daily Mail, Football Italia, Google News EN, Mirror, Sky Sports, Yahoo | Papers: Fernandes wants to see if Poch is 'real deal' before signing new contract |
-| Bruno | 6 | Daily Mail, Football Italia, Google News EN, Mirror, Yahoo, ge.globo | Youngsters will get their chance, Bruno Fernandes can thrive and touchline energy will be vital: Key lessons f |
-| France | 6 | Foot Mercato, Football Italia, FourFourTwo, Google News EN, L'Equipe, Yahoo | France vs Turkey FREE live stream: TV channels, kick-off time, team news and predictions for Nations League ma |
-| Inglaterra | 6 | AS, Google News AR, Google News ES, Mundo Deportivo, Ole, ge.globo | España - Inglaterra, en directo: última hora de la Selección en la Nations League, hoy en vivo |
-| Scotland | 5 | BBC, Daily Mail, Google News EN, Sky Sports, Yahoo | Why 'inspiring' Van Gaal influences Scotland head coach Pocognoli |
-| Van | 5 | AS, BBC, Football Italia, L'Equipe, Yahoo | Why 'inspiring' Van Gaal influences Scotland head coach Pocognoli |
+| Infantino | 15 | BBC, Daily Mail, Foot Mercato, Football Italia, Google News EN, Google News ES,  | Klopp says Infantino worse than Blatter |
+| England | 13 | BBC, Daily Mail, FourFourTwo, Google News EN, Guardian, Kicker, Mirror, Planet F | Has Trafford replaced Pickford as England No 1? |
+| Spain | 11 | BBC, Daily Mail, FourFourTwo, Google News EN, Guardian, Mirror, Planet Football, | How did England cling on against Spain and what did Tuchel do differently? |
+| FIFA | 11 | AS, Daily Mail, Foot Mercato, Football Italia, Google News EN, Google News ES, L | Jurgen Klopp joins movement to oust Gianni Infantino as UEFA&#8217;s new FIFA candidate emerges |
+| UEFA | 11 | AS, Daily Mail, Foot Mercato, Google News EN, Google News ES, Kicker, L'Equipe,  | Jurgen Klopp joins movement to oust Gianni Infantino as UEFA&#8217;s new FIFA candidate emerges |
+| Lukaku | 9 | BBC, Daily Mail, Foot Mercato, Google News EN, Kicker, L'Equipe, Yahoo, ge.globo | Belgium's Lukaku retires from internationals |
+| Vinicius | 9 | AS, BBC, Daily Mail, Foot Mercato, Google News EN, L'Equipe, Yahoo, r/soccer (to | Vinicius says transfer interest affected Real form |
+| Ronaldinho | 9 | BBC, Daily Mail, Football Italia, Google News ES, Guardian, Infobae, Planet Foot | Ronaldinho makes comeback in Ravenna win |
+| Diallo | 9 | AS, Foot Mercato, Football Italia, Google News EN, Google News ES, Guardian, Kic | French football head Philippe Diallo to fight Infantino for Fifa presidency |
+| Argentina | 9 | Daily Mail, Google News AR, Google News ES, Infobae, Mirror, Record, Sky Sports, | Has Tuchel learnt from Argentina disaster and fixed England's 'DNA problem'? |
+| Frank | 8 | BBC, Daily Mail, Foot Mercato, Google News EN, L'Equipe, Sky Sports, Yahoo, talk | How Frank can restore reputation and save Crystal Palace |
+| Klopp | 8 | BBC, Daily Mail, Foot Mercato, L'Equipe, Mirror, Yahoo, r/soccer (top día), talk | Klopp says Infantino worse than Blatter |
+| Portugal | 8 | AS, BBC, Foot Mercato, Google News AR, Record, Yahoo, ge.globo, talkSPORT | Wales without injured Williams for Portugal game |
+| Arsenal | 8 | BBC, Daily Mail, Google News EN, Guardian, Mirror, Record, Yahoo, talkSPORT | London City earn point in thrilling draw against Arsenal |
+| Man | 8 | BBC, Daily Mail, Football Italia, Google News EN, Mirror, Planet Football, Yahoo | Man Utd target Fulham's Bassey - Monday's gossip |
+| Pochettino | 8 | Daily Mail, FourFourTwo, Google News EN, Mirror, Mundo Deportivo, Planet Footbal | Man United talks with Mauricio Pochettino alternative soured over £25million contract |
+| Crystal | 7 | BBC, Daily Mail, Foot Mercato, Google News EN, L'Equipe, Sky Sports, Yahoo | How Frank can restore reputation and save Crystal Palace |
+| Palace | 7 | BBC, Daily Mail, Foot Mercato, Google News EN, L'Equipe, Sky Sports, Yahoo | How Frank can restore reputation and save Crystal Palace |
+| Trafford | 7 | BBC, Daily Mail, FourFourTwo, Google News EN, Planet Football, Yahoo, r/soccer ( | Has Trafford replaced Pickford as England No 1? |
+| Madrid | 7 | Daily Mail, Foot Mercato, FourFourTwo, Google News ES, Mundo Deportivo, Yahoo, t | Vinicius Jr’s Real Madrid future thrown into fresh doubt after Arsenal interest |
+| Mauricio | 7 | Daily Mail, FourFourTwo, Google News EN, Mirror, Yahoo, ge.globo, talkSPORT | Man United talks with Mauricio Pochettino alternative soured over £25million contract |
+| Thomas | 7 | Daily Mail, Foot Mercato, FourFourTwo, Google News EN, L'Equipe, Mirror, talkSPO | Simon Jordan fumes at TV reporter’s ‘disingenuous’ interviews with Declan Rice and Thomas Tuchel |
+| Ancelotti | 7 | Foot Mercato, Football Italia, Google News AR, Infobae, Mundo Deportivo, Yahoo,  | Ancelotti responds to Romario after calling for Brazil sacking: ‘He talks a lot’ |
+| Tuchel | 6 | BBC, Daily Mail, FourFourTwo, Mirror, Sky Sports, talkSPORT | How did England cling on against Spain and what did Tuchel do differently? |
+| Philippe | 6 | Foot Mercato, Google News EN, Google News ES, Guardian, L'Equipe, Yahoo | French football head Philippe Diallo to fight Infantino for Fifa presidency |
 
 ## Titulares por medio
 
 **BBC** (35)
-- Aberdeen appoint Liechtenstein's Frick as head coach
-- Ronaldinho makes comeback in Ravenna win
-- Wenger decides not to challenge Fifa chief Infantino
-- How Spain's humble superstar Simon became world's best keeper
-- Why 'inspiring' Van Gaal influences Scotland head coach Pocognoli
-- Respect? Exposure? Why England's star names are going abroad
-- Club's first match since player's death abandoned because of serious injury
-- Chapecoense crash survivor wins promotion in final game
-- Tenerife return to action after death of De Miguel
-- Why Northern Ireland won't focus on point they need in Hungary
-- AS FAR retain Women's African Champions League title
-- Children's tournament abandoned for parents' behaviour
+- How Frank can restore reputation and save Crystal Palace
+- Has Trafford replaced Pickford as England No 1?
+- Klopp says Infantino worse than Blatter
+- Cap fits as Robertson poised to take King Kenny's crown
+- Belgium's Lukaku retires from internationals
+- Burnham urges caution on scrapping 3pm TV blackout
+- Wales without injured Williams for Portugal game
+- 60 minutes of perfection, 30 minutes of chaos - an England win for the ages
+- Republic of Ireland captain Collins to miss Kosovo game
+- How did England cling on against Spain and what did Tuchel do differently?
+- Is Scotland's system limiting Gannon-Doak's threat?
+- Vote for the best men's European striker this century
 
-**Guardian** (14)
-- Spain v England: Nations League – live
-- Mary Earps frustrates Arsenal as London City Lionesses earn battling draw
-- Record-breaking Andy Robertson is Scotland’s finest captain
-- Ronaldinho makes debut for Italian side Ravenna after 11-year hiatus in playing career
+**Guardian** (16)
+- French football head Philippe Diallo to fight Infantino for Fifa presidency
+- Union of European Clubs escalates fight for football influence with formal complaint
+- European football body’s plan to go global leaves Fifa on tenterhooks
+- WSL talking points: Chelsea’s gamble pays off and have Arsenal lost fear factor?
+- A long wait, some magic and that smile: Ronaldinho savours Ravenna debut at 46
+- Republic of Ireland have plenty of promise, but are unable to shake self-sabotage
+- Three Lions’ win over Spain comes in two acts: the first superb, the second heroic | Sid Lowe
+- Beckham firm sues after fragrance found for sale in Poundland
 - Terry Butcher: ‘I’ve learned to live with the Hand of God goal better’
 - AFC Wimbledon, a failed £87m investment bid and the challenge for fan ownership
-- Five red cards issued for mass brawl in New York Red Bulls v Club América friendly
-- Here Manchester United go again, taking the Two Ronnies route to hiring a new boss | Jonathan Wilson
-- Nations League roundup: Portugal mauled by Denmark as Norway sink Wales
-- Mauricio Pochettino asked the US to believe in his project. Did he believe in it himself?
-- De la Fuente feels the strain as Lamine Yamal club v country debate rages in Spain
-- Portugal immortalise Cristiano Ronaldo’s No 7 shirt in tribute to national legend
+- ‘Inexcusable’ stadium sagas provide NWSL with unwelcome reality check
+- Red Brawl New York: Fighting and six red cards mar ‘friendly’ v Club América
 
 **Sky Sports** (20)
-- Grand Slam of Darts LIVE! Greaves in must-win clash with Evans, Smith also playing
-- Arsenal's wait for home WSL win goes on after Earps masterclass
-- Earps stars as London City frustrate Arsenal to seal point at Emirates
-- Scotland edge out Australia in Nations Championship
-- Spain vs England LIVE!
-- Pioneer Pete sparks jubilant Greatwood scenes at Cheltenham
-- Fisher wants fight with AJ dangerman Prenga early next year
-- One for the World Cup? England's new-ball switch to Baker pays dividends
-- Andrew Gilding pins BULLSEYE finish to defeat Charlie Manby!
-- Ex-Aussie bowler rejects Cummins' sandpapergate claim: 'Everyone knew'
-- Niko Springer almost hits THREE Robin Hoods: 'One in a thousand chance of that!'
-- 'Emotional and proud' McIlroy reflects on winning eighth Race to Dubai title
+- Ratcliffe's Ineos Group settles £10m-plus claim with Ainslie's firm over yacht
+- Brilliant Alcaraz dominates Tiafoe for first win at ATP Finals
+- Has Tuchel learnt from Argentina disaster and fixed England's 'DNA problem'?
+- Sky Sports News presenter Fulton becomes Kent director of cricket
+- Who is the best female tennis player of 2026?
+- Camara to drive for Haas again at Las Vegas GP
+- Pietersen fires England up ahead of ODI decider in Australia
+- Mahomes has a new star and Cousins fights back tears - NFL Sunday Review
+- Over 80 points and 1,000 yards combined - 49ers at Cowboys was a thriller!
+- Hutchinson celebration results in season-ending injury
+- Patriots QB Maye feared to be out for season with ankle injury
+- Frank agrees deal in principle to become new Crystal Palace head coach
 
-**talkSPORT** (32)
-- Arsenal star makes debut for new international team despite 13 senior caps for home country
-- Non-league club&#8217;s first match since death of player abandoned after gruesome injury
-- Former Manchester United star left shocked by £150,000 Jude Bellingham offer
-- EFL boss threatens to quit after blaming &#8216;poor players&#8217; for club&#8217;s eighth league defeat in ten
-- National League side sack manager a week after FA Cup exit to EFL team
-- Spain v England live commentary plus kick-off time and team news for Madrid clash
-- Where to watch Spain v England as rivals battle to top Nations League group
-- Ranking every Man United player this season ahead of Mauricio Pochettino&#8217;s arrival
-- Wayne Rooney I&#8217;m a Celebrity prediction made by former winner &#8211; &#8216;Knowing him&#8217;
-- Erling Haaland gives incredible answer to question on Man City charges
-- Martin Odegaard refuses to answer Arsenal transfer question as rumours intensify
-- Portugal manager gives brutal 24-word Cristiano Ronaldo response after shock defeat
+**talkSPORT** (31)
+- Vinicius Jr’s Real Madrid future thrown into fresh doubt after Arsenal interest
+- Premier League festive fixtures 2026/27 – full schedule confirmed with dates, kick-off times, radio and television picks
+- Champions League to lose iconic feature as major change made after 26 years
+- Jurgen Klopp joins movement to oust Gianni Infantino as UEFA&#8217;s new FIFA candidate emerges
+- Man United talks with Mauricio Pochettino alternative soured over £25million contract
+- Simon Jordan fumes at TV reporter’s ‘disingenuous’ interviews with Declan Rice and Thomas Tuchel
+- Nations League quarter-final draw: Date, time and teams involved as England await fate
+- Thomas Frank agrees Premier League return nine months after Tottenham exit
+- &#8216;Never seen anything like it&#8217; &#8211; Jeff Stelling left puzzled by bizarre moment in Spain vs England
+- talkSPORT tips – Best football bets and expert advice for Monday November 16
+- England regulars with combined 123 caps lose starting XI place after Spain heroics
+- Three England stars get 10/10 rating but Thomas Tuchel told he must learn basic football lesson
 
-**Daily Mail** (39)
-- Spain vs England - UEFA Nations League LIVE: Jude Bellingham denied second-minute opener in fast start
-- Legendary commentator CLIVE TYLDESLEY on how his ITV exit has made hearts grow fonder, the rise of YouTube streamers, his lockdown money-spi
-- Inside Sir Alex Ferguson's inner circle of Man United legends: The player threatened 'he will end up in a ditch' by football chief, the cult
-- Sonia Bompastor's side show their teeth as Chelsea sink the reigning champions to reclaim top spot in WSL title race: Chelsea 1-0 Man City
+**Daily Mail** (35)
+- Klopp breaks ranks to savage Infantino: Liverpool legend becomes first boss to turn on FIFA president - who is WORSE than Sepp Blatter - as 
+- Thomas Frank closing in on Crystal Palace job as he eyes raid on Chelsea set-piece guru marginalised under Xabi Alonso
+- Romelu Lukaku announces 'bombshell' international retirement: Former Chelsea star, 33, U-turns on his Belgium future - leaving Belgian press
+- How Vinicius Jr's lavish summer holiday has left him playing catch up: Real Madrid star admits he 'trained less' while on luxury yacht trip 
+- England's evolution: James Trafford and two other stars chisel their names into the XI, Thomas Tuchel learning from Argentina and Jude Belli
+- 'Managers now are b****y boring!': NEIL WARNOCK on the lack of characters in football, his friendship with Pep Guardiola, why he is open to 
+- Lamine Yamal's sly jibe at Elliot Anderson: Unseen footage reveals the moment Spain star is caught calling rival 'stupid' as tempers flared 
 - 'Am I supposed to answer that?': Erling Haaland breaks silence and distances himself from Man City cheating verdict as star striker insists 
-- Jarrad Branthwaite left out of England squad for Nations League decider with Spain - as James Hill and Dan Burn leapfrog defender in Thomas 
-- Ashley Cole accidentally shooting a student, bare-chested Marcus Bent threatening police with a meat cleaver - and an ex-Barcelona star firi
-- England's Euro 2028 mission starts NOW! Thomas Tuchel's men must beat Spain to prove they can compete with the best - or risk their 'DNA' cu
-- England boss Thomas Tuchel angry at being dragged into race row after being told by Luis de la Fuente: 'There is no racism in Spain!' on eve
-- Declan Rice bites back at Graeme Souness: Arsenal star claims pundit doesn't understand how the game has evolved over 'old man's football' c
-- Carlo Ancelotti and Raphinha see red: Security separate furious Brazil stars from officials after shock 3-2 defeat by Japan - with manager a
-- Mauricio Pochettino's Man United SQUAD AUDIT: Axe EIGHT stars, new role for the attacker he's 'always liked' and who could be his new Dele A
+- You're Not Nineteenth Forever! Sacked Man United manager Michael Carrick looks relieved to be out of the relegation fight as he watches The 
+- Spain 2-3 England PLAYER RATINGS: Which star was the man of the match for Thomas Tuchel? Who was key to their energy and adventure? And who 
+- Ronaldinho makes return at age of 46: Brazil legend plays full first-half for Italian third-tier team and hints he may play again despite 'p
+- Klopp breaks ranks to savage Infantino: Liverpool legend becomes first boss to turn on FIFA president - who is WORSE than Sepp Blatter - as 
 
 **Mirror** (25)
-- How to watch Belgium vs Italy - TV channel, live stream, kick-off time
-- How to watch Spain vs England - TV channel, live stream, kick-off time
-- Man Utd line up Premier League star for January transfer in boost for Mauricio Pochettino
-- Pep Guardiola's stance on replacing Mauricio Pochettino as US boss after next job hint
-- Man Utd's January offer to Mauricio Pochettino is needed - but also a recipe for disaster
-- Man Utd flops face brutal Mauricio Pochettino ban with Michael Carrick rule changed
-- Martin Odegaard gives honest Arsenal contract update as major rival waits in the wings
-- Gianni Infantino's presidency hopes alter as Arsene Wenger makes decision on FIFA role
-- Erling Haaland hits back at Man City charges question – ‘Am I supposed to answer that?’
-- Arsenal star Declan Rice makes honest confession over England struggles
-- Bruno Fernandes halts Man Utd contract talks - until Mauricio Pochettino 'proves himself'
-- Mauricio Pochettino has very easy choice to make on Bruno Fernandes' Man Utd future
+- DARREN LEWIS: 'Let’s believe in our team and live this dream'
+- Gianni Infantino rival confirmed as UEFA finally put forward FIFA presidential candidate
+- How Arsenal star Ben White went from reviled England exile to match-winner under Thomas Tuchel
+- Two Man Utd managers have already been punished by Mauricio Pochettino’s strict rule he will enforce
+- Our best offer of the year: Mirror Football+ for just £1 a month
+- Man Utd owner Sir Jim Ratcliffe settles £180m dispute with Sir Ben Ainslie after bitter row
+- Forget Man Utd - Lewis Hall could be a target for the world's best clubs next summer
+- Talking Tottenham announces Christmas live show with Alasdair Gold and Ryan Taylor
+- ITV reporter at centre of England controversy after Declan Rice and Thomas Tuchel interviews
+- Mauricio Pochettino scraps Michael Carrick rule with immediate Man Utd ban
+- Jurgen Klopp calls for Gianni Infantino to resign with blunt assessment of FIFA chief
+- Jude Bellingham called 'very nasty' as unseen moment sparks outrage in Spain
 
-**Telegraph** (0)
+**Telegraph** (1)
+- England stun world champions Spain in one of their greatest victories
 
 **90min** (0)
 
 **Planet Football** (10)
-- Can you name the most capped player for these 25 European nations?
-- Can you name the top scorers for these 25 European nations?
-- The 8 players Barcelona let go in the summer – & how they’re faring elsewhere
-- Can you name Spain’s top 20 goalscorers of all time?
-- When Gus Poyet scored the goal of a lifetime yet Zola still stole the glory
-- Where are they now? England’s XI that beat Spain 3-2 in the 2018 Nations League
-- The top goalscorers for club & country in 2026 so far: Kane, Yamal, Mbappe, Raphinha…
-- 18 more England records Harry Kane could break after becoming all-time caps leader
-- Can you name every player to score 10+ goals for the Republic of Ireland?
-- Can you name every player to score 15+ goals for Wales?
+- Forget Spain: James Trafford made the greatest save of his life at Port Vale
+- Next USA manager: 7 options to replace Pochettino after Man Utd hire
+- Can you name every member of Man Utd’s 2007-08 Double-winning squad?
+- Euro 2028 Power Rankings: Every major nation ranked from worst to best – England where?
+- Can you name the top 30 appearance-makers in English league football history?
+- Can you name the top 20 goalscorers in English top flight history?
+- All hail James Trafford: How the most normal bloke in elite football became England’s No.1
+- Can you name every stadium to have hosted Premier League football?
+- Can you name every player to have been sent off for England?
+- Will Ronaldinho play for Ravenna again? Everything we know after his comeback game
 
-**FourFourTwo** (18)
+**FourFourTwo** (19)
+- Manchester United are the Trigger's broom of English football - and Mauricio Pochettino won't fix a broken club
+- Manchester City agents begin making player moves as dreaded free transfer scenario revealed: report
+- Gareth Bale eyeing Sevilla takeover: report
+- Liverpool January transfer strategy revealed after squad accusations: report
+- Tottenham report: Striker transfer is on, as Eli Junior Kroupi's future is decided
+- HENRY WINTER: Jordan Pickford has seen off five England challengers but hasn't faced a threat quite like James Trafford
+- Manchester United in huge transfer U-turn after Mauricio Pochettino appointment: report
+- Thomas Tuchel must thank Leeds United and Newcastle for solving two of England's long-term dilemmas in Madrid
+- “We need to protect green space in London, not just for football, but for every sport” Joe Cole opens up on his roots as he’s nominated for 
+- The Big Quiz of World Cup 1994
+- Quickfire Quiz 246: Can you answer 10 questions in 90 seconds?
 - France vs Turkey FREE live stream: TV channels, kick-off time, team news and predictions for Nations League match in League A
-- How to watch Spain vs England for FREE: Live Streams, TV Channels, Team News & Predictions for HUGE Nations League Clash
-- How to watch Belgium vs Italy: Free Live Stream & TV Channels for crucial Nations League clash
-- Tomas Sorensen on his relationship with Denmark team-mate Peter Schmeichel
-- Kenny Dalglish on his introduction to football in Glasgow
-- Javier Zanetti on the two Manchester United flops who make his all-time XI
-- nside Midtjylland, the data-driven outsiders taking on Danish football’s traditional giants
-- Pre-Match Poser no.53: Can you answer this elite-level football quiz question?
-- Watch Austria vs Republic of Ireland: Free streams & TV info
-- Watch Northern Ireland vs Ukraine for FREE: Live streams
-- Watch Portugal vs Denmark: FREE streams and TV channels
-- Mark Schwarzer on Paul Gascoigne’s Boro spell and 'putting smiles on faces'
 
 **Yahoo** (40)
-- Tottenham Hotspur Urged To Move In For This Arsenal Forward: Should De Zerbi Go For Him?
-- Ronaldinho makes comeback in Ravenna win
-- New Saints brush aside Briton Ferry in Welsh Cup
-- Aberdeen appoint Liechtenstein&#39;s Frick as head coach
-- Arsenal Identify This Bundesliga Winger As A Target: Should Arteta Snap Him Up?
-- Arsenal held to frustrating draw by London City Lionesses
-- Manchester City secure major boost as a vital player is set to commit his future to the club
-- Confirmed: Three Barcelona players start in England vs Spain as Lamine Yamal returns
-- Van Bommel: ‘Belgium play good football first, but Italy underestimated’
-- Leeds United Defender Thriving In Bundesliga Breaks Silence On Future: Should The Whites Cash In?
-- Ronaldinho after Ravenna debut: &#8220;If the president calls me, I&#8217;ll come back&#8221;
-- Roma in talks to renew Hermoso&#8217;s deal until 2029
+- Is Switzerland v Scotland on TV? Channel, kick-off time and how to watch Nations League clash
+- Teenager Shofowoke signs new Peterborough deal
+- Wales without injured Williams for Portugal game
+- Report Maignan tests reassuring for Milan after France injury
+- Arsenal 27yo will sign new deal but club not rushing to announce
+- THE WEEKEND&#39;S RESULTS: U16 AND U15 WIN THEIR DERBIES
+- ‘Inexcusable’ stadium sagas provide NWSL with unwelcome reality check
+- Klopp says Infantino worse than Blatter
+- Uefa announces candidate to challenge Gianni Infantino for Fifa presidency
+- Challinor hoping Argyle win is just &#39;the start&#39;
+- Highly-rated Barcelona youngster out for 3-4 weeks with fresh hamstring injury &#8211; report
+- Report French Football chief Diallo ready to run against Infantino for FIFA President
 
 **Google News EN** (40)
-- Aberdeen: Mario Frick is new head coach at Pittodrie
-- Arsenal 1-1 London City Lionesses | WSL highlights
-- Mario Frick Appointed Head Coach
-- My Football Journey Episode Four | Izzy Lane
-- Ronaldinho makes comeback for Ravenna
-- Why have Man Utd only had two successful managers?
-- Is Spain v England on TV? Channel, kick-off time and how to watch Nations League clash
-- Ronaldinho makes debut for Italian side Ravenna after 11-year hiatus in playing career
-- Italian children's football tournament abandoned because of parents' fighting, spitting and abuse
-- Man Utd: Bruno Fernandes puts contract talks on hold until he finds out if Mauricio Pochettino is 'the real deal' - Paper Talk | Football Ne
-- WSL highlights: West Ham United 2-0 Charlton Athletic
-- Nations League 2026/27: England into quarter-finals but who will they play in last-eight in March?
+- European football body’s plan to go global leaves Fifa on tenterhooks
+- Has Trafford replaced Pickford as England No 1?
+- Cole Palmer: My Football Firsts | News | Official Site
+- Mary McAteer: Ipswich boss praises Wales international's football brain
+- Union of European Clubs escalates fight for football influence with formal complaint
+- Thomas Frank: How former Spurs boss could restore his reputation and save Crystal Palace
+- Scott Lindsey: York manager calls players "unbelievable" after Rochdale win
+- Lye, Peterborough and the never-ending Women's FA Cup tie
+- Arsenal and England's Ben White on 'not liking football' tag
+- Robertson to cap it all as he takes King Kenny's crown
+- Women's FA Cup: Norwich reach round three in dramatic finish
+- Man City news: Matheus Nunes contract talks
 
-**AS** (24)
-- España - Inglaterra, en directo: última hora de la Selección en la Nations League, hoy en vivo
-- Francia - Turquía, hoy en directo: última hora de la Nations League en vivo
-- Bélgica - Italia, en directo: UEFA Nations League, en vivo hoy
-- Van Asten salva al Barça
-- Croacia - República Checa en directo: UEFA Nations League hoy, en vivo
-- Los mágicos 45′ de Ronaldinho
-- Resumen y goles del Eibar vs. Cádiz, jornada 14 de LaLiga Hypermotion
-- Polémica, análisis y reacciones del España - Inglaterra de UEFA Nations League
-- El Sabadell precipita la reacción del Eldense
-- Al Eibar se le escapa la victoria de sus manos
-- A Las Palmas le sale ‘Caro’ el viaje
-- Una victoria que alegra el alma
+**AS** (26)
+- Zubimendi está abierto a todo
+- La UEFA ya tiene candidato a FIFA: Diallo
+- Bale sucede a Sergio Ramos en la compra del Sevilla
+- Pedri, un asunto incómodo
+- Tentación de 60M€ para Endrick
+- Sorpasso de Nike con el balón de la Champions
+- El momento que todo el madridismo comparte: vean lo que sucede cuando Arda Güler y Konate se cruzan en el césped
+- Vinicius: “Entrené menos, cometí errores, soy humano”
+- ¿Cuál fue la clave de la derrota ante Inglaterra?
+- Mercado de fichajes, en directo: rumores, altas y bajas de LaLiga, Premier, Serie A...
+- Con Lamine no hay debate
+- Inglaterra se come al campeón
 
 **Mundo Deportivo** (40)
-- Así queda la clasificación de la Liga F tras el empate 'in extremis' del Barça en Riazor
-- Sigue el Bélgica - Italia y el Francia - Turquía, en directo
-- El seleccionador danés se verá con Flick para hablar de Christensen
-- Ya hay fecha y hora para la visita del Real Madrid a San Mamés
-- Dani Díaz, tras un gol maradoniano, llama a la puerta de Matarazzo para sustituir a Barrenetxea
-- Batalla campal y bochorno mundial en Brasil: patadas y puñetazos en una final Sub'20
-- Xavi: "La lesión de Frenkie es muy leve pero no juega en Alemania"
-- España - Inglaterra, en directo
-- Francia - Turquía, en directo | Nations League
-- Croacia - República Checa, en directo | Nations League
-- Bélgica - Italia, en directo | Nations League
-- Otro lesionado en el Sabadell y su sustituto, expulsado al minuto de entrar al campo
+- Lituania - Liechtenstein, en directo | Nations League
+- Islandia - Luxemburgo, en directo | Nations League
+- Estonia - Bulgaria, en directo | Nations League
+- Juan Cruz, dos meses después
+- La UEFA presenta al rival de Infantino a la presidencia de la FIFA
+- El FC Porto, único en Europa
+- Jesús Rodríguez vuelve al Betis para ver entrenar a su hermano
+- Danjuma, ausente en la vuelta al trabajo del Valencia por molestias musculares
+- Messi, muy pendiente del Eldense: "Nos sentimos respaldados y muestran confianza ciega"
+- La mejor noticia para Jagoba Arrasate
+- Spalletti cocina a fuego lento el fichaje de un futbolista del Atlético
+- La 21 presume de su 21, y viceversa: "El Espanyol tiene una de las mejores canteras del mundo"
 
 **Google News ES** (40)
-- Alineaciones España vs Inglaterra hoy: once inicial y banquillo de suplentes de Luis de la Fuente y Thomas Tuchel para la Nations League 202
-- Fútbol: Barcelona - Athletic Club, en directo | Liga F
-- Ronaldinho regresa al fútbol profesional y brilla a los 46 años: una asistencia y una ovación de la hinchada en el Rávena de la Serie C ital
-- Victoria ante el líder
-- Volvió la sonrisa que enamoró al fútbol
-- ‍‍‍~【【4K】】 España vs Inglaterra Fútbol en Vivo
-- Última hora del España vs Inglaterra hoy: ¡Sigue en directo el minuto a minuto del encuentro de la jornada 6 de Nations League 2026/27!
-- España - Inglaterra, en directo hoy en vídeo el partido de la Nations League
-- El lunes se abre el plazo de inscripción
-- Es el mejor: volvió Ronaldinho tras 4.000 días al fútbol profesional... y esta fue su ‘presión asfixiante’ a l
-- España - Inglaterra: horario, canal y dónde ver hoy por TV el partido de la UEFA Nations League de fútbol
-- España vs Inglaterra: fecha, hora, canal, TV y dónde ver online hoy la Nations League 2026/27 en España
+- Burgos CF | Web Oficial
+- ELEVA reunirá en Las Rozas al fútbol femenino internacional
+- Se abre el telón a las ligas comarcales de fútbol aficionado y fútbol sala aficionado para la temporada 2026-2027
+- El Partido AFE entre España e Inglaterra, una jornada de fútbol, reconocimiento y solidaridad con el homenaje a Jesús de Miguel - AFE
+- Real Sociedad
+- La Federación Polaca de Fútbol visita el RCD Espanyol por tercer año consecutivo
+- Córdoba CF | Web Oficial
+- 'Fútbol de Calle' regresa a los lunes con la resaca del España-Inglaterra y la visita de Miguel Maldonado
+- La Copa del Mundo de fútbol viaja en Metro de Madrid hasta el Hospital público Niño Jesús para acercar el trofeo a los niños ingresados
+- FIN DE SEMANA DE FÚTBOL 8 EN LA ACADEMIA VCF
+- ‍‍‍!+【FÚTBOL】 Alcaraz vs Tiafoe En Vivo En el canal de televisión - UB
+- Nueva tragedia en el fútbol: Fallece un jugador en Argentina por un pelotazo en la cabeza
 
 **Gazzetta** (0)
 
 **Football Italia** (20)
-- Juventus worry as Celik suffered injury in France vs. Turkiye warm-up
-- Nations League Liveblog: Belgium vs. Italy
-- Van Bommel: ‘Belgium play good football first, but Italy underestimated’
-- Maccarone: ‘Italy focus only on victory in Belgium, Pio Esposito has great intelligence’
-- Ronaldinho’s return: Best moments and key stats from the Brazilian legend’s game in Ravenna
-- Nations League official line-ups: Belgium vs. Italy
-- Report Bruno Fernandes targeted by Milan along with Goncalo Inacio
-- Ronaldinho after Ravenna debut at 46: ‘It went by too fast, football most wonderful thing in my life’
-- Udogie tension with De Zerbi and Tottenham can fuel Juventus report
-- Origi confession of Milan struggle and Ibrahimovic row: ‘I take nothing personally’
-- Dida: ‘Ronaldinho a showman and we are witnessing history here’
-- Stramaccioni: ‘Pio Esposito best in the world, extraordinary Italy revival’
+- Report Maignan tests reassuring for Milan after France injury
+- Report French Football chief Diallo ready to run against Infantino for FIFA President
+- Malagò warning: ‘Old school Italian defending is passe’
+- Alvini: ‘Stop saying Italy lacks young talent, it absolutely does not’
+- Ancelotti responds to Romario after calling for Brazil sacking: ‘He talks a lot’
+- Chivu: ‘Embarrassed to be compared to Mourinho, he’s a legend, I’ve only just begun’
+- Domenech fires back at Italy after 4-1 Belgium defeat: ‘Confirmed what we thought’
+- Another injury concern for Juventus as Zhegrova withdraws from Kosovo squad
+- Official: Atalanta hand new contract extension to Bernasconi on 23rd birthday
+- Official: Chivu wins Best Serie A Coach Award for 2025-26
+- Report: Chelsea still interested in Alajbegovic following Man United interest in McKennie
+- When will Italy discover EURO 2028 qualifying opponents?
 
 **Kicker** (20)
-- Havertz lobt Lijnders: "Generell ein überragender Trainer"
-- "Die Optik": Klopp witzelt wegen van Dijk
-- "Weihnachten ist vorher": Klopp verrät, was mit den Kappen passiert
-- Klopp: "Dann ist bei mir im Kopf die Party losgegangen"
-- In der Serie C: Ronaldinho feiert Pflichtspiel-Comeback nach über elf Jahren
-- Jobst: "Ab sofort muss wieder gelten: Alle stellen ihre Einzelinteressen hinten an"
-- Eichhorns kleine Schritte: Warum der Weg zurück für das Top-Talent lang ist
-- "Verlieren verboten" für Klopps DFB-Elf im "historischen" Klassiker
-- Klopp würde Infantino-Aus begrüßen: "Wäre cool, wenn es der Nächste besser machen könnte"
-- LIVE! Spanien vs. England um den Gruppensieg - Frankreich, Belgien und Italien wollen ins Viertelfinale
-- Havertz: Sein Rezept gegen die Flaute
-- Klopp will gegen die Niederlande "den Stock in die Speichen stellen"
+- Seimen über Belgien-Niederlage: "Fehler nicht erlaubt in dem Sport"
+- Di Salvo auf Platzsuche: "Nicht ganz glücklich darüber"
+- Illertissen mit positivem Zwischenfazit - Zieht es Top-Torjäger Milic bald in die 2. Liga?
+- FIFA-Wahlkampf: UEFA schickt Diallo gegen Infantino ins Rennen
+- Kompany leitet erstmals wieder das Training beim FC Bayern
+- Startet Schlotterbeck? Die letzten Fragen vor dem DFB-Klassiker
+- Weg nach Frankfurt frei: Chatzialexious FCN-Vertrag endet vorzeitig
+- Rekordkulisse und Popp-Dreierpack: Warum das Frauen-Revierderby ganz anders ist
+- Nach Spaniens Niederlage gegen England: Österreich hat nun die längste Heim-Serie Europas
+- Homburgs Mangel an Selbstvertrauen und Euphorie: "Da hilft kein Handauflegen"
+- Sind die Niederlande schon fürs Viertelfinale qualifiziert oder nicht?
+- "Nichts ist selbstverständlich": Zidane unzufrieden trotz Sieg
 
 **L'Equipe** (40)
-- Une gifle contre la Finlande mais un moment historique : Nicola Nanni a inscrit le premier doublé de l'histoire de Saint-Marin
-- Matthieu Dossevi : «Zaïre-Emery apporterait un meilleur équilibre»
-- 12 jours après la mort sur le terrain de son attaquant Jesus de Miguel, Tenerife a rejoué et gagné pour « Demi »
-- Comment Bordeaux s'apprête à recevoir son «Zizou»
-- Le résumé de Finlande - Saint-Marin
-- Les temps forts de Biélorussie - Albanie
-- «Concilier impératif de résultats et principes de jeu»
-- Désiré Doué déclare forfait pour France-Turquie en raison d'une tension musculaire à la cuisse droite
-- Premier coup de chaud pour Van Bommel
-- Où voir Espagne-Angleterre ?
-- Lamine Yamal de retour dans le onze de départ de l'Espagne contre l'Angleterre en Ligue des nations
-- Grâce à Mancini et ses choix payants, l'Italie a meilleure mine
+- Vainqueur dans la douleur au Soudan en éliminatoires à la CAN, le Sénégal est tout proche de la qualification
+- Gianni Infantino a un nouvel adversaire : Philippe Diallo est candidat à la présidence de la FIFA
+- Le Cameroun déroule face à la Namibie et a déjà presque son ticket en poche pour la Coupe d'Afrique des Nations 2027
+- Blessé avec l'Espagne en Ligue des nations, Pau Cubarsi incertain pour la réception de Villarreal avec le FC Barcelone
+- « Je n'avais pas imaginé tout ça » : appelé de dernière minute et buteur contre la Turquie, l'inattendu Éli Junior Kroupi se montre déjà che
+- Dominique Delport : «La renaissance des Girondins va pouvoir démarrer»
+- La défense, un chantier grand ouvert pour 2027
+- Van Bommel : « Nous avons un groupe très intelligent »
+- Coup dur pour l'OM : plusieurs semaines d'absence à prévoir pour Emerson, opéré  du genou gauche après sa blessure contre Toulouse
+- Sorti à la mi-temps de France-Turquie, Mike Maignan va mieux et devrait être en mesure de jouer dimanche avec l'AC Milan
+- Crystal Palace finaliserait l'arrivée de Thomas Frank, quelques jours après avoir démis de ses fonctions Pierre Sage
+- L'UEFA convoque un comité exécutif pour étudier d'éventuelles candidatures en vue de l'élection à la présidence de la FIFA
 
 **Foot Mercato** (40)
-- RC Lens : Joseph Oughourlian brise le silence sur le surprenant choix Didier Digard
-- France - Turquie : changement de dernière minute dans le onze turc
-- Coupe du Monde U17 : les images de l’arrivée des Bleuets au Qatar
-- Turquie : l’avertissement clair de Berke Özer à Kylian Mbappé et Michael Olise
-- Ravenna : Ronaldinho fait déjà une grande promesse après ses débuts en Serie C !
-- France - Turquie : Désiré Doué n’est pas sur la feuille de match
-- France - Turquie : les compositions officielles
-- Équipe de France : Bixente Lizarazu pointe les défaillances défensives de Malo Gusto
-- Espagne : Lamine Yamal envoie un message à l’Angleterre
-- Pourquoi Andy Diouf n’est pas resté au PSG
-- Coupe de France : le tirage au sort complet du 8e tour
-- Italie : Roberto Mancini envisage une grosse surprise face à la Belgique
+- JT Foot Mercato : le Barça retient son souffle pour Cubarsí
+- Brésil : la réponse cinglante de Carlo Ancelotti à ceux qui réclament sa tête
+- L’OL annonce une conférence de presse de Michele Kang et Michael Gerlinger
+- La mère de Cristiano Ronaldo a adoré la défaite du Portugal face au Danemark
+- FIFA : l’UEFA soutient Philippe Diallo à l’unanimité face à Infantino
+- Qualifs CAN 2027 : le Sénégal évite le piège au Soudan, le Cameroun tout proche de se qualifier
+- FIFA : la candidature surprise de Philippe Diallo prend du poids face à Gianni Infantino
+- OM : Stéphane Richard savoure le retour au calme
+- Real Madrid : bonne nouvelle pour José Mourinho
+- L’Allemagne refuse de toucher à un cheveu de Jürgen Klopp
+- L’OM communique sur la blessure d’Emerson
+- Le Barça donne des nouvelles de Pau Cubarsí et Frenkie de Jong
 
 **Record** (20)
-- <![CDATA[ Bélgica-Itália, em direto ]]>
-- <![CDATA[ Espanha-Inglaterra, em direto ]]>
-- <![CDATA[ Mauro Couto teve prenda antecipada em Bristol: «Tudo fruto do bom arranque de equipa»  ]]>
-- <![CDATA[ Derrota pesada... com direito a festa: São Marino é goleado na Finlândia mas Nanni vira herói nacional ]]>
-- <![CDATA[ Fritz não tinha de fazer nada para ganhar mais de 140 mil euros nas ATP Finals... e decidiu ir de férias ]]>
-- <![CDATA[ Alexander Zverev abre ATP Finals com triunfo sobre Rafael Jódar ]]>
-- <![CDATA[ Ronaldinho está pronto para continuar a jogar pelo Ravenna: «Depende do presidente...» ]]>
-- <![CDATA[ Guardiola fecha a porta à seleção dos Estados Unidos e dá força a Roberto Martínez ]]>
-- <![CDATA[ José Couceiro pede paciência para os campeões do Mundo Sub-17: «Nem todos vão chegar ao ponto máximo»  ]]>
-- <![CDATA[ Bernardo Silva queixa-se de desconforto muscular e decide não arriscar: a justificação médica para a dispensa da Seleção ]]>
-- <![CDATA[ Como um treinador da NFL inspira um treinador de futebol: «Nunca teve de dizer uma asneira, nunca levantou muito a voz» ]]>
-- <![CDATA[ Estrelas reservadas de olho em semana exigente: rotação à vista no Sporting para Taça de Portugal ]]>
+- <![CDATA[ Schjelderup recorda trivela para Pavlidis na Reboleira: «Foi uma sensação incrível» ]]>
+- <![CDATA[ FC Porto prepara Taça de Portugal com uma boa notícia ]]>
+- <![CDATA[ Em direto: siga a conferência de Jorge Jesus e Rúben Neves de antevisão ao jogo com o País de Gales ]]>
+- <![CDATA[ Presidente do Racing Power suspensa por 46 dias devido a agressão a árbitra ]]>
+- <![CDATA[ As imagens de Dolores Aveiro na inauguração do Centro de Dia no Estádio José Alvalade ]]>
+- <![CDATA[ Já está escolhido o novo James Bond ]]>
+- <![CDATA[ Dolores Aveiro e a saída de Cristiano Ronaldo da Seleção: «Não foi respeitado. Nem pelos colegas» ]]>
+- <![CDATA[ Zidane explica o que falhou na... vitória de França: «Nenhum de nós está contente» ]]>
+- <![CDATA[ Dolores Aveiro, a homenagem que devia ser feita "à frente de Ronaldo" e a derrota que foi "bem feita": «Eles enganaram-no» ]]>
+- <![CDATA[ Declan Rice revela novidades sobre renovação com Arsenal ]]>
+- <![CDATA[ Vinícius Júnior sobre o mau arranque de temporada: «Tenho de aproveitar um pouco a vida...» ]]>
+- <![CDATA[ Árabes revelam detalhes do contrato de João Félix: cláusula para voltar ao Chelsea, salário e preço da transferência ]]>
 
 **Ole** (10)
-- La amnesia goleadora que preocupa a Independiente en la previa a los playoffs
-- El capitán de Mineiro puso como candidato a Boca para la final: "Llega con más confianza" y "está en un mejor momento"
-- Arrancó el Abierto Argentino de Polo con triunfos de La Hache y La Irenita
-- Alemania vs. Países Bajos, por la Nations League: hora, cómo ver y probables formaciones
-- Lando Norris festejó su cumpleaños con un piloto argentino
-- Flavio Briatore, espectador de lujo en la vuelta de Ronaldinho
-- Bélgica vs. Italia, por la UEFA Nations League, EN VIVO: la Azzurra busca los cuartos de final
-- Scaloni impulsa la renovación de la Selección Argentina: los jóvenes que marcan el recambio sin Messi
-- Ronaldinho, después de su vuelta a las canchas: "El fútbol es lo mejor que me ha pasado en la vida" y "redescubrir la alegría de jugar"
-- España vs. Inglaterra, por la Nations League, EN VIVO: ¡formaciones confirmadas!
+- Jadson Viera: del "algo sabía" del cambio en la tabla anual y el cruce con los hinchas a la "ilusión"
+- La fuerte comparación de Paredes entre las finales de su carrera: "Esta es especial por lo que significa la camiseta de Boca para mí"
+- El jugador de River que se encontró con Julián Álvarez y compartió un lindo momento de amistad
+- Los 29 (por ahora) de la Liga Profesional: sin equipos de La Plata a la Antártida
+- Agustín Giay, cada vez más importante en Palmeiras: renovación hasta 2031
+- Insólito momento en la NBA: Doncic le sacó el pizarrón a sus entrenadores y armó una jugada solo en un tiempo muerto
+- Video: los jugadores de Ferro de Pico terminaron en la Comisaría
+- Vuelve el morbo: Deportivo Madryn y Gimnasia de Jujuy se cruzarán nuevamente por el Reducido
+- El equipo que lleva el nombre de Mascherano, cerca de lograr el ascenso al Federal A
+- Otra venta de entradas muy floja para la Selección: como se verá el Kempes
 
 **Infobae** (40)
-- El tenso cruce entre dos pilotos de TC en Río Cuarto: “Te vas a matar y vas a matar a uno”
-- Godoy Cruz y Tristán Suárez definen el ascenso a la Primera División: formaciones confirmadas
-- Empujones, golpes de puño y patadas: el video de la batalla campal en una final de fútbol femenino en Brasil
-- Sigue la polémica tras la agresión al arquero de Deportivo Maipú ante Deportivo Madryn: el escándalo de los dos partes médicos
-- El show de Ronaldinho en su regreso al fútbol profesional con 46 años: de su toque en el gol a la figura de Alpine que lo acompañó
-- La historia detrás de la foto del piloto argentino abrazado a Lando Norris en su cumpleaños: “La gente que quiero”
-- La emotiva carta de Mauro Giallombardo a Guido Falaschi a 15 años de su trágica muerte en el TC: “Nos vemos en el podio”
-- La pareja de Dani Alves confirmó que se separó por su nueva vida como predicador: “Cuanto más veo lo que hace, más me alejo de eso”
-- La desafiante reflexión de Eduardo Domínguez antes de la final de la Copa Sudamericana: “Boca hace 18 años que no gana una final”
-- Horacio Zeballos y Marcel Granollers debutan en el ATP Finals: hora, quiénes serán sus rivales y lo que hay que saber de la definición
-- Revelaron detalles de la interna que atravesó un equipo de Fórmula 1 por la continuidad de uno de sus pilotos para 2027
-- La impactante pelea por el título pesado de UFC que terminó con los dos luchadores en el hospital y un récord de 383 golpes
+- Horacio Zeballos y Marcel Granollers debutaron con un contundente triunfo en el ATP Finals
+- “Nunca vi un pelotazo así”: un testigo dio detalles del golpe que provocó la muerte del juvenil Abel Núñez
+- La polémica sentencia del arquero de España con la que minimizó a la selección argentina tras la derrota contra Inglaterra
+- La espectacular patada giratoria de un luchador para ganar por nocaut el día de su retiro de UFC: el gesto que tuvo con su rival tras la pel
+- La aparición de dos modelos en un partido de la NBA causó furor en los fanáticos por sus atuendos: "¿Quién se viste así?"
+- La ácida respuesta de Ancelotti a Romario tras sus dichos sobre que debería ser despedido de la selección de Brasil
+- Incertidumbre por la alineación de pilotos de un equipo de Fórmula 1 hasta fin de año: el anuncio para el GP de Las Vegas
+- “Han aprendido de su error”: la comparación de los medios en Inglaterra tras el triunfo ante España y la derrota frente a Argentina en el Mu
+- Miami Heat llevará Vice City a la NBA con camisetas inspiradas en "GTA VI"
+- La histórica dificultad de los argentinos para brillar en la Bundesliga: la cultura, el “estilo diferente” y la lista de 53 representantes
+- Exclusivo: cómo es el plan de financiación para que Argentina recupere la Fórmula 1
+- “Una herida que no saben con qué se produjo”: el insólito fallo en Uruguay que dejó a dos boxeadoras sin título y desató la polémica
 
 **Google News AR** (40)
-- Argentino de Rosario – Boca Juniors y Boca Juniors - SOMRA, definirán los torneos de Primera y Femenino de Fútbol Playa
-- En su regreso al fútbol profesional, el Ravenna de Ronaldinho le ganó a Forli el Derbi de la Romaña
-- Fútbol libre de riesgo, EN VIVO: dónde ver Godoy Cruz vs. Tristán Suárez, por TV y ONLINE
-- Ronaldinho volvió al fútbol a los 46 años: jugó un partido en el ascenso de Italia y recibió una ovación
-- Ronaldinho volvió a jugar al fútbol a los 46 años en el Ravenna: fue titular, 45 minutos y clave en el primer gol
-- Fútbol libre de riesgo: por dónde ver EN VIVO Godoy Cruz vs. Tristán Suárez
-- Ronaldinho volvió al fútbol a los 46 años: participó del gol del Ravenna FC en la Serie C de Italia y regaló sonrisas con la pelota en los p
-- Ronaldinho volvió al fútbol profesional a los 46 años y debutó con triunfo en Ravenna
-- Ver España vs Inglaterra en Fútbol Libre o Roja Directa llena el celular de publicidad invasiva y virus
-- Ronaldinho volvió al fútbol profesional a los 46 años y celebró con una victoria
-- Ronaldinho volvió al fútbol a los 46 años y recibió una gran ovación en Italia
-- Luego de 11 años, Ronaldinho volvió al fútbol profesional
+- MAS Fútbol dio el golpe ante La Crema
+- Días y horarios de la 34
+- Tapia respaldó el formato del fútbol argentino: "No creo que estemos arruinando el fútbol"
+- La guerra millonaria de las marcas en el fútbol mundial: Alemania rompe una relación de 72 años y la Champions cambia un símbolo histórico
+- Conmoción en el fútbol bonaerense: murió un juvenil tras sufrir un fuerte golpe en la cabeza durante un partido
+- Tapia apuntó contra Clarín por los abonados al fútbol y a Tofoni por los malos negocios en la Selección Argentina
+- Falleció un futbolista de las inferiores de Fútbol Club Ezeiza
+- Juan Carlos Portillo volvió a sumar minutos de fútbol en River tras nueve meses de inactividad
+- La crisis de Racing golpea a Milito: asamblea fallida, desafío a su autoridad y cambios en fútbol
+- Conmoción en el fútbol argentino: un juvenil de Ezeiza FC falleció tras recibir un pelotazo en la cabeza
+- Las Pumas rugieron en Colón
+- La curiosa final del fútbol cordobés: dos equipos de la misma localidad se juegan el ascenso y sus presidentes son hermanos
 
 **ge.globo** (40)
-- Espanha x Inglaterra - Liga das Nações 2026/2027 - Ao vivo - globoesporte.com
-- França x Turquia - Liga das Nações 2026/2027 - Ao vivo - globoesporte.com
-- "Maior passo da minha carreira", afirma Vinícius Bergantin, novo técnico da Chapecoense
-- Ronaldinho Gaúcho volta ao futebol com vitória em Ravenna 2 x 0 Forlì
-- Ronaldinho Gaúcho celebra volta aos gramados: "Belíssimo, me sinto muito feliz"
-- NFL: Patriots perdem Drake Maye cedo, e Lions dão baile na Alemanha
-- Flamengo inaugura bustos de Arrascaeta e Bruno Henrique; veja fotos
-- Ronaldinho Gaúcho posta bastidores de retorno ao futebol; veja
-- Nova postura e bom ambiente: como Loide conquistou Pedro Emanuel e voltou a atuar pelo Vasco
-- Barba compara pressão sobre Atlético-MG e Boca Juniors antes de decisão: "Quem tem mais?"
-- Novorizontino supera gigantes e termina a Série B com o melhor ataque dos últimos 13 anos
-- NFL: Patriots perdem Drake Maye por lesão, e Lions atropelam na Alemanha
+- Infantino terá concorrência na eleição da Fifa de presidente da federação de futebol da França
+- Lukaku anuncia aposentadoria da seleção da Bélgica: "Vivenciei todas as emoções possíveis"
+- Com um a menos, Inglaterra segura pressão e encerra invencibilidade de 44 jogos da Espanha
+- França joga bem, vence a Turquia e se classifica em primeiro na Liga das Nações
+- A justa luz alta em Ancelotti
+- Criciúma terá treino aberto antes de enfrentar o Fortaleza pelos playoffs de acesso
+- Em dia de homenagens a Cristiano Ronaldo, Portugal é goleado em casa pela Dinamarca
+- Vini Jr. marca duas vezes, mas não evita derrota do Brasil para o Japão em jogo marcado por confusão no fim e expulsão de Ancelotti
+- Argentina perde amistoso contra o Uruguai no primeiro jogo após saída de Messi
+- Alemanha vence a Sérvia e fica viva na disputa para avançar na Nations
+- Treino do Corinthians: Garro inicia transição em campo, e Raniele trabalha com o grupo
+- Corinthians acerta contrato de licenciamento com site de leilões
 
 **r/soccer (top día)** (25)
-- Ronaldinho bizarre first touch in training
-- Portugal 0-[4] Denmark - Joachim Andersen 75'
-- [Record] Jorge Jesus: "Do I miss Ronaldo? Only to keep me company"
-- Pep Guardiola to reject any US approach to replace Mauricio Pochettino.
-- RKC's Yoram van der Veens wonder goal against FC Den Bosch
-- A fight breaks loose between Red Bull New York and Club America. Insane scenes for a friendly.
-- Pau Cubarsí on why his parents won't let him drive a luxury car at 19: "But my parents don’t like the idea of me being just 19 and driving a
-- Portugal have suffered their biggest defeat since 2002 at home today against Denmark (1-4)
-- Declan Rice: "My son is obsessed with Lamine. I told him I was going to play against him tomorrow, and he kept asking me: Why are you playin
-- Thomas Tuchel calls out the media after De la Fuente’s comment: "I was polite enough to [answer] a question from your colleagues, and you ru
+- England end Spain's 43 game unbeaten streak
+- Journalist from Kosovo presses Israeli team before their match to ask if it's fair that they get to play International football while commit
 - Jürgen Klopp speaks out against Infantino: “By now, there's a broad consensus that a change would make sense. People thought things couldn’t
-- Comunicaciones 0 - [1] Arsenal - Ezequiel Bacher (Great Own Goal) 4' - Argentina Primera B metropolitana promotion playoffs Quarterfinal (3r
+- Pau Cubarsí on why his parents won't let him drive a luxury car at 19: "But my parents don’t like the idea of me being just 19 and driving a
+- Romelu Lukaku announces Retirement from international Football
+- Lamine Yamal dive vs England 21'
+- James Trafford save against Spain 90+2'
+- Ronaldinho waving and saluting the fans after his first half tonight v Forlì
+- Yamals interception that led to the penalty and red card
+- Spain 0 - [3] England - Ben White 57'
+- Rayan Cherki stormed out of France’s dressing room after a falling out with Bradley Barcola on Thursday. Cherki and Barcola were spotted in 
+- Alternate view of KC Current’s Croix Bethune’s free kick vs Gotham
 
 Fallaron: ESPN (ParseError), Goal (HTTPError), Independent (ParseError), Football365 (HTTPError), Marca (HTTPError), Sport (HTTPError), Calciomercato (HTTPError), TN (HTTPError)
