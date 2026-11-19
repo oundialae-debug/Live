@@ -1,27 +1,23 @@
-# Alertas de noticias (2026-11-18 15:55 UTC)
+# Alertas de noticias (2026-11-19 15:59 UTC)
 
 Temas en >= 7 medios. La rutina diaria y cualquier sesión deben mirar esto ANTES de elegir tema (regla 6: la noticia que todos comentan va primero).
 
 ## Grandes SIN publicar en las últimas 48 h (hacer post si pasa el listón: nada repetido, foto del momento)
 
-- **Madrid** (13 medios): Echoes of Azteca but not like Argentina: fearless England start afresh in Madrid
-- **Manchester** (11 medios): Manchester won't always be blue - Pochettino
-- **Gabriel** (10 medios): Madrid-bound Gabriel posts farewell Man Utd message
-- **Mata** (9 medios): Former Spain midfielder Mata retires aged 38
-- **Chelsea** (9 medios): Liverpool lead Chelsea in Camara race - Wednesday's gossip
-- **Pochettino** (9 medios): Manchester won't always be blue - Pochettino
-- **England** (9 medios): FA wants to host Nations League finals in England
-- **Portugal** (8 medios): Bellamy convinced of Wales credentials despite defeat by Portugal
-- **Arsenal** (8 medios): Arsenal Double winner Storey dies aged 81
-- **Man** (8 medios): Rooney says he considered taking his own life at Man Utd
-- **Mauricio** (8 medios): Mauricio Pochettino to pay Man United bill from own pocket and make instant change as new manager arrives at C
-- **Liverpool** (7 medios): Liverpool lead Chelsea in Camara race - Wednesday's gossip
-- **Wales** (7 medios): Bellamy convinced of Wales credentials despite defeat by Portugal
-- **Ronaldo** (7 medios): Ronaldo, Maradona, Baggio - what happened to the World XI?
-- **Argentina** (7 medios): Reliving the drama: England and Argentina stars watch 1986 classic with fresh eyes
-- **Haaland** (7 medios): Erling Haaland sparks pandemonium as Norway book Nations League quarter-final spot after historic comeback
-- **Juan** (7 medios): Juan Mata retires aged 38: Premier League legend calls time on glittering career as Manchester United pay trib
-- **Messi** (7 medios): Top 10 best international goalscoring ratios featuring Haaland, Messi and Ronaldo
+- **Infantino** (13 medios): Will Infantino feel he's already won as Fifa challengers confirmed?
+- **Manchester** (12 medios): Hemp and Shaw star as Manchester City get vital win at Hacken
+- **Madrid** (12 medios): Euro latest: Tchouameni pens new deal at Real Madrid
+- **FIFA** (12 medios): FIFA confirms Infantino rivals for 2027 presidential election
+- **Pochettino** (11 medios): ‘An honour’: Pochettino up for challenge of leading Manchester United revival
+- **Liverpool** (11 medios): Assessing Iraola's Liverpool start
+- **Mauricio** (10 medios): Mauricio Pochettino’s USMNT time will be remembered fondly, but it wasn’t transformational
+- **Man** (9 medios): Culture, defence, Fernandes - Pochettino's priorities at Man Utd
+- **Kompany** (9 medios): 'I'm very healthy' - Kompany to return to dugout after health scare
+- **Chelsea** (9 medios): Buurman rescues late Chelsea win against PSG
+- **Arsenal** (9 medios): Man City vs Arsenal and Man Utd vs Liverpool live on Sky in January
+- **Messi** (8 medios): ⚽ Last time GTA was released: Peak Messi vs. Ronaldo, Moyes at Man Utd
+- **Utd** (7 medios): Culture, defence, Fernandes - Pochettino's priorities at Man Utd
+- **Gianni** (7 medios): Race for the Fifa presidency: lineup revealed to challenge Gianni Infantino
 
 ## Grandes ya cubiertas
 

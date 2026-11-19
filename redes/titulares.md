@@ -1,347 +1,361 @@
-# Titulares de fútbol (2026-11-18 15:55 UTC, últimas 36 h)
+# Titulares de fútbol (2026-11-19 15:59 UTC, últimas 36 h)
 
-Generado por `scripts/titulares.py` (workflow `tendencias`). Leídos 25 de 34 medios; fuentes en `redes/fuentes.md`.
+Generado por `scripts/titulares.py` (workflow `tendencias`). Leídos 26 de 34 medios; fuentes en `redes/fuentes.md`.
 
 ## Temas que salen en más medios (la noticia del día está arriba)
 
 | Tema | Nº medios | Medios | Ejemplo |
 |---|---|---|---|
-| Madrid | 13 | AS, Daily Mail, Foot Mercato, Football Italia, Google News ES, Guardian, L'Equip | Echoes of Azteca but not like Argentina: fearless England start afresh in Madrid |
-| Manchester | 11 | BBC, Daily Mail, Foot Mercato, FourFourTwo, Google News EN, Guardian, Infobae, L | Manchester won't always be blue - Pochettino |
-| Gabriel | 10 | BBC, Daily Mail, Foot Mercato, Guardian, L'Equipe, Mirror, Mundo Deportivo, Sky  | Madrid-bound Gabriel posts farewell Man Utd message |
-| Mata | 9 | BBC, Daily Mail, Foot Mercato, Google News AR, Google News EN, Google News ES, K | Former Spain midfielder Mata retires aged 38 |
-| Chelsea | 9 | BBC, Daily Mail, Football Italia, FourFourTwo, Google News EN, Mirror, Sky Sport | Liverpool lead Chelsea in Camara race - Wednesday's gossip |
-| Pochettino | 9 | BBC, Daily Mail, Foot Mercato, FourFourTwo, Google News EN, L'Equipe, Mirror, Ya | Manchester won't always be blue - Pochettino |
-| England | 9 | BBC, Daily Mail, FourFourTwo, Guardian, Mirror, Planet Football, Sky Sports, Yah | FA wants to host Nations League finals in England |
-| Portugal | 8 | BBC, Daily Mail, Foot Mercato, FourFourTwo, Infobae, L'Equipe, Mirror, Yahoo | Bellamy convinced of Wales credentials despite defeat by Portugal |
-| Arsenal | 8 | BBC, Daily Mail, FourFourTwo, Guardian, Mirror, Sky Sports, Yahoo, talkSPORT | Arsenal Double winner Storey dies aged 81 |
-| Man | 8 | BBC, Daily Mail, Google News EN, Mirror, Planet Football, Sky Sports, Yahoo, tal | Rooney says he considered taking his own life at Man Utd |
-| Mauricio | 8 | Daily Mail, Foot Mercato, FourFourTwo, Google News EN, L'Equipe, Mirror, Yahoo,  | Mauricio Pochettino to pay Man United bill from own pocket and make instant change as new manager arrives at C |
-| Liverpool | 7 | BBC, FourFourTwo, Infobae, Mirror, Sky Sports, Yahoo, talkSPORT | Liverpool lead Chelsea in Camara race - Wednesday's gossip |
-| Wales | 7 | BBC, Daily Mail, FourFourTwo, Guardian, Mirror, Yahoo, talkSPORT | Bellamy convinced of Wales credentials despite defeat by Portugal |
-| Ronaldo | 7 | BBC, Foot Mercato, Guardian, Infobae, L'Equipe, Ole, Planet Football | Ronaldo, Maradona, Baggio - what happened to the World XI? |
-| Argentina | 7 | Football Italia, FourFourTwo, Google News AR, Guardian, Infobae, Record, ge.glob | Reliving the drama: England and Argentina stars watch 1986 classic with fresh eyes |
-| Haaland | 7 | Google News AR, Google News ES, Infobae, Ole, Planet Football, Yahoo, talkSPORT | Erling Haaland sparks pandemonium as Norway book Nations League quarter-final spot after historic comeback |
-| Juan | 7 | AS, Daily Mail, Foot Mercato, Google News AR, Google News ES, L'Equipe, Mundo De | Juan Mata retires aged 38: Premier League legend calls time on glittering career as Manchester United pay trib |
-| Messi | 7 | AS, Foot Mercato, Infobae, Ole, Planet Football, Record, ge.globo | Top 10 best international goalscoring ratios featuring Haaland, Messi and Ronaldo |
-| Ireland | 6 | BBC, FourFourTwo, Google News EN, Guardian, Planet Football, Yahoo | Republic of Ireland talisman Parrott caps dream year with two more goals |
-| Utd | 6 | BBC, Google News EN, Mirror, Planet Football, Sky Sports, Yahoo | Rooney says he considered taking his own life at Man Utd |
-| Infantino | 6 | BBC, Foot Mercato, Google News ES, Guardian, L'Equipe, Mundo Deportivo | Will Infantino feel he's already won as Fifa challengers are revealed? |
-| Endrick | 6 | AS, Foot Mercato, Football Italia, Mundo Deportivo, Record, Yahoo | Endrick: &#8220;I hope to stay at Real, but Mou decides my minutes.&#8221; |
-| FIFA | 6 | AS, Foot Mercato, Google News AR, Google News ES, L'Equipe, Ole | Escándalo en África: otro plantón desafía a la FIFA |
-| Paz | 6 | Football Italia, Google News AR, Infobae, L'Equipe, Ole, ge.globo | Video: Como star Nico Paz scores his first brace for Argentina |
-| Scotland | 5 | BBC, Daily Mail, Guardian, Yahoo, talkSPORT | Almost impossible for Scotland to not qualify for Euro 2028... or is it? |
+| Infantino | 13 | BBC, ESPN, Foot Mercato, FourFourTwo, Google News EN, Google News ES, Guardian,  | Will Infantino feel he's already won as Fifa challengers confirmed? |
+| Manchester | 12 | BBC, Daily Mail, Foot Mercato, Football Italia, FourFourTwo, Google News EN, Gua | Hemp and Shaw star as Manchester City get vital win at Hacken |
+| Madrid | 12 | Daily Mail, ESPN, Foot Mercato, Infobae, L'Equipe, Mundo Deportivo, Planet Footb | Euro latest: Tchouameni pens new deal at Real Madrid |
+| FIFA | 12 | ESPN, Foot Mercato, Football Italia, FourFourTwo, Google News AR, Google News ES | FIFA confirms Infantino rivals for 2027 presidential election |
+| Pochettino | 11 | Daily Mail, ESPN, Foot Mercato, FourFourTwo, Google News EN, Guardian, Mirror, O | ‘An honour’: Pochettino up for challenge of leading Manchester United revival |
+| Liverpool | 11 | Daily Mail, ESPN, Foot Mercato, Football Italia, FourFourTwo, Google News EN, Mi | Assessing Iraola's Liverpool start |
+| Mauricio | 10 | Daily Mail, Foot Mercato, FourFourTwo, Google News EN, Guardian, Mirror, Ole, Pl | Mauricio Pochettino’s USMNT time will be remembered fondly, but it wasn’t transformational |
+| Man | 9 | BBC, Daily Mail, ESPN, Google News EN, Mirror, Planet Football, Sky Sports, Yaho | Culture, defence, Fernandes - Pochettino's priorities at Man Utd |
+| Kompany | 9 | BBC, Daily Mail, ESPN, Foot Mercato, Google News EN, L'Equipe, Mundo Deportivo,  | 'I'm very healthy' - Kompany to return to dugout after health scare |
+| Chelsea | 9 | BBC, Football Italia, FourFourTwo, Guardian, Mirror, Sky Sports, Yahoo, ge.globo | Buurman rescues late Chelsea win against PSG |
+| Arsenal | 9 | Daily Mail, FourFourTwo, Google News EN, L'Equipe, Mirror, Sky Sports, Yahoo, ge | Man City vs Arsenal and Man Utd vs Liverpool live on Sky in January |
+| Messi | 8 | ESPN, Foot Mercato, Football Italia, Google News AR, Google News ES, Infobae, L' | ⚽ Last time GTA was released: Peak Messi vs. Ronaldo, Moyes at Man Utd |
+| Utd | 7 | BBC, ESPN, Google News EN, Mirror, Planet Football, Sky Sports, Yahoo | Culture, defence, Fernandes - Pochettino's priorities at Man Utd |
+| Gianni | 7 | FourFourTwo, Google News EN, Guardian, Infobae, L'Equipe, Yahoo, talkSPORT | Race for the Fifa presidency: lineup revealed to challenge Gianni Infantino |
+| Mudryk | 6 | BBC, Daily Mail, Foot Mercato, Mirror, Ole, talkSPORT | Ukrainian FA to blame for failed drugs test - Mudryk |
+| Ronaldinho | 6 | ESPN, Foot Mercato, Google News AR, Google News ES, Infobae, ge.globo | Ravenna coach: Door 'wide open' for Ronaldinho to play again |
+| Bayern | 6 | Daily Mail, ESPN, Foot Mercato, Ole, Yahoo, ge.globo | Kompany in 'good health' as he returns to coach Bayern after collapse |
+| Championship | 5 | BBC, Google News EN, Guardian, Infobae, talkSPORT | Will this be the tightest Championship promotion race ever? |
+| Leicester | 5 | BBC, Daily Mail, FourFourTwo, Guardian, talkSPORT | Leicester split with sponsor after porn actress row |
+| Mata | 5 | BBC, Daily Mail, Google News ES, Kicker, L'Equipe | Former Spain midfielder Mata retires aged 38 |
+| Australia | 5 | AS, Google News AR, Infobae, Ole, Sky Sports | Athers: Cummins won't resign as Australia Test captain |
+| Fernandes | 4 | BBC, Foot Mercato, Yahoo, talkSPORT | Culture, defence, Fernandes - Pochettino's priorities at Man Utd |
+| Wales | 4 | BBC, Google News EN, Sky Sports, Yahoo | Five return for Wales' World Cup play-off final |
+| Fifa | 4 | BBC, Google News EN, Guardian, ge.globo | Will Infantino feel he's already won as Fifa challengers confirmed? |
+| Paz | 4 | AS, BBC, Football Italia, Infobae | Man Utd pursuing Como's Paz - Thursday's gossip |
 
 ## Titulares por medio
 
-**BBC** (33)
+**BBC** (32)
+- Culture, defence, Fernandes - Pochettino's priorities at Man Utd
+- How Premier League's big six keep getting richer
+- Premier League clubs to cover legal costs if Man City sponsors sue
+- The best European strikers this century - ranked by you
+- From Forest fringes to Glasner's go-to guy - the rise of McAtee
+- Vote for the first BBC Men's Footballer of the Year
+- 'I'm very healthy' - Kompany to return to dugout after health scare
+- Will this be the tightest Championship promotion race ever?
+- Five return for Wales' World Cup play-off final
+- Eight-year ban for player who threw rock that hit assistant referee
+- Will Infantino feel he's already won as Fifa challengers confirmed?
 - Joint-record six referee errors in last Premier League weekend
-- The 3pm football blackout: Outdated or still relevant in 2026?
-- Former Spain midfielder Mata retires aged 38
-- Toney loses bid to avoid Euro 2028 court clash
-- Record crowds, legends - Bordeaux bid to escape amateur game
-- From one of Ajax's future stars to quitting football for music
-- Israel row a 'defining moment for us' - Hallgrimsson
-- NI will carry momentum into Euro 2028 qualifiers
-- Liverpool lead Chelsea in Camara race - Wednesday's gossip
-- Bellamy convinced of Wales credentials despite defeat by Portugal
-- Republic of Ireland talisman Parrott caps dream year with two more goals
-- Who am I? Plus today's other quizzes
 
-**Guardian** (22)
+**Guardian** (19)
+- ‘Should Manchester United fans be hoping for relegation?’ Will Unwin answered your questions
+- Gonzalo García: ‘I love Craven Cottage – the fans can reach out and touch you’
+- Danny Kelly loved football and never forgot the absurdity of earning a living talking about it | Max Rushden
+- Race for the Fifa presidency: lineup revealed to challenge Gianni Infantino
+- Washington Spirit v Kansas City Current: where the NWSL Championship will be won and lost
+- Maine Road offer non-league haven to fans of scandal-hit Manchester City
+- Inside women’s football’s difficult rise in Syria: ‘A joy that everyone in the country needed’
+- Veerle Buurman scrambles late WCL winner to push blunt Chelsea past PSG
+- Leicester part ways with BC Game after sponsor’s partnership with porn actor
+- Manchester United’s infamous 1974 relegation is a warning from history
 - Netflix, Fox and the $2bn bid for the 2030 World Cup that could reshape live sports
-- ‘When I walked for Burberry I met Kanye West’: the two lives of Bromley footballer Omar Sowunmi
-- Overlap, underlap or sit back? How Premier League teams use their full-backs
-- Swing when you’re winning? Biggest leaps across Fifa’s football rankings | The Knowledge
-- Jack Grealish recalls a golden age of mavericks – but football has moved on
-- Fifa’s World Cup TV rights documents indicate hydration breaks will stay in 2030
-- Wayne Rooney says he contemplated taking own life during playing career
-- Nations League roundup: Devenny’s divine strike lifts Northern Ireland to top tier
-- Wiegman cites young talent as key to new England deal after calling up Goodwin
-- ‘The game is in danger’: PFA head Maheta Molango on Fifa, Infantino and football’s future
-- Janine van Wyk: ‘Our rooms were empty … no mattresses, no lightbulbs and not a drop of water’
-- Portugal’s new No 7 Forbs channels Ronaldo for winner as Wales are denied
+- Emma Hayes to assist in US Soccer hiring process for next USMNT coach
 
 **Sky Sports** (20)
-- Sober Glory storms to victory over Old Park Star on chase debut
-- WATCH: Sober Glory slams rivals on chase debut
-- Piastri to serve grid penalty at Las Vegas GP
-- South Africa Rugby condemns online abuse of officials after Erasmus ban
-- The damning footage that supports Bancroft's explosive new claims
-- Verhoeven to fight Wilder? 'He's always up for a big fight!'
-- Man Utd expected to back Poch in January transfer window
-- Arsenal willing to make sales to beat Chelsea and Liverpool to Scott signing
-- England cruise to ODI series win over Australia
-- 'Got some explaining to do!' - Nasser calls for Cummins' 'Sandpapergate' response
-- Bancroft blows open Sandpapergate with extraordinary statement
-- What does Arteta do with Konsa once Saliba returns?
+- Leeds latest: 'I’m a bit bored,' jokes Farke after Trafford frenzy
+- Man Utd announce financial results as revenue and wages rise
+- Nicholls breaks record for Jumps wins with Warwick triumph
+- Joseph retains place as England change nine for All Blacks and drop Pollock
+- Athers: Cummins won't resign as Australia Test captain
+- Palace latest: Frank adds two more to backroom team
+- Sheehan starts at No 8 for Ireland vs Springboks as Prendergast plays
+- Euro latest: Tchouameni pens new deal at Real Madrid
+- Harmer stars as South Africa beat Bangladesh
+- Shelton keeps semi-final hopes alive with win over Jodar
+- EFL latest: Swansea favourites set to join as interim coaches
+- Assessing Iraola's Liverpool start
 
-**talkSPORT** (40)
-- Next Swansea manager odds: Ex-Swans star favourite to replace departing Matos
-- Premier League panel review of Arsenal penalty sparks calls for ludicrous rule to be changed
-- Mauricio Pochettino to pay Man United bill from own pocket and make instant change as new manager arrives at Carrington
-- Mauricio Pochettino: Marcus Rashford named among three biggest winners from appointment
-- Where to watch Newcastle vs Arsenal as Premier League introduce new feature for clash
-- JJ Gabriel exit no different to £2.8million Liverpool sensation amid &#8216;horrendous&#8217; claims
-- Mark Cuban calls out Mauricio Pochettino for &#8216;wrong&#8217; US soccer relegation verdict
-- Ashley Williams handed first club coaching role by Championship side amid shock managerial exit
-- Ex-Man United star Jesse Lingard caught up in £367m crisis as Brazilian giants face bankruptcy fears
-- talkSPORT tips – Best football bets and expert advice for Thursday 19 November
-- England&#8217;s best and worst case scenario for route to Nations League glory
-- Pundit tells Mauricio Pochettino &#8216;Manchester is blue&#8217; to his face in last USA interview
+**ESPN** (23)
+- After a decade of near misses, Man United finally get their man in Pochettino
+- Barça's Deco keen for Liverpool to sign on-loan Araujo in $60M permanent deal
+- FIFA confirms Infantino rivals for 2027 presidential election
+- Ex-U.S. coach Arena: Federation doesn't 'have a clue' how to replace Poch
+- Pochettino: Man United players must relearn 'about being winners'
+- Ravenna coach: Door 'wide open' for Ronaldinho to play again
+- Courage striker Sanchez beats out Rodman, Wilson for NWSL MVP award
+- Kompany in 'good health' as he returns to coach Bayern after collapse
+- USWNT's Emma Hayes on role in USMNT coach search: 'Through a technical lens'
+- ⚽ Last time GTA was released: Peak Messi vs. Ronaldo, Moyes at Man Utd
+- World Cup 2030 Early Power Rankings: Spain still No. 1? No USMNT in top 15
+- Predicting the rest of the Premier League season: How all 20 teams will finish
 
-**Daily Mail** (36)
-- Straight to work! Grinning Mauricio Pochettino delights in starting 'amazing job' at Manchester United after touching down on private jet - 
-- Premier League identify FIVE key refereeing errors in one weekend as boss Howard Webb prepares to appear in front of clubs after Arsenal blu
-- Manchester United braced for legal fight with Real Madrid over JJ Gabriel: Insiders express concern for 16-year-old wonderkid's welfare amid
+**talkSPORT** (36)
+- Man United star up late playing GTA VI hours before Mauricio Pochettino calls for culture reset
+- Wimborne FA Cup hero Angel Diaz on trial with Premier League club
+- Man City rivals agree to fund Premier League fight which could cost billions
+- Man United told to move on from Bruno Fernandes contract decision as two transfer targets named
+- Man City v Fulham live commentary with incredible record on the line
+- £3.5bn finance giant targets Premier League clubs in new venture with deal already in place
+- Man United ready to take legal action over JJ Gabriel exit
+- Rob Edwards eyed up for Swansea job alongside sought-after Premier League assistant
+- Gianni Infantino facing two FIFA presidential rivals after botched $4.2bn deal
+- Next Swansea manager odds: Current Championship boss is new favourite to replace Matos
+- The five most underrated footballers ever with Roy Keane favourite
+- Mark Cuban makes decision on buying MLS franchise with $6.8bn fortune as relegation debate rages
+
+**Daily Mail** (35)
+- Are you sure, Avram? Man United post operating LOSS of £3m in new accounts - weeks after co-owner Glazer said club 'don't need success on th
+- Premier League clubs vote 18-2 in favour of protecting top-flight chiefs from legal action... if Man City's sponsors sue them for defamation
+- Arsenal's dynasty drive behind their raft of new contracts: Why stars are desperate to play for Mikel Arteta, the ultimatum he gives each of
+- Man United star Bryan Mbeumo stays up late to play GTA6 on morning of his new boss's first day at work: Athletes' performances to 'plummet' 
+- Mauricio Pochettino's culture reset: New Man United boss vows to shift losing mentality in his first interview - as he tells all on cheering
+- Inside Xabi Alonso's goalkeeping headache: Why Blues boss could go against the fans' view and pick volatile Emiliano Martinez over 21-year-o
+- Mykhailo Mudryk reveals he spent 'MILLIONS' on legal bills to fight doping charge as he blames his stint with Ukraine for two-year ban in te
+- Mauricio Pochettino's Man United rallying cry: New boss promises fans it will be a 'SPECIAL' season - despite club sitting in drop zone - as
+- Leicester City AXE controversial deal with unlicensed gambling company after sponsor sparked fan fury by appointing 'international porn star
 - 'He's creating a culture I've never seen before': Aston Villa star AMADOU ONANA reveals how Unai Emery influenced his new contract, his 'lon
-- Juan Mata retires aged 38: Premier League legend calls time on glittering career as Manchester United pay tribute to former star
-- Man City MUST stop the rot, old rivals Chelsea and Leeds set for Stamford Bridge blockbuster and Mauricio Pochettino's baptism of fire: SEVE
-- Man United Confidential: Mauricio Pochettino to be given money to spend in January as club target recruits in THREE positions - and surprise
-- Chelsea's Malo Gusto named 'biggest disappointment of the Zidane era'... and Liverpool's £123m man Bradley Barcola 'lacked accuracy and comp
-- Wayne Rooney reveals how two-day binge drinking sessions while at Man United left him considering suicide as he hit 'rock bottom' and risked
-- Premier League TV presenter reports WhatsApp 'impersonator' to the police after they contacted a string of sport superstars pretending to be
-- Tony Mowbray steps down as Blackburn Rovers manager with immediate effect due to health reasons - two years after bowel cancer battle forced
-- Man United's first woman on their backroom team, the fitness enforcer, a scorpion-kicking goalkeeper coach... and his son! Meet Mauricio Poc
+- Are you sure, Avram? Man United post operating LOSS of £3m in new accounts - weeks after co-owner Glazer said club 'don't need success on th
+- Premier League clubs vote 18-2 in favour of protecting top-flight chiefs from legal action... if Man City's sponsors sue them for defamation
 
 **Mirror** (25)
-- Ivan Toney fails in bid to avoid court case clashing with Euro 2028
-- Jurgen Klopp reveals he failed in transfer bid to bring Germany star to Liverpool
-- The true cost of being a football fan revealed as supporters fork out eye-watering costs
-- Mauricio Pochettino officially begins as Man Utd manager after gruelling flight
-- New documents reveal World Cup hydration breaks 'likely to stay in 2030' despite controversy
-- Oddball Gary Neville doesn't know what Grand Theft Auto is - and we love him for it
-- JJ Gabriel has gambled his bright future by forcing through messy exit from Man Utd
-- Man Utd training ground improvements could be derailed by BATS after complaint made
-- Arsenal learn of THIRD penalty VAR error as Premier League panel reach agreement
-- Man Utd 'ready to take legal action' after JJ Gabriel's two bombshell announcements
-- 25 criticisms of Mauricio Pochettino at Chelsea and how much Man Utd should really worry
-- Mauricio Pochettino changing three things at Man Utd right away after 'non-stop phone calls'
+- Premier League clubs reach agreement after Man City’s guilty verdict threat
+- Andoni Iraola gets triple Liverpool injury boost ahead of Man Utd showdown
+- Behind the scenes at Man Utd, Arsenal & Liverpool issues: Our best Mirror+ stories and how to get for £1 a month
+- Mykhailo Mudryk points finger of blame over failed drugs test that led to Chelsea ban
+- Omar Berrada makes transfer promise to Mauricio Pochettino as Man Utd confirm financial results
+- Premier League confirm next TV picks including Man Utd vs Liverpool and Merseyside derby
+- Mauricio Pochettino immediately confirms his top priority in first words as Man Utd boss
+- Premier League agree to relax rule ahead of Mauricio Pochettino's first Man Utd match
+- Wayne Rooney made Man Utd keep Kai promise that could see him released before senior debut
+- Barcelona chief officially gives green light for Liverpool to complete £47m transfer
+- Man Utd dressing room's first Mauricio Pochettino impression after private talks
+- Man City owner dealt $2bn blow as new Premier League charges twist emerges
 
 **Telegraph** (0)
 
 **90min** (0)
 
 **Planet Football** (10)
-- Can you name every player nominated for the 2010 Ballon d’Or award?
-- International Winners & Losers: Trafford, Wirtz, Haaland’s Norway, Northern Ireland, Anderson, Cubarsi…
-- Can you name all 11 clubs that Robbie Keane played for?
-- Can you name the top 10 Premier League appearance makers from Denmark?
-- Top 10 best international goalscoring ratios featuring Haaland, Messi and Ronaldo
-- Can you name every Scandinavian to have played for Man Utd?
-- Remembering the night Eden Hazard scored a hungover hat-trick
-- 17 big-name footballers who have retired in 2026: Berahino, Podolski, Costa…
-- The top 10 goalscorers worldwide in 2026: Harry Kane 3rd but outscored by forgotten England man
-- Can you name every player to score 60+ international goals?
+- Ranking 7 possible next jobs for Eddie Howe after Man Utd snub
+- Superb XI of players out of contract in 2027: Decision time for these stars…
+- The 9 players with a €1billion release clause: Yamal, Mbappe, Vinicius…
+- Ranking all 27 signings Tottenham made under Mauricio Pochettino
+- Man Utd manager debuts ranked since Sir Alex Ferguson: Pochettino next
+- Can you name the top 25 penalty goalscorers in Premier League history?
+- Can you name the Premier League goalkeepers with the most penalty saves?
+- Can you name Barcelona’s Xl from their iconic 3-0 away win v Real Madrid in 2005?
+- The top 10 currently active players with the most goals in Europe’s top five leagues
+- Can you name the top three of every Ballon d’Or award of the 2000s?
 
-**FourFourTwo** (27)
+**FourFourTwo** (20)
+- Manchester City dealt £1.5bn blow over Premier League charges: report
+- Who are the two men running against Gianni Infantino in FIFA president election?
+- Manchester United’s fitness levels are like that of a Sunday league team - no wonder they appointed Mauricio Pochettino
+- Leicester City drop sponsor following row over Russian adult actor
+- Arsenal in shock Alex Scott move - with sales needed for transfer: report
+- "It's a lot of pressure being the Premier League’s youngest ever player...I have sympathy for Harvey Elliot"
+- Quiz! Who wore these England shirts?
+- Why Dominik Szoboszlai and Ryan Gravenberch face a fight for their Liverpool futures under Andoni Iraola
+- Quickfire Quiz 249: Can you answer 10 questions in 90 seconds?
+- ‘It’s that Glaswegian way’: Leon Osman explains why David Moyes was the ultimate fit for Everton
 - Surprise Manchester United star's exit set to be first transfer of the Mauricio Pochettino era: report
 - Manchester United approached forgotten Chelsea player as manager - and it wasn't Cesc Fabregas: report
-- Manchester United dressing room remains worryingly fragile - why Mauricio Pochettino has a huge job on his hands
-- Arsenal to make 'unpopular decisions' over contract renewal situation: report
-- New Sealand: The former naval fort once had a national team managed by Julian Dicks, now they're relaunching...
-- Revealed: The unknown holding midfielder Liverpool NEED to sign in January
-- Willian: "I had a great contract at Arsenal but the money wasn’t enough - I really wasn’t happy"
-- Quiz! Can you name the top international goalscorers to have played at the World Cup?
-- The last golden era of the Premier League is long gone: Why 2004-16 was the best of the Barclays
-- Quickfire Quiz 248: Can you answer 10 questions in 90 seconds?
-- How to watch Argentina vs Costa Rica: live stream international friendly for FREE
-- Watch Republic of Ireland vs Kosovo: Free streams & TV info
 
 **Yahoo** (40)
-- &#39;We are not robots&#39;: Mauricio Pochettino&#39;s emotional USMNT goodbye was anything but business as usual
-- Mauricio Pochettino says Manchester United job &quot;a big challenge&quot; after win in final USMNT game
-- Mauricio Pochettino&#39;s USMNT tenure ends with one final win and a promising future for those left behind
-- Christian Pulisic sinks wild bicycle-kick goal early in win over Haiti in Mauricio Pochettino&#39;s final match with the USMNT
-- Belief and bench help NI scale new heights
-- Ballymena thrash Dundela to reach ToalsBet Shield final
-- Talisman Parrott caps dream year with two more goals
-- &#39;We&#39;re stronger and getting better&#39; - NI captain Hume
-- Senegal and Morocco lead Afcon qualifiers but Tunisia protest
-- Liverpool lead Chelsea in Camara race - Wednesday&#39;s gossip
-- How does Euro 2028 qualifying work? Confirmed pots, format, and rules for co-hosts
-- When is the Nations League draw and who could England play in quarter-finals?
+- Culture, defence, Fernandes - Pochettino&#39;s priorities at Man Utd
+- OGC Nice&#8217;s Mohamed Abdelmonem ruled out of PSG clash
+- Barcelona wary of Villarreal threat after three defeats in last five home meetings
+- 🔥 Milan-McTominay, 3 Inter swoops 💣 Roma-Van Bommel: today&#39;s news
+- Zola assesses Italy after Belgium defeat: ‘Two or three players make the difference’
+- Vincent Kompany confirms he made &#8216;zero decisions&#8217; during Aaron Danks&#8217; tenure in charge of Bayern Munich
+- Parkinson cautious on Wrexham trio injury return
+- Mauricio Pochettino: I was cheering for Man Utd at the 1999 Champions League final
+- Liverpool vs Manchester United predicted lineups, possible XI&#39;s for huge rivalry clash
+- Vincent Kompany reflects on health scare: &#8220;Perhaps I didn&#8217;t listen to my body enough.&#8221;
+- Premier League Clubs Side With Richard Masters and Directors Over Man City Sponsors&#39; Legal Threat - One Club Supports City
+- 2 Arsenal matches rescheduled for TV
 
 **Google News EN** (40)
-- Football Scores & Fixtures
-- Jack Grealish recalls a golden age of mavericks – but football has moved on
-- Why have Man Utd only had two successful managers?
-- Scores & Fixtures - Football
-- Former Spain midfielder Mata retires aged 38
-- The 3pm football blackout: Outdated or still relevant in 2026?
-- Dundee boss Steven Pressley calls for national centre to enhance Scottish game
-- Nations League: Israel saga a 'defining moment for us' - Republic of Ireland boss Hallgrimsson
-- Bournemouth news: Eli Junior Kroupi and Rayan shine on international stage
-- Man Utd boss Mauricio Pochettino says Manchester won't always be blue
-- Peterborough United: Robbie Savage shared 'home truths' during Luton loss
-- Ashley Williams set to join temporary Swansea City coaching staff
+- Danny Kelly loved football and never forgot the absurdity of earning a living talking about it | Max Rushden
+- UEFA Youth League Third Round Tickets On Sale Now!
+- Will this be the tightest Championship promotion race ever?
+- Fraudster claimed Sunday league football club had almost £250,000 turnover to secure maximum Covid loan
+- Football Association of Wales launches Together Greener
+- How to Watch and Follow the EFL this weekend
+- Dummigan Contract Extension
+- Manchester Utd latest: Will Michael Carrick make a return to management?
+- The Story of Wolves | Wartime football (Part 3) | Features | Latest News
+- Gaming and football come together in Umbro x G2 collab
+- Football’s political gamers face off with the Fifa final boss
+- BBC Men's Footballer of the Year 2026: Cast your vote
 
 **AS** (25)
-- De niño a ‘fuoriclasse’
-- Hay caso Endrick
-- El nuevo Huijsen
-- Así quedan los cuartos de la Nations League: selecciones clasificadas, posibles rivales de España y cuándo se juegan
+- Tchouameni, renovado hasta 2032
+- Golpe futbolístico en París
+- Sloga Meridian: la colonia española en Bosnia
+- Argentina - Australia, en directo: Mundial Sub-17, hoy en vivo
+- Destiny Kosiso, el diamante que empieza a brillar en La Masia
+- La semana más difícil de Flick
+- ¿Y esto? La ‘españolofobia’ de este periodista argentino por Nico Paz: ataque totalmente gratuito
+- JJ Gabriel, tic, tac
 - Mercado de fichajes, en directo: rumores, altas y bajas de LaLiga, Premier, Serie A...
-- Pillan infraganti a un periodista en rueda de prensa y los memes en redes no han tardado en llegar
-- “Mateu Alemany a veces es capaz de renunciar a su propio criterio para ayudar a la armonía”
-- Dos Messis tras Messi
-- Vuelve Aubameyang; Casadó y Giménez, los dilemas
-- El Mallorca estudia los avales de Rufete
-- Escándalo en África: otro plantón desafía a la FIFA
-- Momento Abel Ruiz
+- La IA da al Betis más favoritismo que nunca en el derbi
+- El Málaga y la trampa de los fichajes para escapar del descenso
+- Esperando a Valverde
 
 **Mundo Deportivo** (40)
-- El Manchester United no descarta acciones legales por JJ Gabriel
-- "No es Juan Mata, es James Bond"
-- La última hora de Kompany
-- Detenida bajo sospecha de lavado de dinero y asociación con el narcotráfico
-- Sevilla y Betis piden un derbi de convivencia
-- Problemas para Aguirre de cara a Vallecas
-- 'Acrobática' foto oficial de la plantilla del Atlético
-- Buenas noticias para el colista
-- Confianza total de Pere Romeu pese a los dos empates: "Volveremos a ir a por todo"
-- La curiosa reacción de Mbappé a la renovación de Arda Güler
-- El futuro de Endrick, en manos de Mourinho
-- Matthäus pone el freno de mano tras el 'baile' de Alemania a Países Bajos
+- Juan Miranda: el excanterano azulgrana que maravilla en la Serie A
+- El Atlético quiere que la experiencia del Metropolitano se alargue más allá del partido
+- Louzán elude valorar un posible regreso de Rubiales a la Federación
+- Oscar Valentín, baja segura frente al Valencia, y Álvaro García y Jozhua dudas
+- El Granada pondrá a prueba la identidad del Sabadell
+- Ceballos, con muy pocas opciones de ser titular en el derbi
+- El Racing, sin varios pilares antes del duelo contra la Real Sociedad
+- Terzic busca un Athletic polifacético
+- El mensaje de Tchouaméni tras su renovación con el Real Madrid
+- El Coliseum, donde Bordalás logró su única victoria ante el Cholo
+- El fútbol asiático reconoce a Kang-in Lee con uno de los galardones más importantes
+- Sato, premiado en Asia y pendiente de su futuro en Valencia
 
 **Google News ES** (40)
-- El fútbol europeo se reúne en Bruselas en el Foro de Fútbol de la UEC tras la histórica denuncia ante la Comisión Europea para reclamar una 
-- Bajo el sol de otoño
-- Juan Mata se retira del fútbol profesional
-- Luis Rubiales ya puede ejercer cargos en el fútbol y tantea promover una moción de censura contra Rafael Louzán
-- El alcalde visita el campo de fútbol de Patrocinio, que próximamente estrenará nuevo césped artificial
-- ‍‍‍ ✨$!*[Fútbol] Nitto ATP Finals 2026 En Vivo Online transmisión Ver>>>08
-- Inscríbete en la jornada 'Actualización y reciclaje' para entrenadores de futsal
-- Juan Mata anuncia su retirada del fútbol a los 38 años: "A veces, amar... es dejar ir"
-- Kylian Mbappé sorprende con su reacción a la renovación de Arda Güler con el Real Madrid: "Gracias, dormiré mejor esta noche"
-- La Federación Riojana de Fútbol renueva su apuesta por la salud mental
-- 300 partidos de historia txuri urdin
-- Juan Mata se retira: “A veces amar es dejar ir... Gracias fútbol”
+- Rueda participa en la recepción de la Copa del Mundo de Fútbol 2026 y en la ofrenda del trofeo al Apóstol Santiago
+- Una historia de fútbol, identidad y diversidad llega a Sala BBK con All Iron
+- Éver Banega anuncia su retirada del fútbol y asegura que ni siquiera Leo Messi le haría cambiar de opinión: "Ya está decidido que no"
+- Albert Celades: "Hemos jugado como equipo"
+- El Burgos CF, presente en Bruselas en el Foro de Fútbol de la UEC tras la histórica denuncia ante la Comisión Europea para reclamar una voz 
+- León nos mueve» pone el foco en la preparación física del fútbol femenino
+- Cuenta atrás para Reala Comedy
+- Fútbol: Sonia Bermúdez, en directo | Rueda de prensa
+- Agenda deportiva del fin de semana
+- “Era más feliz en la cárcel que ganando millones de euros con el fútbol”
+- Tomelloso recupera 46 años de historia del fútbol sala
+- Cosas de Fútbol (Semana del 12 al 19 de noviembre)
 
 **Gazzetta** (0)
 
 **Football Italia** (20)
-- Football Italia Show: ‘Italy has 60 million coaches’ – We met the two best
-- Napoli sign agreement to purchase land for new state-of-the-art training centre
-- How much Napoli would save by selling De Bruyne in January
-- Conte vs. Spalletti: The financial gap behind Napoli’s success
-- Raimondo: Frosinone stars reveals where he must improve to earn Italy call-up
-- Ex-Napoli striker takes aim at Allegri over Hojlund with cryptic social media post
-- Video: Como star Nico Paz scores his first brace for Argentina
-- Video: Milan star Pulisic scores bicycle-kick goal in Pochettino’s final game as USMNT coach
-- Endrick sends warning to Milan and Roma with Real Madrid transfer claim
-- Milan ready to open talks for Tresoldi January transfer
-- Today’s Papers – Tresoldi ready to join Milan, Kean’s nightmare
-- Como consider new striker after Kean injury problem
+- Zola assesses Italy after Belgium defeat: ‘Two or three players make the difference’
+- Have your say: Should Juventus bring back Conte?
+- Conte explains why he joined and left Inter: ‘Any player could be sold in the summer’
+- Juventus considering January loan for Hojbjerg as McKennie rumours continue
+- Positive Maignan update for Milan ahead of Frosinone test
+- Report: Roma in contact with Chelsea over Gittens deal and hope for Malen assist
+- Dibu Martinez backs Nico Paz to become Argentina’s next No.10 after Messi
+- Napoli set asking price for De Bruyne following €2m PSV offer
+- Report Milan dream of signing McTominay thanks to new kit deal
+- Why Juventus have not called Conte as Carnevali’s main candidate named
+- Inter eye deal for Lazio defender following Stones struggles
+- Tottenham enquire about Serie A top-scorer Varela as Liverpool send scouts
 
 **Kicker** (20)
-- Sander: "Kein Trainer der Welt sagt das"
-- Stellt sich jetzt auch der Nordosten gegen das Kompassmodell?
-- Kniats Änderungen: Kleine Details, große Wirkung?
-- Vier Frauen, zehn Männer: Die Trainer der Frauen-Bundesliga 2026/27
-- Popps Kritik gen Wolfsburg: "Gefühlt eine Liga Unterschied" zu Bayern
-- Müller und Hummels als Investoren: Die Mission von Estrela Amadora
-- Köln-Coach Wagner zu Toppmöller-Gerüchten: "Da spüre ich gar nichts"
-- Comeback rückt näher: Kompany nimmt wieder an Pressekonferenz teil
-- Kahlschlag geht weiter: 96 trennt sich auch von Paul Wagner
-- Frankfurt bestätigt: Chatzialexiou beginnt bereits in zwei Wochen
-- Torgefährlich in beide Richtungen: Kann Le Joncour Pinckert ersetzen?
-- "Trage eine noch größere Verantwortung": Real verlängert vorzeitig mit Arda Güler
+- Abseitsregel wird wohl nicht revolutioniert
+- Hiobsbotschaft für Kiel: Kapralik fällt bis Jahresende aus
+- Klopp-Team als Vorbild: Diese Eigenschaft will Lustrinelli Union verleihen
+- Kettemann wird wegen Michel deutlich: "Nicht gut, dass er das nach außen sagt"
+- Nicolas oder Batz? Blessin pokert im Gladbach-Tor
+- Stiller in aller Munde - nicht nur in positivem Sinne
+- Hoeneß adelt Stiller: "Der Erfolg ist sehr eng mit seinem Namen verbunden"
+- Beschwerdebrief: Europäer erhöhen den Druck im FIFA-Machtkampf
+- Demichelis' mahnende Worte an Gruda
+- Fürths Exklusivpartnerschaft endet nach mehr als 30 Jahren
+- Bei Zieler deutet sich ein Verbleib beim 1. FC Köln an
+- Vor Borussen-Duell: Drei Fragezeichen beim BVB
 
 **L'Equipe** (40)
-- À nouveau éligible pour occuper des fonctions, Luis Rubiales envisagerait une motion de censure contre le président de la Fédération espagno
-- Valérien Ismaël, nouvel entraîneur du Havre, dernier de Ligue 1 après dix journées : « Il reste 72 points à prendre, tout est jouable ! »
-- Bundesliga : Kompany de retour sur le banc du Bayern Munich face à Cologne ?
-- Laurent Bonadei sur Philippe Diallo, candidat à la présidence de la FIFA : « Pour la France de manière générale, c'est une très bonne chose 
-- Laurent Bonadei sur la programmation lors du rassemblement des Bleues : « Pour éviter de surcharger les organismes, on a renoncé à un autre 
-- «Prends tes affaires et pars» : Ancelotti contesté par tout un pays
-- La liste des Bleues sans Melvine Malard, première pour Liana Joseph
-- Ben Yedder, un retour et des questions
-- Les pauses fraîcheurs maintenues lors de la Coupe du monde 2030 ?
-- Diallo et Infantino, deux opposants qui se ressemblent tant
-- Rosenior, O'Neil, Oliveira, Matos... Strasbourg et ses entraîneurs, une valse qui commence à coûter cher
-- Jean-Michel Aulas salue le choix « courageux » de Philippe Diallo de candidater à la présidence de la FIFA
+- Arsenal-OL Lyonnes, des retrouvailles XXL entre mastodontes
+- Le résumé de France - Haïti
+- La Fédération anglaise a envisagé de contester l'éligibilité de Gianni Infantino pour un quatrième mandat à la tête de la FIFA avant de se r
+- Max Eberl : «Ce sont les expériences qu'on traverse qui nous façonnent»
+- Didier Digard sur son arrivée comme entraîneur du RC Lens : « Le plus important, c'est ce que pensent le club et les gens à l'intérieur »
+- Neuf ans et demi après sa retraite : Benoît Trémoulinas a repris l'entraînement avec les Girondins de Bordeaux en R1
+- L'entraîneur de Valenciennes David Le Frapper hospitalisé d'urgence et absent plusieurs semaines
+- L'AJ Auxerre ira à Monaco en Ligue 1 sans Danny Namaso, blessé à une cheville
+- Tashima, candidat à la présidence, «souhaite avoir une discussion avec Diallo»
+- Ligue 1 : Clinton Mata forfait avec l'OL pour le déplacement à Lille
+- Ismaëlo Ganiou et Abdallah Sima ont repris l'entraînement collectif avec le RC Lens
+- « Une très grande fierté » : Axel Witsel raconte l'hommage qu'il a reçu en Belgique après avoir mis un terme à sa carrière internationale
 
 **Foot Mercato** (40)
-- Argentine : Lionel Messi entre en guerre contre sa Fédération
-- Nice refuse de se séparer de son aigle Mèfi
-- Le nouveau classement FIFA avec la percée du Maroc
-- OL : Michael Gerlinger ouvre la porte à des arrivées au mercato hivernal
-- Le CIES dévoile les gardiens les plus chers du monde
-- Portugal : scène polémique entre Bruno Fernandes et João Cancelo à propos de CR7
-- Jude Bellingham impose 2 grosses conditions au Real Madrid pour prolonger
-- Le message d’adieu de JJ Gabriel à MU fait scandale en Espagne
-- Un cadre de Mauricio Pochettino veut déjà le rejoindre à Manchester United
-- Real Madrid : Antonio Rüdiger refuse de demander à Kylian Mbappé de défendre
-- Le Real Madrid commence à réfléchir à un prix de vente de Vinicius Junior
-- Le Mans : accord pour la prolongation d’Adil Bourabaa
+- Le Havre, Valérien Ismaël : « il reste 72 points, donc tout est faisable »
+- Liverpool : Virgil van Dijk et Alisson ont tranché pour leur futur
+- Coupe du Monde 2030 : les pauses fraîcheur pourraient être maintenues par la FIFA
+- Ligue 1 : les 15 joueurs libres l’été prochain qui vont dynamiter le mercato
+- Coupe du Monde U17 : les Bleuets dominent Haïti pour leur entrée en lice
+- Le Real Madrid va payer beaucoup plus cher que prévu pour recruter JJ Gabriel
+- Mercato : Kevin de Bruyne est disponible à prix cadeau !
+- Carles Puyol fait son retour dans le football
+- Un organisme financier refuse un prêt de 2 milliards à Manchester City en raison de ses infractions
+- Paris FC : Pierre Lees-Melou sur le point d’être disponible pour 0€
+- Didier Digard explique pourquoi le RC Lens l’a choisi
+- Santos : Neymar insulte les supporters de Coritiba
 
 **Record** (20)
-- <![CDATA[ Trubin e o objetivo que o motiva "a seguir em frente": «Cada convocatória é uma história especial» ]]>
-- <![CDATA[ A liga das confusões ]]>
-- <![CDATA[ FC Porto promove inclusão social no México em parceria com o Alto Comissariado das Nações Unidas para os Refugiados ]]>
-- <![CDATA[ Pai de Carlos Forbs esteve em Cardiff: «Não sentiu um peso especial por jogar com a camisola 7» ]]>
-- <![CDATA[ Altimira conta tudo: do "privilégio" de capitanear o Sporting ao impacto de Paulo Fonseca ]]>
-- <![CDATA[ Ex-Sp. Braga e Famalicão é presa por suspeita de lavagem de dinheiro e tráfico de droga ]]>
-- <![CDATA[ Já saíram as primeiras críticas a GTA VI. E o veredito é: "obra-prima" ]]>
-- <![CDATA[ Alcaraz despacha Medvedev nas ATP Finals e está a um passo das meias-finais ]]>
-- <![CDATA[ Unum entrega versão final de ‘O Apito e a Confiança’ com duas novas medidas propostas pelos sócios ]]>
-- <![CDATA[ Aliança ibérica abre competições espanholas a atletas portugueses de desportos de gelo ]]>
-- <![CDATA[ José Mourinho e as lesões do Real Madrid com Bernardo Silva à mistura: «Nunca estou preocupado» ]]>
-- <![CDATA[ Endrick é o mistério de mercado do Real Madrid em janeiro: Mourinho quer porta fechada ]]>
+- <![CDATA[ Há uma nova variante da Covid-19 em circulação e já chegou à Europa ]]>
+- <![CDATA[ O preço do petróleo desce e os bilhetes de avião não? Camilo Lourenço explica fenómeno ]]>
+- <![CDATA[ Sporting saúda novos internacionais: Zekri, Blopa e Mauro Couto distinguidos na Academia ]]>
+- <![CDATA[ Benfica avalia Jonathan Jesus e Arthur Dias para a defesa ]]>
+- <![CDATA[ Norte-americana King Street abre comércio de projeto de 300 milhões ao lado do estádio do Sporting ]]>
+- <![CDATA[ Todos a bordo rumo à Taça de Portugal: Paulo Fonseca recebeu quatro reforços no treino matinal ]]>
+- <![CDATA[ Governo da Madeira defende viabilidade económica de campo de golfe na Ponta do Pargo ]]>
+- <![CDATA[ Empresa paga até 123 mil euros para jogar GTA VI: candidato escolhido tem de cumprir estes requisitos ]]>
+- <![CDATA[ OnlyFans tornou-se numa plataforma de comunicação de atletas. E nem todos se despem ]]>
+- <![CDATA[ Henrique Silva feliz com renovação: «É um sinal de confiança para continuar a crescer» ]]>
+- <![CDATA[ Árbitros da AF Lisboa exigem reunião com caráter de urgência devido a violência, ameaças e intimidação ]]>
+- <![CDATA[ 'The Athletic' avança que ainda pode haver jogo de despedida de Cristiano Ronaldo ]]>
 
 **Ole** (10)
-- Eliminatorias Sudamericanas: ¿se viene un formato al estilo Nations League de Europa?
-- Con Delgado en la lista, los citados de Boca para ir por la Copa Sudamericana
-- La cocina del amistoso entre River e Inter Miami: la negociación previa a la despedida de Messi y la respuesta casi inmediata
-- Video: el patadón de un jugador de Defensa que genera preocupación en Colombia
-- Los Lakers de Doncic no paran: remontada épica y el jugador que hizo historia alcanzando un récord de Kobe Bryant
-- Haaland, imparable con Noruega: los números en los que supera ampliamente a Messi y Cristiano Ronaldo
-- Gallardo lo bancó y volvió a jugar: Kendry Páez estrenó el número de Enner Valencia en Ecuador
-- Furor por Nico Paz: de la ovación de los hinchas, a la ilusión de Scaloni y los elogios de sus compañeros
-- Gritos del futuro: la Scaloneta igualó la máxima goleada del ciclo sin Messi ni Lautaro
-- Forlán, luego de cerrar una fecha FIFA positiva con Uruguay: "Es más de lo que me hubiera imaginado"
+- Selección Argentina Sub 17 vs. Australia, hoy EN VIVO por el Mundial: formación confirmada, horario y por dónde ver
+- Mauricio Pochettino y su principal desafío en el Manchester United: "Estamos acá para llevar al club al lugar en el que merece estar".
+- La UEFA cuestionó a la FIFA por la falta de respuestas sobre el proyecto de Infantino
+- El susto de Kompany y su regreso al Bayern Munich: "No escuché a mi cuerpo"
+- "Pensé en suicidarme": la cruda revelación de Mudryk sobre su sanción por doping
+- Passarella, a juicio oral tras su gestión como presidente de River: qué dice la causa y la pena que podría recibir
+- Conmebol cayó al hotel de Boca para un control antidoping: los motivos
+- Chicho Serna: "Paredes es el mejor de Argentina" y la advertencia para Domínguez
+- Paredes y gambetas: las claves de Boca para llegar a la final de la Sudamericana
+- Cristian Pavón vuelve al radar de Racing: la situación en Gremio que facilitaría su llegada libre
 
 **Infobae** (40)
-- Tiger Woods vuelve al golf profesional más de ocho meses después de su arresto por conducir bajo los efectos de sustancias
-- La respuesta desde la AFA tras la baja concurrencia en los dos partidos de la selección argentina luego del retiro de Messi
-- Diez puestos atrás: la sanción que deberá cumplir Oscar Piastri en el Gran Premio de Las Vegas de Fórmula 1
-- El gesto de dos estrellas de Portugal tras el retiro de Cristiano Ronaldo que abrió la polémica: “¡Graben al jefe!”
-- Su asiento en la F1 estaba en duda, pero sumó puntos en 15 carreras y fue confirmado para la próxima temporada: “Le ganó él solo a Alpine”
-- Billie Jean King Cup: Argentina inició los entrenamientos en Tokio y Paola Suárez compartió sus sensaciones
-- El nuevo título que disputarán las selecciones de Conmebol: el formato al estilo “Nations League” de cara al Mundial 2030
-- El ICE detuvo en Texas a Jorge Linares, tricampeón mundial de boxeo
-- El gesto de Giay con la pequeña hija de una famosa cantante antes del partido de Argentina y la reacción de la artista
-- El particular video de despedida del Manchester United de una joya de 16 años que no jugó ni un minuto y se marchó del club en conflicto
-- El retiro espiritual junto a una tribu amazónica de una estrella del deporte argentino: “No tengan miedo a explorarse”
-- La impactante rutina en el gimnasio de Antonela Roccuzzo mientras Messi se pone a punto para jugar con el Inter Miami
+- “Es tan lento que es casi peligroso”: alerta en la Fórmula 1 por la frase de un piloto sobre su coche antes del Gran Premio de Las Vegas
+- Franco Colapinto afrontará las primeras prácticas del Gran Premio de Las Vegas nocturno de Fórmula 1: hora, TV y todo lo que hay que saber
+- La frase de Juan Sebastián Verón sobre Nico Paz: “Ciertas cosas solo se las vi hacer a Messi y Maradona”
+- Un asistente de Lionel Scaloni compartió el mapa con los 74 futbolistas en la órbita de la selección argentina
+- Histórica sanción a un futbolista en Ecuador que le tiró un piedrazo a un árbitro y le provocó una grave lesión en el rostro
+- Los Pumas confirmaron siete cambios para enfrentar a Francia por el Nations Championship
+- La barra del Atlético Mineiro increpó al arquero del equipo antes de la final de la Sudamericana contra Boca: “Jueguen como hombres”
+- Estalló la polémica en la Fórmula 1 por la única butaca que sigue sin dueño para 2027: “Estoy decepcionado de estar sin contrato”
+- El drástico cambio de imagen de Miami Heat en el partido de NBA por el lanzamiento de GTA VI
+- El tenso cruce entre Luka Doncic y un árbitro en el partido de los Lakers que dio que hablar en la NBA: “¿Qué dijiste?”
+- Con Gianni Infantino entre los candidatos, se dieron a conocer los tres postulantes a la presidencia de FIFA
+- La selección argentina debutará en el Mundial Sub 17 ante Australia: hora, TV y todo lo que tenés que saber
 
 **Google News AR** (40)
-- Mercado Libre fortalece su apuesta por el fútbol sudamericano: renueva el patrocinio con CONMEBOL hasta 2030
-- Éver Banega anunció su retiro del fútbol
-- Juegan al fútbol juntos desde muy chicos y salieron campeones en Mendoza
-- El ‘método Llorente’ crece en el fútbol de élite: Luis Milla, Ibai Gómez, Haaland o Deulofeu ya aplican sus rutinas extremas
-- Denuncian a clubes, empresas de apuestas y funcionarios porteños por la publicidad del juego online en el fútbol
-- A 75 años del primer partido televisado en el fútbol argentino
-- A 75 años del primer partido televisado del fútbol argentino: el gol inaugural y un camarógrafo improvisado
-- Fútbol femenino: Villa María albergará desde mañana al Provincial de Clubes
-- Partidos de fútbol de hoy, miércoles 18 de noviembre: horario y cómo ver por TV y online :: Olé - ole.com.ar
-- Se picó en el picadito: un gresca en una cancha de Fútbol 5 terminó con un policía a los tiros
-- Fútbol y motores en el Kempes: Córdoba palpitó el regreso del WRC en el partido de la Selección
-- Juan Mata anunció su retiro del fútbol a los 38 años: «A veces, amar es dejar ir»
+- Leandro Paredes, el eslabón perdido que hizo evolucionar el fútbol de Boca Juniors
+- ¡Vamos a alentar a Los Pioneros al Gigante!
+- FINDE DEPORTIVO EN SAN RAFAEL: FÚTBOL, HOCKEY, RECREO, MARATÓN Y MÁS
+- Nuevo escándalo en el fútbol africano: Argelia abandonó la cancha ante España en el Mundial de amputados y se expone a un duro castigo
+- Los partidos de hoy miércoles 18 de noviembre: horario y dónde ver
+- ELEVA abre su segunda edición buscando "consolidar un fútbol femenino fuerte, reconocido y preparado"
+- José María Muscari volvió a jugar al fútbol después de 40 años y definió el partido: el video junto al elenco de “Sex”
+- La Clínica de Fútbol MR tendrá su cuarta edición
+- Fútbol libre de riesgo, EN VIVO: dónde ver Argentina Sub 17 vs. Australia, por TV y ONLINE
+- Cassano comparó a Ronaldinho con Messi y Maradona pero destrozó su regreso al fútbol :: Olé - ole.com.ar
+- El hermano de "Uvita" Fernández volverá a jugar en el fútbol argentino noviembre 2026
+- La Liga Profesional de Fútbol confirmó la programación oficial para los playoffs del Torneo Clausura 2026
 
 **ge.globo** (40)
-- Palmeiras e Flamengo têm 13 jogadores pendurados antes de confronto decisivo; veja lista
-- Atlético-GO x Vila Nova: arbitragem definida para jogo de ida dos playoffs
-- Proibição de feijão, fuga de quarto e mais: "xodó" de Seedorf, Cidinho conta histórias no Botafogo
-- Gallardo explica liberação antecipada de Plata, do Flamengo: "Ele pediu para voltar antes"
-- Rafael Soares volta ao radar do São Paulo para atuar no marketing em 2027
-- Torcida do Flamengo vota em Pedro e Filipe Luís como favoritos a receberem novos bustos
-- Ranking da Fifa: Brasil perde uma posição e fecha o ano em sétimo; veja top-10
-- Vila Nova x Atlético-GO: ingressos esgotados para clássico que vai definir acesso à Série A
-- Pedra no sapato de Abel, Artur Jorge, do Cruzeiro, pode dificultar corrida do Palmeiras pelo título
-- Atlético-MG terá patrocinador master para final da Sul-Americana
-- Figueirense planeja reformulação de 90% do elenco; Túlio comenta expectativa para 2027
-- Lyncon retorna ao Vasco com boa avaliação e será observado por Pedro Emanuel
+- Cruzeiro x Atlético-MG: final do Mineiro Feminino terá torcida dividida no Mineirão
+- Arsenal x Manchester City - Campeonato Inglês 2026/27 - globoesporte.com
+- Everton x Liverpool - Campeonato Inglês 2026/27 - globoesporte.com
+- Deportivo La Coruña x Barcelona - Campeonato Espanhol 2026/27 - globoesporte.com
+- Real Madrid x Alavés - Campeonato Espanhol 2026/27 - globoesporte.com
+- Manchester United x Brentford - Campeonato Inglês 2026/27 - globoesporte.com
+- Nottingham Forest x Chelsea - Campeonato Inglês 2026/27 - globoesporte.com
+- Hearts x Monaco - Liga Conferência 2026/27 - globoesporte.com
+- Sporting x Manchester United - Liga dos Campeões 2026/2027 - globoesporte.com
+- Paris Saint-Germain x Roma - Liga dos Campeões 2026/2027 - globoesporte.com
+- Lille x Bayern de Munique - Liga dos Campeões 2026/2027 - globoesporte.com
+- Sabah x Barcelona - Liga dos Campeões 2026/2027 - globoesporte.com
 
-Fallaron: ESPN (ParseError), Goal (HTTPError), Independent (ParseError), Football365 (HTTPError), Marca (HTTPError), Sport (HTTPError), Calciomercato (HTTPError), TN (HTTPError), r/soccer (top día) (HTTPError)
+Fallaron: Goal (HTTPError), Independent (ParseError), Football365 (HTTPError), Marca (HTTPError), Sport (HTTPError), Calciomercato (HTTPError), TN (HTTPError), r/soccer (top día) (HTTPError)
