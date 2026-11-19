@@ -1035,3 +1035,30 @@
 - AS: Bélgica - Italia, en directo: UEFA Nations League, en vivo hoy
 - AS: Croacia - República Checa en directo: UEFA Nations League hoy, en vivo
 
+## 19/11 17:05 · Pochettino lands at United · revisar
+- Motivo: sin foto buena con cara visible
+- Temas: Manchester, Pochettino
+- BBC: Manchester won't always be blue - Pochettino
+- Guardian: Football Daily | From Cincinnati to Manchester: Pochettino in a hurry to paint town red
+- talkSPORT: Pundit tells Mauricio Pochettino ‘Manchester is blue’ to his face in last USA interview
+- Daily Mail: Straight to work! Grinning Mauricio Pochettino delights in starting 'amazing job' at Manchester United after touching down on private jet - and vows that Man City's dominance is 'gonna change'
+- Daily Mail: Manchester United braced for legal fight with Real Madrid over JJ Gabriel: Insiders express concern for 16-year-old wonderkid's welfare amid fears of 'tapping up' by Spanish giants
+
+## 19/11 17:05 · FIFA election heats up · revisar
+- Motivo: categoría sensible: politics
+- Temas: Infantino, FIFA
+- Mundo Deportivo: Recta final para definir los rivales de Infantino
+- Google News ES: Diallo, Tashima y Vega presentan su candidatura para relevar a Infantino al frente de la FIFA
+- L'Equipe: Diallo et Infantino, deux opposants qui se ressemblent tant
+- Foot Mercato: FIFA : le point sur les candidatures déposées face à Gianni Infantino
+- BBC: FA explored legal challenge to Infantino staying on
+
+## 19/11 17:05 · United vs Real over Gabriel · revisar
+- Motivo: categoría sensible: legal
+- Temas: Madrid
+- Daily Mail: Manchester United braced for legal fight with Real Madrid over JJ Gabriel: Insiders express concern for 16-year-old wonderkid's welfare amid fears of 'tapping up' by Spanish giants
+- Mundo Deportivo: "Casi no conozco a ninguna jugadora del Real Madrid"
+- Mundo Deportivo: El mensaje de Arda Güler tras renovar con el Real Madrid
+- Mundo Deportivo: Rüdiguer: "Dos años sin ganar en el Real Madrid. Es horrible"
+- Mundo Deportivo: Ya es oficial: Arda Güler renueva con el Real Madrid
+

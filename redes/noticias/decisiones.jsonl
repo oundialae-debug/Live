@@ -236,3 +236,8 @@
 {"t": "2026-11-16T16:20+00:00", "estado": "revisar", "temas": ["Argentina"], "clave": "argentina-copa-argentina", "motivo": "palabra sensible en los titulares: tragedia"}
 {"t": "2026-11-16T16:20+00:00", "estado": "revisar", "temas": ["UEFA"], "clave": "uefa-nations-league", "motivo": "palabra sensible en los titulares: president"}
 {"t": "2026-11-18T15:56+00:00", "estado": "descartar", "temas": ["Arsenal", "England"], "clave": "peter-storey-death", "motivo": "repetida (ya publicada/decidida)"}
+{"t": "2026-11-19T16:05+00:00", "estado": "revisar", "temas": ["Manchester", "Pochettino"], "clave": "pochettino-manchester-united", "motivo": "sin foto buena con cara visible"}
+{"t": "2026-11-19T16:05+00:00", "estado": "descartar", "temas": ["Messi"], "clave": "messi-federation-war", "motivo": "vocabulario de apuestas"}
+{"t": "2026-11-19T16:05+00:00", "estado": "revisar", "temas": ["Infantino", "FIFA"], "clave": "fifa-presidency-race", "motivo": "categoría sensible: politics"}
+{"t": "2026-11-19T16:05+00:00", "estado": "revisar", "temas": ["Madrid"], "clave": "united-real-legal-fight", "motivo": "categoría sensible: legal"}
+{"t": "2026-11-19T16:05+00:00", "estado": "descartar", "temas": ["Madrid"], "clave": "arda-guler-real-renewal", "motivo": "importancia 5 < 7"}
