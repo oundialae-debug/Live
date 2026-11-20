@@ -1,5 +1,5 @@
 {
- "red": "instagram",
+ "red": "tiktok",
  "hora": "2026-11-20T16:47:28+01:00",
  "tipo": "noticia",
  "partido": "Players stay up for GTA",
@@ -8,5 +8,9 @@
  "recordatorio": false,
  "musica": "hh06",
  "variante": "seg=5.0;arranque=s1;hook=pregunta;musica=hh06;formato=auto_noticia;hora=16",
- "notas": "noticia automática (IA + reglas): Sky Sports: Assessing Iraola's Liverpool start; Sky Sports: Man City vs Arsenal and Man Utd vs Liverpool live on Sky in January"
+ "notas": "noticia automática (IA + reglas): Sky Sports: Assessing Iraola's Liverpool start; Sky Sports: Man City vs Arsenal and Man Utd vs Liverpool live on Sky in January",
+ "titulo": "GTA VI all‑night gaming worries Liverpool & Arsenal",
+ "estado": "enviado",
+ "buffer_id": "6b006af71f64cbbbce0020eb",
+ "dueAt": "2026-11-20T15:47:54+00:00"
 }
