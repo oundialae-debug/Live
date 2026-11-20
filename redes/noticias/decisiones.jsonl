@@ -242,3 +242,6 @@
 {"t": "2026-11-19T16:05+00:00", "estado": "revisar", "temas": ["Madrid"], "clave": "united-real-legal-fight", "motivo": "categoría sensible: legal"}
 {"t": "2026-11-19T16:05+00:00", "estado": "descartar", "temas": ["Madrid"], "clave": "arda-guler-real-renewal", "motivo": "importancia 5 < 7"}
 {"t": "2026-11-20T15:44+00:00", "estado": "publicado", "temas": ["Liverpool", "Arsenal"], "clave": "gta-vi-all-nighters", "video": "https://raw.githubusercontent.com/oundialae-debug/live/main/media/noticias/2026-11-20_1644_gta-vi-all-nighters.mp4"}
+{"t": "2026-11-20T15:44+00:00", "estado": "descartar", "temas": ["Chelsea"], "clave": "brady-chelsea-stake", "motivo": "vocabulario de apuestas"}
+{"t": "2026-11-20T15:44+00:00", "estado": "descartar", "temas": ["Liverpool", "Arsenal"], "clave": "january-tv-fixtures", "motivo": "importancia 6 < 7"}
+{"t": "2026-11-20T15:44+00:00", "estado": "descartar", "temas": ["Chelsea"], "clave": "mudryk-drug-ban", "motivo": "importancia 6 < 7"}
