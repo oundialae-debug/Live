@@ -1062,3 +1062,21 @@
 - Mundo Deportivo: Rüdiguer: "Dos años sin ganar en el Real Madrid. Es horrible"
 - Mundo Deportivo: Ya es oficial: Arda Güler renueva con el Real Madrid
 
+## 21/11 22:01 · Haaland goal ruled out · revisar
+- Motivo: ninguna foto pasó la comprobación de caras / zona segura
+- Temas: Fulham
+- talkSPORT: Premier League 2026/27 radio commentary: How to listen to top-flight on talkSPORT this weekend including Man City v Fulham
+- Yahoo: One Confirmed Name for Manchester City Starting Line-Up Against Fulham Revealed by Enzo Maresca
+- Yahoo: Enzo Maresca Press Conference: Two Manchester City Stars 'Doubtful' for Fulham Premier League Clash
+- BBC: Anderson steps up, Berge impresses - player ratings for Man City v Fulham
+- Guardian: Elliot Anderson ends Manchester City’s losing run but boos greet Fulham draw
+
+## 21/11 22:01 · Kane out for months · revisar
+- Motivo: categoría sensible: injury
+- Temas: Kane
+- Google News EN: How to train like Harry Kane
+- BBC: Bayern draw with Cologne as Kane picks up ankle injury
+- Guardian: Bayern Munich confirm Harry Kane ‘out for next few months’ with ankle injury
+- Sky Sports: Kane vows to be back for ‘business end of season’ after ankle surgery
+- talkSPORT: Harry Kane reveals injury return timeline as he shares image from hospital bed
+

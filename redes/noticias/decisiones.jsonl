@@ -246,3 +246,7 @@
 {"t": "2026-11-20T15:44+00:00", "estado": "descartar", "temas": ["Liverpool", "Arsenal"], "clave": "january-tv-fixtures", "motivo": "importancia 6 < 7"}
 {"t": "2026-11-20T15:44+00:00", "estado": "descartar", "temas": ["Chelsea"], "clave": "mudryk-drug-ban", "motivo": "importancia 6 < 7"}
 {"t": "2026-11-21T14:54+00:00", "estado": "descartar", "temas": ["Chelsea"], "clave": "chelsea-stake-talks", "motivo": "importancia 6 < 7"}
+{"t": "2026-11-21T21:01+00:00", "estado": "revisar", "temas": ["Fulham"], "clave": "man-city-fulham-controversy", "motivo": "ninguna foto pasó la comprobación de caras / zona segura"}
+{"t": "2026-11-21T21:01+00:00", "estado": "revisar", "temas": ["Kane"], "clave": "kane-ankle-injury-bayern", "motivo": "categoría sensible: injury"}
+{"t": "2026-11-21T21:01+00:00", "estado": "descartar", "temas": ["Manchester"], "clave": "maresca-defends-city", "motivo": "importancia 6 < 7"}
+{"t": "2026-11-21T21:01+00:00", "estado": "descartar", "temas": ["Manchester"], "clave": "baleba-transfer-united", "motivo": "importancia 6 < 7"}
