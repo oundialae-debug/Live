@@ -253,3 +253,6 @@
 {"t": "2026-11-22T14:50+00:00", "estado": "revisar", "temas": ["Chelsea", "Leeds"], "clave": "chelsea-leeds-preview", "motivo": "sin foto buena con cara visible"}
 {"t": "2026-11-22T14:50+00:00", "estado": "revisar", "temas": ["Musiala", "Bayern"], "clave": "musiala-bayern-controversy", "motivo": "palabra sensible en los titulares: surgery"}
 {"t": "2026-11-22T14:50+00:00", "estado": "descartar", "temas": ["Newcastle"], "clave": "arsenal-newcastle-draw", "motivo": "importancia 6 < 7"}
+{"t": "2026-11-22T21:11+00:00", "estado": "revisar", "temas": ["Liverpool", "Pochettino"], "clave": "liverpool-chelsea-pochettino", "motivo": "palabra sensible en los titulares: bombazo"}
+{"t": "2026-11-22T21:11+00:00", "estado": "revisar", "temas": ["Arsenal", "Raya"], "clave": "arsenal-raya-injury", "motivo": "categoría sensible: injury"}
+{"t": "2026-11-22T21:11+00:00", "estado": "revisar", "temas": ["Pochettino", "Man"], "clave": "pochettino-man-utd-debut", "motivo": "palabra sensible en los titulares: bombazo"}

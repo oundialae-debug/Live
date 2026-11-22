@@ -1098,3 +1098,30 @@
 - Foot Mercato: Les lourdes déclarations de Karl-Heinz Rummenigge sur Jamal Musiala divisent plus que jamais le Bayern
 - Foot Mercato: Le Bayern Munich n’en peut plus de la situation de Jamal Musiala !
 
+## 22/11 22:11 · Chelsea stumble at Liverpool · revisar
+- Motivo: palabra sensible en los titulares: bombazo
+- Temas: Liverpool, Pochettino
+- Sky Sports: Chelsea drop points at a stubborn Liverpool LIVE!
+- talkSPORT: Mauricio Pochettino built £157m Premier League phenomenon with win at Liverpool
+- Mirror: Ismaila Sarr opens up on failed Liverpool transfer and reveals fresh talks
+- Mirror: Virgil van Dijk makes honest Liverpool exit admission and opens up on what's next
+- Yahoo: The key factor that could influence Ronald Araujo’s choice between Barcelona and Liverpool – Romano
+
+## 22/11 22:11 · Raya injury hurts Arsenal · revisar
+- Motivo: categoría sensible: injury
+- Temas: Arsenal, Raya
+- FourFourTwo: Watch Newcastle United vs Arsenal: Live streams and TV info
+- Yahoo: Newcastle United Starting XI vs Arsenal: Confirmed Team News and Predicted Lineup
+- Yahoo: Journalist still not over Bruno’s move to Arsenal
+- Yahoo: Slegers gives fresh Arsenal injury update before West Ham with 7 out
+- Google News EN: STAR FOOTBALL PREVIEW Sat: Newcastle v Arsenal
+
+## 22/11 22:11 · Pochettino’s United debut · revisar
+- Motivo: palabra sensible en los titulares: bombazo
+- Temas: Pochettino, Man
+- talkSPORT: Mauricio Pochettino built £157m Premier League phenomenon with win at Liverpool
+- Mirror: Mauricio Pochettino wants to scrap Man Utd system from Michael Carrick reign
+- Mundo Deportivo: En Inglaterra apuntan a un posible bombazo del United de Pochettino
+- Guardian: Pochettino needs New Manager Bounce to break torrid Manchester United turnover | Jonathan Wilson
+- talkSPORT: Mauricio Pochettino dealt blow with key Man United player to miss Liverpool clash
+
