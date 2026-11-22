@@ -1,4 +1,4 @@
-# Titulares de fútbol (2026-11-21 21:00 UTC, últimas 36 h)
+# Titulares de fútbol (2026-11-22 14:49 UTC, últimas 36 h)
 
 Generado por `scripts/titulares.py` (workflow `tendencias`). Leídos 25 de 34 medios; fuentes en `redes/fuentes.md`.
 
@@ -6,344 +6,344 @@ Generado por `scripts/titulares.py` (workflow `tendencias`). Leídos 25 de 34 me
 
 | Tema | Nº medios | Medios | Ejemplo |
 |---|---|---|---|
-| Arsenal | 18 | AS, BBC, Daily Mail, Foot Mercato, FourFourTwo, Google News EN, Google News ES,  | Arsenal go six points clear after lively draw at Newcastle |
-| Chelsea | 15 | BBC, Daily Mail, Foot Mercato, FourFourTwo, Google News EN, Guardian, Infobae, L | Leeds dominate Chelsea for first Stamford Bridge win since 1999 |
-| Newcastle | 15 | AS, BBC, Daily Mail, Foot Mercato, FourFourTwo, Google News EN, Guardian, Kicker | Arsenal go six points clear after lively draw at Newcastle |
-| Leeds | 12 | BBC, Foot Mercato, FourFourTwo, Google News EN, Guardian, Infobae, L'Equipe, Mir | Leeds dominate Chelsea for first Stamford Bridge win since 1999 |
-| Liverpool | 11 | BBC, Daily Mail, Foot Mercato, Football Italia, FourFourTwo, Google News EN, Gua | Keating stars as Liverpool hold high-flying Chelsea to goalless draw |
-| Musiala | 10 | BBC, Foot Mercato, Google News AR, Infobae, L'Equipe, Mirror, Mundo Deportivo, P | Fifpro criticises Bayern Munich for Musiala comments |
-| Bayern | 10 | BBC, Foot Mercato, Guardian, Infobae, Kicker, L'Equipe, Mirror, Planet Football, | Fifpro criticises Bayern Munich for Musiala comments |
-| Doué | 9 | AS, Foot Mercato, Google News EN, Google News ES, Guardian, L'Equipe, Mundo Depo | European football: Doué carried off for PSG while Kane vows to return fresh |
-| Miguel | 9 | AS, Daily Mail, Foot Mercato, Google News ES, Kicker, Mirror, Mundo Deportivo, O | Goalkeeper involved in fatal collision with Spanish star Jesus de Miguel, 30, breaks cover for the first time  |
-| Fulham | 8 | BBC, Daily Mail, FourFourTwo, Google News EN, Guardian, Mirror, ge.globo, talkSP | Man City drop points to Fulham despite superb Anderson volley |
-| Man | 8 | BBC, Daily Mail, Google News EN, Mirror, Planet Football, Sky Sports, Yahoo, tal | Man City drop points to Fulham despite superb Anderson volley |
-| Bournemouth | 8 | BBC, FourFourTwo, Google News EN, Guardian, L'Equipe, Sky Sports, Yahoo, talkSPO | Evanilson strikes again as Bournemouth beat Forest |
-| Raya | 8 | AS, Google News ES, Guardian, Mirror, Mundo Deportivo, Sky Sports, Yahoo, talkSP | Raya injured but Madueke rescues point for Arsenal in seesaw Newcastle draw |
-| Tottenham | 8 | Daily Mail, Foot Mercato, Football Italia, FourFourTwo, Google News EN, Guardian | Teenage ace Williams-Barnett puts Tottenham on path to win over Ipswich |
-| Madrid | 8 | AS, Foot Mercato, Google News ES, Kicker, Mundo Deportivo, Ole, Yahoo, ge.globo | Real Madrid compile detailed reports on three emerging midfield stars &#8211; report |
-| Arteta | 7 | AS, BBC, Daily Mail, Mirror, Sky Sports, Yahoo, talkSPORT | 'We lost two points' - Arteta on 'unacceptable' Newcastle draw |
-| Kane | 7 | BBC, Football Italia, Google News EN, Guardian, Mirror, ge.globo, talkSPORT | Bayern draw with Cologne as Kane picks up ankle injury |
-| Roma | 7 | AS, Foot Mercato, Football Italia, Mundo Deportivo, Ole, Record, Yahoo | Roma race to extend Malen’s contract after four-goal show at Parma |
-| Luis | 7 | AS, Foot Mercato, L'Equipe, Mundo Deportivo, Record, Yahoo, ge.globo | PSG manager Luis Enrique provides update on Désiré Doué injury |
-| Williams-Barnett | 6 | BBC, Daily Mail, Google News EN, Guardian, Yahoo, talkSPORT | Teenager Williams-Barnett shines as Spurs beat Ipswich |
-| Palace | 6 | BBC, Daily Mail, FourFourTwo, Google News EN, Guardian, Planet Football | Coventry beat Palace in Frank's first game after late own goal |
-| Forest | 6 | BBC, Daily Mail, FourFourTwo, Google News EN, Guardian, Sky Sports | Evanilson strikes again as Bournemouth beat Forest |
-| Milan | 6 | BBC, Foot Mercato, Football Italia, Infobae, Mundo Deportivo, Yahoo | AC Milan monitoring Man Utd's Fernandes - Sunday's gossip |
-| Madueke | 6 | Foot Mercato, Guardian, Mundo Deportivo, Telegraph, Yahoo, ge.globo | Raya injured but Madueke rescues point for Arsenal in seesaw Newcastle draw |
-| Alonso | 6 | Guardian, Mirror, Sky Sports, Telegraph, Yahoo, talkSPORT | ‘Fragile’ Chelsea must toughen up after Leeds humiliation, admits Xabi Alonso |
+| Chelsea | 13 | BBC, Daily Mail, Foot Mercato, FourFourTwo, Google News EN, Guardian, Infobae, M | Leeds dominate Chelsea for first Stamford Bridge win since 1999 |
+| Arsenal | 11 | BBC, Daily Mail, FourFourTwo, Google News EN, Guardian, Mirror, Planet Football, | Why Arsenal are behind in race for Champions League spots |
+| Man | 10 | BBC, Daily Mail, Football Italia, FourFourTwo, Google News EN, Mirror, Planet Fo | 'He will see what Man Utd are made of' - Pulis on Pochettino's first game |
+| Leeds | 10 | BBC, Daily Mail, FourFourTwo, Google News EN, Guardian, Infobae, Mirror, Planet  | Leeds dominate Chelsea for first Stamford Bridge win since 1999 |
+| Liverpool | 10 | BBC, Daily Mail, FourFourTwo, Google News EN, L'Equipe, Mirror, Planet Football, | Keating stars as Liverpool hold high-flying Chelsea to goalless draw |
+| Manchester | 10 | Daily Mail, Foot Mercato, Football Italia, FourFourTwo, Google News EN, Guardian | Arsenal v West Ham, Manchester City 1-3 Tottenham: WSL clockwatch – live |
+| Fernandes | 9 | BBC, Daily Mail, Foot Mercato, Google News EN, Guardian, Mirror, Planet Football | 'Not the right time' - Fernandes pauses Man Utd contract talks |
+| Musiala | 9 | AS, BBC, Foot Mercato, Infobae, Kicker, Mirror, Mundo Deportivo, Planet Football | Fifpro criticises Bayern Munich for Musiala comments |
+| Doué | 9 | AS, Foot Mercato, Guardian, L'Equipe, Mundo Deportivo, Ole, Record, Yahoo, ge.gl | European football: Doué carried off for PSG while Kane vows to return fresh |
+| Villarreal | 9 | AS, Foot Mercato, Google News AR, Google News ES, Kicker, L'Equipe, Mundo Deport | Barça fight back from two down to lead in thriller with Villarreal 😱 |
+| Paredes | 8 | BBC, Daily Mail, Foot Mercato, Google News EN, Google News ES, Infobae, L'Equipe | Argentina midfielder Paredes collapses during TV interview |
+| Argentina | 8 | BBC, Daily Mail, Google News AR, Google News EN, Infobae, Mirror, Ole, Sky Sport | Argentina midfielder Paredes collapses during TV interview |
+| Bayern | 8 | BBC, Foot Mercato, Infobae, L'Equipe, Mirror, Mundo Deportivo, Planet Football,  | Bayern draw with Cologne as Kane picks up ankle injury |
+| Bruno | 8 | Daily Mail, Foot Mercato, Google News EN, Guardian, Mirror, Planet Football, Rec | Bruno Fernandes reveals talks over new Manchester United contract are on hold |
+| Boca | 8 | Daily Mail, Foot Mercato, Google News AR, Google News ES, Infobae, L'Equipe, Ole | Argentina star Leandro Paredes collapses during post-match interview as journalist tries to break his fall aft |
+| Madrid | 8 | AS, Daily Mail, Foot Mercato, Google News EN, Google News ES, Mundo Deportivo, Y | Be warned, JJ Gabriel: The SEVEN wonderkids who flopped after making high-profile moves - as Man United star,  |
+| Fulham | 7 | BBC, Daily Mail, FourFourTwo, Guardian, Mirror, Yahoo, talkSPORT | Man City drop points to Fulham despite superb Anderson volley |
+| Arteta | 7 | BBC, Guardian, L'Equipe, Mirror, Planet Football, Yahoo, talkSPORT | 'We lost two points' - Arteta on 'unacceptable' Newcastle draw |
+| Mourinho | 7 | Foot Mercato, Google News ES, Kicker, L'Equipe, Yahoo, ge.globo, talkSPORT | Jose Mourinho immediately shuts down JJ Gabriel question with blunt reply |
+| Juniors | 7 | Daily Mail, Foot Mercato, Google News AR, Google News ES, Infobae, L'Equipe, ge. | Argentina star Leandro Paredes collapses during post-match interview as journalist tries to break his fall aft |
+| Utd | 6 | BBC, FourFourTwo, Google News EN, Mirror, Planet Football, Yahoo | 'He will see what Man Utd are made of' - Pulis on Pochettino's first game |
+| Raya | 6 | BBC, Daily Mail, L'Equipe, Mirror, Planet Football, talkSPORT | Raya set to have scan on injury - how much would Arsenal miss him? |
+| Milan | 6 | BBC, Foot Mercato, Football Italia, Google News ES, Infobae, L'Equipe | AC Milan monitoring Man Utd's Fernandes - Sunday's gossip |
+| Brighton | 6 | FourFourTwo, Google News EN, Guardian, Mundo Deportivo, Sky Sports, Yahoo | Hull City v Brighton: Premier League – live |
+| Tottenham | 6 | Daily Mail, FourFourTwo, Google News EN, Guardian, Yahoo, talkSPORT | Arsenal v West Ham, Manchester City 1-3 Tottenham: WSL clockwatch – live |
 
 ## Titulares por medio
 
-**BBC** (29)
+**BBC** (36)
+- 'He will see what Man Utd are made of' - Pulis on Pochettino's first game
+- Why Arsenal are behind in race for Champions League spots
+- 'Not the right time' - Fernandes pauses Man Utd contract talks
+- Watford seek sixth manager in 18 months after sacking Dionisi
+- Raya set to have scan on injury - how much would Arsenal miss him?
+- 'The world got to see today' - Williams-Barnett announces himself as Spurs star
+- Frick delivers on 'heavy metal football' promise
 - Leeds dominate Chelsea for first Stamford Bridge win since 1999
 - Arsenal go six points clear after lively draw at Newcastle
 - Teenager Williams-Barnett shines as Spurs beat Ipswich
 - Coventry beat Palace in Frank's first game after late own goal
 - Man City drop points to Fulham despite superb Anderson volley
-- Evanilson strikes again as Bournemouth beat Forest
-- Villa's home woes continue as Sunderland earn point
-- 'The world got to see today' - who is new Spurs star Williams-Barnett?
-- 'Officials can't use common sense' - was Rogers handball correct?
-- 'Fragile' and 'miles off it' - Alonso's Chelsea honeymoon is over
-- Nine wins in a row - Bournemouth & Evanilson continue to make history
-- Who was 'a consistent threat'? Newcastle v Arsenal player ratings
 
-**Guardian** (22)
-- Raya injured but Madueke rescues point for Arsenal in seesaw Newcastle draw
-- ‘Fragile’ Chelsea must toughen up after Leeds humiliation, admits Xabi Alonso
+**Guardian** (18)
+- Hull City v Brighton: Premier League – live
+- Arsenal v West Ham, Manchester City 1-3 Tottenham: WSL clockwatch – live
+- Bruno Fernandes reveals talks over new Manchester United contract are on hold
+- ‘Obviously it’s not good’: Arteta sweating over David Raya’s fitness after injury
+- César Azpilicueta: ‘At Chelsea a draw was a catastrophe – if you can’t perform, you’re out’
+- Robins ‘aims for the stars’ as Stoke dream of Premier League return
+- Lionel Messi at center of red-card controversy as Inter Miami face early MLS playoff exit
+- Teenage ace Williams-Barnett puts Tottenham on path to win over Ipswich
+- Champion’s corner: KC Current win first NWSL Championship with 2-1 stunner over Spirit
+- Coventry edge thriller to keep Crystal Palace bottom and ruin Thomas Frank’s start
 - Aston Villa held at home as dogged Sunderland battle for Régis Le Bris
 - Evanilson and Kluivert sink Forest to earn Bournemouth ninth win in a row
-- Coventry edge thriller to keep Crystal Palace bottom and ruin Thomas Frank’s start
-- Scottish Premiership roundup: Celtic sweep St Mirren aside to strengthen grip at top
-- European football: Doué carried off for PSG while Kane vows to return fresh
-- Elon Musk’s lawyer joining Tom Brady in buying Chelsea stake
-- Pochettino needs New Manager Bounce to break torrid Manchester United turnover | Jonathan Wilson
-- Teenage ace Williams-Barnett puts Tottenham on path to win over Ipswich
-- Elliot Anderson halts Manchester City’s losing run but boos greet Fulham draw
-- Liverpool keeper Keating holds leaders Chelsea at bay in scoreless WSL draw
 
-**Sky Sports** (19)
-- Newcastle latest: Comeback gave me goosebumps, says Jaissle
-- Arsenal latest: Arteta gives update on Raya injury
-- Arsenal's winning run ended by Newcastle in thrilling draw
-- Erasmus runs risk of breaching World Rugby ban with watchalong
-- Alcaraz fights back from set down to reach final
-- Grand Slam of Darts LIVE! Van Veen vs Aspinall after MVG beats Sykes in nine-dart fest
-- Frick enjoys winning start with Aberdeen with victory at Kilmarnock
-- Ireland hold on for huge win over South Africa
-- Alonso: Chelsea are fragile and need to be tougher
-- Bournemouth make more history with comfortable win against Forest
-- How on earth has he scored from there?!
-- Hearts put eight goals past 10-man Dundee in thumping win
+**Sky Sports** (18)
+- WSL: Arsenal host West Ham after Spurs' incredible win at Man City LIVE!
+- Burnley’s wait for a home win goes on as Blackburn twice hit back in derby
+- Super Tzolakis twice denies Brighton to keep Hull level LIVE!
+- Verstappen wins wild Las Vegas GP as Ferraris collide again
+- Las Vegas Grand Prix - Race highlights
+- 'He's so far below my level' - Verstappen taunts Russell over Las Vegas GP error
+- 'Completely unacceptable! - Vasseur rebukes Leclerc for Hamilton collision
+- Grand Slam of Darts LIVE! Price through to final, MVG vs Van Veen to come
+- Harrison: The animosity Fury and AJ have is genuine
+- Man City lose again as home WSL record crumbles with Spurs defeat
+- Las Vegas GP: Reaction after Verstappen wins thriller, Hamilton-Leclerc collide
+- 'Ha ha, well done!' - Verstappen laughs over team radio as Russell hits barrier
 
-**talkSPORT** (40)
+**talkSPORT** (27)
+- Brittany Mahomes shows elite mentality as she shares moment with inconsolable Trinity Rodman
+- World Cup winner collapses during live TV interview after historic cup win
+- Watford sack another manager as Hornets to make third change in 2026
+- Xabi Alonso addresses Cole Palmer &#8216;touchline row&#8217; with Joao Pedro moments after Chelsea defeat
+- EFL boss sacked after just five months in charge amid looming relegation threat
+- talkSPORT tips – Best football bets and expert advice for Sunday 22 November
+- Matthias Jaissle instantly apologises for X-rated Arsenal gaffe
+- &#8216;Deeply concerned&#8217; &#8211; Bayern Munich accused of &#8216;coordinated strategy&#8217; against Jamal Musiala
+- Manchester United-linked Calvin Bassey responds to rumours as Fulham boss compares him to all-time great
 - Mauricio Pochettino dealt blow with key Man United player to miss Liverpool clash
 - Mikel Arteta worried about David Raya as update on Arsenal star&#8217;s injury given
-- Premier League player suffers freak injury coming out of the tunnel
-- &#8216;Rotten&#8217; &#8211; Shell-shocked Jason Cundy gives Xabi Alonso Chelsea sack warning as fans turn on manager
-- &#8216;Where&#8217;s the fight?&#8217; &#8211; Ian Holloway restrained by stewards as Swindon fans fume before slamming his players
-- &#8216;Superstar&#8217; &#8211; Luca Williams-Barnett likened to George Best as he emulates Gareth Bale feat
-- Cristiano Ronaldo caught waiting for Al Nassr match to end to make quick exit down tunnel
-- Mauricio Pochettino&#8217;s two transfer priorities revealed as £36.5m man faces January exit
-- Dele Alli to ‘join new team this season’ following talks with number of clubs
-- Ryan Reynolds opts to watch Premier League team instead of Wrexham
-- Three players Arsenal tipped to sell in clearout to future-proof squad
-- Mikey Moore recall clause clarified as Tottenham loanee announces himself in Bundesliga
+- Premier League player leaves stadium on crutches after freak injury coming out of tunnel
 
-**Daily Mail** (37)
-- Newcastle vs Arsenal - Premier League: Toon halt Gunners charge in thrilling draw
-- Man City are failing to give their supporters something to stand behind as Enzo Maresca's side radiate uncertainty with meek display in Fulh
-- Erling Haaland sees Man City equaliser DISALLOWED in controversial circumstances - with fans and pundits split over whether Fulham goalkeepe
-- Harry Kane's injury blow: Ballon d'Or winner sends upbeat message from hospital amid England concerns captain will be out for MONTHS after t
-- Inside Diego Gomez's remarkable rise to Premier League's king of the wondergoal: Plucked from a rural Paraguayan village at 13, doing Lionel
-- Goalkeeper involved in fatal collision with Spanish star Jesus de Miguel, 30, breaks cover for the first time after tragic accident to pay t
-- Europe's biggest surprise package: Frosinone's remarkable rise as the new Roberto De Zerbi takes Italian minnows owned by Ipswich chiefs to 
-- Football's most involved mums after Cristiano Ronaldo outburst: The staunch and uncompromising negotiator, the one who still makes the bed a
-- Mauricio Pochettino must fix a club stuck in a constant cycle of failure. The new Man United boss has the personality but the squad is a mis
-- THE BREAKDOWN: The real reasons why Enzo Maresca's Man City can't stop losing - from anonymous Enzo Fernandez abandoning Elliot Anderson, to
-- What drone footage revealed about Mauricio Pochettino's Man United tactics: How he'll set up with and without the ball, a change of role for
-- Revealed: Tottenham's aggressive youth recruitment campaign to snap up Britain's best teenage stars and blow rivals out of the water - with 
+**Daily Mail** (35)
+- Liverpool vs Manchester United - Premier League: Mauricio Pochettino takes charge of the Red Devils for the very first time as the rivals go
+- Argentina star Leandro Paredes collapses during post-match interview as journalist tries to break his fall after he 'felt dizzy' at the end 
+- The two things Roberto De Zerbi demanded from Luca Williams-Barnett's first Tottenham start as 18-year-old star eyes new lucrative deal with
+- Why Liverpool have a point to prove against Man United: Andoni Iraola's side must end rotten run against 'Big Six' rivals - and Florian Wirt
+- Bruno Fernandes reveals contract negotiations with Manchester United have stalled after he rejected a new deal in the summer
+- Be warned, JJ Gabriel: The SEVEN wonderkids who flopped after making high-profile moves - as Man United star, 16, closes in on move to Real 
+- Cool Palmer has turned into Complaining Cole... his sulking as his club lurches into crisis doesn't say a lot for Chelsea's cultural reset, 
+- Arsenal face nervous wait with David Raya set for scan after being forced off against Newcastle... as club legend Ian Wright admits he's 'pe
+- Arsenal's complacency and a lack of ambition allowed Newcastle a way back and the Gunners were fortunate to escape with a point after paying
+- Formidable and relentless Bournemouth's astonishing form is no mere hot streak, writes JAMES SHARPE, as dominant Cherries beat Forest to cla
+- Giving Youri Tielemans a £35m release clause looks like an error... Aston Villa toiling to a draw with Sunderland was more proof Unai Emery 
+- Liverpool vs Manchester United - Premier League: Mauricio Pochettino takes charge of the Red Devils for the very first time as the rivals go
 
 **Mirror** (25)
-- Mikel Arteta issues David Raya update after injury that 'could change everything' for Arsenal
-- Mikel Arteta has given Man Utd the perfect blueprint - but INEOS have to completely change
-- Newcastle and Arsenal play out thrilling draw as new Gunners concern emerges
-- Arsenal suffer brutal injury blow as David Raya leaves the pitch in agony vs Newcastle
-- Xabi Alonso speaks out as Chelsea fans turn on manager after Leeds thrashing
-- Enzo Maresca reveals exactly what Erling Haaland said during Man City VAR controversy
-- Bayern chief admits Jamal Musiala could be sold months after collpasing on pitch
-- Man City left frustrated by VAR decision as impressive Fulham prolong crisis
-- Ismaila Sarr opens up on failed Liverpool transfer and reveals fresh talks
-- Antonio Conte fires back after Man Utd snub with 'frightened of winning' jibe
-- Mauricio Pochettino wants to scrap Man Utd system from Michael Carrick reign
-- Goalkeeper involved in tragic death of Jesus De Miguel makes emotional return to his club
+- Inside Mauricio Pochettino's huge fortune and private family life as he joins Man Utd
+- Who are Mauricio Pochettino's coaches? Everything we know about new Man Utd staff
+- Bruno Fernandes fires thinly veiled dig in pointed message to Man Utd teammates
+- Argentina World Cup villain who was hit with huge ban collapses during live TV interview
+- Bruno Guimaraes opens up on Arsenal frustration after being booed on Newcastle return
+- Mauricio Pochettino left key player out of starting XI and gave blunt explanation
+- How to watch Liverpool vs Man Utd - TV channel, live stream, kick-off time
+- Mauricio Pochettino makes instant changes to Man Utd training with warning to players
+- Gabby Logan's testicles comment stuns BBC studio as Alan Shearer doesn't know where to look
+- Bruno Fernandes breaks silence on Man Utd future after double contract rejection
+- 8 pundits predict Liverpool vs Man Utd as one blocks unanimous Mauricio Pochettino agreement
+- Andoni Iraola has two players that can beat Man Utd and change the mood at Liverpool
 
 **Telegraph** (2)
-- Arsenal arrogance is their downfall but Madueke rescues point at Newcastle
+- Whiff of arrogance as Arsenal unexpectedly implode
 - Alonso heckled as Chelsea are humiliated by Leeds
 
 **90min** (0)
 
 **Planet Football** (10)
+- David Raya injury: The Arsenal numbers that might surprise you as Arteta awaits scan results
+- Bruno Fernandes’ next club: Six options after Man Utd contract comments
+- Remember Bebe? He’s just produced one of the funniest footballing moments you’ll see all year
+- The Ultimate Man Utd vs Liverpool Quiz: 30 questions on English football’s biggest rivalry
+- Can you name every Liverpool player to score vs. Man Utd in PL since 2000?
+- Sportword: Play daily football word game on Planet Sport
+- 11 astonishing stats from Leeds United’s statement 4-1 victory away at Chelsea
 - The unbelievable Premier League table since Daniel Farke changed Leeds formation last year
 - Bayern Munich’s treatment of Jamal Musiala is grim, depressing and utterly classless
 - The shocking Premier League table since Chelsea’s disastrous BlueCo takeover in 2022
-- Can you name every player to play for Arsenal & Newcastle in the Premier League?
-- Can you name Newcastle’s XI from their 4-4 draw with Arsenal in 2011?
-- The wild Premier League table since Man City’s charges were announced – hand the trophy to Arsenal now?
-- Can you name everybody to play for Chelsea & Leeds since 1992?
-- Can you name every Crystal Palace manager since 2000?
-- When will Cristiano Ronaldo score his 1000th career goal? Exact date and game predicted
-- Comparing Cristiano Ronaldo and Lionel Messi’s stats in 2026 so far: Goals, assists, penalties…
 
-**FourFourTwo** (24)
+**FourFourTwo** (23)
+- How to watch Liverpool vs Man Utd for FREE: Live stream details, TV channels, kick-off time and predictions
+- How Max Rushden landed the Soccer AM job
+- How to watch Hull City vs Brighton for FREE: Live streams
+- Kenny Daglish opens up on his Celtic exit for Liverpool
+- How Man United fans revolted against the Glazers to create their own football club
+- Watch Burnley vs Blackburn Rovers for FREE: Live Streams
+- Pre-Match Poser no.54: Can you answer this elite-level football quiz question?
+- Why Manchester United will surpass Liverpool’s title drought
+- How to watch NWSL Championship 2026: Live Streams, TV Channels & Predictions for Washington Spirit vs Kansas City Current
 - Graeme Souness on the worst tackle of his career
 - Watch Newcastle United vs Arsenal: Live streams and TV info
 - Watch Sevilla vs Real Betis: FREE Streams and TV Channels
-- Willian on the Premier league sides he turned down to join Chelsea
-- Tottenham Hotspur vs Ipswich Town: FREE streams and TV channels
-- How to watch Coventry City vs Crystal Palace: Live Streams
-- How to watch Bournemouth vs Nottingham Forest: Live Streams
-- How to watch Aston Villa vs Sunderland: Live Streams
-- Watch Chelsea vs Leeds United: Live Streams and TV Channels
-- Kieran Gibbs recalls his infamous Chelsea red card
-- How to watch Manchester City vs Fulham: FREE streams
-- John Toshack on Bill Shankly, Liverpool and an extraordinary football career
 
 **Yahoo** (40)
-- United States reportedly set to host Copa América for third time in 2028
-- AC Milan monitoring Man Utd&#39;s Fernandes - Sunday&#39;s gossip
-- Hirst key for Stoke, injuries derail Millwall - Sam Parkin&#39;s EFL takeaways
-- Vergara forced off in tears as De Bruyne comes on early for Napoli
-- Lusty hat-trick helps Larne close gap at the top
-- Chelsea forced to settle for a draw against Liverpool
-- Nine wins in a row - Bournemouth & Evanilson continue to make history
-- Svilar celebrates 100 appearances in Serie A
-- Celtic impress against St. Mirren as Hearts earn dominant victory over Dundee
-- &#39;What a moment&#39; - Ramsey on dramatic Oxford win
-- How important is Bangor&#39;s win over Portadown?
-- David Raya injury news, latest update: &quot;Obviously it&#39;s not good&quot; says Arteta - How big of a problem is this?
+- Tottenham stun Man City to end 17-match winning WSL run
+- Elliot Anderson has called on Manchester City to start games better after their 1-1 Premier League draw with Fulham at the Etihad Stadium on
+- Spalletti: ‘Juventus had team idea, Kolo Muani doesn’t enjoy role’
+- Woltemade: ‘I don’t want to act like a good guy’ after giving penalty to Kolo Muani
+- Barça fight back from two down to lead in thriller with Villarreal 😱
+- Former Real Madrid star urges Mourinho to hand more minutes to Carlos Espi: &#8216;He&#8217;s a problem solver&#8217;
+- Chelsea facing huge injury scare after Leeds United defeat
+- Birmingham failed to weather Stoke storm - Davies
+- Serie A | Juventus 4-0 Venezia – Super-sub Woltemade inspires Bianconeri to victory
+- Stoke reached a different level - Robins
+- &#8216;It was a humongous effort&#8217; &#8211; Taylor reacts to Liverpool&#8217;s goalless draw with Chelsea
+- The Rafa Benitez curse Xabi Alonso could suffer if Chelsea don’t find an identity
 
 **Google News EN** (40)
-- Coventry 3-2 Crystal Palace - Premier League highlights
-- Motherwell Prematch Interviews And Gallery
-- Young football stars of the future get surprise visit from their hero
-- 'Fragile' and 'miles off it' - Alonso's Chelsea honeymoon is over
-- CHAMPIONSHIP WEEKEND ROUND-UP
-- Lincoln 0-1 Wrexham: George Thomason nets winner for Red Dragons
-- European football: Doué carried off for PSG while Kane vows to return fresh
-- Burton 1-2 Luton
-- Huddersfield 0-1 Leicester
-- Norwich 2-1 Cardiff: Canaries hit back for victory
-- Nice 2-3 PSG : Ligue 1 Highlights
-- Bournemouth 2-0 Nottingham Forest: Evanilson on target again as Cherries make history with comfortable Premier League victory
+- Bruno Fernandes: Man Utd captain confirms contract offer but says negotiations are on hold
+- Aberdeen: Mario Frick delivers on 'heavy metal football' promise at Kilmarnock
+- Rommens: We Deserved The Win
+- Live Football! Watch Leeds United vs Halifax now!
+- Who am I? Plus today's other quizzes
+- Power of 72: From addiction to finding purpose through football
+- WATCH LIVE: Everton Women 0-0 Brighton
+- Chairman’s notes: Aldershot Town
+- Cristiano Ronaldo confirms retirement from international football
+- Highlights: Portadown 0-2 Bangor
+- Football Manager 27 Journeyman Diary – First week at Versailles
+- Gallery: Last Minute Naderi Goal Wins Three Points
 
 **AS** (25)
-- Real Madrid - Celta hoy, en directo: LaLiga EA Sports en vivo, última hora en el Bernabéu
-- El Madrid se vuelca en recuerdo de Jesús de Miguel
-- Luis Enrique confirma los peores pronósticos con Doué
-- Valles, de héroe a villano
-- Naufragio total de Xabi
-- Tenerife - Mallorca en directo: LaLiga Hypermotion hoy en vivo
-- Resumen y goles del Newcastle vs Arsenal, jornada 11 de Premier League
-- Nápoles-Torino, en directo: Serie A, hoy en vivo
-- Florentino: “No voy a descansar, el caso Negreira no puede quedar impune”
-- Copete y Dimitrievski amargan la fiesta de Vallecas
-- Quique amarga al Depor
-- Arteta suspira, Raya preocupa
+- Sin noticias de Nico Paz en el Real Madrid
+- Espí siempre llega a tiempo
+- Real Madrid 2-1 Celta: resumen, goles y resultado
+- “Si pongo a Mbappé y Espí de titulares, tengo que entrar en el campo y pegar una hostia a alguno que haya en transición”
+- Es lo más viral en redes ahora mismo: vean la reacción de Jota Jordi en el 0-2 del Villarreal al Barça
+- Mercado de fichajes, en directo: rumores, altas y bajas de LaLiga, Premier, Serie A...
+- Preocupación por Musiala: ¡otro desmayo!
+- Boselli, lesionado en la pierna izquierda
+- Córdoba - Real Oviedo, en directo: LaLiga Hypermotion hoy en vivo
+- Antony enciende su luz
+- Kike Salas se hace gigante
+- Roberto es medio Espanyol
 
 **Mundo Deportivo** (40)
-- Se adelanta el Celta en el Bernabéu a los seis minutos
-- Sentido homenaje a Jesús de Miguel en el Bernabéu
-- Braulio: "Quiero bajar un poco la expectativa, no va a haber una macrorevolución"
-- El Castellón le brinda una victoria a Jesús de Miguel que le pone líder
-- Pellegrini, tras el derbi: "Estoy amargadísimo, dejamos escapar dos puntos"
-- Sevilla - Betis, en imágenes
-- 1-1: El Sevilla recoge el premio con regalo del Betis en el descuento
-- Joan Laporta: "Este será el año, el equipo lo tiene claro"
-- Lesión de Imga, vuelta a Lezama y adiós al Mundial sub-17
-- Un error que marca un derbi de Sevilla: Valles no se lo podía creer
-- Arnau Martínez: “Lo veníamos mereciendo desde hace partidos”
-- Tenerife - Mallorca, en directo
+- Racing de Santander - Real Sociedad, en directo | Sigue LaLiga EA Sports, en vivo
+- Matarazzo ya alinea a Sarr y da la oportunidad a Fort de inicio en Santander
+- Goleada de la Juventus para seguir escalando
+- El 1x1 del Barça ante el Villarreal al descanso
+- Lamine Yamal falla el penalti ante el Villarreal
+- "Jugamos contra el mejor equipo de la categoría"
+- Augsburg - Mainz 05, en directo | Bundesliga
+- Buchanan y Oluwaseyi adelantaron al Villarreal en un arranque demoledor
+- 1-0: La Real Sociedad recupera la sonrisa antes del parón a costa del Sevilla
+- Sassuolo - Genoa, en directo | Serie A
+- Bologna - Udinese, en directo | Serie A
+- Hull City - Brighton and Hove Albion, en directo | Premier League
 
 **Google News ES** (40)
-- En lo más alto
-- Tienda Oficial
-- Del coraje de Antony a un plan sin fútbol
-- Rubén Amorim y la divertida respuesta por el furor del GTA VI: "Ni siquiera Luka Modrić sabe qué es"
-- La renovación de los vestuarios del campo de fútbol de Javalí Viejo mejora la accesibilidad y funcionalidad de las instalaciones
-- Mucho más que fútbol en la primera jornada de LaLiga Genuine en Salou
-- La Selección Veteranos AFE se vuelca con Madrigueras en un partido solidario para recuperar sus instalaciones deportivas - AFE
-- Demasiado castigo
-- Real Madrid-Celta: regresa el fútbol al Bernabéu
-- La lista para El Sardinero
-- ¡A por más! 👊 #laliga #laligahypermotion #futbol #goleador #victoria
-- Alineaciones Real Madrid vs Celta de Vigo hoy: once inicial y banquillo de suplentes de José Mourinho y Claudio Giráldez para LaLiga 2026/27
+- Alineaciones FC Barcelona vs Villarreal hoy: once inicial y banquillo de suplentes de Hansi Flick e Iñigo Pérez para LaLiga 2026/27
+- Barcelona - Villarreal, en directo hoy el partido de la jornada 13 de Liga
+- Derbi en Zubieta
+- Campeonato Concacaf W 2026: Fechas, sedes, formato, selecciones y calendario de partidos · Fútbol femenil
+- Alineaciones confirmadas del Barcelona-Villarreal: De Jong, de central, y Gordon suplente
+- El Deportivo, sin liderazgo, ni plan B ante el eterno fútbol del Norte: un aviso a navegantes
+- Los actos vandálicos obligan a suspender las actividades deportivas en los campos exteriores de hockey, fútbol y fútbol sala | Villena
+- Vuelve 'Pisco': la guerrera del fútbol salta al césped 546 días después para seguir liderando al Tenerife
+- Barcelona vs Villarreal: horario y dónde ver hoy por TV y online el partido de LaLiga 2026/27 a través de DAZN
+- Con buen sabor
+- Así se van a preparar
+- FC Barcelona vs Villarreal en vivo: canales, streaming y horarios de LaLiga 2026/27 para México, Latinoamérica y USA
 
 **Gazzetta** (0)
 
 **Football Italia** (20)
-- Malen matches Roma record with 26 goals in 2026, outscoring Kane and Mbappé
-- Vergara forced off in tears as De Bruyne comes on early for Napoli
-- Roma race to extend Malen’s contract after four-goal show at Parma
-- Serie A Liveblog: Como-Cagliari, Lazio-Lecce, Parma-Roma and Napoli-Torino
-- Allegri explains Napoli changes and De Bruyne benching: ‘We always look vulnerable’
-- Gasperini: ‘Malen suits Roma style of football, team has confidence’
-- Serie A | Parma 1-5 Roma: Malen hero with four goals as big names return
-- Serie A official line-ups: Napoli vs. Torino
-- PSG fear Doue ACL injury in latest blow ahead of Roma clash
-- Fabregas on Jacobo Ramón: ‘He arrives in the box with more aggression than a striker’
-- Milan owner Cardinale on Endrick: ‘One of the best players in the world in his position’
-- Gattuso: ‘So proud of Lazio mentality, we play at high tempo’
+- Spalletti: ‘Juventus had team idea, Kolo Muani doesn’t enjoy role’
+- Woltemade: ‘I don’t want to act like a good guy’ after giving penalty to Kolo Muani
+- Serie A Liveblog: Juventus-Venezia, Milan-Frosinone, Atalanta-Inter and more
+- Serie A | Juventus 4-0 Venezia – Super-sub Woltemade inspires Bianconeri to victory
+- Allegri reveals possible cause of Vergara’s injury, warns Napoli fans about Man City clash
+- Spalletti: Only one way to stop speculation over Conte’s Juventus return
+- ‘Hurricane’ with ‘fire in his belly’: Italian media verdicts on McTominay after goal vs. Torino
+- Serie A official line-ups: Juventus vs. Venezia
+- Serie A: Atalanta vs. Inter – probable line-ups, where to watch on TV
+- Serie A: Milan vs. Frosinone – probable line-ups, where to watch on TV
+- Serie A: Juventus vs. Venezia – probable line-ups, where to watch on TV
+- Today’s Papers – Fantastic Malen, Inter under pressure, Lazio have fun
 
 **Kicker** (20)
-- Real Madrid - CEL: Elfmeter in der 39. Minute
-- Lens - Toulouse: Tor zum 1:1 durch Cuisance in der 47. Minute
-- LIVE! Vigo schrammt mehrmals am 2:0 vorbei - Mbappé verschießt Elfer
-- Große Emotionen vor Real-Spiel: Spalier der Teams für Familie des verstorbenen de Miguel
-- LIVE! Wieder trifft St. Pauli gleich: Ando staubt ab
-- Lille - LYO: Tor in der 42. Minute
-- Lille - Lyon: Tor zum 0:1 durch Bidstrup in der 40. Minute
-- Lens - Toulouse: Tor zum 0:1 durch Russell-Rowe in der 39. Minute
-- Monaco - Auxerre: Tor zum 0:1 durch Faivre in der 29. Minute
-- Real-Defensive im Tiefschlaf: Vigo trifft zur frühen Führung
-- Straßburg - Brest: Tor zum 0:1 durch Edjouma in der 22. Minute
-- Dramatisches Finale: Torwart-Patzer sorgt für Remis im Sevilla-Derby
+- Sassuolo - Genoa: Tor zum 0:2 durch Osmajic in der 38. Minute
+- RWE bringt dem BVB die erste Niederlage bei - Bremen siegt souverän beim BAK
+- Eigentor zum 3:2: Barca dreht die Partie
+- Sassuolo - Genoa: Tor zum 0:1 durch Osmajic in der 26. Minute
+- LIVE! Stoppt Saarbrücken Wiesbaden und zieht am SVWW vorbei?
+- Lamine Yamal bedient Fermin: Barca gleicht gegen Villarreal aus
+- Hertha baut Vorsprung oben aus - FCK bleibt im Verfolgerfeld stecken
+- Gerard Martin per Kopf: Barca verkürzt auf 1:2 gegen Villareal
+- Tor, Vorlage, Matchwinner: Woltemade glänzt bei Juve-Sieg
+- Doppelschlag zieht Chemie früh den Zahn: BFC Preussen setzt sich deutlich vom Keller ab
+- Karius reagiert erstmals auf Bayern-Gerüchte
+- Hoeneß beklagt ein altbekanntes VfB-Problem
 
 **L'Equipe** (40)
-- Le plein de confiance avant Monaco : les Hearts cartonnent contre Dundee et mettent fin à une série de 4 matches sans victoire
-- Doué : les larmes, la douleur et les questions
-- Le Séville FC prive le Betis du podium de la Liga en égalisant dans le temps additionnel lors du derby
-- Strasbourg fête ses 120 ans avant la réception de Brest
-- Les notes de Nice-PSG : Clauss - Hakimi, la droite caviar
-- Avant la redoutée grave blessure de Désiré Doué, les plus longues absences au PSG sous l'ère Luis Enrique
-- Premier League : le leader Arsenal évite le pire à Newcastle et décroche un nul après un match déroutant
-- Simeone : «Passer à un niveau encore supérieur»
-- Olivier Pantaloni, entraîneur de Nice, à propos de Désiré Doué, blessé : « Même si c'est un adversaire, nous le respectons et nous l'admiron
-- Montpellier arrache la victoire en fin de rencontre, Nantes remercie Chengshu Wu
-- Vinicius ou Diomandé, un casse-tête pour Mourinho ?
-- Sixième victoire en six matches de Régional 1 pour les Girondins de Bordeaux, provisoirement leaders de leur poule
+- Mourinho : «Ce sont des périodes difficiles»
+- Michael Olise vers un forfait pour le déplacement du Bayern Munich à Lille en Ligue des champions
+- Grâce notamment à Randal Kolo Muani, la Juventus écrase Venise et recolle à l'AC Milan
+- Rabillard, l'Olympien de coeur devenu chouchou des Manceaux
+- Mourinho : «J’ai vu des joueurs qui se sont surpassés»
+- Pochettino peut-il sauver Manchester United ?
+- Le Paris FC avec Pagis et Zabi contre Angers
+- L'heureux baptême de Vicens
+- Koundé sur le banc, De Jong aligné en défense centrale contre Villarreal
+- Les résultats complets du groupe C
+- Arteta frustré par la blessure de Raya : « Jamais une bonne nouvelle »
+- Le PSG confirme que Désiré Doué a bien été victime d'une rupture du ligament croisé antérieur du genou droit
 
 **Foot Mercato** (40)
-- Lucas Hernandez sur Désiré Doué : « je n’ai jamais vu un joueur se plaindre comme ça sur un terrain »
-- La cote de popularité de Zinédine Zidane a baissé en France
-- PSG : on en sait plus sur la longue absence de Désiré Doué
-- Le bel hommage du Real Madrid à Jésus de Miguel
-- PSG : la pensée d’Olivier Pantaloni pour Désiré Doué après sa grave blessure
-- RC Lens : les premiers mots de Didier Digard après son arrivée surprise
-- Liga : le Séville FC prend un point in extremis contre le rival du Betis
-- R1 : Bordeaux enchaîne une 6e victoire et passe leader
-- Premier League : Madueke sauve Arsenal contre Newcastle
-- PSG : Doué et Mayulu ont battu un record
-- PSG : l’explosive évolution de Mayulu affole les chiffres
-- LOSC - OL : les compositions officielles
+- Manchester United : la mise au point ferme de Bruno Fernandes sur son avenir
+- OM : Romain Alessandrini règle ses comptes avec Marcelo Bielsa
+- Barça : la statistique inquiétante de Lamine Yamal sur penalty
+- Angleterre, Chelsea : ça vire au cauchemar complet pour Cole Palmer !
+- Bayern Munich : Michael Olise devrait être forfait contre Lille
+- FC Barcelone : après Kylian Mbappé, Lamine Yamal rate également son penalty !
+- Serie A : la Juventus écrase Venise avec un Kolo Muani buteur
+- Villarreal : la frappe sublime de Buchanan pour punir le Barça
+- Le message de soutien de l’Équipe de France à Désiré Doué
+- OM : Kelyann Bezahaf, l’inattendu minot sur qui « beaucoup de suiveurs n’auraient pas misé »
+- FC Barcelone : grosse inquiétude pour Lamine Yamal à l’échauffement
+- Bayern : Jamal Musiala victime d’une nouvelle rechute
 
 **Record** (20)
-- <![CDATA[ Luis Enrique e a grave lesão de Doué: «Vai voltar duas vezes mais forte» ]]>
-- <![CDATA[ Feyenoord sofre a terceira derrota consecutiva antes de receber o FC Porto para a Champions ]]>
-- <![CDATA[ A luta na baliza, o "líder" Altimira e o jogador que tem "margem enorme" para evoluir: o que disse Paulo Fonseca ]]>
-- <![CDATA[ Capitão da União da Serra orgulhoso: «O andamento é completamente diferente. Enquanto tivemos pernas...» ]]>
-- <![CDATA[ Real Madrid-Celta de Vigo, em direto ]]>
-- <![CDATA[ Palmeiras-Flamengo, em direto ]]>
-- <![CDATA[ Paulo Fonseca já pensa no Manchester United: «A análise feita até agora vai ser jogada para o lixo» ]]>
-- <![CDATA[ Irankunda e a vitória do Sporting na Taça: «Tenho tentado marcar sempre e fico feliz por ajudar» ]]>
-- <![CDATA[ Assim foi o relato e a análise do Sporting-União da Serra na CM Rádio ]]>
+- <![CDATA[ Benfica-Ovarense, em direto ]]>
+- <![CDATA[ Sporting inicia 'Operação United' com dois regressos e dois ausentes: as últimas de Alcochete ]]>
 - <![CDATA[ Quarta eliminatória da Taça de Portugal em direto: todos os resultados e marcadores ]]>
-- <![CDATA[ Irankunda foi lançado na profundidade, fintou o guarda-redes da União da Serra e bisou em Alvalade ]]>
-- <![CDATA[ Irankunda estreou-se assim a marcar pelo Sporting frente à União da Serra ]]>
+- <![CDATA[ Barcelona-Villarreal, em direto ]]>
+- <![CDATA[ Marc Márquez chega ao 10.º título após recuperação histórica: o perfil do extraterrestre ]]>
+- <![CDATA[ Marc Márquez conquista oitavo título de MotoGP em Portimão ]]>
+- <![CDATA[ Cruzeiro conquista sexta vitória seguida e fica mais perto de assegurar pódio ]]>
+- <![CDATA[ Juventus goleia Veneza: Francisco Conceição não sai do banco ]]>
+- <![CDATA[ Académica faz reviravolta com a Sanjoanense rumo aos 'oitavos' da Taça de Portugal ]]>
+- <![CDATA[ Daniel Muñoz estreia-se a vencer em Moto2 e título decide-se em Valência ]]>
+- <![CDATA[ PSG comunica que Doué será operado devido a rotura no ligamento cruzado anterior ]]>
+- <![CDATA[ Corrida de Moto2 interrompida em Portimão por queda com líder do Mundial ]]>
 
 **Ole** (10)
-- En busca de la tercera: cómo fueron las dos Sudamericanas que ganó Boca
-- Video: el emotivo homenaje del Real Madrid y Celta a los familiares de Jesús de Miguel
-- Las cargadas de Palmeiras a Flamengo en medio de la definición del Brasileirao
-- Boca vs. Atlético Mineiro, hoy EN VIVO por la final de la Copa Sudamericana: formaciones, horario y por dónde ver
-- Pochola Silva, el Puma de la vincha que entra al Salón de la Fama del rugby
-- La Roma, imparable: goleó 5-1 al Parma y no le pierde pisada a la Lazio
-- Con dos bajas de peso y una joven apuesta, el 11 que tiene en mente Ponzio para el mata-mata contra Lanús
-- George Russell se hartó de Max Verstappen: "Alguien tiene que enfrentarse a ese tipo"
-- El video de Alfonso Espino durante una práctica que generó más críticas de los hinchas de Racing
-- El 11 ideal del Vasco, confirmado para la final de Boca en Colombia
+- El mensaje de los pibes del Vasco: "Somos los turros, ¡esto es Boca!"
+- Horarios confirmados: así será la vuelta del Boca que lleva la Copa a la Argentina
+- Penalizado: el piloto que deberá retroceder cinco puestos en la parrilla del GP de Qatar
+- A qué hora juega Instituto vs. Huracán y cómo ver hoy EN VIVO el Torneo Clausura
+- A qué hora juega Rosario Central vs. Gimnasia de Mendoza y cómo ver hoy EN VIVO el Torneo Clausura
+- La intimidad del Boca campeón: Chucky descontrolado, el show de los Wachiturros y la dedicatoria a River
+- El PSG y el peor parte para Doué: rotura del ligamento cruzado anterior, igual que Kvaratskhelia
+- Paredes, del susto a la sonrisa: "Fue solo un mareo por tantas vueltas juntas"
+- Flavio Briatore, feliz con la carrera de Franco Colapinto y Pierre Gasly: "Un trabajo sobresaliente"
+- A qué hora juega hoy la Selección Sub 17 vs. Mozambique y por dónde ver EN VIVO el Mundial
 
 **Infobae** (40)
-- Boca Juniors recorre la cancha en la previa a la Copa Sudamericana ante Atlético Mineiro en Barranquilla
-- Independiente vence a Argentinos Juniors en La Paternal por los octavos de final del Torneo Clausura
-- Los Pumas visitan a Francia en el cierre de la primera fase del Nations Championship
-- Tras las victorias de Vélez y Barracas Central, así está el cuadro de cuartos de final del Torneo Clausura
-- Barracas Central le ganó 1-0 a Defensa y Justicia y avanzó a los cuartos de final del Torneo Clausura
-- Franco Colapinto largará 9° en el Gran Premio de Las Vegas de Fórmula 1: hora, TV y todo lo que hay que saber
-- Estalló el escándalo por las declaraciones del Bayern Múnich sobre el contrato de Jamal Musiala tras los dos desmayos que sufrió
-- Impresionante accidente en un evento de coleccionistas de Ferrari: el Fórmula 1 de la era de Schumacher involucrado en el incidente
-- El Dibu Martínez volvió a jugar con el Chelsea tras su fractura de mandíbula: perdieron 4-1 ante Leeds
-- La leyenda de la NFL Tom Brady negocia comprar una parte del Chelsea del Dibu Martínez
-- Los pronósticos de los hinchas a horas de la gran final de Sudamericana entre Boca Juniors y Atlético Mineiro
-- Briatore mostró su lado más exigente para calificar a sus pilotos y le dejó una advertencia a Colapinto: “Será crucial para él”
+- Argentina perdió ante Japón en la Billie Jean King Cup y no pudo ascender a los Qualifiers: jugará la Zona Américas I en 2027
+- Impacto en el fútbol por la grave lesión que sufrió una estrella del PSG: su desgarrador grito que conmocionó al resto de los jugadores
+- La intimidad del festejo de Boca Juniors tras ganar la Copa Sudamericana: de la foto viral de Valencia a la recepción a Paredes tras su vuel
+- Alpine logró una gran cosecha de puntos y arde la lucha con Racing Bulls tras el GP de Las Vegas: así quedó la tabla de posiciones en la F1
+- Cámara a bordo: la fantástica maniobra de Franco Colapinto para superar en un movimiento a los dos McLaren en el GP de Las Vegas de F1
+- El especial reencuentro entre Franco Colapinto y la periodista Christine GZ tras la carrera de F1 en Las Vegas: “Me contestás con una sonris
+- Zohran Mamdani se rompió el tendón de Aquiles jugando al fútbol contra la prensa de Nueva York: “Olvidé que tenía 35 años"
+- La llamativa actitud del Vasco Arruabarrena en el momento de la coronación de Boca Juniors tras ganar la Copa Sudamericana
+- Pelotazo en la cara y reclamo: la reacción de Messi contra un ex jugador de River en la derrota de Inter Miami
+- Qué hizo Paredes antes del desmayo, la redención a Villa y el ídolo que asoma: lo que no se vio de la consagración de Boca en la Copa Sudame
+- El elogio de Flavio Briatore a Franco Colapinto luego de su gran tarea en el GP de Las Vegas de Fórmula 1
+- Cuándo volverá a correr Franco Colapinto en la Fórmula 1 tras su gran actuación en el Gran Premio de Las Vegas
 
 **Google News AR** (40)
-- Platense no pudo en Avellaneda y buscará igualar la serie en Vicente López
-- Escándalo en el fútbol uruguayo: un equipo ganó sin jugar, otro denuncia irregularidades y el ascenso se define en los escritorios
-- Fuerza Leprosa Fútbol Forum: Rosario será sede de un encuentro para debatir sobre el futuro del fútbol
-- Claudio Úbeda vuelve a dirigir: tiene un acuerdo con un club del fútbol argentino
-- Villa Díaz Vélez y Sportivo abrirán la final de fútbol femenino
-- Jorge Newbery sueña con los ojos abiertos: "El fútbol nos está recompensando por tantos años de sacrificio"
-- Deportivo Oeste se consagró campeón del Torneo Clausura de Baby Fútbol
-- Fútbol/Menores: San Jorge avanzó a Cuartos de Final y va a Almafuerte el lunes
-- Comenzó el torneo de fútbol infantil Diego Maradona con 180 gurises y una campaña solidaria
-- El fútbol chacarero se vive a pleno
-- Fútbol local: la agenda del fin de semana tiene cuatro partidos imperdibles
-- El jugador de River que pensó en dejar el fútbol y dedicarse a la aviación
+- ¿Cuándo fue la última vez que salió campeón cada equipo del fútbol argentino?
+- Partidos de HOY, domingo 22 de noviembre: horario y por dónde ver fútbol EN VIVO :: Olé - ole.com.ar
+- Zohran Mamdani se rompió el tendón de Aquiles jugando al fútbol contra la prensa de Nueva York: “Olvidé que tenía 35 años"
+- Yamila Magalí Quevedo: “Poder seguir jugando al fútbol es una gran satisfacción a base de lucha diaria”
+- ¡Boca, Campeón! Dio una verdadera cátedra de fútbol para alcanzar la gloria
+- El ocaso de los dueños del fútbol - Por Joaquín Morales Solá
+- Los pibes de “La Bici” llevan el fútbol de Senillosa a Buenos Aires
+- Alineaciones FC Barcelona vs Villarreal hoy: once inicial y banquillo de suplentes de Hansi Flick e Iñigo Pérez para LaLiga 2026/27
+- Argentina conquista 12 Copa Sudamericana con triunfo de Boca Juniors
+- Vélez 2-2 All Boys
+- Ver en vivo Argentina vs. Mozambique por Fútbol Libre el Mundial Sub-17 2026 es un riesgo: dónde hacerlo de manera legal
+- San Lorenzo se consagró campeón anual de la clase “B” del fútbol Senior
 
 **ge.globo** (40)
-- Real Madrid x Celta - Campeonato Espanhol 2026/27 - Ao vivo - globoesporte.com
-- Provocação? Torcida do Palmeiras usa caravana a Montevidéu como tema de mosaico contra Flamengo
-- Madueke marca no fim e impede derrota de virada do Arsenal contra o Newcastle
-- PSG perde atacante da seleção da França após lesão grave no joelho
-- Escobar compartilha reencontro emocionante com Luis Roberto: "Esperamos por esse abraço"
-- Jardim cutuca Abel Ferreira antes de Palmeiras x Flamengo: "Os adversários se vitimizam"
-- Com Carrascal no banco, veja a escalação do Flamengo para enfrentar o Palmeiras
-- Gabriel Paulista sofre lesão no joelho e deve voltar ao Corinthians apenas em 2027
-- Atlético-GO x Vila Nova: ingressos esgotados para jogo de ida dos playoffs
-- Treino do São Paulo: Marcos Antônio avança em recuperação
-- Leeds goleia Chelsea e quebra jejum de 27 anos em Stamford Bridge
-- Muniz marca, City empata com o Fulham e chega a quatro jogos sem vencer
+- Barcelona x Villarreal - Campeonato Espanhol 2026/27 - Ao vivo - globoesporte.com
+- Samuel Lino repete feito de Pelé e Gabigol e entra para grupo seleto no Brasileirão; veja lista
+- Doué, do PSG, passará por cirurgia após ruptura do ligamento cruzado anterior do joelho
+- Você sabia? Fluminense ainda não perdeu no Brasileirão com Thiago Silva em campo em 2026
+- Liverpool x Manchester United - Campeonato Inglês 2026/27 - globoesporte.com
+- KC Current, de Lorena e Debinha, conquista título inédito da NWSL sobre o Washington Spirit
+- Bergantin avalia sequência de jogadores na Chapecoense: "Saber o que o jogador faz pela camisa"
+- Bruno Fernandes nega exigências para renovar com o United: "Se quisesse mais dinheiro, não estaria aqui"
+- Análise: Chapecoense é pressionada pelo Cruzeiro do início ao fim e perde a quarta seguida
+- Bragantino x Vasco: como um dos lugares mais perigosos da Colômbia formou Gómez, Mosquera e Arias
+- Atlético-MG se torna sexto vice brasileiro consecutivo na Sul-Americana; veja lista
+- Fluminense pode conquistar a vaga direta para a Libertadores contra o Mirassol? Veja os cálculos
 
 Fallaron: ESPN (ParseError), Goal (HTTPError), Independent (ParseError), Football365 (HTTPError), Marca (HTTPError), Sport (HTTPError), Calciomercato (HTTPError), TN (HTTPError), r/soccer (top día) (HTTPError)
