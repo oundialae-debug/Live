@@ -1080,3 +1080,21 @@
 - Sky Sports: Kane vows to be back for ‘business end of season’ after ankle surgery
 - talkSPORT: Harry Kane reveals injury return timeline as he shares image from hospital bed
 
+## 22/11 15:50 · Chelsea‑Leeds clash draws eyes · revisar
+- Motivo: sin foto buena con cara visible
+- Temas: Chelsea, Leeds
+- BBC: The Chelsea loanee turning heads and Championship defenders at 17
+- Guardian: Chelsea v Leeds, Tottenham v Ipswich, and more: football clockwatch – live
+- Guardian: Elon Musk’s lawyer joining Tom Brady in buying Chelsea stake
+- Sky Sports: Emegha starts and Martinez returns for Chelsea vs Leeds LIVE!
+- Sky Sports: Chelsea drop points at a stubborn Liverpool LIVE!
+
+## 22/11 15:50 · Musiala future in doubt · revisar
+- Motivo: palabra sensible en los titulares: surgery
+- Temas: Musiala, Bayern
+- talkSPORT: Premier League clubs put on red alert as Jamal Musiala release clause revealed amid Bayern concerns
+- Yahoo: Karl-Heinz Rummenigge defends Bayern Munich concerns over Jamal Musiala
+- Google News ES: Musiala deja el fútbol a los 23 años, hará oficial el anuncio el lunes
+- Foot Mercato: Les lourdes déclarations de Karl-Heinz Rummenigge sur Jamal Musiala divisent plus que jamais le Bayern
+- Foot Mercato: Le Bayern Munich n’en peut plus de la situation de Jamal Musiala !
+
