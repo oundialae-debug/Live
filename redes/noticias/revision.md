@@ -1125,3 +1125,12 @@
 - Guardian: Pochettino needs New Manager Bounce to break torrid Manchester United turnover | Jonathan Wilson
 - talkSPORT: Mauricio Pochettino dealt blow with key Man United player to miss Liverpool clash
 
+## 23/11 19:41 · Fernandes contract on hold · revisar
+- Motivo: sin foto buena con cara visible
+- Temas: Manchester, Fernandes, Bruno
+- Guardian: Arsenal v West Ham, Manchester City 1-3 Tottenham: WSL clockwatch – live
+- Guardian: Bruno Fernandes reveals talks over new Manchester United contract are on hold
+- Daily Mail: Liverpool vs Manchester United - Premier League: Mauricio Pochettino takes charge of the Red Devils for the very first time as the rivals go head-to-head at Anfield
+- Daily Mail: Bruno Fernandes reveals contract negotiations with Manchester United have stalled after he rejected a new deal in the summer
+- FourFourTwo: Why Manchester United will surpass Liverpool’s title drought
+
