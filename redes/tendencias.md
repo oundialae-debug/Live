@@ -1,25 +1,24 @@
-# Tendencias de fútbol (2026-11-22 21:10 UTC, Google Trends)
+# Tendencias de fútbol (2026-11-23 18:39 UTC, Google Trends)
 
 Generado por el workflow `tendencias`. Úsalo para elegir temas de memes, curiosos y jugador vs jugador.
 
 | País | Búsqueda | Tráfico | Titular |
 |---|---|---|---|
-| UK | bob chaperon | 200+ | Former British Open snooker champion Bob Chaperon dies aged 68 |
-| Spain | incendio | 1000+ | Un incendio quema un autobús en el barrio de Gràcia de Barcelona sin causar heridos |
-| Spain | edificio | 500+ | Veintiocho heridos, uno grave, en un incendio en un edificio de Manresa (Barcelona) |
-| Spain | inter milan | 200+ | Atalanta - Inter, en directo: Serie A, hoy en vivo |
-| Italy | football club internazionale milano | 2000+ | Inter Club, una giornata speciale a Napoli con Marco Materazzi |
-| Italy | mkhitaryan | 200+ | Mkhitaryan: "Calendario molto denso, tutti devono dare una mano. Diamo sempre il massimo" |
-| Italy | nicola zalewski | 200+ | Zalewski, sei mesi da nerazzurro, tra l’assist nel derby e la finale di Champions. Poi arrivò l'Atal |
-| Italy | hakan çalhanoğlu | 500+ | Atalanta - Inter Maçı Tahmini: Zirveye Çıkma Fırsatı |
-| Germany | inter mailand | 200+ | Liveticker Atalanta - Inter Mailand 1:3 LIVE | 12. Spieltag, Serie A 2026/2027 |
-| USA | cincinnati vs nashville | 1000+ | Nashville SC out to complete MLS Cup-Supporters' Shield history |
-| USA | ryan flournoy | 500+ | Fantasy football last-minute pickups: Flournoy, Ayomanor among top candidates |
-| Argentina | colo-colo - u. católica | 200+ | Universidad Católica visita el Monumental obligada a quedarse con los tres puntos |
-| Argentina | torneo argentino | 200+ | Agenda de los Cuartos de Final |
-| Argentina | atletico madrid | 500+ | Preview: Getafe vs Atletico Madrid - prediction, team news, lineups |
-| Brazil | olimpia x sportivo trinidense | 200+ | El particular motivo por el que "Vitamina" Sánchez se decidiría por Gustavo Vargas en defensa |
-| Brazil | atlético-go x vila nova | 10000+ | Ao vivo: Atlético-GO x Vila Nova | Playoffs de acesso | Campeonato Brasileiro Série B |
-| Portugal | capitão | 200+ | Ex-capitão do FC Porto detido no Texas |
-| Portugal | atalanta - inter | 500+ | LIVE Atalanta-Inter 1-3: tris di Pio! Ma che assist da fantasista di Thuram |
-| Mexico | nashville sc - cincinnati | 500+ | Nashville vs Cincinnati LIVE, Latest Score, Goals and MLS Updates |
+| Spain | thibaut courtois | 200+ | Courtois: “La remontada en Roma fue clave para creer más en nosotros” |
+| Spain | al-shamal - al-ahli saudi | 500+ | Al Shamal vs Al Ahli Preview & Prediction | 2026-27 AFC Champions League Elite | League Stage |
+| Spain | fouzi lekjaa | 100+ | Confirmado, el PP condiciona la participación de España en el Mundial 2030 a organizar la final: ¿pu |
+| Germany | champions league | 2000+ | The BVB squad for the away game at Arsenal FC |
+| Germany | mt melsungen | 200+ | MT lädt zum sera Handball-Wintercamp 2027 |
+| Germany | losc lille | 100+ | Ligue 1 - Le Mans - Lille, sur quelle chaîne et à quelle heure voir le match en direct ? |
+| Germany | welche krankheit hat musiala | 1000+ | Bayern-Boss Dreesen zu Musiala: „Wir sollten uns ums Kümmern kümmern“ |
+| France | thibaut courtois | 200+ | Thibaut Courtois: “You can’t be a 9 or a 10 all the time, only Messi or Cristiano have managed that” |
+| France | asvel | 500+ | « Il faut une meilleure attitude, une meilleure mentalité, rester positif, mais réagir vite » : l'As |
+| France | js kabylie – mc alger | 1000+ | Clasico, Hemdani et Yahia out ? les 4 infos à ne pas manquer ce 23 novembre 2026 |
+| Argentina | boxeo | 100+ | Tyson Fury reveló que fue diagnosticado con esquizofrenia: el drama personal que lo atormenta debajo |
+| Argentina | copa potrero | 2000+ | Pasó por la Serie A, bajó 22 kilos para estar en Primera y hoy juega la Copa Potrero |
+| Brazil | levante | 200+ | Levante vs Elche Predictions, Bet Builder Tips, Lineups, Odds |
+| Portugal | al-shamal - al-ahli saudi | 500+ | Video: Al-Shamal stun Al-Ahli in crazy comeback on Mahrez's night |
+| Mexico | valencia club de fútbol | 200+ | El Valencia viajará a Jaén |
+| Mexico | fiorentina | 100+ | Monza-Fiorentina, Atalanta, Napoli e Sinner: le ultimissime |
+| Mexico | cuando se estrena avengers doomsday en mexico | 500+ | El tráiler final de 'Avengers: Doomsday' revela un momento clave de los X-Men y el regreso de Hailee |
+| Mexico | bayern de múnich - tsg 1899 hoffenheim | 500+ | Bayern Munich vs. Hoffenheim: Gamethread (Frauen-Bundesliga) |
