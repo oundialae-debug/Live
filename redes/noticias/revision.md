@@ -1134,3 +1134,12 @@
 - Daily Mail: Bruno Fernandes reveals contract negotiations with Manchester United have stalled after he rejected a new deal in the summer
 - FourFourTwo: Why Manchester United will surpass Liverpool’s title drought
 
+## 24/11 19:11 · Senegal reclaim AFCON crown · revisar
+- Motivo: categoría sensible: legal
+- Temas: Senegal
+- BBC: Morocco and Senegal await Afcon final verdict after court case
+- BBC: Senegal reinstated as Afcon 2025 winners by court ruling
+- Guardian: Senegal restored as Africa Cup of Nations champions after court ruling
+- Sky Sports: Senegal confirmed AFCON 2025 champions after appeal
+- ESPN: Senegal reinstated as Africa Cup of Nations winners over Morocco by CAS ruling
+
