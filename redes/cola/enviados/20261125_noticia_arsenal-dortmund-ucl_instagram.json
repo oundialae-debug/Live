@@ -1,5 +1,5 @@
 {
- "red": "tiktok",
+ "red": "instagram",
  "hora": "2026-11-25T18:37:01+01:00",
  "tipo": "noticia",
  "partido": "Arsenal vs Dortmund",
@@ -9,5 +9,7 @@
  "musica": "hh09",
  "variante": "seg=5.0;arranque=s1;hook=pregunta;musica=hh09;formato=auto_noticia;hora=18",
  "notas": "noticia automática (IA + reglas): Sky Sports: Arsenal vs Borussia Dortmund LIVE!; ESPN: Why the Premier League's set-piece goals dried up -- and why Arsenal are still No. 1 anyway",
- "titulo": "Arsenal vs Dortmund – UCL clash and set‑piece woes"
+ "estado": "enviado",
+ "buffer_id": "6b071c27bc210ec9cb79e40b",
+ "dueAt": "2026-11-25T17:37:30+00:00"
 }
