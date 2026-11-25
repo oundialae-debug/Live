@@ -1,33 +1,37 @@
-# Tendencias de fútbol (2026-11-24 18:09 UTC, Google Trends)
+# Tendencias de fútbol (2026-11-25 17:32 UTC, Google Trends)
 
 Generado por el workflow `tendencias`. Úsalo para elegir temas de memes, curiosos y jugador vs jugador.
 
 | País | Búsqueda | Tráfico | Titular |
 |---|---|---|---|
-| UK | arsenal fixtures | 500+ | David Raya injury: Goalkeeper taken off during Newcastle 2-2 Arsenal |
-| UK | al-nassr vs al sadd | 2000+ | Al-Nassr vs Al Sadd - Prediction, where to watch, kick-off time and line-ups 24-11-2026 |
-| UK | bodø/glimt vs lask | 500+ | Halil Umut Meler will officiate the critical Champions League match. |
-| Spain | beşiktaş - parís | 100+ | Fenerbahçe Barcelona deplasmanında! EuroLeague'de kritik maç: Saat kaçta, hangi kanalda? |
-| Spain | ucl | 200+ | First ever trip to Azerbaijan from the inside |
-| Spain | al-nassr - al-sadd | 1000+ | Al Nassr FC vs Al-Sadd LINE-UPS: Ronaldo, Mané, Coman fire in unison for 3 points |
-| Spain | liga de campeones de la uefa | 1000+ | Champions League: horario y dónde ver los partidos de la Jornada 5 |
-| Italy | modric | 200+ | Milan, stop per Modric: risentimento muscolare, out contro l'Olympiacos. A rischio anche Cagliari |
-| Italy | associazione voce camuna | 200+ | La Camminata in Rosa raccoglie oltre 13mila euro e li devolve a quattro associazioni per la prevenzi |
-| Italy | al-nassr - al-sadd | 2000+ | Ronaldo needs one goal to pass Hamdallah, and Al-Nassr host an Al Sadd side with two points from fou |
-| Germany | fußball-bundesliga | 5000+ | Bundesliga führt neues Top-Spiel am Samstagabend ein |
-| USA | al-nassr vs al sadd | 5000+ | Al-Nassr handed gifts by Al-Sadd: five absences hit the Qatari side |
-| Argentina | uefa champions | 100+ | Real Madrid vs PSV Eindhoven 2026 live stream: Time, TV channels and how to watch Champions League o |
-| Argentina | aston villa | 200+ | Team news for Galatasaray encounter |
-| Argentina | uefa champions league | 200+ | Champions League starting and predicted line-ups: Matchday 5 team news, injuries, suspensions |
-| Argentina | al-nassr - al-sadd | 1000+ | Ronaldo needs one goal to pass Hamdallah, and Al-Nassr host an Al Sadd side with two points from fou |
-| Argentina | liga de campeones de la uefa | 1000+ | Partidos de fútbol de hoy, martes 24 de noviembre: horario y cómo ver por TV y online :: Olé - ole.c |
-| Brazil | al-nassr - al-sadd | 200+ | Al-Nassr vs Al-Sadd LIVE, where to watch, lineups, and real-time updates for the AFC Champions Leagu |
-| Brazil | galatasaray sk aston villa 24/11/2026 | 500+ | Galatasaray vs Aston Villa: UEFA Champions League stats & head-to-head |
-| Brazil | al-nassr x al-sadd | 10000+ | De Firmino a campeão mundial: a trupe brasileira que tentará parar CR7 e o que assistir no Disney+ |
-| Brazil | uefa | 200+ | Kudur İsrail! Galatasaray bir kez daha Filistin pankartı astı |
-| Portugal | galatasaray vs aston villa | 200+ | Emery insists no change of plan for Aston Villa despite Galatasaray surface |
-| Portugal | al-nassr - al-sadd | 2000+ | Al Nassr-Al Sadd: trio luso defronta tricampeão do Qatar |
-| Portugal | youth league | 100+ | “Fica a imagem de uma equipa competente e madura” |
-| Mexico | al-nassr - al-sadd | 5000+ | Is Cristiano Ronaldo playing today, Nov. 24, for Al Nassr vs Al Sadd in 2026-27 AFC Champions League |
-| Mexico | paris saint-germain football club | 200+ | AS Roma : Emanuele Lulli, la nouvelle pépite italienne qui pourrait surprendre le PSG |
-| Mexico | feyenoord vs porto | 100+ | Santi Gimenez vuelve a donde fue feliz: Porto visita al Feyenoord |
+| UK | sabah baku – fc barcelona | 500+ | Sabah FK vs Barcelona: UEFA Champions League stats & head-to-head |
+| UK | sabah vs barcelona | 10000+ | Sabah - FC Barcelona, en directo, el partido de la Champions League en vivo | Fútbol | Deportes |
+| UK | slavia praha vs villarreal | 1000+ | Slavia Prague vs Villarreal: UEFA Champions League stats & head-to-head |
+| UK | shakhtar donetsk | 200+ | Shakhtar Donetsk vs Fenerbahçe: UEFA Champions League stats & head-to-head |
+| Spain | ayuntamiento de madrid | 200+ | Una víctima de violencia machista, en un acto del Ayuntamiento de Madrid: “Vuestras políticas no me  |
+| Spain | slavia praha - vila-real | 200+ | Slavia Prague vs Villarreal: UEFA Champions League stats & head-to-head |
+| Spain | slavia praga - villarreal | 5000+ | Slavia Praga - Villarreal en directo: UEFA Champions League hoy, en vivo |
+| Spain | sabah futbol klubu - barcelona | 50000+ | Sabah - FC Barcelona, en directo, el partido de la Champions League en vivo | Fútbol | Deportes |
+| Italy | sabah vs barcelona | 1000+ | Sabah Baku vs Barcelona de Champions League 2026/2027: horario y dónde ver hoy por TV online el part |
+| Italy | youth league | 200+ | Youth League, la Primavera battuta dallo Stoccarda |
+| Germany | sabah baku – fc barcelona | 2000+ | Sabah FA vs Barcelona - Prediction, where to watch, kick-off time and line-ups 25-11-2026 |
+| Germany | slavia prag – villarreal | 1000+ | Preview: Slavia Prague vs Villarreal - prediction, team news, lineups |
+| France | fenerbahçe | 500+ | Emre Belözoğlu: 'İlk 24'e kalacağız!' Shakhtar-Fenerbahçe maçı öncesi Arda Turan'ın sözlerine yanıt. |
+| France | sabah football club | 200+ | Sabah vs Barcelona: Date, Time and Everything You Need to Know About the Champions League Clash |
+| France | sabah vs barcelona | 1000+ | El Barça viaja a los confines de la UEFA para enfrentarse al Sabah en Champions |
+| France | sabah football club – barcelone | 20000+ | « Si je perds, c'est sûr que je ne récupérerai pas de maillot » : Steve Solvet, le défenseur venu de |
+| USA | sabah vs barcelona | 20000+ | Flick elige cualidad de De Jong y explica estado de Lamine y Cubarsí |
+| USA | slavia praha vs villarreal | 5000+ | Slavia Prague vs Villarreal: UEFA Champions League stats & head-to-head |
+| USA | barcelona vs sabah | 1000+ | Three talking points ahead of Sabah vs Barcelona | UEFA Champions League |
+| Argentina | sabah vs barcelona | 200+ | Cuándo juegan Sabah vs. Barcelona por la UEFA Champions League: equipo, fecha, hora y TV en vivo |
+| Argentina | mundial sub17 | 200+ | Ecuador empató contra Uganda y quedó a un paso de la clasificación en el Mundial Sub-17 de Qatar |
+| Argentina | slavia praga - villarreal | 1000+ | Slavia Praga vs Villarreal, en vivo, por la Champions League: minuto a minuto y qué canal pasa el pa |
+| Brazil | sabah futbol klubu x barcelona | 50000+ | Sabah FK vs Barcelona: UEFA Champions League stats & head-to-head |
+| Brazil | sabah vs barcelona | 500+ | Sabah - FC Barcelona, en directo, el partido de la Champions League en vivo | Fútbol | Deportes |
+| Brazil | du queiroz | 500+ | No Azerbaijão, Du Queiroz realiza sonho na Champions e projeta duelo com o Barcelona |
+| Portugal | sabah vs barcelona | 500+ | Pronóstico Sabah FA vs Barcelona: ¿Continuarán los visitantes con su racha ganadora? |
+| Portugal | sporting manchester united | 2000+ | Aí está o melhor Sporting à Paulo Fonseca (o onze provável para o Manchester United) |
+| Mexico | sabah futbol klubu - barcelona | 50000+ | ¡EN VIVO! Barcelona visita a Sabah por la UEFA Champions League |
+| Mexico | slavia praga - villarreal | 2000+ | Slavia de Praga vs Villarreal en directo hoy: dónde ver el partido por televisión y online |
+| Mexico | villarreal vs | 200+ | Barcelona: Fermín, sancionado 2 partidos por la roja vs Villarreal |
+| Mexico | selección de fútbol sub-17 de dinamarca - argentina sub-17 | 500+ | Cuándo juegan Argentina vs. Dinamarca por el Mundial Sub 17: equipo, fecha, hora y TV en vivo |

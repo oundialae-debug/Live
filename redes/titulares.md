@@ -1,320 +1,350 @@
-# Titulares de fútbol (2026-11-24 18:10 UTC, últimas 36 h)
+# Titulares de fútbol (2026-11-25 17:32 UTC, últimas 36 h)
 
-Generado por `scripts/titulares.py` (workflow `tendencias`). Leídos 23 de 34 medios; fuentes en `redes/fuentes.md`.
+Generado por `scripts/titulares.py` (workflow `tendencias`). Leídos 25 de 34 medios; fuentes en `redes/fuentes.md`.
 
 ## Temas que salen en más medios (la noticia del día está arriba)
 
 | Tema | Nº medios | Medios | Ejemplo |
 |---|---|---|---|
-| Senegal | 14 | AS, BBC, Daily Mail, ESPN, Guardian, Infobae, Kicker, Mirror, Mundo Deportivo, R | Senegal reinstated as Afcon 2025 winners by court ruling |
-| Yoro | 12 | BBC, Daily Mail, ESPN, Foot Mercato, Kicker, L'Equipe, Mirror, Mundo Deportivo,  | Yoro red card overturned, but refs' chief Webb backs decision |
-| Manchester | 12 | Daily Mail, ESPN, Foot Mercato, Football Italia, FourFourTwo, Guardian, Infobae, | David Squires on … Pochettino flying into a storm at Manchester United. Here we go again |
-| Man | 11 | BBC, Daily Mail, ESPN, Football Italia, Mirror, Planet Football, Record, Sky Spo | Why has De Bruyne struggled at Napoli as he returns to Man City? |
-| Dortmund | 10 | BBC, Daily Mail, ESPN, FourFourTwo, L'Equipe, Mirror, Planet Football, Sky Sport | Raya to miss Dortmund game but injury 'not serious' |
-| Arsenal | 9 | Daily Mail, ESPN, FourFourTwo, Kicker, L'Equipe, Mirror, Sky Sports, Yahoo, talk | Arsenal vs Borussia Dortmund LIVE! |
-| Liverpool | 9 | Daily Mail, ESPN, Foot Mercato, FourFourTwo, Infobae, Kicker, L'Equipe, Mirror,  | Man United win appeal over Yoro red card against Liverpool |
-| Napoli | 8 | BBC, Daily Mail, ESPN, Football Italia, FourFourTwo, Guardian, Ole, Yahoo | Why has De Bruyne struggled at Napoli as he returns to Man City? |
-| Pochettino | 8 | Daily Mail, ESPN, Foot Mercato, FourFourTwo, Guardian, Mirror, Record, talkSPORT | David Squires on … Pochettino flying into a storm at Manchester United. Here we go again |
-| Bayern | 8 | ESPN, Guardian, Infobae, Kicker, L'Equipe, Mirror, Ole, Yahoo | Jamal Musiala controversy the nadir of Bayern Munich’s turbulent week |
-| Villa | 8 | AS, Daily Mail, FourFourTwo, Kicker, Planet Football, Record, Sky Sports, Yahoo | Galatasaray vs Aston Villa LIVE! |
-| Leny | 8 | Daily Mail, Foot Mercato, L'Equipe, Mirror, Mundo Deportivo, Record, Yahoo, talk | Manchester United defender Leny Yoro red card overturned against wishes of referees chief Howard Webb |
-| Utd | 7 | BBC, Mirror, Planet Football, Sky Sports, Telegraph, Yahoo, talkSPORT | Defender Heaven open to leaving Man Utd |
-| Mauricio | 7 | Daily Mail, Foot Mercato, FourFourTwo, Guardian, Mirror, Telegraph, talkSPORT | Mauricio Pochettino can now see just how desperate Manchester United are | Jonathan Wilson |
-| Enrique | 7 | AS, Foot Mercato, Football Italia, Guardian, L'Equipe, Mundo Deportivo, Yahoo | PSG had the best attack in Europe but Doué and Kvaratskhelia injuries will test Luis Enrique |
-| Borussia | 7 | Daily Mail, FourFourTwo, L'Equipe, Planet Football, Sky Sports, Yahoo, talkSPORT | Arsenal vs Borussia Dortmund LIVE! |
-| Madrid | 7 | AS, Daily Mail, FourFourTwo, Infobae, Mundo Deportivo, Yahoo, talkSPORT | Trent Alexander-Arnold will leave Real Madrid after fans turn but Premier League return unlikely |
-| Luis | 6 | AS, ESPN, Foot Mercato, Guardian, L'Equipe, Mundo Deportivo | PSG had the best attack in Europe but Doué and Kvaratskhelia injuries will test Luis Enrique |
-| Galatasaray | 6 | AS, Daily Mail, FourFourTwo, L'Equipe, Sky Sports, Yahoo | Galatasaray vs Aston Villa LIVE! |
-| Aston | 6 | AS, Daily Mail, FourFourTwo, Planet Football, Sky Sports, Yahoo | Galatasaray vs Aston Villa LIVE! |
-| Webb | 5 | BBC, Mirror, Sky Sports, Yahoo, talkSPORT | Yoro red card overturned, but refs' chief Webb backs decision |
-| Millwall | 5 | BBC, Mirror, Record, Sky Sports, talkSPORT | Millwall face partial stadium closure after discriminatory chants |
-| Palace | 5 | BBC, Guardian, L'Equipe, Mundo Deportivo, Sky Sports | Palace docked points for using four sub windows in WSL win |
-| Brentford | 5 | BBC, Daily Mail, FourFourTwo, Guardian, talkSPORT | Janelt scores stunner as Brentford beat 10-man Everton |
-| América | 5 | ESPN, Guardian, Infobae, Ole, ge.globo | 2028 Copa América to be played in United States with six Concacaf teams |
+| Bellingham | 13 | AS, BBC, Daily Mail, Google News EN, Guardian, Infobae, L'Equipe, Mirror, Mundo  | 'Best midfielder in the world' - where does Bellingham rank? |
+| Sterling | 13 | BBC, Daily Mail, Foot Mercato, Google News EN, Guardian, Kicker, L'Equipe, Mirro | Raheem Sterling - from national icon to suspended jail sentence |
+| Manchester | 12 | BBC, Daily Mail, Foot Mercato, Football Italia, FourFourTwo, Google News EN, Gua | Are Manchester United this season's Tottenham? |
+| Arsenal | 11 | BBC, Daily Mail, Foot Mercato, FourFourTwo, Guardian, L'Equipe, Mirror, Sky Spor | Arteta says Arsenal need more luck to kill off games |
+| Bayern | 10 | AS, BBC, Foot Mercato, FourFourTwo, Kicker, L'Equipe, Planet Football, Yahoo, ge | How to unearth young stars, the Bayern Munich way |
+| Madrid | 10 | AS, Daily Mail, Foot Mercato, FourFourTwo, Google News ES, Infobae, L'Equipe, Mu | Jude Bellingham goal is Puskas winner and Real Madrid form is travesty for Premier League fans |
+| Man | 9 | BBC, Daily Mail, Football Italia, Google News EN, Mirror, Record, Sky Sports, Ya | 'Pass, pass, slow, slow' - Man City's slick machine grinding to a halt |
+| Raheem | 8 | BBC, Daily Mail, Foot Mercato, Google News EN, Guardian, L'Equipe, Mirror, talkS | Raheem Sterling - from national icon to suspended jail sentence |
+| Pochettino | 8 | BBC, Daily Mail, FourFourTwo, Guardian, L'Equipe, Mirror, Yahoo, talkSPORT | Pochettino leads Man Utd fury at Yoro red card ruling |
+| Aston | 8 | FourFourTwo, Google News EN, Guardian, L'Equipe, Mirror, Ole, Telegraph, talkSPO | Alejandro Garnacho and the curious case of Aston Villa’s outcast loanees | Ben Fisher |
+| Garnacho | 8 | AS, FourFourTwo, Google News EN, Guardian, Mirror, Mundo Deportivo, Ole, talkSPO | Alejandro Garnacho and the curious case of Aston Villa’s outcast loanees | Ben Fisher |
+| Guardiola | 8 | AS, Foot Mercato, Football Italia, Google News EN, Guardian, L'Equipe, Mirror, Y | Guardiola says next coaching role will be with a national team amid USA links |
+| Villa | 8 | FourFourTwo, Google News EN, Guardian, L'Equipe, Mirror, Ole, Telegraph, talkSPO | Gul takes pain for buoyant Galatasaray to condemn Aston Villa to Champions League loss |
+| Newcastle | 7 | Daily Mail, FourFourTwo, Google News EN, Guardian, L'Equipe, Mirror, talkSPORT | Saudi Arabia’s PIF looking to sell 25% of Newcastle through share issue |
+| Napoli | 7 | Daily Mail, Football Italia, FourFourTwo, Guardian, Infobae, Mirror, Yahoo | Rayan Cherki magic denies Napoli but Manchester City’s struggles continue |
+| Sabah | 7 | AS, Foot Mercato, Google News AR, Google News ES, L'Equipe, Yahoo, ge.globo | Confirmed: Barcelona starting lineup against Sabah &#8211; Balde, Gavi feature |
+| John | 6 | BBC, Daily Mail, Google News EN, Guardian, Mirror, Yahoo | EA adds AI-generated John Motson to FC 27 video game |
+| Arteta | 6 | BBC, Foot Mercato, L'Equipe, Mirror, Telegraph, talkSPORT | Arteta says Arsenal need more luck to kill off games |
+| Alejandro | 6 | FourFourTwo, Google News EN, Guardian, Mirror, Mundo Deportivo, talkSPORT | Alejandro Garnacho and the curious case of Aston Villa’s outcast loanees | Ben Fisher |
+| Maresca | 6 | Daily Mail, Football Italia, FourFourTwo, L'Equipe, Mirror, talkSPORT | Man City are too easy to play through and Enzo Maresca must solve these three huge problems before Arsenal cla |
+| Sporting | 6 | FourFourTwo, Google News EN, Mirror, Record, Yahoo, ge.globo | Sporting manager singles out Man Utd star as he drops brutally honest admission |
+| Barcelona | 6 | AS, Google News AR, Google News ES, Planet Football, Yahoo, ge.globo | Top-scoring attacking trios in 2026-27: Barcelona way out in front already |
+| Best | 5 | BBC, Football Italia, Planet Football, Yahoo, talkSPORT | 'Best midfielder in the world' - where does Bellingham rank? |
+| Yoro | 5 | BBC, Daily Mail, Guardian, Yahoo, talkSPORT | Confusion and anger - Yoro red card rescinded, but row goes on |
+| Munich | 5 | BBC, Foot Mercato, FourFourTwo, Yahoo, talkSPORT | How to unearth young stars, the Bayern Munich way |
 
 ## Titulares por medio
 
-**BBC** (34)
-- Senegal reinstated as Afcon 2025 winners by court ruling
-- Yoro red card overturned, but refs' chief Webb backs decision
-- Millwall face partial stadium closure after discriminatory chants
-- Klopp advice and Iraola confidence boosts Wirtz
-- Palace docked points for using four sub windows in WSL win
-- FA chief signs NDA to view Fifa sell-off plot documents
-- Dead hippo to be honoured on football club tifo
-- Two goals in 15 games - what's going on with Gyokeres?
-- Why has De Bruyne struggled at Napoli as he returns to Man City?
-- Non-league player injured falling down badger hole
-- Barnet forward Noel-Williams charged with rape
-- 115 days, 39 private-jet flights, one election - Infantino's globetrotting
+**BBC** (23)
+- 'Best midfielder in the world' - where does Bellingham rank?
+- Raheem Sterling - from national icon to suspended jail sentence
+- Confusion and anger - Yoro red card rescinded, but row goes on
+- How to unearth young stars, the Bayern Munich way
+- Lincoln sack head coach duo Cohen and Shaw after only six months
+- Watford appoint Iordanescu as head coach
+- Are Manchester United this season's Tottenham?
+- Leicester no longer for sale as owner looks to future
+- EA adds AI-generated John Motson to FC 27 video game
+- 'Pass, pass, slow, slow' - Man City's slick machine grinding to a halt
+- Man Utd target Collins - Wednesday's gossip
+- Bellingham plays down Zidane comparison after wonder goal
 
-**Guardian** (21)
-- Senegal restored as Africa Cup of Nations champions after court ruling
-- David Squires on … Pochettino flying into a storm at Manchester United. Here we go again
-- Manchester United win appeal over Yoro’s one-match suspension after Anfield red card
-- Football Daily | The game’s gone: has fantasy football been ruined by AI gafferbots?
-- Crystal Palace docked three WSL points for extra substitution against Everton
-- ‘I’m loving it at Brugge’: Freddie Potts on going from West Ham’s bench to Champions League
-- UK nations in dark over whether they will get automatic entry to 2035 Women’s World Cup
-- 2028 Copa América to be played in United States with six Concacaf teams
-- De Bruyne’s Napoli return will remind Manchester City what they are missing
-- Philippe Diallo learns harsh reality of mounting global challenge to Infantino
-- The NWSL 2026 goals, players and nutmegs we won’t forget
-- Barnet footballer Isiah Noel-Williams charged with three counts of rape
+**Guardian** (22)
+- Saudi Arabia’s PIF looking to sell 25% of Newcastle through share issue
+- Raheem Sterling avoids jail over reckless driving while using nitrous oxide
+- Premier League’s burst of early sendings-off may not last – but red cards are on the rise for a reason
+- Alejandro Garnacho and the curious case of Aston Villa’s outcast loanees | Ben Fisher
+- ‘He’s more elegant’: Bellingham downplays Zidane comparisons after wondergoal
+- Football Daily | Manchester City get that empty feeling as they fail to win again
+- Guardiola says next coaching role will be with a national team amid USA links
+- Senegal regaining Afcon title is the right end to embarrassing farrago but issues do not stop here | Osasu Obayiuwana
+- ‘It threw me off my bowling a bit’: Isobel Goodwin living dream after England callup
+- Will Hajime Moriyasu get a high-profile job in Europe after his eight years in charge of Japan?
+- Has a footballer had a longer career hiatus than Ronaldinho’s 11 year-gap? | The Knowledge
+- Botty? AI helps resurrect voice of John Motson for football video game
 
-**Sky Sports** (20)
-- Arsenal vs Borussia Dortmund LIVE!
-- Sinner surgery casts doubt over Australian Open appearance
-- Humphries hoping to make Players Championship despite shoulder injury
-- Ref chief Webb backs process around Yoro sending off despite successful appeal
-- How 'quick check' and unseen angle saw Timber's Isak shirt-pull go unpunished
-- Players Championship Finals schedule: Price eyes back-to-back major titles
-- Listen in! The VAR audio that supported Yoro's red card decision at Anfield
-- Galatasaray vs Aston Villa LIVE!
-- Senegal confirmed AFCON 2025 champions after appeal
-- Robinson signs for Nottinghamshire on three-year deal
-- Millwall first club hit with partial closure over discriminatory chants
-- Stella 'liked' Piastri's fiery response to McLaren 'be careful' warnings
-
-**ESPN** (21)
-- Why the Premier League's set-piece goals dried up -- and why Arsenal are still No. 1 anyway
-- United States to host Copa América for 2nd straight edition in 2028
-- Senegal reinstated as Africa Cup of Nations winners over Morocco by CAS ruling
-- Man United win appeal over Yoro red card against Liverpool
-- Bayern hold 'constructive' talks with Musiala's agents over health, not money
-- Flick on Barcelona with no Yamal: 'We can win without him'
-- Fiona the hippo to be honored by FC Cincinnati with tifo after untimely death
-- Son Heung-Min: Thomas Müller spot-on about lack of pressure in MLS
-- U.S. to co-host Women's World Cup in 2031; U.K. wins bid for 2035
-- ⚽ 'Ted Lasso' to return for Season 5 on Apple TV
-- Which USMNT players could follow Pochettino to Manchester United?
-- Champions League Power Rankings before MD5: Who's No. 1?
+**Sky Sports** (18)
+- Newbury's Coral Gold Cup: Jamie Lynch's horse-by-horse guide
+- London Broncos confirmed as Super League's 15th team for 2027 season
+- 'Triumph over trauma' - new women's boxing promotion begins
+- Williams handed penalties after minor breach of cost cap
+- Hansen ruled out of Ireland's clash with Australia due to injury
+- Walters confident he can win trophy in first season with St Helens
+- Do Ferrari need to make Hamilton their No 1 driver?
+- 61-year-old Drago knocks out O'Sullivan at Crucible Cup
+- Cameron agrees contract extension with Jake Paul's MVP
+- Khawaja 'hurt' by 'personal attacks' from Cummins in sandpaper denials
+- Why wasn't Szoboszlai's free-kick ruled out vs Man Utd?
+- Man City latest: 'Title race over if City lose to Arsenal,' says Merse
 
 **talkSPORT** (40)
-- EFL club announce upcoming match is moved to following day in fixture chaos
-- Manchester United defender Leny Yoro red card overturned against wishes of referees chief Howard Webb
-- Arsenal should sell Viktor Gyokeres as perfect Mikel Arteta signing identified
-- Manchester United player open to January move after snub from Mauricio Pochettino
-- Euro 2028 qualifying draw date, start time, format and confirmed pots
-- Wesley Fofana picks worst possible time to deliver two bombshell Chelsea revelations
-- Ally McCoist names the one job David Moyes would prefer over Scotland
-- Swansea in talks with ex-international women&#8217;s manager to replace Vitor Matos
-- I thought my Premier League career was done &#8211; now I&#8217;m one of the top scorers
-- Heung-Min Son reignites Spurs-Arsenal rivalry before MLS Cup opener after relegation critique
-- AFCON 2025 winner announced after court battle from dramatic Senegal vs Morocco final
-- Trent Alexander-Arnold will leave Real Madrid after fans turn but Premier League return unlikely
+- Conor Coady in surprise contention for EFL job just weeks after retiring
+- Arsenal told to aim higher than Dominic Calvert-Lewin and urged to sign £100m-rated forward instead
+- Jude Bellingham rejected huge Man United contract for one reason
+- Cristiano Ronaldo 1000 goals: Date and game predicted for career milestone
+- Supercomputer predicts Man United&#8217;s chances of Premier League relegation this season
+- Punter waits on Bayern Munich for a mammoth £57k 18-fold acca win
+- Jarrod Bowen January transfer prediction made with West Ham bottom of form table
+- Raheem Sterling sentenced for dangerous driving after crashing Lamborghini on motorway
+- Alejandro Garnacho appears to make cryptic dig at Aston Villa after being snubbed by Unai Emery
+- Relegation threatened EFL club announce sacking just hours after heavy defeat
+- Top ten highest goalscorers of all time: Cristiano Ronaldo closing in 1000 goals as Lionel Messi continues to shine
+- Aston Villa transfer warning issued after Alejandro Garnacho frozen out by Unai Emery
 
-**Daily Mail** (37)
-- Leny Yoro red card OVERTURNED: Man United star available for Brentford clash after controversial dismissal in Liverpool trouncing
-- Meet the world's most famous pub team: How a Sex Pistol, Superman and Vinnie Jones took Hollywood United  beyond Sunset Boulevard via privat
-- Senegal KEEP Africa Cup of Nations title: Champions see crown restored in huge CAS verdict despite walking off the pitch in chaotic final ag
-- I was in the room with Newcastle bosses as they were grilled by fans on Matthias Jaissle, their January transfer plans and the new stadium -
-- Chelsea star Wesley Fofana risks angering Blues fans as he LAUGHS off penalty miss against Liverpool and reveals he considered quitting foot
-- Freddie Potts on the pain of leaving West Ham, why he had to move on this summer, upsetting the odds in the Champions League with Club Brugg
-- Inside Jude Bellingham's life in Madrid: Kisses from elderly ladies, coffee shop bliss and finding love - England star feels at home as he n
-- 'Bitter' Romelu Lukaku set to 'drop a bombshell' on Belgian football following his shock retirement, claims former team-mate after one-hour 
-- Man United's January transfer budget will be less than £50m with Mauricio Pochettino expected to make only TWO signings - despite needing to
-- Chelsea's slump in form unpacked: The stars who badly need to step up from Emi Martinez to Cole Palmer, what defensive horror shows mean for
-- OLIVER HOLT: Man United ARE in a relegation battle - anybody who denies it is deluding themselves - and Mauricio Pochettino is already showi
-- Arsenal vs Borussia Dortmund - Champions League: Aston Villa face Galatasaray in Istanbul before Gunners in action, plus Man City vs Napoli
+**Daily Mail** (35)
+- What's wrong with Erling Haaland? Man City's superstar has been radiating an air of gloom in front of the cameras - but it's his form on the
+- Raheem Sterling avoids jail for £270,000 Lamborghini crash: England star handed suspended prison sentence after telling court he underwent 1
+- Raheem Sterling's chaotic descent is a product of the cocooned world where football's little princes can't handle rejection, writes IAN HERB
+- Football video game EA Sports FC 27 to add AI-generated voice of iconic BBC commentator John Motson to new game - three years after legend's
+- 'Class act' Jude Bellingham praised for standing up for female journalist in chaotic post-match press huddle after he scored 'the best goal 
+- Erling Haaland sparks fear among fans after concerning TV interview as he admits he is 'questioning everything' after Man City's draw with N
+- Inside Raheem Sterling's rise from childhood tragedy and poverty to England superstar at the peak of his powers - but Lamborghini crash and 
+- 'You can't escape from it': Rasmus Hojlund opens up on the suffocating pressure of playing for Man United - and reveals Bruno Fernandes and 
+- THE BREAKDOWN: How Florian Wirtz suddenly became the most powerful creative force in the Premier League - from Andoni Iraola's perfect tacti
+- Enzo Maresca is still searching for answers after Man City's draw with Napoli: There were glimpses of improvement but individual mistakes ag
+- How the Glazers REALLY feel about Man United: IAN HERBERT reveals the family split over selling club, their regrets over Sir Jim Ratcliffe '
+- What's wrong with Erling Haaland? Man City's superstar has been radiating an air of gloom in front of the cameras - but it's his form on the
 
 **Mirror** (25)
-- Howard Webb shuts down Arsenal v Liverpool penalty debate after Andoni Iraola complaint
-- Howard Webb insists Leny Yoro red card 'not wrong' despite Man Utd winning appeal
-- How to watch Arsenal vs Dortmund – TV channel, live stream and kick-off time
-- Concerned Man Utd star 'ready to leave' after one match under Mauricio Pochettino
-- Man Utd star Leny Yoro's red card vs Liverpool overturned in boost for Mauricio Pochettino
-- Bayern Munich's treatment of Jamal Musiala is shameful - but outraged fans are hypocrites
-- AFCON 2025 winner decided as Morocco and Senegal learn fate after chaos in final
-- FA hit Millwall with partial stadium ban after latest offensive chanting charge
-- Premier League clubs on red alert as Saudi rule change could spark January exodus
-- Chelsea will back Xabi Alonso in January - he has no excuses to miss out on the top four
-- Man Utd without two players for Sporting Lisbon but Mauricio Pochettino handed one injury boost
-- How Man Utd's spiralling debts have hamstrung Mauricio Pochettino's January transfer plans
+- Man City owners sent fresh warning by government football chief over 115 charges
+- Enzo Maresca continues to show he isn't Pep Guardiola as Man City fight comes too late
+- Blame Beyonce, NFL, AJ and Spurs - why Saudi-backed Newcastle need even more cash
+- Arsenal star singled out by Borussia Dortmund coach who saw clear 'advantage'
+- Wesley Fofana accidentally exposed the rotten culture problem at Chelsea - they must sack him
+- Premier League send 'furious messages' as Man City charges meeting disrupted
+- Viktor Gyokeres sends clear message to Mikel Arteta over Arsenal future
+- John Motson added to EAFC 27 game through AI as tribute to legendary commentator
+- Newcastle owners PIF 'start process to sell part of club' as £5billion plan hatched
+- Man Utd counting cost of past transfer mistake with key January target now out of reach
+- Alejandro Garnacho takes Aston Villa action with Chelsea transfer now in the balance
+- FREE £2 William Hill Shop Bet inside Saturday's Daily Mirror
 
-**Telegraph** (1)
-- Any regrets, Mauricio? Man Utd are deep in relegation battle after Anfield farce
+**Telegraph** (3)
+- Underperforming Manchester City are an accident waiting to happen
+- Arsenal get the best and worst of Gyokeres on frustrating night for Arteta
+- Emery unhappy with ‘unfair’ referee but Aston Villa are toothless
 
 **90min** (0)
 
 **Planet Football** (10)
-- A tribute to Dean Ashton, the best striker England never had
-- Premier League table vs squad cost 2026-27: Man Utd are the biggest underachievers…
-- 8 naff football-related presents you could get this Christmas: Soap, Cards, Monopoly…
-- Can you name every manager to have managed 3+ Premier League clubs?
-- Elite players with a terrible penalty record as Lamine Yamal misses another one
-- Champions League quiz: Top goalscorer from every season
-- Can you name every player to score 5+ Champions League goals for Borussia Dortmund?
-- The making of O Fenomeno: How Ronaldo became a global superstar at PSV
-- Aston Villa in Europe: Name every different opponent since 2000
-- Players we can’t believe were never sent off after James Tarkowski’s first Premier League red
+- Where Are They Now? Atletico Madrid’s 2016 Champions League final XI
+- Top-scoring attacking trios in 2026-27: Barcelona way out in front already
+- The 10 players leading Europe’s assists charts in 2026-27: Kane, Yamal and who else?
+- Bayern star creeping up on sublime Barcelona duo in WhoScored rankings for 2026-27
+- Premier League quiz: Manager with most games for every club
+- The top 10 goalscorers in Europe in the 2020s: Mbappe vs Haaland for top spot, Salah 5th…
+- Why ‘full package’ Jude Bellingham is the best player in the world right now
+- 13 of the best quotes on George Best: ‘It was paradise watching him play’
+- Can you name the top Champions League goalscorer for these 20 clubs?
+- Can you name the top Champions League appearance maker for these 20 clubs?
 
-**FourFourTwo** (26)
-- Why Arsenal’s crazy festive fixture run could hand them the Premier League title in record time
-- Watch Real Madrid vs PSV Eindhoven: Live Streams
-- Watch Manchester City vs Napoli for FREE: Live Streams
-- Arsenal star Ethan Nwaneri dealt big blow, with wonderkid on the move in January: report
-- Manchester United eye cut-price January deal for 100-game Premier League defender
-- Watch Arsenal vs Borussia Dortmund for FREE: Live Streams
-- Watch Galatasaray vs Aston Villa for FREE: Live Streams
-- Newcastle United tipped to re-sign striker as Matthias Jaissle seeks January reinforcements
-- Chelsea preparing for Xabi Alonso sack, following poor form: report
-- Manchester United have transfer war chest to spend on backing Mauricio Pochettino in January
-- Manchester United January transfer plan confirmed: report
-- Quiz! Can you guess these World Cup stadiums?
+**FourFourTwo** (28)
+- Watch Sporting CP vs Manchester United: FREE Streams
+- Watch Club Brugge vs Liverpool for FREE: Live Streams
+- Why Newcastle United owners PIF putting 25 per cent of the club up for sale is good news for fans
+- Aston Villa manager Unai Emery drops 'humiliating' update on Alejandro Garnacho
+- Extraordinary Liverpool transfer emerges, with Bayern Munich 'increasingly likely' to make controversial move: report
+- Bombshell Manchester City report emerges, with Enzo Maresca fighting for job ALREADY
+- Tottenham star's agent publicly pushes for January exit to Saudi Arabia
+- 'Unhappy' Arsenal star in talks to leave - despite starting against Dortmund: report
+- FourFourTwo tries trip-snacking: why 24 hours is all you need for a Real Madrid game
+- Kelly Somers reveals Southgate’s touching gesture and Euro 2020 admission
+- The Big Manchester United Crossword
+- What has happened to Senne Lammens this season?
 
 **Yahoo** (40)
-- &#8220;Keep him&#8221; &#8211; Steven Gerrard sends Liverpool strong message over &#8216;unstoppable&#8217; star
-- Chelsea star reveals he almost retired after serious injury issues
-- Champions League: Villa visit Galatasaray before Arsenal and Man City in action
-- Juventus captain Locatelli opens up on ‘one of the most difficult moments of my career’
-- Morocco FA filed challenge against Cas arbitrator less than hour before Afcon final verdict
-- Klopp advice and Iraola confidence boosts Wirtz
-- Senegal reinstated as Afcon 2025 winners by court ruling
-- Jeremy Doku Issues Honest Verdict on Personal Performances and Manchester City&#39;s Season Ahead of Napoli Test
-- Aston Villa kick UCL action off on exciting night
-- O&#39;Donnell explains his vision for success at Derry
-- Arteta ex-teammate admits he didn’t predict his managerial success
-- Yoro red card overturned, but refs&#39; chief Webb backs decision
+- Champions League returns with Barça, PSG, Bayern & Man Utd all in action
+- Wilder&#39;s masterstroke earns Blades a point
+- Rochdale &#39;will not rush&#39; new manager appointment
+- Arsenal interested in 13-goal Serie A striker
+- How to watch Sporting Lisbon vs Manchester United live: Stream, TV, team news, prediction
+- How Donnarumma reacted to Napoli fans’ insults in Man City’s ‘theatre-like’ stadium
+- 🚨 Slavia Prague-Villarreal: Yellow Submarine XI, with absentees
+- Liverpool star performing well despite recent criticism
+- Liverpool star may look to Bundesliga for 2027 defender return
+- 💣 Milan eye Balde, Roma set Soulé fee, Noa Lang to stay? Today&#39;s news 🔥
+- &#39;Best midfielder in the world&#39; - where does Bellingham rank?
+- Confirmed: Barcelona starting lineup against Sabah &#8211; Balde, Gavi feature
 
-**AS** (25)
-- ¡Senegal recupera la Copa de África!
-- Real Madrid - PSV hoy, en directo: partido de fase liga de Champions League, última hora en el Bernabéu
-- Galatasaray - Aston Villa, en directo: Champions League, hoy en vivo
-- Bodo/Glimt - LASK, en directo: Champions League, hoy en vivo
-- Miguel Ángel Gil dimite como vicepresidente de LaLiga
-- Louzán confirma la salida de Gil Marín por un “préstamo” de LaLiga a la UEC
-- Resumen y goles del Real Madrid vs. PSV de la Youth Legue
-- “Fermín estuvo mal, pero los árbitros tienen que mejorar la comunicación”
-- Simeone: “¿Mi siguiente récord? Ganar al Viking”
-- Luis Enrique evita excusas: “¿Pensáis que vamos a llorar o quejarnos por las lesiones?"
-- La inesperada crisis del Huesca
-- ¿Qué revelación de LaLiga crees que puede acabar fichando por un grande como Madrid o Barça?
+**Google News EN** (40)
+- Why are there 2:05pm kick-offs in the Premier League on Sunday?
+- Celtic Football Club announces exciting new strategic partnership with Pluto Data Analytics
+- EFC Women's Working Group meet in Geneva - EFC
+- Raheem Sterling - from national icon to suspended jail sentence
+- Botty? AI helps resurrect voice of John Motson for football video game
+- Fantasy Football Scout: Gameweek 12 hints, tips and advice
+- Sporting stars and football competition join Hall of Fame
+- Inside the life of Becky Spencer | News | Official Site
+- Fantasy EFL: Win a Club Shop Voucher & Football Manager 27 in Double Gameweek 16
+- Alejandro Garnacho: Why Aston Villa are not playing the Argentine forward
+- Matchday Guide: AZ Alkmaar (H)
+- Cathinka Tandberg: Spurs forward on Oslo and London life | BWSL
+
+**AS** (24)
+- Sabah - Barcelona, en directo: última hora de la Champions League, hoy en vivo
+- Pleno al 15 y 23 M€ a la vista
+- Atlético - Viking, en directo: última hora de la fase liga de la Champions League, hoy en vivo
+- No hubo conciliación Florentino-Barça, mientras Laporta vuelve al ataque
+- Milla es una locura
+- ¿Cuál es el techo de Bellingham? ¿Hasta dónde puede llegar en el Madrid y en el fútbol? Debate en AS
+- La reflexión de Guardiola sobre España que no va a dejar indiferente a nadie
+- ¿Quién es mejor: Bellingham o…?
+- Clasificación de fase liga de la Champions League 2026/2027: jornada 5
+- ‘Agradecido’, el documental sobre Puado y su lesión: “No es solo la historia del capitán del Espanyol, es la de muchos futbolistas... la que
+- Kepa, futuro incierto
+- La afición del Betis se volcó con Valles en Bratislava
 
 **Mundo Deportivo** (40)
-- Las lesiones graves, la maldición del último año perico
-- Decisión firme de Luis Enrique de cara al mercado tras las graves lesiones en ataque
-- Modric tiene que parar
-- Reunión Bayern-Musiala tras la tensión de los últimos días
-- Marc Santos, el 'cohete' de 16 años al que se le abren las puertas de la titularidad
-- De Jong desmiente el bulo local sobre Lamine y el GTA VI
-- Patri Guijarro deja abierto su futuro
-- "No tenemos nada que perder ante el Atlético, hay que ir a por todas"
-- "Queremos ayudar a los árbitros, pero ellos también deben ayudar"
-- "Me gusta mucho Baena me recuerda un poco a David Silva"
-- Euforia en Senegal: "Este triunfo reescribe la historia del fútbol africano"
-- 3-3: El Madrid lo intenta hasta el final pero no puede con el PSV
+- Joane Gadou, el central de casi dos metros que se fue del PSG y ya está en el punto de mira
+- Slavia Praga - Villarreal, en directo
+- 2-0: Gross abre al Atlético la puerta de los cruces de la Youth League
+- El Girona pierde a Izan, su pulmón en el centro del campo
+- El deseo de Cerezo para Simeone tras superar a Luis: "Quiero que gane la Champions"
+- Revolución en el once del Barça en Bakú
+- Toni Martínez: "En los últimos años hemos sido muy competitivos en el Bernabéu"
+- Zakaria Eddahchouri, refuerzo para el Depor ante el Barça
+- Sabah-Barça: la previa, en directo
+- Bruno Fernandes pide más estabilidad en el United
+- El Madrid se llena el bolsillo en esta Champions: esto es lo que lleva ganado y lo que podría acumular
+- Flick mantiene su apuesta por Joan Garcia en Bakú
+
+**Google News ES** (40)
+- Manu Fernández firma hasta 2029
+- UD Las Palmas y Football Science Institute conectan fútbol profesional y conocimiento científico
+- Reserva tu entrada para Vila-real
+- ¿De qué país es el Sabah Futbol Klubu, el rival del Barcelona en Champions?
+- Alineaciones Sabah vs FC Barcelona hoy: once inicial y banquillo de suplentes de Valdas Dambrauskas y Hansi Flick para la Champions League 2
+- Es política… no fútbol
+- El fútbol murciano se une a la Policía Nacional por una buena causa en un triangular benéfico en La Condomina
+- ‘Visit Rwanda’ conquista el fútbol europeo
+- El presidente de la RFEF desgrana los éxitos históricos “del año dorado del fútbol español” en una charla con los alumnos del ISDE | www.rfe
+- Mundial masculino Sub 17 de fútbol 2026: Equipos calificados 16vos de Final, cuándo son y horarios
+- La lista para viajar a Londres
+- Primera sesión para preparar el #CádizCórdoba
 
 **Gazzetta** (0)
 
 **Football Italia** (20)
-- Juventus captain Locatelli opens up on ‘one of the most difficult moments of my career’
-- Amorim on Milan links to Inácio: ‘We have Pavlovic and Diawara’
-- Fabregas issues hands-off warning for Como talent Nico Paz: ‘They’ve already come to sign him but he’s ours’
-- Rabiot matches Kaká feat as Milan seek to get extension over the line
-- PSG coach Enrique pinpoints Roma threat and praises Gasperini for ‘clear playing identity’
-- Barella: ‘Inter will have ups and downs, glass half full, we want to be Champions’
-- Chivu: ‘Inter shouldn’t be judged on 10 minutes against Atalanta’
-- Why Juventus might not choose Conte as Spalletti’s replacement
-- Report: Juventus, Inter, Napoli and five Premier League clubs want Monza’s Varela
-- Lazio ultras temporarily lift Stadio Olimpico boycott but not everybody agrees
-- Report: Napoli meet with McTominay agent in Manchester to discuss contract renewal
-- Zielinski at risk of missing Inter vs. VfB Stuttgart Champions League clash
+- How Donnarumma reacted to Napoli fans’ insults in Man City’s ‘theatre-like’ stadium
+- Neto: ‘Excited’ to play for Juventus again after almost ten years
+- Guardiola explains to Romario why he should be patient with Ancelotti
+- Pastore previews PSG vs. Roma: ‘Gasperini’s philosophy is clear, like Luis Enrique’
+- Spalletti angered by reporters: ‘How many times have you asked me about Vlahovic?’
+- Spalletti: ‘Ekhator will play against Omonoia, Yildiz is doing great’
+- Milan injury list rises to nine as Bartesaghi pulls up in training before Olympiacos
+- Only one club has had a better start to their first Champions League season than Como
+- Klinsmann: ‘Inter have to be very careful against Stuttgart, Esposito a step ahead of Tresoldi’
+- Camarda the latest on Milan’s list of eight absences for Olympiacos clash
+- Hojlund criticised for ‘one club in Manchester’ celebration in 2-2 Man City draw
+- Fast Withdrawals at Instant Payout Casino Sites: Best Fast Withdrawal Casino UK 2026
 
 **Kicker** (20)
-- LIVE! Villa zu Gast in Istanbul: Goretzka vorerst auf der Bank - Bodö gegen den LASK
-- USA richten auch 2028 die Copa America aus
-- Rössing-Lelesiit: Hamburgs Hoffnung aus dem Lazarett
-- Gute Nachrichten von Kleindienst und Bolin, aber Sorgen um Hack
-- Marokko kündigt Protest an: "Alle möglichen Rechtsmittel"
-- Kommt eine neue Anstoßzeit am Bundesliga-Samstag?
-- Mehr als eine Verlegenheitslösung: Knauff überzeugt auch als Rechtsverteidiger
-- Braunschweiger Duo fällt gegen Wolfsburg aus
-- Platzverweis gegen Liverpool: Yoro kommt ohne Sperre davon
-- Karl im Sturm? "Mehr Optionen gibt es nicht mehr"
-- Ruhr: "Es muss nicht immer alles harmonisch sein"
-- Eberl berichtet von Gespräch mit Musiala: "Konsens gefunden"
+- Mit Hertha in die Bundesliga? Seguins Vertrag hat sich automatisch verlängert
+- Ein Muster mit Wert führt zu Artetas Seiltanz
+- Auch dank Egwuatus traumhaftem Lupfer: Bayern-Nachwuchs feiert Dreier in Lille
+- Regionalliga-Reform: WDFV setzt auf den "Kompass"
+- "Überrascht" und "enttäuscht": So reagieren die FCB-Fans auf die Causa Musiala
+- Luxussituation für Thioune: "Normalerweise wird die Mannschaft noch besser"
+- Wer mehr von Schalkes Systemumstellung profitiert und wer weniger
+- VfB jubelt bei Inter nach frühem Doppelschlag
+- MSV Duisburg: Das endlose Thema Rasen kehrt zurück
+- Wolfsburger Winterpläne: Bayers Oermann ist ein heißer Kandidat
+- Upamecano als Stürmer? Was den Vorletzten Lille für Bayern gefährlich macht
+- Perisic nimmt Top 3 ins Visier: Die ältesten Torschützen der Königsklasse
 
 **L'Equipe** (40)
-- Finalement, les dirigeants de Guingamp ne rencontreront pas Cyril Hanouna
-- Qui pour remplacer Doué et Kvaratskhelia sur le côté gauche ?
-- Valdas Dambrauskas : « Nous montrer plutôt que nous cacher »
-- Dans le Bayern de Kompany, les latéraux sont aussi des n°10
-- Chivu : «Nous avons le devoir d'être la meilleure version de nous-mêmes»
-- Le RC Lens dans le top 10 après sa victoire face à Leipzig en Youth League
-- Le carton rouge concédé par Leny Yoro contre Liverpool annulé par la Fédération anglaise
-- Le collectif de supporters Les Roud Boys lance une pétition contre l'arrivée de Cyril Hanouna à Guingamp : « Ça met un chiffre sur la grogne
-- La Fédération royale marocaine conteste la décision du TAS de déclarer le Sénégal vainqueur de la CAN 2025
-- Après 2016 et 2024, les États-Unis vont de nouveau accueillir la Copa America en 2028
-- Gallais, la «gâchette» havraise qui s'est fait les croisés à 7 ans
-- Le TAS justifie sa décision de débouter le Maroc et de donner le Sénégal vainqueur de la CAN 2025 : « L'arbitre n'a commis aucune erreur de 
+- Le PSG s'incline face à l'AS Rome en Youth League et devra aller chercher sa qualification sur le terrain d'Aston Villa
+- Les tenues « third » les plus originales du PSG, qui a dévoilé celui de 2026 aux couleurs panafricaines
+- PSG-AS Rome, le match des mouvements permanents
+- Où voir Sabah FC - FC Barcelone ?
+- Pourquoi le PSG n'a jamais essayé de recruter Koné
+- Le fonds public saoudien envisage de céder jusqu'à 25 % du capital de Newcastle
+- Tous fans de Ngoy : «Il ne peut pas faire mieux à son âge»
+- Hanouna et le football, un désir contrarié
+- Du changement à la tête de la cellule médicale du LOSC
+- Les U19 du LOSC chutent contre le Bayern en Youth League et se retrouvent en danger avant la dernière journée à Stuttgart
+- Suspendu deux rencontres, Fermin Lopez va manquer le choc entre le Barça et l'Atlético
+- La mauvaise expérience de Davide Ancelotti au Bayern
 
 **Foot Mercato** (40)
-- DNCG : le verdict tombe pour le PFC, Auxerre, Le Mans et Toulouse
-- Coupe du Monde U17 : l’Équipe de France est déjà en grand danger !
-- Guingamp fait marche arrière avec Cyril Hanouna
-- Barça : Frenkie de Jong hilare après une question lunaire sur Lamine Yamal et GTA VI
-- CAN 2025 : le communiqué tant attendu de la CAF après la décision du TAS
-- Barça : Hansi Flick justifie l’absence de Lamine Yamal
-- CAN 2025 : pourquoi le Maroc n’a aucune chance de gagner au Tribunal fédéral suisse
-- CAN 2025 : le Sénégal jubile et se paye la tête du Maroc !
-- Youth League : le RC Lens renverse le RB Leipzig en Allemagne
-- Tottenham annonce la prolongation de Luca Williams-Barnett
-- CAN 2025 : le Sénégal sort du silence et appelle au calme avec le Maroc
-- CAN 2025 : la réaction très classe de Sadio Mané après la décision du TAS
+- CAN 2027 : la Mauritanie dépose une réclamation contre le Burkina Faso
+- Michael Olise fait trembler le Bayern Munich
+- Youth League : le PSG compromet ses chances de qualification après sa défaite contre l’AS Rome
+- Sabah FK - FC Barcelone : les compositions officielles
+- Rennes : un espoir du club va prolonger son contrat
+- Ligue des Champions, Borussia Dortmund : Joane Gadou a épaté l’Allemagne
+- Maroc, Sofyan Amrabat : « j’espère qu’à l’avenir, on pourra gagner sur le terrain »
+- Lens : la direction veut discuter avec Florian Thauvin
+- Coupe du Monde U17 : les Bleuets cartonnent l’Uruguay et filent en 16es
+- « Ça fait très colon » : Assou-Ekotto tacle encore Kylian Mbappé
+- Atlético de Madrid : comment Julián Álvarez est en train de reconquérir les Colchoneros
+- Barça : sanction confirmée pour Fermin Lopez
 
 **Record** (20)
-- <![CDATA[ Senegal com "profunda satisfação" por TAD confirmar o título na CAN'2025 ]]>
-- <![CDATA[ Tiago Fernandes lança Sporting na Youth League: «Queremos alimentar o sonho de ir o mais longe possível» ]]>
-- <![CDATA[ Cânticos homofóbicos e discriminatórios levam Millwall a encerrar quatro setores do estádio ]]>
-- <![CDATA[ Convocatória de Pochettino para Alvalade conta com regresso de peso na defesa ]]>
-- <![CDATA[ A geometria da felicidade ]]>
-- <![CDATA[ Feyenoord-FC Porto, em direto ]]>
-- <![CDATA[ Carole Costa já derrotou a Islândia no playoff para o Mundial: «Temos todas as condições para repetir a história» ]]>
-- <![CDATA[ Sinner confirma cirurgia que o afasta do Australian Open: «Tentei recuperar sem a operação...» ]]>
-- <![CDATA[ Sérgio Ferreira revela liga de sonho e agradece a Carvalhal: «Foi buscar-me aos sub-15 do FC Porto...» ]]>
-- <![CDATA[ FA retira vermelho a Leny Yoro e aponta erro ao árbitro do Liverpool-Manchester United ]]>
-- <![CDATA[ Al Nassr-Al Sadd, em direto ]]>
-- <![CDATA[ Portugal com 36 atletas nos Europeus de Corta-Mato de Belgrado ]]>
+- <![CDATA[ Há quem diga que é a melhor receção da história do críquete... e o protagonista nem sequer estava em campo ]]>
+- <![CDATA[ Já há árbitro para o clássico entre FC Porto e Sporting da Liga Betclic ]]>
+- <![CDATA[ Jhon Durán trabalha condicionado e pode ser resguardado do onze do Benfica ]]>
+- <![CDATA[ Competições profissionais registam menos pirotecnia na presente temporada ]]>
+- <![CDATA[ skate. recebe novo modo de jogo e chat de proximidade  ]]>
+- <![CDATA[ Benfiquistas desafiam temperaturas negativas e esgotam setor visitante ]]>
+- <![CDATA[ Organizadores pedem à UCI para retardar em uma semana o início do Giro em 2027 ]]>
+- <![CDATA[ Sabah-Barcelona, em direto ]]>
+- <![CDATA[ Estádio José Alvalade abre portas às crianças nas férias de Natal ]]>
+- <![CDATA[ Treinador do Viktoria Plzen reconhece: «Vêm cá jogadores que representam um clube enorme» ]]>
+- <![CDATA[ Baixa no Sp. Braga: Vitor Carvalho falha o KuPS devido a lesão ]]>
+- <![CDATA[ Kyoka Jiro junta-se a My Hero Ultra Rumble ]]>
 
 **Ole** (10)
-- Un viejo conocido: ¿quién es el delantero de 37 años que busca el Bayern Munich para reemplazar a Harry Kane?
-- La banca del Cholo Simeone a Julián Alvarez: "Los goles seguramente aparecerán"
-- Diego Flores y la advertencia a River: "No intimida" y "va a tener que hacer mucho porque vamos a dejar la vida"
-- Manchester City vs. Napoli, hoy EN VIVO por la Champions League: posibles formaciones, horario y por dónde ver
-- Como vs. AEK Atenas, hoy EN VIVO por la Champions League: posibles formaciones, horario y por dónde ver
-- Así se construye una SUV de TC2000: Olé conoció las Geely que competirán en 2027
-- Es oficial: la Copa América 2028 se jugará en los Estados Unidos
-- Factos, milagros y resiliencias: qué pasó con Chapecoense después del trágico accidente aéreo
-- No se dan por vencidos: Marruecos irá a la justicia federal para recuperar la Copa Africana de Naciones
-- Jagger Herrera y Paredes: de la foto con su ídolo a ser campeones juntos en Boca
+- Video: todos los goles de Argentina - Dinamarca por el Mundial Sub 17
+- Nery Pumpido con Olé: "La Copa Libertadores es la más linda del mundo"
+- Se filtró un boletín de Messi en la primaria: ¿cómo le iba en la escuela?
+- ¿Qué pasa con Garnacho? Borró sus fotos con Aston Villa tras no ir ni al banco en la Champions
+- “No sabe perder”: Kevin Vallejos le respondió a Aljamain Sterling tras su triunfo en la UFC
+- River espera por Marcos Acuña y Lucas Beltrán: la prueba que definirá si juegan ante Instituto
+- Mastantuono y un pedido de disculpas a los hinchas de la Fiorentina tras la derrota ante Monza: "Este equipo va a salir adelante"
+- Qué dijo la Confederación Africana de Fútbol tras el fallo del TAS sobre Senegal - Marruecos
+- Volver al lugar donde nació todo: Estudiantes, Palmeiras y una final que parece escrita por el destino
+- Oficial: Santiago del Estero será la sede de la final entre Boca y Platense
 
 **Infobae** (40)
-- Las dos glorias de Boca que confirmaron su presencia en la despedida de Carlos Tevez y cuándo se venderán las entradas
-- “El sexo vende”: la ultramaratonista Camille Herron ganó en un mes de OnlyFans más que en un año de contrato con Nike
-- “Su mejor actuación de la temporada”: las repercusiones en los medios del mundo tras la tarea de Franco Colapinto en el GP de Las Vegas
-- Oficial: la Copa América 2028 se disputará en Estados Unidos y sumará a seis selecciones de Concacaf
-- Con Enzo Fernández y Nico Paz como protagonistas, se inicia la fecha 5 de la Champions League: la agenda completa
-- Tras su mejor actuación en Fórmula 1, Franco Colapinto adelantó cuál es el gran riesgo que afrontará en el Gran Premio de Qatar
-- Punto final: Senegal fue declarado campeón de la Copa Africana de Naciones a casi un año de la escandalosa final ante Marruecos
-- Las 7 conclusiones que sacó el Vasco Arruabarrena tras el título de Copa Sudamericana de Boca Juniors
-- Sorpresa en las elecciones de Independiente: cinco candidatos presentaron sus listas y marcarán un hito en la historia del club
-- Impacto argentino en la UFC: Kevin Chino Vallejos se convirtió en el N°3 del mundo y quedó a un paso de pelear por el título mundial
-- El Super Bowl LXI se proyectará en cines IMAX de cuatro países: fecha, horario y venta de boletos
-- Crece la preocupación por la salud de Jamal Musiala tras sufrir un nuevo colapso: la “reunión secreta” en Bayern Múnich para definir su futu
+- En un partidazo, Argentina empata 3-3 con Dinamarca en la última fecha de la fase de grupos del Mundial Sub 17
+- Se confirmó la sede, hora y fecha de la final de la Copa Argentina entre Boca Juniors y Platense: cuántos millones recibirá el campeón
+- Tras ganar la Copa Sudamericana, Boca Juniors jugará con Independiente Rivadavia por los octavos de final del Clausura: hora, TV y formacion
+- La explicación de Nico Paz sobre su foto viral con la camiseta de Boca Juniors cuando era niño
+- Revelaron detalles de la crítica relación entre Leclerc y Hamilton en Ferrari: la inesperada traición y el pacto que se quebró en Las Vegas
+- La foto familiar que subió Antonela Roccuzzo del cumpleaños de Thiago y llamó la atención por la curiosa camiseta de Mateo
+- La misteriosa acompañante de Manuel Neuer en su viaje por Brasil que sorprendió tras un resonante divorcio días después de ser padre
+- “Fijate por donde caminás, alineate”: las historias de los policías que cambiaron de bando y se hicieron barrabravas
+- Polémica en la UFC: la respuesta del argentino Kevin Vallejos a su rival tras acusarlo de usar un exceso de vaselina en su histórico triunfo
+- La separación de una figura del tenis y una reconocida futbolista que causó impacto en el mundo del deporte
+- El lazo desconocido con Argentina de un subcampeón del mundo de F1: su búsqueda familiar tras el exilio por la Guerra Civil española
+- El Inter de Lautaro Martínez y el Atlético de Madrid de Julián Álvarez salen a la cancha por la fecha 5 de la Champions League: la agenda de
+
+**Google News AR** (40)
+- La Selección de Fútbol Playa completó una pretemporada de trabajo de tres semanas
+- FÚTBOL, ATLETISMO, CANOTAJE, HANDBALL, ZUMBA, RECREO, DUATLÓN Y MÁS… UN MEGA FIN DE SEMANA DEPORTIVO EN SAN RAFAEL
+- El Kempes recibió la gran final de la Liga Empate
+- Milei iba a hablar de fútbol en un stream, pero el dólar lo frenó
+- Los Pioneros llevaron el fútbol para ciegos al Gigante de Alberdi | 25 de noviembre de 2026
+- ¡Los Lobitos visitaron al Verdolaga!
+- Otra salida que golpea al fútbol femenino de Gimnasia: se va Milagros Oliver, una histórica del Lobo
+- Bomba en el Ascenso: Ferro va por dos campeones del fútbol argentino
+- Chocó contra una pared jugando al fútbol en Flores, se fracturó el tobillo y la Justicia ordenó indemnizarlo con $17.000.000
+- Mundial masculino Sub 17 de fútbol 2026: Equipos calificados 16vos de Final, cuándo son y horarios
+- El fútbol argentino recuerda a Diego Armando Maradona a seis años de su muerte
+- Fútbol local: semifinales confirmadas en reserva y sexta división
 
 **ge.globo** (40)
-- PSG x Roma na Champions League: onde assistir ao vivo e horário
-- Treino do Corinthians: Seedorf prepara mudanças na escalação para enfrentar o Atlético-MG
-- Vasco goleia o Flamengo por 5 a 0, atropela no agregado e vai à final da Copa Rio Sub-17 contra o Botafogo
-- Missão taça: conheça as regras do Flamengo para levar o troféu para o estádio do Palmeiras
-- Paredes, do Boca Juniors, passa por novos exames após desmaio em final
-- Libertadores 2027: veja os classificados e quem pode ainda garantir vaga
-- NFL: assista aos melhores momentos dos jogos da Semana 11
-- Flamengo atualiza painel de títulos do Ninho do Urubu depois de nova conquista do Brasileirão
-- Fluminense enfrenta o Cruzeiro com 12 pendurados e pode perder atletas para última rodada do Brasileiro; lista
-- Por que Marcelo de Lima Henrique iniciou entrevista coletiva do Botafogo? Entenda decisão
-- Gerente do Brusque revela a negociação com o técnico Raul Cabral: "Fechar nessa semana"
-- Corinthians critica pedido de intervenção judicial e alerta sobre riscos às negociações
+- Sabah x Barcelona - Liga dos Campeões 2026/2027 - Ao vivo - globoesporte.com
+- Da rotina em casa à decisão na Série B: como o zagueiro do Criciúma controla a ansiedade
+- Jogador cuiabano de 18 anos formado por Grêmio e São Paulo estreia pelo Palmeiras
+- Palmeiras deixa CT com festa da torcida antes do embarque para a final da Libertadores
+- Escalação do Palmeiras: Piquerez e Murilo avançam na recuperação e ficam perto de voltar
+- Paris Saint-Germain x Roma - Liga dos Campeões 2026/2027 - globoesporte.com
+- Sporting x Manchester United - Liga dos Campeões 2026/2027 - globoesporte.com
+- Lille x Bayern de Munique - Liga dos Campeões 2026/2027 - globoesporte.com
+- Compre um, leve outro: Botafogo faz promoção de ingressos para o jogo contra o Bahia
+- Bap trata saída de Jardim do Flamengo como rumor, mas pondera: "É casamento, a outra parte precisa querer"
+- Ídolo do Atlético-MG, Reinaldo critica time e defende saída de Barba: "Coisa de professor pardal"
+- Copinha 2027: técnico do Fluminense-PI sub-20, Carlos Alberto avalia grupo do Tricolor na disputa
 
-Fallaron: Goal (HTTPError), Independent (ParseError), Football365 (HTTPError), Google News EN (HTTPError), Marca (HTTPError), Sport (HTTPError), Google News ES (HTTPError), Calciomercato (HTTPError), TN (HTTPError), Google News AR (HTTPError), r/soccer (top día) (HTTPError)
+Fallaron: ESPN (ParseError), Goal (HTTPError), Independent (ParseError), Football365 (HTTPError), Marca (HTTPError), Sport (HTTPError), Calciomercato (HTTPError), TN (HTTPError), r/soccer (top día) (HTTPError)
