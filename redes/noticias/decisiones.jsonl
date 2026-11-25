@@ -260,3 +260,7 @@
 {"t": "2026-11-23T18:41+00:00", "estado": "descartar", "temas": ["Manchester"], "clave": "man-city-winless-run", "motivo": "importancia 6 < 7"}
 {"t": "2026-11-24T18:11+00:00", "estado": "revisar", "temas": ["Senegal"], "clave": "senegal-afcon-2025", "motivo": "categoría sensible: legal"}
 {"t": "2026-11-25T17:34+00:00", "estado": "publicado", "temas": ["Arsenal"], "clave": "arsenal-dortmund-ucl", "video": "https://raw.githubusercontent.com/oundialae-debug/live/main/media/noticias/2026-11-25_1833_arsenal-dortmund-ucl.mp4"}
+{"t": "2026-11-25T17:34+00:00", "estado": "descartar", "temas": ["Bayern"], "clave": "bayern-musiala-health-talks", "motivo": "calidad 6 < 7"}
+{"t": "2026-11-25T17:34+00:00", "estado": "descartar", "temas": ["Bellingham"], "clave": "jude-bellingham-contract", "motivo": "falta question"}
+{"t": "2026-11-25T17:34+00:00", "estado": "revisar", "temas": ["Sterling"], "clave": "raheem-sterling-sentencing", "motivo": "categoría sensible: legal"}
+{"t": "2026-11-25T17:34+00:00", "estado": "descartar", "temas": ["Villa", "Aston"], "clave": "aston-villa-galatasaray", "motivo": "importancia 6 < 7"}

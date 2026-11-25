@@ -1143,3 +1143,12 @@
 - Sky Sports: Senegal confirmed AFCON 2025 champions after appeal
 - ESPN: Senegal reinstated as Africa Cup of Nations winners over Morocco by CAS ruling
 
+## 25/11 18:34 · Sterling Sentenced · revisar
+- Motivo: categoría sensible: legal
+- Temas: Sterling
+- BBC: Raheem Sterling - from national icon to suspended jail sentence
+- Guardian: Raheem Sterling avoids jail over reckless driving while using nitrous oxide
+- Sky Sports: Sterling given suspended jail sentence for dangerous driving
+- talkSPORT: Raheem Sterling sentenced for dangerous driving after crashing Lamborghini on motorway
+- Daily Mail: Raheem Sterling avoids jail for £270,000 Lamborghini crash: England star handed suspended prison sentence after telling court he underwent 12-day rehab stint for laughing gas 'problem'
+
