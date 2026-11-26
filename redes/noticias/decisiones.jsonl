@@ -264,3 +264,8 @@
 {"t": "2026-11-25T17:34+00:00", "estado": "descartar", "temas": ["Bellingham"], "clave": "jude-bellingham-contract", "motivo": "falta question"}
 {"t": "2026-11-25T17:34+00:00", "estado": "revisar", "temas": ["Sterling"], "clave": "raheem-sterling-sentencing", "motivo": "categoría sensible: legal"}
 {"t": "2026-11-25T17:34+00:00", "estado": "descartar", "temas": ["Villa", "Aston"], "clave": "aston-villa-galatasaray", "motivo": "importancia 6 < 7"}
+{"t": "2026-11-26T17:15+00:00", "estado": "revisar", "temas": ["Bellingham"], "clave": "bellingham-goal-contract", "motivo": "datos que no salen en los titulares: Manchester"}
+{"t": "2026-11-26T17:15+00:00", "estado": "revisar", "temas": ["Bayern", "Liverpool"], "clave": "bayern-liverpool-transfer", "motivo": "datos que no salen en los titulares: 13"}
+{"t": "2026-11-26T17:15+00:00", "estado": "revisar", "temas": ["Manchester"], "clave": "manchester-clubs-turmoil", "motivo": "palabra sensible en los titulares: Bombshell"}
+{"t": "2026-11-26T17:15+00:00", "estado": "revisar", "temas": ["Guardiola"], "clave": "guardiola-national-team", "motivo": "datos que no salen en los titulares: States"}
+{"t": "2026-11-26T17:15+00:00", "estado": "descartar", "temas": ["Europa"], "clave": "europa-league-lightning", "motivo": "importancia 6 < 7"}

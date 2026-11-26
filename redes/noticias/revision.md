@@ -1152,3 +1152,39 @@
 - talkSPORT: Raheem Sterling sentenced for dangerous driving after crashing Lamborghini on motorway
 - Daily Mail: Raheem Sterling avoids jail for £270,000 Lamborghini crash: England star handed suspended prison sentence after telling court he underwent 12-day rehab stint for laughing gas 'problem'
 
+## 26/11 18:15 · Bellingham’s stunning goal · revisar
+- Motivo: datos que no salen en los titulares: Manchester
+- Temas: Bellingham
+- BBC: 'Best midfielder in the world' - where does Bellingham rank?
+- Guardian: ‘He’s more elegant’: Bellingham downplays Zidane comparisons after wondergoal
+- Guardian: Premier League sides stumble in Europe and Bellingham brilliance | Football Weekly video
+- talkSPORT: Jude Bellingham rejected huge Man United contract for one reason
+- Daily Mail: 'Class act' Jude Bellingham praised for standing up for female journalist in chaotic post-match press huddle after he scored 'the best goal of my life'
+
+## 26/11 18:15 · Bayern eye Liverpool defender · revisar
+- Motivo: datos que no salen en los titulares: 13
+- Temas: Bayern, Liverpool
+- BBC: How to unearth young stars, the Bayern Munich way
+- talkSPORT: Punter waits on Bayern Munich for a mammoth £57k 18-fold acca win
+- Planet Football: Bayern star creeping up on sublime Barcelona duo in WhoScored rankings for 2026-27
+- FourFourTwo: Extraordinary Liverpool transfer emerges, with Bayern Munich 'increasingly likely' to make controversial move: report
+- Yahoo: Champions League returns with Barça, PSG, Bayern & Man Utd all in action
+
+## 26/11 18:15 · Manchester clubs in focus · revisar
+- Motivo: palabra sensible en los titulares: Bombshell
+- Temas: Manchester
+- BBC: Are Manchester United this season's Tottenham?
+- Guardian: Football Daily | Manchester City get that empty feeling as they fail to win again
+- FourFourTwo: Watch Sporting CP vs Manchester United: FREE Streams
+- FourFourTwo: Bombshell Manchester City report emerges, with Enzo Maresca fighting for job ALREADY
+- FourFourTwo: The Big Manchester United Crossword
+
+## 26/11 18:15 · Guardiola eyes national role · revisar
+- Motivo: datos que no salen en los titulares: States
+- Temas: Guardiola
+- Guardian: Guardiola says next coaching role will be with a national team amid USA links
+- Mirror: Enzo Maresca continues to show he isn't Pep Guardiola as Man City fight comes too late
+- Mirror: Pep Guardiola 'embarrassed' by Italy job offer as he drops hint on his 'next step'
+- Yahoo: Guardiola explains to Romario why he should be patient with Ancelotti
+- Yahoo: Pep Guardiola says a national team job is his 'next step' as USMNT seeks Mauricio Pochettino replacement
+
