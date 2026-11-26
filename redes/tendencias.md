@@ -1,37 +1,36 @@
-# Tendencias de fútbol (2026-11-25 17:32 UTC, Google Trends)
+# Tendencias de fútbol (2026-11-26 17:14 UTC, Google Trends)
 
 Generado por el workflow `tendencias`. Úsalo para elegir temas de memes, curiosos y jugador vs jugador.
 
 | País | Búsqueda | Tráfico | Titular |
 |---|---|---|---|
-| UK | sabah baku – fc barcelona | 500+ | Sabah FK vs Barcelona: UEFA Champions League stats & head-to-head |
-| UK | sabah vs barcelona | 10000+ | Sabah - FC Barcelona, en directo, el partido de la Champions League en vivo | Fútbol | Deportes |
-| UK | slavia praha vs villarreal | 1000+ | Slavia Prague vs Villarreal: UEFA Champions League stats & head-to-head |
-| UK | shakhtar donetsk | 200+ | Shakhtar Donetsk vs Fenerbahçe: UEFA Champions League stats & head-to-head |
-| Spain | ayuntamiento de madrid | 200+ | Una víctima de violencia machista, en un acto del Ayuntamiento de Madrid: “Vuestras políticas no me  |
-| Spain | slavia praha - vila-real | 200+ | Slavia Prague vs Villarreal: UEFA Champions League stats & head-to-head |
-| Spain | slavia praga - villarreal | 5000+ | Slavia Praga - Villarreal en directo: UEFA Champions League hoy, en vivo |
-| Spain | sabah futbol klubu - barcelona | 50000+ | Sabah - FC Barcelona, en directo, el partido de la Champions League en vivo | Fútbol | Deportes |
-| Italy | sabah vs barcelona | 1000+ | Sabah Baku vs Barcelona de Champions League 2026/2027: horario y dónde ver hoy por TV online el part |
-| Italy | youth league | 200+ | Youth League, la Primavera battuta dallo Stoccarda |
-| Germany | sabah baku – fc barcelona | 2000+ | Sabah FA vs Barcelona - Prediction, where to watch, kick-off time and line-ups 25-11-2026 |
-| Germany | slavia prag – villarreal | 1000+ | Preview: Slavia Prague vs Villarreal - prediction, team news, lineups |
-| France | fenerbahçe | 500+ | Emre Belözoğlu: 'İlk 24'e kalacağız!' Shakhtar-Fenerbahçe maçı öncesi Arda Turan'ın sözlerine yanıt. |
-| France | sabah football club | 200+ | Sabah vs Barcelona: Date, Time and Everything You Need to Know About the Champions League Clash |
-| France | sabah vs barcelona | 1000+ | El Barça viaja a los confines de la UEFA para enfrentarse al Sabah en Champions |
-| France | sabah football club – barcelone | 20000+ | « Si je perds, c'est sûr que je ne récupérerai pas de maillot » : Steve Solvet, le défenseur venu de |
-| USA | sabah vs barcelona | 20000+ | Flick elige cualidad de De Jong y explica estado de Lamine y Cubarsí |
-| USA | slavia praha vs villarreal | 5000+ | Slavia Prague vs Villarreal: UEFA Champions League stats & head-to-head |
-| USA | barcelona vs sabah | 1000+ | Three talking points ahead of Sabah vs Barcelona | UEFA Champions League |
-| Argentina | sabah vs barcelona | 200+ | Cuándo juegan Sabah vs. Barcelona por la UEFA Champions League: equipo, fecha, hora y TV en vivo |
-| Argentina | mundial sub17 | 200+ | Ecuador empató contra Uganda y quedó a un paso de la clasificación en el Mundial Sub-17 de Qatar |
-| Argentina | slavia praga - villarreal | 1000+ | Slavia Praga vs Villarreal, en vivo, por la Champions League: minuto a minuto y qué canal pasa el pa |
-| Brazil | sabah futbol klubu x barcelona | 50000+ | Sabah FK vs Barcelona: UEFA Champions League stats & head-to-head |
-| Brazil | sabah vs barcelona | 500+ | Sabah - FC Barcelona, en directo, el partido de la Champions League en vivo | Fútbol | Deportes |
-| Brazil | du queiroz | 500+ | No Azerbaijão, Du Queiroz realiza sonho na Champions e projeta duelo com o Barcelona |
-| Portugal | sabah vs barcelona | 500+ | Pronóstico Sabah FA vs Barcelona: ¿Continuarán los visitantes con su racha ganadora? |
-| Portugal | sporting manchester united | 2000+ | Aí está o melhor Sporting à Paulo Fonseca (o onze provável para o Manchester United) |
-| Mexico | sabah futbol klubu - barcelona | 50000+ | ¡EN VIVO! Barcelona visita a Sabah por la UEFA Champions League |
-| Mexico | slavia praga - villarreal | 2000+ | Slavia de Praga vs Villarreal en directo hoy: dónde ver el partido por televisión y online |
-| Mexico | villarreal vs | 200+ | Barcelona: Fermín, sancionado 2 partidos por la roja vs Villarreal |
-| Mexico | selección de fútbol sub-17 de dinamarca - argentina sub-17 | 500+ | Cuándo juegan Argentina vs. Dinamarca por el Mundial Sub 17: equipo, fecha, hora y TV en vivo |
+| UK | viktoria plzeň vs benfica | 200+ | Viktoria Plzeň vs Benfica: UEFA Europa League stats & head-to-head |
+| UK | brighton vs craiova | 5000+ | Brighton & Hove Albion vs Universitatea Craiova: UEFA Conference League stats & head-to-head |
+| UK | hearts vs monaco | 2000+ | Hearts vs Monaco: Prediction, Tips and Odds | Conference League |
+| UK | celta vs bournemouth | 5000+ | Celta Vigo vs Bournemouth: UEFA Europa League stats & head-to-head |
+| UK | olympiacos vs milan | 500+ | Olympiakos vs AC Milan: UEFA Europa League stats & head-to-head |
+| Spain | saburtalo - getafe | 1000+ | Saburtalo - Getafe en directo: UEFA Conference League hoy en vivo |
+| Spain | bournemouth | 100+ | Celta Vigo vs Bournemouth: UEFA Europa League stats & head-to-head |
+| Italy | celta vigo - afc bournemouth | 200+ | Bournemouth confirmed line-up for 5.45pm Celta Vigo clash |
+| Italy | olympiacos - milan | 20000+ | LIVE Alle 18.45 Olympiacos-Milan, le ufficiali: fuori Pulisic, Amorim sceglie Cisse. C'è Jashari |
+| Germany | celta – bournemouth | 200+ | Celta Vigo vs Bournemouth: UEFA Europa League stats & head-to-head |
+| Germany | dinamo – leverkusen | 5000+ | Matchday News: Targeting successful debut in Croatia |
+| Germany | taco bell pfungstadt | 100+ | Pfungstadt ist wegen Taco Bell in aller Munde |
+| France | olympiakos – ac milan | 2000+ | Gazzetta: AC Milan in Athens: last call for qualification |
+| France | marseille vs levski sofia | 200+ | Marseille vs Levski Sofia Confirmed Lineups |
+| France | conference league | 100+ | Honours, European run, 0–8… Everything you need to know about Hearts |
+| France | marseille – levski sofia | 20000+ | « Le Levski, c'est l'OM de Bulgarie » : le Français Mazire Soula présente l'adversaire de Marseille  |
+| France | viktoria plzen – benfica | 1000+ | Preview: Viktoria Plzen vs Benfica - prediction, team news, lineups |
+| USA | luther burden | 500+ | What to Expect From Luther Burden III When the Bears Visit the Lions on Thanksgiving |
+| USA | viktoria plzeň vs benfica | 200+ | "Play with courage and keep moving forward on our path" |
+| USA | brighton vs craiova | 1000+ | Brighton & Hove Albion vs Universitatea Craiova: UEFA Conference League stats & head-to-head |
+| USA | celta vs bournemouth | 1000+ | Celta Vigo vs Bournemouth: UEFA Europa League stats & head-to-head |
+| Argentina | olympiacos - milan | 200+ | Gazzetta: AC Milan in Athens: last call for qualification |
+| Brazil | olympiacos x milan | 2000+ | Olympiacos x Milan pela Europa League: onde assistir ao vivo, horário e escalação |
+| Brazil | hearts x mônaco | 500+ | Hearts x Monaco: onde assistir, escalações e arbitragem |
+| Portugal | olympiacos - milan | 500+ | Gazzetta: AC Milan in Athens: last call for qualification |
+| Portugal | joão neves | 1000+ | Roma e mão de Vitinha travam caminhada triunfal do PSG na Champions |
+| Portugal | luana do bem | 100+ | “O Céu Pode Esperar": Luana do Bem anuncia novo solo de stand-up |
+| Mexico | olympiacos - milan | 5000+ | ¿Qué significaría una buena actuación de la Hormiga ante el Milan? |
+| Mexico | kairat vs | 200+ | Licensable picture: UEFA Conference League - Kairat v Mjallby |
+| Mexico | al shabab | 200+ | Cómo conseguir entradas para el Al Nassr FC-Al Shabab: precios, fecha, ventas de última hora y más |
