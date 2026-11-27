@@ -1,36 +1,21 @@
-# Tendencias de fútbol (2026-11-26 17:14 UTC, Google Trends)
+# Tendencias de fútbol (2026-11-27 16:55 UTC, Google Trends)
 
 Generado por el workflow `tendencias`. Úsalo para elegir temas de memes, curiosos y jugador vs jugador.
 
 | País | Búsqueda | Tráfico | Titular |
 |---|---|---|---|
-| UK | viktoria plzeň vs benfica | 200+ | Viktoria Plzeň vs Benfica: UEFA Europa League stats & head-to-head |
-| UK | brighton vs craiova | 5000+ | Brighton & Hove Albion vs Universitatea Craiova: UEFA Conference League stats & head-to-head |
-| UK | hearts vs monaco | 2000+ | Hearts vs Monaco: Prediction, Tips and Odds | Conference League |
-| UK | celta vs bournemouth | 5000+ | Celta Vigo vs Bournemouth: UEFA Europa League stats & head-to-head |
-| UK | olympiacos vs milan | 500+ | Olympiakos vs AC Milan: UEFA Europa League stats & head-to-head |
-| Spain | saburtalo - getafe | 1000+ | Saburtalo - Getafe en directo: UEFA Conference League hoy en vivo |
-| Spain | bournemouth | 100+ | Celta Vigo vs Bournemouth: UEFA Europa League stats & head-to-head |
-| Italy | celta vigo - afc bournemouth | 200+ | Bournemouth confirmed line-up for 5.45pm Celta Vigo clash |
-| Italy | olympiacos - milan | 20000+ | LIVE Alle 18.45 Olympiacos-Milan, le ufficiali: fuori Pulisic, Amorim sceglie Cisse. C'è Jashari |
-| Germany | celta – bournemouth | 200+ | Celta Vigo vs Bournemouth: UEFA Europa League stats & head-to-head |
-| Germany | dinamo – leverkusen | 5000+ | Matchday News: Targeting successful debut in Croatia |
-| Germany | taco bell pfungstadt | 100+ | Pfungstadt ist wegen Taco Bell in aller Munde |
-| France | olympiakos – ac milan | 2000+ | Gazzetta: AC Milan in Athens: last call for qualification |
-| France | marseille vs levski sofia | 200+ | Marseille vs Levski Sofia Confirmed Lineups |
-| France | conference league | 100+ | Honours, European run, 0–8… Everything you need to know about Hearts |
-| France | marseille – levski sofia | 20000+ | « Le Levski, c'est l'OM de Bulgarie » : le Français Mazire Soula présente l'adversaire de Marseille  |
-| France | viktoria plzen – benfica | 1000+ | Preview: Viktoria Plzen vs Benfica - prediction, team news, lineups |
-| USA | luther burden | 500+ | What to Expect From Luther Burden III When the Bears Visit the Lions on Thanksgiving |
-| USA | viktoria plzeň vs benfica | 200+ | "Play with courage and keep moving forward on our path" |
-| USA | brighton vs craiova | 1000+ | Brighton & Hove Albion vs Universitatea Craiova: UEFA Conference League stats & head-to-head |
-| USA | celta vs bournemouth | 1000+ | Celta Vigo vs Bournemouth: UEFA Europa League stats & head-to-head |
-| Argentina | olympiacos - milan | 200+ | Gazzetta: AC Milan in Athens: last call for qualification |
-| Brazil | olympiacos x milan | 2000+ | Olympiacos x Milan pela Europa League: onde assistir ao vivo, horário e escalação |
-| Brazil | hearts x mônaco | 500+ | Hearts x Monaco: onde assistir, escalações e arbitragem |
-| Portugal | olympiacos - milan | 500+ | Gazzetta: AC Milan in Athens: last call for qualification |
-| Portugal | joão neves | 1000+ | Roma e mão de Vitinha travam caminhada triunfal do PSG na Champions |
-| Portugal | luana do bem | 100+ | “O Céu Pode Esperar": Luana do Bem anuncia novo solo de stand-up |
-| Mexico | olympiacos - milan | 5000+ | ¿Qué significaría una buena actuación de la Hormiga ante el Milan? |
-| Mexico | kairat vs | 200+ | Licensable picture: UEFA Conference League - Kairat v Mjallby |
-| Mexico | al shabab | 200+ | Cómo conseguir entradas para el Al Nassr FC-Al Shabab: precios, fecha, ventas de última hora y más |
+| Spain | álvaro arbeloa | 1000+ | Arbeloa vuelve a pescar en el Madrid |
+| Spain | colegio decroly madrid | 200+ | Las familias del Decroly salen a la calle para salvar el único colegio concertado laico de Chamberí: |
+| Italy | venezia bologna | 200+ | Serie A: si inizia oggi con Venezia-Bologna, domani tocca a Lazio e Inter - Venezia-Bologna, la DIRE |
+| Germany | heidenheim – fcn | 2000+ | FCN - „Spielen, wie das Wetter ist“: Klose will's jetzt schmuddelig |
+| Germany | bochum – darmstadt 98 | 2000+ | Hessen: Bochum – Darmstadt 98: Auswärtsschwäche in 2. Liga "nervt uns brutal" |
+| Germany | ballon d’or | 200+ | Kane will den nächsten Ballon d’Or – und adelt Olise |
+| USA | college football schedule | 2000+ | No such thing as a bad college football Rivalry Weekend schedule, plus LSU stuff |
+| USA | u17 world cup | 500+ | U-17 Boyz play for pride against Ivory Coast |
+| USA | toledo vs ohio | 1000+ | Miami (OH) 28-24 Western Michigan (Nov 24, 2026) Game Recap |
+| USA | ms state vs ole miss | 20000+ | How to watch Mississippi State vs Ole Miss: Live stream NCAA College Football, TV channel |
+| Argentina | adios apache | 5000+ | Tevez oficializó la presencia de Messi en su despedida en la cancha de Boca |
+| Brazil | mundial sub-17 | 2000+ | Costa Rica x Brasil pelo Mundial Sub-17: onde assistir ao vivo, horário e escalações |
+| Portugal | miguel vítor | 500+ | «Na nossa cultura não se apertam mãos ensanguentadas»: Miguel Vítor e a atitude de Kokçu |
+| Mexico | werder bremen | 100+ | „Heimspiel“ für Chiarodia |
+| Mexico | liga arabia | 100+ | El mago marroquí acapara las miradas en Arabia Saudí: ¿qué ha pasado? |
