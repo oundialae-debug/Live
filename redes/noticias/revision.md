@@ -1188,3 +1188,30 @@
 - Yahoo: Guardiola explains to Romario why he should be patient with Ancelotti
 - Yahoo: Pep Guardiola says a national team job is his 'next step' as USMNT seeks Mauricio Pochettino replacement
 
+## 27/11 17:56 · Europa League live action · revisar
+- Motivo: datos que no salen en los titulares: Europe
+- Temas: Europa
+- Sky Sports: Europa and Conference League LIVE! Bournemouth & Brighton in action
+- talkSPORT: Europa League team in emergency landing after plane ‘struck by lightning’
+- Planet Football: Can you name every team in the 2026-27 Europa League?
+- Yahoo: Europa League line-ups: Olympiacos vs. Milan
+- Yahoo: Europa and Conference League Liveblog: Olympiacos-Milan, Juventus-Omonia, Borac-Atalanta
+
+## 27/11 17:56 · Musiala Bayern controversy · revisar
+- Motivo: sin foto buena con cara visible
+- Temas: Musiala
+- Guardian: ‘Not Bayern-like’: Joshua Kimmich fumes at club’s treatment of Jamal Musiala
+- Daily Mail: Joshua Kimmich takes on Bayern Munich over 'unacceptable' treatment of Jamal Musiala: Club captain hits out at chiefs after they publicly undermined youngster following his health diagnosis
+- Google News ES: El fútbol sin compasión: caso Musiala
+- Kicker: Dreesen ruft bei Musiala neues Motto aus: "Kümmern, kümmern und nicht reden"
+- Kicker: Dreesen über Kimmich und Musiala: "Intern klären"
+
+## 27/11 17:56 · Chelsea news roundup · revisar
+- Motivo: palabra sensible en los titulares: bombshell
+- Temas: Chelsea
+- Sky Sports: Delap's chance at redemption against toothless Chelsea
+- talkSPORT: Tottenham and Chelsea stars come together to launch Card Cop store with community at its heart
+- talkSPORT: Shoppers rush for Kitbag’s football shirt sale at up to 60% off with discount code — Man U, Arsenal, Chelsea and more
+- talkSPORT: Football news LIVE: Pogba on Drive, Chelsea fitness update as Alonso addresses Fofana interview, Spurs injury blow
+- Daily Mail: Harry Maguire - the coach! Man United star spearheading innovative new AI training app Feedz - with Man United, Chelsea and Sunderland among those signing up for platform
+
